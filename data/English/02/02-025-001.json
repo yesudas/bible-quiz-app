@@ -1,0 +1,29 @@
+{
+  "id": "02-025-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 25,
+  "verse_reference": "Exodus 25:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How were the offerings for the sanctuary to be given?",
+  "options": [
+    "By force from every family",
+    "Only by the priests",
+    "By everyone whose heart prompted them to give",
+    "Only by the wealthy"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Moses to receive offerings from everyone whose heart moved them to give willingly."
+}

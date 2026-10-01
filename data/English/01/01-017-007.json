@@ -1,0 +1,30 @@
+{
+  "id": "01-017-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 17,
+  "verse_reference": "Genesis 17:12",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "At what age was every male in Abraham's household to be circumcised?",
+  "options": [
+    "At eight days old",
+    "At one month old",
+    "At one year old",
+    "At twelve years old"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God commanded that every male be circumcised when he was eight days old."
+}

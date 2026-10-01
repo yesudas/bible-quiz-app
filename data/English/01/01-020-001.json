@@ -1,0 +1,31 @@
+{
+  "id": "01-020-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 20,
+  "verse_reference": "Genesis 20:1-2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In which place did Abraham stay when he said Sarah was his sister?",
+  "options": [
+    "Hebron",
+    "Bethel",
+    "Egypt",
+    "Gerar"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Abraham",
+    "Sarah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham stayed in Gerar, where he said that Sarah was his sister."
+}

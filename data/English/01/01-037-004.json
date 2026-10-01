@@ -1,0 +1,30 @@
+{
+  "id": "01-037-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 37,
+  "verse_reference": "Genesis 37:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Joseph's first dream, what did the brothers' sheaves of grain do?",
+  "options": [
+    "They caught fire",
+    "They scattered in the wind",
+    "They bowed down to Joseph's sheaf",
+    "They turned into stars"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the dream, the brothers' sheaves gathered around and bowed down to Joseph's sheaf, which stood upright."
+}

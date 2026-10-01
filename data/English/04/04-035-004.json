@@ -1,0 +1,29 @@
+{
+  "id": "04-035-004",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 35,
+  "verse_reference": "Numbers 35:11-12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Who could flee to a city of refuge for protection?",
+  "options": [
+    "Anyone who had stolen something",
+    "A leader who had disobeyed",
+    "Someone who owed a debt",
+    "A person who killed someone accidentally"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Forgiveness"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A city of refuge protected a person who had killed someone by accident, keeping them safe from the avenger until a fair trial."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "04-010-007",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 10,
+  "verse_reference": "Numbers 10:35",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "When the ark set out, Moses said: 'Rise up, Lord! May your _____ be scattered.'",
+  "options": [
+    "enemies",
+    "clouds",
+    "people",
+    "troubles"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Worship",
+    "Prayer"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Whenever the ark set out, Moses said, 'Rise up, Lord! May your enemies be scattered; may your foes flee before you.'"
+}

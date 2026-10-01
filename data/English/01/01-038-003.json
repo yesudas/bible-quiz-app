@@ -1,0 +1,31 @@
+{
+  "id": "01-038-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 38,
+  "verse_reference": "Genesis 38:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Why did Er, Judah's firstborn, die?",
+  "options": [
+    "He was killed in battle",
+    "He was wicked in the Lord's sight, so the Lord put him to death",
+    "He died of an illness",
+    "He was struck by an accident"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Er",
+    "Judah"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Er was wicked in the sight of the Lord, so the Lord put him to death."
+}

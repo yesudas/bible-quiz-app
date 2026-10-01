@@ -1,0 +1,39 @@
+{
+  "id": "01-034-002",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 34,
+  "verse_reference": "उत्पत्ति 34:2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "उस देश के प्रधान हमोर हिव्वी के किस पुत्र ने दीना को देखकर उसका अनादर किया?",
+  "options": [
+    "अबीमेलेक",
+    "शकेम",
+    "सीहोन",
+    "बालक"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "पाप",
+    "अनादर"
+  ],
+  "characters": [
+    "शकेम",
+    "हमोर",
+    "दीना"
+  ],
+  "places": [
+    {
+      "name": "शकेम",
+      "type": "नगर"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "उस देश के प्रधान हमोर हिव्वी के पुत्र शकेम ने दीना को देखा और उसे ले जाकर उसका अनादर किया।"
+}

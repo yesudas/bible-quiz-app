@@ -1,0 +1,17 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Balak",
+    "label": "Balak",
+    "count": 7,
+    "paths": [
+        "English/04/04-022-001.json",
+        "English/04/04-022-002.json",
+        "English/04/04-023-001.json",
+        "English/04/04-023-004.json",
+        "English/04/04-023-007.json",
+        "English/04/04-024-004.json",
+        "English/04/04-024-006.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "04-020-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 20,
+  "verse_reference": "Numbers 20:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God tell Moses to do to bring water from the rock?",
+  "options": [
+    "Strike the rock with his staff",
+    "Dig beside the rock",
+    "Pour water on the rock",
+    "Speak to the rock"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Moses to take his staff and speak to the rock, and it would pour out water for the people and their animals."
+}

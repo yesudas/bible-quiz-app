@@ -1,0 +1,29 @@
+{
+  "id": "04-021-006",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 21,
+  "verse_reference": "Numbers 21:21-24",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which Amorite king refused Israel passage and was defeated, so Israel took his land?",
+  "options": [
+    "Balak",
+    "Sihon",
+    "Arad",
+    "Eglon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sihon king of the Amorites refused to let Israel pass and came out to fight, but Israel defeated him and took his land."
+}

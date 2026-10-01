@@ -1,0 +1,30 @@
+{
+  "id": "03-009-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 9,
+  "verse_reference": "Leviticus 9:23-24",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What amazing thing happened when the glory of the Lord appeared to all the people?",
+  "options": [
+    "Fire came out from the Lord and consumed the offering",
+    "A great wind swept through the camp",
+    "The ground shook violently",
+    "A cloud covered the whole camp for a week"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Miracles",
+    "Holiness"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 9:24 says fire came out from the presence of the Lord and consumed the burnt offering on the altar."
+}

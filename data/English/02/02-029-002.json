@@ -1,0 +1,31 @@
+{
+  "id": "02-029-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 29,
+  "verse_reference": "Exodus 29:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How was Aaron set apart as high priest?",
+  "options": [
+    "A crown was placed on him",
+    "Anointing oil was poured on his head",
+    "He was given a sword",
+    "He was carried on a throne"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses took the anointing oil and poured it on Aaron's head to anoint him and set him apart as high priest."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "04-031-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 31,
+  "verse_reference": "Numbers 31:6",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which priest went with the army, carrying the holy articles and the trumpets?",
+  "options": [
+    "Eleazar",
+    "Aaron",
+    "Phinehas",
+    "Ithamar"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [
+    "Phinehas"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Phinehas son of Eleazar went with the army, taking the holy articles and the trumpets for signaling."
+}

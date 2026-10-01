@@ -1,0 +1,30 @@
+{
+  "id": "01-001-004",
+  "language": "ka",
+  "book_no": 1,
+  "book": "ಆದಿಕಾಂಡ",
+  "chapter": 1,
+  "verse_reference": "ಆದಿಕಾಂಡ 1:6-8",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "ಎರಡನೆಯ ದಿನದಲ್ಲಿ ಜಲಗಳ ನಡುವೆ ಉಂಟಾದ ಆಕಾಶಮಂಡಲಕ್ಕೆ ದೇವರು ಏನೆಂದು ಹೆಸರಿಟ್ಟನು?",
+  "options": [
+    "ಭೂಮಿ",
+    "ಸಮುದ್ರ",
+    "ಗಾಳಿ",
+    "ಆಕಾಶ"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "ಸೃಷ್ಟಿ"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "ದೇವರು ಜಲಗಳನ್ನು ಬೇರ್ಪಡಿಸಿದ ಆಕಾಶಮಂಡಲಕ್ಕೆ 'ಆಕಾಶ' ಎಂದು ಕರೆದನು; ಇದು ಎರಡನೆಯ ದಿನವಾಯಿತು."
+}

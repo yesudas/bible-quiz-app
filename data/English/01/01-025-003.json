@@ -1,0 +1,29 @@
+{
+  "id": "01-025-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 25,
+  "verse_reference": "Genesis 25:7-8",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How old was Abraham when he died?",
+  "options": [
+    "One hundred years",
+    "One hundred seventy-five years",
+    "One hundred eighty years",
+    "Two hundred years"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham lived a hundred and seventy-five years, then breathed his last and died at a good old age."
+}

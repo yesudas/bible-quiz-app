@@ -1,0 +1,30 @@
+{
+  "id": "01-041-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 41,
+  "verse_reference": "Genesis 41:1-4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Pharaoh's first dream, what did the seven ugly, thin cows do?",
+  "options": [
+    "They ran into the Nile",
+    "They ate up the seven healthy cows",
+    "They lay down in the grass",
+    "They turned into grain"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Pharaoh's dream, seven thin and ugly cows came up from the Nile and ate the seven healthy, fat cows."
+}

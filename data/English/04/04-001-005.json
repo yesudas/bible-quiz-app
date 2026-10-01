@@ -1,0 +1,33 @@
+{
+  "id": "04-001-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 1,
+  "verse_reference": "Numbers 1:46",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the total number of men counted in the census?",
+  "options": [
+    "600,000",
+    "22,000",
+    "603,550",
+    "1,189,000"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The total number of men able to serve in the army was 603,550."
+}

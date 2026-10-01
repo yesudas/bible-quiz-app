@@ -1,0 +1,31 @@
+{
+  "id": "01-020-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 20,
+  "verse_reference": "Genesis 20:11-12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What reason did Abraham give for saying Sarah was his sister?",
+  "options": [
+    "He wanted to test Abimelek",
+    "He feared he would be killed because of her",
+    "He had forgotten she was his wife",
+    "He wanted gifts from the king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Abraham",
+    "Sarah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham feared the people had no fear of God and would kill him to take his wife, so he said Sarah was his sister; she was also his half-sister."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "02-035-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 35,
+  "verse_reference": "Exodus 35:34",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What special ability did God give Bezalel and Oholiab besides craftsmanship?",
+  "options": [
+    "The gift of prophecy",
+    "The power to heal",
+    "The ability to teach others",
+    "The strength of warriors"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Bezalel",
+    "Oholiab"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God gave Bezalel and Oholiab the ability to teach others, so their skills could be shared for the work of the tabernacle."
+}

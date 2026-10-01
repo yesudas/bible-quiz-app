@@ -1,0 +1,31 @@
+{
+  "id": "03-015-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 15,
+  "verse_reference": "Leviticus 15:1-3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What is the main subject of Leviticus 15?",
+  "options": [
+    "Laws about bodily discharges and cleanness",
+    "Rules for offering sacrifices",
+    "Instructions for building the altar",
+    "The appointment of the priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Holiness"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 15 gives laws about bodily discharges and how a person could become clean again."
+}

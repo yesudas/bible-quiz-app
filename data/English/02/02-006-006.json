@@ -1,0 +1,30 @@
+{
+  "id": "02-006-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 6,
+  "verse_reference": "Exodus 6:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What excuse did Moses again give for not speaking to Pharaoh?",
+  "options": [
+    "He was too busy",
+    "He spoke with faltering lips",
+    "He did not know the way",
+    "He was afraid of the desert"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses again said he spoke with faltering lips, doubting Pharaoh would listen to him."
+}

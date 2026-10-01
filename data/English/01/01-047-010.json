@@ -1,0 +1,32 @@
+{
+  "id": "01-047-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 47,
+  "verse_reference": "Genesis 47:29-31",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Jacob make Joseph promise before he died?",
+  "options": [
+    "To care for his brothers",
+    "To give up his position",
+    "Not to bury him in Egypt, but with his fathers in Canaan",
+    "To return all the land to the people"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Promise"
+  ],
+  "characters": [
+    "Jacob",
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob made Joseph swear not to bury him in Egypt, but to carry him out and bury him with his fathers in Canaan."
+}

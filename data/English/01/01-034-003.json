@@ -1,0 +1,33 @@
+{
+  "id": "01-034-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 34,
+  "verse_reference": "Genesis 34:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Shechem ask his father Hamor to do for him?",
+  "options": [
+    "To send Dinah away",
+    "To give him land near Jacob",
+    "To get Dinah as his wife",
+    "To make peace with Esau"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Marriage"
+  ],
+  "characters": [
+    "Shechem",
+    "Hamor",
+    "Dinah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Shechem told his father Hamor to get Dinah for him to be his wife."
+}

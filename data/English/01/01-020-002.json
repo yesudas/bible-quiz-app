@@ -1,0 +1,32 @@
+{
+  "id": "01-020-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 20,
+  "verse_reference": "Genesis 20:2",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who was the king that took Sarah after Abraham called her his sister?",
+  "options": [
+    "Pharaoh",
+    "Abimelek",
+    "Melchizedek",
+    "Kedorlaomer"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Abimelek",
+    "Sarah"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abimelek, king of Gerar, sent for Sarah and took her, believing she was Abraham's sister."
+}

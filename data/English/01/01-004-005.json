@@ -1,0 +1,31 @@
+{
+  "id": "01-004-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 4,
+  "verse_reference": "Genesis 4:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "When God asked Cain where his brother was, Cain replied, 'Am I my brother's ______?'",
+  "options": [
+    "keeper",
+    "helper",
+    "servant",
+    "friend"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Cain",
+    "God"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Cain answered God by asking, 'Am I my brother's keeper?' trying to deny responsibility."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "02-020-008",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 20,
+  "verse_reference": "Exodus 20:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What does the tenth commandment tell people not to do?",
+  "options": [
+    "Travel on the Sabbath",
+    "Speak to strangers",
+    "Covet anything that belongs to their neighbor",
+    "Build their own altar"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The tenth commandment says not to covet a neighbor's house, spouse, servants, animals, or anything that belongs to them."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "01-041-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 41,
+  "verse_reference": "Genesis 41:42",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Pharaoh give Joseph as signs of his new authority?",
+  "options": [
+    "A crown and a throne",
+    "A sword and a shield",
+    "A scroll and a seal",
+    "His signet ring, fine linen robes, and a gold chain"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh gave Joseph his signet ring, dressed him in fine linen, and put a gold chain around his neck."
+}

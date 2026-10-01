@@ -1,0 +1,33 @@
+{
+  "id": "01-021-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 21,
+  "verse_reference": "Genesis 21:17-19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did God save Hagar and her son in the desert?",
+  "options": [
+    "He sent rain to fill the streams",
+    "He opened her eyes to see a well of water",
+    "He led them back to Abraham",
+    "He gave them food from heaven"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Hope"
+  ],
+  "characters": [
+    "Hagar",
+    "Ishmael"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God heard the boy crying, and He opened Hagar's eyes so she saw a well of water and gave the boy a drink."
+}

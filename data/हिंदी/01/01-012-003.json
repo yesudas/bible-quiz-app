@@ -1,0 +1,37 @@
+{
+  "id": "01-012-003",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 12,
+  "verse_reference": "उत्पत्ति 12:4",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "हारान से निकलते समय अब्राम की आयु कितने वर्ष थी?",
+  "options": [
+    "65 वर्ष",
+    "70 वर्ष",
+    "75 वर्ष",
+    "80 वर्ष"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "इतिहास",
+    "बुलाहट"
+  ],
+  "characters": [
+    "अब्राम"
+  ],
+  "places": [
+    {
+      "name": "हारान",
+      "type": "City"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "उत्पत्ति 12:4 में स्पष्ट लिखा है कि जब अब्राम हारान से निकला, तब वह पचहत्तर (75) वर्ष का था।"
+}

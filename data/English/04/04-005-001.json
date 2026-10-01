@@ -1,0 +1,33 @@
+{
+  "id": "04-005-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 5,
+  "verse_reference": "Numbers 5:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God command about people who were unclean in the camp?",
+  "options": [
+    "They were to be sent outside the camp",
+    "They were to be given extra offerings",
+    "They were to lead the worship",
+    "They were to stay near the tabernacle"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Law",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God commanded that anyone who was unclean be sent outside the camp so they would not defile it, since the Lord dwelt among them."
+}

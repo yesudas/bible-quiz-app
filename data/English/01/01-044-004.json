@@ -1,0 +1,30 @@
+{
+  "id": "01-044-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 44,
+  "verse_reference": "Genesis 44:12",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In whose sack was Joseph's cup found?",
+  "options": [
+    "Reuben's",
+    "Judah's",
+    "Simeon's",
+    "Benjamin's"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Benjamin"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The steward searched from the oldest to the youngest, and the cup was found in Benjamin's sack."
+}

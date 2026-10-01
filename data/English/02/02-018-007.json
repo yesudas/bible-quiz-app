@@ -1,0 +1,32 @@
+{
+  "id": "02-018-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 18,
+  "verse_reference": "Exodus 18:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Moses respond to Jethro's advice?",
+  "options": [
+    "He refused to change anything",
+    "He sent Jethro away",
+    "He listened and did everything Jethro said",
+    "He asked God to remove Jethro"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses",
+    "Jethro"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses listened to his father-in-law and did everything he suggested, appointing capable men to help judge the people."
+}

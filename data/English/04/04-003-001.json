@@ -1,0 +1,36 @@
+{
+  "id": "04-003-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 3,
+  "verse_reference": "Numbers 3:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who were the sons of Aaron?",
+  "options": [
+    "Gershon, Kohath, and Merari",
+    "Moses, Aaron, and Miriam",
+    "Nadab, Abihu, Eleazar, and Ithamar",
+    "Shem, Ham, and Japheth"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Worship"
+  ],
+  "characters": [
+    "Aaron",
+    "Nadab",
+    "Abihu",
+    "Eleazar",
+    "Ithamar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Aaron's sons were Nadab, Abihu, Eleazar, and Ithamar."
+}

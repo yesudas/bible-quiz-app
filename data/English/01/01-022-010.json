@@ -1,0 +1,32 @@
+{
+  "id": "01-022-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 22,
+  "verse_reference": "Genesis 22:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "God promised to make Abraham's descendants as numerous as the stars in the sky and as the ______ on the seashore.",
+  "options": [
+    "shells",
+    "sand",
+    "waves",
+    "stones"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Because Abraham obeyed, God promised to make his descendants as numerous as the stars in the sky and the sand on the seashore."
+}

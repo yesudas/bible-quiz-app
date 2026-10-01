@@ -1,0 +1,30 @@
+{
+  "id": "04-015-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 15,
+  "verse_reference": "Numbers 15:22-25",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was to be done if the community sinned without meaning to?",
+  "options": [
+    "The whole community was put to death",
+    "An offering was made and they were forgiven",
+    "Nothing needed to be done",
+    "They were sent out of the land"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Forgiveness",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "For a sin committed unintentionally by the community, a sacrifice was offered and the whole community would be forgiven."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "01-028-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 28,
+  "verse_reference": "Genesis 28:20-22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What vow did Jacob make at Bethel?",
+  "options": [
+    "To never return home",
+    "To give God a tenth of all he received if God kept him safe",
+    "To build a great city there",
+    "To fast for many days"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Promise"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob vowed that if God kept him safe and brought him home, the LORD would be his God and he would give God a tenth of all he received."
+}

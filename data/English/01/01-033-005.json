@@ -1,0 +1,32 @@
+{
+  "id": "01-033-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 33,
+  "verse_reference": "Genesis 33:8-9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Esau's first response to the gift of animals Jacob sent?",
+  "options": [
+    "He refused, saying he already had plenty",
+    "He demanded more",
+    "He took them and left",
+    "He gave them to his men"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Forgiveness",
+    "Family"
+  ],
+  "characters": [
+    "Esau",
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Esau said he already had plenty and told Jacob to keep what he had for himself."
+}

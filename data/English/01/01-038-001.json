@@ -1,0 +1,30 @@
+{
+  "id": "01-038-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 38,
+  "verse_reference": "Genesis 38:1-2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which of Jacob's sons is the main figure in this chapter, who married a Canaanite woman?",
+  "options": [
+    "Reuben",
+    "Levi",
+    "Joseph",
+    "Judah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Judah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Judah left his brothers and married the daughter of a Canaanite named Shua."
+}

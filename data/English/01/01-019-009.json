@@ -1,0 +1,30 @@
+{
+  "id": "01-019-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 19,
+  "verse_reference": "Genesis 19:26",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened to Lot's wife when she looked back?",
+  "options": [
+    "She was struck blind",
+    "She turned to stone",
+    "She became a pillar of salt",
+    "She was carried away"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Obedience"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Lot's wife looked back as they fled, and she became a pillar of salt."
+}

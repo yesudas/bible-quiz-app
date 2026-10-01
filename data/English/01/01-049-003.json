@@ -1,0 +1,32 @@
+{
+  "id": "01-049-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 49,
+  "verse_reference": "Genesis 49:5-7",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two brothers did Jacob rebuke together for their anger and violence?",
+  "options": [
+    "Reuben and Judah",
+    "Dan and Gad",
+    "Simeon and Levi",
+    "Issachar and Zebulun"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Sin"
+  ],
+  "characters": [
+    "Simeon",
+    "Levi",
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob spoke against Simeon and Levi together, condemning their anger and cruelty and saying they would be scattered in Israel."
+}

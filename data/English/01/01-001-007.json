@@ -1,0 +1,31 @@
+{
+  "id": "01-001-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 1,
+  "verse_reference": "Genesis 1:29",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God give the people for food when He created them?",
+  "options": [
+    "Every seed-bearing plant and fruit tree",
+    "The animals of the field",
+    "The fish of the sea",
+    "Bread from heaven"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation",
+    "Provision"
+  ],
+  "characters": [
+    "God"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God gave mankind every seed-bearing plant and every tree with fruit for food."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "02-011-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 11,
+  "verse_reference": "Exodus 11:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Israelites ask the Egyptians to give them?",
+  "options": [
+    "Articles of silver and gold",
+    "Land in Egypt",
+    "Chariots and horses",
+    "Food and water"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites asked their Egyptian neighbors for articles of silver and gold, and the LORD made the Egyptians favorable toward them."
+}

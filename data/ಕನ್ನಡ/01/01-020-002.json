@@ -1,0 +1,40 @@
+{
+  "id": "01-020-002",
+  "language": "ka",
+  "book_no": 1,
+  "book": "ಆದಿಕಾಂಡ",
+  "chapter": 20,
+  "verse_reference": "ಆದಿಕಾಂಡ 20:2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "ಗರಾರಿನ ಅರಸನಾಗಿದ್ದು, ಸಾರಾಳನ್ನು ಕರೆಸಿಕೊಂಡ ರಾಜನ ಹೆಸರೇನು?",
+  "options": [
+    "ಫರೋಹ",
+    "ಅಬೀಮೆಲೆಕ್",
+    "ಅಮ್ರಾಫೆಲ್",
+    "ಓಗ್"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "ಇತಿಹಾಸ",
+    "ರಾಜ್ಯ"
+  ],
+  "characters": [
+    "ಅಬ್ರಹಾಮ",
+    "ಸಾರಾ",
+    "ಅಬೀಮೆಲೆಕ್"
+  ],
+  "places": [
+    {
+      "name": "ಗರಾರ್",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "ಗರಾರಿನ ಅರಸನಾದ ಅಬೀಮೆಲೆಕನು ಅಬ್ರಹಾಮನ ಹೆಂಡತಿಯಾದ ಸಾರಾಳನ್ನು ತನ್ನ ಬಳಿಗೆ ಕರೆಸಿಕೊಂಡನು."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "04-002-004",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 2,
+  "verse_reference": "Numbers 2:17",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where was the tent of meeting located when the people set out?",
+  "options": [
+    "At the very front of the marching tribes",
+    "In the middle of the camps, moving with the Levites",
+    "At the back behind all the tribes",
+    "Carried on the east side only"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tent of Meeting",
+      "type": "tent"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The tent of meeting and the camp of the Levites set out in the middle of the camps, keeping the same order as when they camped."
+}

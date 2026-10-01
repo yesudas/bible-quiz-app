@@ -1,0 +1,30 @@
+{
+  "id": "03-001-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 1,
+  "verse_reference": "Leviticus 1:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What condition did an animal from the herd need to meet to be an acceptable burnt offering?",
+  "options": [
+    "It had to be a male without defect",
+    "It had to be a female with young",
+    "It had to be the firstborn only",
+    "It had to be older than three years"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Sacrifice",
+    "Holiness"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 1:3 says a burnt offering from the herd must be a male without defect, offered at the entrance to the tent of meeting."
+}

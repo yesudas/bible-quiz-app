@@ -1,0 +1,29 @@
+{
+  "id": "02-020-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 20,
+  "verse_reference": "Exodus 20:4-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does the second commandment forbid?",
+  "options": [
+    "Working on the Sabbath",
+    "Making and worshiping idols or images",
+    "Telling lies",
+    "Taking someone's property"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The second commandment forbids making idols or images and bowing down to worship them."
+}

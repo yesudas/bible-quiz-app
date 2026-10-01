@@ -1,0 +1,31 @@
+{
+  "id": "01-020-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 20,
+  "verse_reference": "Genesis 20:16",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How much silver did Abimelek give to Sarah's brother Abraham?",
+  "options": [
+    "A hundred pieces",
+    "Five hundred pieces",
+    "A thousand pieces",
+    "Ten thousand pieces"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Abimelek",
+    "Abraham",
+    "Sarah"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abimelek gave a thousand shekels of silver to Abraham to prove Sarah's honor before all who were with her."
+}

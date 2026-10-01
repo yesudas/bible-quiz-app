@@ -1,0 +1,31 @@
+{
+  "id": "01-022-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 22,
+  "verse_reference": "Genesis 22:6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who carried the wood for the burnt offering up the mountain?",
+  "options": [
+    "Abraham",
+    "A servant",
+    "Isaac",
+    "An angel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [
+    "Isaac",
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham placed the wood on his son Isaac, who carried it, while Abraham carried the fire and the knife."
+}

@@ -1,0 +1,47 @@
+{
+  "id": "01-002-005",
+  "language": "ka",
+  "book_no": 1,
+  "book": "ಆದಿಕಾಂಡ",
+  "chapter": 2,
+  "verse_reference": "ಆದಿಕಾಂಡ 2:10-14",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "ಏದೆನ್ ತೋಟದಿಂದ ಹೊರಟು ನಾಲ್ಕು ಶಾಖೆಗಳಾಗಿ ಹರಿದ ನದಿಗಳಲ್ಲಿ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಸೇರಿಲ್ಲ?",
+  "options": [
+    "ಪೀಶೋನ್",
+    "ಗೀಹೋನ್",
+    "ಹಿದ್ದೆಕೆಲ್",
+    "ಯೊರ್ದನ್"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "ಸೃಷ್ಟಿ",
+    "ಸ್ಥಳ"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "ಪೀಶೋನ್",
+      "type": "river"
+    },
+    {
+      "name": "ಗೀಹೋನ್",
+      "type": "river"
+    },
+    {
+      "name": "ಹಿದ್ದೆಕೆಲ್",
+      "type": "river"
+    },
+    {
+      "name": "ಯೂಫ್ರಟೀಸ್",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "ಏದೆನಿನಿಂದ ಹರಿದ ನದಿಯ ನಾಲ್ಕು ಶಾಖೆಗಳು ಪೀಶೋನ್, ಗೀಹೋನ್, ಹಿದ್ದೆಕೆಲ್ ಮತ್ತು ಯೂಫ್ರಟೀಸ್; ಇದರಲ್ಲಿ ಯೊರ್ದನ್ ನದಿ ಸೇರಿಲ್ಲ."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "01-050-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 50,
+  "verse_reference": "Genesis 50:26",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "How old was Joseph when he died?",
+  "options": [
+    "One hundred years",
+    "One hundred and ten years",
+    "One hundred and thirty years",
+    "Ninety years"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph died at the age of a hundred and ten, and he was embalmed and placed in a coffin in Egypt."
+}

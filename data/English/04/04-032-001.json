@@ -1,0 +1,35 @@
+{
+  "id": "04-032-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 32,
+  "verse_reference": "Numbers 32:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which tribes wanted to settle in the land east of the Jordan?",
+  "options": [
+    "Judah and Benjamin",
+    "Reuben and Gad",
+    "Levi and Simeon",
+    "Ephraim and Dan"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gilead",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The tribes of Reuben and Gad, who had very large herds, wanted the land of Jazer and Gilead, which was good for livestock."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "01-027-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 27,
+  "verse_reference": "Genesis 27:5-10",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who planned for Jacob to receive the blessing meant for Esau?",
+  "options": [
+    "Rebekah, his mother",
+    "Isaac, his father",
+    "Laban, his uncle",
+    "A servant"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Rebekah",
+    "Jacob",
+    "Esau"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rebekah overheard Isaac's words and planned for Jacob, her favored son, to receive the blessing instead of Esau."
+}

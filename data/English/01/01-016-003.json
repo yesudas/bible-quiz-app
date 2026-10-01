@@ -1,0 +1,33 @@
+{
+  "id": "01-016-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 16,
+  "verse_reference": "Genesis 16:3",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How long had Abram lived in Canaan when Sarai gave him Hagar?",
+  "options": [
+    "Ten years",
+    "Five years",
+    "Twenty years",
+    "Forty years"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Promise"
+  ],
+  "characters": [
+    "Abram",
+    "Sarai",
+    "Hagar"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abram had been living in Canaan ten years when Sarai gave Hagar to him as a wife."
+}

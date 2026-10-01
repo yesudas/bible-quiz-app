@@ -1,0 +1,30 @@
+{
+  "id": "03-011-005",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 11,
+  "verse_reference": "Leviticus 11:44-45",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "The Lord gave this reason for the food laws: 'Be holy, because I am ______.'",
+  "options": [
+    "mighty",
+    "holy",
+    "faithful",
+    "your king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holiness",
+    "Law",
+    "Covenant"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 11:44-45 gives the reason for the food laws: the people were to be holy because the Lord is holy."
+}

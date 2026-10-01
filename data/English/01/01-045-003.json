@@ -1,0 +1,32 @@
+{
+  "id": "01-045-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 45,
+  "verse_reference": "Genesis 45:4-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Joseph comfort his brothers about selling him into Egypt?",
+  "options": [
+    "He said it was God who sent him ahead to save lives",
+    "He said he had forgotten all about it",
+    "He said they owed him nothing",
+    "He said Pharaoh had ordered it"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Forgiveness",
+    "Faith",
+    "Salvation"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph told them not to be distressed, for it was God who sent him ahead of them to preserve life during the famine."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "02-040-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 40,
+  "verse_reference": "Exodus 40:38",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was seen over the tabernacle by day and by night during Israel's travels?",
+  "options": [
+    "A bright star",
+    "A cloud by day and fire by night",
+    "A rainbow",
+    "A pillar of smoke only"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Promise"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The cloud of the LORD was over the tabernacle by day, and fire was in the cloud by night, in the sight of all Israel throughout their travels."
+}

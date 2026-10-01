@@ -1,0 +1,32 @@
+{
+  "id": "01-020-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 20,
+  "verse_reference": "Genesis 20:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God call Abraham when He spoke to Abimelek?",
+  "options": [
+    "A king",
+    "A priest",
+    "A prophet",
+    "A judge"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Leadership"
+  ],
+  "characters": [
+    "Abraham",
+    "Abimelek"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God called Abraham a prophet and said Abraham would pray for Abimelek so that he would live."
+}

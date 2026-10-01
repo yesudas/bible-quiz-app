@@ -1,0 +1,35 @@
+{
+  "id": "04-001-007",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 1,
+  "verse_reference": "Numbers 1:50-53",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What special task was given to the Levites instead of serving in the army?",
+  "options": [
+    "To take care of the tabernacle and camp around it",
+    "To lead the people in battle",
+    "To collect taxes from the tribes",
+    "To judge disputes among the people"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tabernacle",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Levites were put in charge of the tabernacle, its furnishings, and everything belonging to it, and they camped around it to protect it."
+}

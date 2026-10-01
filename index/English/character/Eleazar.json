@@ -1,0 +1,18 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Eleazar",
+    "label": "Eleazar",
+    "count": 8,
+    "paths": [
+        "English/04/04-003-001.json",
+        "English/04/04-019-002.json",
+        "English/04/04-020-007.json",
+        "English/04/04-026-001.json",
+        "English/04/04-027-007.json",
+        "English/04/04-031-005.json",
+        "English/04/04-031-007.json",
+        "English/04/04-034-005.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

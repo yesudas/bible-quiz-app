@@ -1,0 +1,29 @@
+{
+  "id": "02-028-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 28,
+  "verse_reference": "Exodus 28:33-35",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was placed around the hem of the priest's robe?",
+  "options": [
+    "Small silver coins",
+    "Strips of leather",
+    "Rows of jewels",
+    "Gold bells and cloth pomegranates"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gold bells and pomegranates alternated around the hem of the robe, so the bells could be heard when Aaron entered the Holy Place."
+}

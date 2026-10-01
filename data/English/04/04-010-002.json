@@ -1,0 +1,30 @@
+{
+  "id": "04-010-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 10,
+  "verse_reference": "Numbers 10:2-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was one use of the silver trumpets?",
+  "options": [
+    "To announce the harvest",
+    "To call the people together and signal them to set out",
+    "To wake the priests each morning",
+    "To scare away wild animals"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The trumpets were used to call the community together, to gather the leaders, and to signal the camps when to set out."
+}

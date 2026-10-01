@@ -1,0 +1,33 @@
+{
+  "id": "02-004-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 4,
+  "verse_reference": "Exodus 4:14-16",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did God choose to be Moses' spokesman?",
+  "options": [
+    "Jethro",
+    "Aaron",
+    "Joshua",
+    "Hur"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God appointed Aaron, Moses' brother, to speak to the people for him, since Aaron could speak well."
+}

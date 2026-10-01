@@ -1,0 +1,28 @@
+{
+  "id": "02-027-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 27,
+  "verse_reference": "Exodus 27:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the altar of burnt offering overlaid with?",
+  "options": [
+    "Gold",
+    "Silver",
+    "Bronze",
+    "Iron"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The altar of burnt offering was made of acacia wood and overlaid with bronze, with a horn at each of its four corners."
+}

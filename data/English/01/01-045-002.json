@@ -1,0 +1,31 @@
+{
+  "id": "01-045-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 45,
+  "verse_reference": "Genesis 45:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Joseph react as he revealed himself to his brothers?",
+  "options": [
+    "He laughed",
+    "He grew angry",
+    "He wept so loudly that the Egyptians heard him",
+    "He stayed silent"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Love"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph wept so loudly that the Egyptians heard him, and Pharaoh's household heard of it."
+}

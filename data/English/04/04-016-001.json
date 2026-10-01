@@ -1,0 +1,36 @@
+{
+  "id": "04-016-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 16,
+  "verse_reference": "Numbers 16:1-3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who led the rebellion against Moses and Aaron in this chapter?",
+  "options": [
+    "Joshua and Caleb",
+    "Nadab and Abihu",
+    "Korah, Dathan, and Abiram",
+    "Miriam and Aaron"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Korah",
+    "Dathan",
+    "Abiram",
+    "Moses",
+    "Aaron"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Korah, along with Dathan and Abiram, led a rebellion against the leadership of Moses and Aaron."
+}

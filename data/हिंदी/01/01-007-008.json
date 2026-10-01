@@ -1,0 +1,30 @@
+{
+  "id": "01-007-008",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 7,
+  "verse_reference": "उत्पत्ति 7:19-20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "जलप्रलय का जल इतना प्रबल हुआ कि पहाड़ डूब गए और जल उनके ऊपर ______ हाथ चढ़ गया।",
+  "options": [
+    "दस",
+    "पंद्रह",
+    "बीस",
+    "तीस"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "जलप्रलय",
+    "न्याय"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "उत्पत्ति 7:20 के अनुसार जल पहाड़ों से पंद्रह हाथ ऊपर चढ़ गया, जिससे सब पहाड़ पूरी तरह डूब गए।"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "04-023-006",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 23,
+  "verse_reference": "Numbers 23:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Balaam say about the blessing God had given Israel?",
+  "options": [
+    "It could be undone by more sacrifices",
+    "God had blessed them, and he could not change it",
+    "It would last only a short time",
+    "It depended on Balak's approval"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Prophecy"
+  ],
+  "characters": [
+    "Balaam"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Balaam said he had received a command to bless, and since God had blessed Israel, he could not change it."
+}

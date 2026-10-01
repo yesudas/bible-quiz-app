@@ -1,0 +1,34 @@
+{
+  "id": "04-021-004",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 21,
+  "verse_reference": "Numbers 21:8-9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God tell Moses to make so that bitten people would live?",
+  "options": [
+    "A bronze snake on a pole",
+    "A golden calf",
+    "A wooden altar",
+    "A stone monument"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Moses to make a bronze snake and put it on a pole, so that anyone who was bitten could look at it and live."
+}

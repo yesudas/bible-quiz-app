@@ -1,0 +1,30 @@
+{
+  "id": "01-029-011",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 29,
+  "verse_reference": "Genesis 29:32-35",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "What was the order of the first four sons Leah bore to Jacob?",
+  "options": [
+    "Reuben, Simeon, Levi, Judah",
+    "Judah, Levi, Simeon, Reuben",
+    "Levi, Reuben, Judah, Simeon",
+    "Simeon, Judah, Reuben, Levi"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Leah",
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leah bore Jacob four sons in this order: Reuben, Simeon, Levi, and Judah."
+}

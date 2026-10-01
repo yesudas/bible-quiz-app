@@ -1,0 +1,32 @@
+{
+  "id": "02-002-008",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 2,
+  "verse_reference": "Exodus 2:21",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whom did Moses marry in Midian?",
+  "options": [
+    "Zipporah",
+    "Miriam",
+    "Rebekah",
+    "Deborah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Marriage",
+    "Family"
+  ],
+  "characters": [
+    "Moses",
+    "Zipporah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Midian, Moses married Zipporah, one of the daughters of the priest Reuel (also called Jethro)."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "04-034-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 34,
+  "verse_reference": "Numbers 34:12",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which river and sea marked the eastern boundary of the land?",
+  "options": [
+    "The Nile and the Red Sea",
+    "The Euphrates and the Great Sea",
+    "The Jordan and the Salt Sea",
+    "The Tigris and the Sea of Galilee"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    },
+    {
+      "name": "Dead Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The eastern boundary went down along the Jordan River and ended at the Salt Sea, also called the Dead Sea."
+}

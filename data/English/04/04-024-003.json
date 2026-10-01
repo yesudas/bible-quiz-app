@@ -1,0 +1,32 @@
+{
+  "id": "04-024-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 24,
+  "verse_reference": "Numbers 24:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Balaam say would happen to those who blessed or cursed Israel?",
+  "options": [
+    "Those who bless them are blessed, and those who curse them are cursed",
+    "Everyone would be treated the same",
+    "Only Balak would be blessed",
+    "Those who cursed them would prosper"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [
+    "Balaam"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Balaam declared that those who bless Israel would be blessed and those who curse Israel would be cursed."
+}

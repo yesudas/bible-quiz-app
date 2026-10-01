@@ -1,0 +1,30 @@
+{
+  "id": "01-023-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 23,
+  "verse_reference": "Genesis 23:1",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How old was Sarah when she died?",
+  "options": [
+    "One hundred years",
+    "One hundred twenty-seven years",
+    "One hundred fifty years",
+    "One hundred seventy-five years"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Sarah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sarah lived to be a hundred and twenty-seven years old when she died."
+}

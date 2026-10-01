@@ -1,0 +1,31 @@
+{
+  "id": "01-041-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 41,
+  "verse_reference": "Genesis 41:27-30",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the seven thin cows and seven thin heads of grain represent?",
+  "options": [
+    "Seven years of famine",
+    "Seven years of war",
+    "Seven years of peace",
+    "Seven years of rain"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph explained that the seven thin cows and thin heads of grain meant seven years of famine that would follow the years of plenty."
+}

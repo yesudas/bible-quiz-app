@@ -1,0 +1,31 @@
+{
+  "id": "02-009-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 9,
+  "verse_reference": "Exodus 9:8-11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the sixth plague that came upon the people and animals?",
+  "options": [
+    "Festering boils",
+    "Blindness",
+    "Fever",
+    "Deafness"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses threw soot into the air and it caused festering boils to break out on people and animals."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "02-024-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 24,
+  "verse_reference": "Exodus 24:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the people respond when Moses told them all the LORD's words and laws?",
+  "options": [
+    "They refused to obey",
+    "They asked for different laws",
+    "They said they would do everything the LORD had said",
+    "They remained silent"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Faith"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people answered with one voice that they would do everything the LORD had said."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "01-038-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 38,
+  "verse_reference": "Genesis 38:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Judah send Tamar back to her father's house as a widow?",
+  "options": [
+    "He was angry with her",
+    "He wanted her to remarry elsewhere",
+    "He feared his third son Shelah might also die",
+    "He had no more sons"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Judah",
+    "Tamar",
+    "Shelah"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Judah sent Tamar home because he feared that Shelah, his youngest son, might die like his brothers."
+}

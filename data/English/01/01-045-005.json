@@ -1,0 +1,32 @@
+{
+  "id": "01-045-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 45,
+  "verse_reference": "Genesis 45:9-10",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Joseph tell his family to come and settle in Egypt?",
+  "options": [
+    "In the city of On",
+    "In the palace of Pharaoh",
+    "By the Red Sea",
+    "In the region of Goshen"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Promise"
+  ],
+  "characters": [
+    "Joseph",
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph told them to bring their father and settle in the region of Goshen, near him."
+}

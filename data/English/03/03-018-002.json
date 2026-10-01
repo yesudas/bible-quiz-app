@@ -1,0 +1,29 @@
+{
+  "id": "03-018-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 18,
+  "verse_reference": "Leviticus 18:6",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What is the main subject of Leviticus 18?",
+  "options": [
+    "Laws about clean and unclean food",
+    "Laws forbidding wrong sexual relationships",
+    "Rules for the priests' clothing",
+    "Instructions for the offerings"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Holiness",
+    "Family"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 18 gives laws forbidding wrong and sinful sexual relationships among the people."
+}

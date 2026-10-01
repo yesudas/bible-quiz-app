@@ -1,0 +1,39 @@
+{
+  "id": "04-013-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 13,
+  "verse_reference": "Numbers 13:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did God tell Moses to do in this chapter?",
+  "options": [
+    "Send men to explore the land of Canaan",
+    "Build a new altar",
+    "Count the Levites again",
+    "Lead the people back to Egypt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Promise",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Canaan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Moses to send men to explore the land of Canaan, which He was giving to the Israelites."
+}

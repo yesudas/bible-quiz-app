@@ -1,0 +1,30 @@
+{
+  "id": "01-043-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 43,
+  "verse_reference": "Genesis 43:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How much silver did Jacob tell his sons to take on this journey?",
+  "options": [
+    "Double the amount, plus the silver returned in their sacks",
+    "Only enough for the grain",
+    "Half as much as before",
+    "No silver at all"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob told them to take double the silver so they could return the money that had been put back in their sacks, in case it was a mistake."
+}

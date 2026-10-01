@@ -1,0 +1,29 @@
+{
+  "id": "03-014-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 14,
+  "verse_reference": "Leviticus 14:4-7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In the cleansing ceremony, what was done with the two birds?",
+  "options": [
+    "Both were released into the open fields",
+    "Both were burned on the altar",
+    "One was killed and the live one was released into the open fields",
+    "Both were given to the priest to eat"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Cleansing",
+    "Sacrifice"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 14:5-7 says one bird was killed, and the living bird, after being dipped in the blood, was released into the open fields."
+}

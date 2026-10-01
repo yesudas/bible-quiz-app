@@ -1,0 +1,33 @@
+{
+  "id": "01-021-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 21,
+  "verse_reference": "Genesis 21:3",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "What did Abraham name the son Sarah bore to him?",
+  "options": [
+    "Ishmael",
+    "Jacob",
+    "Esau",
+    "Isaac"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Isaac",
+    "Abraham",
+    "Sarah"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham named the son that Sarah bore to him Isaac, just as God had told him."
+}

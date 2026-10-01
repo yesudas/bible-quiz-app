@@ -1,0 +1,29 @@
+{
+  "id": "02-033-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 33,
+  "verse_reference": "Exodus 33:20-23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God say about Moses seeing His face?",
+  "options": [
+    "Moses could see it freely",
+    "Only Aaron could see it",
+    "It could be seen at night",
+    "No one may see His face and live"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said no one could see His face and live, so He placed Moses in a cleft of the rock and let him see only His back as His glory passed by."
+}

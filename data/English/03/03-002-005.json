@@ -1,0 +1,32 @@
+{
+  "id": "03-002-005",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 2,
+  "verse_reference": "Leviticus 2:2-3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who received the rest of the grain offering after a portion was burned on the altar?",
+  "options": [
+    "The Levites",
+    "Aaron and his sons",
+    "The elders of Israel",
+    "The person who brought it"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Provision",
+    "Priesthood"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 2:3 says the rest of the grain offering belonged to Aaron and his sons as a most holy part of the offerings to the Lord."
+}

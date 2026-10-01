@@ -1,0 +1,30 @@
+{
+  "id": "03-004-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 4,
+  "verse_reference": "Leviticus 4:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "The sin offering in this chapter was for someone who sinned in what way?",
+  "options": [
+    "Deliberately and openly",
+    "Unintentionally",
+    "Against another nation",
+    "During a festival"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Forgiveness",
+    "Repentance"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 4:2 says the sin offering was for a person who sinned unintentionally against any of the Lord's commands."
+}

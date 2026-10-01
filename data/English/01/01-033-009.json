@@ -1,0 +1,29 @@
+{
+  "id": "01-033-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 33,
+  "verse_reference": "Genesis 33:18-19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Jacob do with the plot of ground he acquired near Shechem?",
+  "options": [
+    "He built a city on it",
+    "He bought it and pitched his tent there",
+    "He gave it to Esau",
+    "He dug a well on it"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob camped near Shechem and bought the plot of ground where he pitched his tent from the sons of Hamor for a hundred pieces of silver."
+}

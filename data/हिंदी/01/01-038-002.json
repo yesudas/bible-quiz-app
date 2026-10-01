@@ -1,0 +1,35 @@
+{
+  "id": "01-038-002",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 38,
+  "verse_reference": "उत्पत्ति 38:6",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "यहूदा ने अपने पहिलौठे पुत्र एर के लिये किस स्त्री को ब्याह कर लाया?",
+  "options": [
+    "तामार",
+    "आदा",
+    "बाशमत",
+    "दिबलायम"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "परिवार",
+    "विवाह"
+  ],
+  "characters": [
+    "यहूदा",
+    "एर",
+    "तामार"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "उत्पत्ति 38:6 में लिखा है कि यहूदा ने अपने जेठे पुत्र एर के लिये एक पत्नी ब्याही, जिसका नाम तामार था।"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "01-002-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 2,
+  "verse_reference": "Genesis 2:16-17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Which tree did God command the man not to eat from?",
+  "options": [
+    "The tree of life",
+    "Every tree in the garden",
+    "The tree of the knowledge of good and evil",
+    "The fig tree"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience",
+    "Sin"
+  ],
+  "characters": [
+    "God",
+    "Adam"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God allowed the man to eat from any tree except the tree of the knowledge of good and evil."
+}

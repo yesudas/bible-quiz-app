@@ -1,0 +1,36 @@
+{
+  "id": "04-011-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 11,
+  "verse_reference": "Numbers 11:4-6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the people crave instead of the manna God gave them?",
+  "options": [
+    "Bread and wine",
+    "Meat and the foods they had in Egypt",
+    "Honey and figs",
+    "Milk and cheese"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Temptation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people craved meat and remembered the fish, cucumbers, melons, and other foods they had eaten in Egypt, growing tired of the manna."
+}

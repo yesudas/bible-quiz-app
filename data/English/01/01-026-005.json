@@ -1,0 +1,29 @@
+{
+  "id": "01-026-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 26,
+  "verse_reference": "Genesis 26:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How much did Isaac's crops yield the year he planted in that land?",
+  "options": [
+    "Twofold",
+    "Tenfold",
+    "A hundredfold",
+    "A thousandfold"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Isaac"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaac planted crops in that land and reaped a hundredfold in the same year, because the LORD blessed him."
+}

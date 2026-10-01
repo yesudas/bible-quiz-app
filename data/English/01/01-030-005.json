@@ -1,0 +1,32 @@
+{
+  "id": "01-030-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 30,
+  "verse_reference": "Genesis 30:25-26",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jacob ask Laban for after Joseph was born?",
+  "options": [
+    "More land",
+    "A share of the harvest",
+    "To be sent home to his own country",
+    "A new tent"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jacob",
+    "Laban",
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After Joseph was born, Jacob asked Laban to send him back to his own homeland with his wives and children."
+}

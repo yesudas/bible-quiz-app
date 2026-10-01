@@ -1,0 +1,29 @@
+{
+  "id": "02-010-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 10,
+  "verse_reference": "Exodus 10:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God use to bring the locusts into Egypt?",
+  "options": [
+    "A great flood",
+    "An east wind",
+    "A cloud of fire",
+    "A swarm of birds"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD made an east wind blow across the land all day and night, and by morning it had brought the locusts."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "04-005-004",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 5,
+  "verse_reference": "Numbers 5:12-15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the test in this chapter meant to deal with?",
+  "options": [
+    "A dispute over land",
+    "A quarrel between two brothers",
+    "A false prophet in the camp",
+    "A wife suspected of being unfaithful"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Marriage",
+    "Law",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The law described a test for a wife whose husband suspected her of being unfaithful but had no proof."
+}

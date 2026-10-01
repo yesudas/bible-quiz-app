@@ -1,0 +1,31 @@
+{
+  "id": "01-011-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 11,
+  "verse_reference": "Genesis 11:26-27",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was the father of Abram?",
+  "options": [
+    "Nahor",
+    "Haran",
+    "Terah",
+    "Lot"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Terah",
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Terah was the father of Abram, Nahor, and Haran, according to the genealogy at the end of Genesis 11."
+}

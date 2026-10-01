@@ -1,0 +1,28 @@
+{
+  "id": "02-023-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 23,
+  "verse_reference": "Exodus 23:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the law say about spreading reports and following the crowd?",
+  "options": [
+    "Always agree with the majority",
+    "Report everything you hear",
+    "Do not spread false reports or follow the crowd in doing wrong",
+    "Only speak in court"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God commanded them not to spread false reports and not to follow the crowd in doing wrong or in twisting justice."
+}

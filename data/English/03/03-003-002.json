@@ -1,0 +1,29 @@
+{
+  "id": "03-003-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 3,
+  "verse_reference": "Leviticus 3:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Unlike the burnt offering, what was allowed for a fellowship offering from the herd?",
+  "options": [
+    "It could be either male or female",
+    "It could have small defects",
+    "It could be a young calf only",
+    "It did not need to be an animal"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Sacrifice"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 3:1 says a fellowship offering from the herd could be male or female, though it still had to be without defect."
+}

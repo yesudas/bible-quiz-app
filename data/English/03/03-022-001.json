@@ -1,0 +1,32 @@
+{
+  "id": "03-022-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 22,
+  "verse_reference": "Leviticus 22:1-9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the priests have to be before they could eat the holy offerings?",
+  "options": [
+    "Ceremonially clean",
+    "Over fifty years old",
+    "Married with children",
+    "Chosen by the elders"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Priesthood",
+    "Holiness",
+    "Worship"
+  ],
+  "characters": [
+    "Aaron",
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 22:3-6 says a priest who was ceremonially unclean could not eat the holy offerings until he was clean again."
+}

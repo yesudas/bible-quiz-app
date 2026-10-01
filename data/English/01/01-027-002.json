@@ -1,0 +1,31 @@
+{
+  "id": "01-027-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 27,
+  "verse_reference": "Genesis 27:3-4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Isaac ask Esau to do before receiving his blessing?",
+  "options": [
+    "Bring water from the well",
+    "Gather the flocks",
+    "Build an altar",
+    "Hunt wild game and prepare a tasty meal"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Isaac",
+    "Esau"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaac asked Esau to hunt some wild game and prepare the tasty food he loved, so he could bless him before he died."
+}

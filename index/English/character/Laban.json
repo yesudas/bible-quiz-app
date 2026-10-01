@@ -1,0 +1,31 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Laban",
+    "label": "Laban",
+    "count": 21,
+    "paths": [
+        "English/01/01-024-009.json",
+        "English/01/01-024-010.json",
+        "English/01/01-028-001.json",
+        "English/01/01-029-002.json",
+        "English/01/01-029-003.json",
+        "English/01/01-029-005.json",
+        "English/01/01-029-007.json",
+        "English/01/01-029-008.json",
+        "English/01/01-029-009.json",
+        "English/01/01-030-005.json",
+        "English/01/01-030-006.json",
+        "English/01/01-030-007.json",
+        "English/01/01-031-002.json",
+        "English/01/01-031-003.json",
+        "English/01/01-031-004.json",
+        "English/01/01-031-005.json",
+        "English/01/01-031-006.json",
+        "English/01/01-031-007.json",
+        "English/01/01-031-008.json",
+        "English/01/01-031-009.json",
+        "English/01/01-031-010.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

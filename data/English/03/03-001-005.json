@@ -1,0 +1,30 @@
+{
+  "id": "03-001-005",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 1,
+  "verse_reference": "Leviticus 1:14",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "If a person could not afford a larger animal, which birds could be brought as a burnt offering?",
+  "options": [
+    "Ravens or sparrows",
+    "Doves or young pigeons",
+    "Quail or partridges",
+    "Eagles or hawks"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Sacrifice",
+    "Provision"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 1:14 allowed a burnt offering of doves or young pigeons, making the offering possible for those with less."
+}

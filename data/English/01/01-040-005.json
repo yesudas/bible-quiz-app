@@ -1,0 +1,30 @@
+{
+  "id": "01-040-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 40,
+  "verse_reference": "Genesis 40:12-13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Joseph say the three branches in the cupbearer's dream meant?",
+  "options": [
+    "Three days",
+    "Three years",
+    "Three months",
+    "Three weeks"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph explained that the three branches were three days, after which Pharaoh would restore the cupbearer to his position."
+}

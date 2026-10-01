@@ -1,0 +1,31 @@
+{
+  "id": "02-017-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 17,
+  "verse_reference": "Exodus 17:9-10",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did Moses choose to lead the Israelites in the battle against the Amalekites?",
+  "options": [
+    "Aaron",
+    "Hur",
+    "Joshua",
+    "Caleb"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua",
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses told Joshua to choose men and go out to fight the Amalekites, while Moses stood on the hill with the staff of God."
+}

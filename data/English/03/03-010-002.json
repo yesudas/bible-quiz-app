@@ -1,0 +1,33 @@
+{
+  "id": "03-010-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 10,
+  "verse_reference": "Leviticus 10:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened to Nadab and Abihu after they offered unauthorized fire?",
+  "options": [
+    "They were sent away from the camp",
+    "They lost their priesthood",
+    "Fire came from the Lord and consumed them, and they died",
+    "They were struck with a disease"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Holiness"
+  ],
+  "characters": [
+    "Nadab",
+    "Abihu"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 10:2 says fire came out from the presence of the Lord and consumed them, so that they died before the Lord."
+}

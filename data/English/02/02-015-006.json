@@ -1,0 +1,30 @@
+{
+  "id": "02-015-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 15,
+  "verse_reference": "Exodus 15:25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Moses throw into the bitter water to make it fit to drink?",
+  "options": [
+    "A handful of salt",
+    "A silver cup",
+    "A green branch of dates",
+    "A piece of wood"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD showed Moses a piece of wood, and when he threw it into the water, the water became sweet."
+}

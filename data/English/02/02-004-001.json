@@ -1,0 +1,31 @@
+{
+  "id": "02-004-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 4,
+  "verse_reference": "Exodus 4:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Moses' staff become when he threw it on the ground?",
+  "options": [
+    "A snake",
+    "A river",
+    "A tree",
+    "A stone"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Moses threw his staff on the ground, it became a snake, and he ran from it."
+}

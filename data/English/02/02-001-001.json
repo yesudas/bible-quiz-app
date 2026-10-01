@@ -1,0 +1,31 @@
+{
+  "id": "02-001-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 1,
+  "verse_reference": "Exodus 1:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the new king of Egypt treat the Israelites harshly?",
+  "options": [
+    "He did not know about Joseph",
+    "The Israelites had attacked Egypt",
+    "God told him to punish them",
+    "The Israelites refused to pay taxes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Leadership"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A new king rose to power in Egypt who did not know Joseph, so he did not honor what Joseph had done and instead oppressed the Israelites."
+}

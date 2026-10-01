@@ -1,0 +1,32 @@
+{
+  "id": "01-045-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 45,
+  "verse_reference": "Genesis 45:1-3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Joseph finally tell his brothers?",
+  "options": [
+    "That they were free to go",
+    "That the famine had ended",
+    "That Pharaoh wanted to see them",
+    "That he was their brother Joseph"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph could no longer hold back and revealed to his brothers that he was Joseph, the brother they had sold into Egypt."
+}

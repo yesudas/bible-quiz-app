@@ -1,0 +1,32 @@
+{
+  "id": "01-028-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 28,
+  "verse_reference": "Genesis 28:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "God promised Jacob, \"I am ______ you and will watch over you wherever you go.\"",
+  "options": [
+    "testing",
+    "with",
+    "sending",
+    "leaving"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Faith"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised to be with Jacob, to watch over him wherever he went, and to bring him back to the land."
+}

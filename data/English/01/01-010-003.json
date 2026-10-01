@@ -1,0 +1,29 @@
+{
+  "id": "01-010-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 10,
+  "verse_reference": "Genesis 10:10",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which city was among the first centers of Nimrod's kingdom?",
+  "options": [
+    "Hebron",
+    "Babylon",
+    "Jericho",
+    "Damascus"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Nimrod"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The first centers of Nimrod's kingdom included Babylon, Uruk, Akkad, and Kalneh in the land of Shinar."
+}

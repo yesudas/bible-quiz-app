@@ -1,0 +1,33 @@
+{
+  "id": "01-027-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 27,
+  "verse_reference": "Genesis 27:30-34",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Esau react when he learned Jacob had taken his blessing?",
+  "options": [
+    "He laughed it off",
+    "He cried out with a loud and bitter cry",
+    "He said nothing",
+    "He left quietly"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Suffering"
+  ],
+  "characters": [
+    "Esau",
+    "Jacob",
+    "Isaac"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Esau heard that Jacob had taken his blessing, he burst out with a loud and bitter cry and begged his father to bless him too."
+}

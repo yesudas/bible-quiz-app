@@ -1,0 +1,28 @@
+{
+  "id": "02-010-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 10,
+  "verse_reference": "Exodus 10:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the locusts do to the land of Egypt?",
+  "options": [
+    "They ate everything the hail had left",
+    "They filled the rivers",
+    "They carried away the cattle",
+    "They destroyed the houses"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The locusts ate all the plants and fruit that the hail had left, so nothing green remained in Egypt."
+}

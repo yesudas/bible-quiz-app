@@ -1,0 +1,31 @@
+{
+  "id": "04-011-006",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 11,
+  "verse_reference": "Numbers 11:31",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What food did God send to the people in great numbers?",
+  "options": [
+    "Fish",
+    "Lambs",
+    "Doves",
+    "Quail"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God sent a wind that brought huge numbers of quail from the sea, covering the ground around the camp."
+}

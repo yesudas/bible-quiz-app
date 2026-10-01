@@ -1,0 +1,23 @@
+{
+    "type": "topic",
+    "language": "English",
+    "topic": "Provision",
+    "label": "Provision",
+    "count": 13,
+    "paths": [
+        "English/01/01-001-007.json",
+        "English/01/01-003-008.json",
+        "English/03/03-001-005.json",
+        "English/03/03-002-005.json",
+        "English/03/03-005-001.json",
+        "English/03/03-005-002.json",
+        "English/03/03-006-004.json",
+        "English/03/03-012-003.json",
+        "English/03/03-019-002.json",
+        "English/03/03-023-004.json",
+        "English/03/03-025-001.json",
+        "English/03/03-025-002.json",
+        "English/03/03-025-004.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

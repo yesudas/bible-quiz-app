@@ -1,0 +1,31 @@
+{
+  "id": "02-013-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 13,
+  "verse_reference": "Exodus 13:19",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whose bones did Moses take with him out of Egypt?",
+  "options": [
+    "Joseph's bones",
+    "Jacob's bones",
+    "Abraham's bones",
+    "Levi's bones"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Faith"
+  ],
+  "characters": [
+    "Moses",
+    "Joseph"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses took the bones of Joseph, because Joseph had made the Israelites promise to carry his bones with them when God brought them out."
+}

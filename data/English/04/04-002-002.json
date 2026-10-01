@@ -1,0 +1,31 @@
+{
+  "id": "04-002-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 2,
+  "verse_reference": "Numbers 2:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which tribe camped on the east side, toward the sunrise?",
+  "options": [
+    "The tribe of Dan",
+    "The tribe of Reuben",
+    "The tribe of Judah",
+    "The tribe of Ephraim"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Nahshon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The tribe of Judah, led by Nahshon, camped on the east side toward the sunrise."
+}

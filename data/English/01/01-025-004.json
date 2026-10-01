@@ -1,0 +1,32 @@
+{
+  "id": "01-025-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 25,
+  "verse_reference": "Genesis 25:9-10",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which two sons buried Abraham together?",
+  "options": [
+    "Isaac and Ishmael",
+    "Jacob and Esau",
+    "Isaac and Jacob",
+    "Ishmael and Midian"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Isaac",
+    "Ishmael",
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaac and Ishmael, Abraham's sons, buried him in the cave of Machpelah beside Sarah."
+}

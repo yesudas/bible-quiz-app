@@ -1,0 +1,31 @@
+{
+  "id": "04-012-004",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 12,
+  "verse_reference": "Numbers 12:6-8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did God say He spoke with Moses, unlike with other prophets?",
+  "options": [
+    "Only through dreams",
+    "Through written messages",
+    "By sending angels",
+    "Face to face, clearly and not in riddles"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He spoke to other prophets in visions and dreams, but with Moses He spoke face to face, clearly and not in riddles."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "01-041-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 41,
+  "verse_reference": "Genesis 41:39-41",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What position did Pharaoh give Joseph?",
+  "options": [
+    "Chief baker",
+    "Keeper of the prison",
+    "Ruler over all Egypt, second only to Pharaoh",
+    "Commander of the army"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Promise"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh put Joseph in charge of all Egypt, making him second in command over the whole land."
+}

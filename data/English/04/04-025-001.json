@@ -1,0 +1,35 @@
+{
+  "id": "04-025-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 25,
+  "verse_reference": "Numbers 25:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What sin did the Israelite men fall into while staying at Shittim?",
+  "options": [
+    "They stole from one another",
+    "They joined in worship of the Moabite gods",
+    "They refused to move camp",
+    "They complained about food"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Temptation",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Shittim",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The men of Israel sinned with Moabite women and joined them in sacrificing and bowing down to their gods."
+}

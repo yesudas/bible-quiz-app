@@ -1,0 +1,37 @@
+{
+  "id": "04-036-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 36,
+  "verse_reference": "Numbers 36:13",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where were these final commands given through Moses?",
+  "options": [
+    "On Mount Sinai",
+    "On the plains of Moab by the Jordan across from Jericho",
+    "In the land of Egypt",
+    "At the tent of meeting in Canaan"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Law"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Plains of Moab",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "These were the commands the Lord gave through Moses on the plains of Moab by the Jordan, across from Jericho."
+}

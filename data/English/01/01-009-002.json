@@ -1,0 +1,34 @@
+{
+  "id": "01-009-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 9,
+  "verse_reference": "Genesis 9:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God promise in His covenant with Noah?",
+  "options": [
+    "Never again to send rain on the earth",
+    "To give Noah a long life",
+    "Never again to destroy all life with a flood",
+    "To make the earth free of animals"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Promise",
+    "Grace"
+  ],
+  "characters": [
+    "God",
+    "Noah"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God established His covenant, promising that never again would all life be destroyed by the waters of a flood."
+}

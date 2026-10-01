@@ -1,0 +1,29 @@
+{
+  "id": "02-007-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 7,
+  "verse_reference": "Exodus 7:7",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How old was Moses when he spoke to Pharaoh?",
+  "options": [
+    "40 years old",
+    "80 years old",
+    "100 years old",
+    "60 years old"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses was eighty years old and Aaron eighty-three when they spoke to Pharaoh."
+}

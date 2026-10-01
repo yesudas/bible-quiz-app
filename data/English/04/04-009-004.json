@@ -1,0 +1,36 @@
+{
+  "id": "04-009-004",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 9,
+  "verse_reference": "Numbers 9:15-16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What covered the tabernacle by day and looked like fire by night?",
+  "options": [
+    "A pillar of smoke",
+    "A cloud",
+    "A bright star",
+    "A rainbow"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tabernacle",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A cloud covered the tabernacle by day, and at night it looked like fire above it."
+}

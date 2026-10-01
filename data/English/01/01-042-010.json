@@ -1,0 +1,31 @@
+{
+  "id": "01-042-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 42,
+  "verse_reference": "Genesis 42:37-38",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Jacob's decision about letting Benjamin go to Egypt at the end of the chapter?",
+  "options": [
+    "He agreed to send him with Reuben",
+    "He let him go with Judah",
+    "He refused to let Benjamin go",
+    "He decided to go himself"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jacob",
+    "Benjamin"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob refused to let Benjamin go, fearing that harm would come to him, since his brother was dead and he alone was left of his mother's sons."
+}

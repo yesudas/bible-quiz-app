@@ -1,0 +1,30 @@
+{
+  "id": "03-002-004",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 2,
+  "verse_reference": "Leviticus 2:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Every grain offering was to be seasoned with ______, called the salt of the covenant.",
+  "options": [
+    "oil",
+    "salt",
+    "honey",
+    "incense"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Covenant",
+    "Sacrifice"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 2:13 says to season every grain offering with salt, the salt of the covenant of God."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "01-023-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 23,
+  "verse_reference": "Genesis 23:2",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In which place did Sarah die?",
+  "options": [
+    "Beersheba",
+    "Bethel",
+    "Kiriath Arba, that is, Hebron",
+    "Gerar"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Sarah",
+    "Abraham"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sarah died at Kiriath Arba, which is Hebron, in the land of Canaan."
+}

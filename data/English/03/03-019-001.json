@@ -1,0 +1,33 @@
+{
+  "id": "03-019-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 19,
+  "verse_reference": "Leviticus 19:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "The Lord said to the people, 'Be holy because I, the Lord your God, am ______.'",
+  "options": [
+    "mighty",
+    "holy",
+    "gracious",
+    "eternal"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holiness",
+    "Law",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 19:2 gives the theme of the chapter: the people were to be holy because the Lord their God is holy."
+}

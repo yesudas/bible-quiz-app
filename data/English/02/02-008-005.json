@@ -1,0 +1,27 @@
+{
+  "id": "02-008-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 8,
+  "verse_reference": "Exodus 8:18-19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the magicians say when they could not produce the gnats?",
+  "options": [
+    "This is the finger of God",
+    "The LORD is mighty",
+    "We are defeated",
+    "Let the people go"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The magicians could not copy this plague and told Pharaoh, 'This is the finger of God.'"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "01-010-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 10,
+  "verse_reference": "Genesis 10:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Genesis 10 records the descendants of which three men, whose families spread out after the flood?",
+  "options": [
+    "Cain, Abel, and Seth",
+    "Shem, Ham, and Japheth",
+    "Abraham, Isaac, and Jacob",
+    "Reuben, Simeon, and Levi"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Shem",
+    "Ham",
+    "Japheth",
+    "Noah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Genesis 10 lists the descendants of Noah's sons Shem, Ham, and Japheth, from whom the nations spread out after the flood."
+}

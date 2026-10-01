@@ -1,0 +1,30 @@
+{
+  "id": "01-036-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 36,
+  "verse_reference": "Genesis 36:6-7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Esau move away from Jacob to a separate land?",
+  "options": [
+    "Jacob forced him to leave",
+    "God commanded him to go",
+    "Their possessions were too great for the land to support them both",
+    "He wanted to avoid the people of Canaan"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Esau",
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Esau moved to a land some distance from Jacob because their combined flocks, herds, and possessions were too great for the land to support them living together."
+}

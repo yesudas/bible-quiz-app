@@ -1,0 +1,28 @@
+{
+  "id": "04-008-004",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 8,
+  "verse_reference": "Numbers 8:10",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the Israelites do to the Levites when they presented them to the Lord?",
+  "options": [
+    "They gave them new clothes",
+    "They laid their hands on them",
+    "They carried them on their shoulders",
+    "They anointed them with oil"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites laid their hands on the Levites, and Aaron presented them before the Lord as a wave offering."
+}

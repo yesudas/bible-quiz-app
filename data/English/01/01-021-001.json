@@ -1,0 +1,33 @@
+{
+  "id": "01-021-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 21,
+  "verse_reference": "Genesis 21:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened to Sarah just as the LORD had promised?",
+  "options": [
+    "She became very wealthy",
+    "She gave birth to a son",
+    "She lived a very long life",
+    "She traveled to a new land"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Miracles"
+  ],
+  "characters": [
+    "Sarah",
+    "Abraham"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD was gracious to Sarah as He had promised, and she gave birth to a son in Abraham's old age."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "02-005-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 5,
+  "verse_reference": "Exodus 5:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Even without straw, what did Pharaoh demand of the Israelites?",
+  "options": [
+    "Fewer bricks than before",
+    "The same number of bricks as before",
+    "Twice as many bricks",
+    "No bricks at all"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh required the same quota of bricks as before, even though the people now had to gather their own straw."
+}

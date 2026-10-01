@@ -1,0 +1,30 @@
+{
+  "id": "02-037-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 37,
+  "verse_reference": "Exodus 37:25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Bezalel make of acacia wood overlaid with gold for burning incense?",
+  "options": [
+    "The ark of the covenant",
+    "The bronze basin",
+    "The altar of incense",
+    "The table of the bread"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Bezalel"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Bezalel made the altar of incense of acacia wood overlaid with gold, square with horns at its corners."
+}

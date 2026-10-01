@@ -1,0 +1,31 @@
+{
+  "id": "01-032-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 32,
+  "verse_reference": "Genesis 32:24",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened to Jacob when he was left alone at night?",
+  "options": [
+    "He had a dream of a ladder",
+    "Esau came to meet him",
+    "A man wrestled with him until daybreak",
+    "An angel gave him food"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob was left alone, and a man wrestled with him until the break of day."
+}

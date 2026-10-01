@@ -1,0 +1,32 @@
+{
+  "id": "01-007-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 7,
+  "verse_reference": "Genesis 7:16",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who shut Noah inside the ark?",
+  "options": [
+    "Noah himself",
+    "His sons",
+    "The Lord",
+    "An angel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Grace"
+  ],
+  "characters": [
+    "God",
+    "Noah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After Noah and the animals entered, the Lord Himself shut them inside the ark."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "01-047-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 47,
+  "verse_reference": "Genesis 47:16-17",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "After the people's money was gone, what did they give Joseph next for grain?",
+  "options": [
+    "Their land",
+    "Their livestock",
+    "Themselves as servants",
+    "Their houses"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Wisdom"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the money was gone, the people brought their livestock, and Joseph gave them food in exchange for their horses, flocks, herds, and donkeys."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "01-049-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 49,
+  "verse_reference": "Genesis 49:9",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "To what animal did Jacob compare Judah in his blessing?",
+  "options": [
+    "An eagle",
+    "A wolf",
+    "A lion",
+    "An ox"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Judah",
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob compared Judah to a lion, calling him a lion's cub who crouches and no one dares to rouse."
+}

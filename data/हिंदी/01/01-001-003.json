@@ -1,0 +1,29 @@
+{
+  "id": "01-001-003",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 1,
+  "verse_reference": "उत्पत्ति 1:6-8",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "परमेश्वर ने जल के बीच में बने विस्तार को क्या नाम दिया?",
+  "options": [
+    "समुद्र",
+    "भूमि",
+    "आकाश",
+    "बादल"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "सृष्टि"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "परमेश्वर ने दूसरे दिन जल के बीच बने विस्तार को 'आकाश' कहा।"
+}

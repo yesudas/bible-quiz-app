@@ -1,0 +1,27 @@
+{
+  "id": "02-025-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 25,
+  "verse_reference": "Exodus 25:31",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was the lampstand in the tabernacle made of?",
+  "options": [
+    "Carved acacia wood",
+    "Pure hammered gold",
+    "Polished bronze",
+    "Woven linen"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The lampstand was made of pure gold, hammered out with its base, shaft, branches, and flower-like cups all of one piece."
+}

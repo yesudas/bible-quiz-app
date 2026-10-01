@@ -1,0 +1,32 @@
+{
+  "id": "01-007-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 7,
+  "verse_reference": "Genesis 7:7",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who entered the ark with Noah?",
+  "options": [
+    "Only his sons",
+    "His wife, his sons, and his sons' wives",
+    "His brothers and their families",
+    "The people of his town"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Faith"
+  ],
+  "characters": [
+    "Noah"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Noah entered the ark together with his wife, his sons, and his sons' wives to escape the flood."
+}

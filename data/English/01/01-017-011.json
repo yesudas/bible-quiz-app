@@ -1,0 +1,34 @@
+{
+  "id": "01-017-011",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 17,
+  "verse_reference": "Genesis 17:19",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did God say Abraham should name the son Sarah would bear?",
+  "options": [
+    "Ishmael",
+    "Jacob",
+    "Isaac",
+    "Esau"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [
+    "Abraham",
+    "Sarah",
+    "Isaac"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Abraham that Sarah would bear a son and he was to name him Isaac, with whom God would establish His covenant."
+}

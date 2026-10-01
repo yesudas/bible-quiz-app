@@ -1,0 +1,33 @@
+{
+  "id": "04-003-007",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 3,
+  "verse_reference": "Numbers 3:46-47",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was done for the 273 firstborn Israelites who were more than the number of Levites?",
+  "options": [
+    "They were sent to serve in the tabernacle",
+    "They were counted among the Levites",
+    "They were redeemed by paying five shekels each",
+    "They were given extra land"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Covenant",
+    "Money"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The 273 firstborn who exceeded the number of Levites were redeemed by paying five shekels each, and the money was given to Aaron and his sons."
+}

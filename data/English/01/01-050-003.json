@@ -1,0 +1,31 @@
+{
+  "id": "01-050-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 50,
+  "verse_reference": "Genesis 50:13",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Joseph and his brothers bury Jacob?",
+  "options": [
+    "In Bethlehem near Rachel",
+    "In Bethel",
+    "In the cave in the field of Machpelah near Mamre",
+    "In Goshen"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Covenant"
+  ],
+  "characters": [
+    "Joseph",
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "His sons carried Jacob to Canaan and buried him in the cave in the field of Machpelah near Mamre, which Abraham had bought as a burial place."
+}

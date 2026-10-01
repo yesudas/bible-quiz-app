@@ -1,0 +1,29 @@
+{
+  "id": "03-017-004",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 17,
+  "verse_reference": "Leviticus 17:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the Lord forbid the people to eat in this chapter?",
+  "options": [
+    "Any bread with yeast",
+    "Any blood",
+    "Any fruit from young trees",
+    "Any fish without scales"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Holiness"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 17:10 says the Lord was against anyone who ate blood and would cut that person off from the people."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "04-030-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 30,
+  "verse_reference": "Numbers 30:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was a man required to do when he made a vow to the Lord?",
+  "options": [
+    "Break it if it became hard",
+    "Keep his word and do everything he said",
+    "Ask a priest to cancel it",
+    "Wait a year before keeping it"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When a man made a vow or took an oath to the Lord, he was not to break his word but had to do everything he had promised."
+}

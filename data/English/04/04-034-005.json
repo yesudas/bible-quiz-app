@@ -1,0 +1,32 @@
+{
+  "id": "04-034-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 34,
+  "verse_reference": "Numbers 34:17",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which two men were named to oversee the dividing of the land?",
+  "options": [
+    "Moses and Aaron",
+    "Eleazar the priest and Joshua",
+    "Caleb and Phinehas",
+    "Reuben and Gad"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Eleazar",
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God named Eleazar the priest and Joshua son of Nun to assign the land, along with one leader from each tribe."
+}

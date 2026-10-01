@@ -1,0 +1,31 @@
+{
+  "id": "01-043-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 43,
+  "verse_reference": "Genesis 43:3-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the brothers say they could not return to Egypt without Benjamin?",
+  "options": [
+    "Benjamin wanted to see Egypt",
+    "Jacob had ordered it",
+    "They needed his help to carry grain",
+    "The man in charge had warned them not to appear without their brother"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Benjamin",
+    "Judah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Judah reminded Jacob that the man had solemnly warned them they would not see his face unless their brother was with them."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "02-013-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 13,
+  "verse_reference": "Exodus 13:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did God not lead the Israelites through the land of the Philistines?",
+  "options": [
+    "It was too far away",
+    "They might face war and want to return to Egypt",
+    "There was no water there",
+    "The Philistines were their friends"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Though that road was shorter, God led them another way so they would not face war, lose heart, and return to Egypt."
+}

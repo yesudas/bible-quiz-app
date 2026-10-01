@@ -1,0 +1,30 @@
+{
+  "id": "02-024-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 24,
+  "verse_reference": "Exodus 24:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Moses sprinkle on the people to seal the covenant?",
+  "options": [
+    "Water from the rock",
+    "The blood of the covenant",
+    "Oil and spices",
+    "Ashes from the altar"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses sprinkled the blood on the people and said it was the blood of the covenant that the LORD had made with them."
+}

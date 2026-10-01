@@ -1,0 +1,32 @@
+{
+  "id": "01-008-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 8,
+  "verse_reference": "Genesis 8:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God do to make the floodwaters go down?",
+  "options": [
+    "He sent a wind over the earth",
+    "He opened a great hole in the ground",
+    "He commanded the sun to dry the land",
+    "He sent an angel to gather the waters"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Grace",
+    "Covenant"
+  ],
+  "characters": [
+    "God",
+    "Noah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God remembered Noah and sent a wind over the earth, and the floodwaters began to go down."
+}

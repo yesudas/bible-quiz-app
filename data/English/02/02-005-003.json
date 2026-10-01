@@ -1,0 +1,28 @@
+{
+  "id": "02-005-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 5,
+  "verse_reference": "Exodus 5:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Pharaoh stop supplying to the Israelites for making bricks?",
+  "options": [
+    "Water",
+    "Straw",
+    "Clay",
+    "Tools"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh ordered that the people no longer be given straw but must gather it themselves to make bricks."
+}

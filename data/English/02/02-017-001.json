@@ -1,0 +1,32 @@
+{
+  "id": "02-017-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 17,
+  "verse_reference": "Exodus 17:1-3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the people quarrel with Moses at Rephidim?",
+  "options": [
+    "They had lost their way",
+    "They wanted more manna",
+    "There was no water to drink",
+    "They feared an enemy attack"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Faith"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "There was no water for the people to drink at Rephidim, so they quarreled with Moses and tested the LORD."
+}

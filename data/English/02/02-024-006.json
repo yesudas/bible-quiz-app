@@ -1,0 +1,31 @@
+{
+  "id": "02-024-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 24,
+  "verse_reference": "Exodus 24:14",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whom did Moses leave in charge of the people while he was on the mountain?",
+  "options": [
+    "Joshua and Caleb",
+    "Nadab and Abihu",
+    "Jethro and Eleazar",
+    "Aaron and Hur"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Aaron",
+    "Hur",
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses told the elders to wait and left Aaron and Hur in charge, saying anyone with a dispute could go to them."
+}

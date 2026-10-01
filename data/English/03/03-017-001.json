@@ -1,0 +1,32 @@
+{
+  "id": "03-017-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 17,
+  "verse_reference": "Leviticus 17:3-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Where were the Israelites commanded to bring an animal they wanted to sacrifice?",
+  "options": [
+    "To their own homes",
+    "To the entrance of the tent of meeting",
+    "To the top of a hill",
+    "To the edge of the camp"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Law",
+    "Holiness"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 17:3-4 commanded that a sacrifice be brought to the entrance of the tent of meeting, not offered anywhere else."
+}

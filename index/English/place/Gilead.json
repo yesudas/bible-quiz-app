@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Gilead",
+    "label": "Gilead",
+    "count": 2,
+    "paths": [
+        "English/04/04-032-001.json",
+        "English/04/04-036-001.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

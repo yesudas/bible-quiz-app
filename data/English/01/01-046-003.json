@@ -1,0 +1,31 @@
+{
+  "id": "01-046-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 46,
+  "verse_reference": "Genesis 46:26-27",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "How many members of Jacob's family were in Egypt in all, according to this chapter?",
+  "options": [
+    "Fifty",
+    "Sixty",
+    "Seventy",
+    "Eighty"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Covenant"
+  ],
+  "characters": [
+    "Jacob",
+    "Joseph"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The total number of Jacob's family who were in Egypt, including Joseph and his sons, was seventy in all."
+}

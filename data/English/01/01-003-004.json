@@ -1,0 +1,34 @@
+{
+  "id": "01-003-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 3,
+  "verse_reference": "Genesis 3:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Adam and Eve hide when they heard God in the garden?",
+  "options": [
+    "They were tired and resting",
+    "They were afraid because they were naked",
+    "They were playing a game",
+    "They were looking for the serpent"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Shame"
+  ],
+  "characters": [
+    "Adam",
+    "Eve",
+    "God"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They hid from God because they were afraid and realized they were naked after they had sinned."
+}

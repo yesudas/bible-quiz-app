@@ -1,0 +1,30 @@
+{
+  "id": "01-018-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 18,
+  "verse_reference": "Genesis 18:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Sarah deny that she had laughed?",
+  "options": [
+    "She had forgotten laughing",
+    "She was afraid",
+    "She wanted to please Abraham",
+    "She did not hear the promise"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Sarah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sarah was afraid, so she denied laughing, but the LORD said that she had indeed laughed."
+}

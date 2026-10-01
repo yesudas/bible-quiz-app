@@ -1,0 +1,29 @@
+{
+  "id": "02-012-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 12,
+  "verse_reference": "Exodus 12:29",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened at midnight when the LORD struck Egypt?",
+  "options": [
+    "Every firstborn in Egypt died",
+    "A great storm came",
+    "The Nile turned to blood",
+    "Darkness covered the land"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At midnight the LORD struck down every firstborn in Egypt, from Pharaoh's firstborn to the firstborn of the prisoner, and the firstborn of the animals."
+}

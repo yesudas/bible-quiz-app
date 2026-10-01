@@ -1,0 +1,30 @@
+{
+  "id": "01-026-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 26,
+  "verse_reference": "Genesis 26:14-16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Abimelek ask Isaac to move away from Gerar?",
+  "options": [
+    "Isaac had broken a law",
+    "Isaac had become too powerful and wealthy",
+    "Isaac had refused to pay taxes",
+    "Isaac had insulted the king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Isaac",
+    "Abimelek"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaac grew so rich and powerful that the Philistines envied him, and Abimelek told him to move away because he had become too strong."
+}

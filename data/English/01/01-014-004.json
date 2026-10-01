@@ -1,0 +1,31 @@
+{
+  "id": "01-014-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 14,
+  "verse_reference": "Genesis 14:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Abram give to Melchizedek?",
+  "options": [
+    "Half of all the goods",
+    "A tenth of everything",
+    "His finest livestock",
+    "Nothing, for Melchizedek refused it"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Abraham",
+    "Melchizedek"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abram gave Melchizedek a tenth of everything he had recovered."
+}

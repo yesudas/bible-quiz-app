@@ -1,0 +1,29 @@
+{
+  "id": "03-013-004",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 13,
+  "verse_reference": "Leviticus 13:45",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was a person with a defiling skin disease required to call out?",
+  "options": [
+    "'Peace, peace'",
+    "'Help me, help me'",
+    "'Unclean, unclean'",
+    "'Away, away'"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Holiness",
+    "Suffering"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 13:45 says the person with the disease had to cry out 'Unclean, unclean' to warn others."
+}

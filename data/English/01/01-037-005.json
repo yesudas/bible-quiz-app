@@ -1,0 +1,30 @@
+{
+  "id": "01-037-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 37,
+  "verse_reference": "Genesis 37:9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Joseph's second dream, what bowed down to him?",
+  "options": [
+    "Eleven brothers standing in a field",
+    "Twelve sheaves of grain",
+    "The animals of the flock",
+    "The sun, the moon, and eleven stars"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph dreamed that the sun, moon, and eleven stars bowed down to him, which his father understood to mean the family would bow to him."
+}

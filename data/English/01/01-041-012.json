@@ -1,0 +1,29 @@
+{
+  "id": "01-041-012",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 41,
+  "verse_reference": "Genesis 41:46",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "How old was Joseph when he entered the service of Pharaoh?",
+  "options": [
+    "Seventeen years old",
+    "Thirty years old",
+    "Forty years old",
+    "Twenty-five years old"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph was thirty years old when he entered the service of Pharaoh, king of Egypt."
+}

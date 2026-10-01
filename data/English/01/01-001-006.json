@@ -1,0 +1,31 @@
+{
+  "id": "01-001-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 1,
+  "verse_reference": "Genesis 1:26-27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In whose image did God create human beings?",
+  "options": [
+    "In the image of the animals",
+    "In His own image",
+    "In the image of the angels",
+    "In the image of the earth"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God created mankind in His own image, male and female He created them."
+}

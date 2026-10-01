@@ -1,0 +1,32 @@
+{
+  "id": "01-018-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 18,
+  "verse_reference": "Genesis 18:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How many visitors came to Abraham that day?",
+  "options": [
+    "Two",
+    "Four",
+    "Seven",
+    "Three"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Angels"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham looked up and saw three men standing nearby, and he hurried to welcome them."
+}

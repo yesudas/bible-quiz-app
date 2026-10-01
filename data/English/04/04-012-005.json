@@ -1,0 +1,32 @@
+{
+  "id": "04-012-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 12,
+  "verse_reference": "Numbers 12:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened to Miriam after God's anger burned against them?",
+  "options": [
+    "She lost her voice",
+    "She became leprous, white as snow",
+    "She was struck blind",
+    "She fell into a deep sleep"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Miriam"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the cloud lifted, Miriam had become leprous, as white as snow, because of what she had done."
+}

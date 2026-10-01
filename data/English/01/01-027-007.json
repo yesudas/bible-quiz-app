@@ -1,0 +1,31 @@
+{
+  "id": "01-027-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 27,
+  "verse_reference": "Genesis 27:27-29",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Isaac's blessing promise to the son he thought was Esau?",
+  "options": [
+    "A long life free of trouble",
+    "Great skill in hunting",
+    "Plenty of grain and wine, and rule over nations and his brothers",
+    "Safe travels to a far land"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Family"
+  ],
+  "characters": [
+    "Isaac",
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaac blessed Jacob with the dew of heaven, plenty of grain and new wine, and rule over nations and his brothers."
+}

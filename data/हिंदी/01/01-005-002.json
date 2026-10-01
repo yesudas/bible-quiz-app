@@ -1,0 +1,33 @@
+{
+  "id": "01-005-002",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 5,
+  "verse_reference": "उत्पत्ति 5:3-5",
+  "question_type": "DIRECT",
+  "difficulty": "Medium",
+  "question": "आदम कुल कितने वर्ष जीवित रहा और उसके बाद उसकी मृत्यु हुई?",
+  "options": [
+    "905 वर्ष",
+    "930 वर्ष",
+    "950 वर्ष",
+    "969 वर्ष"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "वंशावली",
+    "मृत्यु"
+  ],
+  "characters": [
+    "आदम"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "उत्पत्ति 5:5 में लिखा है कि आदम की कुल आयु नौ सौ तीस वर्ष की हुई, और उसके बाद वह मर गया।"
+}

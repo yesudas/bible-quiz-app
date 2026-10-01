@@ -1,0 +1,32 @@
+{
+  "id": "01-049-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 49,
+  "verse_reference": "Genesis 49:29-32",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Jacob ask to be buried with his ancestors?",
+  "options": [
+    "In the cave in the field of Machpelah near Mamre",
+    "In Egypt beside Joseph",
+    "In Bethlehem near Rachel",
+    "In Bethel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Covenant"
+  ],
+  "characters": [
+    "Jacob",
+    "Abraham",
+    "Isaac"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob asked to be buried in the cave in the field of Machpelah near Mamre, where Abraham, Sarah, Isaac, Rebekah, and Leah were buried."
+}

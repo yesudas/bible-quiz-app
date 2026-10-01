@@ -1,0 +1,32 @@
+{
+  "id": "02-009-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 9,
+  "verse_reference": "Exodus 9:27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Pharaoh admit during the plague of hail?",
+  "options": [
+    "That he had sinned",
+    "That the LORD did not exist",
+    "That Moses was a magician",
+    "That Egypt was cursed forever"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Repentance"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh admitted that this time he had sinned and that the LORD was in the right, but he did not truly repent."
+}

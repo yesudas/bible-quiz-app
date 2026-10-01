@@ -1,0 +1,30 @@
+{
+  "id": "03-012-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 12,
+  "verse_reference": "Leviticus 12:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What could a woman who could not afford a lamb bring as her offering?",
+  "options": [
+    "A young bull",
+    "A measure of grain",
+    "Two doves or two young pigeons",
+    "A jar of oil"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Provision",
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 12:8 says a woman who could not afford a lamb could bring two doves or two young pigeons for her offering."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "02-038-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 38,
+  "verse_reference": "Exodus 38:25-26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Where did the silver used for the tabernacle come from?",
+  "options": [
+    "A gift from the Egyptians",
+    "Silver found in the desert",
+    "The amount each counted person gave in the census",
+    "The sale of animals"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The silver came from the census, where each person counted gave a set amount, and it was used for the bases and hooks of the sanctuary."
+}

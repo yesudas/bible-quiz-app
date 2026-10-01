@@ -1,0 +1,31 @@
+{
+  "id": "04-009-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 9,
+  "verse_reference": "Numbers 9:17-18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the Israelites know when to move and when to stay?",
+  "options": [
+    "They followed the seasons",
+    "Moses decided each morning",
+    "They moved every seven days",
+    "They moved when the cloud lifted and camped when it settled"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Faith",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the cloud lifted from the tabernacle, the Israelites set out; when it settled, they made camp, moving only at the Lord's command."
+}

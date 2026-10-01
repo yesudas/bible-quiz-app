@@ -1,0 +1,30 @@
+{
+  "id": "01-005-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 5,
+  "verse_reference": "Genesis 5:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does Genesis 5 say God made mankind in the likeness of?",
+  "options": [
+    "The animals",
+    "God Himself",
+    "The angels",
+    "The earth"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Genesis 5 begins by recalling that when God created mankind, He made them in the likeness of God."
+}

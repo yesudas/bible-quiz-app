@@ -1,0 +1,31 @@
+{
+  "id": "02-040-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 40,
+  "verse_reference": "Exodus 40:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How well did Moses follow God's instructions in setting up the tabernacle?",
+  "options": [
+    "He changed a few things",
+    "He left some parts out",
+    "He waited for the people to decide",
+    "He did everything just as the LORD commanded him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Obedience",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses did everything just as the LORD had commanded him, setting up the tabernacle exactly as instructed."
+}

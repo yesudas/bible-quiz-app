@@ -1,0 +1,30 @@
+{
+  "id": "01-014-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 14,
+  "verse_reference": "Genesis 14:12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was captured when the invading kings carried off the people and goods of Sodom?",
+  "options": [
+    "Abram",
+    "Lot, Abram's nephew",
+    "Melchizedek",
+    "The king of Sodom"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Lot"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The invading kings captured Lot, Abram's nephew, who was living in Sodom, along with his possessions."
+}

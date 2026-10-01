@@ -1,0 +1,30 @@
+{
+  "id": "04-026-004",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 26,
+  "verse_reference": "Numbers 26:52-54",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was the census used to decide?",
+  "options": [
+    "How the land would be divided among the tribes",
+    "Who would become the next leader",
+    "How much food to store",
+    "Where to build the temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Covenant",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The land was to be divided as an inheritance according to the number counted, with larger groups receiving more and the distribution made by lot."
+}

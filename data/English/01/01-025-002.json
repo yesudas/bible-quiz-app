@@ -1,0 +1,31 @@
+{
+  "id": "01-025-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 25,
+  "verse_reference": "Genesis 25:5-6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "To whom did Abraham leave everything he owned?",
+  "options": [
+    "To Ishmael",
+    "To the sons of Keturah",
+    "To Isaac",
+    "To his servant"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Covenant"
+  ],
+  "characters": [
+    "Abraham",
+    "Isaac"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham left everything he owned to Isaac, while giving gifts to his other sons and sending them away."
+}

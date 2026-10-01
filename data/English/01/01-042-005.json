@@ -1,0 +1,30 @@
+{
+  "id": "01-042-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 42,
+  "verse_reference": "Genesis 42:15-16",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Joseph demand as a test to prove the brothers were not spies?",
+  "options": [
+    "That they pay double for the grain",
+    "That they bring their youngest brother to Egypt",
+    "That they stay in Egypt forever",
+    "That they swear an oath to Pharaoh"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Joseph",
+    "Benjamin"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph said they must bring their youngest brother to Egypt to prove their words were true, keeping one of them as a hostage."
+}

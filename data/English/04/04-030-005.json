@@ -1,0 +1,28 @@
+{
+  "id": "04-030-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 30,
+  "verse_reference": "Numbers 30:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was true of a vow made by a widow or divorced woman?",
+  "options": [
+    "It was always canceled",
+    "It had to be approved by a man",
+    "She was bound by whatever she vowed",
+    "It lasted only one day"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A widow or divorced woman was bound by any vow or pledge she made, since no father or husband had authority over it."
+}

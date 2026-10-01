@@ -1,0 +1,29 @@
+{
+  "id": "01-018-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 18,
+  "verse_reference": "Genesis 18:20-21",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Which cities did the LORD say He would judge because their sin was so great?",
+  "options": [
+    "Babel and Ur",
+    "Nineveh and Tyre",
+    "Jericho and Ai",
+    "Sodom and Gomorrah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said the outcry against Sodom and Gomorrah was great, and He would see whether their sin was as bad as reported."
+}

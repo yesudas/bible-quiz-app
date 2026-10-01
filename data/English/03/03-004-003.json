@@ -1,0 +1,30 @@
+{
+  "id": "03-004-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 4,
+  "verse_reference": "Leviticus 4:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What animal was the anointed priest to bring if he sinned unintentionally?",
+  "options": [
+    "A young bull without defect",
+    "A pair of doves",
+    "A female goat",
+    "A ram from the flock"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Priesthood",
+    "Sacrifice"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 4:3 says the anointed priest was to bring a young bull without defect as a sin offering."
+}

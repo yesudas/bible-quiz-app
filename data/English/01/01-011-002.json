@@ -1,0 +1,32 @@
+{
+  "id": "01-011-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 11,
+  "verse_reference": "Genesis 11:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did God stop the people from building the tower?",
+  "options": [
+    "He sent a flood upon the city",
+    "He knocked the tower down",
+    "He confused their language so they could not understand each other",
+    "He made them fall asleep"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [
+    "God"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God confused their language so they could not understand one another, and they stopped building the city."
+}

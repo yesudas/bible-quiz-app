@@ -1,0 +1,31 @@
+{
+  "id": "01-008-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 8,
+  "verse_reference": "Genesis 8:7-8",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "Which bird did Noah send out from the ark first?",
+  "options": [
+    "A dove",
+    "A sparrow",
+    "A raven",
+    "An eagle"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Noah"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Noah first sent out a raven, and later he sent out a dove to see if the water had gone down."
+}

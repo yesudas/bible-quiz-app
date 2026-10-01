@@ -1,0 +1,31 @@
+{
+  "id": "01-041-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 41,
+  "verse_reference": "Genesis 41:33-36",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What plan did Joseph suggest to prepare for the famine?",
+  "options": [
+    "To buy grain from other nations",
+    "To store up grain during the years of plenty",
+    "To move the people to another land",
+    "To pray for the famine to end"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph advised Pharaoh to appoint a wise man to store up grain during the seven years of plenty so the land would survive the famine."
+}

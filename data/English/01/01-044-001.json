@@ -1,0 +1,31 @@
+{
+  "id": "01-044-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 44,
+  "verse_reference": "Genesis 44:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Joseph secretly place in Benjamin's sack?",
+  "options": [
+    "A bag of gold",
+    "His silver cup",
+    "A written letter",
+    "Extra grain"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Joseph",
+    "Benjamin"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph ordered his steward to put his own silver cup in the mouth of Benjamin's sack, along with his silver."
+}

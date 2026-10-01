@@ -1,0 +1,30 @@
+{
+  "id": "03-026-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 26,
+  "verse_reference": "Leviticus 26:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "God promised, 'I will walk among you and be your God, and you will be my ______.'",
+  "options": [
+    "servants",
+    "people",
+    "children",
+    "priests"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Promise",
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 26:12 gives God's covenant promise to walk among them, be their God, and have them as his people."
+}

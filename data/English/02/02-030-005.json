@@ -1,0 +1,28 @@
+{
+  "id": "02-030-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 30,
+  "verse_reference": "Exodus 30:31-33",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What rule was given about the sacred anointing oil?",
+  "options": [
+    "It could be sold to anyone",
+    "It was to be poured on the ground",
+    "It was not to be used on ordinary people or copied for common use",
+    "It could be used as perfume"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The sacred anointing oil was holy and was not to be poured on ordinary people or made in the same way for common use."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "01-031-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 31,
+  "verse_reference": "Genesis 31:24",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God warn Laban in a dream not to do to Jacob?",
+  "options": [
+    "Take back his flocks",
+    "Follow him any further",
+    "Tell his brothers",
+    "Say anything to him, good or bad"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Leadership"
+  ],
+  "characters": [
+    "Laban",
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God came to Laban in a dream and warned him to say nothing to Jacob, either good or bad."
+}

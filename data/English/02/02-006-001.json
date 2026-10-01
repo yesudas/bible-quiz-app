@@ -1,0 +1,31 @@
+{
+  "id": "02-006-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 6,
+  "verse_reference": "Exodus 6:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "By what name did God say He appeared to Abraham, Isaac, and Jacob?",
+  "options": [
+    "The LORD",
+    "God Almighty",
+    "The Everlasting God",
+    "The Holy One"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [
+    "Abraham",
+    "Isaac",
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He appeared to the patriarchs as God Almighty, but by His name the LORD He had not made Himself fully known to them."
+}

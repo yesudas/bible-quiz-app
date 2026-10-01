@@ -1,0 +1,32 @@
+{
+  "id": "02-001-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 1,
+  "verse_reference": "Exodus 1:15",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "What were the names of the two Hebrew midwives?",
+  "options": [
+    "Shiphrah and Puah",
+    "Rachel and Leah",
+    "Miriam and Jochebed",
+    "Naomi and Ruth"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Leadership"
+  ],
+  "characters": [
+    "Shiphrah",
+    "Puah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The two Hebrew midwives were named Shiphrah and Puah, and they feared God."
+}

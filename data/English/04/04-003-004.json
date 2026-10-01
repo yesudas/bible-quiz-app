@@ -1,0 +1,34 @@
+{
+  "id": "04-003-004",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 3,
+  "verse_reference": "Numbers 3:17",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who were the three sons of Levi, whose families formed the Levite clans?",
+  "options": [
+    "Nadab, Abihu, and Eleazar",
+    "Reuben, Simeon, and Judah",
+    "Gershon, Kohath, and Merari",
+    "Moses, Aaron, and Miriam"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Worship"
+  ],
+  "characters": [
+    "Gershon",
+    "Kohath",
+    "Merari"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The sons of Levi were Gershon, Kohath, and Merari, and their families made up the Levite clans."
+}

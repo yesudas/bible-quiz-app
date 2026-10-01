@@ -1,0 +1,32 @@
+{
+  "id": "01-050-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 50,
+  "verse_reference": "Genesis 50:21",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did Joseph treat his brothers after their father's death?",
+  "options": [
+    "He sent them away",
+    "He punished them",
+    "He reassured them and promised to provide for them",
+    "He demanded payment"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Forgiveness",
+    "Love"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph reassured his brothers, spoke kindly to them, and promised to provide for them and their children."
+}

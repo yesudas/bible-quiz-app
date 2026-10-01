@@ -1,0 +1,28 @@
+{
+  "id": "02-026-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 26,
+  "verse_reference": "Exodus 26:33-34",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where was the ark of the covenant law to be placed?",
+  "options": [
+    "At the entrance of the tent",
+    "Behind the curtain in the Most Holy Place",
+    "In the middle of the courtyard",
+    "Beside the bronze altar"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The ark of the covenant law was placed behind the curtain in the Most Holy Place, with the atonement cover on top of it."
+}

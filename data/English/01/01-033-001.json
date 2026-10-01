@@ -1,0 +1,32 @@
+{
+  "id": "01-033-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 33,
+  "verse_reference": "Genesis 33:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Whom did Jacob see coming toward him with four hundred men?",
+  "options": [
+    "Laban",
+    "Isaac",
+    "The king of Shechem",
+    "Esau"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jacob",
+    "Esau"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob looked up and saw Esau coming with his four hundred men."
+}

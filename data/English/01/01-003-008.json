@@ -1,0 +1,33 @@
+{
+  "id": "01-003-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 3,
+  "verse_reference": "Genesis 3:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God make to clothe Adam and Eve?",
+  "options": [
+    "Garments of fig leaves",
+    "Robes of fine linen",
+    "Garments of skin",
+    "Cloaks of wool"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Provision",
+    "Grace"
+  ],
+  "characters": [
+    "God",
+    "Adam",
+    "Eve"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord God made garments of skin for Adam and his wife and clothed them."
+}

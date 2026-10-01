@@ -1,0 +1,38 @@
+{
+  "id": "01-004-010",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 4,
+  "verse_reference": "उत्पत्ति 4:17",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "कैन ने एक नगर बसाया और उसका नाम अपने किस पुत्र के नाम पर रखा?",
+  "options": [
+    "ईराद",
+    "हनोक",
+    "महूयाएल",
+    "लमेक"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "इतिहास",
+    "परिवार"
+  ],
+  "characters": [
+    "कैन",
+    "हनोक"
+  ],
+  "places": [
+    {
+      "name": "हनोक",
+      "type": "City"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "कैन ने एक नगर बसाया और उस नगर का नाम अपने पुत्र 'हनोक' के नाम पर रखा।"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "01-029-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 29,
+  "verse_reference": "Genesis 29:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jacob do at the well when he saw Rachel?",
+  "options": [
+    "He rolled the stone away and watered Laban's sheep",
+    "He gave her gold",
+    "He asked her for water",
+    "He rested in the shade"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jacob",
+    "Rachel",
+    "Laban"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob rolled the stone away from the mouth of the well and watered the flock of his uncle Laban."
+}

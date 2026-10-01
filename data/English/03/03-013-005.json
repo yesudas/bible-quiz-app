@@ -1,0 +1,30 @@
+{
+  "id": "03-013-005",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 13,
+  "verse_reference": "Leviticus 13:46",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did a person with a defiling skin disease have to live?",
+  "options": [
+    "Alone, outside the camp",
+    "Inside the tabernacle",
+    "With the priests",
+    "In their own home only"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Holiness",
+    "Suffering"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 13:46 says the person had to live alone, outside the camp, as long as they had the disease."
+}

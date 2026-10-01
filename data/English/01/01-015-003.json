@@ -1,0 +1,32 @@
+{
+  "id": "01-015-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 15,
+  "verse_reference": "Genesis 15:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened when Abram believed the Lord?",
+  "options": [
+    "He was given great riches",
+    "It was credited to him as righteousness",
+    "He was made a king",
+    "He received a new name"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Covenant"
+  ],
+  "characters": [
+    "Abraham",
+    "God"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abram believed the Lord, and the Lord credited it to him as righteousness."
+}

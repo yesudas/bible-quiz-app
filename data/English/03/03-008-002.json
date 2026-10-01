@@ -1,0 +1,33 @@
+{
+  "id": "03-008-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 8,
+  "verse_reference": "Leviticus 8:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Moses pour on Aaron's head to consecrate him?",
+  "options": [
+    "Anointing oil",
+    "Water from the basin",
+    "The blood of a bull",
+    "Wine from the offering"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Priesthood",
+    "Consecration",
+    "Worship"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 8:12 says Moses poured anointing oil on Aaron's head to anoint and consecrate him."
+}

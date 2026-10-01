@@ -1,0 +1,30 @@
+{
+  "id": "03-003-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 3,
+  "verse_reference": "Leviticus 3:17",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What two things did the Lord command the Israelites never to eat as a lasting rule?",
+  "options": [
+    "Bread and wine",
+    "Fat and blood",
+    "Meat and milk",
+    "Salt and honey"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Holiness",
+    "Covenant"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 3:17 gives a lasting command that the Israelites were not to eat any fat or any blood."
+}

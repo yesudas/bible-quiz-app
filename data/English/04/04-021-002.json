@@ -1,0 +1,31 @@
+{
+  "id": "04-021-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 21,
+  "verse_reference": "Numbers 21:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the people complain about as they traveled?",
+  "options": [
+    "The heat of the desert",
+    "The length of the journey",
+    "The manna, calling it detestable food",
+    "The lack of tents"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people spoke against God and Moses, complaining that there was no bread or water and that they hated the manna."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "04-007-006",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 7,
+  "verse_reference": "Numbers 7:12-13",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which leader brought his offering on the first day?",
+  "options": [
+    "Nethanel of Issachar",
+    "Eliab of Zebulun",
+    "Nahshon of the tribe of Judah",
+    "Elizur of Reuben"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Nahshon"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nahshon son of Amminadab, of the tribe of Judah, brought his offering on the first day."
+}

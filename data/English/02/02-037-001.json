@@ -1,0 +1,31 @@
+{
+  "id": "02-037-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 37,
+  "verse_reference": "Exodus 37:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who made the ark of the covenant?",
+  "options": [
+    "Aaron",
+    "Moses",
+    "Bezalel",
+    "Oholiab"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Wisdom"
+  ],
+  "characters": [
+    "Bezalel"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Bezalel made the ark of acacia wood and overlaid it with pure gold, carrying out what God had commanded."
+}

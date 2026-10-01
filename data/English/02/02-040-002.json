@@ -1,0 +1,31 @@
+{
+  "id": "02-040-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 40,
+  "verse_reference": "Exodus 40:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Moses to place inside the tabernacle and shield with the curtain?",
+  "options": [
+    "The bronze altar",
+    "The ark of the covenant law",
+    "The basin of water",
+    "The courtyard posts"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses was to place the ark of the covenant law in the tabernacle and shield it with the curtain."
+}

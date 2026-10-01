@@ -1,0 +1,30 @@
+{
+  "id": "01-030-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 30,
+  "verse_reference": "Genesis 30:43",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the result for Jacob after his agreement with Laban?",
+  "options": [
+    "He lost his flocks",
+    "He returned home poor",
+    "He grew very wealthy with large flocks, servants, and camels",
+    "He stayed the same"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob grew exceedingly prosperous, owning large flocks, female and male servants, camels, and donkeys."
+}

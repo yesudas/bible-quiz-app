@@ -1,0 +1,30 @@
+{
+  "id": "04-016-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 16,
+  "verse_reference": "Numbers 16:35",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What happened to the 250 men who offered incense?",
+  "options": [
+    "Fire from the Lord consumed them",
+    "They were made priests",
+    "They were forgiven and sent home",
+    "They fell sick with a plague"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Fire came out from the Lord and consumed the 250 men who were offering the incense."
+}

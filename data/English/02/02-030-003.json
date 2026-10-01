@@ -1,0 +1,28 @@
+{
+  "id": "02-030-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 30,
+  "verse_reference": "Exodus 30:13-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How much was each person counted in the census to give as an offering?",
+  "options": [
+    "One gold coin",
+    "A tenth of their wealth",
+    "As much as they wished",
+    "Half a shekel, the same for rich and poor"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Each person counted was to give half a shekel as a ransom; the rich were not to give more and the poor not less."
+}

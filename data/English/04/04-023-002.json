@@ -1,0 +1,31 @@
+{
+  "id": "04-023-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 23,
+  "verse_reference": "Numbers 23:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Balaam say he could not curse Israel?",
+  "options": [
+    "Because he was afraid of Balak",
+    "Because he could not curse those God had not cursed",
+    "Because he had lost his power",
+    "Because the people were too far away"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Promise"
+  ],
+  "characters": [
+    "Balaam"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Balaam said he could not curse those whom God had not cursed, nor denounce those the Lord had not denounced."
+}

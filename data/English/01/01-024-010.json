@@ -1,0 +1,31 @@
+{
+  "id": "01-024-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 24,
+  "verse_reference": "Genesis 24:33-49",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the servant do before he would eat in Laban's house?",
+  "options": [
+    "He rested from his journey",
+    "He told them why he had come",
+    "He counted his gifts",
+    "He watered his camels again"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Mission"
+  ],
+  "characters": [
+    "Laban",
+    "Rebekah"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The servant refused to eat until he had explained his errand, telling them how God had led him to Rebekah."
+}

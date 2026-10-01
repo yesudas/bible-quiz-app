@@ -1,0 +1,34 @@
+{
+  "id": "04-021-007",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 21,
+  "verse_reference": "Numbers 21:33-35",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which king of Bashan did Israel defeat at the end of the chapter?",
+  "options": [
+    "Sihon",
+    "Balak",
+    "Arad",
+    "Og"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Bashan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Og king of Bashan came out against Israel, but the Lord gave him into their hands and they defeated him and took his land."
+}

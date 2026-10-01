@@ -1,0 +1,33 @@
+{
+  "id": "01-030-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 30,
+  "verse_reference": "Genesis 30:22-24",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "What was the name of the son Rachel finally gave birth to?",
+  "options": [
+    "Judah",
+    "Levi",
+    "Dan",
+    "Joseph"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Hope"
+  ],
+  "characters": [
+    "Rachel",
+    "Joseph"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God remembered Rachel and enabled her to have a son, and she named him Joseph, praying that God would add another son."
+}

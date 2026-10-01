@@ -1,0 +1,33 @@
+{
+  "id": "04-016-007",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 16,
+  "verse_reference": "Numbers 16:47-48",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How did Aaron stop the plague that broke out among the people?",
+  "options": [
+    "He prayed at the altar all night",
+    "He sent the sick outside the camp",
+    "He offered a lamb for each family",
+    "He ran with a censer and stood between the living and the dead"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Forgiveness",
+    "Leadership"
+  ],
+  "characters": [
+    "Aaron",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Aaron took a censer with incense and ran into the middle of the people, standing between the living and the dead, and the plague stopped."
+}

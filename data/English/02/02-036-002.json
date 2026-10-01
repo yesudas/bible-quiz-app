@@ -1,0 +1,30 @@
+{
+  "id": "02-036-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 36,
+  "verse_reference": "Exodus 36:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the craftsmen report to Moses about the people's offerings?",
+  "options": [
+    "The people had stopped giving",
+    "The people were bringing more than enough for the work",
+    "The offerings were of poor quality",
+    "There was nothing left to give"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The skilled workers told Moses that the people were bringing more than enough to do all the work the LORD commanded."
+}

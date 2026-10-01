@@ -1,0 +1,31 @@
+{
+  "id": "01-023-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 23,
+  "verse_reference": "Genesis 23:19-20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why was buying the cave of Machpelah important for Abraham?",
+  "options": [
+    "It gave him land to farm",
+    "It became a burial place he legally owned in Canaan",
+    "It provided water for his flocks",
+    "It made him ruler over the Hittites"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Family"
+  ],
+  "characters": [
+    "Abraham",
+    "Sarah"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham buried Sarah in the cave, and the field and cave became his own legally owned burial property in the land of Canaan."
+}

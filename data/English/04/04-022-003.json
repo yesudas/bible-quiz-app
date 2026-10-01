@@ -1,0 +1,32 @@
+{
+  "id": "04-022-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 22,
+  "verse_reference": "Numbers 22:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God first tell Balaam about going with Balak's men?",
+  "options": [
+    "To go and curse Israel",
+    "Not to go with them or curse the people, for they were blessed",
+    "To go but stay silent",
+    "To send Aaron instead"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Promise"
+  ],
+  "characters": [
+    "Balaam"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Balaam not to go with the men and not to curse the people, because they were blessed."
+}

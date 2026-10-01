@@ -1,0 +1,32 @@
+{
+  "id": "01-007-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 7,
+  "verse_reference": "Genesis 7:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How many of each kind of clean animal did God tell Noah to take into the ark?",
+  "options": [
+    "Seven pairs",
+    "Two",
+    "One pair",
+    "Ten"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience",
+    "Worship"
+  ],
+  "characters": [
+    "God",
+    "Noah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Noah to take seven pairs of every kind of clean animal, and one pair of the unclean animals."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "01-047-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 47,
+  "verse_reference": "Genesis 47:23-24",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "What portion of the harvest did Joseph require the people to give to Pharaoh?",
+  "options": [
+    "One tenth",
+    "One third",
+    "One half",
+    "One fifth"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Wisdom"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph told the people to give a fifth of their harvest to Pharaoh and to keep the other four-fifths for themselves."
+}

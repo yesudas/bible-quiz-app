@@ -1,0 +1,32 @@
+{
+  "id": "01-049-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 49,
+  "verse_reference": "Genesis 49:22-26",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which son did Jacob describe as a fruitful vine near a spring, richly blessed?",
+  "options": [
+    "Joseph",
+    "Benjamin",
+    "Judah",
+    "Dan"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Family"
+  ],
+  "characters": [
+    "Joseph",
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob described Joseph as a fruitful vine near a spring and pronounced rich blessings on him above his brothers."
+}

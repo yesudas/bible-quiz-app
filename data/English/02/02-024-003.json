@@ -1,0 +1,31 @@
+{
+  "id": "02-024-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 24,
+  "verse_reference": "Exodus 24:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Moses read aloud to the people to confirm the covenant?",
+  "options": [
+    "A letter from Pharaoh",
+    "A list of the tribes",
+    "The song of Miriam",
+    "The Book of the Covenant"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Law"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses took the Book of the Covenant and read it to the people, who promised to do everything and to obey."
+}

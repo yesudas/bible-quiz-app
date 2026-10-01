@@ -1,0 +1,31 @@
+{
+  "id": "02-033-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 33,
+  "verse_reference": "Exodus 33:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the LORD speak with Moses at the tent of meeting?",
+  "options": [
+    "Only in dreams",
+    "Face to face, as one speaks with a friend",
+    "Through an angel",
+    "In a loud voice from heaven"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD would speak to Moses face to face, as one speaks with a friend."
+}

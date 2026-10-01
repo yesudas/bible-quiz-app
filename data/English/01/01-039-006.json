@@ -1,0 +1,31 @@
+{
+  "id": "01-039-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 39,
+  "verse_reference": "Genesis 39:16-18",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How did Potiphar's wife use Joseph's cloak against him?",
+  "options": [
+    "She burned it to hide the truth",
+    "She sold it to travelers",
+    "She kept it as a pledge",
+    "She used it as false evidence to accuse him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Suffering"
+  ],
+  "characters": [
+    "Joseph",
+    "Potiphar"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Potiphar's wife kept Joseph's cloak and used it as false evidence to accuse him falsely before her husband."
+}

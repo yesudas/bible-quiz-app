@@ -1,0 +1,14 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Dinah",
+    "label": "Dinah",
+    "count": 4,
+    "paths": [
+        "English/01/01-030-003.json",
+        "English/01/01-034-001.json",
+        "English/01/01-034-002.json",
+        "English/01/01-034-003.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "04-003-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 3,
+  "verse_reference": "Numbers 3:6-9",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was the job of the tribe of Levi?",
+  "options": [
+    "To fight Israel's battles",
+    "To rule over the other tribes",
+    "To farm the land for the people",
+    "To help Aaron and the priests with the work of the tabernacle"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "places": [
+    {
+      "name": "Tent of Meeting",
+      "type": "tent"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Levites were given to help Aaron and his sons do the work of the tabernacle, serving at the tent of meeting."
+}

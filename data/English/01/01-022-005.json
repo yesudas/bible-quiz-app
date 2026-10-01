@@ -1,0 +1,32 @@
+{
+  "id": "01-022-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 22,
+  "verse_reference": "Genesis 22:7-8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Abraham answer when Isaac asked where the lamb for the offering was?",
+  "options": [
+    "That there was no lamb",
+    "That they would buy one later",
+    "That Isaac should not ask",
+    "That God Himself would provide the lamb"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [
+    "Abraham",
+    "Isaac"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham told Isaac that God Himself would provide the lamb for the burnt offering."
+}

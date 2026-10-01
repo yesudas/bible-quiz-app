@@ -1,0 +1,32 @@
+{
+  "id": "01-032-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 32,
+  "verse_reference": "Genesis 32:9-12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In his prayer, what did Jacob ask God to do?",
+  "options": [
+    "To destroy Esau's men",
+    "To send him back to Laban",
+    "To give him more flocks",
+    "To save him from the hand of his brother Esau"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Promise"
+  ],
+  "characters": [
+    "Jacob",
+    "Esau"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob prayed for God to rescue him from the hand of Esau, reminding God of His promise to make his descendants many."
+}

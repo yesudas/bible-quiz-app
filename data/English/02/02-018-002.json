@@ -1,0 +1,31 @@
+{
+  "id": "02-018-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 18,
+  "verse_reference": "Exodus 18:2-4",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whom did Jethro bring with him to Moses?",
+  "options": [
+    "Aaron and Miriam",
+    "The elders of Midian",
+    "Moses' wife Zipporah and her two sons",
+    "Joshua and Hur"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jethro",
+    "Zipporah",
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jethro brought Moses' wife Zipporah, who had been sent home earlier, and her two sons, Gershom and Eliezer."
+}

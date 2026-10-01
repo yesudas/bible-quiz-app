@@ -1,0 +1,31 @@
+{
+  "id": "01-021-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 21,
+  "verse_reference": "Genesis 21:20-21",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Ishmael become as he grew up in the desert?",
+  "options": [
+    "A shepherd",
+    "A farmer",
+    "An archer",
+    "A trader"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Ishmael",
+    "Hagar"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God was with Ishmael as he grew up, and he lived in the desert and became an archer."
+}

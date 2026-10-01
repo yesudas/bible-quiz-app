@@ -1,0 +1,30 @@
+{
+  "id": "04-014-006",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 14,
+  "verse_reference": "Numbers 14:33-34",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How many years would the Israelites wander in the wilderness?",
+  "options": [
+    "Ten years",
+    "Seventy years",
+    "Four years",
+    "Forty years"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They would wander in the wilderness forty years, one year for each of the forty days the spies explored the land."
+}

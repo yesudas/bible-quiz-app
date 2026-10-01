@@ -1,0 +1,28 @@
+{
+  "id": "01-024-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 24,
+  "verse_reference": "Genesis 24:10",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "To which town did Abraham's servant travel to find a wife for Isaac?",
+  "options": [
+    "The city of Sodom",
+    "The land of Egypt",
+    "The town of Bethel",
+    "The town of Nahor in Aram Naharaim"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Marriage",
+    "Family"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The servant traveled to the town of Nahor in Aram Naharaim, the region of Abraham's relatives."
+}

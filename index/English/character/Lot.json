@@ -1,0 +1,25 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Lot",
+    "label": "Lot",
+    "count": 15,
+    "paths": [
+        "English/01/01-011-006.json",
+        "English/01/01-012-003.json",
+        "English/01/01-013-002.json",
+        "English/01/01-013-003.json",
+        "English/01/01-013-004.json",
+        "English/01/01-014-001.json",
+        "English/01/01-014-002.json",
+        "English/01/01-019-001.json",
+        "English/01/01-019-002.json",
+        "English/01/01-019-003.json",
+        "English/01/01-019-004.json",
+        "English/01/01-019-005.json",
+        "English/01/01-019-006.json",
+        "English/01/01-019-007.json",
+        "English/01/01-019-010.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

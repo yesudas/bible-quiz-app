@@ -1,0 +1,30 @@
+{
+  "id": "02-039-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 39,
+  "verse_reference": "Exodus 39:43",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Moses do after inspecting all the finished work?",
+  "options": [
+    "He told them to start again",
+    "He blessed the people because they had done it as the LORD commanded",
+    "He kept the work hidden",
+    "He sent it back to be changed"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses inspected the work and saw they had done it just as the LORD had commanded, so he blessed them."
+}

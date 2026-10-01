@@ -1,0 +1,33 @@
+{
+  "id": "04-022-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 22,
+  "verse_reference": "Numbers 22:5-6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did Balak send for to curse the people of Israel?",
+  "options": [
+    "Aaron",
+    "Moses",
+    "Balaam",
+    "Eleazar"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Sin"
+  ],
+  "characters": [
+    "Balaam",
+    "Balak"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Balak sent messengers to Balaam, asking him to come and curse Israel, because he believed Balaam's blessings and curses had power."
+}

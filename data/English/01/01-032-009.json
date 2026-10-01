@@ -1,0 +1,31 @@
+{
+  "id": "01-032-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 32,
+  "verse_reference": "Genesis 32:26",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Jacob said to the man, \"I will not let you go unless you _____ me.\"",
+  "options": [
+    "bless",
+    "release",
+    "answer",
+    "forgive"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob refused to let the man go until the man blessed him."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "01-003-010",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 3,
+  "verse_reference": "उत्पत्ति 3:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "यहोवा परमेश्वर ने आदम और उसकी पत्नी के पहनने के लिए क्या बनाया?",
+  "options": [
+    "सूती वस्त्र",
+    "चमड़े के कुरते",
+    "ऊन के वस्त्र",
+    "सन के अंगरखे"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "अनुग्रह",
+    "प्रायश्चित"
+  ],
+  "characters": [
+    "आदम",
+    "हव्वा"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "यहोवा परमेश्वर ने आदम और उसकी पत्नी के लिए चमड़े के कुरते बनाकर उनको पहना दिए।"
+}

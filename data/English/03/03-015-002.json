@@ -1,0 +1,29 @@
+{
+  "id": "03-015-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 15,
+  "verse_reference": "Leviticus 15:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "After a man was healed from a discharge, how long did he wait before being clean?",
+  "options": [
+    "Three days",
+    "Seven days",
+    "One day",
+    "Fourteen days"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Holiness",
+    "Cleansing"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 15:13 says a man who was cleansed from his discharge was to count seven days, wash his clothes, and bathe, and then he would be clean."
+}

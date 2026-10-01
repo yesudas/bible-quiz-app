@@ -1,0 +1,38 @@
+{
+  "id": "04-004-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 4,
+  "verse_reference": "Numbers 4:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which Levite men were counted for the work of the tent of meeting?",
+  "options": [
+    "All males a month old or more",
+    "Men from thirty to fifty years old",
+    "Only the firstborn sons",
+    "Men twenty years old and older"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "places": [
+    {
+      "name": "Tent of Meeting",
+      "type": "tent"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Levite men from thirty to fifty years old were counted to serve in the work at the tent of meeting."
+}

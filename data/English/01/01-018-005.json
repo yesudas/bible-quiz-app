@@ -1,0 +1,31 @@
+{
+  "id": "01-018-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 18,
+  "verse_reference": "Genesis 18:10-12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Sarah respond when she heard she would have a son?",
+  "options": [
+    "She laughed to herself",
+    "She sang for joy",
+    "She wept quietly",
+    "She ran to tell Abraham"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Faith"
+  ],
+  "characters": [
+    "Sarah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sarah laughed to herself, because she and Abraham were both very old and she did not think she could have a child."
+}

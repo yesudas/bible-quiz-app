@@ -1,0 +1,29 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Benjamin",
+    "label": "Benjamin",
+    "count": 19,
+    "paths": [
+        "English/01/01-035-007.json",
+        "English/01/01-035-008.json",
+        "English/01/01-042-002.json",
+        "English/01/01-042-005.json",
+        "English/01/01-042-009.json",
+        "English/01/01-042-010.json",
+        "English/01/01-043-002.json",
+        "English/01/01-043-003.json",
+        "English/01/01-043-006.json",
+        "English/01/01-043-009.json",
+        "English/01/01-043-010.json",
+        "English/01/01-044-001.json",
+        "English/01/01-044-004.json",
+        "English/01/01-044-005.json",
+        "English/01/01-044-007.json",
+        "English/01/01-044-008.json",
+        "English/01/01-044-009.json",
+        "English/01/01-045-006.json",
+        "English/01/01-049-007.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

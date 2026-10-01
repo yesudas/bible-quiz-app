@@ -1,0 +1,29 @@
+{
+  "id": "02-013-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 13,
+  "verse_reference": "Exodus 13:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God tell the Israelites to set apart as holy to Him?",
+  "options": [
+    "Every firstborn male",
+    "Every tenth animal",
+    "All their silver",
+    "The youngest child"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told the Israelites to consecrate to Him every firstborn male, both of people and animals, because it belonged to Him."
+}

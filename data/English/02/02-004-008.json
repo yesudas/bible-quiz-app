@@ -1,0 +1,30 @@
+{
+  "id": "02-004-008",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 4,
+  "verse_reference": "Exodus 4:27-28",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Aaron meet Moses when he came to him?",
+  "options": [
+    "In the wilderness at the mountain of God",
+    "At Pharaoh's palace",
+    "By the Nile River",
+    "In the city of Rameses"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Aaron met Moses at the mountain of God in the wilderness and kissed him, and Moses told him all God had said."
+}

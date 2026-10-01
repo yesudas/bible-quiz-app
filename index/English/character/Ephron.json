@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Ephron",
+    "label": "Ephron",
+    "count": 3,
+    "paths": [
+        "English/01/01-023-006.json",
+        "English/01/01-023-007.json",
+        "English/01/01-023-008.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

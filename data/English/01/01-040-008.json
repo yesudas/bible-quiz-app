@@ -1,0 +1,30 @@
+{
+  "id": "01-040-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 40,
+  "verse_reference": "Genesis 40:20-22",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "On what occasion were both dreams fulfilled?",
+  "options": [
+    "A great festival",
+    "Pharaoh's birthday",
+    "The harvest feast",
+    "A day of sacrifice"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On Pharaoh's birthday, he restored the cupbearer and put the baker to death, exactly as Joseph had said."
+}

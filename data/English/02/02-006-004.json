@@ -1,0 +1,32 @@
+{
+  "id": "02-006-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 6,
+  "verse_reference": "Exodus 6:20",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who were the parents of Aaron and Moses?",
+  "options": [
+    "Amram and Jochebed",
+    "Kohath and Elisheba",
+    "Levi and Sarah",
+    "Izhar and Miriam"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Amram",
+    "Jochebed",
+    "Aaron",
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amram married Jochebed, and she bore him Aaron and Moses."
+}

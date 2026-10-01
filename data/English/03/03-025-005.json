@@ -1,0 +1,30 @@
+{
+  "id": "03-025-005",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 25,
+  "verse_reference": "Leviticus 25:35-37",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What were the Israelites told not to charge a poor fellow Israelite who needed help?",
+  "options": [
+    "A share of the harvest",
+    "Interest on money or food",
+    "A fee for lodging",
+    "A tax to the priests"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Justice",
+    "Money"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 25:36-37 says they were not to charge interest on money or food lent to a poor fellow Israelite."
+}

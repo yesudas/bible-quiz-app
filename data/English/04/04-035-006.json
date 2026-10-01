@@ -1,0 +1,29 @@
+{
+  "id": "04-035-006",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 35,
+  "verse_reference": "Numbers 35:25",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "Until when did the person who fled to a city of refuge have to stay there?",
+  "options": [
+    "Until they paid a fine",
+    "Until the death of the high priest",
+    "For exactly seven years",
+    "Until the next Passover"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Forgiveness"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The person had to remain in the city of refuge until the death of the high priest, after which they could safely return home."
+}

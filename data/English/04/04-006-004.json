@@ -1,0 +1,30 @@
+{
+  "id": "04-006-004",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 6,
+  "verse_reference": "Numbers 6:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was a Nazirite not allowed to go near?",
+  "options": [
+    "A dead body",
+    "The tabernacle",
+    "Running water",
+    "A marketplace"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A Nazirite could not go near a dead body, even that of a father, mother, brother, or sister, during the time of separation."
+}

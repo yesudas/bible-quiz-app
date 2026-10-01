@@ -1,0 +1,35 @@
+{
+  "id": "01-002-004",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 2,
+  "verse_reference": "उत्पत्ति 2:9",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "अदन की वाटिका के ठीक बीच में जीवन के वृक्ष के साथ और कौन-सा विशेष वृक्ष था?",
+  "options": [
+    "ज्ञान का वृक्ष",
+    "भले या बुरे के ज्ञान का वृक्ष",
+    "सदाबहार वृक्ष",
+    "चंगाई का वृक्ष"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "सृष्टि",
+    "आज्ञा"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "अदन",
+      "type": "Garden"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "वाटिका के बीच में जीवन का वृक्ष और भले या बुरे के ज्ञान का वृक्ष भी था।"
+}

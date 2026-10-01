@@ -1,0 +1,29 @@
+{
+  "id": "01-023-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 23,
+  "verse_reference": "Genesis 23:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Abraham describe himself to the Hittites?",
+  "options": [
+    "As their king",
+    "As a foreigner and stranger among them",
+    "As a wealthy merchant",
+    "As a prophet of God"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham called himself a foreigner and stranger among the Hittites when he asked to buy a burial place."
+}

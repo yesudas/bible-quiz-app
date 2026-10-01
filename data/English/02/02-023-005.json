@@ -1,0 +1,28 @@
+{
+  "id": "02-023-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 23,
+  "verse_reference": "Exodus 23:14-16",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "How many times each year were the Israelites to hold a festival to the LORD?",
+  "options": [
+    "Once",
+    "Seven times",
+    "Three times",
+    "Twelve times"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Three times a year they were to hold a festival: the Feast of Unleavened Bread, the Feast of Harvest, and the Feast of Ingathering."
+}

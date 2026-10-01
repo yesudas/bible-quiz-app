@@ -1,0 +1,27 @@
+{
+  "id": "02-001-008",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 1,
+  "verse_reference": "Exodus 1:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What were the two store cities the Israelites built for Pharaoh?",
+  "options": [
+    "Sodom and Gomorrah",
+    "Pithom and Rameses",
+    "Babylon and Nineveh",
+    "Bethel and Ai"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites were forced to build the store cities of Pithom and Rameses for Pharaoh as slave labor."
+}

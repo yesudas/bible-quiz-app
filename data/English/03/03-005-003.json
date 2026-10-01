@@ -1,0 +1,30 @@
+{
+  "id": "03-005-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 5,
+  "verse_reference": "Leviticus 5:15-16",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "When someone sinned against holy things, how much extra did they add when making restitution?",
+  "options": [
+    "A tenth",
+    "A fifth",
+    "A half",
+    "Double the amount"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Repentance",
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 5:16 says the person had to make restitution and add a fifth of the value to it, giving it to the priest."
+}

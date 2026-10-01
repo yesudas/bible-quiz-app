@@ -1,0 +1,39 @@
+{
+  "id": "01-003-001",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 3,
+  "verse_reference": "उत्पत्ति 3:1",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "यहोवा परमेश्वर के बनाए हुए सब बनैले पशुओं में से कौन सबसे अधिक धूर्त था?",
+  "options": [
+    "सिंह",
+    "सर्प",
+    "लोमड़ी",
+    "सियार"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "परीक्षा",
+    "पाप"
+  ],
+  "characters": [
+    "सर्प",
+    "हव्वा"
+  ],
+  "places": [
+    {
+      "name": "अदन",
+      "type": "Garden"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "उत्पत्ति 3:1 के अनुसार, सर्प यहोवा परमेश्वर के बनाए सब बनैले पशुओं में सबसे धूर्त था, और उसने स्त्री से बात की।"
+}

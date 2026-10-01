@@ -1,0 +1,31 @@
+{
+  "id": "01-001-002",
+  "language": "ka",
+  "book_no": 1,
+  "book": "ಆದಿಕಾಂಡ",
+  "chapter": 1,
+  "verse_reference": "ಆದಿಕಾಂಡ 1:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "ದೇವರ ಆತ್ಮನು _________ ಮೇಲೆ ಚಲಿಸುತ್ತಿದ್ದನು.",
+  "options": [
+    "ಆಕಾಶದ",
+    "ಜಲಗಳ",
+    "ಬೆಟ್ಟಗಳ",
+    "ಭೂಮಿಯ"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "ಸೃಷ್ಟಿ",
+    "ಪರಿಶುದ್ಧಾತ್ಮ"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "ಭೂಮಿಯು ಕ್ರಮವಿಲ್ಲದೆಯೂ ಶೂನ್ಯವಾಗಿಯೂ ಇದ್ದಾಗ ದೇವರ ಆತ್ಮನು ಜಲಗಳ ಮೇಲೆ ಚಲಿಸುತ್ತಿದ್ದನು ಎಂದು ವಾಕ್ಯವು ತಿಳಿಸುತ್ತದೆ."
+}

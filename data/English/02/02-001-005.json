@@ -1,0 +1,33 @@
+{
+  "id": "02-001-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 1,
+  "verse_reference": "Exodus 1:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the midwives let the baby boys live?",
+  "options": [
+    "They were afraid of Pharaoh",
+    "They feared God",
+    "They wanted a reward",
+    "They did not hear the command"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Obedience"
+  ],
+  "characters": [
+    "Shiphrah",
+    "Puah"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The midwives feared God and refused to obey Pharaoh, so they let the baby boys live."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "01-013-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 13,
+  "verse_reference": "Genesis 13:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "How is Abram described when he came up from Egypt?",
+  "options": [
+    "Very poor and hungry",
+    "Very wealthy in livestock, silver, and gold",
+    "Sick and weak",
+    "Alone and afraid"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Blessing"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abram had become very wealthy in livestock, silver, and gold when he came up from Egypt."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Nahshon",
+    "label": "Nahshon",
+    "count": 2,
+    "paths": [
+        "English/04/04-002-002.json",
+        "English/04/04-007-006.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

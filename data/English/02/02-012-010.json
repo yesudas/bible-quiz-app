@@ -1,0 +1,27 @@
+{
+  "id": "02-012-010",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 12,
+  "verse_reference": "Exodus 12:37",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "From which city did the Israelites set out on their journey?",
+  "options": [
+    "Pithom",
+    "Memphis",
+    "Rameses",
+    "Goshen"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites journeyed from Rameses to Succoth, about six hundred thousand men on foot, besides women and children."
+}

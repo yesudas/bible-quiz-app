@@ -1,0 +1,32 @@
+{
+  "id": "02-032-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 32,
+  "verse_reference": "Exodus 32:3-4",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Aaron make from the people's gold?",
+  "options": [
+    "A golden throne",
+    "A golden calf",
+    "A golden lamp",
+    "A golden snake"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Aaron collected the people's gold earrings, melted them down, and made them into an idol shaped like a calf."
+}

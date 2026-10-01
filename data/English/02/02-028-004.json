@@ -1,0 +1,30 @@
+{
+  "id": "02-028-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 28,
+  "verse_reference": "Exodus 28:17-21",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "How many precious stones were set in the priest's breastpiece?",
+  "options": [
+    "Seven",
+    "Twelve, one for each tribe",
+    "Four",
+    "Ten"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The breastpiece held twelve precious stones in four rows, each engraved with the name of one of the twelve tribes of Israel."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "01-002-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 2,
+  "verse_reference": "Genesis 2:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which two special trees were in the middle of the garden?",
+  "options": [
+    "The fig tree and the olive tree",
+    "The tree of life and the tree of the knowledge of good and evil",
+    "The vine and the cedar",
+    "The palm tree and the almond tree"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation",
+    "Obedience"
+  ],
+  "characters": [
+    "God"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the middle of the garden were the tree of life and the tree of the knowledge of good and evil."
+}

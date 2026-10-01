@@ -1,0 +1,31 @@
+{
+  "id": "02-008-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 8,
+  "verse_reference": "Exodus 8:16-17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the dust of the ground become in the third plague?",
+  "options": [
+    "Gnats",
+    "Worms",
+    "Ash",
+    "Snakes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Judgment"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Aaron struck the dust, it became gnats on people and animals throughout Egypt."
+}

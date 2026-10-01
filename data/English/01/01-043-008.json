@@ -1,0 +1,30 @@
+{
+  "id": "01-043-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 43,
+  "verse_reference": "Genesis 43:23",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which brother was brought out to the others at Joseph's house?",
+  "options": [
+    "Reuben",
+    "Levi",
+    "Simeon",
+    "Judah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Simeon"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The steward reassured the brothers about the silver and then brought Simeon out to them."
+}

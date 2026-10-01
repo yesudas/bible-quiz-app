@@ -1,0 +1,31 @@
+{
+  "id": "03-020-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 20,
+  "verse_reference": "Leviticus 20:1-5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What sin brought the death penalty at the start of Leviticus 20?",
+  "options": [
+    "Breaking the Sabbath",
+    "Sacrificing children to Molek",
+    "Eating unclean food",
+    "Stealing from a neighbor"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Judgment",
+    "Idolatry"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 20:2 says anyone who sacrificed their children to Molek was to be put to death."
+}

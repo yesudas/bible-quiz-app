@@ -1,0 +1,32 @@
+{
+  "id": "01-004-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 4,
+  "verse_reference": "Genesis 4:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the work of each brother, Cain and Abel?",
+  "options": [
+    "Cain kept flocks and Abel worked the soil",
+    "Abel kept flocks and Cain worked the soil",
+    "Both were fishermen",
+    "Both were shepherds"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Worship"
+  ],
+  "characters": [
+    "Cain",
+    "Abel"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abel kept flocks as a shepherd, while Cain worked the soil as a farmer."
+}

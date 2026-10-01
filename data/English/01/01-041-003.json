@@ -1,0 +1,30 @@
+{
+  "id": "01-041-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 41,
+  "verse_reference": "Genesis 41:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened when Pharaoh called the magicians and wise men of Egypt?",
+  "options": [
+    "They refused to come",
+    "They gave many different answers",
+    "None of them could interpret his dreams",
+    "They fled from the palace"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh's dreams troubled him, but none of the magicians or wise men of Egypt could interpret them."
+}

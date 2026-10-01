@@ -1,0 +1,29 @@
+{
+  "id": "04-025-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 25,
+  "verse_reference": "Numbers 25:9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many people died in the plague?",
+  "options": [
+    "3,000",
+    "14,700",
+    "24,000",
+    "600,000"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Those who died in the plague numbered 24,000."
+}

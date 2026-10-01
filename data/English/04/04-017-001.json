@@ -1,0 +1,33 @@
+{
+  "id": "04-017-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 17,
+  "verse_reference": "Numbers 17:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God tell Moses to collect from the leaders of the tribes?",
+  "options": [
+    "Twelve staffs, one for each leader",
+    "Twelve lambs for an offering",
+    "Silver from each tribe",
+    "Twelve stones for an altar"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Moses to take a staff from each of the twelve tribal leaders, with Aaron's name written on the staff for Levi."
+}

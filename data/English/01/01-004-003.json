@@ -1,0 +1,32 @@
+{
+  "id": "01-004-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 4,
+  "verse_reference": "Genesis 4:4-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Whose offering did the Lord look on with favor?",
+  "options": [
+    "Cain's offering",
+    "Both offerings equally",
+    "Abel's offering",
+    "Neither offering"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Faith"
+  ],
+  "characters": [
+    "Cain",
+    "Abel"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord looked with favor on Abel and his offering, but not on Cain and his offering."
+}

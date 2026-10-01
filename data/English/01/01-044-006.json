@@ -1,0 +1,31 @@
+{
+  "id": "01-044-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 44,
+  "verse_reference": "Genesis 44:16",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which brother spoke for the group when they returned to Joseph?",
+  "options": [
+    "Reuben",
+    "Simeon",
+    "Judah",
+    "Levi"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Leadership"
+  ],
+  "characters": [
+    "Judah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Judah spoke for the brothers, admitting they could not clear themselves and offering that they all become slaves."
+}

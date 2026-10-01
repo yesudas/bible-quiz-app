@@ -1,0 +1,30 @@
+{
+  "id": "03-007-004",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 7,
+  "verse_reference": "Leviticus 7:37-38",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the Lord give Moses these commands about the offerings?",
+  "options": [
+    "In the land of Egypt",
+    "On Mount Horeb",
+    "In the Desert of Sinai",
+    "At the Jordan River"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 7:38 says the Lord gave these commands to Moses in the Desert of Sinai."
+}

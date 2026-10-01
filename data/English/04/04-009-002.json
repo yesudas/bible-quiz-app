@@ -1,0 +1,32 @@
+{
+  "id": "04-009-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 9,
+  "verse_reference": "Numbers 9:6-7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why could some men not keep the Passover on the set day?",
+  "options": [
+    "They were away fighting a battle",
+    "They were unclean because of a dead body",
+    "They had forgotten the date",
+    "They were too young to take part"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some men were ceremonially unclean because they had touched a dead body, so they could not keep the Passover that day."
+}

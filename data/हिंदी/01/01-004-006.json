@@ -1,0 +1,34 @@
+{
+  "id": "01-004-006",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 4,
+  "verse_reference": "उत्पत्ति 4:8",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "कैन ने अपने भाई हाबिल पर चढ़ाई करके उसकी हत्या कहाँ की?",
+  "options": [
+    "मैदान में (खेत में)",
+    "अदन की वाटिका में",
+    "अपने घर के भीतर",
+    "नदी के किनारे"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "पाप",
+    "हत्या"
+  ],
+  "characters": [
+    "कैन",
+    "हाबिल"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "जब वे मैदान (खेत) में थे, तब कैन ने अपने भाई हाबिल पर चढ़ाई की और उसे मार डाला।"
+}

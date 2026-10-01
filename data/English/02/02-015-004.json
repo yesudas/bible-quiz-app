@@ -1,0 +1,31 @@
+{
+  "id": "02-015-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 15,
+  "verse_reference": "Exodus 15:20",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "How is Miriam described, and to whom was she related?",
+  "options": [
+    "A judge and the wife of Moses",
+    "A queen and the daughter of Pharaoh",
+    "A prophetess and the sister of Aaron",
+    "A singer and the mother of Aaron"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Family"
+  ],
+  "characters": [
+    "Miriam",
+    "Aaron"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Miriam is called a prophetess and identified as the sister of Aaron."
+}

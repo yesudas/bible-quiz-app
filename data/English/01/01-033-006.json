@@ -1,0 +1,32 @@
+{
+  "id": "01-033-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 33,
+  "verse_reference": "Genesis 33:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Jacob urge Esau to accept his gift?",
+  "options": [
+    "Because God had been gracious to him and he had all he needed",
+    "To repay a debt he owed",
+    "To buy back his birthright",
+    "Because Esau demanded it"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Forgiveness",
+    "Family"
+  ],
+  "characters": [
+    "Jacob",
+    "Esau"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob insisted Esau take the gift because God had been gracious to him and he had everything he needed."
+}

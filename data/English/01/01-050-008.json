@@ -1,0 +1,30 @@
+{
+  "id": "01-050-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 50,
+  "verse_reference": "Genesis 50:25",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Joseph make the Israelites swear to do with his bones?",
+  "options": [
+    "To carry them up out of Egypt when God led them out",
+    "To bury them in Egypt",
+    "To burn them",
+    "To keep them in Pharaoh's palace"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Faith"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph made the Israelites swear that they would carry his bones up out of Egypt when God brought them to the promised land."
+}

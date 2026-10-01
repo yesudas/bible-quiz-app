@@ -1,0 +1,32 @@
+{
+  "id": "03-013-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 13,
+  "verse_reference": "Leviticus 13:1-3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What is the main subject of Leviticus 13?",
+  "options": [
+    "Laws about offerings",
+    "Examining skin diseases and mildew",
+    "The duties of the Levites",
+    "Rules about clean and unclean food"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Holiness"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 13 gives instructions for examining skin diseases and mildew to decide whether a person or item was clean or unclean."
+}

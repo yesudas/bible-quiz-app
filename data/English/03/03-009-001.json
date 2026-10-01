@@ -1,0 +1,32 @@
+{
+  "id": "03-009-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 9,
+  "verse_reference": "Leviticus 9:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "On which day did Aaron begin his priestly duties as described in this chapter?",
+  "options": [
+    "The first day of the year",
+    "The eighth day",
+    "The seventh day of the week",
+    "The day of Passover"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Priesthood",
+    "Worship"
+  ],
+  "characters": [
+    "Aaron",
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 9:1 says that on the eighth day, Moses summoned Aaron, his sons, and the elders of Israel to begin the priestly service."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "01-025-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 25,
+  "verse_reference": "Genesis 25:25-26",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "What were the names of Isaac and Rebekah's twin sons?",
+  "options": [
+    "Cain and Abel",
+    "Esau and Jacob",
+    "Perez and Zerah",
+    "Ephraim and Manasseh"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Esau",
+    "Jacob",
+    "Isaac",
+    "Rebekah"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rebekah gave birth to twin sons, Esau who came first and Jacob who was born grasping his brother's heel."
+}

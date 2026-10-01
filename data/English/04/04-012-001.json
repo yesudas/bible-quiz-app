@@ -1,0 +1,35 @@
+{
+  "id": "04-012-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 12,
+  "verse_reference": "Numbers 12:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who spoke against Moses in this chapter?",
+  "options": [
+    "Joshua and Caleb",
+    "Dathan and Abiram",
+    "Miriam and Aaron",
+    "Nadab and Abihu"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Family",
+    "Leadership"
+  ],
+  "characters": [
+    "Miriam",
+    "Aaron",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Miriam and Aaron, Moses' sister and brother, spoke against him."
+}

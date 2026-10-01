@@ -1,0 +1,36 @@
+{
+  "id": "04-033-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 33,
+  "verse_reference": "Numbers 33:38-39",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Aaron die during the journey?",
+  "options": [
+    "At Kadesh",
+    "At Rameses",
+    "On Mount Hor",
+    "In the plains of Moab"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Suffering"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "places": [
+    {
+      "name": "Mount Hor",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Aaron died on Mount Hor in the fortieth year after Israel came out of Egypt, at the age of 123."
+}

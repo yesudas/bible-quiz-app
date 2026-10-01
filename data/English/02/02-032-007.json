@@ -1,0 +1,30 @@
+{
+  "id": "02-032-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 32,
+  "verse_reference": "Exodus 32:26",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which group rallied to Moses when he called, 'Whoever is for the LORD, come to me'?",
+  "options": [
+    "The Reubenites",
+    "The Levites",
+    "The elders",
+    "The women"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Moses called for those who were for the LORD, all the Levites rallied to him."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "04-002-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 2,
+  "verse_reference": "Numbers 2:32",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the total number of men in all the Israelite camps?",
+  "options": [
+    "603,550",
+    "600,000",
+    "22,273",
+    "40,000"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All the men counted in the camps, by their divisions, totaled 603,550."
+}

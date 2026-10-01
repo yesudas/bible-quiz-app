@@ -1,0 +1,32 @@
+{
+  "id": "03-025-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 25,
+  "verse_reference": "Leviticus 25:2-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In the Sabbath Year, what were the Israelites to do with their land every seventh year?",
+  "options": [
+    "Plant twice as much",
+    "Let it rest and leave it unplanted",
+    "Sell part of it",
+    "Give it to the priests"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Rest",
+    "Provision"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 25:3-4 says that every seventh year the land was to have a sabbath of rest, with no sowing or pruning."
+}

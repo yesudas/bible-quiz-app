@@ -1,0 +1,31 @@
+{
+  "id": "01-043-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 43,
+  "verse_reference": "Genesis 43:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Joseph order when he saw Benjamin with his brothers?",
+  "options": [
+    "To arrest them",
+    "To send them away",
+    "To prepare a meal, for they would eat with him at noon",
+    "To search their bags"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Joseph",
+    "Benjamin"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Joseph saw Benjamin, he told his steward to bring the men to his house and prepare a meal, for they would dine with him at noon."
+}

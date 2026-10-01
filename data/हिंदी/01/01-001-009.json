@@ -1,0 +1,30 @@
+{
+  "id": "01-001-009",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 1,
+  "verse_reference": "उत्पत्ति 1:31",
+  "question_type": "DIRECT",
+  "difficulty": "Medium",
+  "question": "जब परमेश्वर ने अपनी बनाई हुई सब वस्तुओं को देखा, तो वह कैसी थीं?",
+  "options": [
+    "साधारण",
+    "अपूर्ण",
+    "बहुत ही अच्छी",
+    "रहस्यमय"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "सृष्टि"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "छठवें दिन के अंत में जब परमेश्वर ने सब कुछ देखा जो उसने बनाया था, तो देखा कि वह बहुत ही अच्छा है।"
+}

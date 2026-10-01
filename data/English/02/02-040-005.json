@@ -1,0 +1,30 @@
+{
+  "id": "02-040-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 40,
+  "verse_reference": "Exodus 40:35",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why could Moses not enter the tent of meeting?",
+  "options": [
+    "The door was locked",
+    "The people blocked the way",
+    "The cloud had settled on it and the glory of the LORD filled it",
+    "It was too dark inside"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Miracles"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses could not enter because the cloud had settled on the tent and the glory of the LORD filled the tabernacle."
+}

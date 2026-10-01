@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Canaan",
+    "label": "Canaan",
+    "count": 4,
+    "paths": [
+        "English/04/04-013-001.json",
+        "English/04/04-013-004.json",
+        "English/04/04-033-004.json",
+        "English/04/04-034-001.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

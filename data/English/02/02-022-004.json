@@ -1,0 +1,28 @@
+{
+  "id": "02-022-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 22,
+  "verse_reference": "Exodus 22:25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How were the Israelites to treat a poor person to whom they lent money?",
+  "options": [
+    "They were to double the amount owed",
+    "They were not to charge them interest",
+    "They were to take their house",
+    "They were to make them work for free"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Money"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "If they lent money to a poor person among them, they were not to act as a moneylender or charge interest."
+}

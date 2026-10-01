@@ -1,0 +1,34 @@
+{
+  "id": "03-010-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 10,
+  "verse_reference": "Leviticus 10:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which two sons of Aaron offered unauthorized fire before the Lord?",
+  "options": [
+    "Eleazar and Ithamar",
+    "Nadab and Abihu",
+    "Hophni and Phinehas",
+    "Gershom and Eliezer"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Holiness"
+  ],
+  "characters": [
+    "Nadab",
+    "Abihu",
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 10:1 says Nadab and Abihu, sons of Aaron, offered unauthorized fire before the Lord, which he had not commanded."
+}

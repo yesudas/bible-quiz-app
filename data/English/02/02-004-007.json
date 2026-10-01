@@ -1,0 +1,29 @@
+{
+  "id": "02-004-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 4,
+  "verse_reference": "Exodus 4:20",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Moses take in his hand as he returned to Egypt?",
+  "options": [
+    "The staff of God",
+    "A sword",
+    "A scroll",
+    "A bag of gold"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses took the staff of God in his hand as he set out to return to Egypt with his family."
+}

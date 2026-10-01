@@ -1,0 +1,33 @@
+{
+  "id": "01-012-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 12,
+  "verse_reference": "Genesis 12:2-3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God promise to make of Abram?",
+  "options": [
+    "A wealthy trader",
+    "A mighty warrior",
+    "A great nation, and a blessing to all peoples on earth",
+    "A king over many lands"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Covenant",
+    "Blessing"
+  ],
+  "characters": [
+    "God",
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised to make Abram into a great nation and to bless all peoples on earth through him."
+}

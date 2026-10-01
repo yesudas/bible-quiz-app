@@ -1,0 +1,32 @@
+{
+  "id": "01-014-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 14,
+  "verse_reference": "Genesis 14:18",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was the king of Salem and priest of God Most High who blessed Abram?",
+  "options": [
+    "Melchizedek",
+    "Abimelek",
+    "Bera",
+    "Amraphel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Blessing"
+  ],
+  "characters": [
+    "Melchizedek",
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Melchizedek, king of Salem and priest of God Most High, brought out bread and wine and blessed Abram."
+}

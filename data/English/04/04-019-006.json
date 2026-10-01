@@ -1,0 +1,35 @@
+{
+  "id": "04-019-006",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 19,
+  "verse_reference": "Numbers 19:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened to someone who refused to be purified after touching the dead?",
+  "options": [
+    "They had to pay a fine",
+    "They were cut off from Israel for defiling the tabernacle",
+    "They were forgiven anyway",
+    "They had to leave for one day"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tabernacle",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A person who did not purify themselves defiled the Lord's tabernacle and was to be cut off from Israel."
+}

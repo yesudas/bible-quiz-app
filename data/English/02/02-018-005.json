@@ -1,0 +1,32 @@
+{
+  "id": "02-018-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 18,
+  "verse_reference": "Exodus 18:17-18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What warning did Jethro give Moses about judging the people alone?",
+  "options": [
+    "That the people would rebel",
+    "That God would be angry",
+    "That he would wear himself out",
+    "That the enemies would attack"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Jethro",
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jethro told Moses that the work was too heavy and he would only wear himself and the people out by doing it alone."
+}

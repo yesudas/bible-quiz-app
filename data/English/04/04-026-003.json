@@ -1,0 +1,28 @@
+{
+  "id": "04-026-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 26,
+  "verse_reference": "Numbers 26:51",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was the total number of Israelite men in the second census?",
+  "options": [
+    "603,550",
+    "22,000",
+    "601,730",
+    "24,000"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The total number of the men of Israel counted in the second census was 601,730."
+}

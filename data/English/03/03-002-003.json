@@ -1,0 +1,30 @@
+{
+  "id": "03-002-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 2,
+  "verse_reference": "Leviticus 2:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What were the Israelites forbidden to include in any grain offering burned to the Lord?",
+  "options": [
+    "Oil or incense",
+    "Yeast or honey",
+    "Salt or flour",
+    "Fine grain or bread"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Sacrifice",
+    "Holiness"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 2:11 commands that no grain offering made to the Lord by fire was to contain yeast or honey."
+}

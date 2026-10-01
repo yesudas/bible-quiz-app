@@ -1,0 +1,31 @@
+{
+  "id": "02-007-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 7,
+  "verse_reference": "Exodus 7:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What role did God give Aaron in relation to Moses before Pharaoh?",
+  "options": [
+    "His servant",
+    "His prophet",
+    "His guard",
+    "His judge"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Mission"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God made Moses like God to Pharaoh, and Aaron his brother would be his prophet to speak for him."
+}

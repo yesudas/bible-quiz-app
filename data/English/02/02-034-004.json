@@ -1,0 +1,30 @@
+{
+  "id": "02-034-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 34,
+  "verse_reference": "Exodus 34:28",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How long was Moses with the LORD on the mountain the second time?",
+  "options": [
+    "Seven days",
+    "Forty days and forty nights",
+    "One day",
+    "Ten days"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses was with the LORD forty days and forty nights, eating no bread and drinking no water, and wrote the words of the covenant."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "04-028-004",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 28,
+  "verse_reference": "Numbers 28:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which festival is described as beginning on the fourteenth day of the first month?",
+  "options": [
+    "The Festival of Weeks",
+    "The Day of Atonement",
+    "The Passover",
+    "The Festival of Tabernacles"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord's Passover was to be held on the fourteenth day of the first month, followed by the Festival of Unleavened Bread."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "02-020-009",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 20,
+  "verse_reference": "Exodus 20:18-19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the people ask Moses to speak to them instead of God?",
+  "options": [
+    "They could not understand God's words",
+    "They were afraid they would die if God spoke to them",
+    "They wanted Moses to be king",
+    "They were tired of waiting"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Seeing the thunder, lightning, and smoking mountain, the people trembled and begged Moses to speak to them, afraid they would die if God spoke directly."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "01-042-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 42,
+  "verse_reference": "Genesis 42:1-3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "Why did Jacob send his sons to Egypt?",
+  "options": [
+    "To find Joseph",
+    "To buy grain because of the famine",
+    "To make peace with Pharaoh",
+    "To sell their flocks"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Suffering"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "There was a famine, and Jacob heard there was grain in Egypt, so he sent his sons to buy some."
+}

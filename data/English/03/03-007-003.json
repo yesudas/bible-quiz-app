@@ -1,0 +1,29 @@
+{
+  "id": "03-007-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 7,
+  "verse_reference": "Leviticus 7:26-27",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was the penalty for anyone who ate blood, according to this chapter?",
+  "options": [
+    "They paid a fine of silver",
+    "They were made to fast for a week",
+    "They were cut off from their people",
+    "They lost their inheritance"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Holiness",
+    "Judgment"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 7:27 says anyone who ate blood was to be cut off from their people."
+}

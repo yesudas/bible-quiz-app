@@ -1,0 +1,40 @@
+{
+  "id": "01-004-009",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 4,
+  "verse_reference": "उत्पत्ति 4:16-17",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "यहोवा के सम्मुख से निकलकर कैन अदन के पूर्व में किस देश में बस गया?",
+  "options": [
+    "ऊर देश में",
+    "नोद देश में",
+    "हारान देश में",
+    "कनान देश में"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "स्थान",
+    "न्याय"
+  ],
+  "characters": [
+    "कैन"
+  ],
+  "places": [
+    {
+      "name": "नोद",
+      "type": "Land"
+    },
+    {
+      "name": "अदन",
+      "type": "Region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "कैन यहोवा की उपस्थिति से चला गया और अदन के पूर्व की ओर नोद नामक देश में रहने लगा।"
+}

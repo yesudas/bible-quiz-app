@@ -1,0 +1,27 @@
+{
+  "id": "02-027-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 27,
+  "verse_reference": "Exodus 27:9-13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What surrounded the tabernacle to form its courtyard?",
+  "options": [
+    "A wall of stone",
+    "A fence of bronze bars",
+    "A row of tall trees",
+    "Curtains of fine linen hung on posts"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The courtyard was enclosed with curtains of finely twisted linen hung on posts set in bronze bases."
+}

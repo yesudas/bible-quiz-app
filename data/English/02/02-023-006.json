@@ -1,0 +1,30 @@
+{
+  "id": "02-023-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 23,
+  "verse_reference": "Exodus 23:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Whom did God promise to send ahead of the Israelites to guard them on the way?",
+  "options": [
+    "A prophet",
+    "A king",
+    "An army",
+    "An angel"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Angels"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised to send an angel ahead of them to guard them along the way and to bring them to the place He had prepared."
+}

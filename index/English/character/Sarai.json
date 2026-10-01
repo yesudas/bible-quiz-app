@@ -1,0 +1,15 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Sarai",
+    "label": "Sarai",
+    "count": 5,
+    "paths": [
+        "English/01/01-016-001.json",
+        "English/01/01-016-002.json",
+        "English/01/01-016-003.json",
+        "English/01/01-016-004.json",
+        "English/01/01-016-006.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

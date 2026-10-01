@@ -1,0 +1,32 @@
+{
+  "id": "01-021-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 21,
+  "verse_reference": "Genesis 21:4",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "At what age was Isaac circumcised, as God had commanded?",
+  "options": [
+    "Eight days old",
+    "One month old",
+    "One year old",
+    "Thirteen years old"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant",
+    "Obedience"
+  ],
+  "characters": [
+    "Isaac",
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham circumcised Isaac when he was eight days old, obeying God's command about the covenant."
+}

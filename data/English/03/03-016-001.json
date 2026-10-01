@@ -1,0 +1,33 @@
+{
+  "id": "03-016-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 16,
+  "verse_reference": "Leviticus 16:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What special day is described in Leviticus 16?",
+  "options": [
+    "The Passover",
+    "The Day of Atonement",
+    "The Feast of Trumpets",
+    "The Sabbath year"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Atonement",
+    "Worship",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Aaron",
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 16 describes the Day of Atonement, when atonement was made once a year for the sins of all Israel."
+}

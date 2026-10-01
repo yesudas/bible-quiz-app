@@ -1,0 +1,32 @@
+{
+  "id": "01-032-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 32,
+  "verse_reference": "Genesis 32:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What news did the messengers bring back about Esau?",
+  "options": [
+    "Esau had already left the region",
+    "Esau refused to see Jacob",
+    "Esau was coming with four hundred men",
+    "Esau had sent gifts to Jacob"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Suffering"
+  ],
+  "characters": [
+    "Jacob",
+    "Esau"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The messengers reported that Esau was coming to meet Jacob, and that four hundred men were with him."
+}

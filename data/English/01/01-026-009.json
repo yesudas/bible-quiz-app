@@ -1,0 +1,32 @@
+{
+  "id": "01-026-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 26,
+  "verse_reference": "Genesis 26:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "At Beersheba the LORD said to Isaac, \"Do not be afraid, for I am ______ you.\"",
+  "options": [
+    "watching",
+    "with",
+    "testing",
+    "sending"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [
+    "Isaac"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD appeared to Isaac and told him not to be afraid, because He was with him and would bless him for Abraham's sake."
+}

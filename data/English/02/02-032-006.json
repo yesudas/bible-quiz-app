@@ -1,0 +1,31 @@
+{
+  "id": "02-032-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 32,
+  "verse_reference": "Exodus 32:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What excuse did Aaron give Moses for the golden calf?",
+  "options": [
+    "He said an angel made it",
+    "He said he found it in the desert",
+    "He said Moses had told him to make it",
+    "He said the gold went into the fire and the calf came out"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Aaron",
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Aaron blamed the people and claimed that when he threw their gold into the fire, out came the calf, avoiding responsibility."
+}

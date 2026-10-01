@@ -1,0 +1,32 @@
+{
+  "id": "01-002-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 2,
+  "verse_reference": "Genesis 2:8",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did God place the man He had formed?",
+  "options": [
+    "In the land of Nod",
+    "On Mount Sinai",
+    "In a garden in Eden",
+    "By the Jordan River"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God",
+    "Adam"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God planted a garden in the east, in Eden, and placed the man there."
+}

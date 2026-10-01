@@ -1,0 +1,32 @@
+{
+  "id": "04-015-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 15,
+  "verse_reference": "Numbers 15:35-36",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God command be done to the man who broke the Sabbath?",
+  "options": [
+    "He was to be forgiven",
+    "He was to be stoned to death",
+    "He was to be sent away",
+    "He was to pay for his sin with silver"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Law"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God commanded that the man be put to death, so the whole assembly took him outside the camp and stoned him."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "01-030-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 30,
+  "verse_reference": "Genesis 30:27-28",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Laban want Jacob to stay with him?",
+  "options": [
+    "Jacob owed him money",
+    "Jacob had no place to go",
+    "Laban needed a guard",
+    "Laban had learned the LORD had blessed him because of Jacob"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Laban",
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Laban had learned by divination that the LORD had blessed him because of Jacob, so he wanted Jacob to stay and name his wages."
+}

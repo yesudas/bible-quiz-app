@@ -1,0 +1,32 @@
+{
+  "id": "01-027-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 27,
+  "verse_reference": "Genesis 27:42-45",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Rebekah tell Jacob to do because Esau planned to kill him?",
+  "options": [
+    "Flee to her brother Laban in Harran",
+    "Hide in the fields",
+    "Ask Esau for forgiveness",
+    "Go down to Egypt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Rebekah",
+    "Jacob",
+    "Esau"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rebekah warned Jacob of Esau's plan and told him to flee to her brother Laban in Harran until Esau's anger cooled."
+}

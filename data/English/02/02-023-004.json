@@ -1,0 +1,28 @@
+{
+  "id": "02-023-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 23,
+  "verse_reference": "Exodus 23:10-11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What were the Israelites to do with their land every seventh year?",
+  "options": [
+    "Plant twice as much",
+    "Let it rest so the poor and wild animals could eat",
+    "Sell it to foreigners",
+    "Burn the fields"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Money"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "For six years they planted and harvested, but in the seventh year they let the land rest so the poor and the wild animals could eat what grew."
+}

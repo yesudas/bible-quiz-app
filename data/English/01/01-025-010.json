@@ -1,0 +1,32 @@
+{
+  "id": "01-025-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 25,
+  "verse_reference": "Genesis 25:29-34",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Esau trade to Jacob for a meal of bread and lentil stew?",
+  "options": [
+    "His flock of sheep",
+    "His birthright",
+    "His father's blessing",
+    "His hunting bow"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Temptation"
+  ],
+  "characters": [
+    "Esau",
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Esau, hungry and tired, sold his birthright to Jacob for some bread and lentil stew, treating it with contempt."
+}

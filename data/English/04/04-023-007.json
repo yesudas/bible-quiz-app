@@ -1,0 +1,32 @@
+{
+  "id": "04-023-007",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 23,
+  "verse_reference": "Numbers 23:25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Balak finally say to Balaam after the second message?",
+  "options": [
+    "Curse them once more",
+    "Bless them again",
+    "Leave at once",
+    "Neither curse them nor bless them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Balak",
+    "Balaam"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Frustrated, Balak told Balaam that if he would not curse Israel, he should at least not bless them."
+}

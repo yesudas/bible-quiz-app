@@ -1,0 +1,32 @@
+{
+  "id": "01-007-004",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 7,
+  "verse_reference": "उत्पत्ति 7:6",
+  "question_type": "DIRECT",
+  "difficulty": "Medium",
+  "question": "जब पृथ्वी पर जलप्रलय आया, तब नूह की आयु कितने वर्ष थी?",
+  "options": [
+    "पाँच सौ वर्ष",
+    "छः सौ वर्ष",
+    "सात सौ वर्ष",
+    "आठ सौ वर्ष"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "इतिहास",
+    "जलप्रलय"
+  ],
+  "characters": [
+    "नूह"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "उत्पत्ति 7:6 के अनुसार जब पृथ्वी पर जलप्रलय का जल आया, तब नूह छः सौ वर्ष का था।"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "01-013-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 13,
+  "verse_reference": "Genesis 13:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God promise to give Abram and his offspring after Lot left?",
+  "options": [
+    "Great riches in Egypt",
+    "All the land he could see, forever",
+    "A kingdom in Harran",
+    "A city with strong walls"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [
+    "God",
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised to give Abram and his offspring forever all the land he could see in every direction."
+}

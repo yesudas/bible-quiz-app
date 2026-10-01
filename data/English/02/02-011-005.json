@@ -1,0 +1,28 @@
+{
+  "id": "02-011-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 11,
+  "verse_reference": "Exodus 11:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What sign showed that the LORD made a distinction between Egypt and Israel?",
+  "options": [
+    "No dog would bark among the Israelites",
+    "The sun would shine only on Israel",
+    "The Nile would flow only for Israel",
+    "The Israelites would grow taller"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Judgment"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Among the Israelites not even a dog would bark, showing that the LORD makes a distinction between Egypt and Israel."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "04-006-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 6,
+  "verse_reference": "Numbers 6:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was a Nazirite not allowed to do with their hair?",
+  "options": [
+    "Wash it",
+    "Cut it",
+    "Cover it",
+    "Braid it"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "During the time of the vow, no razor could be used on a Nazirite's head, so they could not cut their hair."
+}

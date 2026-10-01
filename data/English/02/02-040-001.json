@@ -1,0 +1,29 @@
+{
+  "id": "02-040-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 40,
+  "verse_reference": "Exodus 40:2",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When did God command Moses to set up the tabernacle?",
+  "options": [
+    "On the last day of the year",
+    "On the Sabbath",
+    "On the first day of the first month",
+    "At the next new moon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Moses to set up the tabernacle, the tent of meeting, on the first day of the first month."
+}

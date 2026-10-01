@@ -1,0 +1,30 @@
+{
+  "id": "02-005-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 5,
+  "verse_reference": "Exodus 5:22-23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Moses respond to God after Pharaoh made things worse?",
+  "options": [
+    "He thanked God for the trouble",
+    "He asked God why He had brought trouble on the people",
+    "He gave up and returned to Midian",
+    "He attacked the Egyptians"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Suffering"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses turned to the LORD and asked why He had brought trouble on the people and had not rescued them."
+}

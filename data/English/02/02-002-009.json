@@ -1,0 +1,30 @@
+{
+  "id": "02-002-009",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 2,
+  "verse_reference": "Exodus 2:22",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "What was the name of Moses' first son born in Midian?",
+  "options": [
+    "Gershom",
+    "Aaron",
+    "Eliezer",
+    "Joshua"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Moses",
+    "Gershom"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses named his son Gershom, saying he had become a foreigner in a foreign land."
+}

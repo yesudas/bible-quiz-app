@@ -1,0 +1,28 @@
+{
+  "id": "02-008-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 8,
+  "verse_reference": "Exodus 8:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Pharaoh do once the frogs were gone?",
+  "options": [
+    "He let the Israelites go",
+    "He hardened his heart and would not listen",
+    "He praised the LORD",
+    "He asked for more signs"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Pharaoh saw there was relief, he hardened his heart and would not listen to Moses and Aaron."
+}

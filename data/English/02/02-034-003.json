@@ -1,0 +1,28 @@
+{
+  "id": "02-034-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 34,
+  "verse_reference": "Exodus 34:12-16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God warn the Israelites against doing with the nations in the land?",
+  "options": [
+    "Trading with them",
+    "Learning their language",
+    "Living near them",
+    "Making treaties or worshiping their gods"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God warned Israel not to make treaties with the nations of the land or worship their gods, but to tear down their altars."
+}

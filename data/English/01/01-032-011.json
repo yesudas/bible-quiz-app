@@ -1,0 +1,30 @@
+{
+  "id": "01-032-011",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 32,
+  "verse_reference": "Genesis 32:30",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "What did Jacob name the place where he wrestled, and why?",
+  "options": [
+    "Bethel, because God spoke to him there",
+    "Mahanaim, because he saw two camps",
+    "Peniel, because he saw God face to face",
+    "Mizpah, because God kept watch there"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Worship"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob named the place Peniel, saying he had seen God face to face and yet his life was spared."
+}

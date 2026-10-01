@@ -1,0 +1,14 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Korah",
+    "label": "Korah",
+    "count": 4,
+    "paths": [
+        "English/04/04-016-001.json",
+        "English/04/04-016-002.json",
+        "English/04/04-016-003.json",
+        "English/04/04-016-004.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

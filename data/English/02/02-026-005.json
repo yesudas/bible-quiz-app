@@ -1,0 +1,27 @@
+{
+  "id": "02-026-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 26,
+  "verse_reference": "Exodus 26:35",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Where were the table and the lampstand placed in the tabernacle?",
+  "options": [
+    "Both behind the curtain",
+    "Both at the entrance",
+    "The table on the north side and the lampstand on the south",
+    "The table outside and the lampstand in the courtyard"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The table was set on the north side of the tabernacle, outside the curtain, and the lampstand opposite it on the south side."
+}

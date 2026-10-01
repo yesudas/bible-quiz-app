@@ -1,0 +1,31 @@
+{
+  "id": "04-022-004",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 22,
+  "verse_reference": "Numbers 22:23",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who stood in the road with a drawn sword as Balaam traveled?",
+  "options": [
+    "A soldier of Moab",
+    "Balak himself",
+    "One of Israel's leaders",
+    "The angel of the Lord"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Angels",
+    "Judgment"
+  ],
+  "characters": [
+    "Balaam"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel of the Lord stood in the road with a drawn sword to oppose Balaam, though at first only the donkey could see him."
+}

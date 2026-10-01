@@ -1,0 +1,32 @@
+{
+  "id": "01-034-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 34,
+  "verse_reference": "Genesis 34:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who was the daughter of Leah and Jacob mentioned at the start of this chapter?",
+  "options": [
+    "Rachel",
+    "Rebekah",
+    "Bilhah",
+    "Dinah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Dinah",
+    "Leah",
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Dinah, the daughter Leah had borne to Jacob, went out to visit the women of the land."
+}

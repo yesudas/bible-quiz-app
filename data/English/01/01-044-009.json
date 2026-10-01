@@ -1,0 +1,32 @@
+{
+  "id": "01-044-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 44,
+  "verse_reference": "Genesis 44:33-34",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Judah offer to do to save Benjamin?",
+  "options": [
+    "Pay a large ransom",
+    "Bring their father to Egypt",
+    "Stay as a slave in Benjamin's place",
+    "Give up his own sons"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Love",
+    "Leadership"
+  ],
+  "characters": [
+    "Judah",
+    "Benjamin"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Judah offered to remain as Joseph's slave in place of Benjamin, so the boy could return to their father."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "02-007-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 7,
+  "verse_reference": "Exodus 7:22-23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Pharaoh react after the Nile turned to blood?",
+  "options": [
+    "He let the Israelites go",
+    "His heart became hard and he ignored it",
+    "He begged Moses for mercy",
+    "He fled from Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh's heart became hard, and he turned and went into his palace, paying no attention to what had happened."
+}

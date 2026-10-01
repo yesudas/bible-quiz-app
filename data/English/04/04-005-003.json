@@ -1,0 +1,30 @@
+{
+  "id": "04-005-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 5,
+  "verse_reference": "Numbers 5:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "When making restitution for a wrong, how much extra had to be added?",
+  "options": [
+    "A tenth of its value",
+    "A half of its value",
+    "A fifth of its value",
+    "Double its value"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Repentance",
+    "Money"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The person had to repay the full amount plus add a fifth of its value to the one they had wronged."
+}

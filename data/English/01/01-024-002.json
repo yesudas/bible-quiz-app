@@ -1,0 +1,31 @@
+{
+  "id": "01-024-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 24,
+  "verse_reference": "Genesis 24:3-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Abraham not want Isaac to marry a Canaanite woman?",
+  "options": [
+    "The Canaanites were poor",
+    "He wanted a wife from his own people and country",
+    "The Canaanites lived too far away",
+    "Isaac had already chosen someone"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage",
+    "Covenant"
+  ],
+  "characters": [
+    "Abraham",
+    "Isaac"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham made the servant swear to find a wife for Isaac from his own country and relatives rather than from the Canaanites among whom he lived."
+}

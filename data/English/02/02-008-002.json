@@ -1,0 +1,31 @@
+{
+  "id": "02-008-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 8,
+  "verse_reference": "Exodus 8:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Pharaoh ask Moses to do about the frogs?",
+  "options": [
+    "To gather them up",
+    "To pray to the LORD to take them away",
+    "To send them to Goshen",
+    "To turn them into food"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh asked Moses and Aaron to pray to the LORD to take the frogs away, promising to let the people go."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "02-013-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 13,
+  "verse_reference": "Exodus 13:21",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did the LORD guide the Israelites by day and by night?",
+  "options": [
+    "By a pillar of cloud by day and a pillar of fire by night",
+    "By a bright star",
+    "By the sound of trumpets",
+    "By messengers sent ahead"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Leadership"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD went ahead of them in a pillar of cloud by day and a pillar of fire by night, so they could travel at all times."
+}

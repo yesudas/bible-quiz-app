@@ -1,0 +1,30 @@
+{
+  "id": "02-024-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 24,
+  "verse_reference": "Exodus 24:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the twelve stone pillars Moses set up at the altar represent?",
+  "options": [
+    "The twelve plagues",
+    "The twelve tribes of Israel",
+    "The twelve months",
+    "The twelve elders"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses built an altar and set up twelve stone pillars representing the twelve tribes of Israel."
+}

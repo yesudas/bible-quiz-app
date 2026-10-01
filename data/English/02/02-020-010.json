@@ -1,0 +1,30 @@
+{
+  "id": "02-020-010",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 20,
+  "verse_reference": "Exodus 20:1-17",
+  "question_type": "DIRECT",
+  "difficulty": "Easy",
+  "question": "How many commandments did God give the people at Mount Sinai?",
+  "options": [
+    "Five",
+    "Seven",
+    "Ten",
+    "Twelve"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Covenant"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God gave ten commandments at Mount Sinai to guide His people in how to live and worship Him."
+}

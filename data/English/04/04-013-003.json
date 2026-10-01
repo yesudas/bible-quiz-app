@@ -1,0 +1,35 @@
+{
+  "id": "04-013-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 13,
+  "verse_reference": "Numbers 13:23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What fruit did the spies carry back on a pole between two men?",
+  "options": [
+    "A basket of figs",
+    "A single cluster of grapes",
+    "A bundle of olives",
+    "A load of dates"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Valley of Eshkol",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the Valley of Eshkol the spies cut a single cluster of grapes so large that two of them carried it on a pole."
+}

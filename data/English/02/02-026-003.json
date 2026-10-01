@@ -1,0 +1,27 @@
+{
+  "id": "02-026-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 26,
+  "verse_reference": "Exodus 26:31-33",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the special curtain (veil) inside the tabernacle separate?",
+  "options": [
+    "The courtyard from the camp",
+    "The men from the women",
+    "The priests from the Levites",
+    "The Holy Place from the Most Holy Place"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The curtain of blue, purple, and scarlet yarn separated the Holy Place from the Most Holy Place, where the ark would rest."
+}

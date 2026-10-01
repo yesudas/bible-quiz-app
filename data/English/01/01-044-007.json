@@ -1,0 +1,30 @@
+{
+  "id": "01-044-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 44,
+  "verse_reference": "Genesis 44:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Joseph say he would do, testing the brothers?",
+  "options": [
+    "Keep only the one with the cup as his slave and send the rest home",
+    "Punish all of them equally",
+    "Set them all free",
+    "Send them all to prison"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Joseph",
+    "Benjamin"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph said only the man found with the cup would become his slave, and the others could go back in peace to their father, testing whether they would abandon Benjamin."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "01-031-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 31,
+  "verse_reference": "Genesis 31:14-16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Rachel and Leah agree to leave with Jacob?",
+  "options": [
+    "They wanted to visit Isaac",
+    "They felt their father had treated them like strangers and used up what was theirs",
+    "They were afraid of Esau",
+    "They wished to return the household gods"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Rachel",
+    "Leah",
+    "Jacob",
+    "Laban"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rachel and Leah said their father treated them as foreigners and had used up what was paid for them, so they agreed to go with Jacob."
+}

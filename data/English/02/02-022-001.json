@@ -1,0 +1,28 @@
+{
+  "id": "02-022-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 22,
+  "verse_reference": "Exodus 22:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was a thief required to do if he stole and killed an ox?",
+  "options": [
+    "Give up all his land",
+    "Serve the owner for life",
+    "Pay back five oxen for the one ox",
+    "Pay back only one ox"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A thief who stole and killed or sold an ox had to pay back five oxen for it, and four sheep for a stolen sheep."
+}

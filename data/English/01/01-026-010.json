@@ -1,0 +1,32 @@
+{
+  "id": "01-026-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 26,
+  "verse_reference": "Genesis 26:28-31",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Abimelek and Isaac make with each other at Beersheba?",
+  "options": [
+    "A trade agreement",
+    "A marriage arrangement",
+    "A plan for war",
+    "A peace treaty"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Leadership"
+  ],
+  "characters": [
+    "Isaac",
+    "Abimelek"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abimelek came to Isaac and they swore an oath of peace to one another, agreeing not to harm each other."
+}

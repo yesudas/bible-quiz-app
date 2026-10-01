@@ -1,0 +1,29 @@
+{
+  "id": "02-034-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 34,
+  "verse_reference": "Exodus 34:33-35",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Moses do because his face was radiant?",
+  "options": [
+    "He stayed inside the tent",
+    "He covered his whole body",
+    "He stopped speaking to anyone",
+    "He put a veil over his face when speaking to the people"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses put a veil over his face when speaking with the people, but removed it when he went in to speak with the LORD."
+}

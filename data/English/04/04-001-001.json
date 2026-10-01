@@ -1,0 +1,38 @@
+{
+  "id": "04-001-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 1,
+  "verse_reference": "Numbers 1:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did God tell Moses to do at the beginning of Numbers?",
+  "options": [
+    "Build the tabernacle",
+    "Lead the people out of Egypt",
+    "Take a census of the people of Israel",
+    "Choose seventy elders"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Desert of Sinai",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Moses to count the whole community of Israel, taking a census of the people."
+}

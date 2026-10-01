@@ -1,0 +1,31 @@
+{
+  "id": "02-028-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 28,
+  "verse_reference": "Exodus 28:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was set apart to serve as priest along with his sons?",
+  "options": [
+    "Joshua",
+    "Hur",
+    "Aaron",
+    "Nadab"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God set apart Aaron and his sons from among the Israelites to serve Him as priests."
+}

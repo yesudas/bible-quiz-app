@@ -1,0 +1,32 @@
+{
+  "id": "01-017-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 17,
+  "verse_reference": "Genesis 17:17",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How did Abraham react when God said Sarah would have a son?",
+  "options": [
+    "He fell facedown and laughed",
+    "He wept with sorrow",
+    "He built an altar at once",
+    "He argued with God"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Faith"
+  ],
+  "characters": [
+    "Abraham",
+    "Sarah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham fell facedown and laughed, wondering how a hundred-year-old man and a ninety-year-old woman could have a child."
+}

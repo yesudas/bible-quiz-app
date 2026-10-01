@@ -1,0 +1,34 @@
+{
+  "id": "04-008-006",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 8,
+  "verse_reference": "Numbers 8:24-25",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "At what age did the Levites stop their regular service at the tent of meeting?",
+  "options": [
+    "At age forty",
+    "At age thirty",
+    "At age fifty",
+    "At age sixty"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tent of Meeting",
+      "type": "tent"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Levites served from age twenty-five, but at age fifty they retired from the regular service of the tent of meeting."
+}

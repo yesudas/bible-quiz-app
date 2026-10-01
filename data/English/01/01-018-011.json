@@ -1,0 +1,30 @@
+{
+  "id": "01-018-011",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 18,
+  "verse_reference": "Genesis 18:24",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What number of righteous people did Abraham first ask about when pleading for Sodom?",
+  "options": [
+    "Ten",
+    "Twenty",
+    "Fifty",
+    "One hundred"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham first asked whether the LORD would spare the city if fifty righteous people were found in it."
+}

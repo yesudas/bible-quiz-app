@@ -1,0 +1,32 @@
+{
+  "id": "01-028-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 28,
+  "verse_reference": "Genesis 28:12",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jacob see in his dream at that place?",
+  "options": [
+    "A burning bush",
+    "A great flood",
+    "A stairway reaching to heaven with angels on it",
+    "A city of gold"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Angels",
+    "Faith"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob dreamed of a stairway resting on the earth and reaching to heaven, with the angels of God going up and down on it."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "01-032-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 32,
+  "verse_reference": "Genesis 32:1-2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who met Jacob as he went on his way after leaving Laban?",
+  "options": [
+    "The angels of God",
+    "Esau's servants",
+    "The men of Seir",
+    "His brother Esau"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Angels"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angels of God met Jacob, and he called that place Mahanaim, meaning two camps."
+}

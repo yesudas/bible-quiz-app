@@ -1,0 +1,29 @@
+{
+  "id": "02-020-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 20,
+  "verse_reference": "Exodus 20:13-15",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which of these is one of the Ten Commandments?",
+  "options": [
+    "You shall not travel far",
+    "You shall not eat pork",
+    "You shall not steal",
+    "You shall not sing"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Among the Ten Commandments are 'You shall not murder,' 'You shall not commit adultery,' and 'You shall not steal.'"
+}

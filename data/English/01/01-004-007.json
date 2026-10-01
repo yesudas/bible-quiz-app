@@ -1,0 +1,34 @@
+{
+  "id": "01-004-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 4,
+  "verse_reference": "Genesis 4:25",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "What son did God give Adam and Eve in place of Abel?",
+  "options": [
+    "Enoch",
+    "Lamech",
+    "Seth",
+    "Jabal"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Hope"
+  ],
+  "characters": [
+    "Adam",
+    "Eve",
+    "Seth"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eve gave birth to Seth, saying God had granted her another child in place of Abel."
+}

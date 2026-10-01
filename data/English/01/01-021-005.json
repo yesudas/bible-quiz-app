@@ -1,0 +1,31 @@
+{
+  "id": "01-021-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 21,
+  "verse_reference": "Genesis 21:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Sarah mean when she said God had brought her laughter?",
+  "options": [
+    "She was laughing at Abraham",
+    "God had given her joy through Isaac's birth",
+    "The neighbors were mocking her",
+    "She had told a funny story"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [
+    "Sarah",
+    "Isaac"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sarah said God had brought her laughter, because the birth of Isaac in her old age filled her with joy, and others would rejoice with her."
+}

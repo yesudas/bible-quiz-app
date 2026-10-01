@@ -1,0 +1,30 @@
+{
+  "id": "01-045-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 45,
+  "verse_reference": "Genesis 45:21-23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Joseph give his brothers for the journey back to their father?",
+  "options": [
+    "Weapons and armor",
+    "Only grain",
+    "Wagons, provisions, and new clothing",
+    "Gold statues"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph gave them wagons, provisions for the journey, and new clothing, with even more given to Benjamin."
+}

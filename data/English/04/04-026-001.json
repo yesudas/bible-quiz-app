@@ -1,0 +1,33 @@
+{
+  "id": "04-026-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 26,
+  "verse_reference": "Numbers 26:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God command after the plague had ended?",
+  "options": [
+    "To build a new tabernacle",
+    "To take a new census of the people",
+    "To move back toward Egypt",
+    "To choose new tribal leaders"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses",
+    "Eleazar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After the plague, God told Moses and Eleazar to count the whole community of Israel by families, all who were twenty years old or more."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "02-036-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 36,
+  "verse_reference": "Exodus 36:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What unusual command did Moses give because of the people's generosity?",
+  "options": [
+    "To bring twice as much",
+    "To give only gold",
+    "To wait until the next year",
+    "To stop bringing any more offerings"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses commanded throughout the camp that no one should make anything more as an offering, because they already had more than enough."
+}

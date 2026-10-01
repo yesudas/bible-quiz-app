@@ -1,0 +1,30 @@
+{
+  "id": "03-005-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 5,
+  "verse_reference": "Leviticus 5:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What could a person bring as a sin offering if they could not afford a lamb?",
+  "options": [
+    "A young bull",
+    "Two doves or two young pigeons",
+    "A female goat",
+    "A ram from the flock"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Forgiveness",
+    "Provision"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 5:7 allowed a poorer person to bring two doves or two young pigeons instead of a lamb for a sin offering."
+}

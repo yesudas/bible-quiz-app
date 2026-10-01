@@ -1,0 +1,32 @@
+{
+  "id": "01-035-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 35,
+  "verse_reference": "Genesis 35:16-18",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which of Jacob's wives died while giving birth to Benjamin?",
+  "options": [
+    "Leah",
+    "Bilhah",
+    "Zilpah",
+    "Rachel"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Suffering"
+  ],
+  "characters": [
+    "Rachel",
+    "Benjamin"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rachel died while giving birth to her second son, and Jacob named him Benjamin."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "01-034-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 34,
+  "verse_reference": "Genesis 34:2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Who was Shechem, the man who wronged Dinah?",
+  "options": [
+    "A servant of Jacob",
+    "The son of Hamor the Hivite, ruler of that area",
+    "A brother of Esau",
+    "A trader passing through the land"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Shechem",
+    "Hamor",
+    "Dinah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Shechem was the son of Hamor the Hivite, the ruler of that region."
+}

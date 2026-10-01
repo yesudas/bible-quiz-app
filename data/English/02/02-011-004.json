@@ -1,0 +1,27 @@
+{
+  "id": "02-011-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 11,
+  "verse_reference": "Exodus 11:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Whose firstborn would be affected by the tenth plague?",
+  "options": [
+    "Only Pharaoh's family",
+    "From Pharaoh's firstborn to the firstborn of the slave girl",
+    "Only the Egyptian soldiers",
+    "Only the firstborn animals"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The plague would strike every firstborn, from Pharaoh who sat on the throne to the firstborn of the slave girl, and all the firstborn of the cattle."
+}

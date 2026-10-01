@@ -1,0 +1,31 @@
+{
+  "id": "01-042-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 42,
+  "verse_reference": "Genesis 42:21-22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the brothers say to one another about their trouble in Egypt?",
+  "options": [
+    "That Pharaoh had cursed them",
+    "That they were being punished for what they did to Joseph",
+    "That the famine was their fault",
+    "That they should never return home"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Repentance"
+  ],
+  "characters": [
+    "Joseph",
+    "Reuben"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The brothers admitted they were being punished because of how they had treated Joseph when he pleaded with them and they would not listen."
+}

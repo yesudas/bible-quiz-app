@@ -1,0 +1,34 @@
+{
+  "id": "04-005-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 5,
+  "verse_reference": "Numbers 5:15",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who carried out the test for the suspected wife?",
+  "options": [
+    "The husband himself",
+    "The elders of the city",
+    "The priest",
+    "The woman's father"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tent of Meeting",
+      "type": "tent"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priest carried out the test, bringing the woman before the Lord at the tent of meeting."
+}

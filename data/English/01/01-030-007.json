@@ -1,0 +1,30 @@
+{
+  "id": "01-030-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 30,
+  "verse_reference": "Genesis 30:32-33",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What animals did Jacob ask to take as his wages from Laban's flocks?",
+  "options": [
+    "All the white sheep",
+    "The speckled, spotted, and dark-colored animals",
+    "The strongest rams",
+    "Half of every kind"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jacob",
+    "Laban"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob asked to take the speckled, spotted, and dark-colored sheep and goats as his wages, which would clearly be his own."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Levi",
+    "label": "Levi",
+    "count": 3,
+    "paths": [
+        "English/01/01-034-005.json",
+        "English/01/01-034-006.json",
+        "English/01/01-049-003.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

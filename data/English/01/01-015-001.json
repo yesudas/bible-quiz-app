@@ -1,0 +1,32 @@
+{
+  "id": "01-015-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 15,
+  "verse_reference": "Genesis 15:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "God said to Abram in a vision, 'Do not be afraid, Abram. I am your shield, your very great ______.'",
+  "options": [
+    "reward",
+    "helper",
+    "refuge",
+    "friend"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Faith"
+  ],
+  "characters": [
+    "God",
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Abram not to be afraid, for He Himself was Abram's shield and very great reward."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "01-014-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 14,
+  "verse_reference": "Genesis 14:14-16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Abram do when he heard that Lot had been captured?",
+  "options": [
+    "He prayed and waited for the kings to return Lot",
+    "He paid a ransom for Lot",
+    "He led his trained men to rescue Lot and recover the goods",
+    "He asked the king of Sodom for help"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Family",
+    "Leadership"
+  ],
+  "characters": [
+    "Abraham",
+    "Lot"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abram called out his 318 trained men, pursued the kings, defeated them, and brought back Lot and all the goods."
+}

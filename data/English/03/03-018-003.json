@@ -1,0 +1,29 @@
+{
+  "id": "03-018-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 18,
+  "verse_reference": "Leviticus 18:21",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "To which false god were the Israelites forbidden to sacrifice their children?",
+  "options": [
+    "Baal",
+    "Dagon",
+    "Molek",
+    "Asherah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Idolatry",
+    "Holiness"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 18:21 forbids giving any children to be sacrificed to Molek, which would profane the name of God."
+}

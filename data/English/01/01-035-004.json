@@ -1,0 +1,30 @@
+{
+  "id": "01-035-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 35,
+  "verse_reference": "Genesis 35:8",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was Deborah, whose death and burial are noted at Bethel?",
+  "options": [
+    "Jacob's sister",
+    "Rachel's servant",
+    "A prophetess of Bethel",
+    "Rebekah's nurse"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Deborah",
+    "Rebekah"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Deborah, Rebekah's nurse, died and was buried under an oak below Bethel, which was named Allon Bakuth."
+}

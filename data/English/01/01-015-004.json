@@ -1,0 +1,32 @@
+{
+  "id": "01-015-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 15,
+  "verse_reference": "Genesis 15:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God tell Abram would happen to his descendants for four hundred years?",
+  "options": [
+    "They would rule over many nations",
+    "They would wander in the desert",
+    "They would be strangers and slaves in a country not their own",
+    "They would live in peace and safety"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Covenant",
+    "Suffering"
+  ],
+  "characters": [
+    "God",
+    "Abraham"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God foretold that Abram's descendants would be strangers, enslaved and mistreated in a country not their own for four hundred years."
+}

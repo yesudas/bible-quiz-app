@@ -1,0 +1,33 @@
+{
+  "id": "03-008-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 8,
+  "verse_reference": "Leviticus 8:1-6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "What important event takes place in Leviticus 8?",
+  "options": [
+    "The building of the tabernacle",
+    "The crossing of the Red Sea",
+    "The giving of the Ten Commandments",
+    "The ordination of Aaron and his sons as priests"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Priesthood",
+    "Worship",
+    "Consecration"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 8 describes how Moses ordained Aaron and his sons as priests, following the Lord's instructions."
+}

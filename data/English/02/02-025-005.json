@@ -1,0 +1,28 @@
+{
+  "id": "02-025-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 25,
+  "verse_reference": "Exodus 25:18-20",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What figures were placed on the atonement cover of the ark?",
+  "options": [
+    "Two golden lions",
+    "Two bronze eagles",
+    "Two cherubim of hammered gold",
+    "Two silver lambs"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Angels"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Two cherubim of hammered gold were placed at the ends of the atonement cover, facing each other with their wings spread over it."
+}

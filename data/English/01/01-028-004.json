@@ -1,0 +1,31 @@
+{
+  "id": "01-028-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 28,
+  "verse_reference": "Genesis 28:8-9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Esau do when he saw that Canaanite wives displeased his father?",
+  "options": [
+    "He sent his wives away",
+    "He followed Jacob to Harran",
+    "He built an altar",
+    "He married a daughter of Ishmael"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Marriage"
+  ],
+  "characters": [
+    "Esau",
+    "Ishmael"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Esau, seeing that his Canaanite wives displeased Isaac, married Mahalath, a daughter of Ishmael, to try to please his parents."
+}

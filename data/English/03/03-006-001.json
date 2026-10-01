@@ -1,0 +1,30 @@
+{
+  "id": "03-006-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 6,
+  "verse_reference": "Leviticus 6:2-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In the guilt offering laws, what was a person to do if they had cheated or stolen from a neighbor?",
+  "options": [
+    "Leave the camp in shame",
+    "Return it in full and add a fifth of its value",
+    "Give double to the priest",
+    "Offer only a burnt offering"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Repentance",
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 6:4-5 says the guilty person had to return what was taken in full and add a fifth of its value, giving it back to the owner."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "01-028-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 28,
+  "verse_reference": "Genesis 28:3-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What blessing did Isaac speak over Jacob before he left?",
+  "options": [
+    "That he would be a great hunter",
+    "That God would give him the blessing of Abraham and the land",
+    "That he would rule over Egypt",
+    "That he would return with gold"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Isaac",
+    "Jacob",
+    "Abraham"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaac blessed Jacob, asking God to give him the blessing of Abraham so he would inherit the land God had promised."
+}

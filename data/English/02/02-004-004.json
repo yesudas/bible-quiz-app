@@ -1,0 +1,30 @@
+{
+  "id": "02-004-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 4,
+  "verse_reference": "Exodus 4:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What reason did Moses give for not wanting to speak to Pharaoh?",
+  "options": [
+    "He was afraid of the desert",
+    "He was slow of speech and tongue",
+    "He did not know God's name",
+    "He was too old"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses said he was not a good speaker but was slow of speech and tongue, trying to avoid the task."
+}

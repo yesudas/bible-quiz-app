@@ -1,0 +1,32 @@
+{
+  "id": "02-001-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 1,
+  "verse_reference": "Exodus 1:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Pharaoh order the midwives to do?",
+  "options": [
+    "Care for all Hebrew babies",
+    "Kill the Hebrew baby boys",
+    "Kill the Hebrew baby girls",
+    "Send the babies to Canaan"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Suffering"
+  ],
+  "characters": [
+    "Shiphrah",
+    "Puah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh commanded the midwives to kill every Hebrew baby boy but to let the girls live."
+}

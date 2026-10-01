@@ -1,0 +1,31 @@
+{
+  "id": "02-013-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 13,
+  "verse_reference": "Exodus 13:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What were the Israelites told to remember about this day?",
+  "options": [
+    "The day they came out of slavery in Egypt",
+    "The day they crossed the Jordan",
+    "The day they built the tabernacle",
+    "The day they defeated the Amalekites"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses told the people to remember this day, the day they came out of Egypt and out of the land of slavery, by the LORD's mighty hand."
+}

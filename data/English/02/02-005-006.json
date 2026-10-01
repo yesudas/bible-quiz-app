@@ -1,0 +1,31 @@
+{
+  "id": "02-005-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 5,
+  "verse_reference": "Exodus 5:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Whom did the Israelite foremen blame for their increased suffering?",
+  "options": [
+    "Pharaoh",
+    "Moses and Aaron",
+    "The Egyptians",
+    "Themselves"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The foremen blamed Moses and Aaron, saying they had made the people hated by Pharaoh and his officials."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "01-025-001",
+  "language": "ka",
+  "book_no": 1,
+  "book": "ಆದಿಕಾಂಡ",
+  "chapter": 25,
+  "verse_reference": "ಆದಿಕಾಂಡ 25:1-2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "ಸಾರಾಳ ಮರಣದ ನಂತರ ಅಬ್ರಹಾಮನು ವಿವಾಹವಾದ ಮತ್ತೊಬ್ಬ ಪತ್ನಿಯ ಹೆಸರೇನು?",
+  "options": [
+    "ಹಾಗಾರ",
+    "ಕೆತೂರ",
+    "ರೆಬೆಕ್ಕ",
+    "ಮಿಲ್ಕಾ"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "ಕುಟುಂಬ",
+    "ವಿವಾಹ",
+    "ಇತಿಹಾಸ"
+  ],
+  "characters": [
+    "ಅಬ್ರಹಾಮ",
+    "ಕೆತೂರ"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "ಆದಿಕಾಂಡ 25:1 ರ ಪ್ರಕಾರ ಅಬ್ರಹಾಮನು ಮತ್ತೊಬ್ಬ ಸ್ತ್ರೀಯನ್ನು ಮದುವೆಯಾದನು; ಆಕೆಯ ಹೆಸರು ಕೆತೂರ."
+}

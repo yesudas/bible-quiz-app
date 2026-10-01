@@ -1,0 +1,29 @@
+{
+  "id": "03-017-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 17,
+  "verse_reference": "Leviticus 17:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What wrong practice was this law meant to stop among the Israelites?",
+  "options": [
+    "Sacrificing to goat idols",
+    "Eating unclean birds",
+    "Working on the Sabbath",
+    "Marrying foreign women"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Idolatry",
+    "Holiness"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 17:7 says the law was to stop the people from offering sacrifices to the goat idols they had chased after."
+}

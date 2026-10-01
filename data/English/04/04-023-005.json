@@ -1,0 +1,31 @@
+{
+  "id": "04-023-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 23,
+  "verse_reference": "Numbers 23:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Balaam said, 'God is not a man, that he should _____.'",
+  "options": [
+    "sleep",
+    "grow weary",
+    "lie",
+    "forget"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Faith"
+  ],
+  "characters": [
+    "Balaam"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Balaam declared that God is not a man that He should lie, nor a human being that He should change His mind."
+}

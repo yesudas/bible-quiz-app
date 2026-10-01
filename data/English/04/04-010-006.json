@@ -1,0 +1,32 @@
+{
+  "id": "04-010-006",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 10,
+  "verse_reference": "Numbers 10:29",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whom did Moses invite to travel with Israel to help guide them?",
+  "options": [
+    "Aaron",
+    "Joshua",
+    "Caleb",
+    "Hobab"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Moses",
+    "Hobab"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses invited Hobab, a relative of his father-in-law, to come with them and act as their eyes in the wilderness."
+}

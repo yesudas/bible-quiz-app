@@ -1,0 +1,31 @@
+{
+  "id": "02-002-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 2,
+  "verse_reference": "Exodus 2:5-6",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who found baby Moses in the basket by the river?",
+  "options": [
+    "Pharaoh's daughter",
+    "A Hebrew slave",
+    "Moses' aunt",
+    "An Egyptian priest"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh's daughter came to bathe at the Nile, found the basket, and felt sorry for the crying baby."
+}

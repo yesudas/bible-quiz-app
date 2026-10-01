@@ -1,0 +1,39 @@
+{
+  "id": "01-026-002",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 26,
+  "verse_reference": "उत्पत्ति 26:2-3",
+  "question_type": "DIRECT",
+  "difficulty": "Medium",
+  "question": "यहोवा ने दर्शन देकर इसहाक को कहाँ जाने से मना किया?",
+  "options": [
+    "मिस्र में",
+    "कनान में",
+    "हारान में",
+    "बेर्शेबा में"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "आज्ञा",
+    "प्रतिज्ञा",
+    "वाचा"
+  ],
+  "characters": [
+    "इसहाक"
+  ],
+  "places": [
+    {
+      "name": "मिस्र",
+      "type": "देश"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "यहोवा ने इसहाक को दर्शन देकर कहा कि मिस्र में मत जा; जो देश मैं तुझे बताऊँ उसी में रह।"
+}

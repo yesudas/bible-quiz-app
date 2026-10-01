@@ -1,0 +1,31 @@
+{
+  "id": "01-035-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 35,
+  "verse_reference": "Genesis 35:22-26",
+  "question_type": "DIRECT",
+  "difficulty": "Medium",
+  "question": "How many sons of Jacob are listed in this chapter?",
+  "options": [
+    "Ten",
+    "Twelve",
+    "Fourteen",
+    "Seven"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Covenant"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The chapter lists the twelve sons of Jacob, born to Leah, Rachel, and their servants Bilhah and Zilpah."
+}

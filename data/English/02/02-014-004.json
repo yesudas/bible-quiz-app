@@ -1,0 +1,32 @@
+{
+  "id": "02-014-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 14,
+  "verse_reference": "Exodus 14:21",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did God use to divide the sea so the Israelites could cross?",
+  "options": [
+    "A strong east wind",
+    "A great earthquake",
+    "A flood of rain",
+    "A bolt of lightning"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Salvation"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Moses stretched out his hand, the LORD drove the sea back with a strong east wind all night and turned it into dry land."
+}

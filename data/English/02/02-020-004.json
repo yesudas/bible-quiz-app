@@ -1,0 +1,30 @@
+{
+  "id": "02-020-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 20,
+  "verse_reference": "Exodus 20:8-11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why were the people told to rest on the Sabbath day?",
+  "options": [
+    "Because it was too hot to work",
+    "Because the LORD rested on the seventh day after creating",
+    "Because Moses commanded it himself",
+    "Because the Egyptians rested then"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Worship",
+    "Creation"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They were to keep the Sabbath holy and rest because in six days the LORD made everything and rested on the seventh day."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "02-015-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 15,
+  "verse_reference": "Exodus 15:26",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "At Marah the LORD said, \"I am the LORD, who _____ you.\"",
+  "options": [
+    "heals",
+    "guides",
+    "saves",
+    "keeps"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised that if they obeyed Him He would not bring on them the diseases of Egypt, for He is the LORD who heals them."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "02-017-008",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 17,
+  "verse_reference": "Exodus 17:15",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Moses name the altar he built after the victory?",
+  "options": [
+    "The LORD is my Shepherd",
+    "The LORD Provides",
+    "The LORD is my Banner",
+    "The LORD is Peace"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses built an altar and called it 'The LORD is my Banner,' remembering that the LORD had given the victory."
+}

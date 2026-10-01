@@ -1,0 +1,33 @@
+{
+  "id": "03-021-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 21,
+  "verse_reference": "Leviticus 21:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "To whom were the special rules in Leviticus 21 given?",
+  "options": [
+    "The kings of Israel",
+    "The priests, the sons of Aaron",
+    "The judges of the people",
+    "All the men of Israel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Priesthood",
+    "Holiness",
+    "Law"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 21:1 says these rules about holiness were given to the priests, the sons of Aaron."
+}

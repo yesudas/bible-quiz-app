@@ -1,0 +1,33 @@
+{
+  "id": "01-008-003",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 8,
+  "verse_reference": "उत्पत्ति 8:6-7",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "यह देखने के लिए कि भूमि पर से जल घट गया या नहीं, नूह ने सबसे पहले किस पक्षी को बाहर भेजा?",
+  "options": [
+    "कबूतर",
+    "कौआ",
+    "चील",
+    "फाख्ता"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "इतिहास",
+    "उद्धार"
+  ],
+  "characters": [
+    "नूह"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "चालीस दिन के बीतने पर नूह ने सबसे पहले एक कौवे को बाहर उड़ाया, जो जल सूखने तक इधर-उधर उड़ता फिरा।"
+}

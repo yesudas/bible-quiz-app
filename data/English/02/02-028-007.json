@@ -1,0 +1,29 @@
+{
+  "id": "02-028-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 28,
+  "verse_reference": "Exodus 28:36",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "On the gold plate fastened to the turban were engraved the words, \"HOLY TO THE _____.\"",
+  "options": [
+    "LORD",
+    "PRIEST",
+    "PEOPLE",
+    "KING"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A plate of pure gold engraved with 'HOLY TO THE LORD' was fastened to the front of the turban."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "02-007-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 7,
+  "verse_reference": "Exodus 7:20",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was the first plague God sent on Egypt?",
+  "options": [
+    "Frogs",
+    "The Nile turned to blood",
+    "Locusts",
+    "Darkness"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Judgment"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The first plague turned the water of the Nile into blood when Aaron struck it with the staff."
+}

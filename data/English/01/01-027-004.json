@@ -1,0 +1,31 @@
+{
+  "id": "01-027-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 27,
+  "verse_reference": "Genesis 27:11-12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was Jacob worried about pretending to be Esau?",
+  "options": [
+    "Esau was taller than him",
+    "Esau spoke differently",
+    "Esau was a hairy man while Jacob had smooth skin",
+    "Esau was older"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Sin"
+  ],
+  "characters": [
+    "Jacob",
+    "Esau"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob feared his father would touch him and discover the trick, since Esau was hairy but Jacob's skin was smooth."
+}

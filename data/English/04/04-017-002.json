@@ -1,0 +1,35 @@
+{
+  "id": "04-017-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 17,
+  "verse_reference": "Numbers 17:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was the sign that would show whom God had chosen?",
+  "options": [
+    "The tallest staff would be chosen",
+    "The heaviest staff would glow",
+    "The oldest staff would break",
+    "The staff of the chosen man would sprout"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tent of Meeting",
+      "type": "tent"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said the staff belonging to the man He chose would sprout, putting an end to the people's grumbling."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "03-005-004",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 5,
+  "verse_reference": "Leviticus 5:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was a person required to do when they realized they were guilty in these cases?",
+  "options": [
+    "Leave the camp for seven days",
+    "Confess the way they had sinned",
+    "Pay a fine to the elders",
+    "Offer a burnt offering only"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Repentance",
+    "Confession"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 5:5 says that when someone was guilty, they had to confess in what way they had sinned."
+}

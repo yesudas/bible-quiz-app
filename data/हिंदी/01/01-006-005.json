@@ -1,0 +1,31 @@
+{
+  "id": "01-006-005",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 6,
+  "verse_reference": "उत्पत्ति 6:15",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "परमेश्वर द्वारा दिए गए निर्देश के अनुसार नोह के जहाज की लम्बाई कितनी थी?",
+  "options": [
+    "दो सौ हाथ",
+    "तीन सौ हाथ",
+    "चार सौ हाथ",
+    "पाँच सौ हाथ"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "आज्ञाकारिता"
+  ],
+  "characters": [
+    "नोह"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "उत्पत्ति 6:15 के अनुसार जहाज की लम्बाई तीन सौ हाथ, चौड़ाई पचास हाथ और ऊँचाई तीस हाथ रखी जानी थी।"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "01-047-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 47,
+  "verse_reference": "Genesis 47:20-21",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "Finally, what did the people sell to buy grain during the famine?",
+  "options": [
+    "Their money",
+    "Their livestock",
+    "Their land, and they became servants of Pharaoh",
+    "Their tools"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At last the people sold their land to Pharaoh for food, so all the land of Egypt became Pharaoh's and the people became his servants."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "03-014-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 14,
+  "verse_reference": "Leviticus 14:2-3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the priest go to examine the person seeking to be declared clean?",
+  "options": [
+    "To the tent of meeting",
+    "Outside the camp",
+    "To the person's home",
+    "To the top of a mountain"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Priesthood",
+    "Cleansing"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 14:3 says the priest went outside the camp to examine the person, since that is where the diseased person had to live."
+}

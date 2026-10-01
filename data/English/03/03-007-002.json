@@ -1,0 +1,29 @@
+{
+  "id": "03-007-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 7,
+  "verse_reference": "Leviticus 7:23-24",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Lord forbid the Israelites to eat from cattle, sheep, or goats?",
+  "options": [
+    "The meat of the young",
+    "The fat",
+    "The bones",
+    "The skin"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Holiness"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 7:23 commands that the Israelites were not to eat the fat of cattle, sheep, or goats."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "04-034-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 34,
+  "verse_reference": "Numbers 34:6",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "What formed the western boundary of the promised land?",
+  "options": [
+    "The Jordan River",
+    "The Great Sea, the Mediterranean",
+    "The Desert of Zin",
+    "Mount Hor"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mediterranean Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The western boundary of the land was the coast of the Great Sea, which is the Mediterranean."
+}

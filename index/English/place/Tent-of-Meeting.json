@@ -1,0 +1,21 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Tent-of-Meeting",
+    "label": "Tent of Meeting",
+    "count": 11,
+    "paths": [
+        "English/04/04-001-002.json",
+        "English/04/04-002-001.json",
+        "English/04/04-002-004.json",
+        "English/04/04-003-003.json",
+        "English/04/04-004-001.json",
+        "English/04/04-005-005.json",
+        "English/04/04-007-007.json",
+        "English/04/04-008-001.json",
+        "English/04/04-008-006.json",
+        "English/04/04-017-002.json",
+        "English/04/04-018-002.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

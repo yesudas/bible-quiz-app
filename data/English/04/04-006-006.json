@@ -1,0 +1,33 @@
+{
+  "id": "04-006-006",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 6,
+  "verse_reference": "Numbers 6:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the blessing: 'The Lord bless you and _____ you.'",
+  "options": [
+    "keep",
+    "teach",
+    "send",
+    "call"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Promise"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priestly blessing begins, 'The Lord bless you and keep you.'"
+}

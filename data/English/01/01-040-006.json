@@ -1,0 +1,31 @@
+{
+  "id": "01-040-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 40,
+  "verse_reference": "Genesis 40:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Joseph ask the cupbearer to do after his release?",
+  "options": [
+    "To bring him food",
+    "To send word to his father",
+    "To remember him and mention him to Pharaoh",
+    "To free the baker as well"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Hope"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph asked the cupbearer to remember him and speak to Pharaoh so he might be released from prison, since he had done nothing to deserve it."
+}

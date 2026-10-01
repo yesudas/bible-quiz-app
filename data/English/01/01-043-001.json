@@ -1,0 +1,32 @@
+{
+  "id": "01-043-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 43,
+  "verse_reference": "Genesis 43:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "Why did Jacob tell his sons to go back to Egypt again?",
+  "options": [
+    "To rescue Simeon",
+    "Because the grain they had bought was used up",
+    "To find Joseph",
+    "To pay Pharaoh a visit"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Suffering"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the family had eaten all the grain they brought from Egypt, Jacob told his sons to go back and buy more."
+}

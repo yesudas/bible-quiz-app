@@ -1,0 +1,32 @@
+{
+  "id": "01-031-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 31,
+  "verse_reference": "Genesis 31:41",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "How many years did Jacob say he had served Laban in total?",
+  "options": [
+    "Seven years",
+    "Fourteen years",
+    "Twenty years",
+    "Forty years"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Suffering"
+  ],
+  "characters": [
+    "Jacob",
+    "Laban"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob said he served Laban twenty years in all, fourteen for his daughters and six for his flocks."
+}

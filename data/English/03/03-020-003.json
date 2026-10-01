@@ -1,0 +1,29 @@
+{
+  "id": "03-020-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 20,
+  "verse_reference": "Leviticus 20:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "The Lord warned against turning to which people for guidance?",
+  "options": [
+    "Foreign kings",
+    "Mediums and spiritists",
+    "Traveling merchants",
+    "Elders of other tribes"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Idolatry",
+    "Holiness"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 20:6 says the Lord would set his face against anyone who turned to mediums and spiritists."
+}

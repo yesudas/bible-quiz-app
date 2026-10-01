@@ -1,0 +1,29 @@
+{
+  "id": "02-038-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 38,
+  "verse_reference": "Exodus 38:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "From what did Bezalel make the bronze basin and its stand?",
+  "options": [
+    "Melted bronze coins",
+    "The mirrors of the women who served at the tent entrance",
+    "Old weapons of the Egyptians",
+    "Bronze from the mountain"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Bezalel"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The bronze basin and its stand were made from the mirrors of the women who served at the entrance to the tent of meeting."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "01-033-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 33,
+  "verse_reference": "Genesis 33:13-14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did Jacob decline to travel at Esau's pace?",
+  "options": [
+    "He wanted to stay away from Esau",
+    "The children were tender and the young animals needed a gentle pace",
+    "He feared Esau's men",
+    "He was too tired to travel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jacob",
+    "Esau"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob explained that the children were young and the nursing flocks and herds needed to move slowly so they would not be driven too hard."
+}

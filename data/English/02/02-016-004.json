@@ -1,0 +1,32 @@
+{
+  "id": "02-016-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 16,
+  "verse_reference": "Exodus 16:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was the name given to the bread God provided each morning?",
+  "options": [
+    "Passover",
+    "Manna",
+    "Matzah",
+    "Shewbread"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Promise"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the people saw the thin flakes on the ground they asked, 'What is it?' and it was called manna, the bread the LORD gave them."
+}

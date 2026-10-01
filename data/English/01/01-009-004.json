@@ -1,0 +1,31 @@
+{
+  "id": "01-009-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 9,
+  "verse_reference": "Genesis 9:20-21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Noah plant after the flood, leading to him becoming drunk?",
+  "options": [
+    "A wheat field",
+    "A fig orchard",
+    "A garden of herbs",
+    "A vineyard"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Family"
+  ],
+  "characters": [
+    "Noah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Noah planted a vineyard, and when he drank its wine he became drunk and lay uncovered in his tent."
+}

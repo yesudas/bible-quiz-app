@@ -1,0 +1,28 @@
+{
+  "id": "02-027-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 27,
+  "verse_reference": "Exodus 27:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What kind of oil were the Israelites to bring for the light in the tabernacle?",
+  "options": [
+    "Oil mixed with spices",
+    "Clear oil of pressed olives",
+    "Animal fat",
+    "Palm oil"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people were to bring clear oil of pressed olives so that the lamps could be kept burning."
+}

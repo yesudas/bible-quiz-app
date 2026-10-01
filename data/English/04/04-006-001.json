@@ -1,0 +1,30 @@
+{
+  "id": "04-006-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 6,
+  "verse_reference": "Numbers 6:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was a Nazirite vow?",
+  "options": [
+    "A promise to become a priest",
+    "A vow to lead an army",
+    "A promise to leave the camp",
+    "A special vow to separate oneself to the Lord"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Nazirite vow was a special vow by which a man or woman set themselves apart to the Lord for a period of time."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "01-048-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 48,
+  "verse_reference": "Genesis 48:17-19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Jacob respond when Joseph tried to move his right hand to the older son?",
+  "options": [
+    "He refused, saying the younger would become greater",
+    "He agreed and switched his hands",
+    "He stopped the blessing",
+    "He blessed only the older son"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jacob",
+    "Joseph",
+    "Ephraim",
+    "Manasseh"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob refused to move his hand, saying he knew what he was doing, and that though Manasseh would be great, his younger brother Ephraim would be greater."
+}

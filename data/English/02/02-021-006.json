@@ -1,0 +1,29 @@
+{
+  "id": "02-021-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 21,
+  "verse_reference": "Exodus 21:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the penalty for kidnapping a person?",
+  "options": [
+    "A fine of gold",
+    "Seven years of service",
+    "Loss of land",
+    "Death"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Anyone who kidnapped another person, whether they sold them or still had them, was to be put to death."
+}

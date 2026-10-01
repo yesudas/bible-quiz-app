@@ -1,0 +1,35 @@
+{
+  "id": "04-011-007",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 11,
+  "verse_reference": "Numbers 11:33-34",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened to the people because of their greed for meat?",
+  "options": [
+    "They were forgiven at once",
+    "They were given even more food",
+    "The Lord struck them with a plague",
+    "They were sent back to Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Temptation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Kibroth Hattaavah",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While the meat was still in their mouths, the Lord struck the greedy people with a severe plague at the place called Kibroth Hattaavah."
+}

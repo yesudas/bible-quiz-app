@@ -1,0 +1,34 @@
+{
+  "id": "01-036-001",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 36,
+  "verse_reference": "उत्पत्ति 36:1",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "उत्पत्ति की पुस्तक के अनुसार एसाव का दूसरा नाम क्या है?",
+  "options": [
+    "एदोम",
+    "मोआब",
+    "अम्मोन",
+    "अमालेक"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "वंशावली",
+    "इतिहास",
+    "नामकरण"
+  ],
+  "characters": [
+    "एसाव"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "उत्पत्ति 36:1 में स्पष्ट लिखा है कि एसाव की वंशावली यह है, एसाव वही है जो एदोम भी कहलाता है।"
+}

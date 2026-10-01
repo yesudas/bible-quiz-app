@@ -1,0 +1,33 @@
+{
+  "id": "01-011-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 11,
+  "verse_reference": "Genesis 11:29",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "What was the name of Abram's wife?",
+  "options": [
+    "Milkah",
+    "Hagar",
+    "Rebekah",
+    "Sarai"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Marriage"
+  ],
+  "characters": [
+    "Abraham",
+    "Sarah"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abram married Sarai, who was later renamed Sarah by God."
+}

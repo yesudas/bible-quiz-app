@@ -1,0 +1,31 @@
+{
+  "id": "01-049-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 49,
+  "verse_reference": "Genesis 49:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "What did Jacob gather his sons to do before he died?",
+  "options": [
+    "To divide his flocks",
+    "To tell them what would happen to them in days to come",
+    "To send them back to Canaan",
+    "To choose a new leader"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Family"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob called his sons together to tell them what would happen to them in the days to come."
+}

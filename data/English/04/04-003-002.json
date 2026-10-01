@@ -1,0 +1,39 @@
+{
+  "id": "04-003-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 3,
+  "verse_reference": "Numbers 3:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What happened to Nadab and Abihu?",
+  "options": [
+    "They died before the Lord when they offered unauthorized fire",
+    "They became high priests after Aaron",
+    "They led the Levites in worship",
+    "They were sent away from the camp"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Worship",
+    "Judgment"
+  ],
+  "characters": [
+    "Nadab",
+    "Abihu"
+  ],
+  "places": [
+    {
+      "name": "Desert of Sinai",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nadab and Abihu died before the Lord when they made an offering with unauthorized fire in the Desert of Sinai."
+}

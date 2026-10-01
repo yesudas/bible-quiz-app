@@ -1,0 +1,31 @@
+{
+  "id": "04-020-004",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 20,
+  "verse_reference": "Numbers 20:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Moses do instead of only speaking to the rock?",
+  "options": [
+    "He prayed over it",
+    "He struck the rock twice with his staff",
+    "He rolled the rock away",
+    "He waited until morning"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Faith"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses raised his hand and struck the rock twice with his staff, and water gushed out for the people."
+}

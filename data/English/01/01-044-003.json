@@ -1,0 +1,29 @@
+{
+  "id": "01-044-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 44,
+  "verse_reference": "Genesis 44:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the brothers confidently say should happen if the cup was found with any of them?",
+  "options": [
+    "That person would die, and the rest would become slaves",
+    "They would all go free",
+    "They would pay double",
+    "They would return home at once"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "So sure of their innocence, the brothers said that whoever had the cup should die, and the rest would become the steward's slaves."
+}

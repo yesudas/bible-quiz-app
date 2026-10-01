@@ -1,0 +1,32 @@
+{
+  "id": "01-050-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 50,
+  "verse_reference": "Genesis 50:19-20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Joseph say about the harm his brothers had done to him?",
+  "options": [
+    "That he would forget it in time",
+    "That they must repay him",
+    "That they intended to harm him, but God intended it for good to save many lives",
+    "That it was Pharaoh's doing"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Forgiveness",
+    "Faith",
+    "Salvation"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph told his brothers that although they meant to harm him, God intended it for good, to accomplish the saving of many lives."
+}

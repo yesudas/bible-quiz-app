@@ -1,0 +1,38 @@
+{
+  "id": "04-009-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 9,
+  "verse_reference": "Numbers 9:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What festival did God tell the Israelites to celebrate at its appointed time?",
+  "options": [
+    "The Feast of Tabernacles",
+    "The Day of Atonement",
+    "The Passover",
+    "The Feast of Weeks"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Desert of Sinai",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told the Israelites to celebrate the Passover at its appointed time, in the first month while they were in the Desert of Sinai."
+}

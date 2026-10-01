@@ -1,0 +1,31 @@
+{
+  "id": "01-039-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 39,
+  "verse_reference": "Genesis 39:20",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where was Joseph sent after being falsely accused?",
+  "options": [
+    "Back to Canaan",
+    "To prison",
+    "To Pharaoh's palace",
+    "To the fields"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Potiphar had Joseph put in the prison where the king's prisoners were kept."
+}

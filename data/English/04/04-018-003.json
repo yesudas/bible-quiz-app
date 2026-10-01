@@ -1,0 +1,31 @@
+{
+  "id": "04-018-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 18,
+  "verse_reference": "Numbers 18:8-9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How were the priests to be provided for?",
+  "options": [
+    "By farming their own land",
+    "From the offerings that the Israelites brought to the Lord",
+    "By a wage paid in silver",
+    "From the spoils of war only"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God gave Aaron and his sons a share of the offerings brought to the Lord, including the most holy offerings, as their portion."
+}

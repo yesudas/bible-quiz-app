@@ -1,0 +1,31 @@
+{
+  "id": "04-006-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 6,
+  "verse_reference": "Numbers 6:3-4",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was a Nazirite told to stay away from?",
+  "options": [
+    "Bread and water",
+    "Meat and fish",
+    "Wine and anything from the grapevine",
+    "Oil and salt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A Nazirite had to stay away from wine and other fermented drink, and from anything that comes from the grapevine."
+}

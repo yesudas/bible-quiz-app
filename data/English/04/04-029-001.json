@@ -1,0 +1,30 @@
+{
+  "id": "04-029-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 29,
+  "verse_reference": "Numbers 29:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What marked the festival held on the first day of the seventh month?",
+  "options": [
+    "A day of sounding the trumpets",
+    "A day of fasting and mourning",
+    "A day of rest with no offerings",
+    "A day of harvest"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On the first day of the seventh month, the people held a sacred assembly marked by the blowing of trumpets."
+}

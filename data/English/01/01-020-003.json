@@ -1,0 +1,30 @@
+{
+  "id": "01-020-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 20,
+  "verse_reference": "Genesis 20:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did God come to Abimelek to warn him about Sarah?",
+  "options": [
+    "Through an angel at the gate",
+    "In a dream at night",
+    "By a voice from the sky",
+    "Through the prophet Abraham"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Abimelek"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God came to Abimelek in a dream one night and warned him that Sarah was a married woman."
+}

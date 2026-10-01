@@ -1,0 +1,32 @@
+{
+  "id": "01-032-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 32,
+  "verse_reference": "Genesis 32:13-15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jacob prepare to send to Esau to win his favor?",
+  "options": [
+    "Gold and silver",
+    "His finest clothing",
+    "Grain and wine",
+    "A gift of livestock from his herds"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jacob",
+    "Esau"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob selected a large gift of goats, sheep, camels, cattle, and donkeys to send ahead to Esau."
+}

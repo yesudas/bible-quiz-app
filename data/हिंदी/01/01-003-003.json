@@ -1,0 +1,39 @@
+{
+  "id": "01-003-003",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 3,
+  "verse_reference": "उत्पत्ति 3:6",
+  "question_type": "SEQUENCE",
+  "difficulty": "Easy",
+  "question": "भले या बुरे के ज्ञान के वृक्ष का फल पहले किसने तोड़ा और खाया?",
+  "options": [
+    "आदम ने",
+    "स्त्री (हव्वा) ने",
+    "दोनों ने एक साथ",
+    "सर्प ने"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "पाप",
+    "आज्ञा-उल्लंघन"
+  ],
+  "characters": [
+    "हव्वा",
+    "आदम"
+  ],
+  "places": [
+    {
+      "name": "अदन",
+      "type": "Garden"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "स्त्री ने देखा कि वृक्ष का फल खाने के लिए अच्छा और मनभावऊ है, इसलिए उसने तोड़ा और खाया, फिर अपने पति को भी दिया।"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "01-033-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 33,
+  "verse_reference": "Genesis 33:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jacob set up on the land he bought near Shechem?",
+  "options": [
+    "A stone pillar",
+    "A watchtower",
+    "An altar",
+    "A heap of stones"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob set up an altar there and called it El Elohe Israel, meaning God, the God of Israel."
+}

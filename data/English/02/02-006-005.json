@@ -1,0 +1,31 @@
+{
+  "id": "02-006-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 6,
+  "verse_reference": "Exodus 6:23",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whom did Aaron marry?",
+  "options": [
+    "Zipporah",
+    "Elisheba",
+    "Jochebed",
+    "Miriam"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage",
+    "Family"
+  ],
+  "characters": [
+    "Aaron",
+    "Elisheba"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Aaron married Elisheba, and she bore him sons including Nadab, Abihu, Eleazar, and Ithamar."
+}

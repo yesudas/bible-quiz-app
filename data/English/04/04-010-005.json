@@ -1,0 +1,28 @@
+{
+  "id": "04-010-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 10,
+  "verse_reference": "Numbers 10:14",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "Which tribe's division set out first when Israel marched?",
+  "options": [
+    "Reuben",
+    "Dan",
+    "Judah",
+    "Ephraim"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The divisions of the camp of Judah went first, under their standard, as Israel set out."
+}

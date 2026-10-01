@@ -1,0 +1,32 @@
+{
+  "id": "01-017-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 17,
+  "verse_reference": "Genesis 17:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What new name did God give to Abram?",
+  "options": [
+    "Israel",
+    "Isaac",
+    "Jacob",
+    "Abraham"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God changed Abram's name to Abraham, for He made him a father of many nations."
+}

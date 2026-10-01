@@ -1,0 +1,14 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Nadab",
+    "label": "Nadab",
+    "count": 4,
+    "paths": [
+        "English/03/03-010-001.json",
+        "English/03/03-010-002.json",
+        "English/04/04-003-001.json",
+        "English/04/04-003-002.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

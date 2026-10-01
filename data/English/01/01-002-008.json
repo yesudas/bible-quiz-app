@@ -1,0 +1,29 @@
+{
+  "id": "01-002-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 2,
+  "verse_reference": "Genesis 2:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Genesis 2, what happens when a man is united to his wife?",
+  "options": [
+    "They become one flesh",
+    "They build a house together",
+    "They receive a new name",
+    "They leave the garden"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Marriage",
+    "Family"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A man leaves his father and mother and is united to his wife, and they become one flesh."
+}

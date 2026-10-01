@@ -1,0 +1,30 @@
+{
+  "id": "04-027-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 27,
+  "verse_reference": "Numbers 27:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did God respond to the request of Zelophehad's daughters?",
+  "options": [
+    "He refused their request",
+    "He gave the land to their uncles",
+    "He told them to wait for a son to be born",
+    "He said they were right and should receive the inheritance"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Moses that the daughters were right, and that they should be given property as an inheritance among their father's relatives."
+}

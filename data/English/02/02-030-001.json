@@ -1,0 +1,28 @@
+{
+  "id": "02-030-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 30,
+  "verse_reference": "Exodus 30:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was burned on the golden altar that stood before the curtain?",
+  "options": [
+    "Animal sacrifices",
+    "Grain offerings",
+    "Fragrant incense",
+    "Olive oil"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The golden altar was made for burning fragrant incense before the LORD, not for animal sacrifices."
+}

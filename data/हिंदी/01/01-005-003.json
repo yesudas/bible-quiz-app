@@ -1,0 +1,33 @@
+{
+  "id": "01-005-003",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 5,
+  "verse_reference": "उत्पत्ति 5:6-9",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "शेत के पुत्र का नाम क्या था, जिसके जन्म के समय से लोग यहोवा का नाम पुकारने लगे थे?",
+  "options": [
+    "एनोश",
+    "केनन्",
+    "महल्लएल",
+    "येरेद"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "वंशावली",
+    "परिवार"
+  ],
+  "characters": [
+    "शेत",
+    "एनोश"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "उत्पत्ति 5:6 के अनुसार, शेत जब एक सौ पाँच वर्ष का हुआ, तब उससे एनोश उत्पन्न हुआ।"
+}

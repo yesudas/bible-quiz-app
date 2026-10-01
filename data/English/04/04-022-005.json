@@ -1,0 +1,32 @@
+{
+  "id": "04-022-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 22,
+  "verse_reference": "Numbers 22:28",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What surprising thing happened with Balaam's donkey?",
+  "options": [
+    "It flew into the air",
+    "The Lord made it speak to Balaam",
+    "It turned into a horse",
+    "It ran into the enemy camp"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Balaam"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord opened the donkey's mouth, and it spoke to Balaam, asking why he had beaten her three times."
+}

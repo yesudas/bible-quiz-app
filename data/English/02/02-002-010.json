@@ -1,0 +1,30 @@
+{
+  "id": "02-002-010",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 2,
+  "verse_reference": "Exodus 2:23-25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God do when the Israelites groaned under their slavery?",
+  "options": [
+    "He ignored their cries",
+    "He heard them and remembered His covenant",
+    "He sent them more suffering",
+    "He told them to be silent"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Promise",
+    "Suffering"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God heard the groaning of the Israelites and remembered His covenant with Abraham, Isaac, and Jacob."
+}

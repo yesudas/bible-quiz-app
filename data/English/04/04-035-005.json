@@ -1,0 +1,28 @@
+{
+  "id": "04-035-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 35,
+  "verse_reference": "Numbers 35:30",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the law require before a person could be put to death for murder?",
+  "options": [
+    "The testimony of more than one witness",
+    "A single accuser",
+    "A payment of silver",
+    "A vote by the whole camp"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A murderer could be put to death only on the testimony of witnesses, and no one could be executed on the word of just one witness."
+}

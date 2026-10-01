@@ -1,0 +1,30 @@
+{
+  "id": "02-010-008",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 10,
+  "verse_reference": "Exodus 10:28",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Pharaoh threaten Moses at the end of the meeting?",
+  "options": [
+    "He said Moses would die if he saw his face again",
+    "He said he would destroy the Israelites",
+    "He said he would flood Goshen",
+    "He said he would take Moses' family"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Persecution"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh told Moses to leave and never appear before him again, warning that the day he saw Pharaoh's face he would die."
+}

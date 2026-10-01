@@ -1,0 +1,32 @@
+{
+  "id": "04-024-004",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 24,
+  "verse_reference": "Numbers 24:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Balak react when Balaam blessed Israel a third time?",
+  "options": [
+    "He rejoiced greatly",
+    "He offered Balaam more money",
+    "He asked for one more blessing",
+    "He was angry and told Balaam to go home"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Balak",
+    "Balaam"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Balak was angry with Balaam, saying he had called him to curse his enemies but Balaam had blessed them three times, and he told him to leave."
+}

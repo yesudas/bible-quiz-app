@@ -1,0 +1,30 @@
+{
+  "id": "01-026-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 26,
+  "verse_reference": "Genesis 26:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Isaac name the well where there was no dispute Rehoboth?",
+  "options": [
+    "It was the deepest well",
+    "It was near his father's grave",
+    "The LORD had given them room and they would flourish",
+    "It belonged to Abimelek"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [
+    "Isaac"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaac named the well Rehoboth, meaning room, saying that now the LORD had given them room to flourish in the land."
+}

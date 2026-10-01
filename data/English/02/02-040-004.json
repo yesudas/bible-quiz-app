@@ -1,0 +1,30 @@
+{
+  "id": "02-040-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 40,
+  "verse_reference": "Exodus 40:34",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened after the tabernacle was set up?",
+  "options": [
+    "A storm destroyed it",
+    "The glory of the LORD filled the tabernacle",
+    "The people left the camp",
+    "Fire burned it down"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Miracles"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The cloud covered the tent of meeting, and the glory of the LORD filled the tabernacle."
+}

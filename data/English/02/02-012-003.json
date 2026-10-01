@@ -1,0 +1,29 @@
+{
+  "id": "02-012-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 12,
+  "verse_reference": "Exodus 12:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What would the blood on the doorframes do for the Israelites?",
+  "options": [
+    "It would be a sign so the plague would pass over them",
+    "It would keep away wild animals",
+    "It would heal the sick",
+    "It would mark the leaders' houses"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Promise"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The blood was a sign, and when the LORD saw it He would pass over that house, so the destroying plague would not touch them."
+}

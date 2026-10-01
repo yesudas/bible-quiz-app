@@ -1,0 +1,28 @@
+{
+  "id": "03-013-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 13,
+  "verse_reference": "Leviticus 13:4-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When the priest was unsure about a skin condition, what did he often do?",
+  "options": [
+    "Send the person away permanently",
+    "Isolate the person for seven days and examine again",
+    "Declare them unclean at once",
+    "Ask another priest to decide"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Holiness"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 13:4-5 shows the priest would isolate the person for seven days and then examine the condition again before deciding."
+}

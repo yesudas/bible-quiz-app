@@ -1,0 +1,30 @@
+{
+  "id": "01-049-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 49,
+  "verse_reference": "Genesis 49:33",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened to Jacob after he finished giving instructions to his sons?",
+  "options": [
+    "He traveled back to Canaan",
+    "He fell asleep and recovered",
+    "He breathed his last and died",
+    "He blessed Pharaoh again"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Jacob finished giving instructions to his sons, he drew his feet up into the bed, breathed his last, and died."
+}

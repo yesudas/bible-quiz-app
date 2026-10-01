@@ -1,0 +1,32 @@
+{
+  "id": "01-016-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 16,
+  "verse_reference": "Genesis 16:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the angel of the LORD tell Hagar to do?",
+  "options": [
+    "Continue on to Egypt",
+    "Go back and submit to Sarai",
+    "Stay in the desert",
+    "Travel to Canaan alone"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels",
+    "Obedience"
+  ],
+  "characters": [
+    "Hagar",
+    "Sarai"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel told Hagar to go back to Sarai and submit to her."
+}

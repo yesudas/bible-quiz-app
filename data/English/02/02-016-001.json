@@ -1,0 +1,32 @@
+{
+  "id": "02-016-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 16,
+  "verse_reference": "Exodus 16:2-3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the Israelites grumble against Moses and Aaron in the desert?",
+  "options": [
+    "They had no water to wash",
+    "They had no food and remembered eating well in Egypt",
+    "They were tired of walking",
+    "They wanted to choose a new leader"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Faith"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites grumbled because they were hungry and complained that in Egypt they had eaten all the food they wanted."
+}

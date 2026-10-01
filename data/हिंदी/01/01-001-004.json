@@ -1,0 +1,30 @@
+{
+  "id": "01-001-004",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 1,
+  "verse_reference": "उत्पत्ति 1:9-13",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "सृष्टि के किस दिन सूखी भूमि, समुद्र और पेड़-पौधे प्रकट हुए?",
+  "options": [
+    "दूसरे दिन",
+    "तीसरे दिन",
+    "चौथे दिन",
+    "पाँचवें दिन"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "सृष्टि"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "तीसरे दिन परमेश्वर ने जल को इकट्ठा करके सूखी भूमि प्रकट की और वनस्पति व फलदाई वृक्ष उपजाए।"
+}

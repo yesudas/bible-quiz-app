@@ -1,0 +1,27 @@
+{
+  "id": "02-016-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 16,
+  "verse_reference": "Exodus 16:31",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the manna taste like?",
+  "options": [
+    "Bitter herbs",
+    "Roasted grain",
+    "Wafers made with honey",
+    "Salted fish"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The manna was white like coriander seed and tasted like wafers made with honey."
+}

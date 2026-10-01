@@ -1,0 +1,38 @@
+{
+  "id": "01-002-005",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 2,
+  "verse_reference": "उत्पत्ति 2:10-14",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "अदन से निकलने वाली उस नदी की चार शाखाओं में से कौन-सी नदी अश्शूर के पूर्व की ओर बहती है?",
+  "options": [
+    "पीशोन",
+    "गीहोन",
+    "हिद्देकेल",
+    "फरात"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "सृष्टि",
+    "भूगोल"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "हिद्देकेल",
+      "type": "River"
+    },
+    {
+      "name": "अश्शूर",
+      "type": "Region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "तीसरी नदी का नाम हिद्देकेल है, जो अश्शूर के पूर्व की ओर बहती है, और चौथी नदी फरात है।"
+}

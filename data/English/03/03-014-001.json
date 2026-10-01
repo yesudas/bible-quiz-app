@@ -1,0 +1,32 @@
+{
+  "id": "03-014-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 14,
+  "verse_reference": "Leviticus 14:1-7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What is the main subject of Leviticus 14?",
+  "options": [
+    "The cleansing of a person healed from a skin disease",
+    "The rules for the Passover",
+    "The making of the priestly garments",
+    "The offerings for the new year"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Holiness",
+    "Cleansing"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 14 gives the instructions for cleansing a person who had been healed from a defiling skin disease."
+}

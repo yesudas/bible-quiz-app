@@ -1,0 +1,31 @@
+{
+  "id": "01-035-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 35,
+  "verse_reference": "Genesis 35:11-12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God promise Jacob at Bethel?",
+  "options": [
+    "That Esau would serve him",
+    "That he would never leave the land",
+    "That a nation and kings would come from him, and the land would be his",
+    "That he would live for two hundred years"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised Jacob that a nation and a community of nations would come from him, that kings would be among his descendants, and that the land would belong to him and his offspring."
+}

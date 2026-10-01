@@ -1,0 +1,30 @@
+{
+  "id": "02-033-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 33,
+  "verse_reference": "Exodus 33:7-9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened when Moses entered the tent of meeting?",
+  "options": [
+    "Fire fell from the sky",
+    "The ground opened up",
+    "The pillar of cloud came down and stood at the entrance",
+    "The people followed him inside"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Prayer"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Moses entered the tent, the pillar of cloud would come down and stay at the entrance while the LORD spoke with him."
+}

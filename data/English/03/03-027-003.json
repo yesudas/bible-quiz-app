@@ -1,0 +1,29 @@
+{
+  "id": "03-027-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 27,
+  "verse_reference": "Leviticus 27:31",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "If someone wanted to redeem, or buy back, part of their tithe, what did they add to its value?",
+  "options": [
+    "A tenth",
+    "A half",
+    "A fifth",
+    "Double the amount"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Law",
+    "Money"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 27:31 says that anyone who wished to redeem part of their tithe had to add a fifth of its value."
+}

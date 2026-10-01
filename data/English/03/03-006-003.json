@@ -1,0 +1,28 @@
+{
+  "id": "03-006-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 6,
+  "verse_reference": "Leviticus 6:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the priest to do with the ashes of the burnt offering each morning?",
+  "options": [
+    "Scatter them over the people",
+    "Mix them into the grain offering",
+    "Place them beside the altar and later carry them outside the camp",
+    "Bury them under the altar"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Priesthood"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 6:10-11 says the priest was to remove the ashes and place them beside the altar, then carry them outside the camp to a clean place."
+}

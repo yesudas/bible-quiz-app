@@ -1,0 +1,33 @@
+{
+  "id": "01-008-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 8,
+  "verse_reference": "Genesis 8:21-22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the Lord promise in His heart after Noah's offering?",
+  "options": [
+    "Never again to curse the ground because of humans, or destroy all living creatures as He had done",
+    "To make Noah the ruler of all nations",
+    "To remove all animals from the earth",
+    "To bring another flood in a hundred years"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant",
+    "Promise",
+    "Grace"
+  ],
+  "characters": [
+    "God",
+    "Noah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord promised never again to curse the ground because of humans or to destroy all living creatures as He had just done."
+}

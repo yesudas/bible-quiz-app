@@ -1,0 +1,31 @@
+{
+  "id": "01-049-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 49,
+  "verse_reference": "Genesis 49:27",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which son did Jacob compare to a ravenous wolf?",
+  "options": [
+    "Dan",
+    "Gad",
+    "Naphtali",
+    "Benjamin"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Family"
+  ],
+  "characters": [
+    "Benjamin",
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob described Benjamin as a ravenous wolf who devours the prey in the morning and divides the plunder in the evening."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "01-001-003",
+  "language": "ka",
+  "book_no": 1,
+  "book": "ಆದಿಕಾಂಡ",
+  "chapter": 1,
+  "verse_reference": "ಆದಿಕಾಂಡ 1:3-5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "ಸೃಷ್ಟಿಯ ಮೊದಲನೆಯ ದಿನದಲ್ಲಿ ದೇವರು ಏನನ್ನು ಉಂಟುಮಾಡಿದನು?",
+  "options": [
+    "ಗಿಡಮರಗಳು",
+    "ಆಕಾಶಮಂಡಲ",
+    "ಬೆಳಕು",
+    "ಮೀನುಗಳು"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "ಸೃಷ್ಟಿ"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "ದೇವರು 'ಬೆಳಕು ಉಂಟಾಗಲಿ' ಎಂದು ನುಡಿಯಲು ಬೆಳಕು ಆಯಿತು; ಇದು ಮೊದಲನೆಯ ದಿನದ ಸೃಷ್ಟಿ ಕಾರ್ಯ."
+}

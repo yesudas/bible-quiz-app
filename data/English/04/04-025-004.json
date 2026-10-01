@@ -1,0 +1,31 @@
+{
+  "id": "04-025-004",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 25,
+  "verse_reference": "Numbers 25:7-8",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who took a spear and stopped the plague by his action?",
+  "options": [
+    "Joshua",
+    "Eleazar",
+    "Phinehas",
+    "Caleb"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [
+    "Phinehas"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Phinehas, son of Eleazar and grandson of Aaron, took a spear and drove it through an Israelite man and a Midianite woman, and the plague stopped."
+}

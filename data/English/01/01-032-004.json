@@ -1,0 +1,31 @@
+{
+  "id": "01-032-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 32,
+  "verse_reference": "Genesis 32:7-8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jacob divide his people and animals into two groups?",
+  "options": [
+    "To travel faster through the land",
+    "So that if Esau attacked one group, the other might escape",
+    "To offer half of them to Esau",
+    "To separate his wives from his servants"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob feared Esau, so he split his group in two, thinking that if Esau attacked one, the other could escape."
+}

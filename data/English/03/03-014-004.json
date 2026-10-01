@@ -1,0 +1,29 @@
+{
+  "id": "03-014-004",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 14,
+  "verse_reference": "Leviticus 14:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After being examined, what did the person do to become clean?",
+  "options": [
+    "Fast for three days",
+    "Wash their clothes, shave off all their hair, and bathe with water",
+    "Offer a bull at the altar",
+    "Stay silent for a week"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Cleansing",
+    "Holiness"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 14:8 says the person had to wash their clothes, shave off all their hair, and bathe with water to be clean."
+}

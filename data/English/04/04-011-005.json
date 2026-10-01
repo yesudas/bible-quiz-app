@@ -1,0 +1,35 @@
+{
+  "id": "04-011-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 11,
+  "verse_reference": "Numbers 11:26-29",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two men prophesied in the camp, and Moses would not stop them?",
+  "options": [
+    "Nadab and Abihu",
+    "Eldad and Medad",
+    "Caleb and Joshua",
+    "Aaron and Hur"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Eldad",
+    "Medad",
+    "Moses",
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eldad and Medad prophesied in the camp; when Joshua asked Moses to stop them, Moses wished that all the Lord's people were prophets."
+}

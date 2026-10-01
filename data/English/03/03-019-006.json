@@ -1,0 +1,30 @@
+{
+  "id": "03-019-006",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 19,
+  "verse_reference": "Leviticus 19:35-36",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Lord command about weights and measures used in trade?",
+  "options": [
+    "To use honest scales and honest measures",
+    "To weigh goods only at the temple",
+    "To let the priests set all prices",
+    "To trade only with other Israelites"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Honesty",
+    "Justice"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 19:35-36 commands the use of honest scales, weights, and measures in all trade."
+}

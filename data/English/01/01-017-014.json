@@ -1,0 +1,31 @@
+{
+  "id": "01-017-014",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 17,
+  "verse_reference": "Genesis 17:24-25",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How old was Ishmael when he was circumcised?",
+  "options": [
+    "Eight days old",
+    "Nine years old",
+    "Thirteen years old",
+    "Twenty years old"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [
+    "Ishmael",
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ishmael was thirteen years old when he was circumcised, while Abraham was ninety-nine."
+}

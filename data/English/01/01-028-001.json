@@ -1,0 +1,33 @@
+{
+  "id": "01-028-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 28,
+  "verse_reference": "Genesis 28:1-2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Isaac send Jacob to find a wife?",
+  "options": [
+    "To Paddan Aram, to the family of Laban",
+    "To Egypt",
+    "To the land of Canaan",
+    "To Beersheba"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Marriage"
+  ],
+  "characters": [
+    "Isaac",
+    "Jacob",
+    "Laban"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaac sent Jacob to Paddan Aram, to the house of Rebekah's brother Laban, to marry one of Laban's daughters."
+}

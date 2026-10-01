@@ -1,0 +1,33 @@
+{
+  "id": "04-010-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 10,
+  "verse_reference": "Numbers 10:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did God tell Moses to make out of silver?",
+  "options": [
+    "Two trumpets",
+    "A crown",
+    "A pair of bells",
+    "A large bowl"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Moses to make two trumpets of hammered silver to call the community together and to have the camps set out."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "01-047-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 47,
+  "verse_reference": "Genesis 47:9",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "How old did Jacob tell Pharaoh he was?",
+  "options": [
+    "One hundred and thirty years",
+    "One hundred years",
+    "One hundred and forty-seven years",
+    "Ninety years"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob told Pharaoh that the years of his pilgrimage were a hundred and thirty."
+}

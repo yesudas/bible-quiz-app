@@ -1,0 +1,29 @@
+{
+  "id": "01-018-013",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 18,
+  "verse_reference": "Genesis 18:23-32",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "In what order did Abraham lower his requests for the number of righteous people?",
+  "options": [
+    "Ten, then twenty, then fifty",
+    "Fifty, then forty-five, then forty, and down to ten",
+    "One hundred, then fifty, then ten",
+    "Forty, then fifty, then sixty"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham began at fifty and lowered his request in steps: forty-five, forty, thirty, twenty, and finally ten."
+}

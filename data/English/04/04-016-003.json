@@ -1,0 +1,33 @@
+{
+  "id": "04-016-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 16,
+  "verse_reference": "Numbers 16:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What test did Moses set to show whom God had chosen?",
+  "options": [
+    "A test of strength",
+    "A footrace to the tent of meeting",
+    "Drawing lots with stones",
+    "Each was to take a censer and offer incense before the Lord"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses",
+    "Korah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses told Korah and his followers to take censers and offer incense before the Lord, and the Lord would show who was holy."
+}

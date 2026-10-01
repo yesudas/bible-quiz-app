@@ -1,0 +1,30 @@
+{
+  "id": "03-013-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 13,
+  "verse_reference": "Leviticus 13:2-3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was responsible for examining a person with a skin disease?",
+  "options": [
+    "The elders of the town",
+    "The head of the family",
+    "The priest",
+    "Any witness who saw it"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Priesthood",
+    "Holiness"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 13:2-3 says the person was to be brought to the priest, who examined the skin to decide if it was clean or unclean."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "04-035-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 35,
+  "verse_reference": "Numbers 35:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many towns in total were given to the Levites?",
+  "options": [
+    "Twelve",
+    "Twenty-four",
+    "Forty-eight",
+    "Six"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Levites were given forty-eight towns in all, together with their pasturelands, spread among the tribes."
+}

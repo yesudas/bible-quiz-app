@@ -1,0 +1,28 @@
+{
+  "id": "02-021-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 21,
+  "verse_reference": "Exodus 21:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The law said, \"eye for eye, tooth for _____.\"",
+  "options": [
+    "tooth",
+    "bone",
+    "hand",
+    "life"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "This law of fair justice said the punishment should match the harm done: eye for eye, tooth for tooth, hand for hand, foot for foot."
+}

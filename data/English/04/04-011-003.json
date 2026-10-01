@@ -1,0 +1,28 @@
+{
+  "id": "04-011-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 11,
+  "verse_reference": "Numbers 11:7-8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was the manna like, according to this chapter?",
+  "options": [
+    "Like small stones",
+    "Like dry sand",
+    "Like coriander seed, tasting like something made with olive oil",
+    "Like sweet grapes"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The manna was like coriander seed and looked like resin; the people ground it and made cakes that tasted like something baked with olive oil."
+}

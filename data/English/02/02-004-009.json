@@ -1,0 +1,32 @@
+{
+  "id": "02-004-009",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 4,
+  "verse_reference": "Exodus 4:30-31",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the Israelites respond when they heard God had seen their misery?",
+  "options": [
+    "They rebelled against Moses",
+    "They believed and bowed down in worship",
+    "They fled from Egypt at once",
+    "They refused to listen"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Worship"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the people heard that the LORD was concerned about them, they believed and bowed down and worshiped."
+}

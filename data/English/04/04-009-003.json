@@ -1,0 +1,32 @@
+{
+  "id": "04-009-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 9,
+  "verse_reference": "Numbers 9:10-11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God allow for those who were unclean or on a journey at Passover time?",
+  "options": [
+    "They could keep the Passover a month later",
+    "They could skip the Passover entirely",
+    "They could send someone else in their place",
+    "They had to pay a fine instead"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Worship",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God allowed anyone who was unclean or away on a journey to keep the Passover a month later, in the second month."
+}

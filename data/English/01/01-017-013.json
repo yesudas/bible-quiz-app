@@ -1,0 +1,33 @@
+{
+  "id": "01-017-013",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 17,
+  "verse_reference": "Genesis 17:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "With which son did God say He would establish His covenant?",
+  "options": [
+    "With Ishmael",
+    "With Isaac",
+    "With both sons equally",
+    "With neither son"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Isaac",
+    "Ishmael",
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Though God would bless Ishmael, He said He would establish His covenant with Isaac, whom Sarah would bear the next year."
+}

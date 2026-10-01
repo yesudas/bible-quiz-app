@@ -1,0 +1,32 @@
+{
+  "id": "01-037-011",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 37,
+  "verse_reference": "Genesis 37:31-33",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the brothers deceive their father about Joseph?",
+  "options": [
+    "They said Joseph had run away",
+    "They told him Joseph was working in Egypt",
+    "They dipped his robe in goat's blood and showed it to Jacob",
+    "They claimed Joseph had drowned in a river"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Family"
+  ],
+  "characters": [
+    "Joseph",
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The brothers dipped Joseph's robe in goat's blood and brought it to Jacob, who concluded that a wild animal had devoured his son."
+}

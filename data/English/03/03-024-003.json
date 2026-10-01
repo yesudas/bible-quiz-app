@@ -1,0 +1,29 @@
+{
+  "id": "03-024-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 24,
+  "verse_reference": "Leviticus 24:10-14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What sin led to judgment in the account of the man in this chapter?",
+  "options": [
+    "He stole from the tabernacle",
+    "He blasphemed the Name of the Lord",
+    "He worked on the Sabbath",
+    "He ate the holy bread"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Holiness"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 24:11 says the man blasphemed the Name of the Lord with a curse, and he was brought to Moses for judgment."
+}

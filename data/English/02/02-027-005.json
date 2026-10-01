@@ -1,0 +1,30 @@
+{
+  "id": "02-027-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 27,
+  "verse_reference": "Exodus 27:21",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was responsible for keeping the lamps burning before the LORD?",
+  "options": [
+    "Moses alone",
+    "The seventy elders",
+    "Aaron and his sons",
+    "All the people in turn"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Aaron and his sons were to tend the lamps in the tent of meeting from evening till morning before the LORD, as a lasting ordinance."
+}

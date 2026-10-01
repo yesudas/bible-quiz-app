@@ -1,0 +1,31 @@
+{
+  "id": "01-007-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 7,
+  "verse_reference": "Genesis 7:12",
+  "question_type": "WHEN",
+  "difficulty": "Easy",
+  "question": "How long did the rain fall on the earth during the flood?",
+  "options": [
+    "Seven days and seven nights",
+    "Three days and three nights",
+    "One year",
+    "Forty days and forty nights"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Noah"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rain fell on the earth for forty days and forty nights during the flood."
+}

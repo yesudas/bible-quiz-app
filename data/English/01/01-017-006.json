@@ -1,0 +1,30 @@
+{
+  "id": "01-017-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 17,
+  "verse_reference": "Genesis 17:10-11",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What sign did God give as the mark of His covenant with Abraham?",
+  "options": [
+    "A rainbow in the sky",
+    "Circumcision of every male",
+    "A stone altar",
+    "A special feast"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God commanded that every male be circumcised as the sign of the covenant between Him and Abraham's household."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "01-037-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 37,
+  "verse_reference": "Genesis 37:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Joseph's brothers feel because their father favored him?",
+  "options": [
+    "They rejoiced with him",
+    "They ignored him completely",
+    "They asked Jacob for gifts too",
+    "They hated him and could not speak kindly to him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Sin"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the brothers saw that their father loved Joseph more, they hated him and could not speak a kind word to him."
+}

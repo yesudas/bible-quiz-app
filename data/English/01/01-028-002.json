@@ -1,0 +1,32 @@
+{
+  "id": "01-028-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 28,
+  "verse_reference": "Genesis 28:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Isaac tell Jacob NOT to do when sending him away?",
+  "options": [
+    "Not to travel at night",
+    "Not to take any servants",
+    "Not to speak to Esau",
+    "Not to marry a Canaanite woman"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Marriage",
+    "Covenant"
+  ],
+  "characters": [
+    "Isaac",
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaac commanded Jacob not to marry a Canaanite woman but to find a wife among his mother's relatives."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "02-023-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 23,
+  "verse_reference": "Exodus 23:29-30",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did God say He would drive out the nations before Israel?",
+  "options": [
+    "All at once in a single day",
+    "Little by little, not all in one year",
+    "Only after many years of war",
+    "By flooding their lands"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would drive out the nations little by little, not all at once, so the land would not become desolate and overrun by wild animals."
+}

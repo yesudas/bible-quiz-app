@@ -1,0 +1,30 @@
+{
+  "id": "03-005-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 5,
+  "verse_reference": "Leviticus 5:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What could the very poor bring as a sin offering if they could not afford two birds?",
+  "options": [
+    "A tenth of an ephah of fine flour",
+    "A jar of oil",
+    "A measure of wine",
+    "A basket of fruit"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Forgiveness",
+    "Provision"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 5:11 allowed the very poor to bring a tenth of an ephah of fine flour as a sin offering, without oil or incense."
+}

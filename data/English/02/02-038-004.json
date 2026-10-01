@@ -1,0 +1,31 @@
+{
+  "id": "02-038-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 38,
+  "verse_reference": "Exodus 38:23",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who worked with Bezalel as an engraver, designer, and embroiderer?",
+  "options": [
+    "Aaron",
+    "Oholiab",
+    "Hur",
+    "Ithamar"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Oholiab",
+    "Bezalel"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Oholiab, of the tribe of Dan, worked with Bezalel as an engraver, designer, and embroiderer in fine materials."
+}

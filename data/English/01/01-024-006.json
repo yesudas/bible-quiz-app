@@ -1,0 +1,30 @@
+{
+  "id": "01-024-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 24,
+  "verse_reference": "Genesis 24:15",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was Rebekah's father?",
+  "options": [
+    "Laban",
+    "Nahor",
+    "Bethuel",
+    "Haran"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Rebekah",
+    "Bethuel"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rebekah was the daughter of Bethuel, who was the son of Nahor and Milkah, Abraham's relatives."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "02-007-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 7,
+  "verse_reference": "Exodus 7:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Aaron's staff do to the staffs of the Egyptian magicians?",
+  "options": [
+    "It swallowed up their staffs",
+    "It turned them to stone",
+    "It set them on fire",
+    "It made them disappear"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Though the magicians' staffs also became snakes, Aaron's staff swallowed up their staffs."
+}

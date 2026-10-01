@@ -1,0 +1,33 @@
+{
+  "id": "01-024-013",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 24,
+  "verse_reference": "Genesis 24:67",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened when Isaac and Rebekah were brought together?",
+  "options": [
+    "Rebekah returned home",
+    "Isaac married her and she became his wife",
+    "They waited seven years",
+    "Isaac sent her away"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage",
+    "Love"
+  ],
+  "characters": [
+    "Isaac",
+    "Rebekah"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaac brought Rebekah into his tent, married her, and loved her, and he was comforted after his mother's death."
+}

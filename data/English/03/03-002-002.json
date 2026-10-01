@@ -1,0 +1,29 @@
+{
+  "id": "03-002-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 2,
+  "verse_reference": "Leviticus 2:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What two things were to be poured on or added to the flour of the grain offering?",
+  "options": [
+    "Oil and incense",
+    "Water and salt",
+    "Wine and honey",
+    "Milk and spices"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Sacrifice"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 2:1 says the person was to pour oil on the flour and put incense on it."
+}

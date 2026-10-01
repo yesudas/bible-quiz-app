@@ -1,0 +1,31 @@
+{
+  "id": "01-037-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 37,
+  "verse_reference": "Genesis 37:28",
+  "question_type": "DIRECT",
+  "difficulty": "Medium",
+  "question": "For how many shekels of silver was Joseph sold to the Ishmaelites?",
+  "options": [
+    "Ten",
+    "Twenty",
+    "Thirty",
+    "Fifty"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Suffering"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The brothers sold Joseph to the Ishmaelite traders for twenty shekels of silver."
+}

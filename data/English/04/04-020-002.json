@@ -1,0 +1,33 @@
+{
+  "id": "04-020-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 20,
+  "verse_reference": "Numbers 20:2-5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Why did the people quarrel with Moses at this place?",
+  "options": [
+    "There was no water to drink",
+    "They wanted a new leader",
+    "They were tired of walking",
+    "They had lost their animals"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "There was no water for the community, so the people gathered and quarreled with Moses and Aaron."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "01-037-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 37,
+  "verse_reference": "Genesis 37:21-22",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which brother tried to save Joseph's life by suggesting they throw him into a cistern instead of killing him?",
+  "options": [
+    "Judah",
+    "Reuben",
+    "Simeon",
+    "Levi"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Reuben",
+    "Joseph"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Reuben tried to rescue Joseph by urging the brothers to throw him into a cistern rather than kill him, planning to return him to their father later."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "02-032-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 32,
+  "verse_reference": "Exodus 32:11-14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Moses do when God said He would destroy the people?",
+  "options": [
+    "He agreed with God",
+    "He ran away in fear",
+    "He blamed Joshua",
+    "He pleaded with God, and God relented"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses pleaded with the LORD, appealing to His reputation and His promises to Abraham, Isaac, and Israel, and God relented from the disaster."
+}

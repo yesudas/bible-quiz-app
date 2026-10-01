@@ -1,0 +1,33 @@
+{
+  "id": "01-033-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 33,
+  "verse_reference": "Genesis 33:4",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did Esau respond when he met Jacob?",
+  "options": [
+    "He attacked him",
+    "He turned away in anger",
+    "He demanded payment",
+    "He ran to meet him and embraced him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Forgiveness",
+    "Family"
+  ],
+  "characters": [
+    "Esau",
+    "Jacob"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Esau ran to meet Jacob, embraced him, threw his arms around his neck, kissed him, and they wept together."
+}

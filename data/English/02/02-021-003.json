@@ -1,0 +1,29 @@
+{
+  "id": "02-021-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 21,
+  "verse_reference": "Exodus 21:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was the penalty for someone who struck and killed another person?",
+  "options": [
+    "They paid a fine",
+    "They were sent away",
+    "They lost their property",
+    "They were to be put to death"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Anyone who struck a person and killed them was to be put to death, though the law made a difference for accidental killing."
+}

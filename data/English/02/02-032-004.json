@@ -1,0 +1,30 @@
+{
+  "id": "02-032-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 32,
+  "verse_reference": "Exodus 32:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Moses do with the stone tablets when he saw the golden calf?",
+  "options": [
+    "He hid them in a cave",
+    "He threw them down and broke them",
+    "He gave them to Aaron",
+    "He buried them"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Moses saw the calf and the dancing, his anger burned and he threw the tablets down, breaking them at the foot of the mountain."
+}

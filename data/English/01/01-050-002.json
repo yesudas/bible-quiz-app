@@ -1,0 +1,32 @@
+{
+  "id": "01-050-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 50,
+  "verse_reference": "Genesis 50:5-6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Joseph ask Pharaoh's permission to leave Egypt for a time?",
+  "options": [
+    "To find more grain",
+    "To visit his brothers' homes",
+    "To escape a new famine",
+    "To bury his father in Canaan as he had promised"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Promise"
+  ],
+  "characters": [
+    "Joseph",
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph asked to go up and bury his father in Canaan, as he had sworn to do, and Pharaoh gave him permission."
+}

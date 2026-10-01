@@ -1,0 +1,31 @@
+{
+  "id": "01-050-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 50,
+  "verse_reference": "Genesis 50:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Joseph's brothers fear after their father died?",
+  "options": [
+    "That the famine would return",
+    "That they would lose their land",
+    "That Pharaoh would send them away",
+    "That Joseph would hold a grudge and pay them back for their wrong"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "With their father gone, the brothers feared that Joseph might still hold a grudge and repay them for the wrong they had done."
+}

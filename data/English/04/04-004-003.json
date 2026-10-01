@@ -1,0 +1,31 @@
+{
+  "id": "04-004-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 4,
+  "verse_reference": "Numbers 4:5-15",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who had to cover the holy things before the Kohathites could carry them?",
+  "options": [
+    "Moses and Joshua",
+    "The elders of the tribes",
+    "Aaron and his sons",
+    "The Gershonites"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Aaron and his sons had to go in and cover the holy things first, so the Kohathites could carry them without touching them."
+}

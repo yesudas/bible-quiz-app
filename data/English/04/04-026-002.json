@@ -1,0 +1,34 @@
+{
+  "id": "04-026-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 26,
+  "verse_reference": "Numbers 26:2-3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who were to be counted in this second census?",
+  "options": [
+    "All the women and children",
+    "Only the priests",
+    "The firstborn of each family",
+    "Men twenty years old or more able to serve in the army"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Plains of Moab",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As before, the census counted all the men twenty years old or more who were able to serve in the army."
+}

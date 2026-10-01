@@ -1,0 +1,34 @@
+{
+  "id": "01-029-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 29,
+  "verse_reference": "Genesis 29:30",
+  "question_type": "DIRECT",
+  "difficulty": "Medium",
+  "question": "In total, how many years did Jacob work for Laban to marry both daughters?",
+  "options": [
+    "Seven years",
+    "Ten years",
+    "Fourteen years",
+    "Twenty years"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Marriage",
+    "Love"
+  ],
+  "characters": [
+    "Jacob",
+    "Rachel",
+    "Leah",
+    "Laban"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob worked seven years for Leah and another seven years for Rachel, fourteen years in all."
+}

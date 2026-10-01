@@ -1,0 +1,30 @@
+{
+  "id": "02-002-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 2,
+  "verse_reference": "Exodus 2:1-2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "From which tribe were the parents of Moses?",
+  "options": [
+    "Judah",
+    "Levi",
+    "Benjamin",
+    "Reuben"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses was born to a man and woman who were both from the tribe of Levi."
+}

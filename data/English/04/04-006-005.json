@@ -1,0 +1,33 @@
+{
+  "id": "04-006-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 6,
+  "verse_reference": "Numbers 6:22-23",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who did God tell to bless the people of Israel with a special blessing?",
+  "options": [
+    "Moses and the elders",
+    "The Levites",
+    "Aaron and his sons",
+    "The tribal leaders"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Aaron",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Moses to have Aaron and his sons bless the Israelites with the words He gave them."
+}

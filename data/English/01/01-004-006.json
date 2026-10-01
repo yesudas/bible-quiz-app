@@ -1,0 +1,31 @@
+{
+  "id": "01-004-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 4,
+  "verse_reference": "Genesis 4:12-16",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In what land did Cain settle after the Lord sent him away?",
+  "options": [
+    "The land of Canaan",
+    "The land of Nod, east of Eden",
+    "The land of Goshen",
+    "The land of Uz"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [
+    "Cain"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After being sent from the Lord's presence, Cain settled in the land of Nod, east of Eden."
+}

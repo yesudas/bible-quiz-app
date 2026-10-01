@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Japheth",
+    "label": "Japheth",
+    "count": 3,
+    "paths": [
+        "English/01/01-005-004.json",
+        "English/01/01-009-005.json",
+        "English/01/01-010-001.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

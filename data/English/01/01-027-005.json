@@ -1,0 +1,32 @@
+{
+  "id": "01-027-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 27,
+  "verse_reference": "Genesis 27:15-16",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Rebekah use to make Jacob feel like Esau to his father?",
+  "options": [
+    "Wool blankets",
+    "A false beard",
+    "Sheep's clothing",
+    "Goatskins on his hands and neck, and Esau's clothes"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Sin"
+  ],
+  "characters": [
+    "Rebekah",
+    "Jacob",
+    "Esau"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rebekah dressed Jacob in Esau's clothes and covered his hands and neck with goatskins so he would feel hairy like Esau."
+}

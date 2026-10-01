@@ -1,0 +1,35 @@
+{
+  "id": "04-007-007",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 7,
+  "verse_reference": "Numbers 7:89",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "From where did Moses hear the Lord speaking to him?",
+  "options": [
+    "From the top of the mountain",
+    "From a burning bush",
+    "From between the two cherubim above the atonement cover",
+    "From a cloud outside the camp"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Tent of Meeting",
+      "type": "tent"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses heard the Lord speaking to him from between the two cherubim above the atonement cover on the ark."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "03-023-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 23,
+  "verse_reference": "Leviticus 23:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Which weekly day of rest is listed first among the sacred times?",
+  "options": [
+    "The Day of Atonement",
+    "The Sabbath",
+    "The Feast of Weeks",
+    "The Passover"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Rest",
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 23:3 lists the Sabbath first, a day of rest and sacred assembly every seventh day."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "01-043-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 43,
+  "verse_reference": "Genesis 43:8-9",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which brother personally guaranteed Benjamin's safety to Jacob?",
+  "options": [
+    "Reuben",
+    "Simeon",
+    "Judah",
+    "Levi"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Leadership"
+  ],
+  "characters": [
+    "Judah",
+    "Benjamin"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Judah offered himself as a guarantee for Benjamin, promising to bear the blame before Jacob if he did not bring him back."
+}

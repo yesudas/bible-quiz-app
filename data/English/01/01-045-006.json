@@ -1,0 +1,32 @@
+{
+  "id": "01-045-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 45,
+  "verse_reference": "Genesis 45:14-15",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which brother did Joseph embrace and weep over first?",
+  "options": [
+    "Benjamin",
+    "Reuben",
+    "Judah",
+    "Simeon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Love"
+  ],
+  "characters": [
+    "Joseph",
+    "Benjamin"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph threw his arms around his brother Benjamin and wept, and Benjamin wept too; then he kissed all his brothers."
+}

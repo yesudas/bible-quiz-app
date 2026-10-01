@@ -1,0 +1,31 @@
+{
+  "id": "01-026-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 26,
+  "verse_reference": "Genesis 26:3-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What promise did God repeat to Isaac that He had made to Abraham?",
+  "options": [
+    "That he would build a great city",
+    "That his descendants would be as many as the stars and inherit the land",
+    "That he would live forever",
+    "That he would rule over Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Isaac",
+    "Abraham"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised Isaac the same covenant blessings given to Abraham: descendants as numerous as the stars, the land, and blessing for all nations through his offspring."
+}

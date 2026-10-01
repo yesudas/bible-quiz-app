@@ -1,0 +1,32 @@
+{
+  "id": "04-024-006",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 24,
+  "verse_reference": "Numbers 24:25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Balaam and Balak do at the end of the chapter?",
+  "options": [
+    "They made a covenant together",
+    "They went to war against Israel",
+    "They offered a final sacrifice",
+    "They each went their own way"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Balaam",
+    "Balak"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After giving his final messages, Balaam got up and returned home, and Balak also went on his way."
+}

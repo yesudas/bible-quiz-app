@@ -1,0 +1,31 @@
+{
+  "id": "04-010-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 10,
+  "verse_reference": "Numbers 10:9",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When were the Israelites to sound the trumpets as an alarm?",
+  "options": [
+    "When it was time to sleep",
+    "When they went into battle against an enemy",
+    "When they finished eating",
+    "When the sun rose each day"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Faith",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they went to war against an enemy, they were to sound the trumpets so the Lord would remember them and rescue them."
+}

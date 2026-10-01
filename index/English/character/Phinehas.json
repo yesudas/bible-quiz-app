@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Phinehas",
+    "label": "Phinehas",
+    "count": 3,
+    "paths": [
+        "English/04/04-025-004.json",
+        "English/04/04-025-006.json",
+        "English/04/04-031-003.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

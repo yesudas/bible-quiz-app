@@ -1,0 +1,30 @@
+{
+  "id": "02-020-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 20,
+  "verse_reference": "Exodus 20:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"Honor your father and your _____, so that you may live long in the land.\"",
+  "options": [
+    "mother",
+    "brother",
+    "neighbor",
+    "teacher"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Family"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The fifth commandment tells people to honor their father and mother so that they may live long in the land the LORD gives them."
+}

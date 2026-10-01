@@ -1,0 +1,30 @@
+{
+  "id": "01-040-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 40,
+  "verse_reference": "Genesis 40:16-19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the three baskets in the baker's dream mean, according to Joseph?",
+  "options": [
+    "Three days until his release",
+    "Three days until Pharaoh would put him to death",
+    "Three months of waiting",
+    "Three years of service"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph said the three baskets were three days, after which Pharaoh would put the baker to death and hang him on a pole."
+}

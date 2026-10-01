@@ -1,0 +1,31 @@
+{
+  "id": "01-027-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 27,
+  "verse_reference": "Genesis 27:41",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Esau hold a grudge against Jacob?",
+  "options": [
+    "Jacob had stolen his flocks",
+    "Jacob had insulted their mother",
+    "Jacob had left without saying goodbye",
+    "Jacob had taken the blessing their father gave"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Sin"
+  ],
+  "characters": [
+    "Esau",
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Esau held a grudge against Jacob because of the blessing, and he planned to kill Jacob after their father died."
+}

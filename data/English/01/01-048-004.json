@@ -1,0 +1,31 @@
+{
+  "id": "01-048-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 48,
+  "verse_reference": "Genesis 48:7",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which loved one did Jacob remember had died and been buried near Ephrath?",
+  "options": [
+    "Leah",
+    "Rebekah",
+    "Rachel",
+    "Deborah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jacob",
+    "Rachel"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob recalled how Rachel had died in Canaan on the way to Ephrath, which is Bethlehem, where he buried her."
+}

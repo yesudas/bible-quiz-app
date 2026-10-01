@@ -1,0 +1,33 @@
+{
+  "id": "01-029-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 29,
+  "verse_reference": "Genesis 29:26-28",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What reason did Laban give for tricking Jacob into marrying Leah first?",
+  "options": [
+    "Rachel had refused Jacob",
+    "It was not their custom to marry off the younger before the older",
+    "Leah had asked to marry first",
+    "Jacob had not worked long enough"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Marriage"
+  ],
+  "characters": [
+    "Laban",
+    "Leah",
+    "Rachel",
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Laban said it was not their custom to give the younger daughter in marriage before the older, so Jacob had to serve another seven years for Rachel."
+}

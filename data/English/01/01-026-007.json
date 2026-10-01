@@ -1,0 +1,30 @@
+{
+  "id": "01-026-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 26,
+  "verse_reference": "Genesis 26:18-22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Isaac and his servants dig that caused disputes with the herders of Gerar?",
+  "options": [
+    "Wells of water",
+    "Deep pits for grain",
+    "Ditches for planting",
+    "Foundations for houses"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Isaac"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaac reopened the wells his father had dug and dug new ones, but the herders of Gerar quarreled over the water."
+}

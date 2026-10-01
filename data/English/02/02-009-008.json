@@ -1,0 +1,27 @@
+{
+  "id": "02-009-008",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 9,
+  "verse_reference": "Exodus 9:31-32",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why were the wheat and spelt not destroyed by the hail?",
+  "options": [
+    "They were kept in storehouses",
+    "They ripen later and had not yet grown",
+    "They were grown in Goshen",
+    "They were protected by the magicians"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The flax and barley were destroyed because they were ripe, but the wheat and spelt ripen later and had not yet come up."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "01-019-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 19,
+  "verse_reference": "Genesis 19:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened to the men of Sodom who pressed against Lot's door?",
+  "options": [
+    "They were struck with blindness",
+    "They fell down dead",
+    "They were turned to stone",
+    "They fled in fear"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Angels"
+  ],
+  "characters": [
+    "Lot"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angels struck the men at the door with blindness so they could not find their way in."
+}

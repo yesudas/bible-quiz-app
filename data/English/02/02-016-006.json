@@ -1,0 +1,28 @@
+{
+  "id": "02-016-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 16,
+  "verse_reference": "Exodus 16:22-26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the people gather twice as much manna on the sixth day?",
+  "options": [
+    "So they could sell some",
+    "Because the seventh day was a Sabbath of rest with no manna",
+    "Because the manna was running out",
+    "So they could feed their animals"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On the sixth day they gathered a double portion because the seventh day was a holy Sabbath of rest, when no manna would fall."
+}

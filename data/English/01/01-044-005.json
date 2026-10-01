@@ -1,0 +1,31 @@
+{
+  "id": "01-044-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 44,
+  "verse_reference": "Genesis 44:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the brothers react when the cup was found with Benjamin?",
+  "options": [
+    "They abandoned Benjamin",
+    "They blamed Benjamin",
+    "They ran away",
+    "They tore their clothes and returned to the city"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Suffering"
+  ],
+  "characters": [
+    "Benjamin"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In their grief, the brothers tore their clothes, loaded their donkeys, and returned to the city."
+}

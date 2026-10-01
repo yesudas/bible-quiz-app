@@ -1,0 +1,32 @@
+{
+  "id": "01-021-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 21,
+  "verse_reference": "Genesis 21:12-13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God promise Abraham about Ishmael when Abraham was distressed?",
+  "options": [
+    "Ishmael would return to him",
+    "Ishmael would inherit with Isaac",
+    "God would make Ishmael into a nation",
+    "Ishmael would rule over Isaac"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Family"
+  ],
+  "characters": [
+    "Abraham",
+    "Ishmael",
+    "Isaac"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God comforted Abraham by promising that He would also make Ishmael into a nation, because he was Abraham's offspring."
+}

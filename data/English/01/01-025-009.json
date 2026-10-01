@@ -1,0 +1,31 @@
+{
+  "id": "01-025-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 25,
+  "verse_reference": "Genesis 25:27",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How were Esau and Jacob different from each other?",
+  "options": [
+    "Esau was a farmer, and Jacob was a fisherman",
+    "Esau was a shepherd, and Jacob was a builder",
+    "Esau was a priest, and Jacob was a soldier",
+    "Esau was a skillful hunter, and Jacob stayed among the tents"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Esau",
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Esau became a skillful hunter of the open country, while Jacob was content to stay among the tents."
+}

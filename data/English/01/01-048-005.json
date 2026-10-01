@@ -1,0 +1,30 @@
+{
+  "id": "01-048-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 48,
+  "verse_reference": "Genesis 48:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Jacob have trouble seeing his grandsons clearly?",
+  "options": [
+    "It was dark in the tent",
+    "The boys stood too far away",
+    "He was weeping too much",
+    "His eyes were failing because of old age"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob's eyes were failing because of his old age, so he could barely see."
+}

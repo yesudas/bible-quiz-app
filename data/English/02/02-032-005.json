@@ -1,0 +1,30 @@
+{
+  "id": "02-032-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 32,
+  "verse_reference": "Exodus 32:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Moses do to the golden calf?",
+  "options": [
+    "He gave it back to Aaron",
+    "He buried it in the sand",
+    "He burned it, ground it to powder, and made the people drink it in water",
+    "He threw it into the sea"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses burned the calf, ground it into powder, scattered it on water, and made the Israelites drink it."
+}

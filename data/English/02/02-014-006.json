@@ -1,0 +1,28 @@
+{
+  "id": "02-014-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 14,
+  "verse_reference": "Exodus 14:24-25",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What happened to the Egyptian chariots as they chased Israel into the sea?",
+  "options": [
+    "They turned into stone",
+    "Their wheels came off and they had trouble driving",
+    "They floated on the water",
+    "They caught fire"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Judgment"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD threw the Egyptian army into confusion and made the wheels of their chariots come off so they had difficulty driving."
+}

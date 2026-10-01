@@ -1,0 +1,30 @@
+{
+  "id": "03-007-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 7,
+  "verse_reference": "Leviticus 7:11-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When a fellowship offering was given as an expression of thankfulness, when had the meat to be eaten?",
+  "options": [
+    "On the same day it was offered",
+    "Within seven days",
+    "Only after a month",
+    "Only during a festival"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Thankfulness",
+    "Sacrifice"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 7:15 says the meat of a thanksgiving fellowship offering had to be eaten on the same day it was offered."
+}

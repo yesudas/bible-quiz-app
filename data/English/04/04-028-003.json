@@ -1,0 +1,29 @@
+{
+  "id": "04-028-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 28,
+  "verse_reference": "Numbers 28:11",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When were the Israelites to present the New Moon offerings?",
+  "options": [
+    "At the end of each week",
+    "Only once a year",
+    "Every evening",
+    "At the beginning of every month"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At the beginning of every month, the people were to present a special offering of bulls, a ram, lambs, and a goat for a sin offering."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "01-013-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 13,
+  "verse_reference": "Genesis 13:12-13",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Near which city did Lot pitch his tents, a city known for its wicked people?",
+  "options": [
+    "Sodom",
+    "Bethel",
+    "Hebron",
+    "Babel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Lot"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Lot lived among the cities of the plain and pitched his tents near Sodom, whose people were wicked and sinning greatly against the Lord."
+}

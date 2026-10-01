@@ -1,0 +1,28 @@
+{
+  "id": "02-023-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 23,
+  "verse_reference": "Exodus 23:4-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What were the Israelites told to do if they found their enemy's ox or donkey wandering?",
+  "options": [
+    "Keep it for themselves",
+    "Return it to its owner",
+    "Sell it in the market",
+    "Leave it where it was"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Love"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Even if an animal belonged to their enemy, they were to return the wandering ox or donkey and to help it if it had fallen under its load."
+}

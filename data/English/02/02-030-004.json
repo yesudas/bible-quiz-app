@@ -1,0 +1,30 @@
+{
+  "id": "02-030-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 30,
+  "verse_reference": "Exodus 30:18-21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was the bronze basin used for in the tabernacle?",
+  "options": [
+    "Holding the incense",
+    "Washing the priests' hands and feet",
+    "Storing the oil",
+    "Catching the blood"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The bronze basin held water for Aaron and his sons to wash their hands and feet before serving, so they would not die."
+}

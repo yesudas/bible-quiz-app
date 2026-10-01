@@ -1,0 +1,31 @@
+{
+  "id": "01-001-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 1,
+  "verse_reference": "Genesis 1:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Genesis 1, what did God make to govern the day and the night?",
+  "options": [
+    "The clouds and the wind",
+    "Two great lights",
+    "The angels",
+    "The seasons"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God made two great lights, the greater light to govern the day and the lesser light to govern the night."
+}

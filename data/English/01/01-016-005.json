@@ -1,0 +1,31 @@
+{
+  "id": "01-016-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 16,
+  "verse_reference": "Genesis 16:6-8",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the angel of the LORD find Hagar after she fled?",
+  "options": [
+    "In the land of Egypt",
+    "At the city of Hebron",
+    "On a mountain in Moriah",
+    "By a spring in the desert"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Angels"
+  ],
+  "characters": [
+    "Hagar"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel of the LORD found Hagar near a spring in the desert, beside the road to Shur, after she ran away from Sarai."
+}

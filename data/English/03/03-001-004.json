@@ -1,0 +1,30 @@
+{
+  "id": "03-001-004",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 1,
+  "verse_reference": "Leviticus 1:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was the person to do with their hand before the burnt offering was slaughtered?",
+  "options": [
+    "Raise it toward heaven",
+    "Lay it on the animal's head",
+    "Wash it with water",
+    "Place it on the altar"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Sacrifice",
+    "Forgiveness"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 1:4 says the offerer was to lay a hand on the animal's head so it would be accepted to make atonement for them."
+}

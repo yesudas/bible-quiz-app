@@ -1,0 +1,31 @@
+{
+  "id": "02-031-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 31,
+  "verse_reference": "Exodus 31:6",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whom did God appoint to help Bezalel with the work?",
+  "options": [
+    "Hur",
+    "Oholiab",
+    "Eleazar",
+    "Ithamar"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Oholiab",
+    "Bezalel"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God appointed Oholiab, of the tribe of Dan, to help Bezalel and gave skill to all the craftsmen to make what He had commanded."
+}

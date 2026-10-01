@@ -1,0 +1,31 @@
+{
+  "id": "01-013-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 13,
+  "verse_reference": "Genesis 13:10-11",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Which land did Lot choose for himself when he and Abram separated?",
+  "options": [
+    "The hill country",
+    "The land of Egypt",
+    "The whole plain of the Jordan",
+    "The Negev desert"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Lot",
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Lot chose the whole plain of the Jordan, which was well watered, and set out toward the east."
+}

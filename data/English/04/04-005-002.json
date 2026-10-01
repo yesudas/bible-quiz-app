@@ -1,0 +1,31 @@
+{
+  "id": "04-005-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 5,
+  "verse_reference": "Numbers 5:6-7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was a person to do who wronged someone and became guilty?",
+  "options": [
+    "Offer a sacrifice and say nothing more",
+    "Confess the sin and make full restitution",
+    "Leave the camp forever",
+    "Give half of everything they owned"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Repentance",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The guilty person had to confess the sin and pay back what was owed in full, adding a fifth of its value."
+}

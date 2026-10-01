@@ -1,0 +1,31 @@
+{
+  "id": "01-035-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 35,
+  "verse_reference": "Genesis 35:19-20",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Near which town was Rachel buried?",
+  "options": [
+    "Hebron",
+    "Bethlehem (Ephrath)",
+    "Bethel",
+    "Shechem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Rachel",
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rachel was buried on the way to Ephrath, that is, Bethlehem, and Jacob set up a pillar over her tomb."
+}

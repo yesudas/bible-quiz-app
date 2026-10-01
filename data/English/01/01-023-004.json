@@ -1,0 +1,30 @@
+{
+  "id": "01-023-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 23,
+  "verse_reference": "Genesis 23:3-4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Abraham ask the Hittites to give him?",
+  "options": [
+    "A place to bury his dead",
+    "Food for his household",
+    "Water for his flocks",
+    "Soldiers for protection"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham asked the Hittites for property where he could bury Sarah, since he was a foreigner among them."
+}

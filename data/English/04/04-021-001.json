@@ -1,0 +1,35 @@
+{
+  "id": "04-021-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 21,
+  "verse_reference": "Numbers 21:1-3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which Canaanite king attacked Israel and was defeated at the start of this chapter?",
+  "options": [
+    "The king of Arad",
+    "Sihon king of the Amorites",
+    "Og king of Bashan",
+    "Balak king of Moab"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Hormah",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Canaanite king of Arad attacked Israel, but after Israel made a vow to the Lord, they defeated him and destroyed his cities at a place called Hormah."
+}

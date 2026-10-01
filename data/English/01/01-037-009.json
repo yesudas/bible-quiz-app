@@ -1,0 +1,31 @@
+{
+  "id": "01-037-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 37,
+  "verse_reference": "Genesis 37:26-28",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which brother suggested selling Joseph instead of killing him?",
+  "options": [
+    "Judah",
+    "Reuben",
+    "Dan",
+    "Benjamin"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Sin"
+  ],
+  "characters": [
+    "Judah",
+    "Joseph"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Judah proposed selling Joseph to the traders rather than killing him, since he was their own brother."
+}

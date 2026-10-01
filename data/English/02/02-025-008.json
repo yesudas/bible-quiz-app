@@ -1,0 +1,28 @@
+{
+  "id": "02-025-008",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 25,
+  "verse_reference": "Exodus 25:37",
+  "question_type": "DIRECT",
+  "difficulty": "Medium",
+  "question": "How many lamps were on the golden lampstand?",
+  "options": [
+    "Three",
+    "Ten",
+    "Seven",
+    "Twelve"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The lampstand had seven lamps that were set up to give light in front of it."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "04-032-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 32,
+  "verse_reference": "Numbers 32:23",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Moses warned them, 'You may be sure that your sin will _____ you out.'",
+  "options": [
+    "find",
+    "wear",
+    "cast",
+    "call"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Law"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses warned that if they failed to keep their promise, they would be sinning against the Lord, and their sin would find them out."
+}

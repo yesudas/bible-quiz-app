@@ -1,0 +1,30 @@
+{
+  "id": "02-014-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 14,
+  "verse_reference": "Exodus 14:27-28",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened to Pharaoh's army when the sea returned?",
+  "options": [
+    "They escaped to the shore",
+    "They surrendered to Israel",
+    "The whole army was drowned",
+    "They turned back to Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Salvation"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The water flowed back and covered the chariots and horsemen, the entire army of Pharaoh, and not one of them survived."
+}

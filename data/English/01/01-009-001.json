@@ -1,0 +1,33 @@
+{
+  "id": "01-009-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 9,
+  "verse_reference": "Genesis 9:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did God command Noah and his sons to do after the flood?",
+  "options": [
+    "To build a great city",
+    "To be fruitful and increase in number and fill the earth",
+    "To stay near the ark",
+    "To offer sacrifices every day"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Family"
+  ],
+  "characters": [
+    "God",
+    "Noah"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God blessed Noah and his sons and told them to be fruitful, increase in number, and fill the earth."
+}

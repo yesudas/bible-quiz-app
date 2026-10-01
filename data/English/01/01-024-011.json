@@ -1,0 +1,32 @@
+{
+  "id": "01-024-011",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 24,
+  "verse_reference": "Genesis 24:57-58",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Rebekah say when asked if she would go with the servant?",
+  "options": [
+    "She said, 'I will go'",
+    "She asked to wait a year",
+    "She refused to leave",
+    "She asked to bring her brother"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Marriage"
+  ],
+  "characters": [
+    "Rebekah"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When her family asked Rebekah if she would go with the man, she answered, 'I will go.'"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "01-032-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 32,
+  "verse_reference": "Genesis 32:28",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What new name was Jacob given after the wrestling?",
+  "options": [
+    "Abraham",
+    "Israel",
+    "Edom",
+    "Peniel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man renamed Jacob 'Israel,' because he had struggled with God and with humans and had overcome."
+}

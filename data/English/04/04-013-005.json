@@ -1,0 +1,31 @@
+{
+  "id": "04-013-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 13,
+  "verse_reference": "Numbers 13:27",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The spies said the land really does flow with _____ and honey.",
+  "options": [
+    "oil",
+    "milk",
+    "wine",
+    "water"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The spies reported that the land flowed with milk and honey and showed its fruit as proof."
+}

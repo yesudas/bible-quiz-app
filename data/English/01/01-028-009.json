@@ -1,0 +1,31 @@
+{
+  "id": "01-028-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 28,
+  "verse_reference": "Genesis 28:17-19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What name did Jacob give to the place where he had the dream?",
+  "options": [
+    "Beersheba",
+    "Peniel",
+    "Bethel",
+    "Mahanaim"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Faith"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob named the place Bethel, meaning house of God, and set up the stone he had used as a pillow as a pillar."
+}

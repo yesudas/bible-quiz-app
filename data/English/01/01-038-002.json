@@ -1,0 +1,32 @@
+{
+  "id": "01-038-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 38,
+  "verse_reference": "Genesis 38:6-7",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was Tamar first given to as a wife?",
+  "options": [
+    "Onan",
+    "Shelah",
+    "Er",
+    "Perez"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Marriage"
+  ],
+  "characters": [
+    "Tamar",
+    "Er",
+    "Judah"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Judah chose Tamar as a wife for Er, his firstborn son."
+}

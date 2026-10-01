@@ -1,0 +1,29 @@
+{
+  "id": "02-016-008",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 16,
+  "verse_reference": "Exodus 16:35",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How long did the Israelites eat manna?",
+  "options": [
+    "Seven days",
+    "Forty years, until they reached the edge of Canaan",
+    "One year",
+    "Until they crossed the Red Sea"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Miracles"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites ate manna for forty years, until they came to the border of the land of Canaan."
+}

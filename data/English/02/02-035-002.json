@@ -1,0 +1,29 @@
+{
+  "id": "02-035-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 35,
+  "verse_reference": "Exodus 35:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Who was to bring offerings for the tabernacle?",
+  "options": [
+    "Only the leaders",
+    "Everyone who was willing in their heart",
+    "Only the priests",
+    "Only the wealthy"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses called for offerings from everyone who was willing, whose heart moved them to give to the LORD."
+}

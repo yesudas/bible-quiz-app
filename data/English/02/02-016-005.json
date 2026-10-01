@@ -1,0 +1,29 @@
+{
+  "id": "02-016-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 16,
+  "verse_reference": "Exodus 16:19-20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened when some people kept the manna until morning against Moses' instructions?",
+  "options": [
+    "It turned to gold",
+    "It bred maggots and began to smell",
+    "It doubled in amount",
+    "It vanished completely"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some kept part of the manna until morning, but it was full of maggots and began to smell, so Moses was angry with them."
+}

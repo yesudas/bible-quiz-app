@@ -1,0 +1,33 @@
+{
+  "id": "03-026-004",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 26,
+  "verse_reference": "Leviticus 26:40-45",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God promise to remember even after punishing the people, if they confessed their sin?",
+  "options": [
+    "His covenant with Abraham, Isaac, and Jacob",
+    "The wealth of Egypt",
+    "The strength of their armies",
+    "The size of their harvests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant",
+    "Forgiveness",
+    "Hope"
+  ],
+  "characters": [
+    "Abraham",
+    "Isaac",
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 26:42-45 says that if the people confessed their sin, God would remember his covenant with Abraham, Isaac, and Jacob and not reject them completely."
+}

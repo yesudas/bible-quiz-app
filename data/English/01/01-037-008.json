@@ -1,0 +1,31 @@
+{
+  "id": "01-037-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 37,
+  "verse_reference": "Genesis 37:23-24",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the brothers do to Joseph when he reached them?",
+  "options": [
+    "They welcomed him warmly",
+    "They sent him back home",
+    "They gave him food and water",
+    "They stripped his robe and threw him into a cistern"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Suffering"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The brothers stripped Joseph of his ornate robe and threw him into an empty cistern."
+}

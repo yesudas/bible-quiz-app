@@ -1,0 +1,30 @@
+{
+  "id": "04-030-004",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 30,
+  "verse_reference": "Numbers 30:6-8",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "For a married woman, who could confirm or cancel her vow?",
+  "options": [
+    "Her father",
+    "The priest",
+    "The elders",
+    "Her husband"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Marriage",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A married woman's husband could confirm her vow by silence or cancel it on the day he heard of it."
+}

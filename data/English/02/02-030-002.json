@@ -1,0 +1,29 @@
+{
+  "id": "02-030-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 30,
+  "verse_reference": "Exodus 30:7-8",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When did Aaron burn incense on the golden altar?",
+  "options": [
+    "Only on the Sabbath",
+    "Every morning and at twilight",
+    "Once a year",
+    "Only at night"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Aaron burned fragrant incense every morning when he tended the lamps and again at twilight, so incense burned regularly before the LORD."
+}

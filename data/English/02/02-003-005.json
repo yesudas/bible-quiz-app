@@ -1,0 +1,32 @@
+{
+  "id": "02-003-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 3,
+  "verse_reference": "Exodus 3:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What task did God give Moses at the burning bush?",
+  "options": [
+    "To build a temple",
+    "To lead the Israelites out of Egypt",
+    "To become king of Egypt",
+    "To fight the Midianites"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mission",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God sent Moses to Pharaoh to bring the Israelites, God's people, out of Egypt."
+}

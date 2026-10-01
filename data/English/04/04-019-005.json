@@ -1,0 +1,29 @@
+{
+  "id": "04-019-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 19,
+  "verse_reference": "Numbers 19:12",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "On which days was an unclean person to be sprinkled with the water of cleansing?",
+  "options": [
+    "The first and second days",
+    "Every day for a week",
+    "Only on the seventh day",
+    "The third and seventh days"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The unclean person was to be sprinkled with the water on the third day and the seventh day, and then they would be clean."
+}

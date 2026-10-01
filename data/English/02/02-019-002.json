@@ -1,0 +1,28 @@
+{
+  "id": "02-019-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 19,
+  "verse_reference": "Exodus 19:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "God said He had carried the Israelites out of Egypt on _____ wings.",
+  "options": [
+    "eagles'",
+    "angels'",
+    "the wind's",
+    "doves'"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Covenant"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God reminded them how He had carried them on eagles' wings and brought them to Himself."
+}

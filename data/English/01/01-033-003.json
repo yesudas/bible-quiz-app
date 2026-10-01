@@ -1,0 +1,32 @@
+{
+  "id": "01-033-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 33,
+  "verse_reference": "Genesis 33:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jacob do as he approached his brother Esau?",
+  "options": [
+    "He bowed down to the ground seven times",
+    "He ran away in fear",
+    "He sent a servant to speak for him",
+    "He offered Esau his flocks first"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Repentance"
+  ],
+  "characters": [
+    "Jacob",
+    "Esau"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob went ahead of his family and bowed to the ground seven times as he approached Esau."
+}

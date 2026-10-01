@@ -1,0 +1,33 @@
+{
+  "id": "03-008-005",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 8,
+  "verse_reference": "Leviticus 8:36",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "How did Aaron and his sons respond to the commands given during their ordination?",
+  "options": [
+    "They did everything the Lord commanded through Moses",
+    "They questioned Moses about the rules",
+    "They asked to wait until later",
+    "They performed only part of the commands"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Priesthood",
+    "Obedience"
+  ],
+  "characters": [
+    "Aaron",
+    "Moses"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 8:36 says Aaron and his sons did everything the Lord commanded through Moses."
+}

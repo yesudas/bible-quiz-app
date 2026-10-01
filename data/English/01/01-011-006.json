@@ -1,0 +1,32 @@
+{
+  "id": "01-011-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 11,
+  "verse_reference": "Genesis 11:31",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "From which city did Terah set out with his family toward Canaan?",
+  "options": [
+    "Ur of the Chaldeans",
+    "Jerusalem",
+    "Bethel",
+    "Shechem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Terah",
+    "Abraham",
+    "Lot"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Terah took his family from Ur of the Chaldeans to go to Canaan, but they settled in Harran along the way."
+}

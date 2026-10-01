@@ -1,0 +1,33 @@
+{
+  "id": "01-015-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 15,
+  "verse_reference": "Genesis 15:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "To what did God compare the number of Abram's future offspring?",
+  "options": [
+    "The grains of sand on the shore",
+    "The stars in the sky",
+    "The leaves on the trees",
+    "The drops of rain"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [
+    "God",
+    "Abraham"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Abram to look at the stars and count them, saying that his offspring would be just as many."
+}

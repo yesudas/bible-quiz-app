@@ -1,0 +1,29 @@
+{
+  "id": "02-003-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 3,
+  "verse_reference": "Exodus 3:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "God promised to bring the Israelites into a good land flowing with milk and _____.",
+  "options": [
+    "wine",
+    "honey",
+    "oil",
+    "water"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised to bring them into a land flowing with milk and honey, a rich and good land."
+}

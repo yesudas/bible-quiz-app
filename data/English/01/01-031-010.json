@@ -1,0 +1,32 @@
+{
+  "id": "01-031-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 31,
+  "verse_reference": "Genesis 31:47-48",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "What kind of object was Galeed, the witness between Jacob and Laban?",
+  "options": [
+    "A heap of stones",
+    "A large tree",
+    "A river",
+    "A city gate"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [
+    "Jacob",
+    "Laban"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Galeed was the heap of stones that stood as a witness to the agreement between Jacob and Laban."
+}

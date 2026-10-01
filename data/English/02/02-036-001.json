@@ -1,0 +1,32 @@
+{
+  "id": "02-036-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 36,
+  "verse_reference": "Exodus 36:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Who carried out the work of building the sanctuary?",
+  "options": [
+    "Only Moses",
+    "Only the priests",
+    "Every skilled person to whom God gave ability",
+    "Hired workers from Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Wisdom"
+  ],
+  "characters": [
+    "Bezalel",
+    "Oholiab"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Bezalel, Oholiab, and every skilled person to whom the LORD had given ability and skill did the work of building the sanctuary."
+}

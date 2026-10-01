@@ -1,0 +1,29 @@
+{
+  "id": "04-007-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 7,
+  "verse_reference": "Numbers 7:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the leaders bring together as their first gift?",
+  "options": [
+    "Six covered carts and twelve oxen",
+    "Gold and silver crowns",
+    "Twelve bulls for a burnt offering",
+    "Bread and wine for the priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The leaders brought six covered carts and twelve oxen, one cart from every two leaders and an ox from each."
+}

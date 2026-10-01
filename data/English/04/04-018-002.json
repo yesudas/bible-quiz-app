@@ -1,0 +1,37 @@
+{
+  "id": "04-018-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 18,
+  "verse_reference": "Numbers 18:2-4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the role of the Levites toward Aaron and the priests?",
+  "options": [
+    "To rule over the priests",
+    "To offer sacrifices in place of the priests",
+    "To collect taxes from the tribes",
+    "To join Aaron and help with the work of the tent of meeting"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "places": [
+    {
+      "name": "Tent of Meeting",
+      "type": "tent"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Levites were to join Aaron and assist him in the work of the tent of meeting, but they were not to go near the holy furnishings or the altar."
+}

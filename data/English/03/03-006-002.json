@@ -1,0 +1,30 @@
+{
+  "id": "03-006-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 6,
+  "verse_reference": "Leviticus 6:12-13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God command about the fire on the altar for the burnt offering?",
+  "options": [
+    "It must be kept burning continuously and not go out",
+    "It was to be lit only at dawn",
+    "It was to be put out each night",
+    "It could only be lit by the high priest"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Sacrifice",
+    "Holiness"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 6:13 commands that the fire must be kept burning on the altar continuously and must not go out."
+}

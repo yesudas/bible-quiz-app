@@ -1,0 +1,29 @@
+{
+  "id": "01-047-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 47,
+  "verse_reference": "Genesis 47:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Whose land did Joseph not buy during the famine?",
+  "options": [
+    "The soldiers'",
+    "The traders'",
+    "The farmers'",
+    "The priests'"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph did not buy the land of the priests, because they received a regular allotment of food from Pharaoh and did not need to sell their land."
+}

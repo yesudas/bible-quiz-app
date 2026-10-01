@@ -1,0 +1,30 @@
+{
+  "id": "02-037-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 37,
+  "verse_reference": "Exodus 37:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What material was the lampstand made from?",
+  "options": [
+    "Acacia wood",
+    "Bronze",
+    "Silver",
+    "Pure hammered gold"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Bezalel"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The lampstand was made of pure gold, hammered out with its base, shaft, and flower-like cups all of one piece."
+}

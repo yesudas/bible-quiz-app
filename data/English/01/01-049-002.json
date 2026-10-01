@@ -1,0 +1,31 @@
+{
+  "id": "01-049-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 49,
+  "verse_reference": "Genesis 49:3-4",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which son was called Jacob's firstborn but would no longer excel because of his sin?",
+  "options": [
+    "Reuben",
+    "Simeon",
+    "Levi",
+    "Judah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Sin"
+  ],
+  "characters": [
+    "Reuben",
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob called Reuben his firstborn but said he would no longer excel, because he had dishonored his father."
+}

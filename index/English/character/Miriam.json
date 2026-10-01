@@ -1,0 +1,18 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Miriam",
+    "label": "Miriam",
+    "count": 8,
+    "paths": [
+        "English/02/02-015-003.json",
+        "English/02/02-015-004.json",
+        "English/04/04-012-001.json",
+        "English/04/04-012-002.json",
+        "English/04/04-012-005.json",
+        "English/04/04-012-006.json",
+        "English/04/04-012-007.json",
+        "English/04/04-020-001.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

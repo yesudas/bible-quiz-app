@@ -1,0 +1,31 @@
+{
+  "id": "02-003-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 3,
+  "verse_reference": "Exodus 3:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What name did God give when Moses asked who was sending him?",
+  "options": [
+    "I AM WHO I AM",
+    "The Almighty",
+    "The Everlasting Father",
+    "The God of Hosts"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Moses to say that 'I AM WHO I AM' had sent him, revealing His eternal name."
+}

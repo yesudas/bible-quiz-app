@@ -1,0 +1,31 @@
+{
+  "id": "01-047-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 47,
+  "verse_reference": "Genesis 47:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the Egyptians first use to buy grain during the famine?",
+  "options": [
+    "Their livestock",
+    "Their land",
+    "Their money",
+    "Their clothing"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Wisdom"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people paid Joseph with their money for grain until all the money in Egypt and Canaan was gone."
+}

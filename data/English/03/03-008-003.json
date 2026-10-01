@@ -1,0 +1,32 @@
+{
+  "id": "03-008-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 8,
+  "verse_reference": "Leviticus 8:23",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "During the ordination, Moses put blood on which parts of Aaron's body?",
+  "options": [
+    "His forehead, chest, and hands",
+    "His right ear, right thumb, and right big toe",
+    "His head, shoulders, and feet",
+    "His hands and knees"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Priesthood",
+    "Consecration",
+    "Sacrifice"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 8:23 says Moses put blood on the lobe of Aaron's right ear, on the thumb of his right hand, and on the big toe of his right foot."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "01-034-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 34,
+  "verse_reference": "Genesis 34:25",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two sons of Jacob attacked the city of Shechem?",
+  "options": [
+    "Reuben and Judah",
+    "Dan and Naphtali",
+    "Joseph and Benjamin",
+    "Simeon and Levi"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Family"
+  ],
+  "characters": [
+    "Simeon",
+    "Levi"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Simeon and Levi, two of Dinah's brothers, took swords and attacked the city while the men were still in pain."
+}

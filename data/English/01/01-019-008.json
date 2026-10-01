@@ -1,0 +1,29 @@
+{
+  "id": "01-019-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 19,
+  "verse_reference": "Genesis 19:24",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the LORD rain down on Sodom and Gomorrah?",
+  "options": [
+    "Hail and ice",
+    "Locusts",
+    "Burning sulfur",
+    "Darkness"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD rained down burning sulfur on Sodom and Gomorrah, destroying the cities and the whole plain."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "01-020-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 20,
+  "verse_reference": "Genesis 20:17-18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened after Abraham prayed for Abimelek?",
+  "options": [
+    "God healed Abimelek and his household",
+    "Abimelek became rich",
+    "A great feast was held",
+    "Abraham left the land"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Miracles"
+  ],
+  "characters": [
+    "Abraham",
+    "Abimelek"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham prayed, and God healed Abimelek, his wife, and his female slaves so they could have children again, for the LORD had closed the wombs in his household because of Sarah."
+}

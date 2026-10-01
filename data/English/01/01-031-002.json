@@ -1,0 +1,32 @@
+{
+  "id": "01-031-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 31,
+  "verse_reference": "Genesis 31:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Rachel take from her father when the family left?",
+  "options": [
+    "His flocks",
+    "His silver cups",
+    "His clothing",
+    "His household gods"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Family"
+  ],
+  "characters": [
+    "Rachel",
+    "Laban"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While Laban was away shearing his sheep, Rachel stole her father's household gods."
+}

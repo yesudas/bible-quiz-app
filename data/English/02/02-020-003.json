@@ -1,0 +1,29 @@
+{
+  "id": "02-020-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 20,
+  "verse_reference": "Exodus 20:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does the third commandment teach about the name of the LORD?",
+  "options": [
+    "Do not speak the name at all",
+    "Write the name on every altar",
+    "Use the name only in songs",
+    "Do not misuse the name of the LORD"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The third commandment says not to misuse the name of the LORD, for He will not hold anyone guiltless who misuses it."
+}

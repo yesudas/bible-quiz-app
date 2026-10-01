@@ -1,0 +1,32 @@
+{
+  "id": "03-016-004",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 16,
+  "verse_reference": "Leviticus 16:21-22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened to the goat chosen as the scapegoat?",
+  "options": [
+    "It was burned on the altar",
+    "It was given to the priests",
+    "It was set free at the tabernacle door",
+    "It carried the people's sins away into the wilderness"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Atonement",
+    "Forgiveness",
+    "Sin"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 16:21-22 says Aaron confessed the people's sins over the scapegoat, which then carried them away into a remote place in the wilderness."
+}

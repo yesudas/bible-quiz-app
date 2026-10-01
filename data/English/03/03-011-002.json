@@ -1,0 +1,29 @@
+{
+  "id": "03-011-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 11,
+  "verse_reference": "Leviticus 11:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What two features made a land animal clean to eat?",
+  "options": [
+    "It ran fast and lived in herds",
+    "It had a completely divided hoof and chewed the cud",
+    "It had horns and a tail",
+    "It ate only grass and drank water"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Holiness"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 11:3 says an animal that has a divided hoof and chews the cud could be eaten."
+}

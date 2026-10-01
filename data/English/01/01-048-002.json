@@ -1,0 +1,30 @@
+{
+  "id": "01-048-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 48,
+  "verse_reference": "Genesis 48:3-4",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "At what place did Jacob say God had appeared to him and blessed him?",
+  "options": [
+    "Beersheba",
+    "Hebron",
+    "Luz (Bethel)",
+    "Shechem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob recalled that God Almighty had appeared to him at Luz, also called Bethel, and promised to make him fruitful and give the land to his descendants."
+}

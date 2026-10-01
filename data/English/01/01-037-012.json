@@ -1,0 +1,30 @@
+{
+  "id": "01-037-012",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 37,
+  "verse_reference": "Genesis 37:36",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "To whom was Joseph sold when he was taken to Egypt?",
+  "options": [
+    "Pharaoh's cupbearer",
+    "A priest of On",
+    "Potiphar, one of Pharaoh's officials",
+    "The captain of the ships"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Joseph",
+    "Potiphar"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Egypt, the Midianites sold Joseph to Potiphar, one of Pharaoh's officials and the captain of the guard."
+}

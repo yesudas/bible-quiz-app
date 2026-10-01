@@ -1,0 +1,34 @@
+{
+  "id": "04-020-006",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 20,
+  "verse_reference": "Numbers 20:18-21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Edom respond when Israel asked to pass through their land?",
+  "options": [
+    "They welcomed Israel gladly",
+    "They offered food and water",
+    "They refused to let Israel pass",
+    "They joined Israel's journey"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Edom refused to let Israel pass through and came out with a large army, so Israel turned away from them."
+}

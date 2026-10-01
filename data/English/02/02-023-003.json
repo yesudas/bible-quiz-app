@@ -1,0 +1,29 @@
+{
+  "id": "02-023-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 23,
+  "verse_reference": "Exodus 23:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why were judges told not to accept a bribe?",
+  "options": [
+    "Because bribes were too small",
+    "Because it was allowed only for the rich",
+    "Because it took too much time",
+    "Because a bribe blinds those who see and twists justice"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Wisdom"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They were not to accept a bribe, because a bribe blinds those who see and twists the words of the innocent."
+}

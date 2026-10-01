@@ -1,0 +1,33 @@
+{
+  "id": "02-001-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 1,
+  "verse_reference": "Exodus 1:20-21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did God treat the midwives who feared Him?",
+  "options": [
+    "He punished them",
+    "He was kind to them and gave them families",
+    "He ignored them",
+    "He sent them to Pharaoh"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [
+    "Shiphrah",
+    "Puah"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Because the midwives feared God, He was kind to them and gave them families of their own."
+}

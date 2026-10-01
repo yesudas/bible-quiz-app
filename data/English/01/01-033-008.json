@@ -1,0 +1,30 @@
+{
+  "id": "01-033-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 33,
+  "verse_reference": "Genesis 33:17",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "What did Jacob build at the place he named Sukkoth?",
+  "options": [
+    "An altar of stone",
+    "A well",
+    "A house for himself and shelters for his livestock",
+    "A city wall"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At Sukkoth, Jacob built a house for himself and made shelters for his livestock, which is why the place was called Sukkoth, meaning shelters."
+}

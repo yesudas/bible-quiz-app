@@ -1,0 +1,31 @@
+{
+  "id": "02-024-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 24,
+  "verse_reference": "Exodus 24:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God call Moses up the mountain to receive?",
+  "options": [
+    "A crown of gold",
+    "A scroll of blessings",
+    "The stone tablets with the law and commandments",
+    "A staff of power"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God called Moses up the mountain to receive the tablets of stone with the law and commandments He had written for their instruction."
+}

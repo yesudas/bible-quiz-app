@@ -1,0 +1,32 @@
+{
+  "id": "04-002-006",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 2,
+  "verse_reference": "Numbers 2:33",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which group was not counted along with the other Israelites?",
+  "options": [
+    "The tribe of Judah",
+    "The tribe of Dan",
+    "The Levites",
+    "The tribe of Gad"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Levites were not counted with the other Israelites, just as God had commanded Moses."
+}

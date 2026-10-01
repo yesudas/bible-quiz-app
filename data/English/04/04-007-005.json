@@ -1,0 +1,31 @@
+{
+  "id": "04-007-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 7,
+  "verse_reference": "Numbers 7:10-11",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How did the leaders present their dedication offerings?",
+  "options": [
+    "One leader each day, over twelve days",
+    "All at once on a single day",
+    "Only on the Sabbath",
+    "Once every month for a year"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Moses that each day one leader was to bring his offering for the dedication of the altar, over twelve days."
+}

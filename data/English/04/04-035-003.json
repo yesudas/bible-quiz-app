@@ -1,0 +1,30 @@
+{
+  "id": "04-035-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 35,
+  "verse_reference": "Numbers 35:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What special purpose did six of the Levite towns serve?",
+  "options": [
+    "They were cities of refuge",
+    "They were market towns",
+    "They were army camps",
+    "They were places of sacrifice"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Forgiveness"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Six of the Levite towns were set apart as cities of refuge, where a person could flee for safety."
+}

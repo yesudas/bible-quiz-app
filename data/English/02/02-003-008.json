@@ -1,0 +1,29 @@
+{
+  "id": "02-003-008",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 3,
+  "verse_reference": "Exodus 3:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did God say He had come down to help the Israelites?",
+  "options": [
+    "He had seen their misery and heard their cries",
+    "They had offered many sacrifices",
+    "They had defeated the Egyptians",
+    "They had built Him a temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Promise"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He had seen the misery of His people, heard their cries, and was concerned about their suffering."
+}

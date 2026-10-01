@@ -1,0 +1,20 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Joshua",
+    "label": "Joshua",
+    "count": 10,
+    "paths": [
+        "English/02/02-017-005.json",
+        "English/02/02-033-003.json",
+        "English/04/04-011-005.json",
+        "English/04/04-014-002.json",
+        "English/04/04-014-003.json",
+        "English/04/04-014-005.json",
+        "English/04/04-026-006.json",
+        "English/04/04-027-006.json",
+        "English/04/04-027-007.json",
+        "English/04/04-034-005.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

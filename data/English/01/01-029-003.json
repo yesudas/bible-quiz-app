@@ -1,0 +1,32 @@
+{
+  "id": "01-029-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 29,
+  "verse_reference": "Genesis 29:13-14",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was Rachel's father, who welcomed Jacob into his home?",
+  "options": [
+    "Bethuel",
+    "Nahor",
+    "Laban",
+    "Esau"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Laban",
+    "Rachel",
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Laban, Rebekah's brother, welcomed his nephew Jacob and took him into his household."
+}

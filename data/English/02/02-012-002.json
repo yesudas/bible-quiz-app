@@ -1,0 +1,30 @@
+{
+  "id": "02-012-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 12,
+  "verse_reference": "Exodus 12:7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What were the Israelites told to put on their doorframes?",
+  "options": [
+    "Olive oil",
+    "Ashes",
+    "Salt",
+    "The blood of the lamb"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Faith"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They were to put the blood of the lamb on the sides and tops of the doorframes of their houses."
+}

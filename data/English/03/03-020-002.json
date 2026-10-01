@@ -1,0 +1,29 @@
+{
+  "id": "03-020-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 20,
+  "verse_reference": "Leviticus 20:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the law say about someone who cursed their father or mother?",
+  "options": [
+    "They were to be sent away",
+    "They had to pay a fine",
+    "They were to be put to death",
+    "They had to make an offering"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Family",
+    "Judgment"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 20:9 says anyone who cursed their father or mother was to be put to death, showing the seriousness of honoring parents."
+}

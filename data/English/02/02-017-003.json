@@ -1,0 +1,29 @@
+{
+  "id": "02-017-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 17,
+  "verse_reference": "Exodus 17:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What names did Moses give the place where the people quarreled and tested God?",
+  "options": [
+    "Massah and Meribah",
+    "Marah and Elim",
+    "Succoth and Etham",
+    "Horeb and Sinai"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The place was called Massah, meaning testing, and Meribah, meaning quarreling, because the Israelites tested the LORD and quarreled there."
+}

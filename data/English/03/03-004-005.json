@@ -1,0 +1,31 @@
+{
+  "id": "03-004-005",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 4,
+  "verse_reference": "Leviticus 4:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was the result for the people once the priest made atonement through the sin offering?",
+  "options": [
+    "They would be forgiven",
+    "They would be blessed with wealth",
+    "They would lead the nation",
+    "They would receive new land"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Forgiveness",
+    "Repentance"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 4:20 says that when the priest made atonement, the people would be forgiven."
+}

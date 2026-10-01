@@ -1,0 +1,31 @@
+{
+  "id": "01-042-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 42,
+  "verse_reference": "Genesis 42:6-8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What happened when Joseph's brothers came before him?",
+  "options": [
+    "They recognized him at once",
+    "They refused to bow",
+    "They asked for Joseph by name",
+    "They bowed down to him, but did not recognize him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Prophecy"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The brothers bowed down before Joseph with their faces to the ground. Joseph recognized them, but they did not recognize him."
+}

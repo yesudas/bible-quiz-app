@@ -1,0 +1,33 @@
+{
+  "id": "01-034-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 34,
+  "verse_reference": "Genesis 34:30",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jacob fear would happen because of his sons' actions?",
+  "options": [
+    "That God would abandon him",
+    "That Esau would return to fight him",
+    "That the people of the land would join together and attack him",
+    "That his flocks would be taken away"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Suffering"
+  ],
+  "characters": [
+    "Jacob",
+    "Simeon",
+    "Levi"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob feared that the Canaanites and Perizzites would unite against him and destroy him and his household, since they were few in number."
+}

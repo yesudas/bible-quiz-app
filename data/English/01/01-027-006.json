@@ -1,0 +1,32 @@
+{
+  "id": "01-027-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 27,
+  "verse_reference": "Genesis 27:22",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Isaac say when he noticed something strange about the son before him?",
+  "options": [
+    "The voice is Jacob's, but the hands are Esau's",
+    "You do not sound like my son",
+    "Your clothes smell wrong",
+    "You have come too soon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Isaac",
+    "Jacob",
+    "Esau"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaac said the voice was Jacob's but the hands were Esau's, yet he did not recognize Jacob because his hands felt hairy."
+}

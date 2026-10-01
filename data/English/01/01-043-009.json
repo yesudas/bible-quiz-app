@@ -1,0 +1,31 @@
+{
+  "id": "01-043-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 43,
+  "verse_reference": "Genesis 43:29-30",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Joseph react when he saw his brother Benjamin?",
+  "options": [
+    "He accused Benjamin of spying",
+    "He was so moved that he went out and wept",
+    "He sent Benjamin away",
+    "He showed no emotion"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Love"
+  ],
+  "characters": [
+    "Joseph",
+    "Benjamin"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph was deeply moved at seeing his own brother Benjamin and hurried out to a private room to weep."
+}

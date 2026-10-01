@@ -1,0 +1,32 @@
+{
+  "id": "04-024-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 24,
+  "verse_reference": "Numbers 24:17",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "What did Balaam prophesy would come out of Jacob and rise out of Israel?",
+  "options": [
+    "A cloud and a fire",
+    "A river and a mountain",
+    "A star and a scepter",
+    "A sword and a shield"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Promise",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Balaam"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Balaam foretold that a star would come out of Jacob and a scepter would rise out of Israel, pointing to a future ruler."
+}

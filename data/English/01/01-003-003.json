@@ -1,0 +1,33 @@
+{
+  "id": "01-003-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 3,
+  "verse_reference": "Genesis 3:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Adam and Eve use to cover themselves after they sinned?",
+  "options": [
+    "Animal skins",
+    "Fig leaves",
+    "Grass and straw",
+    "Palm branches"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Shame"
+  ],
+  "characters": [
+    "Adam",
+    "Eve"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Their eyes were opened, and they sewed fig leaves together to cover themselves."
+}

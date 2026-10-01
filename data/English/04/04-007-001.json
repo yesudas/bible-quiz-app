@@ -1,0 +1,37 @@
+{
+  "id": "04-007-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 7,
+  "verse_reference": "Numbers 7:1-2",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When did the leaders of Israel bring their offerings?",
+  "options": [
+    "Before the people left Egypt",
+    "After they entered the promised land",
+    "During the plague in the wilderness",
+    "When Moses finished setting up and anointing the tabernacle"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Tabernacle",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The leaders brought their offerings when Moses had finished setting up the tabernacle and had anointed and consecrated it."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "01-048-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 48,
+  "verse_reference": "Genesis 48:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jacob declare about Joseph's sons Ephraim and Manasseh?",
+  "options": [
+    "That they would return to Canaan alone",
+    "That they would serve their uncles",
+    "That they would receive no inheritance",
+    "That they would be counted as his own sons, like Reuben and Simeon"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Covenant"
+  ],
+  "characters": [
+    "Jacob",
+    "Ephraim",
+    "Manasseh"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob said that Ephraim and Manasseh would be reckoned as his own sons, just like Reuben and Simeon, giving them a share in the inheritance."
+}

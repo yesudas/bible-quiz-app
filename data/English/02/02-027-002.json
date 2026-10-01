@@ -1,0 +1,27 @@
+{
+  "id": "02-027-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 27,
+  "verse_reference": "Exodus 27:2",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "How many horns did the altar of burnt offering have?",
+  "options": [
+    "Two",
+    "Four, one at each corner",
+    "Seven",
+    "None"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The altar had four horns, one projecting from each of its four corners, made of one piece with the altar."
+}

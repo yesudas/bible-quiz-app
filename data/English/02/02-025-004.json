@@ -1,0 +1,28 @@
+{
+  "id": "02-025-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 25,
+  "verse_reference": "Exodus 25:16",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was to be placed inside the ark?",
+  "options": [
+    "A jar of gold coins",
+    "The stone tablets of the covenant law",
+    "The staff of Moses",
+    "Bread of the Presence"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Moses to place inside the ark the tablets of the covenant law, called the testimony, that He would give him."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "03-027-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 27,
+  "verse_reference": "Leviticus 27:1-8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What is the main subject of Leviticus 27?",
+  "options": [
+    "Vows and dedicating things to the Lord",
+    "The appointed feasts",
+    "Laws about clean animals",
+    "The duties of the priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Law",
+    "Vows"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 27 gives instructions about vows and how people and things dedicated to the Lord could be valued or redeemed."
+}

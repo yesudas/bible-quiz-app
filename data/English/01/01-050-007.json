@@ -1,0 +1,32 @@
+{
+  "id": "01-050-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 50,
+  "verse_reference": "Genesis 50:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Joseph promise his family before he died?",
+  "options": [
+    "That God would surely come to their aid and lead them to the promised land",
+    "That they would stay in Egypt forever",
+    "That Pharaoh would make them rulers",
+    "That the famine would never return"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Faith",
+    "Covenant"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph assured his family that God would surely come to their aid and bring them up out of Egypt to the land promised to Abraham, Isaac, and Jacob."
+}

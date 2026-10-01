@@ -1,0 +1,32 @@
+{
+  "id": "01-018-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 18,
+  "verse_reference": "Genesis 18:9-10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the LORD promise Abraham that Sarah would have?",
+  "options": [
+    "Great wealth",
+    "A long life",
+    "A son",
+    "A new home"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Abraham",
+    "Sarah"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD promised that He would return about a year later, and by then Sarah would have a son."
+}

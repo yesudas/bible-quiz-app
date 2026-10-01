@@ -1,0 +1,31 @@
+{
+  "id": "01-017-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 17,
+  "verse_reference": "Genesis 17:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How old was Abram when the LORD appeared to make his covenant in this chapter?",
+  "options": [
+    "Eighty-six",
+    "Ninety-nine",
+    "One hundred",
+    "Seventy-five"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Abram"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abram was ninety-nine years old when the LORD appeared to him and confirmed the covenant."
+}

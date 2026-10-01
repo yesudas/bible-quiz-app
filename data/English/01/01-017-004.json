@@ -1,0 +1,31 @@
+{
+  "id": "01-017-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 17,
+  "verse_reference": "Genesis 17:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the name Abraham mean about his future?",
+  "options": [
+    "He would be very wealthy",
+    "He would live a long life",
+    "He would be a father of many nations",
+    "He would rule over kings"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God named him Abraham because He would make him a father of many nations."
+}

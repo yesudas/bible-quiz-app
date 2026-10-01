@@ -1,0 +1,28 @@
+{
+  "id": "02-039-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 39,
+  "verse_reference": "Exodus 39:30",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "On the sacred emblem attached to the turban were engraved the words, \"HOLY TO THE _____.\"",
+  "options": [
+    "LORD",
+    "PRIEST",
+    "PEOPLE",
+    "KING"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The plate of pure gold, the sacred emblem, was engraved with the words 'HOLY TO THE LORD.'"
+}

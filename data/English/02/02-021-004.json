@@ -1,0 +1,27 @@
+{
+  "id": "02-021-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 21,
+  "verse_reference": "Exodus 21:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the law provide for someone who killed another person by accident?",
+  "options": [
+    "An immediate pardon",
+    "A place they could flee to for safety",
+    "A large payment of silver",
+    "Banishment to Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "If a death happened by accident and not on purpose, God provided a place the person could flee to for safety."
+}

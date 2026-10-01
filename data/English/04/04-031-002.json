@@ -1,0 +1,29 @@
+{
+  "id": "04-031-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 31,
+  "verse_reference": "Numbers 31:4-5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How many men were sent to fight, from each tribe?",
+  "options": [
+    "One hundred from each tribe",
+    "Ten thousand from each tribe",
+    "All the men of each tribe",
+    "One thousand from each tribe"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A thousand men were sent from each of the twelve tribes, making an army of twelve thousand armed for battle."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "03-010-004",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 10,
+  "verse_reference": "Leviticus 10:9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What were Aaron and his sons commanded not to drink when entering the tent of meeting?",
+  "options": [
+    "Water from other wells",
+    "Milk or juice",
+    "Wine or other fermented drink",
+    "Anything at all while serving"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Priesthood",
+    "Holiness",
+    "Law"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 10:9 commands that Aaron and his sons were not to drink wine or other fermented drink when they entered the tent of meeting, so they would not die."
+}

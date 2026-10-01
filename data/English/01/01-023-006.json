@@ -1,0 +1,31 @@
+{
+  "id": "01-023-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 23,
+  "verse_reference": "Genesis 23:8-9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What specific property did Abraham ask to buy for a burial site?",
+  "options": [
+    "The cave of Machpelah",
+    "A field near Bethel",
+    "A well at Beersheba",
+    "A hillside in Moriah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Abraham",
+    "Ephron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham asked to buy the cave of Machpelah, which belonged to Ephron, at the end of Ephron's field."
+}

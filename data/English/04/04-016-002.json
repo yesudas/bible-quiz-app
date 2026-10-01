@@ -1,0 +1,33 @@
+{
+  "id": "04-016-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 16,
+  "verse_reference": "Numbers 16:2-3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the rebels claim against Moses and Aaron?",
+  "options": [
+    "That Moses was too old to lead",
+    "That the whole community was holy, so Moses and Aaron had set themselves too high",
+    "That they wanted to return to Egypt",
+    "That there was no food or water"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Korah",
+    "Moses",
+    "Aaron"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The rebels said the whole community was holy and that Moses and Aaron had put themselves above the Lord's assembly."
+}

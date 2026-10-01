@@ -1,0 +1,31 @@
+{
+  "id": "01-023-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 23,
+  "verse_reference": "Genesis 23:8-9",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who owned the cave that Abraham wanted to buy?",
+  "options": [
+    "Abimelek",
+    "Mamre the Amorite",
+    "Lot",
+    "Ephron the Hittite"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Ephron",
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The cave of Machpelah belonged to Ephron the Hittite, from whom Abraham sought to buy it."
+}

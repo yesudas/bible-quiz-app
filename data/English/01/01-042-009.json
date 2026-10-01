@@ -1,0 +1,32 @@
+{
+  "id": "01-042-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 42,
+  "verse_reference": "Genesis 42:36",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Jacob react when he heard he might lose Benjamin too?",
+  "options": [
+    "He said everything was against him",
+    "He agreed at once",
+    "He sent them back immediately",
+    "He rejoiced"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Suffering"
+  ],
+  "characters": [
+    "Jacob",
+    "Benjamin"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob grieved, saying he had lost Joseph and Simeon, and now they wanted to take Benjamin, and that everything was against him."
+}

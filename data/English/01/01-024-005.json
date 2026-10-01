@@ -1,0 +1,32 @@
+{
+  "id": "01-024-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 24,
+  "verse_reference": "Genesis 24:15-20",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which young woman came to the well and watered the servant's camels?",
+  "options": [
+    "Leah",
+    "Rachel",
+    "Rebekah",
+    "Sarah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Marriage",
+    "Faith"
+  ],
+  "characters": [
+    "Rebekah"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rebekah came to the well, gave the servant a drink, and offered to water all his camels, just as he had prayed."
+}

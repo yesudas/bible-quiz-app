@@ -1,0 +1,31 @@
+{
+  "id": "01-042-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 42,
+  "verse_reference": "Genesis 42:4",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which son did Jacob keep at home instead of sending to Egypt?",
+  "options": [
+    "Reuben",
+    "Judah",
+    "Benjamin",
+    "Simeon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jacob",
+    "Benjamin"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob did not send Benjamin, Joseph's brother, because he was afraid that harm might come to him."
+}

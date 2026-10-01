@@ -1,0 +1,27 @@
+{
+  "id": "02-021-008",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 21,
+  "verse_reference": "Exodus 21:28-29",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened to an ox that gored a person to death?",
+  "options": [
+    "The ox was given to the priests",
+    "The ox was set free",
+    "The ox was to be stoned to death",
+    "The ox was sold in the market"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "An ox that gored a person to death was to be stoned, and if the owner had been warned about it before, he too could be held responsible."
+}

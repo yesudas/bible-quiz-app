@@ -1,0 +1,31 @@
+{
+  "id": "04-031-004",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 31,
+  "verse_reference": "Numbers 31:8",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which man, known for trying to curse Israel, was killed in this battle?",
+  "options": [
+    "Balaam",
+    "Balak",
+    "Sihon",
+    "Og"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Balaam"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Among those killed was Balaam son of Beor, who had earlier tried to bring a curse on Israel."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "02-022-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 22,
+  "verse_reference": "Exodus 22:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why were the Israelites told not to mistreat a foreigner?",
+  "options": [
+    "Because foreigners were wealthy",
+    "Because they themselves had been foreigners in Egypt",
+    "Because foreigners were their rulers",
+    "Because it was a Sabbath law"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Love"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told them not to mistreat or oppress a foreigner, because they knew what it was like, having been foreigners in Egypt."
+}

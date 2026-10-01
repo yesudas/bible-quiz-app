@@ -1,0 +1,12 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Terah",
+    "label": "Terah",
+    "count": 2,
+    "paths": [
+        "English/01/01-011-004.json",
+        "English/01/01-011-006.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

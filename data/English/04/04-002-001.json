@@ -1,0 +1,39 @@
+{
+  "id": "04-002-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 2,
+  "verse_reference": "Numbers 2:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How were the Israelites told to set up their camp?",
+  "options": [
+    "In one large circle with no order",
+    "Wherever each family chose to settle",
+    "All together in a single line facing east",
+    "Each tribe under its own standard, around the tent of meeting"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "places": [
+    {
+      "name": "Tent of Meeting",
+      "type": "tent"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Each tribe camped under its own standard, with its family banners, around the tent of meeting."
+}

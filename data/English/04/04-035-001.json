@@ -1,0 +1,30 @@
+{
+  "id": "04-035-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 35,
+  "verse_reference": "Numbers 35:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were the Israelites told to give the Levites?",
+  "options": [
+    "A share of the war spoils",
+    "Towns to live in with pasturelands around them",
+    "Gold and silver each year",
+    "The best of the harvest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Since the Levites had no land of their own, the Israelites gave them towns to live in, along with pasturelands for their animals."
+}

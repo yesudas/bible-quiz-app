@@ -1,0 +1,37 @@
+{
+  "id": "04-031-001",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 31,
+  "verse_reference": "Numbers 31:1-2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Against which people did God tell Moses to take vengeance?",
+  "options": [
+    "The Amalekites",
+    "The Amorites",
+    "The Midianites",
+    "The Moabites"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Midian",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Moses to take vengeance on the Midianites for leading Israel into sin, and afterward Moses would be gathered to his people."
+}

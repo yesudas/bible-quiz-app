@@ -1,0 +1,29 @@
+{
+  "id": "04-005-006",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 5,
+  "verse_reference": "Numbers 5:17-18",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the priest have the suspected wife drink during the test?",
+  "options": [
+    "Bitter water that brings a curse",
+    "Wine mixed with oil",
+    "Water from the bronze basin only",
+    "A cup of vinegar"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priest prepared bitter water that brings a curse, made with holy water and dust from the tabernacle floor, for the woman to drink."
+}

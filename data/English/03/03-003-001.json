@@ -1,0 +1,31 @@
+{
+  "id": "03-003-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 3,
+  "verse_reference": "Leviticus 3:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What kind of offering is described in Leviticus 3?",
+  "options": [
+    "The fellowship offering",
+    "The burnt offering",
+    "The grain offering",
+    "The sin offering"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Sacrifice",
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 3 gives the instructions for the fellowship offering, also called the peace offering."
+}

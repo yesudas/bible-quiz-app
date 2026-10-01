@@ -1,0 +1,28 @@
+{
+  "id": "02-007-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 7,
+  "verse_reference": "Exodus 7:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened to the Nile after it turned to blood?",
+  "options": [
+    "The fish died and the river smelled",
+    "The water dried up completely",
+    "The river flowed backward",
+    "The water became sweet"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The fish in the Nile died, the river smelled bad, and the Egyptians could not drink its water."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "02-034-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 34,
+  "verse_reference": "Exodus 34:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did God tell Moses to cut two new stone tablets?",
+  "options": [
+    "The first were lost",
+    "The people wanted more laws",
+    "The first tablets had been broken",
+    "The old ones were too heavy"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Law"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Moses to cut two new tablets like the first ones, which Moses had broken, so He could write the words again."
+}

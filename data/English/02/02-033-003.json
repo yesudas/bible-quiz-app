@@ -1,0 +1,30 @@
+{
+  "id": "02-033-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 33,
+  "verse_reference": "Exodus 33:11",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was the young aide who stayed at the tent of meeting?",
+  "options": [
+    "Caleb",
+    "Aaron",
+    "Hur",
+    "Joshua"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua",
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses' young aide Joshua, son of Nun, did not leave the tent of meeting."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "01-010-004",
+  "language": "ka",
+  "book_no": 1,
+  "book": "ಆದಿಕಾಂಡ",
+  "chapter": 10,
+  "verse_reference": "ಆದಿಕಾಂಡ 10:11-12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "ಅಶ್ಶೂರಿನಿಂದ ಹೊರಟು ನಿಮ್ರೋದನು ಕಟ್ಟಿಸಿದ ಮಹಾಪಟ್ಟಣ ಯಾವುದು?",
+  "options": [
+    "ಯೆರೂಸಲೇಮ್",
+    "ಸೋದೋಮ್",
+    "ನಿನೆವೆ",
+    "ತಾರ್ಷೀಷ್"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "ಪಟ್ಟಣ",
+    "ಇತಿಹಾಸ"
+  ],
+  "characters": [
+    "ನಿಮ್ರೋದ"
+  ],
+  "places": [
+    {
+      "name": "ನಿನೆವೆ",
+      "type": "city"
+    },
+    {
+      "name": "ಅಶ್ಶೂರು",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "ಆ ದೇಶದಿಂದ ಅವನು ಅಶ್ಶೂರಿಗೆ ಹೊರಟು ನಿನೆವೆಯನ್ನೂ, ರೆಹೋಬೋತ್-ಈರನ್ನೂ, ಕಾಲಹವನ್ನೂ ಮತ್ತು ರೆಸೇನನ್ನೂ ಕಟ್ಟಿಸಿದನು; ಅದೇ ಮಹಾಪಟ್ಟಣ."
+}

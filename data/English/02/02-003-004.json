@@ -1,0 +1,33 @@
+{
+  "id": "02-003-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 3,
+  "verse_reference": "Exodus 3:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did God identify Himself to Moses at the bush?",
+  "options": [
+    "The God of Abraham, Isaac, and Jacob",
+    "The God of Noah and Enoch",
+    "The God of the Egyptians",
+    "The God of Adam and Eve"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [
+    "Moses",
+    "Abraham",
+    "Isaac",
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He was the God of Abraham, the God of Isaac, and the God of Jacob."
+}

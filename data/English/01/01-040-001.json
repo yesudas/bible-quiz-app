@@ -1,0 +1,30 @@
+{
+  "id": "01-040-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 40,
+  "verse_reference": "Genesis 40:1-3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which two of Pharaoh's officials were put in the same prison as Joseph?",
+  "options": [
+    "The chief cupbearer and the chief baker",
+    "The captain of the guard and a scribe",
+    "Two of Pharaoh's sons",
+    "The chief steward and a priest"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh's chief cupbearer and chief baker offended him and were put in the same prison where Joseph was held."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "01-030-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 30,
+  "verse_reference": "Genesis 30:21",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "What was the name of the daughter Leah bore to Jacob?",
+  "options": [
+    "Dinah",
+    "Rachel",
+    "Zilpah",
+    "Bilhah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Leah",
+    "Dinah",
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leah later gave birth to a daughter and named her Dinah."
+}

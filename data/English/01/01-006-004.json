@@ -1,0 +1,32 @@
+{
+  "id": "01-006-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 6,
+  "verse_reference": "Genesis 6:17",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did God say He would bring on the earth to destroy all life?",
+  "options": [
+    "A great fire",
+    "A great flood",
+    "A famine",
+    "An earthquake"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [
+    "God"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God announced that He would bring floodwaters on the earth to destroy all life under the heavens."
+}

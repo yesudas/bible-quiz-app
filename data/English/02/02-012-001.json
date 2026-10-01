@@ -1,0 +1,30 @@
+{
+  "id": "02-012-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 12,
+  "verse_reference": "Exodus 12:3-6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What animal were the Israelites told to prepare for the Passover?",
+  "options": [
+    "A lamb without defect",
+    "A young bull",
+    "A pair of doves",
+    "A ram with horns"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Each family was to take a year-old male lamb without defect and care for it until the fourteenth day of the month."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "01-002-003",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 2,
+  "verse_reference": "उत्पत्ति 2:8-9",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "यहोवा परमेश्वर ने पूर्व की ओर किस स्थान पर एक वाटिका लगाई?",
+  "options": [
+    "कनान में",
+    "अदन में",
+    "मिस्र में",
+    "बाबेल में"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "सृष्टि",
+    "स्थान"
+  ],
+  "characters": [
+    "आदम"
+  ],
+  "places": [
+    {
+      "name": "अदन",
+      "type": "Garden"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "यहोवा परमेश्वर ने पूर्व की ओर अदन में एक वाटिका लगाई और जिस मनुष्य को उसने रचा था, उसे वहाँ रखा।"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "04-036-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 36,
+  "verse_reference": "Numbers 36:5-6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What ruling did God give about whom Zelophehad's daughters could marry?",
+  "options": [
+    "They could not marry at all",
+    "They could marry anyone they chose",
+    "They could marry, but only within their father's tribe",
+    "They had to marry priests"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Marriage",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said the daughters could marry anyone they pleased, as long as they married within their father's own tribe."
+}

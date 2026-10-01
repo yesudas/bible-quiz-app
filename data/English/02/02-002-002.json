@@ -1,0 +1,32 @@
+{
+  "id": "02-002-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 2,
+  "verse_reference": "Exodus 2:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Where did Moses' mother place him to keep him safe?",
+  "options": [
+    "In a cave",
+    "In a basket among the reeds by the Nile",
+    "In a neighbor's house",
+    "In a field"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Family"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses' mother placed him in a basket coated with tar and set it among the reeds along the bank of the Nile."
+}

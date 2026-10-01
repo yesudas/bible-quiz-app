@@ -1,0 +1,31 @@
+{
+  "id": "01-021-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 21,
+  "verse_reference": "Genesis 21:5",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How old was Abraham when Isaac was born?",
+  "options": [
+    "Eighty-six",
+    "Ninety-nine",
+    "One hundred",
+    "One hundred seventy-five"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Abraham",
+    "Isaac"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham was a hundred years old when his son Isaac was born."
+}

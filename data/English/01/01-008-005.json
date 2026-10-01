@@ -1,0 +1,32 @@
+{
+  "id": "01-008-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 8,
+  "verse_reference": "Genesis 8:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the first thing Noah did after coming out of the ark?",
+  "options": [
+    "He planted a vineyard",
+    "He built a house",
+    "He built an altar and offered sacrifices to the Lord",
+    "He gathered the animals together"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Faith"
+  ],
+  "characters": [
+    "Noah"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Noah built an altar to the Lord and sacrificed burnt offerings on it in worship and thanks."
+}

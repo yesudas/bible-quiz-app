@@ -1,0 +1,29 @@
+{
+  "id": "04-034-004",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 34,
+  "verse_reference": "Numbers 34:13-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How many tribes would divide this land west of the Jordan?",
+  "options": [
+    "All twelve tribes",
+    "Seven tribes",
+    "Three tribes",
+    "Nine and a half tribes"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nine and a half tribes would receive this land, since Reuben, Gad, and half of Manasseh had already received their land east of the Jordan."
+}

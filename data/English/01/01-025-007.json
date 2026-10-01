@@ -1,0 +1,30 @@
+{
+  "id": "01-025-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 25,
+  "verse_reference": "Genesis 25:23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the LORD tell Rebekah about the two babies within her?",
+  "options": [
+    "They would both be kings",
+    "Two nations were in her, and the older would serve the younger",
+    "They would never be separated",
+    "They would die young"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Family"
+  ],
+  "characters": [
+    "Rebekah"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said two nations were in Rebekah's womb, and the older son would serve the younger."
+}

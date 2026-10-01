@@ -1,0 +1,31 @@
+{
+  "id": "01-019-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 19,
+  "verse_reference": "Genesis 19:27-29",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did God bring Lot out safely when He destroyed the cities of the plain?",
+  "options": [
+    "Because Lot was sinless",
+    "Because Lot bargained with the angels",
+    "Because Lot ruled the city",
+    "Because God remembered Abraham"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Covenant"
+  ],
+  "characters": [
+    "Lot",
+    "Abraham"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When God destroyed the cities, He remembered Abraham and brought Lot out of the disaster."
+}

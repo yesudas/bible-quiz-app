@@ -1,0 +1,30 @@
+{
+  "id": "02-001-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 1,
+  "verse_reference": "Exodus 1:7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened to the Israelites in Egypt over time?",
+  "options": [
+    "They slowly disappeared",
+    "They became very few",
+    "They increased greatly in number",
+    "They returned to Canaan"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Family"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites were fruitful and multiplied greatly, so that the land was filled with them."
+}

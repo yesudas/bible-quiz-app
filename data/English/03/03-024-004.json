@@ -1,0 +1,29 @@
+{
+  "id": "03-024-004",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 24,
+  "verse_reference": "Leviticus 24:19-20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The law of fair punishment said, 'Eye for eye, ______ for tooth.'",
+  "options": [
+    "hand",
+    "life",
+    "tooth",
+    "bone"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Justice"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 24:20 states the principle of equal justice: fracture for fracture, eye for eye, tooth for tooth."
+}

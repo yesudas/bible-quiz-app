@@ -1,0 +1,30 @@
+{
+  "id": "04-028-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 28,
+  "verse_reference": "Numbers 28:17-18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What festival followed right after the Passover?",
+  "options": [
+    "The Festival of Unleavened Bread",
+    "The Festival of Trumpets",
+    "The Festival of Tabernacles",
+    "The Day of Atonement"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Festival of Unleavened Bread began the day after Passover and lasted seven days, during which bread made without yeast was eaten."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "01-020-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 20,
+  "verse_reference": "Genesis 20:14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Abimelek give to Abraham when he returned Sarah?",
+  "options": [
+    "Gold and silver only",
+    "Land and houses",
+    "Nothing at all",
+    "Sheep, cattle, and male and female slaves"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Abimelek",
+    "Abraham",
+    "Sarah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abimelek gave Abraham sheep, cattle, and male and female slaves, and returned Sarah to him."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "01-023-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 23,
+  "verse_reference": "Genesis 23:14-16",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How much silver did Abraham pay Ephron for the field and cave?",
+  "options": [
+    "One hundred shekels",
+    "Two hundred shekels",
+    "Four hundred shekels",
+    "One thousand shekels"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Abraham",
+    "Ephron"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham weighed out four hundred shekels of silver and paid Ephron for the field and the cave."
+}

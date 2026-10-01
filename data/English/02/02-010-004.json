@@ -1,0 +1,27 @@
+{
+  "id": "02-010-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 10,
+  "verse_reference": "Exodus 10:19",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where were the locusts carried when the wind changed?",
+  "options": [
+    "Into the desert",
+    "Into the Red Sea",
+    "Into the mountains",
+    "Into the Nile"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A strong west wind carried the locusts away into the Red Sea, and not one locust was left in Egypt."
+}

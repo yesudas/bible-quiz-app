@@ -1,0 +1,33 @@
+{
+  "id": "01-003-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 3,
+  "verse_reference": "Genesis 3:6",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the woman do with the fruit from the forbidden tree?",
+  "options": [
+    "She threw it away",
+    "She gave it to the serpent",
+    "She ate it and gave some to her husband",
+    "She buried it in the garden"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Temptation"
+  ],
+  "characters": [
+    "Eve",
+    "Adam"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The woman took the fruit and ate it, and she also gave some to her husband, who was with her."
+}

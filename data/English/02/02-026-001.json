@@ -1,0 +1,27 @@
+{
+  "id": "02-026-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 26,
+  "verse_reference": "Exodus 26:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were the tabernacle's inner curtains made of?",
+  "options": [
+    "Plain wool",
+    "Woven reeds",
+    "Finely twisted linen with colored yarn and cherubim",
+    "Animal bones"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The tabernacle was made with ten curtains of finely twisted linen and blue, purple, and scarlet yarn, with cherubim skillfully worked into them."
+}

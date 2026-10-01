@@ -1,0 +1,29 @@
+{
+  "id": "02-031-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 31,
+  "verse_reference": "Exodus 31:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why was the Sabbath connected to creation?",
+  "options": [
+    "Because the world was created on a Sabbath",
+    "Because God rested on the seventh day after making heaven and earth",
+    "Because the seventh day was the first day",
+    "Because it marked the start of the year"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Sabbath was tied to creation because in six days the LORD made heaven and earth, and on the seventh day He rested and was refreshed."
+}

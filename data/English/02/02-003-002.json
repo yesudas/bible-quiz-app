@@ -1,0 +1,29 @@
+{
+  "id": "02-003-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 3,
+  "verse_reference": "Exodus 3:1",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "At which mountain did Moses see the burning bush?",
+  "options": [
+    "Mount Carmel",
+    "Mount Zion",
+    "Horeb, the mountain of God",
+    "Mount Ararat"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses led the flock to Horeb, the mountain of God, where he encountered the burning bush."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "02-015-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 15,
+  "verse_reference": "Exodus 15:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"The LORD is my strength and my defense; he has become my _____.\"",
+  "options": [
+    "salvation",
+    "shepherd",
+    "refuge",
+    "shield"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Salvation"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the song, the people declared that the LORD was their strength, their defense, and had become their salvation."
+}

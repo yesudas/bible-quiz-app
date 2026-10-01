@@ -1,0 +1,25 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Judah",
+    "label": "Judah",
+    "count": 15,
+    "paths": [
+        "English/01/01-037-009.json",
+        "English/01/01-038-001.json",
+        "English/01/01-038-002.json",
+        "English/01/01-038-003.json",
+        "English/01/01-038-004.json",
+        "English/01/01-038-005.json",
+        "English/01/01-038-006.json",
+        "English/01/01-043-002.json",
+        "English/01/01-043-003.json",
+        "English/01/01-044-006.json",
+        "English/01/01-044-008.json",
+        "English/01/01-044-009.json",
+        "English/01/01-046-004.json",
+        "English/01/01-049-004.json",
+        "English/01/01-049-005.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

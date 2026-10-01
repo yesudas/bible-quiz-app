@@ -1,0 +1,30 @@
+{
+  "id": "02-014-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 14,
+  "verse_reference": "Exodus 14:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the Israelites pass through the sea?",
+  "options": [
+    "In boats made of reeds",
+    "By swimming across",
+    "On a bridge of stones",
+    "On dry ground with walls of water on both sides"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Salvation"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites went through the sea on dry ground, with a wall of water on their right and on their left."
+}

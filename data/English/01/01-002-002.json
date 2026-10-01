@@ -1,0 +1,32 @@
+{
+  "id": "01-002-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 2,
+  "verse_reference": "Genesis 2:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God use to form the first man?",
+  "options": [
+    "The dust of the ground",
+    "A rib",
+    "Clay from the river",
+    "The waters of the deep"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God",
+    "Adam"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God formed the man from the dust of the ground and breathed into him the breath of life."
+}

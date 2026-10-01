@@ -1,0 +1,30 @@
+{
+  "id": "03-025-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 25,
+  "verse_reference": "Leviticus 25:8-10",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "After how many years was the Year of Jubilee to be celebrated?",
+  "options": [
+    "Every ten years",
+    "Every twenty-five years",
+    "Every fifty years",
+    "Every hundred years"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Freedom",
+    "Provision"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 25:8-10 says the fiftieth year was to be the Year of Jubilee, coming after seven sets of seven years."
+}

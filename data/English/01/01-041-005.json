@@ -1,0 +1,31 @@
+{
+  "id": "01-041-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 41,
+  "verse_reference": "Genesis 41:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Joseph tell Pharaoh about interpreting the dreams?",
+  "options": [
+    "That he could not do it",
+    "That the magicians should try again",
+    "That the dreams had no meaning",
+    "That God would give Pharaoh the answer he needed"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Prophecy"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph told Pharaoh that he himself could not do it, but that God would give Pharaoh the answer he needed."
+}

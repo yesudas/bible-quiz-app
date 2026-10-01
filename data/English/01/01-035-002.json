@@ -1,0 +1,31 @@
+{
+  "id": "01-035-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 35,
+  "verse_reference": "Genesis 35:2-4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jacob tell his household to get rid of before going to Bethel?",
+  "options": [
+    "Their weapons",
+    "The foreign gods among them",
+    "Their extra flocks",
+    "Their tents"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Repentance"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob told his household to get rid of the foreign gods, purify themselves, and change their clothes before going up to Bethel."
+}

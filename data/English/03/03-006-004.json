@@ -1,0 +1,31 @@
+{
+  "id": "03-006-004",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 6,
+  "verse_reference": "Leviticus 6:18",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was allowed to eat the priests' portion of the grain offering?",
+  "options": [
+    "Any Israelite",
+    "Only the high priest",
+    "The elders of the people",
+    "The male descendants of Aaron"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Priesthood",
+    "Provision"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 6:18 says any male descendant of Aaron could eat this most holy part of the offerings made to the Lord."
+}

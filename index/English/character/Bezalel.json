@@ -1,0 +1,23 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Bezalel",
+    "label": "Bezalel",
+    "count": 13,
+    "paths": [
+        "English/02/02-031-001.json",
+        "English/02/02-031-002.json",
+        "English/02/02-035-004.json",
+        "English/02/02-035-005.json",
+        "English/02/02-036-001.json",
+        "English/02/02-037-001.json",
+        "English/02/02-037-002.json",
+        "English/02/02-037-003.json",
+        "English/02/02-037-005.json",
+        "English/02/02-038-001.json",
+        "English/02/02-038-002.json",
+        "English/02/02-038-003.json",
+        "English/02/02-038-004.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

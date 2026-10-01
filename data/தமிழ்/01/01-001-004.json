@@ -1,0 +1,29 @@
+{
+  "id": "01-001-004",
+  "language": "ta",
+  "book_no": 1,
+  "book": "ஆதியாகமம்",
+  "chapter": 1,
+  "verse_reference": "ஆதியாகமம் 1:6-8",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "இரண்டாம் நாளில் ஜலத்தின் நடுவே உண்டான ஆகாயவிரிவுக்கு தேவன் என்ன பேரிட்டார்?",
+  "options": [
+    "பூமி",
+    "வானம்",
+    "மேகம்",
+    "காற்று"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "சிருஷ்டிப்பு"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "இரண்டாம் நாளில் தேவன் ஜலத்தின் மத்தியில் உண்டாக்கின ஆகாயவிரிவுக்கு 'வானம்' என்று பேரிட்டார்."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "01-004-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 4,
+  "verse_reference": "Genesis 4:8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Cain do to his brother Abel in the field?",
+  "options": [
+    "He forgave him",
+    "He gave him a gift",
+    "He ran away from him",
+    "He killed him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Family"
+  ],
+  "characters": [
+    "Cain",
+    "Abel"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While they were in the field, Cain attacked his brother Abel and killed him."
+}

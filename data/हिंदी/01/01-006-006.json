@@ -1,0 +1,32 @@
+{
+  "id": "01-006-006",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 6,
+  "verse_reference": "उत्पत्ति 6:16",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "नोह के जहाज में कितने खण्ड (मंजिलें) बनाने का निर्देश दिया गया था?",
+  "options": [
+    "दो खण्ड",
+    "तीन खण्ड",
+    "चार खण्ड",
+    "पाँच खण्ड"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "आज्ञाकारिता"
+  ],
+  "characters": [
+    "नोह"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "उत्पत्ति 6:16 में परमेश्वर ने कहा कि जहाज में निचला, दूसरा और तीसरा खण्ड (तीन मंजिलें) बनाना।"
+}

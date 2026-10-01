@@ -1,0 +1,27 @@
+{
+  "id": "02-036-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 36,
+  "verse_reference": "Exodus 36:8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was worked into the fine linen curtains of the tabernacle?",
+  "options": [
+    "Lions",
+    "Stars",
+    "Cherubim",
+    "Flowers"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The curtains of finely twisted linen and colored yarn had cherubim skillfully worked into them by the craftsmen."
+}

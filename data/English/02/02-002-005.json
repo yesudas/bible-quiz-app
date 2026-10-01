@@ -1,0 +1,30 @@
+{
+  "id": "02-002-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 2,
+  "verse_reference": "Exodus 2:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why was the child given the name Moses?",
+  "options": [
+    "Because he was born at night",
+    "Because he was drawn out of the water",
+    "Because he was the firstborn",
+    "Because he was strong"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh's daughter named him Moses, saying she drew him out of the water."
+}

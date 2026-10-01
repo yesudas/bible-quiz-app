@@ -1,0 +1,34 @@
+{
+  "id": "04-033-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 33,
+  "verse_reference": "Numbers 33:3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "From which city did the Israelites first set out on their journey?",
+  "options": [
+    "Rameses",
+    "Kadesh",
+    "Jericho",
+    "Bethel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Rameses",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites set out from Rameses on the day after the Passover, marching out boldly in view of all the Egyptians."
+}

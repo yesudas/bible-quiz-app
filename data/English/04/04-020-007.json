@@ -1,0 +1,40 @@
+{
+  "id": "04-020-007",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 20,
+  "verse_reference": "Numbers 20:26-28",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who became the new high priest when Aaron died on Mount Hor?",
+  "options": [
+    "Moses",
+    "Joshua",
+    "Ithamar",
+    "Eleazar"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Worship",
+    "Family"
+  ],
+  "characters": [
+    "Aaron",
+    "Eleazar",
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Mount Hor",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Aaron's priestly garments were put on his son Eleazar, who became high priest, and Aaron died there on Mount Hor."
+}

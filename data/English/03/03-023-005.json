@@ -1,0 +1,30 @@
+{
+  "id": "03-023-005",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 23,
+  "verse_reference": "Leviticus 23:33-43",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "During the Feast of Tabernacles, what were the Israelites to live in for seven days?",
+  "options": [
+    "Tents made of animal skins",
+    "Their own houses",
+    "Temporary shelters, or booths",
+    "The courtyard of the tabernacle"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Remembrance",
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 23:42-43 says the people were to live in temporary shelters, or booths, for seven days to remember how God brought them out of Egypt."
+}

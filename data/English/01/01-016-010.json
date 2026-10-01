@@ -1,0 +1,32 @@
+{
+  "id": "01-016-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 16,
+  "verse_reference": "Genesis 16:16",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How old was Abram when Hagar gave birth to Ishmael?",
+  "options": [
+    "Seventy-five",
+    "Ninety-nine",
+    "One hundred",
+    "Eighty-six"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Abram",
+    "Hagar",
+    "Ishmael"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abram was eighty-six years old when Hagar bore him Ishmael."
+}

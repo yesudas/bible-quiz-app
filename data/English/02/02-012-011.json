@@ -1,0 +1,28 @@
+{
+  "id": "02-012-011",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 12,
+  "verse_reference": "Exodus 12:40",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How long had the Israelites lived in Egypt?",
+  "options": [
+    "430 years",
+    "40 years",
+    "100 years",
+    "215 years"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites had lived in Egypt for 430 years, and on the very day that period ended they left."
+}

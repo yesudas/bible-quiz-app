@@ -1,0 +1,30 @@
+{
+  "id": "01-025-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 25,
+  "verse_reference": "Genesis 25:1",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whom did Abraham marry after Sarah's death?",
+  "options": [
+    "Hagar",
+    "Rebekah",
+    "Milkah",
+    "Keturah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Marriage"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham took another wife named Keturah, who bore him several sons."
+}

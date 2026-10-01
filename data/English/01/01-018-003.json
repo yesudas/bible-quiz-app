@@ -1,0 +1,31 @@
+{
+  "id": "01-018-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 18,
+  "verse_reference": "Genesis 18:6-8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Abraham prepare for his visitors?",
+  "options": [
+    "Only bread and water",
+    "Bread, a tender calf, curds, and milk",
+    "Fish and fruit",
+    "Wine and roasted lamb"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Abraham",
+    "Sarah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham had bread made, prepared a tender calf, and brought curds and milk for the three visitors."
+}

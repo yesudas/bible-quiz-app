@@ -1,0 +1,30 @@
+{
+  "id": "03-022-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 22,
+  "verse_reference": "Leviticus 22:20-22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What kind of animal was acceptable as an offering to the Lord?",
+  "options": [
+    "One with a small blemish",
+    "An animal without defect",
+    "Only the youngest of the flock",
+    "Only a firstborn animal"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Sacrifice",
+    "Holiness"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 22:20-21 says an offering had to be without defect to be accepted, since a blemished animal would not be accepted."
+}

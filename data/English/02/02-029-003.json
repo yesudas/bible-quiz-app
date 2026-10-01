@@ -1,0 +1,29 @@
+{
+  "id": "02-029-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 29,
+  "verse_reference": "Exodus 29:35",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "How many days did the ordination of the priests last?",
+  "options": [
+    "One day",
+    "Forty days",
+    "Three days",
+    "Seven days"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The ordination of Aaron and his sons was to be carried out over seven days, as the LORD commanded."
+}

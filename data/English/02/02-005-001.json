@@ -1,0 +1,33 @@
+{
+  "id": "02-005-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 5,
+  "verse_reference": "Exodus 5:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Moses and Aaron ask Pharaoh to let the Israelites do?",
+  "options": [
+    "Build a new city",
+    "Hold a festival to the LORD in the wilderness",
+    "Return to farming",
+    "Choose a new king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Mission"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses and Aaron told Pharaoh that the LORD said to let His people go to hold a festival to Him in the wilderness."
+}

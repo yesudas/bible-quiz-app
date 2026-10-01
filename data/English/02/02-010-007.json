@@ -1,0 +1,30 @@
+{
+  "id": "02-010-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 10,
+  "verse_reference": "Exodus 10:24-26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What condition did Pharaoh put on letting the Israelites go, which Moses refused?",
+  "options": [
+    "That they leave their flocks and herds behind",
+    "That they pay a large tribute",
+    "That only the children go",
+    "That they return within a week"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh said they could go but must leave their flocks and herds; Moses refused, saying the animals were needed to worship the LORD."
+}

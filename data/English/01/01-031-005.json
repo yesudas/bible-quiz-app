@@ -1,0 +1,32 @@
+{
+  "id": "01-031-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 31,
+  "verse_reference": "Genesis 31:34-35",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Rachel hide the household gods so Laban could not find them?",
+  "options": [
+    "Under a pile of stones",
+    "In Jacob's tent",
+    "Inside her camel's saddle, and she sat on it",
+    "Buried under a tree"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Family"
+  ],
+  "characters": [
+    "Rachel",
+    "Laban"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rachel hid the gods in her camel's saddle and sat on them, so Laban searched but did not find them."
+}

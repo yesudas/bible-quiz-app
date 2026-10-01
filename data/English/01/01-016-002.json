@@ -1,0 +1,33 @@
+{
+  "id": "01-016-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 16,
+  "verse_reference": "Genesis 16:1-3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did Sarai give Hagar to Abram as a wife?",
+  "options": [
+    "Hagar asked to marry Abram",
+    "God commanded Sarai to do it",
+    "Sarai had not been able to have children",
+    "Abram wanted a second wife"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Faith"
+  ],
+  "characters": [
+    "Sarai",
+    "Abram",
+    "Hagar"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sarai had not been able to bear children, so she gave her slave Hagar to Abram, hoping to build a family through her."
+}

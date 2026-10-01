@@ -1,0 +1,29 @@
+{
+  "id": "03-022-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 22,
+  "verse_reference": "Leviticus 22:10-13",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was normally not allowed to eat the sacred offering given to a priest?",
+  "options": [
+    "The priest's own children",
+    "A guest or hired worker of the priest",
+    "The priest's wife",
+    "A slave born in the priest's household"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Priesthood",
+    "Holiness",
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 22:10 says no one outside a priest's family, such as a guest or hired worker, could eat the sacred offering."
+}

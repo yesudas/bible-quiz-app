@@ -1,0 +1,32 @@
+{
+  "id": "01-048-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 48,
+  "verse_reference": "Genesis 48:14",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What unusual thing did Jacob do with his hands when blessing the boys?",
+  "options": [
+    "He held them behind his back",
+    "He crossed his arms, putting his right hand on the younger son",
+    "He raised both hands over his head",
+    "He placed both hands on the older son"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jacob",
+    "Ephraim",
+    "Manasseh"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob crossed his arms, placing his right hand on the younger son Ephraim's head and his left on the older son Manasseh."
+}

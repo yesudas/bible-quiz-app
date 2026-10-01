@@ -1,0 +1,28 @@
+{
+  "id": "03-024-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 24,
+  "verse_reference": "Leviticus 24:5-9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many loaves of bread were set out on the table before the Lord each Sabbath?",
+  "options": [
+    "Seven",
+    "Ten",
+    "Twelve",
+    "Five"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Priesthood"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 24:5-8 says twelve loaves were set out in two rows on the table before the Lord, arranged fresh every Sabbath."
+}

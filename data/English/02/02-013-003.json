@@ -1,0 +1,29 @@
+{
+  "id": "02-013-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 13,
+  "verse_reference": "Exodus 13:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What kind of bread were the Israelites to eat for seven days?",
+  "options": [
+    "Bread without yeast",
+    "Bread made with honey",
+    "Bread baked with oil",
+    "Bread mixed with fruit"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "For seven days they were to eat bread made without yeast, and no yeast was to be found among them."
+}

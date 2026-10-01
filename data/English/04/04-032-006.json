@@ -1,0 +1,29 @@
+{
+  "id": "04-032-006",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 32,
+  "verse_reference": "Numbers 32:33",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Besides Reuben and Gad, which group also received land east of the Jordan?",
+  "options": [
+    "The tribe of Levi",
+    "The tribe of Judah",
+    "The tribe of Simeon",
+    "Half the tribe of Manasseh"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses gave the land to Reuben, Gad, and the half-tribe of Manasseh, dividing the kingdoms of Sihon and Og among them."
+}

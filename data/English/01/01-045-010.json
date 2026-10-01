@@ -1,0 +1,32 @@
+{
+  "id": "01-045-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 45,
+  "verse_reference": "Genesis 45:26-28",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Jacob react when he learned that Joseph was still alive?",
+  "options": [
+    "He refused to believe and stayed sad",
+    "He was stunned at first, then his spirit revived when he believed",
+    "He immediately fell ill",
+    "He sent the brothers back to Egypt alone"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Hope"
+  ],
+  "characters": [
+    "Jacob",
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob was stunned and did not believe them at first, but when he saw the wagons Joseph had sent, his spirit revived and he resolved to go see his son."
+}

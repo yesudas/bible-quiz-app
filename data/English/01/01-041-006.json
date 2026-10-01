@@ -1,0 +1,31 @@
+{
+  "id": "01-041-006",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 41,
+  "verse_reference": "Genesis 41:25-27",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the seven good cows and seven good heads of grain represent?",
+  "options": [
+    "Seven years of plenty",
+    "Seven years of famine",
+    "Seven kings of Egypt",
+    "Seven rivers"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph explained that the seven good cows and seven good heads of grain both meant seven years of plenty coming to Egypt."
+}

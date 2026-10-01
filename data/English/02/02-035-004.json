@@ -1,0 +1,30 @@
+{
+  "id": "02-035-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 35,
+  "verse_reference": "Exodus 35:30-31",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whom did Moses say God had chosen and filled with His Spirit for the work?",
+  "options": [
+    "Aaron",
+    "Bezalel",
+    "Joshua",
+    "Hur"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Bezalel"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses said God had chosen Bezalel and filled him with the Spirit of God, with skill, ability, and knowledge in all kinds of crafts."
+}

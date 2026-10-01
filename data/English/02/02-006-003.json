@@ -1,0 +1,31 @@
+{
+  "id": "02-006-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 6,
+  "verse_reference": "Exodus 6:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the Israelites not listen to Moses' message from God?",
+  "options": [
+    "They were busy working",
+    "They were discouraged by their harsh slavery",
+    "They did not believe in God",
+    "They had left Egypt already"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Faith"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites did not listen to Moses because of their discouragement and cruel slavery."
+}

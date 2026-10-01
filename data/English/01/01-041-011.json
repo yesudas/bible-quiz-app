@@ -1,0 +1,29 @@
+{
+  "id": "01-041-011",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 41,
+  "verse_reference": "Genesis 41:45",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What new name did Pharaoh give to Joseph?",
+  "options": [
+    "Zaphenath-Paneah",
+    "Potiphera",
+    "Asenath",
+    "Melchizedek"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh gave Joseph the name Zaphenath-Paneah and gave him Asenath as his wife."
+}

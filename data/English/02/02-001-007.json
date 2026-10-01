@@ -1,0 +1,29 @@
+{
+  "id": "02-001-007",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 1,
+  "verse_reference": "Exodus 1:22",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Pharaoh command that the Hebrew baby boys be thrown?",
+  "options": [
+    "Into the Nile River",
+    "Into the Red Sea",
+    "Into the desert",
+    "Into a pit"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Suffering"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh ordered that every Hebrew baby boy be thrown into the Nile River, while the girls were allowed to live."
+}

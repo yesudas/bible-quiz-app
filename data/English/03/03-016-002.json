@@ -1,0 +1,32 @@
+{
+  "id": "03-016-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 16,
+  "verse_reference": "Leviticus 16:2-3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who alone could enter the Most Holy Place on the Day of Atonement?",
+  "options": [
+    "Any priest",
+    "Moses",
+    "The high priest, Aaron",
+    "The elders of Israel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Priesthood",
+    "Atonement",
+    "Holiness"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 16:2-3 shows that only Aaron, the high priest, could enter the Most Holy Place, and only in the prescribed way."
+}

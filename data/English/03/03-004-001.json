@@ -1,0 +1,32 @@
+{
+  "id": "03-004-001",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 4,
+  "verse_reference": "Leviticus 4:1-3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What kind of offering is described in Leviticus 4?",
+  "options": [
+    "The grain offering",
+    "The sin offering",
+    "The burnt offering",
+    "The fellowship offering"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Forgiveness",
+    "Sacrifice",
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 4 gives the instructions for the sin offering, which was brought when someone sinned unintentionally."
+}

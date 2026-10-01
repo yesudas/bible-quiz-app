@@ -1,0 +1,30 @@
+{
+  "id": "02-039-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 39,
+  "verse_reference": "Exodus 39:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "For whom were the sacred woven garments made?",
+  "options": [
+    "Moses, for leading the people",
+    "The elders of Israel",
+    "Aaron and his sons, for serving as priests",
+    "The skilled craftsmen"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The sacred garments were made for Aaron to wear when serving as priest, just as the LORD had commanded Moses."
+}

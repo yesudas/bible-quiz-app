@@ -1,0 +1,28 @@
+{
+  "id": "02-022-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 22,
+  "verse_reference": "Exodus 22:26-27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "If someone took a neighbor's cloak as a pledge, what were they to do?",
+  "options": [
+    "Keep it until the debt was paid",
+    "Sell it in the market",
+    "Return it by sunset because it was their covering",
+    "Give it to the priests"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Love"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A cloak taken as a pledge had to be returned by sunset, because it was the person's only covering to sleep in, and God is compassionate."
+}

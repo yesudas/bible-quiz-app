@@ -1,0 +1,32 @@
+{
+  "id": "01-010-002",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 10,
+  "verse_reference": "उत्पत्ति 10:6",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "हाम के चार पुत्र कौन-कौन से थे?",
+  "options": [
+    "गोमेर, मागोग, मादै और यावान",
+    "कूश, मिस्र, पूत और कनान",
+    "एलाम, अश्शूर, अरपक्षद और लूद",
+    "ऊज, हूल, गेतेर और मश"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "वंशावली",
+    "जातियाँ"
+  ],
+  "characters": [
+    "हाम"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "उत्पत्ति 10:6 के अनुसार हाम के पुत्र कूश, मिस्र, पूत और कनान थे।"
+}

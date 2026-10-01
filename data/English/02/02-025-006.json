@@ -1,0 +1,28 @@
+{
+  "id": "02-025-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 25,
+  "verse_reference": "Exodus 25:30",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was to be kept on the table in the tabernacle?",
+  "options": [
+    "Bowls of water",
+    "Baskets of fruit",
+    "Jars of oil",
+    "The bread of the Presence"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The bread of the Presence was to be placed on the table before the LORD at all times."
+}

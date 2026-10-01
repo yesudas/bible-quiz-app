@@ -1,0 +1,31 @@
+{
+  "id": "01-001-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 1,
+  "verse_reference": "Genesis 1:3-5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did God create on the first day?",
+  "options": [
+    "Light",
+    "The stars",
+    "The animals",
+    "Dry land"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On the first day God said, 'Let there be light,' and He separated the light from the darkness."
+}

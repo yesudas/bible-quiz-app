@@ -1,0 +1,32 @@
+{
+  "id": "01-024-012",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 24,
+  "verse_reference": "Genesis 24:63-64",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Isaac doing in the field when Rebekah arrived?",
+  "options": [
+    "Tending his sheep",
+    "Building an altar",
+    "Meditating in the evening",
+    "Digging a well"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Marriage"
+  ],
+  "characters": [
+    "Isaac",
+    "Rebekah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaac had gone out to the field to meditate in the evening when he looked up and saw the camels approaching."
+}

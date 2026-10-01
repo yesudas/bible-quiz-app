@@ -1,0 +1,31 @@
+{
+  "id": "03-021-002",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 21,
+  "verse_reference": "Leviticus 21:16-21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What kept a descendant of Aaron from presenting the food offerings to God?",
+  "options": [
+    "Being too young",
+    "Having a physical defect",
+    "Living far from the tabernacle",
+    "Owning too little land"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Priesthood",
+    "Holiness",
+    "Worship"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 21:17-21 says a descendant of Aaron who had a physical defect was not to come near to present the offerings, though he could still eat the priestly food."
+}

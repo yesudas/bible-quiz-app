@@ -1,0 +1,31 @@
+{
+  "id": "01-001-005",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 1,
+  "verse_reference": "Genesis 1:20-23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What living creatures did God create on the fifth day?",
+  "options": [
+    "Cattle and creeping things",
+    "Trees and plants",
+    "Fish in the water and birds in the sky",
+    "People"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On the fifth day God created the creatures of the sea and the birds that fly in the sky."
+}

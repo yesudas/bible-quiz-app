@@ -1,0 +1,32 @@
+{
+  "id": "01-037-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 37,
+  "verse_reference": "Genesis 37:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What special gift did Jacob give to Joseph?",
+  "options": [
+    "An ornate robe",
+    "A flock of sheep",
+    "A ring of gold",
+    "A sword"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Joseph",
+    "Jacob"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob made Joseph an ornate robe, a sign of the special favor he showed him."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "01-029-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 29,
+  "verse_reference": "Genesis 29:16-17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How does the chapter describe the difference between Leah and Rachel?",
+  "options": [
+    "Leah was older and Rachel was younger",
+    "Leah was a shepherd and Rachel was not",
+    "Leah lived far away",
+    "Leah was married already"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Leah",
+    "Rachel"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leah was the older daughter and Rachel the younger, and the chapter notes that Rachel was lovely in form and beautiful."
+}

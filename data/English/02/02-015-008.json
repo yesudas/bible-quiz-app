@@ -1,0 +1,27 @@
+{
+  "id": "02-015-008",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 15,
+  "verse_reference": "Exodus 15:27",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the Israelites find when they came to Elim?",
+  "options": [
+    "A great walled city",
+    "A field of manna",
+    "Twelve springs and seventy palm trees",
+    "An army waiting for them"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At Elim there were twelve springs of water and seventy palm trees, where the Israelites camped near the water."
+}

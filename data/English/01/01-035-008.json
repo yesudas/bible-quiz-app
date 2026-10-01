@@ -1,0 +1,32 @@
+{
+  "id": "01-035-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 35,
+  "verse_reference": "Genesis 35:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What name did Rachel give her son as she was dying, and what did Jacob call him instead?",
+  "options": [
+    "She called him Ben-Oni, but Jacob named him Benjamin",
+    "She called him Joseph, but Jacob named him Israel",
+    "She called him Benjamin, but Jacob named him Ben-Oni",
+    "She called him Reuben, but Jacob named him Levi"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Suffering"
+  ],
+  "characters": [
+    "Rachel",
+    "Benjamin",
+    "Jacob"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As she died, Rachel named her son Ben-Oni, meaning son of my trouble, but his father called him Benjamin."
+}

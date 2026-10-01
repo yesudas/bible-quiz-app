@@ -1,0 +1,32 @@
+{
+  "id": "02-005-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 5,
+  "verse_reference": "Exodus 5:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Pharaoh respond to the command to let Israel go?",
+  "options": [
+    "He said he did not know the LORD and refused",
+    "He agreed at once",
+    "He asked for time to think",
+    "He offered them gifts"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh said he did not know the LORD and would not let Israel go."
+}

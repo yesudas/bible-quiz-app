@@ -1,0 +1,30 @@
+{
+  "id": "03-017-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 17,
+  "verse_reference": "Leviticus 17:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "The Lord said, 'For the life of a creature is in the ______.'",
+  "options": [
+    "breath",
+    "heart",
+    "blood",
+    "spirit"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Atonement",
+    "Holiness"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 17:11 says the life of a creature is in the blood, which is why blood was given for making atonement."
+}

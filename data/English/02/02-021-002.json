@@ -1,0 +1,27 @@
+{
+  "id": "02-021-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 21,
+  "verse_reference": "Exodus 21:5-6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was done to a servant who chose to stay with his master for life?",
+  "options": [
+    "He was given a new name",
+    "His ear was pierced with an awl at the doorpost",
+    "He was marked on the hand",
+    "He wore a special robe"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "If a servant loved his master and did not want to go free, his master pierced his ear with an awl at the doorpost, and he served for life."
+}

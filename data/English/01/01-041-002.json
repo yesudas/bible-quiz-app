@@ -1,0 +1,30 @@
+{
+  "id": "01-041-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 41,
+  "verse_reference": "Genesis 41:5-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Pharaoh's second dream, what happened to the seven healthy heads of grain?",
+  "options": [
+    "They were swallowed by seven thin heads of grain",
+    "They were burned by the sun",
+    "They were eaten by birds",
+    "They fell to the ground"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Seven thin heads of grain, scorched by the east wind, swallowed up the seven healthy and full heads."
+}

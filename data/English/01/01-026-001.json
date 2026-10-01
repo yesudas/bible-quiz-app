@@ -1,0 +1,31 @@
+{
+  "id": "01-026-001",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 26,
+  "verse_reference": "Genesis 26:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did Isaac go to Gerar during a famine?",
+  "options": [
+    "The LORD told him not to go to Egypt but to stay in that land",
+    "He was looking for new flocks",
+    "He wanted to visit his brother",
+    "He was fleeing from enemies"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Obedience"
+  ],
+  "characters": [
+    "Isaac"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When a famine came, the LORD appeared to Isaac and told him not to go down to Egypt but to stay in the land He would show him."
+}

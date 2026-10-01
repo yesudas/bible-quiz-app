@@ -1,0 +1,29 @@
+{
+  "id": "02-009-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 9,
+  "verse_reference": "Exodus 9:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What happened to the livestock belonging to the Israelites?",
+  "options": [
+    "All of them died",
+    "Not one of them died",
+    "Half of them died",
+    "They were taken by Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Judgment"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Egyptian livestock died, but not one animal belonging to the Israelites died, showing God's protection."
+}

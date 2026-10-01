@@ -1,0 +1,30 @@
+{
+  "id": "02-010-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 10,
+  "verse_reference": "Exodus 10:23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was different for the Israelites during the plague of darkness?",
+  "options": [
+    "They had light where they lived",
+    "They also lived in darkness",
+    "They left Egypt during it",
+    "They could not move at all"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Judgment"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While thick darkness covered Egypt, the Israelites had light in the places where they lived."
+}

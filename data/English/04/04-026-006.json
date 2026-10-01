@@ -1,0 +1,33 @@
+{
+  "id": "04-026-006",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 26,
+  "verse_reference": "Numbers 26:64-65",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Which two men from the first census were still alive to be counted again?",
+  "options": [
+    "Moses and Aaron",
+    "Eleazar and Ithamar",
+    "Dathan and Abiram",
+    "Caleb and Joshua"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Promise",
+    "Judgment"
+  ],
+  "characters": [
+    "Caleb",
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Only Caleb and Joshua remained, for the Lord had said that all the others counted in the first census would die in the wilderness."
+}

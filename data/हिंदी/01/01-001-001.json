@@ -1,0 +1,31 @@
+{
+  "id": "01-001-001",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 1,
+  "verse_reference": "उत्पत्ति 1:1",
+  "question_type": "DIRECT",
+  "difficulty": "Easy",
+  "question": "आदि में परमेश्वर ने किन दो वस्तुओं की सृष्टि की?",
+  "options": [
+    "सूर्य और चन्द्रमा",
+    "आकाश और पृथ्वी",
+    "पेड़ और पौधे",
+    "मनुष्य और जीव-जन्तु"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "सृष्टि",
+    "परमेश्वर की सामर्थ्य"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "उत्पत्ति 1:1 में लिखा है कि आदि में परमेश्वर ने आकाश और पृथ्वी की सृष्टि की।"
+}

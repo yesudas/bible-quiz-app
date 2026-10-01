@@ -1,0 +1,32 @@
+{
+  "id": "04-001-006",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 1,
+  "verse_reference": "Numbers 1:47-49",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which tribe was not counted with the others in this census?",
+  "options": [
+    "The tribe of Judah",
+    "The tribe of Levi",
+    "The tribe of Reuben",
+    "The tribe of Benjamin"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Levites were not counted with the others because God set them apart for a different duty."
+}

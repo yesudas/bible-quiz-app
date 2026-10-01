@@ -1,0 +1,29 @@
+{
+  "id": "02-040-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 40,
+  "verse_reference": "Exodus 40:36-37",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the Israelites know when to travel and when to stay?",
+  "options": [
+    "They followed a set calendar",
+    "They waited for Moses to decide alone",
+    "They traveled every seven days",
+    "They moved when the cloud lifted and stayed when it did not"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Promise"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Whenever the cloud lifted from the tabernacle, the Israelites set out; if it did not lift, they stayed until it did."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "04-029-005",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 29,
+  "verse_reference": "Numbers 29:13-32",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was special about the number of bulls offered each day of the Festival of Tabernacles?",
+  "options": [
+    "The number stayed the same each day",
+    "The number decreased by one each day",
+    "The number doubled each day",
+    "No bulls were offered"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The offering started with thirteen bulls on the first day and decreased by one each day, down to seven bulls on the seventh day."
+}

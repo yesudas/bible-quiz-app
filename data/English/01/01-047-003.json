@@ -1,0 +1,31 @@
+{
+  "id": "01-047-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 47,
+  "verse_reference": "Genesis 47:7-10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jacob do when he was brought before Pharaoh?",
+  "options": [
+    "He blessed Pharaoh",
+    "He bowed silently",
+    "He asked for gold",
+    "He refused to speak"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob was brought before Pharaoh, and he blessed Pharaoh both when he came in and when he left."
+}

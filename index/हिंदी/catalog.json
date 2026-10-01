@@ -1,0 +1,2041 @@
+{
+    "language": "हिंदी",
+    "question_count": 420,
+    "books": [
+        {
+            "no": 1,
+            "key": "01",
+            "name": "उत्पत्ति",
+            "chapters": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50
+            ],
+            "question_count": 420
+        }
+    ],
+    "topics": [
+        {
+            "slug": "अंतिम-संस्कार",
+            "label": "अंतिम संस्कार",
+            "question_count": 1
+        },
+        {
+            "slug": "अकाल",
+            "label": "अकाल",
+            "question_count": 5
+        },
+        {
+            "slug": "अगुवाई",
+            "label": "अगुवाई",
+            "question_count": 2
+        },
+        {
+            "slug": "अतिथि-सत्कार",
+            "label": "अतिथि-सत्कार",
+            "question_count": 4
+        },
+        {
+            "slug": "अधिकार",
+            "label": "अधिकार",
+            "question_count": 7
+        },
+        {
+            "slug": "अनादर",
+            "label": "अनादर",
+            "question_count": 1
+        },
+        {
+            "slug": "अनुग्रह",
+            "label": "अनुग्रह",
+            "question_count": 4
+        },
+        {
+            "slug": "अर्थव्यवस्था",
+            "label": "अर्थव्यवस्था",
+            "question_count": 1
+        },
+        {
+            "slug": "अविश्वास",
+            "label": "अविश्वास",
+            "question_count": 1
+        },
+        {
+            "slug": "आज्ञा",
+            "label": "आज्ञा",
+            "question_count": 6
+        },
+        {
+            "slug": "आज्ञा-उल्लंघन",
+            "label": "आज्ञा-उल्लंघन",
+            "question_count": 3
+        },
+        {
+            "slug": "आज्ञाकारिता",
+            "label": "आज्ञाकारिता",
+            "question_count": 22
+        },
+        {
+            "slug": "आदर",
+            "label": "आदर",
+            "question_count": 6
+        },
+        {
+            "slug": "आनन्द",
+            "label": "आनन्द",
+            "question_count": 2
+        },
+        {
+            "slug": "आभार",
+            "label": "आभार",
+            "question_count": 1
+        },
+        {
+            "slug": "आयु",
+            "label": "आयु",
+            "question_count": 11
+        },
+        {
+            "slug": "आराधना",
+            "label": "आराधना",
+            "question_count": 16
+        },
+        {
+            "slug": "आशा",
+            "label": "आशा",
+            "question_count": 2
+        },
+        {
+            "slug": "आशीष",
+            "label": "आशीष",
+            "question_count": 26
+        },
+        {
+            "slug": "आश्चर्य",
+            "label": "आश्चर्य",
+            "question_count": 2
+        },
+        {
+            "slug": "इतिहास",
+            "label": "इतिहास",
+            "question_count": 77
+        },
+        {
+            "slug": "ईमानदारी",
+            "label": "ईमानदारी",
+            "question_count": 4
+        },
+        {
+            "slug": "ईर्ष्या",
+            "label": "ईर्ष्या",
+            "question_count": 3
+        },
+        {
+            "slug": "उत्तरदायित्व",
+            "label": "उत्तरदायित्व",
+            "question_count": 2
+        },
+        {
+            "slug": "उत्तराधिकार",
+            "label": "उत्तराधिकार",
+            "question_count": 5
+        },
+        {
+            "slug": "उद्धार",
+            "label": "उद्धार",
+            "question_count": 19
+        },
+        {
+            "slug": "उद्धार-की-आशा",
+            "label": "उद्धार की आशा",
+            "question_count": 1
+        },
+        {
+            "slug": "उन्नति",
+            "label": "उन्नति",
+            "question_count": 3
+        },
+        {
+            "slug": "उपमा",
+            "label": "उपमा",
+            "question_count": 2
+        },
+        {
+            "slug": "उपहार",
+            "label": "उपहार",
+            "question_count": 3
+        },
+        {
+            "slug": "कब्र",
+            "label": "कब्र",
+            "question_count": 2
+        },
+        {
+            "slug": "कमजोरी",
+            "label": "कमजोरी",
+            "question_count": 4
+        },
+        {
+            "slug": "कमी",
+            "label": "कमी",
+            "question_count": 2
+        },
+        {
+            "slug": "कर",
+            "label": "कर",
+            "question_count": 1
+        },
+        {
+            "slug": "कष्ट",
+            "label": "कष्ट",
+            "question_count": 4
+        },
+        {
+            "slug": "कार्य",
+            "label": "कार्य",
+            "question_count": 3
+        },
+        {
+            "slug": "क्रम",
+            "label": "क्रम",
+            "question_count": 1
+        },
+        {
+            "slug": "क्रय",
+            "label": "क्रय",
+            "question_count": 2
+        },
+        {
+            "slug": "क्रोध",
+            "label": "क्रोध",
+            "question_count": 3
+        },
+        {
+            "slug": "क्षतिपूर्ति",
+            "label": "क्षतिपूर्ति",
+            "question_count": 1
+        },
+        {
+            "slug": "क्षमा",
+            "label": "क्षमा",
+            "question_count": 4
+        },
+        {
+            "slug": "खतना",
+            "label": "खतना",
+            "question_count": 1
+        },
+        {
+            "slug": "खोज",
+            "label": "खोज",
+            "question_count": 1
+        },
+        {
+            "slug": "गलतफहमी",
+            "label": "गलतफहमी",
+            "question_count": 1
+        },
+        {
+            "slug": "गवाही",
+            "label": "गवाही",
+            "question_count": 3
+        },
+        {
+            "slug": "गुलामी",
+            "label": "गुलामी",
+            "question_count": 1
+        },
+        {
+            "slug": "घमण्ड",
+            "label": "घमण्ड",
+            "question_count": 1
+        },
+        {
+            "slug": "चंगाई",
+            "label": "चंगाई",
+            "question_count": 1
+        },
+        {
+            "slug": "चमत्कार",
+            "label": "चमत्कार",
+            "question_count": 2
+        },
+        {
+            "slug": "चरित्र",
+            "label": "चरित्र",
+            "question_count": 5
+        },
+        {
+            "slug": "चिन्ह",
+            "label": "चिन्ह",
+            "question_count": 3
+        },
+        {
+            "slug": "चुनाव",
+            "label": "चुनाव",
+            "question_count": 1
+        },
+        {
+            "slug": "चेतावनी",
+            "label": "चेतावनी",
+            "question_count": 6
+        },
+        {
+            "slug": "चोरी",
+            "label": "चोरी",
+            "question_count": 1
+        },
+        {
+            "slug": "छल",
+            "label": "छल",
+            "question_count": 1
+        },
+        {
+            "slug": "जन्म",
+            "label": "जन्म",
+            "question_count": 1
+        },
+        {
+            "slug": "जलप्रलय",
+            "label": "जलप्रलय",
+            "question_count": 5
+        },
+        {
+            "slug": "जातियाँ",
+            "label": "जातियाँ",
+            "question_count": 4
+        },
+        {
+            "slug": "जीवन",
+            "label": "जीवन",
+            "question_count": 1
+        },
+        {
+            "slug": "जीवन-की-पवित्रता",
+            "label": "जीवन की पवित्रता",
+            "question_count": 1
+        },
+        {
+            "slug": "जेठापन",
+            "label": "जेठापन",
+            "question_count": 1
+        },
+        {
+            "slug": "ज्योति",
+            "label": "ज्योति",
+            "question_count": 1
+        },
+        {
+            "slug": "झूठ",
+            "label": "झूठ",
+            "question_count": 1
+        },
+        {
+            "slug": "झूठा-दोषारोपण",
+            "label": "झूठा दोषारोपण",
+            "question_count": 1
+        },
+        {
+            "slug": "डांट",
+            "label": "डांट",
+            "question_count": 1
+        },
+        {
+            "slug": "ढाढ़स",
+            "label": "ढाढ़स",
+            "question_count": 1
+        },
+        {
+            "slug": "दण्ड",
+            "label": "दण्ड",
+            "question_count": 5
+        },
+        {
+            "slug": "दत्तक",
+            "label": "दत्तक",
+            "question_count": 1
+        },
+        {
+            "slug": "दफन",
+            "label": "दफन",
+            "question_count": 5
+        },
+        {
+            "slug": "दया",
+            "label": "दया",
+            "question_count": 10
+        },
+        {
+            "slug": "दर्शन",
+            "label": "दर्शन",
+            "question_count": 3
+        },
+        {
+            "slug": "दशमांश",
+            "label": "दशमांश",
+            "question_count": 2
+        },
+        {
+            "slug": "देखभाल",
+            "label": "देखभाल",
+            "question_count": 1
+        },
+        {
+            "slug": "दोष-भावना",
+            "label": "दोष-भावना",
+            "question_count": 1
+        },
+        {
+            "slug": "दोषारोपण",
+            "label": "दोषारोपण",
+            "question_count": 1
+        },
+        {
+            "slug": "धन-सम्पत्ति",
+            "label": "धन-सम्पत्ति",
+            "question_count": 1
+        },
+        {
+            "slug": "धन्यवाद",
+            "label": "धन्यवाद",
+            "question_count": 2
+        },
+        {
+            "slug": "धार्मिकता",
+            "label": "धार्मिकता",
+            "question_count": 4
+        },
+        {
+            "slug": "धैर्य",
+            "label": "धैर्य",
+            "question_count": 2
+        },
+        {
+            "slug": "धोखा",
+            "label": "धोखा",
+            "question_count": 8
+        },
+        {
+            "slug": "ध्यान",
+            "label": "ध्यान",
+            "question_count": 1
+        },
+        {
+            "slug": "नदी",
+            "label": "नदी",
+            "question_count": 1
+        },
+        {
+            "slug": "नबी",
+            "label": "नबी",
+            "question_count": 1
+        },
+        {
+            "slug": "नम्रता",
+            "label": "नम्रता",
+            "question_count": 6
+        },
+        {
+            "slug": "नामकरण",
+            "label": "नामकरण",
+            "question_count": 28
+        },
+        {
+            "slug": "नायकत्व",
+            "label": "नायकत्व",
+            "question_count": 1
+        },
+        {
+            "slug": "निर्णय",
+            "label": "निर्णय",
+            "question_count": 1
+        },
+        {
+            "slug": "निर्माण",
+            "label": "निर्माण",
+            "question_count": 1
+        },
+        {
+            "slug": "न्याय",
+            "label": "न्याय",
+            "question_count": 31
+        },
+        {
+            "slug": "परमेश्वर-का-प्रकटीकरण",
+            "label": "परमेश्वर का प्रकटीकरण",
+            "question_count": 1
+        },
+        {
+            "slug": "परमेश्वर-का-प्रबन्ध",
+            "label": "परमेश्वर का प्रबन्ध",
+            "question_count": 5
+        },
+        {
+            "slug": "परमेश्वर-का-भय",
+            "label": "परमेश्वर का भय",
+            "question_count": 4
+        },
+        {
+            "slug": "परमेश्वर-का-संप्रभु-अनुग्रह",
+            "label": "परमेश्वर का संप्रभु अनुग्रह",
+            "question_count": 1
+        },
+        {
+            "slug": "परमेश्वर-का-स्वरूप",
+            "label": "परमेश्वर का स्वरूप",
+            "question_count": 1
+        },
+        {
+            "slug": "परमेश्वर-की-इच्छा",
+            "label": "परमेश्वर की इच्छा",
+            "question_count": 2
+        },
+        {
+            "slug": "परमेश्वर-की-उपस्थिति",
+            "label": "परमेश्वर की उपस्थिति",
+            "question_count": 3
+        },
+        {
+            "slug": "परमेश्वर-की-चेतावनी",
+            "label": "परमेश्वर की चेतावनी",
+            "question_count": 1
+        },
+        {
+            "slug": "परमेश्वर-की-देखभाल",
+            "label": "परमेश्वर की देखभाल",
+            "question_count": 2
+        },
+        {
+            "slug": "परमेश्वर-की-महिमा",
+            "label": "परमेश्वर की महिमा",
+            "question_count": 1
+        },
+        {
+            "slug": "परमेश्वर-की-योजना",
+            "label": "परमेश्वर की योजना",
+            "question_count": 2
+        },
+        {
+            "slug": "परमेश्वर-की-संप्रभुता",
+            "label": "परमेश्वर की संप्रभुता",
+            "question_count": 2
+        },
+        {
+            "slug": "परमेश्वर-की-सामर्थ्य",
+            "label": "परमेश्वर की सामर्थ्य",
+            "question_count": 5
+        },
+        {
+            "slug": "परमेश्वर-की-सुरक्षा",
+            "label": "परमेश्वर की सुरक्षा",
+            "question_count": 1
+        },
+        {
+            "slug": "परमेश्वर-पर-निर्भरता",
+            "label": "परमेश्वर पर निर्भरता",
+            "question_count": 1
+        },
+        {
+            "slug": "परिवार",
+            "label": "परिवार",
+            "question_count": 85
+        },
+        {
+            "slug": "परिश्रम",
+            "label": "परिश्रम",
+            "question_count": 1
+        },
+        {
+            "slug": "परीक्षा",
+            "label": "परीक्षा",
+            "question_count": 23
+        },
+        {
+            "slug": "परीक्षा-पर-जय",
+            "label": "परीक्षा पर जय",
+            "question_count": 1
+        },
+        {
+            "slug": "पवित्र-स्थान",
+            "label": "पवित्र स्थान",
+            "question_count": 1
+        },
+        {
+            "slug": "पवित्रता",
+            "label": "पवित्रता",
+            "question_count": 4
+        },
+        {
+            "slug": "पवित्रीकरण",
+            "label": "पवित्रीकरण",
+            "question_count": 1
+        },
+        {
+            "slug": "पश्चाताप",
+            "label": "पश्चाताप",
+            "question_count": 1
+        },
+        {
+            "slug": "पहचान",
+            "label": "पहचान",
+            "question_count": 1
+        },
+        {
+            "slug": "पहिलौठापन",
+            "label": "पहिलौठापन",
+            "question_count": 1
+        },
+        {
+            "slug": "पाप",
+            "label": "पाप",
+            "question_count": 16
+        },
+        {
+            "slug": "पाप-से-भागना",
+            "label": "पाप से भागना",
+            "question_count": 1
+        },
+        {
+            "slug": "पारिश्रमिक",
+            "label": "पारिश्रमिक",
+            "question_count": 1
+        },
+        {
+            "slug": "पीछा-करना",
+            "label": "पीछा करना",
+            "question_count": 1
+        },
+        {
+            "slug": "पुनर्मिलन",
+            "label": "पुनर्मिलन",
+            "question_count": 2
+        },
+        {
+            "slug": "प्रकटीकरण",
+            "label": "प्रकटीकरण",
+            "question_count": 8
+        },
+        {
+            "slug": "प्रचुरता",
+            "label": "प्रचुरता",
+            "question_count": 3
+        },
+        {
+            "slug": "प्रतिज्ञा",
+            "label": "प्रतिज्ञा",
+            "question_count": 29
+        },
+        {
+            "slug": "प्रतिशोध",
+            "label": "प्रतिशोध",
+            "question_count": 2
+        },
+        {
+            "slug": "प्रबंध",
+            "label": "प्रबंध",
+            "question_count": 3
+        },
+        {
+            "slug": "प्रबन्ध",
+            "label": "प्रबन्ध",
+            "question_count": 8
+        },
+        {
+            "slug": "प्रभुता",
+            "label": "प्रभुता",
+            "question_count": 1
+        },
+        {
+            "slug": "प्रायश्चित",
+            "label": "प्रायश्चित",
+            "question_count": 1
+        },
+        {
+            "slug": "प्रार्थना",
+            "label": "प्रार्थना",
+            "question_count": 11
+        },
+        {
+            "slug": "प्रार्थना-का-उत्तर",
+            "label": "प्रार्थना का उत्तर",
+            "question_count": 2
+        },
+        {
+            "slug": "प्रेम",
+            "label": "प्रेम",
+            "question_count": 15
+        },
+        {
+            "slug": "बचाव",
+            "label": "बचाव",
+            "question_count": 1
+        },
+        {
+            "slug": "बन्दी",
+            "label": "बन्दी",
+            "question_count": 2
+        },
+        {
+            "slug": "बन्दीगृह",
+            "label": "बन्दीगृह",
+            "question_count": 2
+        },
+        {
+            "slug": "बलिदान",
+            "label": "बलिदान",
+            "question_count": 6
+        },
+        {
+            "slug": "बीमारी",
+            "label": "बीमारी",
+            "question_count": 1
+        },
+        {
+            "slug": "बुद्धिमानी",
+            "label": "बुद्धिमानी",
+            "question_count": 9
+        },
+        {
+            "slug": "बुलाहट",
+            "label": "बुलाहट",
+            "question_count": 4
+        },
+        {
+            "slug": "भय",
+            "label": "भय",
+            "question_count": 9
+        },
+        {
+            "slug": "भरोसा",
+            "label": "भरोसा",
+            "question_count": 1
+        },
+        {
+            "slug": "भलाई",
+            "label": "भलाई",
+            "question_count": 1
+        },
+        {
+            "slug": "भविष्यद्वाणी",
+            "label": "भविष्यद्वाणी",
+            "question_count": 21
+        },
+        {
+            "slug": "भविष्यद्वाणी-की-पूर्ति",
+            "label": "भविष्यद्वाणी की पूर्ति",
+            "question_count": 2
+        },
+        {
+            "slug": "भाईचारा",
+            "label": "भाईचारा",
+            "question_count": 2
+        },
+        {
+            "slug": "भाषा",
+            "label": "भाषा",
+            "question_count": 2
+        },
+        {
+            "slug": "भूगोल",
+            "label": "भूगोल",
+            "question_count": 8
+        },
+        {
+            "slug": "भूमि",
+            "label": "भूमि",
+            "question_count": 1
+        },
+        {
+            "slug": "भूलना",
+            "label": "भूलना",
+            "question_count": 1
+        },
+        {
+            "slug": "भेंट",
+            "label": "भेंट",
+            "question_count": 5
+        },
+        {
+            "slug": "भोजन",
+            "label": "भोजन",
+            "question_count": 1
+        },
+        {
+            "slug": "मध्यस्थता",
+            "label": "मध्यस्थता",
+            "question_count": 6
+        },
+        {
+            "slug": "मनुष्य",
+            "label": "मनुष्य",
+            "question_count": 1
+        },
+        {
+            "slug": "मनुष्य-की-रचना",
+            "label": "मनुष्य की रचना",
+            "question_count": 3
+        },
+        {
+            "slug": "मन्नत",
+            "label": "मन्नत",
+            "question_count": 1
+        },
+        {
+            "slug": "मल्ल-युद्ध",
+            "label": "मल्ल-युद्ध",
+            "question_count": 1
+        },
+        {
+            "slug": "मसीह-की-भविष्यद्वाणी",
+            "label": "मसीह की भविष्यद्वाणी",
+            "question_count": 1
+        },
+        {
+            "slug": "मानव-योजना",
+            "label": "मानव योजना",
+            "question_count": 1
+        },
+        {
+            "slug": "मानव-स्वभाव",
+            "label": "मानव स्वभाव",
+            "question_count": 1
+        },
+        {
+            "slug": "मानवजाति",
+            "label": "मानवजाति",
+            "question_count": 2
+        },
+        {
+            "slug": "मूर्तिपूजा",
+            "label": "मूर्तिपूजा",
+            "question_count": 1
+        },
+        {
+            "slug": "मूर्तिपूजा-का-त्याग",
+            "label": "मूर्तिपूजा का त्याग",
+            "question_count": 1
+        },
+        {
+            "slug": "मृत्यु",
+            "label": "मृत्यु",
+            "question_count": 11
+        },
+        {
+            "slug": "मेल-मिलाप",
+            "label": "मेल-मिलाप",
+            "question_count": 5
+        },
+        {
+            "slug": "याजकपद",
+            "label": "याजकपद",
+            "question_count": 1
+        },
+        {
+            "slug": "यात्रा",
+            "label": "यात्रा",
+            "question_count": 17
+        },
+        {
+            "slug": "युद्ध",
+            "label": "युद्ध",
+            "question_count": 3
+        },
+        {
+            "slug": "योजना",
+            "label": "योजना",
+            "question_count": 5
+        },
+        {
+            "slug": "रणनीति",
+            "label": "रणनीति",
+            "question_count": 1
+        },
+        {
+            "slug": "रहस्य",
+            "label": "रहस्य",
+            "question_count": 3
+        },
+        {
+            "slug": "राजपद",
+            "label": "राजपद",
+            "question_count": 2
+        },
+        {
+            "slug": "राजा",
+            "label": "राजा",
+            "question_count": 1
+        },
+        {
+            "slug": "राज्य",
+            "label": "राज्य",
+            "question_count": 1
+        },
+        {
+            "slug": "रीति-रिवाज",
+            "label": "रीति-रिवाज",
+            "question_count": 6
+        },
+        {
+            "slug": "लूट",
+            "label": "लूट",
+            "question_count": 1
+        },
+        {
+            "slug": "वंश",
+            "label": "वंश",
+            "question_count": 2
+        },
+        {
+            "slug": "वंशावली",
+            "label": "वंशावली",
+            "question_count": 22
+        },
+        {
+            "slug": "वर्णन",
+            "label": "वर्णन",
+            "question_count": 1
+        },
+        {
+            "slug": "वाचा",
+            "label": "वाचा",
+            "question_count": 31
+        },
+        {
+            "slug": "विजय",
+            "label": "विजय",
+            "question_count": 1
+        },
+        {
+            "slug": "विनती",
+            "label": "विनती",
+            "question_count": 1
+        },
+        {
+            "slug": "विवाद",
+            "label": "विवाद",
+            "question_count": 5
+        },
+        {
+            "slug": "विवाह",
+            "label": "विवाह",
+            "question_count": 14
+        },
+        {
+            "slug": "विश्राम",
+            "label": "विश्राम",
+            "question_count": 1
+        },
+        {
+            "slug": "विश्रामदिन",
+            "label": "विश्रामदिन",
+            "question_count": 1
+        },
+        {
+            "slug": "विश्वास",
+            "label": "विश्वास",
+            "question_count": 23
+        },
+        {
+            "slug": "विश्वासघात",
+            "label": "विश्वासघात",
+            "question_count": 1
+        },
+        {
+            "slug": "विश्वासयोग्यता",
+            "label": "विश्वासयोग्यता",
+            "question_count": 4
+        },
+        {
+            "slug": "वेदी",
+            "label": "वेदी",
+            "question_count": 4
+        },
+        {
+            "slug": "व्यवसाय",
+            "label": "व्यवसाय",
+            "question_count": 1
+        },
+        {
+            "slug": "व्यवस्था",
+            "label": "व्यवस्था",
+            "question_count": 5
+        },
+        {
+            "slug": "शपथ",
+            "label": "शपथ",
+            "question_count": 3
+        },
+        {
+            "slug": "शर्म",
+            "label": "शर्म",
+            "question_count": 1
+        },
+        {
+            "slug": "शांति",
+            "label": "शांति",
+            "question_count": 3
+        },
+        {
+            "slug": "शान्ति",
+            "label": "शान्ति",
+            "question_count": 5
+        },
+        {
+            "slug": "शाप",
+            "label": "शाप",
+            "question_count": 2
+        },
+        {
+            "slug": "शोक",
+            "label": "शोक",
+            "question_count": 9
+        },
+        {
+            "slug": "संकट",
+            "label": "संकट",
+            "question_count": 1
+        },
+        {
+            "slug": "संख्या",
+            "label": "संख्या",
+            "question_count": 1
+        },
+        {
+            "slug": "संवाद",
+            "label": "संवाद",
+            "question_count": 1
+        },
+        {
+            "slug": "संस्कृति",
+            "label": "संस्कृति",
+            "question_count": 1
+        },
+        {
+            "slug": "सच्चाई",
+            "label": "सच्चाई",
+            "question_count": 5
+        },
+        {
+            "slug": "सत्कार",
+            "label": "सत्कार",
+            "question_count": 1
+        },
+        {
+            "slug": "सन्तान",
+            "label": "सन्तान",
+            "question_count": 2
+        },
+        {
+            "slug": "सन्धि",
+            "label": "सन्धि",
+            "question_count": 1
+        },
+        {
+            "slug": "सफलता",
+            "label": "सफलता",
+            "question_count": 1
+        },
+        {
+            "slug": "समझौता",
+            "label": "समझौता",
+            "question_count": 1
+        },
+        {
+            "slug": "समर्पण",
+            "label": "समर्पण",
+            "question_count": 1
+        },
+        {
+            "slug": "सम्पत्ति",
+            "label": "सम्पत्ति",
+            "question_count": 2
+        },
+        {
+            "slug": "सम्मान",
+            "label": "सम्मान",
+            "question_count": 1
+        },
+        {
+            "slug": "सलाह",
+            "label": "सलाह",
+            "question_count": 1
+        },
+        {
+            "slug": "सांत्वना",
+            "label": "सांत्वना",
+            "question_count": 1
+        },
+        {
+            "slug": "साक्ष्य",
+            "label": "साक्ष्य",
+            "question_count": 1
+        },
+        {
+            "slug": "सामर्थ्य",
+            "label": "सामर्थ्य",
+            "question_count": 1
+        },
+        {
+            "slug": "साहस",
+            "label": "साहस",
+            "question_count": 1
+        },
+        {
+            "slug": "सीमाएँ",
+            "label": "सीमाएँ",
+            "question_count": 1
+        },
+        {
+            "slug": "सुरक्षा",
+            "label": "सुरक्षा",
+            "question_count": 13
+        },
+        {
+            "slug": "सुलह",
+            "label": "सुलह",
+            "question_count": 3
+        },
+        {
+            "slug": "सृष्टि",
+            "label": "सृष्टि",
+            "question_count": 22
+        },
+        {
+            "slug": "सेवा",
+            "label": "सेवा",
+            "question_count": 3
+        },
+        {
+            "slug": "सौदा",
+            "label": "सौदा",
+            "question_count": 2
+        },
+        {
+            "slug": "स्तुति",
+            "label": "स्तुति",
+            "question_count": 1
+        },
+        {
+            "slug": "स्त्री-की-रचना",
+            "label": "स्त्री की रचना",
+            "question_count": 1
+        },
+        {
+            "slug": "स्थान",
+            "label": "स्थान",
+            "question_count": 33
+        },
+        {
+            "slug": "स्नेह",
+            "label": "स्नेह",
+            "question_count": 1
+        },
+        {
+            "slug": "स्मरण",
+            "label": "स्मरण",
+            "question_count": 2
+        },
+        {
+            "slug": "स्वप्न",
+            "label": "स्वप्न",
+            "question_count": 9
+        },
+        {
+            "slug": "स्वप्न-का-अर्थ",
+            "label": "स्वप्न का अर्थ",
+            "question_count": 2
+        },
+        {
+            "slug": "स्वप्न-का-फल",
+            "label": "स्वप्न का फल",
+            "question_count": 1
+        },
+        {
+            "slug": "स्वर्गदूत",
+            "label": "स्वर्गदूत",
+            "question_count": 5
+        },
+        {
+            "slug": "स्वीकृति",
+            "label": "स्वीकृति",
+            "question_count": 2
+        },
+        {
+            "slug": "हत्या",
+            "label": "हत्या",
+            "question_count": 1
+        }
+    ],
+    "characters": [
+        {
+            "slug": "अना",
+            "label": "अना",
+            "question_count": 1
+        },
+        {
+            "slug": "अबीमेलेक",
+            "label": "अबीमेलेक",
+            "question_count": 7
+        },
+        {
+            "slug": "अब्राम",
+            "label": "अब्राम",
+            "question_count": 35
+        },
+        {
+            "slug": "अमालेक",
+            "label": "अमालेक",
+            "question_count": 1
+        },
+        {
+            "slug": "आदम",
+            "label": "आदम",
+            "question_count": 15
+        },
+        {
+            "slug": "आशेर",
+            "label": "आशेर",
+            "question_count": 1
+        },
+        {
+            "slug": "आसनत",
+            "label": "आसनत",
+            "question_count": 1
+        },
+        {
+            "slug": "इब्राहीम",
+            "label": "इब्राहीम",
+            "question_count": 49
+        },
+        {
+            "slug": "इश्माएल",
+            "label": "इश्माएल",
+            "question_count": 10
+        },
+        {
+            "slug": "इसहाक",
+            "label": "इसहाक",
+            "question_count": 36
+        },
+        {
+            "slug": "एनोश",
+            "label": "एनोश",
+            "question_count": 2
+        },
+        {
+            "slug": "एप्रैम",
+            "label": "एप्रैम",
+            "question_count": 5
+        },
+        {
+            "slug": "एप्रोन",
+            "label": "एप्रोन",
+            "question_count": 2
+        },
+        {
+            "slug": "एबेर",
+            "label": "एबेर",
+            "question_count": 1
+        },
+        {
+            "slug": "एर",
+            "label": "एर",
+            "question_count": 2
+        },
+        {
+            "slug": "एलीएजेर",
+            "label": "एलीएजेर",
+            "question_count": 1
+        },
+        {
+            "slug": "एलीपज",
+            "label": "एलीपज",
+            "question_count": 1
+        },
+        {
+            "slug": "एसाव",
+            "label": "एसाव",
+            "question_count": 22
+        },
+        {
+            "slug": "ओनान",
+            "label": "ओनान",
+            "question_count": 1
+        },
+        {
+            "slug": "कतूरा",
+            "label": "कतूरा",
+            "question_count": 1
+        },
+        {
+            "slug": "कदोर्लाओमेर",
+            "label": "कदोर्लाओमेर",
+            "question_count": 1
+        },
+        {
+            "slug": "कनान",
+            "label": "कनान",
+            "question_count": 1
+        },
+        {
+            "slug": "कैन",
+            "label": "कैन",
+            "question_count": 9
+        },
+        {
+            "slug": "गाद",
+            "label": "गाद",
+            "question_count": 1
+        },
+        {
+            "slug": "जबूलून",
+            "label": "जबूलून",
+            "question_count": 1
+        },
+        {
+            "slug": "जिल्पा",
+            "label": "जिल्पा",
+            "question_count": 1
+        },
+        {
+            "slug": "जेरह",
+            "label": "जेरह",
+            "question_count": 1
+        },
+        {
+            "slug": "तामार",
+            "label": "तामार",
+            "question_count": 6
+        },
+        {
+            "slug": "तेरह",
+            "label": "तेरह",
+            "question_count": 3
+        },
+        {
+            "slug": "दबोरा",
+            "label": "दबोरा",
+            "question_count": 1
+        },
+        {
+            "slug": "दान",
+            "label": "दान",
+            "question_count": 2
+        },
+        {
+            "slug": "दीना",
+            "label": "दीना",
+            "question_count": 4
+        },
+        {
+            "slug": "नाहोर",
+            "label": "नाहोर",
+            "question_count": 2
+        },
+        {
+            "slug": "निम्रोद",
+            "label": "निम्रोद",
+            "question_count": 2
+        },
+        {
+            "slug": "नूह",
+            "label": "नूह",
+            "question_count": 23
+        },
+        {
+            "slug": "नोह",
+            "label": "नोह",
+            "question_count": 9
+        },
+        {
+            "slug": "पीकोल",
+            "label": "पीकोल",
+            "question_count": 1
+        },
+        {
+            "slug": "पेरेस",
+            "label": "पेरेस",
+            "question_count": 1
+        },
+        {
+            "slug": "पेलेग",
+            "label": "पेलेग",
+            "question_count": 1
+        },
+        {
+            "slug": "पोतीपर्",
+            "label": "पोतीपर्",
+            "question_count": 4
+        },
+        {
+            "slug": "पोतीपेरा",
+            "label": "पोतीपेरा",
+            "question_count": 1
+        },
+        {
+            "slug": "फ़िरौन",
+            "label": "फ़िरौन",
+            "question_count": 20
+        },
+        {
+            "slug": "बतूएल",
+            "label": "बतूएल",
+            "question_count": 3
+        },
+        {
+            "slug": "बिन्यामीन",
+            "label": "बिन्यामीन",
+            "question_count": 17
+        },
+        {
+            "slug": "बिल्हा",
+            "label": "बिल्हा",
+            "question_count": 1
+        },
+        {
+            "slug": "बेला",
+            "label": "बेला",
+            "question_count": 1
+        },
+        {
+            "slug": "मतूशेलह",
+            "label": "मतूशेलह",
+            "question_count": 1
+        },
+        {
+            "slug": "मनाश्शे",
+            "label": "मनाश्शे",
+            "question_count": 5
+        },
+        {
+            "slug": "मलकीसेदक",
+            "label": "मलकीसेदक",
+            "question_count": 2
+        },
+        {
+            "slug": "यहूदा",
+            "label": "यहूदा",
+            "question_count": 18
+        },
+        {
+            "slug": "याकूब",
+            "label": "याकूब",
+            "question_count": 110
+        },
+        {
+            "slug": "यापेथ",
+            "label": "यापेथ",
+            "question_count": 4
+        },
+        {
+            "slug": "यूसुफ",
+            "label": "यूसुफ",
+            "question_count": 89
+        },
+        {
+            "slug": "रप़का",
+            "label": "रप़का",
+            "question_count": 18
+        },
+        {
+            "slug": "राहेल",
+            "label": "राहेल",
+            "question_count": 16
+        },
+        {
+            "slug": "रूबेन",
+            "label": "रूबेन",
+            "question_count": 4
+        },
+        {
+            "slug": "लमेक",
+            "label": "लमेक",
+            "question_count": 1
+        },
+        {
+            "slug": "लाबान",
+            "label": "लाबान",
+            "question_count": 17
+        },
+        {
+            "slug": "लिआ",
+            "label": "लिआ",
+            "question_count": 10
+        },
+        {
+            "slug": "लूत",
+            "label": "लूत",
+            "question_count": 17
+        },
+        {
+            "slug": "लेवी",
+            "label": "लेवी",
+            "question_count": 5
+        },
+        {
+            "slug": "शकेम",
+            "label": "शकेम",
+            "question_count": 3
+        },
+        {
+            "slug": "शिमोन",
+            "label": "शिमोन",
+            "question_count": 6
+        },
+        {
+            "slug": "शेत",
+            "label": "शेत",
+            "question_count": 3
+        },
+        {
+            "slug": "शेम",
+            "label": "शेम",
+            "question_count": 4
+        },
+        {
+            "slug": "शेला",
+            "label": "शेला",
+            "question_count": 1
+        },
+        {
+            "slug": "सर्प",
+            "label": "सर्प",
+            "question_count": 3
+        },
+        {
+            "slug": "सारा",
+            "label": "सारा",
+            "question_count": 17
+        },
+        {
+            "slug": "सारै",
+            "label": "सारै",
+            "question_count": 6
+        },
+        {
+            "slug": "सिबोन",
+            "label": "सिबोन",
+            "question_count": 1
+        },
+        {
+            "slug": "हनोक",
+            "label": "हनोक",
+            "question_count": 2
+        },
+        {
+            "slug": "हमोर",
+            "label": "हमोर",
+            "question_count": 4
+        },
+        {
+            "slug": "हव्वा",
+            "label": "हव्वा",
+            "question_count": 11
+        },
+        {
+            "slug": "हाजिरा",
+            "label": "हाजिरा",
+            "question_count": 9
+        },
+        {
+            "slug": "हाबिल",
+            "label": "हाबिल",
+            "question_count": 5
+        },
+        {
+            "slug": "हाम",
+            "label": "हाम",
+            "question_count": 5
+        },
+        {
+            "slug": "हारान",
+            "label": "हारान",
+            "question_count": 2
+        },
+        {
+            "slug": "हीरा",
+            "label": "हीरा",
+            "question_count": 1
+        }
+    ],
+    "places": [
+        {
+            "slug": "अक्कद",
+            "label": "अक्कद",
+            "question_count": 1
+        },
+        {
+            "slug": "अज्जा",
+            "label": "अज्जा",
+            "question_count": 1
+        },
+        {
+            "slug": "अदन",
+            "label": "अदन",
+            "question_count": 10
+        },
+        {
+            "slug": "अदुल्लाम",
+            "label": "अदुल्लाम",
+            "question_count": 1
+        },
+        {
+            "slug": "अमोरा",
+            "label": "अमोरा",
+            "question_count": 2
+        },
+        {
+            "slug": "अराम-नहरैम",
+            "label": "अराम-नहरैम",
+            "question_count": 1
+        },
+        {
+            "slug": "अरारात",
+            "label": "अरारात",
+            "question_count": 1
+        },
+        {
+            "slug": "अल्लोन-बाकूत",
+            "label": "अल्लोन-बाकूत",
+            "question_count": 1
+        },
+        {
+            "slug": "अश्शूर",
+            "label": "अश्शूर",
+            "question_count": 1
+        },
+        {
+            "slug": "आताद",
+            "label": "आताद",
+            "question_count": 1
+        },
+        {
+            "slug": "आबेल-मिस्रैम",
+            "label": "आबेल-मिस्रैम",
+            "question_count": 1
+        },
+        {
+            "slug": "इब्रियों-का-देश",
+            "label": "इब्रियों का देश",
+            "question_count": 1
+        },
+        {
+            "slug": "ऊर",
+            "label": "ऊर",
+            "question_count": 2
+        },
+        {
+            "slug": "एदोम",
+            "label": "एदोम",
+            "question_count": 2
+        },
+        {
+            "slug": "एनेम",
+            "label": "एनेम",
+            "question_count": 1
+        },
+        {
+            "slug": "एप्रात-बेतलेहेम",
+            "label": "एप्रात (बेतलेहेम)",
+            "question_count": 1
+        },
+        {
+            "slug": "एप्राता",
+            "label": "एप्राता",
+            "question_count": 1
+        },
+        {
+            "slug": "एप्राता-बेतलेहेम",
+            "label": "एप्राता (बेतलेहेम)",
+            "question_count": 1
+        },
+        {
+            "slug": "एरेक",
+            "label": "एरेक",
+            "question_count": 1
+        },
+        {
+            "slug": "एलाम",
+            "label": "एलाम",
+            "question_count": 1
+        },
+        {
+            "slug": "एसेक",
+            "label": "एसेक",
+            "question_count": 1
+        },
+        {
+            "slug": "ऐ",
+            "label": "ऐ",
+            "question_count": 2
+        },
+        {
+            "slug": "ओन",
+            "label": "ओन",
+            "question_count": 1
+        },
+        {
+            "slug": "कनान",
+            "label": "कनान",
+            "question_count": 21
+        },
+        {
+            "slug": "कलने",
+            "label": "कलने",
+            "question_count": 1
+        },
+        {
+            "slug": "कादेश",
+            "label": "कादेश",
+            "question_count": 2
+        },
+        {
+            "slug": "किर्यतर्बा",
+            "label": "किर्यतर्बा",
+            "question_count": 1
+        },
+        {
+            "slug": "किर्यतर्बा-हेब्रोन",
+            "label": "किर्यतर्बा (हेब्रोन)",
+            "question_count": 2
+        },
+        {
+            "slug": "गरार",
+            "label": "गरार",
+            "question_count": 10
+        },
+        {
+            "slug": "गलेद",
+            "label": "गलेद",
+            "question_count": 1
+        },
+        {
+            "slug": "गिलाद",
+            "label": "गिलाद",
+            "question_count": 1
+        },
+        {
+            "slug": "गोशेन",
+            "label": "गोशेन",
+            "question_count": 5
+        },
+        {
+            "slug": "तिमनात",
+            "label": "तिमनात",
+            "question_count": 1
+        },
+        {
+            "slug": "दक्खिन",
+            "label": "दक्खिन",
+            "question_count": 1
+        },
+        {
+            "slug": "दमिश्क",
+            "label": "दमिश्क",
+            "question_count": 1
+        },
+        {
+            "slug": "दान",
+            "label": "दान",
+            "question_count": 1
+        },
+        {
+            "slug": "दिनहाबा",
+            "label": "दिनहाबा",
+            "question_count": 1
+        },
+        {
+            "slug": "दोतान",
+            "label": "दोतान",
+            "question_count": 2
+        },
+        {
+            "slug": "नाहोर-का-नगर",
+            "label": "नाहोर का नगर",
+            "question_count": 1
+        },
+        {
+            "slug": "नील-नदी",
+            "label": "नील नदी",
+            "question_count": 1
+        },
+        {
+            "slug": "नोद",
+            "label": "नोद",
+            "question_count": 1
+        },
+        {
+            "slug": "पद्दन-अराम",
+            "label": "पद्दन-अराम",
+            "question_count": 1
+        },
+        {
+            "slug": "पनूएल",
+            "label": "पनूएल",
+            "question_count": 2
+        },
+        {
+            "slug": "परात",
+            "label": "परात",
+            "question_count": 1
+        },
+        {
+            "slug": "परात-फरात",
+            "label": "परात (फरात)",
+            "question_count": 1
+        },
+        {
+            "slug": "पारण",
+            "label": "पारण",
+            "question_count": 1
+        },
+        {
+            "slug": "पूरबियों-का-देश",
+            "label": "पूरबियों का देश",
+            "question_count": 1
+        },
+        {
+            "slug": "बन्दीगृह",
+            "label": "बन्दीगृह",
+            "question_count": 6
+        },
+        {
+            "slug": "बाबेल",
+            "label": "बाबेल",
+            "question_count": 4
+        },
+        {
+            "slug": "बेएर-लहै-रोई",
+            "label": "बेएर-लहै-रोई",
+            "question_count": 2
+        },
+        {
+            "slug": "बेतेल",
+            "label": "बेतेल",
+            "question_count": 8
+        },
+        {
+            "slug": "बेरेद",
+            "label": "बेरेद",
+            "question_count": 1
+        },
+        {
+            "slug": "बेर्शेबा",
+            "label": "बेर्शेबा",
+            "question_count": 5
+        },
+        {
+            "slug": "मकपेला",
+            "label": "मकपेला",
+            "question_count": 6
+        },
+        {
+            "slug": "मम्रे",
+            "label": "मम्रे",
+            "question_count": 4
+        },
+        {
+            "slug": "मम्रे-हेब्रोन",
+            "label": "मम्रे (हेब्रोन)",
+            "question_count": 1
+        },
+        {
+            "slug": "महनैम",
+            "label": "महनैम",
+            "question_count": 1
+        },
+        {
+            "slug": "मिस्पा",
+            "label": "मिस्पा",
+            "question_count": 1
+        },
+        {
+            "slug": "मिस्र",
+            "label": "मिस्र",
+            "question_count": 58
+        },
+        {
+            "slug": "मिस्र-का-महानद",
+            "label": "मिस्र का महानद",
+            "question_count": 1
+        },
+        {
+            "slug": "मोरिय्याह",
+            "label": "मोरिय्याह",
+            "question_count": 4
+        },
+        {
+            "slug": "यब्बोक",
+            "label": "यब्बोक",
+            "question_count": 1
+        },
+        {
+            "slug": "यरदन",
+            "label": "यरदन",
+            "question_count": 1
+        },
+        {
+            "slug": "यहोवा-यिरी",
+            "label": "यहोवा यिरी",
+            "question_count": 1
+        },
+        {
+            "slug": "रहोबोत",
+            "label": "रहोबोत",
+            "question_count": 1
+        },
+        {
+            "slug": "रामेसेस",
+            "label": "रामेसेस",
+            "question_count": 1
+        },
+        {
+            "slug": "लाशा",
+            "label": "लाशा",
+            "question_count": 1
+        },
+        {
+            "slug": "लूज",
+            "label": "लूज",
+            "question_count": 1
+        },
+        {
+            "slug": "शकेम",
+            "label": "शकेम",
+            "question_count": 11
+        },
+        {
+            "slug": "शालेम",
+            "label": "शालेम",
+            "question_count": 1
+        },
+        {
+            "slug": "शिनार",
+            "label": "शिनार",
+            "question_count": 2
+        },
+        {
+            "slug": "शिबा",
+            "label": "शिबा",
+            "question_count": 1
+        },
+        {
+            "slug": "शूर",
+            "label": "शूर",
+            "question_count": 2
+        },
+        {
+            "slug": "सदूम",
+            "label": "सदूम",
+            "question_count": 13
+        },
+        {
+            "slug": "सराय",
+            "label": "सराय",
+            "question_count": 1
+        },
+        {
+            "slug": "सिद्दीम",
+            "label": "सिद्दीम",
+            "question_count": 2
+        },
+        {
+            "slug": "सीदोन",
+            "label": "सीदोन",
+            "question_count": 2
+        },
+        {
+            "slug": "सुक्कोत",
+            "label": "सुक्कोत",
+            "question_count": 1
+        },
+        {
+            "slug": "सेईर",
+            "label": "सेईर",
+            "question_count": 5
+        },
+        {
+            "slug": "सोआर",
+            "label": "सोआर",
+            "question_count": 2
+        },
+        {
+            "slug": "हनोक",
+            "label": "हनोक",
+            "question_count": 1
+        },
+        {
+            "slug": "हारान",
+            "label": "हारान",
+            "question_count": 5
+        },
+        {
+            "slug": "हिद्देकेल",
+            "label": "हिद्देकेल",
+            "question_count": 1
+        },
+        {
+            "slug": "हेब्रोन",
+            "label": "हेब्रोन",
+            "question_count": 1
+        }
+    ],
+    "audiences": {
+        "kids": 256,
+        "teens": 387,
+        "adults": 420
+    },
+    "difficulties": {
+        "easy": 180,
+        "medium": 196,
+        "difficult": 44
+    },
+    "generated": "2026-09-20T01:15:55+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "01-021-011",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 21,
+  "verse_reference": "Genesis 21:22-27",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "With which king did Abraham make a treaty at Beersheba?",
+  "options": [
+    "Pharaoh",
+    "Melchizedek",
+    "Kedorlaomer",
+    "Abimelek"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Leadership"
+  ],
+  "characters": [
+    "Abraham",
+    "Abimelek"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham made a treaty with Abimelek, king of Gerar, promising to deal honestly with one another."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "01-042-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 42,
+  "verse_reference": "Genesis 42:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Joseph accuse his brothers of being?",
+  "options": [
+    "Thieves",
+    "Runaway servants",
+    "Spies",
+    "Traders"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph accused his brothers of being spies who had come to see where the land was unprotected."
+}

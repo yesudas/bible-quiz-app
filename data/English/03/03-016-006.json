@@ -1,0 +1,30 @@
+{
+  "id": "03-016-006",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 16,
+  "verse_reference": "Leviticus 16:34",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How often was the Day of Atonement to be observed?",
+  "options": [
+    "Once a month",
+    "Every seven years",
+    "Once a year",
+    "At every new moon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Atonement",
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 16:34 says atonement was to be made once a year for all the sins of the Israelites."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "01-047-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 47,
+  "verse_reference": "Genesis 47:6",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Which region did Pharaoh allow Jacob's family to settle in?",
+  "options": [
+    "Goshen",
+    "On",
+    "Memphis",
+    "Thebes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Promise"
+  ],
+  "characters": [
+    "Joseph",
+    "Jacob"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh told Joseph to settle his father and brothers in the best part of the land, the region of Goshen."
+}

@@ -1,0 +1,24 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Ishmael",
+    "label": "Ishmael",
+    "count": 14,
+    "paths": [
+        "English/01/01-016-007.json",
+        "English/01/01-016-009.json",
+        "English/01/01-016-010.json",
+        "English/01/01-017-012.json",
+        "English/01/01-017-013.json",
+        "English/01/01-017-014.json",
+        "English/01/01-021-006.json",
+        "English/01/01-021-007.json",
+        "English/01/01-021-008.json",
+        "English/01/01-021-009.json",
+        "English/01/01-021-010.json",
+        "English/01/01-025-004.json",
+        "English/01/01-025-005.json",
+        "English/01/01-028-004.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

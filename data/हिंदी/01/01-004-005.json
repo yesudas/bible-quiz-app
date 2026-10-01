@@ -1,0 +1,32 @@
+{
+  "id": "01-004-005",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 4,
+  "verse_reference": "उत्पत्ति 4:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "यहोवा ने कैन को चेतावनी दी: 'यदि तू भला न करे, तो ______ द्वार पर घात लगाए रहता है।'",
+  "options": [
+    "शाप",
+    "पाप",
+    "मृत्यु",
+    "क्रोध"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "पाप",
+    "चेतावनी"
+  ],
+  "characters": [
+    "कैन"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "उत्पत्ति 4:7 में परमेश्वर ने कहा कि यदि तू भला न करे तो पाप द्वार पर घात लगाए रहता है, और तुझे उस पर प्रभुता करनी चाहिए।"
+}

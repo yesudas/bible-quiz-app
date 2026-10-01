@@ -1,0 +1,30 @@
+{
+  "id": "02-011-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 11,
+  "verse_reference": "Exodus 11:4-5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What would the tenth plague do?",
+  "options": [
+    "Kill every firstborn in Egypt",
+    "Bring darkness over Egypt",
+    "Send hail on the crops",
+    "Fill Egypt with locusts"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses announced that about midnight every firstborn in Egypt would die, from Pharaoh's firstborn to the firstborn of the slave girl."
+}

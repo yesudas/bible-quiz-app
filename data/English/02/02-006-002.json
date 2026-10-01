@@ -1,0 +1,30 @@
+{
+  "id": "02-006-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 6,
+  "verse_reference": "Exodus 6:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God promise to do for the Israelites in Egypt?",
+  "options": [
+    "Make them rulers of Egypt",
+    "Free them from slavery and take them as His people",
+    "Give them Egyptian citizenship",
+    "Let them stay in Egypt in peace"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Covenant",
+    "Salvation"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised to free the Israelites from slavery, redeem them, and take them to be His own people."
+}

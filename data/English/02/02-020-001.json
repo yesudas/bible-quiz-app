@@ -1,0 +1,30 @@
+{
+  "id": "02-020-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 20,
+  "verse_reference": "Exodus 20:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What does the first commandment say?",
+  "options": [
+    "You shall not steal",
+    "Honor your father and mother",
+    "You shall have no other gods before Me",
+    "Remember the Sabbath day"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The first commandment is that the people shall have no other gods before the LORD."
+}

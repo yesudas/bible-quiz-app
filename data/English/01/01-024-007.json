@@ -1,0 +1,30 @@
+{
+  "id": "01-024-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 24,
+  "verse_reference": "Genesis 24:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the servant give Rebekah after she watered his camels?",
+  "options": [
+    "A gold nose ring and two gold bracelets",
+    "A flock of sheep",
+    "A robe and sandals",
+    "A bag of grain"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [
+    "Rebekah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The servant gave Rebekah a gold nose ring and two gold bracelets, then asked whose daughter she was."
+}

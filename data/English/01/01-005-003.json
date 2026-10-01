@@ -1,0 +1,30 @@
+{
+  "id": "01-005-003",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 5,
+  "verse_reference": "Genesis 5:27",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who lived 969 years, the longest life recorded in the Bible?",
+  "options": [
+    "Methuselah",
+    "Adam",
+    "Noah",
+    "Seth"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Methuselah"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Methuselah lived a total of 969 years, the longest lifespan recorded in Scripture."
+}

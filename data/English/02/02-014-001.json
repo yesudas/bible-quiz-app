@@ -1,0 +1,28 @@
+{
+  "id": "02-014-001",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 14,
+  "verse_reference": "Exodus 14:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Pharaoh take with him to chase the Israelites?",
+  "options": [
+    "A group of magicians",
+    "A fleet of boats",
+    "His army and six hundred chariots",
+    "Only his personal guards"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh took six hundred of his best chariots, along with all the chariots of Egypt and his army, to pursue the Israelites."
+}

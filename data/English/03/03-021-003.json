@@ -1,0 +1,29 @@
+{
+  "id": "03-021-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 21,
+  "verse_reference": "Leviticus 21:13-14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What kind of woman was the high priest to marry?",
+  "options": [
+    "A widow",
+    "A foreign woman",
+    "A virgin from his own people",
+    "A woman of any nation"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Priesthood",
+    "Holiness",
+    "Marriage"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 21:13-14 says the high priest was to marry a virgin from his own people, not a widow or divorced woman."
+}

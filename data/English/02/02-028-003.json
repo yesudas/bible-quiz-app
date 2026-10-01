@@ -1,0 +1,30 @@
+{
+  "id": "02-028-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 28,
+  "verse_reference": "Exodus 28:9-12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was engraved on the two onyx stones on the ephod's shoulder pieces?",
+  "options": [
+    "The Ten Commandments",
+    "The name of Aaron",
+    "The words of a prayer",
+    "The names of the twelve tribes of Israel"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The names of the sons of Israel were engraved on two onyx stones, six on each, as a memorial that Aaron carried on his shoulders."
+}

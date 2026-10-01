@@ -1,0 +1,30 @@
+{
+  "id": "02-028-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 28,
+  "verse_reference": "Exodus 28:30",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was placed in the breastpiece for making decisions?",
+  "options": [
+    "A golden scroll",
+    "A silver coin",
+    "The Urim and Thummim",
+    "A small lamp"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Wisdom"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Urim and Thummim were placed in the breastpiece so that Aaron could carry the means of making decisions before the LORD."
+}

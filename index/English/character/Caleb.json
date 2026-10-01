@@ -1,0 +1,15 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Caleb",
+    "label": "Caleb",
+    "count": 5,
+    "paths": [
+        "English/04/04-013-006.json",
+        "English/04/04-014-002.json",
+        "English/04/04-014-003.json",
+        "English/04/04-014-005.json",
+        "English/04/04-026-006.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "01-032-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 32,
+  "verse_reference": "Genesis 32:25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What part of Jacob's body was injured during the wrestling?",
+  "options": [
+    "His hip",
+    "His shoulder",
+    "His hand",
+    "His knee"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Suffering"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man touched the socket of Jacob's hip, and it was wrenched as they wrestled."
+}

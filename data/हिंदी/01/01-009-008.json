@@ -1,0 +1,35 @@
+{
+  "id": "01-009-008",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 9,
+  "verse_reference": "उत्पत्ति 9:24-25",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "जब नूह का नशा उतरा, तो उसने हाम के किए हुए कार्य के कारण किसको शाप दिया?",
+  "options": [
+    "कनान को",
+    "शेम को",
+    "यापेथ को",
+    "अपने सारे घराने को"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "शाप",
+    "न्याय",
+    "परिवार"
+  ],
+  "characters": [
+    "नूह",
+    "हाम",
+    "कनान"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "नूह ने कहा, 'कनान शापित हो; वह अपने भाइयों के दासों का दास हो।'"
+}

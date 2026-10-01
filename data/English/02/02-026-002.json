@@ -1,0 +1,27 @@
+{
+  "id": "02-026-002",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 26,
+  "verse_reference": "Exodus 26:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were the upright frames of the tabernacle made of?",
+  "options": [
+    "Cedar planks",
+    "Acacia wood",
+    "Solid gold",
+    "Bronze bars"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The upright frames for the tabernacle were made of acacia wood, overlaid with gold and set in silver bases."
+}

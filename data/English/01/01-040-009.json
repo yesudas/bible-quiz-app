@@ -1,0 +1,30 @@
+{
+  "id": "01-040-009",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 40,
+  "verse_reference": "Genesis 40:23",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the cupbearer do after he was restored to his position?",
+  "options": [
+    "He praised Joseph to Pharaoh",
+    "He sent Joseph gifts",
+    "He forgot Joseph and did not remember him",
+    "He asked for Joseph's release"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The cupbearer did not remember Joseph; he forgot him."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "01-042-007",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 42,
+  "verse_reference": "Genesis 42:25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Joseph secretly put back into his brothers' sacks?",
+  "options": [
+    "Their silver",
+    "Gold rings",
+    "Extra grain",
+    "A written message"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph gave orders to fill their bags with grain and to put each man's silver back in his sack."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "02-009-004",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 9,
+  "verse_reference": "Exodus 9:18-23",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was the seventh plague that fell on Egypt?",
+  "options": [
+    "Hail",
+    "Frogs",
+    "Locusts",
+    "Darkness"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Miracles"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The seventh plague was a severe hailstorm with thunder and lightning that struck the land of Egypt."
+}

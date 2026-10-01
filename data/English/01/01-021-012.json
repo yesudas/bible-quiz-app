@@ -1,0 +1,30 @@
+{
+  "id": "01-021-012",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 21,
+  "verse_reference": "Genesis 21:28-31",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Abraham give Abimelek to show that he had dug the well at Beersheba?",
+  "options": [
+    "Seven ewe lambs",
+    "A herd of camels",
+    "A gift of gold",
+    "A piece of land"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [
+    "Abraham",
+    "Abimelek"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham set apart seven ewe lambs and gave them to Abimelek as a witness that he had dug the well at Beersheba."
+}

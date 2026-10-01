@@ -1,0 +1,29 @@
+{
+  "id": "04-028-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 28,
+  "verse_reference": "Numbers 28:9-10",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "On which day was an extra offering of two lambs commanded?",
+  "options": [
+    "At the new moon",
+    "On the Sabbath",
+    "During harvest",
+    "On the first day of the year"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On every Sabbath day, two additional lambs were to be offered along with the regular daily offering."
+}

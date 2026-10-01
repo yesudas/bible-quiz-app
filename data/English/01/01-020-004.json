@@ -1,0 +1,29 @@
+{
+  "id": "01-020-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 20,
+  "verse_reference": "Genesis 20:3-7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did God say Abimelek was innocent in the matter of Sarah?",
+  "options": [
+    "He had done nothing and acted with a clear conscience",
+    "He had already returned Sarah",
+    "He had never met Abraham",
+    "He had offered many sacrifices"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Abimelek"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abimelek had not touched Sarah and had acted with a clear conscience, so God kept him from sinning."
+}

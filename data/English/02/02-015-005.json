@@ -1,0 +1,27 @@
+{
+  "id": "02-015-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 15,
+  "verse_reference": "Exodus 15:23",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "At which place was the water too bitter to drink?",
+  "options": [
+    "Elim",
+    "Marah",
+    "Shur",
+    "Rephidim"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At Marah the people could not drink the water because it was bitter, which is why the place was named Marah."
+}

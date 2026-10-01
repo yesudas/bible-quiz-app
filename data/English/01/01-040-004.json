@@ -1,0 +1,30 @@
+{
+  "id": "01-040-004",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 40,
+  "verse_reference": "Genesis 40:9-11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the cupbearer see in his dream?",
+  "options": [
+    "Three baskets of bread on his head",
+    "A river overflowing",
+    "Seven cows coming out of the Nile",
+    "A vine with three branches that produced grapes"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The cupbearer dreamed of a vine with three branches that budded, blossomed, and produced grapes, which he pressed into Pharaoh's cup."
+}

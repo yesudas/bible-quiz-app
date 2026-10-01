@@ -1,0 +1,31 @@
+{
+  "id": "01-018-010",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 18,
+  "verse_reference": "Genesis 18:23-24",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Abraham begin to ask the LORD about Sodom?",
+  "options": [
+    "To give the city more time",
+    "To spare it if righteous people were found there",
+    "To let him move away first",
+    "To warn the city of the danger"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Mission"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham asked whether the LORD would spare the city if righteous people were found in it, pleading for God's mercy."
+}

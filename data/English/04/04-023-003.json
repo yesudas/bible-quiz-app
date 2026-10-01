@@ -1,0 +1,32 @@
+{
+  "id": "04-023-003",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 23,
+  "verse_reference": "Numbers 23:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Balaam said, 'Let me die the death of the _____.'",
+  "options": [
+    "righteous",
+    "mighty",
+    "wealthy",
+    "peaceful"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Prophecy"
+  ],
+  "characters": [
+    "Balaam"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Balaam wished to die the death of the righteous and to have an end like theirs, seeing how God had blessed Israel."
+}

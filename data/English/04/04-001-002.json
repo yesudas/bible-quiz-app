@@ -1,0 +1,40 @@
+{
+  "id": "04-001-002",
+  "language": "en",
+  "book_no": 4,
+  "book": "Numbers",
+  "chapter": 1,
+  "verse_reference": "Numbers 1:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where was Israel when God spoke to Moses about the census?",
+  "options": [
+    "On Mount Nebo",
+    "In the Desert of Sinai",
+    "By the Jordan River",
+    "In the land of Canaan"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Desert of Sinai",
+      "type": "wilderness"
+    },
+    {
+      "name": "Tent of Meeting",
+      "type": "tent"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God spoke to Moses in the Desert of Sinai, in the tent of meeting, on the first day of the second month."
+}

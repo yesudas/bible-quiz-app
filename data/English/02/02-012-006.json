@@ -1,0 +1,28 @@
+{
+  "id": "02-012-006",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 12,
+  "verse_reference": "Exodus 12:14-15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What feast were the Israelites to keep for seven days?",
+  "options": [
+    "The Feast of Trumpets",
+    "The Feast of Booths",
+    "The Feast of Unleavened Bread",
+    "The Feast of Weeks"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "For seven days they were to eat bread without yeast, keeping the Feast of Unleavened Bread as a lasting ordinance."
+}

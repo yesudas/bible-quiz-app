@@ -1,0 +1,29 @@
+{
+  "id": "03-003-004",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 3,
+  "verse_reference": "Leviticus 3:6",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Besides cattle, from which animals could a fellowship offering be brought?",
+  "options": [
+    "Birds",
+    "The flock, meaning sheep or goats",
+    "Wild animals",
+    "Fish"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Sacrifice"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 3:6 says a fellowship offering could come from the flock, either sheep or goats."
+}

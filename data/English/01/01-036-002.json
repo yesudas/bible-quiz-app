@@ -1,0 +1,31 @@
+{
+  "id": "01-036-002",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 36,
+  "verse_reference": "Genesis 36:6-8",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In what hill country did Esau settle, away from his brother Jacob?",
+  "options": [
+    "Canaan",
+    "Goshen",
+    "Moriah",
+    "Seir"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Esau",
+    "Jacob"
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Esau settled in the hill country of Seir, since the land could not support both him and Jacob because of their large possessions."
+}

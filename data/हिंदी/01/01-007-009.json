@@ -1,0 +1,30 @@
+{
+  "id": "01-007-009",
+  "language": "hi",
+  "book_no": 1,
+  "book": "उत्पत्ति",
+  "chapter": 7,
+  "verse_reference": "उत्पत्ति 7:24",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "पृथ्वी पर जल कितने दिनों तक प्रबल रहा?",
+  "options": [
+    "चालीस दिन",
+    "एक सौ बीस दिन",
+    "एक सौ पचास दिन",
+    "तीन सौ पैंसठ दिन"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "जलप्रलय",
+    "इतिहास"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "उत्पत्ति 7:24 के अनुसार पृथ्वी पर जल एक सौ पचास दिन तक प्रबल रहा।"
+}

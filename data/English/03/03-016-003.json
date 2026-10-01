@@ -1,0 +1,28 @@
+{
+  "id": "03-016-003",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 16,
+  "verse_reference": "Leviticus 16:7-8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How were the two goats for the Day of Atonement chosen for their roles?",
+  "options": [
+    "By casting lots",
+    "By the age of the goats",
+    "By their color",
+    "By the people voting"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Atonement",
+    "Worship"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 16:8 says Aaron cast lots for the two goats, one lot for the Lord and the other for the scapegoat."
+}

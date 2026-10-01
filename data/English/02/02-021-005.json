@@ -1,0 +1,28 @@
+{
+  "id": "02-021-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 21,
+  "verse_reference": "Exodus 21:15-17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to these laws, what brought the death penalty?",
+  "options": [
+    "Failing to keep the Sabbath",
+    "Refusing to give an offering",
+    "Attacking or cursing one's father or mother",
+    "Speaking to a foreigner"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Family"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The law said that anyone who attacked or cursed their father or mother was to be put to death, showing how seriously God treated honoring parents."
+}

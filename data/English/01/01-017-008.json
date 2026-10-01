@@ -1,0 +1,32 @@
+{
+  "id": "01-017-008",
+  "language": "en",
+  "book_no": 1,
+  "book": "Genesis",
+  "chapter": 17,
+  "verse_reference": "Genesis 17:15",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What new name did God give to Sarai?",
+  "options": [
+    "Rebekah",
+    "Hagar",
+    "Leah",
+    "Sarah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Sarah"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God changed Sarai's name to Sarah and promised to bless her."
+}

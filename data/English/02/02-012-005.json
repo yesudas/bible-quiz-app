@@ -1,0 +1,27 @@
+{
+  "id": "02-012-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 12,
+  "verse_reference": "Exodus 12:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How were the Israelites told to eat the Passover meal?",
+  "options": [
+    "Dressed ready to travel, in haste",
+    "Slowly and at rest",
+    "Lying down in comfort",
+    "In complete silence"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They were to eat it in haste, with cloaks tucked into their belts, sandals on their feet, and staff in hand, ready to leave Egypt."
+}

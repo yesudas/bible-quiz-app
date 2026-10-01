@@ -1,0 +1,30 @@
+{
+  "id": "03-016-005",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 16,
+  "verse_reference": "Leviticus 16:29-31",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were the people commanded to do on the Day of Atonement?",
+  "options": [
+    "Hold a great feast",
+    "Deny themselves and do no work",
+    "Travel to Jerusalem",
+    "Offer their firstborn animals"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Atonement",
+    "Worship",
+    "Repentance"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 16:29-31 says the people were to deny themselves and do no work, keeping the day as a sabbath of rest."
+}

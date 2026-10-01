@@ -1,0 +1,30 @@
+{
+  "id": "03-004-004",
+  "language": "en",
+  "book_no": 3,
+  "book": "Leviticus",
+  "chapter": 4,
+  "verse_reference": "Leviticus 4:27-28",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was a common member of the community to bring as a sin offering for an unintentional sin?",
+  "options": [
+    "A young bull",
+    "A male goat",
+    "A female goat without defect",
+    "Two young pigeons"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Forgiveness",
+    "Sacrifice"
+  ],
+  "characters": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Leviticus 4:28 says a member of the community was to bring a female goat without defect as a sin offering."
+}

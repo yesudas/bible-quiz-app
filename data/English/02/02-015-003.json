@@ -1,0 +1,31 @@
+{
+  "id": "02-015-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 15,
+  "verse_reference": "Exodus 15:20",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who took a tambourine and led the women in singing and dancing?",
+  "options": [
+    "Zipporah",
+    "Miriam",
+    "Deborah",
+    "Elisheba"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Miriam"
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Miriam the prophetess, Aaron's sister, took a tambourine, and all the women followed her with tambourines and dancing."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "02-016-003",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 16,
+  "verse_reference": "Exodus 16:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God send in the evening to give the people meat?",
+  "options": [
+    "Fish",
+    "Sheep",
+    "Doves",
+    "Quail"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Promise"
+  ],
+  "characters": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the evening quail came up and covered the camp, giving the people meat to eat."
+}

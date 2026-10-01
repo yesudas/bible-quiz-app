@@ -1,0 +1,14 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Shiphrah",
+    "label": "Shiphrah",
+    "count": 4,
+    "paths": [
+        "English/02/02-001-003.json",
+        "English/02/02-001-004.json",
+        "English/02/02-001-005.json",
+        "English/02/02-001-006.json"
+    ],
+    "generated": "2026-09-20T01:15:55+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "02-031-005",
+  "language": "en",
+  "book_no": 2,
+  "book": "Exodus",
+  "chapter": 31,
+  "verse_reference": "Exodus 31:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God give Moses when He finished speaking with him on Mount Sinai?",
+  "options": [
+    "A golden lampstand",
+    "A scroll sealed with wax",
+    "Two stone tablets written by the finger of God",
+    "A staff of authority"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God gave Moses the two tablets of the covenant law, stone tablets inscribed by the finger of God."
+}
