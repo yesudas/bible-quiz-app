@@ -853,23 +853,40 @@ input[type="radio"] {
 }
 
 .score-donut {
-    --correct-end: 0%;
-    --wrong-end: 0%;
+    position: relative;
     width: 132px;
     height: 132px;
     flex-shrink: 0;
-    border-radius: 50%;
-    background: conic-gradient(
-        var(--ok) 0 var(--correct-end),
-        var(--bad) var(--correct-end) var(--wrong-end),
-        #d5dde8 var(--wrong-end) 100%
-    );
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
+/* Drawn as three stacked SVG circle strokes (not a CSS conic-gradient) so it
+   renders identically on screen and in the html2canvas-based PDF export,
+   which doesn't reliably capture conic-gradient backgrounds. */
+.score-donut-svg {
+    width: 100%;
+    height: 100%;
+    transform: rotate(-90deg);
+}
+
+.score-donut-track {
+    fill: none;
+    stroke: #d5dde8;
+    stroke-width: 10;
+}
+
+.score-donut-seg {
+    fill: none;
+    stroke-width: 10;
+}
+
+.score-donut-seg.is-correct { stroke: var(--ok); }
+.score-donut-seg.is-wrong { stroke: var(--bad); }
+.score-donut-seg.is-skipped { stroke: #d5dde8; }
+
 .score-donut-hole {
+    position: absolute;
+    inset: 0;
+    margin: auto;
     width: 84px;
     height: 84px;
     border-radius: 50%;
@@ -892,6 +909,28 @@ input[type="radio"] {
     font-size: .75rem;
     color: var(--muted);
     font-weight: 600;
+}
+
+.score-summary-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    flex-shrink: 0;
+}
+
+.score-summary-label {
+    font-size: .8rem;
+    color: var(--muted);
+    font-weight: 600;
+}
+
+.score-summary-value {
+    font-size: 1.9rem;
+    font-weight: 800;
+    color: var(--navy);
+    line-height: 1.1;
 }
 
 .score-bar-chart {
@@ -1222,4 +1261,225 @@ input[type="radio"] {
     display: flex;
     gap: 8px;
     align-items: center;
+}
+
+/* Leaderboard modal, player info, and leaderboard.php page */
+
+.modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(58, 51, 80, 0.55);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    z-index: 1000;
+}
+
+.modal-box {
+    background: var(--surface);
+    border-radius: 20px;
+    padding: 24px;
+    max-width: 440px;
+    width: 100%;
+    max-height: 90vh;
+    overflow-y: auto;
+    box-shadow: 0 16px 40px rgba(58, 51, 80, 0.25);
+}
+
+.modal-box h2 {
+    font-family: var(--font-brand);
+    margin-top: 0;
+}
+
+.modal-field {
+    display: block;
+    margin-top: 14px;
+}
+
+.modal-field span {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 6px;
+    font-size: .9rem;
+}
+
+.modal-field input,
+.modal-field select {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 12px;
+    border: 2px solid var(--line);
+    border-radius: 12px;
+    font-family: var(--font-sans);
+    font-size: .95rem;
+}
+
+.modal-field input:focus,
+.modal-field select:focus {
+    border-color: var(--navy);
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(124, 92, 255, 0.15);
+}
+
+.modal-field-row {
+    display: flex;
+    gap: 10px;
+}
+
+.modal-field-country {
+    flex: 0 0 42%;
+}
+
+.modal-field-mobile {
+    flex: 1;
+}
+
+.modal-disclaimer {
+    margin-top: 14px;
+    font-size: .8rem;
+    color: var(--muted);
+}
+
+.modal-error {
+    margin-top: 10px;
+    font-size: .85rem;
+    color: var(--bad);
+    font-weight: 600;
+}
+
+.modal-actions {
+    display: flex;
+    gap: 10px;
+    margin-top: 18px;
+    flex-wrap: wrap;
+}
+
+.leaderboard-player-info {
+    margin-top: -6px;
+    margin-bottom: 14px;
+    font-size: .9rem;
+}
+
+.leaderboard-save-status {
+    margin-top: -6px;
+    margin-bottom: 14px;
+    font-size: .85rem;
+    font-weight: 600;
+    color: var(--ok);
+}
+
+.leaderboard-save-status.is-error {
+    color: var(--bad);
+}
+
+.modal-box-congrats {
+    text-align: center;
+    max-width: 380px;
+}
+
+.modal-congrats-text {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin: 0 0 18px;
+}
+
+.modal-box-congrats .modal-actions {
+    justify-content: center;
+    margin-top: 0;
+}
+
+.pdf-footer-note {
+    margin-top: 18px;
+    padding-top: 12px;
+    border-top: 1px solid var(--line);
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--muted);
+    text-align: center;
+}
+
+.player-mobile {
+    margin-left: 6px;
+    color: var(--muted);
+}
+
+.player-mobile-toggle {
+    color: var(--navy);
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: .85rem;
+    margin-left: 4px;
+}
+
+.leaderboard-app {
+    max-width: 720px;
+}
+
+.leaderboard-toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-bottom: 18px;
+}
+
+.leaderboard-toolbar h1 {
+    font-family: var(--font-brand);
+    font-size: 1.4rem;
+    margin: 0;
+}
+
+.leaderboard-lang-form select {
+    padding: 8px 12px;
+    border: 2px solid var(--line);
+    border-radius: 12px;
+    font-family: var(--font-sans);
+}
+
+.leaderboard-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--surface);
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 10px 26px rgba(124, 92, 255, 0.12);
+}
+
+.leaderboard-table th,
+.leaderboard-table td {
+    padding: 10px 14px;
+    text-align: left;
+    border-bottom: 1px solid var(--line);
+}
+
+.leaderboard-table th {
+    font-family: var(--font-brand);
+    background: rgba(124, 92, 255, 0.08);
+}
+
+.leaderboard-table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.leaderboard-actions {
+    display: flex;
+    gap: 10px;
+    margin-top: 18px;
+    flex-wrap: wrap;
+}
+
+.empty-state {
+    text-align: center;
+    padding: 40px 16px;
+    color: var(--muted);
+}
+
+@media (max-width: 480px) {
+    .modal-field-row { flex-direction: column; }
+    .modal-field-country,
+    .modal-field-mobile { flex: 1; }
+    .leaderboard-table th,
+    .leaderboard-table td { padding: 8px 10px; font-size: .9rem; }
 }

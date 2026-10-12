@@ -13,6 +13,7 @@ require_once __DIR__ . '/admin-credentials.php';
 require_once __DIR__ . '/includes/visitor-counter.php';
 require_once __DIR__ . '/includes/quiz-i18n.php';
 require_once __DIR__ . '/includes/mistake-reports.php';
+require_once __DIR__ . '/includes/quiz-leaderboard.php';
 
 // ── Configuration ────────────────────────────────────────────────────────────
 //define('ADMIN_USER', 'USER_NAME_HERE');
@@ -484,6 +485,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isLoggedIn()) {
     if ($action === 'dismiss_mistake') {
         quizMistakeDismiss((string)($_POST['report_id'] ?? ''));
         header('Location: a.php?view=mistakes');
+        exit;
+    }
+
+    // Remove a leaderboard entry (moderation)
+    if ($action === 'delete_leaderboard_entry') {
+        quizLeaderboardDeleteEntry((string)($_POST['entry_id'] ?? ''));
+        header('Location: a.php?view=leaderboard');
         exit;
     }
 
@@ -1010,6 +1018,119 @@ if (($_GET['view'] ?? '') === 'mistakes') {
     exit;
 }
 
+// ── Leaderboard view ─────────────────────────────────────────────────────────
+if (($_GET['view'] ?? '') === 'leaderboard') {
+    $csrf = csrfToken();
+    $entries = quizLeaderboardReadAllAdmin();
+    usort($entries, static fn (array $a, array $b): int => ($b['correctCount'] ?? 0) <=> ($a['correctCount'] ?? 0));
+    ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaderboard — Admin</title>
+    <meta name="robots" content="noindex, nofollow">
+    <link rel="stylesheet" href="styles.css?v=<?= filemtime(__DIR__ . '/styles.css') ?>">
+    <style>
+        .admin-header {
+            background: linear-gradient(135deg, #154360 0%, #1a2535 100%);
+            color: #fff; padding: 14px 20px;
+            display: flex; align-items: center; justify-content: space-between; gap: 12px;
+        }
+        .admin-header h1 { font-size: 1.15rem; font-weight: 700; }
+        .btn-logout {
+            background: rgba(255,255,255,.15); color: #fff;
+            border: 1px solid rgba(255,255,255,.3); padding: 7px 16px;
+            border-radius: 6px; font-size: .83rem; font-weight: 600; cursor: pointer;
+        }
+        .action-bar { max-width: 960px; margin: 16px auto 0; padding: 0 16px; }
+        .btn { display: inline-flex; align-items: center; gap: 6px; padding: 8px 16px;
+            border-radius: 7px; font-size: .85rem; font-weight: 600; cursor: pointer;
+            border: none; text-decoration: none; }
+        .btn-secondary { background: #f0f4f8; color: #2c3e50; border: 1px solid #dce3ec; }
+        .btn-secondary:hover { background: #e2ecf5; }
+        .btn-danger { background: #e74c3c; color: #fff; }
+        .btn-danger:hover { background: #c0392b; }
+        .btn-sm { padding: 6px 14px; font-size: .78rem; }
+        .leaderboard-wrap { max-width: 960px; margin: 20px auto; padding: 0 16px; }
+        .lb-table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,.06); }
+        .lb-table th, .lb-table td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #dce3ec; font-size: .88rem; }
+        .lb-table th { background: #f0f4f8; }
+        .lb-table tbody tr:last-child td { border-bottom: none; }
+        .lb-mobile { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+        .empty-state { text-align: center; padding: 48px 20px; color: #7f8c8d; font-size: .95rem; }
+    </style>
+</head>
+<body>
+
+<div class="admin-header">
+    <h1>🏆 Leaderboard <span style="opacity:.7;font-weight:400;">(<?= count($entries) ?>)</span></h1>
+    <form method="POST" action="a.php">
+        <input type="hidden" name="action" value="logout">
+        <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
+        <button type="submit" class="btn-logout">Logout</button>
+    </form>
+</div>
+
+<div class="action-bar">
+    <a class="btn btn-secondary" href="a.php">⬅ Back to Admin</a>
+    <a class="btn btn-secondary" href="leaderboard.php" target="_blank" rel="noopener noreferrer">👁️ View Public Leaderboard</a>
+</div>
+
+<div class="leaderboard-wrap">
+    <?php if (empty($entries)): ?>
+        <div class="empty-state">
+            <span style="font-size:2.5rem;display:block;margin-bottom:10px;">🏆</span>
+            No one has joined the leaderboard yet.
+        </div>
+    <?php else: ?>
+        <table class="lb-table">
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>Name</th>
+                    <th>Country</th>
+                    <th>Mobile number</th>
+                    <th>Score</th>
+                    <th>Language</th>
+                    <th>Updated</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <?php foreach ($entries as $i => $e):
+                    $mobile = quizLeaderboardDecryptMobile((string)($e['mobileEnc'] ?? ''));
+                ?>
+                    <tr>
+                        <td><?= (int) $i + 1 ?></td>
+                        <td><?= htmlspecialchars((string)($e['displayName'] ?? '')) ?></td>
+                        <td><?= htmlspecialchars((string)($e['countryName'] ?? '')) ?></td>
+                        <td class="lb-mobile"><?= htmlspecialchars($mobile !== null ? $mobile : '—') ?></td>
+                        <td><?= (int)($e['correctCount'] ?? 0) ?> / <?= (int)($e['totalQuestions'] ?? 0) ?></td>
+                        <td><?= htmlspecialchars((string)($e['lang'] ?? '')) ?></td>
+                        <td><?= htmlspecialchars((string)($e['updatedAt'] ?? '')) ?></td>
+                        <td>
+                            <form method="POST" action="a.php?view=leaderboard" onsubmit="return confirm('Remove this leaderboard entry?');">
+                                <input type="hidden" name="action" value="delete_leaderboard_entry">
+                                <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
+                                <input type="hidden" name="entry_id" value="<?= htmlspecialchars((string)($e['id'] ?? '')) ?>">
+                                <button type="submit" class="btn btn-danger btn-sm">🗑️ Remove</button>
+                            </form>
+                        </td>
+                    </tr>
+                <?php endforeach; ?>
+            </tbody>
+        </table>
+    <?php endif; ?>
+</div>
+
+</body>
+</html>
+    <?php
+    exit;
+}
+
 // ── Directory listing ─────────────────────────────────────────────────────────
 render_page:
 
@@ -1426,6 +1547,7 @@ $csrf = csrfToken();
     <?php endif; ?>
     <a class="btn btn-secondary" href="index.php<?= (!$atAdminHome && $currentRoot === 'data' && $currentPath !== '') ? ('?path=' . rawurlencode($currentPath)) : '' ?>" target="_blank" rel="noopener noreferrer">👁️ View Public Site</a>
     <a class="btn btn-secondary" href="a.php?view=mistakes" title="Questions reported by players as wrong">🛠️ Reported Mistakes<?= $mistakeCount ? ' (' . $mistakeCount . ')' : '' ?></a>
+    <a class="btn btn-secondary" href="a.php?view=leaderboard" title="Players who joined the leaderboard">🏆 Leaderboard</a>
     <a class="btn btn-secondary" href="i.php" title="Rebuild quiz indexes after adding or removing questions">⚙️ Rebuild Quiz Index</a>
     <a class="btn btn-secondary" href="sitemap.php" title="Regenerate sitemap.xml after adding or removing files">🗺️ Generate Sitemap</a>
 </div>

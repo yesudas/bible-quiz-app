@@ -74,6 +74,19 @@ The **Share Quiz** button (next to Start Quiz) generates a short signed link lik
 - Visiting `index.php?test=...` decodes and verifies the token, then redirects straight into `quiz.php` with the reconstructed parameters. A tampered or invalid token shows an inline notice instead of failing silently.
 - The signing key lives in `share-secret.php` (gitignored) and is generated automatically on first use — no setup required. To pin your own, copy `share-secret.example.php` to `share-secret.php`.
 
+## Leaderboard
+
+Right after finishing the **first set** of a quiz attempt (not the whole attempt — long books split into many sets might never be finished in one sitting), players are asked once whether they want to join the leaderboard by giving a display name and a mobile number with country code. **Both are required to join** — leaving the mobile number out (or dismissing the popup) just shows the display name on the results screen, with nothing saved anywhere. Once they've joined or skipped, later sets in the same attempt don't ask again: joining keeps the leaderboard score updated as they complete more sets, skipping just keeps showing their typed name.
+
+- The popup clearly states both fields are mandatory, and explains that the mobile number is encrypted and never shown publicly or shared.
+- `includes/quiz-leaderboard.php` encrypts the mobile number with AES-256-GCM before writing it (and computes a separate HMAC "match hash" so repeat players — same number — get merged into one row that keeps their best score, without ever needing to decrypt anything to check for a match). The private master record lives in `logs/leaderboard-data.json` (gitignored, same protected directory as `logs/mistake-reports.log`).
+- Two public files are regenerated after every submission, containing no PII — just `{displayName, country, score}`: `leaderboard/top10.json` (top 10) and `leaderboard/all.json` (everyone, highest to lowest). `api/leaderboard.php` serves these; `leaderboard.php` is the public "Top 10 / Show all" page.
+- The encryption/match-hash keys live in `leaderboard-secret.php` (gitignored) and are generated automatically on first use — no setup required. To pin your own, copy `leaderboard-secret.example.php` to `leaderboard-secret.php`.
+- `a.php?view=leaderboard` is the only place a mobile number is ever decrypted and shown — an admin-only view for moderation, with a "Remove" action per entry.
+- On their own results screen, a player who joined sees their mobile number masked (e.g. `+91 ••••••89`) with a "Show number"/"Hide number" toggle — this is purely a convenience on their own device, unrelated to the "never shown publicly" guarantee for everyone else.
+- A finished quiz's results screen also has a "Download results as PDF" button (client-side, via `html2canvas` + `jsPDF` loaded from a CDN on first click) that works on both desktop and mobile browsers.
+- The display name, country code, and mobile number typed into the popup are remembered in the browser's `localStorage` (`bibleQuizPlayerInfo`), so a returning player doesn't have to retype them on their next quiz.
+
 ## Assets
 
 CSS, JavaScript, and PWA icons live under `assets/`. Service worker: `sw.js`, manifest: `manifest.json`.

@@ -200,6 +200,78 @@ function quizDifficultyOptions(string $lang = 'English'): array
 }
 
 /**
+ * Leaderboard popup/results-screen/leaderboard-page copy, per language.
+ * Missing keys fall back to English.
+ */
+function quizLeaderboardLabelsByLanguage(): array
+{
+    return [
+        'English' => [
+            'modalTitle' => 'Join the Leaderboard',
+            'modalIntro' => 'Enter your name and mobile number to appear on the leaderboard. Both are required to join — you can skip this and still see your results.',
+            'displayName' => 'Display name',
+            'mobileNumber' => 'Mobile number',
+            'country' => 'Country',
+            'disclaimer' => 'Your mobile number is encrypted and never shown anywhere on this website or shared with anyone.',
+            'validationError' => 'Enter both your name and mobile number to join the leaderboard, or skip to just see your results.',
+            'save' => 'Save & join leaderboard',
+            'skip' => 'Skip',
+            'playingAs' => 'Playing as',
+            'showNumber' => 'Show number',
+            'hideNumber' => 'Hide number',
+            'pageTitle' => 'Leaderboard',
+            'top10' => 'Top 10',
+            'showAll' => 'Show all',
+            'rank' => 'Rank',
+            'name' => 'Name',
+            'score' => 'Score',
+            'empty' => 'No one has joined the leaderboard yet — be the first!',
+            'downloadPdf' => 'Download results as PDF',
+            'congratsTop100' => '🎉 Congratulations! You\'re in the Top 100 on the leaderboard — rank #{rank}!',
+            'ok' => 'OK',
+            'pdfHeading' => 'Bible Quiz Results',
+            'pdfPoweredBy' => 'Powered by:',
+            'pdfReviewHeading' => 'Questions & Answers',
+        ],
+        'Tamil' => [
+            'modalTitle' => 'முன்னணி பட்டியலில் இணையுங்கள்',
+            'modalIntro' => 'முன்னணி பட்டியலில் இடம்பெற உங்கள் பெயர் மற்றும் மொபைல் எண்ணை உள்ளிடவும். இரண்டும் அவசியம் — இதைத் தவிர்த்தும் உங்கள் முடிவுகளை பார்க்கலாம்.',
+            'displayName' => 'காட்சிப் பெயர்',
+            'mobileNumber' => 'மொபைல் எண்',
+            'country' => 'நாடு',
+            'disclaimer' => 'உங்கள் மொபைல் எண் என்க்ரிப்ட் செய்யப்பட்டு, இந்த வலைத்தளத்தில் எங்கும் காட்டப்படாது, யாரிடமும் பகிரப்படாது.',
+            'validationError' => 'முன்னணி பட்டியலில் இணைய பெயர் மற்றும் மொபைல் எண் இரண்டையும் உள்ளிடவும், அல்லது தவிர்த்து முடிவுகளை மட்டும் காணவும்.',
+            'save' => 'சேமித்து இணைக',
+            'skip' => 'தவிர்க்க',
+            'playingAs' => 'விளையாடுபவர்',
+            'showNumber' => 'எண்ணைக் காட்டு',
+            'hideNumber' => 'எண்ணை மறை',
+            'pageTitle' => 'முன்னணி பட்டியல்',
+            'top10' => 'முதல் 10',
+            'showAll' => 'அனைத்தையும் காட்டு',
+            'rank' => 'தரவரிசை',
+            'name' => 'பெயர்',
+            'score' => 'மதிப்பெண்',
+            'empty' => 'இன்னும் யாரும் முன்னணி பட்டியலில் இணையவில்லை — முதலில் இணையுங்கள்!',
+            'downloadPdf' => 'முடிவுகளை PDF ஆக பதிவிறக்கவும்',
+            'congratsTop100' => '🎉 வாழ்த்துக்கள்! நீங்கள் முன்னணி பட்டியலில் முதல் 100-க்குள் இடம்பெற்றுள்ளீர்கள் — தரவரிசை #{rank}!',
+            'ok' => 'சரி',
+            'pdfHeading' => 'பைபிள் வினாடி வினா முடிவுகள்',
+            'pdfPoweredBy' => 'வழங்குபவர்:',
+            'pdfReviewHeading' => 'கேள்விகள் & பதில்கள்',
+        ],
+    ];
+}
+
+function quizLeaderboardLabels(string $lang): array
+{
+    $byLang = quizLeaderboardLabelsByLanguage();
+    $labels = $byLang[quizCanonicalLanguageKey($lang)] ?? $byLang['English'];
+    $fallback = $byLang['English'];
+    return $labels + $fallback;
+}
+
+/**
  * Reads a language's built catalog (books, topics, characters, ...) as-is.
  * Used both to resolve display names and to list browsable books/themes/
  * characters (e.g. the homepage's "Quiz modes" section). Returns null if the

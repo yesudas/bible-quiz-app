@@ -1,8 +1,12 @@
 admin-credentials.php
 share-secret.php
+leaderboard-secret.php
 counter.txt
 bot.log
 
 .DS_Store
 **/.DS_Store
 logs/mistake-reports.log
+logs/leaderboard-data.json
+leaderboard/top10.json
+leaderboard/all.json

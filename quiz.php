@@ -2,6 +2,7 @@
 include __DIR__ . '/counter.php';
 include __DIR__ . '/version.php';
 require_once __DIR__ . '/partials.php';
+require_once __DIR__ . '/includes/quiz-leaderboard.php';
 
 $lang = $_GET['lang'] ?? 'English';
 $type = $_GET['type'] ?? 'random';
@@ -119,6 +120,9 @@ if ($difficultyKeys !== []) {
     ];
 }
 
+$leaderboardLabels = quizLeaderboardLabels($lang);
+$leaderboardCountries = quizLeaderboardCountries();
+
 $pageTitle = $typeLabel . ' · Free Bible Quiz';
 $metaDescription = 'Take a ' . $typeLabel . ' in ' . $lang . ' — free Bible quiz from WordOfGod.in.';
 
@@ -139,11 +143,61 @@ renderQuizHeader($pageTitle, $metaDescription, $version, ['bodyClass' => 'quiz-p
      data-difficulty="<?= htmlspecialchars($difficultyAttr) ?>"
      data-timed="<?= $timed ? '1' : '0' ?>"
      data-time-unit="<?= htmlspecialchars($timeUnit) ?>"
-     data-time-value="<?= (int) $timeValue ?>">
+     data-time-value="<?= (int) $timeValue ?>"
+     data-playing-as="<?= htmlspecialchars($leaderboardLabels['playingAs']) ?>"
+     data-show-number="<?= htmlspecialchars($leaderboardLabels['showNumber']) ?>"
+     data-hide-number="<?= htmlspecialchars($leaderboardLabels['hideNumber']) ?>"
+     data-congrats-top100="<?= htmlspecialchars($leaderboardLabels['congratsTop100']) ?>"
+     data-pdf-heading="<?= htmlspecialchars($leaderboardLabels['pdfHeading']) ?>"
+     data-pdf-powered-by="<?= htmlspecialchars($leaderboardLabels['pdfPoweredBy']) ?>"
+     data-pdf-review-heading="<?= htmlspecialchars($leaderboardLabels['pdfReviewHeading']) ?>">
 
     <div class="quiz-toolbar">
         <a href="index.php?lang=<?= urlencode($lang) ?>&type=<?= urlencode($type) ?>" class="btn btn-link">← Change quiz</a>
         <p class="quiz-mode-label"><?= htmlspecialchars($typeLabel) ?> · <?= htmlspecialchars(quizLanguageDisplayName($lang)) ?></p>
+        <a href="leaderboard.php?lang=<?= urlencode($lang) ?>" class="btn btn-link quiz-leaderboard-link"><i class="bi bi-trophy" aria-hidden="true"></i> <?= htmlspecialchars($leaderboardLabels['pageTitle']) ?></a>
+    </div>
+
+    <div id="leaderboardModal" class="modal-overlay" hidden role="dialog" aria-modal="true" aria-labelledby="leaderboardModalTitle">
+        <div class="modal-box">
+            <h2 id="leaderboardModalTitle"><?= htmlspecialchars($leaderboardLabels['modalTitle']) ?></h2>
+            <p><?= htmlspecialchars($leaderboardLabels['modalIntro']) ?></p>
+            <form id="leaderboardForm" novalidate>
+                <label class="modal-field">
+                    <span><?= htmlspecialchars($leaderboardLabels['displayName']) ?></span>
+                    <input type="text" id="leaderboardName" name="displayName" maxlength="60" autocomplete="name">
+                </label>
+                <div class="modal-field-row">
+                    <label class="modal-field modal-field-country">
+                        <span><?= htmlspecialchars($leaderboardLabels['country']) ?></span>
+                        <select id="leaderboardCountry" name="countryCode">
+                            <?php foreach ($leaderboardCountries as $code => $name): ?>
+                                <option value="<?= htmlspecialchars($code) ?>"><?= htmlspecialchars($name . ' (' . $code . ')') ?></option>
+                            <?php endforeach; ?>
+                        </select>
+                    </label>
+                    <label class="modal-field modal-field-mobile">
+                        <span><?= htmlspecialchars($leaderboardLabels['mobileNumber']) ?></span>
+                        <input type="tel" id="leaderboardMobile" name="mobile" autocomplete="tel-national">
+                    </label>
+                </div>
+                <p class="modal-disclaimer"><i class="bi bi-shield-lock" aria-hidden="true"></i> <?= htmlspecialchars($leaderboardLabels['disclaimer']) ?></p>
+                <p id="leaderboardFormError" class="modal-error" role="alert" hidden><?= htmlspecialchars($leaderboardLabels['validationError']) ?></p>
+                <div class="modal-actions">
+                    <button type="submit" class="btn btn-primary" id="leaderboardSaveBtn"><?= htmlspecialchars($leaderboardLabels['save']) ?></button>
+                    <button type="button" class="btn btn-link" id="leaderboardSkipBtn"><?= htmlspecialchars($leaderboardLabels['skip']) ?></button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div id="leaderboardCongratsModal" class="modal-overlay" hidden role="dialog" aria-modal="true" aria-labelledby="leaderboardCongratsText">
+        <div class="modal-box modal-box-congrats">
+            <p id="leaderboardCongratsText" class="modal-congrats-text"></p>
+            <div class="modal-actions">
+                <button type="button" class="btn btn-primary" id="leaderboardCongratsOkBtn"><?= htmlspecialchars($leaderboardLabels['ok']) ?></button>
+            </div>
+        </div>
     </div>
 
     <div id="quizLoading" class="quiz-state">Loading questions…</div>
@@ -174,7 +228,9 @@ renderQuizHeader($pageTitle, $metaDescription, $version, ['bodyClass' => 'quiz-p
     </section>
 
     <section id="quizSetResults" class="quiz-results" hidden>
-        <h2>Set complete</h2>
+        <h2>Quiz set complete</h2>
+        <p id="leaderboardPlayerInfo" class="leaderboard-player-info" hidden></p>
+        <p id="leaderboardSaveStatus" class="leaderboard-save-status" role="status" aria-live="polite" hidden></p>
         <?php if ($quizDetails !== []): ?>
             <dl class="quiz-details">
                 <?php foreach ($quizDetails as $detail): ?>
@@ -191,6 +247,7 @@ renderQuizHeader($pageTitle, $metaDescription, $version, ['bodyClass' => 'quiz-p
         <div class="results-actions">
             <button type="button" class="btn btn-outline-primary" id="reviewBtn">Review answers</button>
             <button type="button" class="btn btn-primary" id="nextSetBtn" hidden>Next set</button>
+            <button type="button" class="btn btn-outline-primary" id="downloadPdfBtn"><i class="bi bi-file-earmark-pdf" aria-hidden="true"></i> <?= htmlspecialchars($leaderboardLabels['downloadPdf']) ?></button>
             <a href="index.php?lang=<?= urlencode($lang) ?>" class="btn btn-link">Back to home</a>
         </div>
     </section>
