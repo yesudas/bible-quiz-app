@@ -29,11 +29,11 @@ if ($timeValue < 1) {
 }
 
 $bookKeys = [];
-if (isset($_GET['books'])) {
+if (isset($_GET['books']) && $_GET['books'] !== '') {
     $rawBooks = $_GET['books'];
-    $bookKeys = is_array($rawBooks) ? $rawBooks : [$rawBooks];
+    $bookKeys = is_array($rawBooks) ? $rawBooks : explode(',', (string) $rawBooks);
 } elseif (!empty($_GET['book'])) {
-    $bookKeys = [(string) $_GET['book']];
+    $bookKeys = explode(',', (string) $_GET['book']);
 }
 $bookKeys = array_values(array_unique(array_filter(array_map(static function ($b) {
     $digits = preg_replace('/[^0-9]/', '', (string) $b);
@@ -47,11 +47,11 @@ sort($bookKeys, SORT_NATURAL);
 $booksAttr = implode(',', $bookKeys);
 
 $chapterKeys = [];
-if (isset($_GET['chapters'])) {
+if (isset($_GET['chapters']) && $_GET['chapters'] !== '') {
     $rawChapters = $_GET['chapters'];
-    $chapterKeys = is_array($rawChapters) ? $rawChapters : [$rawChapters];
+    $chapterKeys = is_array($rawChapters) ? $rawChapters : explode(',', (string) $rawChapters);
 } elseif (!empty($_GET['chapter'])) {
-    $chapterKeys = [(string) $_GET['chapter']];
+    $chapterKeys = explode(',', (string) $_GET['chapter']);
 }
 $chapterKeys = array_values(array_unique(array_filter(array_map(static function ($ch) {
     $ch = preg_replace('/[^0-9\-]/', '', (string) $ch);
@@ -62,7 +62,7 @@ $chaptersAttr = implode(',', $chapterKeys);
 
 $difficultyOptions = quizDifficultyOptions($lang);
 $rawDifficulty = $_GET['difficulty'] ?? [];
-$rawDifficulty = is_array($rawDifficulty) ? $rawDifficulty : [$rawDifficulty];
+$rawDifficulty = is_array($rawDifficulty) ? $rawDifficulty : explode(',', (string) $rawDifficulty);
 $difficultyKeys = array_values(array_intersect(array_keys($difficultyOptions), $rawDifficulty));
 $difficultyAttr = implode(',', $difficultyKeys);
 

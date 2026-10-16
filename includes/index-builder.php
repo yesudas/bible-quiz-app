@@ -150,6 +150,7 @@ function buildQuizIndexes(string $dataDir, string $indexDir): array
         $catalogBooks = [];
         $bookNames = bibleBookNames();
         foreach ($byBook as $bookKey => $paths) {
+            $bookKey = str_pad((string) $bookKey, 2, '0', STR_PAD_LEFT);
             $bookNo = (int) $bookKey;
             $chapters = [];
             foreach ($byChapter as $chKey => $chPaths) {

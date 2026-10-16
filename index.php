@@ -47,10 +47,10 @@ if (isset($_GET['test']) && $_GET['test'] !== '') {
             $redirectParams['time_value'] = $shared['time_value'];
         }
         if ($shared['type'] === 'book' || $shared['type'] === 'chapter') {
-            $redirectParams['books'] = $shared['books'];
+            $redirectParams['books'] = implode(',', $shared['books']);
         }
         if ($shared['type'] === 'chapter') {
-            $redirectParams['chapters'] = $shared['chapters'];
+            $redirectParams['chapters'] = implode(',', $shared['chapters']);
         }
         if ($shared['type'] === 'topic') {
             $redirectParams['topic'] = $shared['topic'];
@@ -62,7 +62,7 @@ if (isset($_GET['test']) && $_GET['test'] !== '') {
             $redirectParams['place'] = $shared['place'];
         }
         if ($shared['difficulty'] !== []) {
-            $redirectParams['difficulty'] = $shared['difficulty'];
+            $redirectParams['difficulty'] = implode(',', $shared['difficulty']);
         }
 
         header('Location: quiz.php?' . http_build_query($redirectParams));

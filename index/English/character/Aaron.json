@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Aaron",
     "label": "Aaron",
-    "count": 121,
+    "count": 98,
     "paths": [
         "English/02/02-004-005.json",
         "English/02/02-004-006.json",
@@ -102,30 +102,7 @@
         "English/04/04-020-003.json",
         "English/04/04-020-005.json",
         "English/04/04-020-007.json",
-        "English/04/04-033-003.json",
-        "English/05/05-009-008.json",
-        "English/05/05-010-003.json",
-        "English/05/05-032-013.json",
-        "English/06/06-021-003.json",
-        "English/07/07-020-011.json",
-        "English/13/13-006-002.json",
-        "English/13/13-006-003.json",
-        "English/13/13-006-011.json",
-        "English/13/13-006-014.json",
-        "English/13/13-023-006.json",
-        "English/13/13-024-001.json",
-        "English/13/13-024-008.json",
-        "English/14/14-026-011.json",
-        "English/15/15-007-002.json",
-        "English/19/19-077-007.json",
-        "English/19/19-099-003.json",
-        "English/19/19-099-004.json",
-        "English/19/19-105-009.json",
-        "English/19/19-106-006.json",
-        "English/19/19-115-008.json",
-        "English/19/19-118-002.json",
-        "English/19/19-133-002.json",
-        "English/19/19-135-010.json"
+        "English/04/04-033-003.json"
     ],
-    "generated": "2026-10-16T13:50:54+00:00"
+    "generated": "2026-10-16T10:04:02-05:00"
 }

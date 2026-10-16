@@ -29,7 +29,7 @@
 - Keep static assets under `assets/` (css, js, images).
 - Shared layout: `partials.php`, `menu-links.php`, `footer-links.php`, `google-analytics.php`, `bot.php` honeypot.
 - PWA: `manifest.json`, `sw.js`, icons in `assets/images/`.
-- Version cache-bust: `version.php` (`$version`).
+- Version cache-bust: `version.php` (`$version`) — appended as `?v=$version` on `assets/css/style.css` and `assets/js/*.js` `<script>`/`<link>` tags on every page. `index.php`/`quiz.php`/`embed.php` also emit it as `window.QUIZ_VERSION` (alongside the existing `window.QUIZ_I18N` inline script, right before the page's own JS bundle loads) so client-side `fetch()` calls can cache-bust the same way: `home.js`'s `loadCatalog()` appends it as `&v=...` on `api/catalog.php` requests and `quiz.js`'s `indexUrl()` appends it on `api/index.php` requests — both endpoints set `Cache-Control: public, max-age=300`, so without a version-keyed param a browser could keep serving a pre-bump response (missing newly-added questions/books) until that 5-minute window lapsed on its own. Bumping `version.php` after a data/index change is what guarantees an immediate fresh fetch instead of waiting out the cache. Both endpoints ignore unrecognized query params, so `v` is inert server-side — it only changes the cache key.
 - Public site styling lives in `assets/css/style.css` (Vibrant Playful theme — purple/teal/pink/yellow, Baloo 2 + Nunito). The admin/file-browser tools (`a.php`, `i.php`, `sitemap.php`) use a separate, unrelated `styles.css` at the repo root — don't conflate the two when restyling.
 - `assets/js/quiz.js` shuffles each question's `options` (and remaps `correct_option`) the first time it's rendered, flagged via `q.__shuffled`. Any code that reads a question's options/correct answer must go through the same `q` object after `renderQuestion()` has run, not the raw API response, or it'll see the pre-shuffle order.
 - Quiz type keys (`quizTypeKeys()` in `includes/quiz-i18n.php`) must stay in their existing order — `includes/quiz-share.php` encodes a quiz type as a 1-based index into that list, so reordering it invalidates every previously issued share link. `place` was appended at the end for this reason when it was added; the next new type must also be appended, never inserted. `quizDifficultyKeys()` (also `includes/quiz-i18n.php`) is encoded as a bitmask by bit position in `includes/quiz-share.php` — same rule: append, don't reorder.
@@ -61,6 +61,7 @@ Each index file lists `paths` only; the client splits them into sets using `set_
 
 1. Copy `admin-credentials.php` on server.
 2. Run index build from admin after syncing `data/`.
-3. Generate `sitemap.xml` from admin if SEO URLs changed.
-4. Ensure the `counters/` directory is writable.
-5. Ensure `logs/` and `leaderboard/` are writable (the leaderboard's private master file and its public top10/all JSON files are created on first use).
+3. Bump `version.php`'s `$version` after any `data/`/index change (new questions, new book, edited tags) — see the Conventions entry above; skipping this means visitors with a warm cache can keep missing the new content for up to 5 minutes (the `api/catalog.php`/`api/index.php` `max-age`) rather than seeing it immediately.
+4. Generate `sitemap.xml` from admin if SEO URLs changed.
+5. Ensure the `counters/` directory is writable.
+6. Ensure `logs/` and `leaderboard/` are writable (the leaderboard's private master file and its public top10/all JSON files are created on first use).

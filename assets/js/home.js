@@ -89,9 +89,15 @@ document.addEventListener('DOMContentLoaded', () => {
         return [...bookCheckboxList.querySelectorAll('input[type="checkbox"]:checked')].map((i) => i.value);
     }
 
+    // Accepts both the repeated bracket form (books[]=01&books[]=02) and the
+    // shorter comma-joined form (books=01,02) that quiz.php/embed-quiz.php
+    // also understand now, since either can show up in a pasted/bookmarked URL.
     function booksFromQuery() {
         const params = new URLSearchParams(window.location.search);
-        const keys = params.getAll('books[]');
+        let keys = params.getAll('books[]');
+        if (!keys.length && params.get('books')) {
+            keys = params.get('books').split(',');
+        }
         if (!keys.length && params.get('book')) {
             keys.push(params.get('book'));
         }
@@ -100,11 +106,31 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function chaptersFromQuery() {
         const params = new URLSearchParams(window.location.search);
-        const keys = params.getAll('chapters[]');
+        let keys = params.getAll('chapters[]');
+        if (!keys.length && params.get('chapters')) {
+            keys = params.get('chapters').split(',');
+        }
         if (!keys.length && params.get('chapter')) {
             keys.push(params.get('chapter'));
         }
         return new Set(keys.filter((k) => /^\d{2}-\d{3}$/.test(k)));
+    }
+
+    // Collapses the form's repeated name[] fields (books[], chapters[],
+    // difficulty[]) into a single comma-joined param each, so Start Quiz /
+    // Share Quiz / Embed Quiz URLs stay short even with many books/chapters
+    // selected. quiz.php, embed-quiz.php and api/share.php all accept this
+    // comma form (and still accept the bracket form for back-compat).
+    function buildQuizParams(sourceForm) {
+        const params = new URLSearchParams(new FormData(sourceForm));
+        ['books[]', 'chapters[]', 'difficulty[]'].forEach((name) => {
+            const values = params.getAll(name);
+            if (values.length) {
+                params.delete(name);
+                params.set(name.slice(0, -2), values.join(','));
+            }
+        });
+        return params;
     }
 
     function chaptersForBook(bookKey) {
@@ -624,9 +650,15 @@ document.addEventListener('DOMContentLoaded', () => {
         timedCheckbox.checked = false;
         timedOptions.hidden = true;
         timeValueInput.disabled = true;
+        document.querySelectorAll('input[name="time_unit"]').forEach((radio) => {
+            radio.disabled = true;
+        });
         if (shareExpiryCheckbox) shareExpiryCheckbox.checked = false;
         if (shareExpiryOptions) shareExpiryOptions.hidden = true;
         if (shareExpiryValueInput) shareExpiryValueInput.disabled = true;
+        document.querySelectorAll('input[name="share_expiry_unit"]').forEach((radio) => {
+            radio.disabled = true;
+        });
         if (shareOneAttemptCheckbox) {
             shareOneAttemptCheckbox.checked = false;
             shareOneAttemptCheckbox.disabled = true;
@@ -683,6 +715,13 @@ document.addEventListener('DOMContentLoaded', () => {
         const on = timedCheckbox.checked;
         timedOptions.hidden = !on;
         timeValueInput.disabled = !on;
+        // time_unit's radios have no default "disabled" in the markup (unlike
+        // time_value), so a plain Start Quiz submit used to always carry
+        // time_unit=seconds into the URL even for an untimed quiz — keep them
+        // disabled except while timed mode is actually on.
+        document.querySelectorAll('input[name="time_unit"]').forEach((radio) => {
+            radio.disabled = !on;
+        });
     });
 
     document.querySelectorAll('input[name="time_unit"]').forEach((radio) => {
@@ -695,6 +734,12 @@ document.addEventListener('DOMContentLoaded', () => {
             shareExpiryOptions.hidden = !on;
             shareExpiryValueInput.disabled = !on;
             shareOneAttemptCheckbox.disabled = !on;
+            // Same reasoning as time_unit above — share_expiry_unit's radios
+            // otherwise leak "share_expiry_unit=minutes" into every Start
+            // Quiz URL even when the competition-expiry checkbox is off.
+            document.querySelectorAll('input[name="share_expiry_unit"]').forEach((radio) => {
+                radio.disabled = !on;
+            });
             if (!on) shareOneAttemptCheckbox.checked = false;
         });
     }
@@ -747,9 +792,15 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     form.addEventListener('submit', (event) => {
+        event.preventDefault();
         if (!validateSelection()) {
-            event.preventDefault();
+            return;
         }
+        // A plain native submit would serialize books[]/chapters[]/difficulty[]
+        // as repeated params — route through buildQuizParams() instead so a
+        // multi-book or multi-chapter quiz gets a comma-joined (shorter) URL.
+        const params = buildQuizParams(form);
+        window.location.href = `${form.getAttribute('action')}?${params.toString()}`;
     });
 
     function showShareMessage(message, isError) {
@@ -769,7 +820,7 @@ document.addEventListener('DOMContentLoaded', () => {
             shareBtn.textContent = 'Sharing…';
 
             try {
-                const params = new URLSearchParams(new FormData(form));
+                const params = buildQuizParams(form);
                 const res = await fetch(`api/share.php?${params.toString()}`);
                 const data = await res.json().catch(() => ({}));
 
@@ -868,7 +919,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 return;
             }
 
-            const params = new URLSearchParams(new FormData(form));
+            const params = buildQuizParams(form);
             const basePath = location.pathname.replace(/[^/]*$/, '');
             const embedQuizSrc = `${location.origin}${basePath}embed-quiz.php?${params.toString()}`;
             const embedQuizCode = `<iframe src="${embedQuizSrc}" width="100%" height="1100" style="border:0;max-width:600px;" loading="lazy" title="Bible Quiz"></iframe>`;
@@ -893,6 +944,15 @@ document.addEventListener('DOMContentLoaded', () => {
             } catch (err) {
                 showEmbedQuizMessage('Copy failed — select and copy manually.', true);
             }
+        });
+    }
+
+    document.querySelectorAll('input[name="time_unit"]').forEach((radio) => {
+        radio.disabled = !timedCheckbox.checked;
+    });
+    if (shareExpiryCheckbox) {
+        document.querySelectorAll('input[name="share_expiry_unit"]').forEach((radio) => {
+            radio.disabled = !shareExpiryCheckbox.checked;
         });
     }
 

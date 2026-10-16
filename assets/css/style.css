@@ -1650,15 +1650,88 @@ input[type="radio"] {
 }
 
 @media (max-width: 480px) {
-    .leaderboard-widget .podium { gap: 6px; }
-    .podium-step { padding: 10px 6px 12px; }
-    .podium-step .ord-tag { font-size: 1.05rem; padding: 2px 8px; }
-    .podium-step .p-name { font-size: .9rem; }
-    .podium-step .p-country { font-size: .72rem; }
-    .podium-step .p-score { font-size: 1.1rem; }
-    .podium-step.gold { height: 128px; }
-    .podium-step.silver { height: 106px; }
-    .podium-step.bronze { height: 92px; }
+    /* The 3-column, uneven-height podium reads fine on a wide card but
+       falls apart on a phone-width one: three slim columns leave barely
+       any room for a name, so a longer display name gets cramped or
+       clipped. Below this width the podium becomes a stack of full-width
+       rows instead — one per rank, same tier colors, with a square rank
+       chip on the left, name/country stacked next to it, and the score
+       pinned to the right. A row can grow to fit a wrapped name without
+       breaking the layout the way a fixed-height column would. */
+    .leaderboard-widget .podium {
+        display: flex;
+        flex-direction: column;
+        /* Desktop's .podium sets align-items: end for its 3-column grid;
+           left un-overridden here, that becomes "align to the end of the
+           cross axis" in a column flex container — which, with no
+           stretch, shrinks each row to its content width and pushes it
+           to the right edge instead of filling the row. */
+        align-items: stretch;
+        gap: 8px;
+        margin: 18px 0 20px;
+    }
+
+    /* Grid (rather than flex) so the name and country can stack in their
+       own column — both span column 2 across the two rows — without
+       needing a wrapper element around them in the markup. */
+    .podium-step {
+        display: grid;
+        grid-template-columns: 30px 1fr auto;
+        grid-template-rows: auto auto;
+        column-gap: 10px;
+        row-gap: 0;
+        align-items: center;
+        height: auto;
+        padding: 10px 12px;
+        text-align: left;
+    }
+
+    /* DOM order is silver/gold/bronze (so the taller gold column sits
+       centered on desktop); rows need rank order instead, so each tier
+       gets its own explicit order here rather than inheriting the
+       desktop grid's. Height is re-asserted per tier too: each tier's
+       own selector (.podium-step.gold etc.) outweighs the plain
+       ".podium-step { height: auto }" above on specificity alone, so
+       without this the desktop column heights (150px/122px/104px) would
+       still win here. */
+    .podium-step.gold { order: 1; height: auto; }
+    .podium-step.silver { order: 2; height: auto; }
+    .podium-step.bronze { order: 3; height: auto; }
+
+    .podium-step .ord-tag {
+        position: static;
+        grid-column: 1;
+        grid-row: 1 / 3;
+        width: 30px;
+        height: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0;
+        font-size: 1rem;
+    }
+
+    .podium-step .p-name {
+        grid-column: 2;
+        grid-row: 1;
+        font-size: .92rem;
+        line-height: 1.25;
+        word-break: break-word;
+    }
+
+    .podium-step .p-country {
+        grid-column: 2;
+        grid-row: 2;
+        font-size: .74rem;
+    }
+
+    .podium-step .p-score {
+        grid-column: 3;
+        grid-row: 1 / 3;
+        margin-top: 0;
+        font-size: 1.05rem;
+    }
+
     .rest-row { font-size: .82rem; }
 }
 

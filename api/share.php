@@ -28,7 +28,7 @@ if ($timeValue < 1) {
 }
 
 $booksRaw = $_GET['books'] ?? ($_GET['book'] ?? []);
-$booksRaw = is_array($booksRaw) ? $booksRaw : [$booksRaw];
+$booksRaw = is_array($booksRaw) ? $booksRaw : explode(',', (string) $booksRaw);
 $books = [];
 foreach ($booksRaw as $b) {
     $n = (int) preg_replace('/[^0-9]/', '', (string) $b);
@@ -39,7 +39,7 @@ foreach ($booksRaw as $b) {
 $books = array_values(array_unique($books));
 
 $chaptersRaw = $_GET['chapters'] ?? ($_GET['chapter'] ?? []);
-$chaptersRaw = is_array($chaptersRaw) ? $chaptersRaw : [$chaptersRaw];
+$chaptersRaw = is_array($chaptersRaw) ? $chaptersRaw : explode(',', (string) $chaptersRaw);
 $chapters = [];
 foreach ($chaptersRaw as $c) {
     $c = (string) $c;
@@ -56,7 +56,7 @@ $character = preg_replace('/[^\p{L}\p{M}\p{N}\-_]/u', '', (string) ($_GET['chara
 $place = preg_replace('/[^\p{L}\p{M}\p{N}\-_]/u', '', (string) ($_GET['place'] ?? ''));
 
 $difficultyRaw = $_GET['difficulty'] ?? [];
-$difficultyRaw = is_array($difficultyRaw) ? $difficultyRaw : [$difficultyRaw];
+$difficultyRaw = is_array($difficultyRaw) ? $difficultyRaw : explode(',', (string) $difficultyRaw);
 $difficulty = array_values(array_intersect(
     array_map(static fn ($d) => strtolower((string) $d), $difficultyRaw),
     quizDifficultyKeys()
