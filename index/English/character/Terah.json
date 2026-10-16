@@ -3,10 +3,11 @@
     "language": "English",
     "character": "Terah",
     "label": "Terah",
-    "count": 2,
+    "count": 3,
     "paths": [
         "English/01/01-011-004.json",
-        "English/01/01-011-006.json"
+        "English/01/01-011-006.json",
+        "English/06/06-024-002.json"
     ],
-    "generated": "2026-10-16T10:04:02-05:00"
+    "generated": "2026-10-16T16:13:38+00:00"
 }

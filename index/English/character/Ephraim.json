@@ -3,13 +3,18 @@
     "language": "English",
     "character": "Ephraim",
     "label": "Ephraim",
-    "count": 5,
+    "count": 10,
     "paths": [
         "English/01/01-041-013.json",
         "English/01/01-048-001.json",
         "English/01/01-048-003.json",
         "English/01/01-048-006.json",
-        "English/01/01-048-007.json"
+        "English/01/01-048-007.json",
+        "English/13/13-007-004.json",
+        "English/13/13-007-005.json",
+        "English/13/13-007-006.json",
+        "English/13/13-007-007.json",
+        "English/13/13-007-008.json"
     ],
-    "generated": "2026-10-16T10:04:02-05:00"
+    "generated": "2026-10-16T16:13:38+00:00"
 }

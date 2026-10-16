@@ -847,98 +847,270 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // Builds an off-screen copy of the results screen for the PDF: a
-    // dedicated "Bible Quiz Results" heading instead of "Quiz set complete",
-    // no buttons (Review/Next set/Download/Back), and a footer credit link.
-    function buildPdfSnapshotNode() {
-        const clone = els.setResults.cloneNode(true);
-        clone.hidden = false;
-        clone.removeAttribute('id');
+    // Native-text PDF generation (jsPDF only, no html2canvas/rasterizing) —
+    // keeps the file a few KB instead of tens of MB of embedded page images,
+    // and lets the "Powered by" credit be a real clickable link via
+    // pdf.textWithLink() instead of a flattened pixel of text. Colors/badges
+    // below are drawn with jsPDF's own fill/rect/circle primitives, so they
+    // stay crisp vector shapes rather than screenshots.
+    const PDF_MARGIN = 36;
+    const PDF_LINE_HEIGHT = 14;
+    const PDF_BRAND = [109, 40, 217]; // purple, matches the site's theme
+    const PDF_BRAND_LIGHT = [243, 238, 255];
 
-        const heading = clone.querySelector('h2');
-        if (heading) heading.textContent = state.pdfHeading;
-
-        const actions = clone.querySelector('.results-actions');
-        if (actions) actions.remove();
-
-        const mobileToggle = clone.querySelector('.player-mobile-toggle');
-        if (mobileToggle) mobileToggle.remove();
-
-        const footer = document.createElement('p');
-        footer.className = 'pdf-footer-note';
-        footer.innerHTML = `${escapeHtml(state.pdfPoweredByLabel)} `
-            + `<a href="https://wordofgod.in/bible-quiz">https://wordofgod.in/bible-quiz</a>`;
-        clone.appendChild(footer);
-
-        clone.style.position = 'absolute';
-        clone.style.left = '-9999px';
-        clone.style.top = '0';
-        clone.style.width = `${els.setResults.offsetWidth}px`;
-        clone.style.background = '#ffffff';
-        document.body.appendChild(clone);
-        return clone;
+    function pdfScoreColor(pct) {
+        if (pct >= 80) return [22, 163, 74]; // green
+        if (pct >= 50) return [217, 119, 6]; // amber
+        return [220, 38, 38]; // red
     }
 
-    // Builds an off-screen copy of the review-answers list (questions,
-    // chosen vs. correct answer, explanation) for the PDF's second page
-    // onwards — the same markup renderReview() shows on screen, just never
-    // actually revealed in the page.
-    function buildPdfReviewNode() {
-        const wrap = document.createElement('div');
-        wrap.className = 'quiz-review pdf-review-snapshot';
-
-        const heading = document.createElement('h2');
-        heading.textContent = state.pdfReviewHeading;
-        wrap.appendChild(heading);
-
-        const list = document.createElement('div');
-        list.className = 'review-list';
-        list.innerHTML = buildReviewListHtml();
-        wrap.appendChild(list);
-
-        wrap.style.position = 'absolute';
-        wrap.style.left = '-9999px';
-        wrap.style.top = '0';
-        wrap.style.width = `${els.setResults.offsetWidth}px`;
-        wrap.style.background = '#ffffff';
-        document.body.appendChild(wrap);
-        return wrap;
-    }
-
-    // Slices a (possibly multi-page-tall) canvas into same-size chunks and
-    // adds each as its own PDF page, scaled to fit the page width with a
-    // fixed margin. Pass forceNewPage=true to always start this canvas on a
-    // fresh page (used for the review answers, which must begin on page 2)
-    // rather than reusing the page jsPDF already created.
-    function addCanvasToPdf(pdf, canvas, forceNewPage) {
-        const margin = 20;
+    function pdfAddFooterLink(pdf, label) {
         const pageWidth = pdf.internal.pageSize.getWidth();
         const pageHeight = pdf.internal.pageSize.getHeight();
-        const imgWidth = pageWidth - margin * 2;
-        const pageContentHeightPt = pageHeight - margin * 2;
-        const pxPerPt = canvas.width / imgWidth;
-        const pageContentHeightPx = pageContentHeightPt * pxPerPt;
+        pdf.setFont('helvetica', 'normal');
+        pdf.setFontSize(9);
+        pdf.setTextColor(120, 120, 120);
+        const y = pageHeight - 16;
+        pdf.text(`${label} `, PDF_MARGIN, y);
+        const labelWidth = pdf.getTextWidth(`${label} `);
+        pdf.setFont('helvetica', 'bold');
+        pdf.setTextColor(PDF_BRAND[0], PDF_BRAND[1], PDF_BRAND[2]);
+        pdf.textWithLink('Bible Quiz', PDF_MARGIN + labelWidth, y, { url: 'https://wordofgod.in/bible-quiz' });
+        pdf.setFont('helvetica', 'normal');
+        pdf.setTextColor(0, 0, 0);
+    }
 
-        let renderedPx = 0;
-        let isFirstSlice = true;
-        while (renderedPx < canvas.height) {
-            if (forceNewPage || !isFirstSlice) {
-                pdf.addPage();
-            }
-            isFirstSlice = false;
+    // Tracks the current write position and starts a new page (with margin
+    // reset) whenever the next line would run past the bottom margin.
+    function makePdfCursor(pdf) {
+        const pageHeight = pdf.internal.pageSize.getHeight();
+        const bottomLimit = pageHeight - PDF_MARGIN - 20;
+        let y = PDF_MARGIN;
+        return {
+            ensure(lines) {
+                if (y + lines * PDF_LINE_HEIGHT > bottomLimit) {
+                    pdf.addPage();
+                    y = PDF_MARGIN;
+                }
+            },
+            lineHeight(size) {
+                return Math.max(PDF_LINE_HEIGHT, size * 1.4);
+            },
+            writeLines(linesArr, size, color) {
+                const lh = this.lineHeight(size);
+                pdf.setFontSize(size);
+                if (color) pdf.setTextColor(color[0], color[1], color[2]);
+                linesArr.forEach((line) => {
+                    this.ensure(1);
+                    pdf.text(line, PDF_MARGIN, y);
+                    y += lh;
+                });
+                pdf.setTextColor(0, 0, 0);
+            },
+            writeCentered(linesArr, size, color) {
+                const pageWidth = pdf.internal.pageSize.getWidth();
+                const lh = this.lineHeight(size);
+                pdf.setFontSize(size);
+                if (color) pdf.setTextColor(color[0], color[1], color[2]);
+                linesArr.forEach((line) => {
+                    this.ensure(1);
+                    const w = pdf.getTextWidth(line);
+                    pdf.text(line, (pageWidth - w) / 2, y);
+                    y += lh;
+                });
+                pdf.setTextColor(0, 0, 0);
+            },
+            addGap(amount) {
+                y += amount;
+            },
+            get y() { return y; },
+            set y(value) { y = value; },
+        };
+    }
 
-            const sliceHeightPx = Math.min(pageContentHeightPx, canvas.height - renderedPx);
-            const sliceCanvas = document.createElement('canvas');
-            sliceCanvas.width = canvas.width;
-            sliceCanvas.height = sliceHeightPx;
-            sliceCanvas.getContext('2d').drawImage(
-                canvas, 0, renderedPx, canvas.width, sliceHeightPx, 0, 0, canvas.width, sliceHeightPx
-            );
+    function pdfWrapped(pdf, text, size, maxWidth) {
+        pdf.setFontSize(size);
+        return pdf.splitTextToSize(text || '', maxWidth);
+    }
 
-            const sliceHeightPt = sliceHeightPx / pxPerPt;
-            pdf.addImage(sliceCanvas.toDataURL('image/png'), 'PNG', margin, margin, imgWidth, sliceHeightPt);
-            renderedPx += sliceHeightPx;
+    // Strips the "Show number"/"Hide number" toggle button text out of the
+    // player-info line before it goes in the PDF — that control only makes
+    // sense on screen, not in a static document.
+    function pdfPlayerInfoText() {
+        if (!els.leaderboardPlayerInfo || els.leaderboardPlayerInfo.hidden) return '';
+        const clone = els.leaderboardPlayerInfo.cloneNode(true);
+        const toggle = clone.querySelector('.player-mobile-toggle');
+        if (toggle) toggle.remove();
+        return clone.textContent.replace(/\s+/g, ' ').trim();
+    }
+
+    function buildResultsPdf(pdf, stats) {
+        const pageWidth = pdf.internal.pageSize.getWidth();
+        const maxWidth = pageWidth - PDF_MARGIN * 2;
+        const { correct, wrong, unanswered, total, pct } = stats;
+        const scoreColor = pdfScoreColor(pct);
+
+        // Brand header banner
+        const bannerHeight = 58;
+        pdf.setFillColor(PDF_BRAND[0], PDF_BRAND[1], PDF_BRAND[2]);
+        pdf.rect(0, 0, pageWidth, bannerHeight, 'F');
+        pdf.setFont('helvetica', 'bold');
+        pdf.setFontSize(20);
+        pdf.setTextColor(255, 255, 255);
+        const titleLines = pdf.splitTextToSize(state.pdfHeading, maxWidth);
+        let bannerY = 26;
+        titleLines.forEach((line) => {
+            const w = pdf.getTextWidth(line);
+            pdf.text(line, (pageWidth - w) / 2, bannerY);
+            bannerY += 20;
+        });
+        pdf.setFont('helvetica', 'normal');
+        pdf.setFontSize(10);
+        pdf.setTextColor(230, 220, 255);
+        const sub = 'wordofgod.in/bible-quiz';
+        pdf.text(sub, (pageWidth - pdf.getTextWidth(sub)) / 2, bannerHeight - 8);
+        pdf.setTextColor(0, 0, 0);
+
+        const cursor = makePdfCursor(pdf);
+        cursor.y = bannerHeight + 26;
+
+        const playerInfo = pdfPlayerInfoText();
+        if (playerInfo) {
+            pdf.setFont('helvetica', 'normal');
+            cursor.writeCentered(pdfWrapped(pdf, playerInfo, 11, maxWidth), 11, [70, 70, 70]);
+            cursor.addGap(10);
         }
+
+        // Quiz details card
+        const detailRows = els.setResults.querySelectorAll('.quiz-details .quiz-detail-row');
+        if (detailRows.length) {
+            const lines = [];
+            detailRows.forEach((row) => {
+                const dt = row.querySelector('dt');
+                const dd = row.querySelector('dd');
+                if (!dt || !dd) return;
+                lines.push(`${dt.textContent.trim()}: ${dd.textContent.trim()}`);
+            });
+            pdf.setFontSize(10.5);
+            const wrappedLines = lines.flatMap((line) => pdf.splitTextToSize(line, maxWidth - 24));
+            const cardLineHeight = cursor.lineHeight(10.5);
+            const cardHeight = wrappedLines.length * cardLineHeight + 16;
+            cursor.ensure(Math.ceil(cardHeight / PDF_LINE_HEIGHT) + 1);
+            pdf.setFillColor(PDF_BRAND_LIGHT[0], PDF_BRAND_LIGHT[1], PDF_BRAND_LIGHT[2]);
+            pdf.roundedRect(PDF_MARGIN, cursor.y - 10, maxWidth, cardHeight, 6, 6, 'F');
+            cursor.addGap(6);
+            cursor.writeLines(wrappedLines, 10.5, [60, 60, 60]);
+            cursor.addGap(14);
+        }
+
+        // Big colored score card
+        const cardWidth = maxWidth;
+        const cardHeight = 86;
+        cursor.ensure(Math.ceil(cardHeight / PDF_LINE_HEIGHT) + 1);
+        const cardTop = cursor.y - 10;
+        pdf.setDrawColor(scoreColor[0], scoreColor[1], scoreColor[2]);
+        pdf.setLineWidth(1.5);
+        pdf.setFillColor(255, 255, 255);
+        pdf.roundedRect(PDF_MARGIN, cardTop, cardWidth, cardHeight, 8, 8, 'FD');
+
+        pdf.setFont('helvetica', 'bold');
+        pdf.setFontSize(30);
+        pdf.setTextColor(scoreColor[0], scoreColor[1], scoreColor[2]);
+        const pctText = `${pct}%`;
+        pdf.text(pctText, (pageWidth - pdf.getTextWidth(pctText)) / 2, cardTop + 38);
+
+        pdf.setFontSize(14);
+        const fractionText = `${correct} / ${total} correct`;
+        pdf.text(fractionText, (pageWidth - pdf.getTextWidth(fractionText)) / 2, cardTop + 58);
+
+        pdf.setFont('helvetica', 'normal');
+        pdf.setFontSize(9.5);
+        pdf.setTextColor(110, 110, 110);
+        const breakdown = `Wrong: ${wrong}   Unanswered: ${unanswered}`;
+        pdf.text(breakdown, (pageWidth - pdf.getTextWidth(breakdown)) / 2, cardTop + 74);
+        pdf.setTextColor(0, 0, 0);
+
+        cursor.y = cardTop + cardHeight + 20;
+
+        if (els.setEncouragement && els.setEncouragement.textContent.trim()) {
+            pdf.setFont('helvetica', 'bold');
+            cursor.writeCentered(
+                pdfWrapped(pdf, els.setEncouragement.textContent.trim(), 11.5, maxWidth),
+                11.5,
+                scoreColor
+            );
+            pdf.setFont('helvetica', 'normal');
+        }
+
+        return cursor;
+    }
+
+    function pdfDrawBadge(pdf, cursor, text, color) {
+        pdf.setFont('helvetica', 'bold');
+        pdf.setFontSize(9.5);
+        const textWidth = pdf.getTextWidth(text);
+        const paddingX = 6;
+        const badgeWidth = textWidth + paddingX * 2;
+        const badgeHeight = 13;
+        cursor.ensure(1);
+        pdf.setFillColor(color[0], color[1], color[2]);
+        pdf.roundedRect(PDF_MARGIN, cursor.y - 9, badgeWidth, badgeHeight, 3, 3, 'F');
+        pdf.setTextColor(255, 255, 255);
+        pdf.text(text, PDF_MARGIN + paddingX, cursor.y);
+        pdf.setTextColor(0, 0, 0);
+        cursor.addGap(cursor.lineHeight(9.5));
+        pdf.setFont('helvetica', 'normal');
+    }
+
+    function buildReviewPdf(pdf, stats) {
+        if (!state.questions.length) return;
+
+        pdf.addPage();
+        const cursor = makePdfCursor(pdf);
+        const pageWidth = pdf.internal.pageSize.getWidth();
+        const maxWidth = pageWidth - PDF_MARGIN * 2;
+
+        pdf.setFont('helvetica', 'bold');
+        cursor.writeLines(pdfWrapped(pdf, state.pdfReviewHeading, 16, maxWidth), 16, PDF_BRAND);
+        cursor.addGap(2);
+        pdf.setFont('helvetica', 'normal');
+        cursor.writeLines([`${stats.correct} / ${stats.total} correct (${stats.pct}%)`], 10.5, [100, 100, 100]);
+        cursor.addGap(10);
+
+        state.questions.forEach((q, i) => {
+            const chosen = state.answers[i];
+            const correct = parseInt(q.correct_option, 10);
+            const isRight = chosen === correct;
+            const chosenText = chosen !== undefined ? q.options[chosen] : '(no answer)';
+            const correctText = q.options[correct];
+            const statusColor = isRight ? [22, 163, 74] : [220, 38, 38];
+
+            pdfDrawBadge(pdf, cursor, `${i + 1}  ${isRight ? 'CORRECT' : 'WRONG'}`, statusColor);
+
+            pdf.setFont('helvetica', 'bold');
+            cursor.writeLines(pdfWrapped(pdf, q.question, 12, maxWidth), 12);
+
+            pdf.setFont('helvetica', 'normal');
+            cursor.writeLines(pdfWrapped(pdf, `Your answer: ${chosenText}`, 10.5, maxWidth), 10.5, statusColor);
+
+            const correctLine = q.verse_reference
+                ? `Correct: ${correctText}  (${q.verse_reference})`
+                : `Correct: ${correctText}`;
+            cursor.writeLines(pdfWrapped(pdf, correctLine, 10.5, maxWidth), 10.5, [22, 163, 74]);
+
+            if (q.explanation) {
+                pdf.setFont('helvetica', 'italic');
+                cursor.writeLines(pdfWrapped(pdf, q.explanation, 9.5, maxWidth), 9.5, [110, 110, 110]);
+                pdf.setFont('helvetica', 'normal');
+            }
+
+            cursor.addGap(6);
+            cursor.ensure(1);
+            pdf.setDrawColor(225, 220, 235);
+            pdf.setLineWidth(0.5);
+            pdf.line(PDF_MARGIN, cursor.y - 8, pageWidth - PDF_MARGIN, cursor.y - 8);
+            cursor.addGap(6);
+        });
     }
 
     if (els.downloadPdfBtn) {
@@ -946,31 +1118,26 @@ document.addEventListener('DOMContentLoaded', () => {
             els.downloadPdfBtn.disabled = true;
             const originalText = els.downloadPdfBtn.textContent;
             els.downloadPdfBtn.textContent = 'Preparing PDF…';
-            let snapshot = null;
-            let reviewSnapshot = null;
             try {
-                await loadScriptOnce('https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js');
                 await loadScriptOnce('https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js');
 
                 const { jsPDF } = window.jspdf;
                 const pdf = new jsPDF({ orientation: 'portrait', unit: 'pt', format: 'a5' });
+                const stats = getScoreStats();
 
-                snapshot = buildPdfSnapshotNode();
-                const canvas = await window.html2canvas(snapshot, { scale: 2, backgroundColor: '#ffffff' });
-                addCanvasToPdf(pdf, canvas, false);
+                buildResultsPdf(pdf, stats);
+                buildReviewPdf(pdf, stats);
 
-                if (state.questions.length) {
-                    reviewSnapshot = buildPdfReviewNode();
-                    const reviewCanvas = await window.html2canvas(reviewSnapshot, { scale: 2, backgroundColor: '#ffffff' });
-                    addCanvasToPdf(pdf, reviewCanvas, true);
+                const totalPages = pdf.internal.getNumberOfPages();
+                for (let p = 1; p <= totalPages; p += 1) {
+                    pdf.setPage(p);
+                    pdfAddFooterLink(pdf, state.pdfPoweredByLabel);
                 }
 
                 pdf.save('quiz-results-from-wordofgod.in.pdf');
             } catch (err) {
                 window.alert('Could not generate the PDF. Please try again.');
             } finally {
-                if (snapshot) snapshot.remove();
-                if (reviewSnapshot) reviewSnapshot.remove();
                 els.downloadPdfBtn.disabled = false;
                 els.downloadPdfBtn.textContent = originalText;
             }

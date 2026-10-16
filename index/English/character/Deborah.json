@@ -3,9 +3,19 @@
     "language": "English",
     "character": "Deborah",
     "label": "Deborah",
-    "count": 1,
+    "count": 11,
     "paths": [
-        "English/01/01-035-004.json"
+        "English/01/01-035-004.json",
+        "English/07/07-004-006.json",
+        "English/07/07-004-007.json",
+        "English/07/07-004-008.json",
+        "English/07/07-004-010.json",
+        "English/07/07-004-012.json",
+        "English/07/07-004-013.json",
+        "English/07/07-004-019.json",
+        "English/07/07-005-001.json",
+        "English/07/07-005-002.json",
+        "English/07/07-005-003.json"
     ],
-    "generated": "2026-10-16T10:04:02-05:00"
+    "generated": "2026-10-16T16:13:38+00:00"
 }

@@ -3,12 +3,28 @@
     "language": "English",
     "place": "Canaan",
     "label": "Canaan",
-    "count": 4,
+    "count": 20,
     "paths": [
         "English/04/04-013-001.json",
         "English/04/04-013-004.json",
         "English/04/04-033-004.json",
-        "English/04/04-034-001.json"
+        "English/04/04-034-001.json",
+        "English/05/05-009-003.json",
+        "English/05/05-032-013.json",
+        "English/06/06-005-001.json",
+        "English/06/06-005-008.json",
+        "English/06/06-005-009.json",
+        "English/06/06-014-001.json",
+        "English/07/07-001-001.json",
+        "English/07/07-001-002.json",
+        "English/07/07-001-019.json",
+        "English/07/07-004-001.json",
+        "English/07/07-004-020.json",
+        "English/07/07-021-007.json",
+        "English/16/16-009-007.json",
+        "English/19/19-105-003.json",
+        "English/19/19-106-014.json",
+        "English/19/19-135-008.json"
     ],
-    "generated": "2026-10-16T10:04:02-05:00"
+    "generated": "2026-10-16T16:13:38+00:00"
 }

@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Adam",
     "label": "Adam",
-    "count": 14,
+    "count": 16,
     "paths": [
         "English/01/01-002-002.json",
         "English/01/01-002-003.json",
@@ -18,7 +18,9 @@
         "English/01/01-003-008.json",
         "English/01/01-003-009.json",
         "English/01/01-004-001.json",
-        "English/01/01-004-007.json"
+        "English/01/01-004-007.json",
+        "English/13/13-001-001.json",
+        "English/13/13-001-010.json"
     ],
-    "generated": "2026-10-16T10:04:02-05:00"
+    "generated": "2026-10-16T16:13:38+00:00"
 }

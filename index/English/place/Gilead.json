@@ -3,10 +3,31 @@
     "language": "English",
     "place": "Gilead",
     "label": "Gilead",
-    "count": 2,
+    "count": 23,
     "paths": [
         "English/04/04-032-001.json",
-        "English/04/04-036-001.json"
+        "English/04/04-036-001.json",
+        "English/05/05-003-004.json",
+        "English/06/06-017-001.json",
+        "English/06/06-020-008.json",
+        "English/06/06-022-006.json",
+        "English/07/07-010-004.json",
+        "English/07/07-010-005.json",
+        "English/07/07-010-006.json",
+        "English/07/07-010-008.json",
+        "English/07/07-010-013.json",
+        "English/07/07-010-014.json",
+        "English/07/07-011-001.json",
+        "English/07/07-011-004.json",
+        "English/07/07-012-007.json",
+        "English/07/07-020-002.json",
+        "English/09/09-013-004.json",
+        "English/11/11-017-001.json",
+        "English/11/11-017-002.json",
+        "English/12/12-015-011.json",
+        "English/13/13-005-011.json",
+        "English/13/13-026-010.json",
+        "English/22/22-004-001.json"
     ],
-    "generated": "2026-10-16T10:04:02-05:00"
+    "generated": "2026-10-16T16:13:38+00:00"
 }

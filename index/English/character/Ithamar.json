@@ -3,9 +3,12 @@
     "language": "English",
     "character": "Ithamar",
     "label": "Ithamar",
-    "count": 1,
+    "count": 4,
     "paths": [
-        "English/04/04-003-001.json"
+        "English/04/04-003-001.json",
+        "English/13/13-006-003.json",
+        "English/13/13-024-001.json",
+        "English/13/13-024-003.json"
     ],
-    "generated": "2026-10-16T10:04:02-05:00"
+    "generated": "2026-10-16T16:13:38+00:00"
 }

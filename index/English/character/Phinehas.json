@@ -3,11 +3,30 @@
     "language": "English",
     "character": "Phinehas",
     "label": "Phinehas",
-    "count": 3,
+    "count": 22,
     "paths": [
         "English/04/04-025-004.json",
         "English/04/04-025-006.json",
-        "English/04/04-031-003.json"
+        "English/04/04-031-003.json",
+        "English/06/06-022-006.json",
+        "English/06/06-022-007.json",
+        "English/06/06-022-008.json",
+        "English/06/06-022-010.json",
+        "English/06/06-024-015.json",
+        "English/07/07-020-011.json",
+        "English/07/07-020-012.json",
+        "English/09/09-001-004.json",
+        "English/09/09-002-005.json",
+        "English/09/09-002-006.json",
+        "English/09/09-002-007.json",
+        "English/09/09-002-011.json",
+        "English/09/09-002-015.json",
+        "English/09/09-003-009.json",
+        "English/09/09-004-003.json",
+        "English/09/09-004-007.json",
+        "English/09/09-004-014.json",
+        "English/13/13-009-005.json",
+        "English/19/19-106-012.json"
     ],
-    "generated": "2026-10-16T10:04:02-05:00"
+    "generated": "2026-10-16T16:13:38+00:00"
 }
