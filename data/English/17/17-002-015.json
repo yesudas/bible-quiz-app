@@ -1,0 +1,32 @@
+{
+  "id": "17-002-015",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 2,
+  "verse_reference": "Esther 2:23",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Where was the report of Mordecai uncovering the plot recorded?",
+  "options": [
+    "On the wall of the palace",
+    "In a letter to all the provinces",
+    "In the book of the annals in the king's presence",
+    "In the law of the Medes and Persians"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faithfulness"
+  ],
+  "characters": [
+    "Mordecai",
+    "Xerxes"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After the report was found true and the two officials were impaled on poles, it was all recorded in the book of the annals in the king's presence."
+}

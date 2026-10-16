@@ -1,0 +1,46 @@
+{
+  "id": "15-003-006",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 3,
+  "verse_reference": "Ezra 3:7",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "From where were cedar logs brought by sea to Joppa?",
+  "options": [
+    "Egypt",
+    "Moab",
+    "Lebanon",
+    "Edom"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Lebanon",
+      "type": "region"
+    },
+    {
+      "name": "Joppa",
+      "type": "city"
+    },
+    {
+      "name": "Tyre",
+      "type": "city"
+    },
+    {
+      "name": "Sidon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people of Sidon and Tyre were paid to bring cedar logs by sea from Lebanon to Joppa, as Cyrus had authorized."
+}

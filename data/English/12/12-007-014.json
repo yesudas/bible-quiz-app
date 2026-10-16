@@ -1,0 +1,37 @@
+{
+  "id": "12-007-014",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 7,
+  "verse_reference": "2 Kings 7:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened to the officer who doubted Elisha's word?",
+  "options": [
+    "He became the new king",
+    "The people trampled him in the gateway and he died",
+    "He was taken captive by Aram",
+    "He repented and was forgiven"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Gate of Samaria",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king put the officer in charge of the gate, and the people trampled him there, and he died, just as Elisha had said."
+}

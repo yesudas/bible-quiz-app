@@ -1,0 +1,32 @@
+{
+  "id": "12-001-014",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 1,
+  "verse_reference": "2 Kings 1:13-14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How was the third captain different from the first two?",
+  "options": [
+    "He brought more soldiers",
+    "He came at night",
+    "He fell on his knees and begged Elijah to spare his life",
+    "He brought a gift from the king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Humility"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The first two captains commanded Elijah to come down, but the third fell on his knees and begged for his life and the lives of his men."
+}

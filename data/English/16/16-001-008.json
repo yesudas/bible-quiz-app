@@ -1,0 +1,33 @@
+{
+  "id": "16-001-008",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 1,
+  "verse_reference": "Nehemiah 1:6-7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In his prayer, whose sins did Nehemiah confess?",
+  "options": [
+    "The sins of the Israelites, including himself and his father's family",
+    "Only the sins of the people living in Jerusalem",
+    "Only the sins of the kings of Judah",
+    "The sins of the Babylonians who destroyed the city"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Sin",
+    "Repentance"
+  ],
+  "characters": [
+    "Nehemiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah confessed the sins of the Israelites and said that he and his father's family had also sinned and had not obeyed God's commands."
+}

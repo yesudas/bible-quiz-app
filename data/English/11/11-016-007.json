@@ -1,0 +1,37 @@
+{
+  "id": "11-016-007",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 16,
+  "verse_reference": "1 Kings 16:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When Zimri saw the city was taken, what did he do?",
+  "options": [
+    "He ran away to Egypt",
+    "He went into the palace citadel and set the palace on fire around himself",
+    "He surrendered to Omri",
+    "He hid in the temple of Baal"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Zimri"
+  ],
+  "places": [
+    {
+      "name": "Tirzah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zimri went into the citadel of the royal palace and set the palace on fire around him, and he died."
+}

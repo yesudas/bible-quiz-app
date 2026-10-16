@@ -1,0 +1,33 @@
+{
+  "id": "05-005-012",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 5,
+  "verse_reference": "Deuteronomy 5:32-33",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Moses said: \"Walk in obedience to all that the Lord your God has commanded you, so that you may live and prosper and ___ your days.\"",
+  "options": [
+    "count",
+    "prolong",
+    "number",
+    "shorten"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Obedience",
+    "Promise",
+    "Law"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses urged Israel to obey all God commanded, without turning aside, so that they would live, prosper, and prolong their days in the land."
+}

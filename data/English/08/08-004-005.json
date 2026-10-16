@@ -1,0 +1,34 @@
+{
+  "id": "08-004-005",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 4,
+  "verse_reference": "Ruth 4:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Why did the closer guardian-redeemer refuse to redeem the land?",
+  "options": [
+    "He had no money",
+    "He did not like Moabites",
+    "He might endanger his own estate",
+    "The elders would not allow it"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Redemption"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Town gate of Bethlehem",
+      "type": "city gate"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He said, \"I cannot redeem it because I might endanger my own estate,\" and told Boaz to redeem it himself."
+}

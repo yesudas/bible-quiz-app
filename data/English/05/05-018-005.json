@@ -1,0 +1,33 @@
+{
+  "id": "05-018-005",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 18,
+  "verse_reference": "Deuteronomy 18:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Moses promise God would raise up for Israel from among their own people?",
+  "options": [
+    "A prophet like Moses, to whom they must listen",
+    "A new high priest",
+    "A foreign ruler",
+    "A council of elders"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Promise",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses promised that the Lord would raise up for Israel a prophet like himself from among their own people, and they were to listen to him."
+}

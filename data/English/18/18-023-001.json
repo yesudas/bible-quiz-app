@@ -1,0 +1,31 @@
+{
+  "id": "18-023-001",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 23,
+  "verse_reference": "Job 23:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Job's words: \"Even today my complaint is ____; his hand is heavy in spite of my groaning.\"",
+  "options": [
+    "bitter",
+    "quiet",
+    "finished",
+    "foolish"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'Even today my complaint is bitter; his hand is heavy in spite of my groaning.'"
+}

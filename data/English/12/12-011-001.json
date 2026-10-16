@@ -1,0 +1,38 @@
+{
+  "id": "12-011-001",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 11,
+  "verse_reference": "2 Kings 11:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who tried to destroy the whole royal family of Judah after her son Ahaziah died?",
+  "options": [
+    "Jezebel",
+    "Jehosheba",
+    "Athaliah",
+    "Maakah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Athaliah",
+    "Ahaziah"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Athaliah saw that her son Ahaziah was dead, she set out to destroy the whole royal family."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "19-105-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 105,
+  "verse_reference": "Psalm 105:23",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Psalm 105 says Jacob lived as a foreigner in the land of whom?",
+  "options": [
+    "Ham",
+    "Shem",
+    "Esau",
+    "Laban"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel entered Egypt, and Jacob lived as a foreigner in the land of Ham."
+}

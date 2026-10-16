@@ -1,0 +1,29 @@
+{
+  "id": "15-002-008",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 2,
+  "verse_reference": "Ezra 2:63",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Until a priest could use the Urim and Thummim, what were the unregistered priests not allowed to do?",
+  "options": [
+    "Enter the city of Jerusalem",
+    "Offer prayers at the altar",
+    "Own land in Judah",
+    "Eat any of the most sacred food"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The governor ordered them not to eat any of the most sacred food until there was a priest ministering with the Urim and Thummim."
+}

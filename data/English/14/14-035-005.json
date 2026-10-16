@@ -1,0 +1,36 @@
+{
+  "id": "14-035-005",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 35,
+  "verse_reference": "2 Chronicles 35:15",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which musicians were in their places as prescribed by David?",
+  "options": [
+    "The descendants of Asaph",
+    "The sons of Korah only",
+    "The priests of Baal",
+    "The musicians from Tyre"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Asaph",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The musicians, the descendants of Asaph, were in the places prescribed by David, Asaph, Heman and Jeduthun the king's seer."
+}

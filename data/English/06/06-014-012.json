@@ -1,0 +1,32 @@
+{
+  "id": "06-014-012",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 14,
+  "verse_reference": "Joshua 14:15",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "What was Hebron called before?",
+  "options": [
+    "Kiriath Jearim",
+    "Kiriath Sepher",
+    "Luz",
+    "Kiriath Arba"
+  ],
+  "correct_option": 3,
+  "themes": [],
+  "characters": [],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebron used to be called Kiriath Arba, after Arba, the greatest man among the Anakites."
+}

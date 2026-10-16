@@ -1,0 +1,31 @@
+{
+  "id": "19-098-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 98,
+  "verse_reference": "Psalm 98:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 98:1, what have God's right hand and holy arm worked?",
+  "options": [
+    "Salvation",
+    "Creation",
+    "Judgment",
+    "Riches"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm says God's right hand and His holy arm have worked salvation for Him."
+}

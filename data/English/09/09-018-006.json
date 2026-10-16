@@ -1,0 +1,33 @@
+{
+  "id": "09-018-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 18,
+  "verse_reference": "1 Samuel 18:10-11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Saul do while David was playing the lyre?",
+  "options": [
+    "He fell asleep",
+    "He sang along",
+    "He hurled his spear at David",
+    "He gave David a gift"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Saul",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While David was playing the lyre, Saul hurled his spear, saying he would pin David to the wall. But David eluded him twice."
+}

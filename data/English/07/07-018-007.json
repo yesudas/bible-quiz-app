@@ -1,0 +1,38 @@
+{
+  "id": "07-018-007",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 18,
+  "verse_reference": "Judges 18:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How many armed Danite men set out from Zorah and Eshtaol to take Laish?",
+  "options": [
+    "Three hundred",
+    "One thousand",
+    "Forty thousand",
+    "Six hundred"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promised Land"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zorah",
+      "type": "town"
+    },
+    {
+      "name": "Eshtaol",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Six hundred men of the Danites, armed for battle, set out from Zorah and Eshtaol."
+}

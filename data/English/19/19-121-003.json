@@ -1,0 +1,31 @@
+{
+  "id": "19-121-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 121,
+  "verse_reference": "Psalm 121:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to Psalm 121, what will the LORD not let happen to your foot?",
+  "options": [
+    "Get tired",
+    "Get hurt by stones",
+    "Slip",
+    "Walk too far"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He will not let your foot slip, and He who watches over you will not slumber."
+}

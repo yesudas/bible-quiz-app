@@ -1,0 +1,30 @@
+{
+  "id": "05-017-004",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 17,
+  "verse_reference": "Deuteronomy 17:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How were the people to respond to the verdict given at the chosen place?",
+  "options": [
+    "Follow it exactly, not turning aside from it",
+    "Change it if they disagreed",
+    "Take a vote to confirm it",
+    "Ignore it if it was unpopular"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Justice",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people were to act exactly according to the decision given, not turning aside from it to the right or the left."
+}

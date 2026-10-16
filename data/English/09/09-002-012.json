@@ -1,0 +1,32 @@
+{
+  "id": "09-002-012",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 2,
+  "verse_reference": "1 Samuel 2:26",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "The boy Samuel continued to grow in stature and in ___ with the LORD and with people.",
+  "options": [
+    "favor",
+    "wisdom",
+    "strength",
+    "power"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel continued to grow in stature and in favor with the LORD and with people."
+}

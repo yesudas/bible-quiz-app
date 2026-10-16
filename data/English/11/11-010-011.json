@@ -1,0 +1,36 @@
+{
+  "id": "11-010-011",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 10,
+  "verse_reference": "1 Kings 10:21,27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How common was silver in Jerusalem during Solomon's reign?",
+  "options": [
+    "As common as stones",
+    "As rare as gold",
+    "Only the king had any",
+    "It was never used"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Silver was considered of little value in Solomon's days; the king made it as common in Jerusalem as stones."
+}

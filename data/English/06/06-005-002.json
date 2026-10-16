@@ -1,0 +1,37 @@
+{
+  "id": "06-005-002",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 5,
+  "verse_reference": "Joshua 5:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the LORD tell Joshua to make so he could circumcise the Israelites?",
+  "options": [
+    "Bronze swords",
+    "Iron tools",
+    "Flint knives",
+    "Stone jars"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Obedience"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Gilgal",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Joshua to make flint knives and circumcise the Israelites again."
+}

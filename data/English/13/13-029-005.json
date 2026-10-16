@@ -1,0 +1,33 @@
+{
+  "id": "13-029-005",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 29,
+  "verse_reference": "1 Chronicles 29:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete David's praise: \"Yours, LORD, is the greatness and the power and the glory and the majesty and the splendor, for ______ in heaven and earth is yours.\"",
+  "options": [
+    "everything",
+    "nothing",
+    "something",
+    "someone"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David praised the LORD, saying everything in heaven and earth is His."
+}

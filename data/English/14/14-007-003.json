@@ -1,0 +1,35 @@
+{
+  "id": "14-007-003",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 7,
+  "verse_reference": "2 Chronicles 7:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the Israelites do when they saw the fire and the glory of the LORD?",
+  "options": [
+    "They ran away",
+    "They cried in fear",
+    "They went home",
+    "They knelt with faces to the ground and worshiped"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites knelt on the pavement with their faces to the ground, worshiped and gave thanks to the LORD."
+}

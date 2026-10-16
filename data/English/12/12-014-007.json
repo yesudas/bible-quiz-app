@@ -1,0 +1,38 @@
+{
+  "id": "12-014-007",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 14,
+  "verse_reference": "2 Kings 14:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was Jehoash warning Amaziah about with his story of the thistle?",
+  "options": [
+    "That Edom would attack Judah",
+    "That Amaziah's daughter should marry his son",
+    "That the cedars of Lebanon were valuable",
+    "That Amaziah had become proud after defeating Edom"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Pride",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jehoash",
+    "Amaziah"
+  ],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoash said, 'You have indeed defeated Edom and now you are arrogant,' and warned him to stay at home."
+}

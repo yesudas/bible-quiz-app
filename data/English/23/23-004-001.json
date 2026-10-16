@@ -1,0 +1,30 @@
+{
+  "id": "23-004-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 4,
+  "verse_reference": "Isaiah 4:1",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In that day, how many women would take hold of one man?",
+  "options": [
+    "Two",
+    "Three",
+    "Five",
+    "Seven"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 4:1 says seven women would take hold of one man and ask only to be called by his name to take away their disgrace."
+}

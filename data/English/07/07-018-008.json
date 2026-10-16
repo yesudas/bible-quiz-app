@@ -1,0 +1,38 @@
+{
+  "id": "07-018-008",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 18,
+  "verse_reference": "Judges 18:12",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "The place where the Danites camped near Kiriath Jearim in Judah came to be called what?",
+  "options": [
+    "Ramath Lehi",
+    "Beth Millo",
+    "Mahaneh Dan",
+    "Havvoth Jair"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promised Land"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Kiriath Jearim",
+      "type": "town"
+    },
+    {
+      "name": "Mahaneh Dan",
+      "type": "place"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Danites camped near Kiriath Jearim in Judah, which is why the place west of it is called Mahaneh Dan."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "23-010-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 10,
+  "verse_reference": "Isaiah 10:5",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Whom did the LORD call 'the rod of my anger'?",
+  "options": [
+    "The Egyptian",
+    "The Babylonian",
+    "The Assyrian",
+    "The Philistine"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 10:5 says, 'Woe to the Assyrian, the rod of my anger, in whose hand is the club of my wrath!'"
+}

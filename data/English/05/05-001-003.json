@@ -1,0 +1,32 @@
+{
+  "id": "05-001-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 1,
+  "verse_reference": "Deuteronomy 1:9-13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did Moses say he could not handle the people's problems by himself?",
+  "options": [
+    "The people had become too numerous",
+    "The people refused to obey him",
+    "He was too old to travel",
+    "The elders would not help him"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Wisdom"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses said the people had grown so numerous that he could not bear their burdens and disputes alone, so leaders were needed to help."
+}

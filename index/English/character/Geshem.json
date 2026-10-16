@@ -1,0 +1,14 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Geshem",
+    "label": "Geshem",
+    "count": 4,
+    "paths": [
+        "English/16/16-002-012.json",
+        "English/16/16-002-013.json",
+        "English/16/16-006-001.json",
+        "English/16/16-006-003.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "11-006-001",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 6,
+  "verse_reference": "1 Kings 6:1",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "In which year after the Israelites came out of Egypt did Solomon begin to build the temple?",
+  "options": [
+    "The 40th year",
+    "The 480th year",
+    "The 400th year",
+    "The 120th year"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon began to build the temple in the 480th year after the Israelites came out of Egypt, in the fourth year of his reign."
+}

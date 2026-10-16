@@ -1,0 +1,29 @@
+{
+  "id": "13-016-008",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 16,
+  "verse_reference": "1 Chronicles 16:22",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"Do not touch my ______ ones; do my prophets no harm.\"",
+  "options": [
+    "chosen",
+    "holy",
+    "anointed",
+    "beloved"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Protection"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 16:22 says, \"Do not touch my anointed ones; do my prophets no harm.\""
+}

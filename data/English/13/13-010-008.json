@@ -1,0 +1,33 @@
+{
+  "id": "13-010-008",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 10,
+  "verse_reference": "1 Chronicles 10:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to 1 Chronicles 10:13, why did Saul die?",
+  "options": [
+    "He was too old to fight",
+    "He was unfaithful to the LORD",
+    "He had too few soldiers",
+    "He was betrayed by his son"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul died because he was unfaithful to the LORD and did not keep the word of the LORD."
+}

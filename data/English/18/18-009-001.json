@@ -1,0 +1,32 @@
+{
+  "id": "18-009-001",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 9,
+  "verse_reference": "Job 9:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Job's question: \"But how can mere mortals prove their ____ before God?\"",
+  "options": [
+    "strength",
+    "wisdom",
+    "innocence",
+    "worth"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Law"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job asked, 'How can mere mortals prove their innocence before God?' He felt no one could win an argument with God."
+}

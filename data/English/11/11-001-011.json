@@ -1,0 +1,33 @@
+{
+  "id": "11-001-011",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 1,
+  "verse_reference": "1 Kings 1:33,38",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Solomon ride on when he went down to be anointed king?",
+  "options": [
+    "A white horse",
+    "A chariot",
+    "A camel",
+    "King David's own mule"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David ordered that Solomon be set on his own mule and taken down to Gihon."
+}

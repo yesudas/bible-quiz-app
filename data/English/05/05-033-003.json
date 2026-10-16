@@ -1,0 +1,31 @@
+{
+  "id": "05-033-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 33,
+  "verse_reference": "Deuteronomy 33:8-10",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which tribe was entrusted with the Thummim and Urim and with teaching God's law?",
+  "options": [
+    "Judah",
+    "Benjamin",
+    "Levi",
+    "Asher"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Leadership",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Levi was entrusted with the Thummim and Urim, guarded God's covenant, and taught His precepts and law to Israel."
+}

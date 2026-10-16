@@ -1,0 +1,35 @@
+{
+  "id": "19-003-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 3,
+  "verse_reference": "Psalm 3:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"But you, LORD, are a ____ around me, my glory, the One who lifts my head high.\"",
+  "options": [
+    "wall",
+    "tower",
+    "fortress",
+    "shield"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Hope",
+    "Protection"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 3:3 calls the LORD a shield around David, his glory, the One who lifts his head high."
+}

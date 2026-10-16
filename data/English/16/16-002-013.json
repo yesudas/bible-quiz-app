@@ -1,0 +1,40 @@
+{
+  "id": "16-002-013",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 2,
+  "verse_reference": "Nehemiah 2:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Nehemiah answer those who mocked him?",
+  "options": [
+    "He promised to stop the work",
+    "He asked them to join the work",
+    "He reported them to the king",
+    "He said the God of heaven would give them success"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Persecution"
+  ],
+  "characters": [
+    "Nehemiah",
+    "Sanballat",
+    "Tobiah",
+    "Geshem"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah said the God of heaven would give them success, and that the mockers had no share, claim or historic right in Jerusalem."
+}

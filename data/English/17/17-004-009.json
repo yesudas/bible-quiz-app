@@ -1,0 +1,38 @@
+{
+  "id": "17-004-009",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 4,
+  "verse_reference": "Esther 4:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the king have to hold out to spare the life of someone who came to him without being called?",
+  "options": [
+    "The gold scepter",
+    "His signet ring",
+    "His royal crown",
+    "A cup of wine"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Courage"
+  ],
+  "characters": [
+    "Xerxes"
+  ],
+  "places": [
+    {
+      "name": "King's inner court",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The only exception was for the king to extend the gold scepter to that person and spare their life."
+}

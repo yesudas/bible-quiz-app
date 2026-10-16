@@ -1,0 +1,33 @@
+{
+  "id": "19-008-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 8,
+  "verse_reference": "Psalm 8:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"LORD, our Lord, how ____ is your name in all the earth!\"",
+  "options": [
+    "holy",
+    "great",
+    "majestic",
+    "wonderful"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Creation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 8 begins and ends with, \"LORD, our Lord, how majestic is your name in all the earth!\""
+}

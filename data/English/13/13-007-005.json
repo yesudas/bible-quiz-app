@@ -1,0 +1,33 @@
+{
+  "id": "13-007-005",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 7,
+  "verse_reference": "1 Chronicles 7:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Ephraim do after his sons Ezer and Elead were killed?",
+  "options": [
+    "He went to war against Gath",
+    "He moved to Egypt",
+    "He offered sacrifices",
+    "He mourned for many days"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Family"
+  ],
+  "characters": [
+    "Ephraim"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ephraim mourned for many days, and his relatives came to comfort him."
+}

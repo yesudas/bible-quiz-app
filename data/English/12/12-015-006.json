@@ -1,0 +1,36 @@
+{
+  "id": "12-015-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 15,
+  "verse_reference": "2 Kings 15:13",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How long did Shallum son of Jabesh reign?",
+  "options": [
+    "Six months",
+    "One month",
+    "One year",
+    "Seven days"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Shallum"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Shallum son of Jabesh reigned in Samaria for only one month."
+}

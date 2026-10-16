@@ -1,0 +1,37 @@
+{
+  "id": "14-025-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 25,
+  "verse_reference": "2 Chronicles 25:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did a man of God tell Amaziah not to take the troops from Israel?",
+  "options": [
+    "The LORD was not with Israel",
+    "They were too few",
+    "They were not trained",
+    "They would betray him to Aram"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Prophecy"
+  ],
+  "characters": [
+    "Amaziah"
+  ],
+  "places": [
+    {
+      "name": "Ephraim",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man of God said, \"These troops from Israel must not march with you, for the LORD is not with Israel.\""
+}

@@ -1,0 +1,30 @@
+{
+  "id": "19-147-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 147,
+  "verse_reference": "Psalm 147:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Psalm 147 says the LORD spreads the snow like what?",
+  "options": [
+    "Flour",
+    "Feathers",
+    "Wool",
+    "Salt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"He spreads the snow like wool and scatters the frost like ashes.\""
+}

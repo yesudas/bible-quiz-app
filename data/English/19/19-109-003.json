@@ -1,0 +1,33 @@
+{
+  "id": "19-109-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 109,
+  "verse_reference": "Psalm 109:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 109, what did David's enemies repay him with for his good?",
+  "options": [
+    "Gifts",
+    "Silence",
+    "Evil",
+    "Praise"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution",
+    "Sin"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David's enemies repaid him evil for good and hatred for his friendship."
+}

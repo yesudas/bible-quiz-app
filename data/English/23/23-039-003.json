@@ -1,0 +1,38 @@
+{
+  "id": "23-039-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 39,
+  "verse_reference": "Isaiah 39:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Isaiah prophesy would one day be carried off to Babylon?",
+  "options": [
+    "Everything in Hezekiah's palace",
+    "Only the temple doors",
+    "The ark of the covenant only",
+    "The city walls"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Isaiah",
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 39:6 says, 'Everything in your palace, and all that your predecessors have stored up until this day, will be carried off to Babylon. Nothing will be left.'"
+}

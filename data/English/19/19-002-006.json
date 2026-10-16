@@ -1,0 +1,34 @@
+{
+  "id": "19-002-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 2,
+  "verse_reference": "Psalm 2:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does the LORD promise to give his son as an inheritance if he asks?",
+  "options": [
+    "The temple",
+    "The land of Canaan",
+    "The nations",
+    "Silver and gold"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Kingship",
+    "Prophecy"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 2:8 says the LORD will make the nations his inheritance and the ends of the earth his possession."
+}

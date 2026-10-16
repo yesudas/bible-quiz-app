@@ -1,0 +1,37 @@
+{
+  "id": "07-014-015",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 14,
+  "verse_reference": "Judges 14:19",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "To which city did Samson go to strike down thirty men and take their clothes to pay the riddle debt?",
+  "options": [
+    "Gaza",
+    "Timnah",
+    "Ekron",
+    "Ashkelon"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Holy Spirit",
+    "Judgment"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [
+    {
+      "name": "Ashkelon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Spirit of the LORD came powerfully on Samson. He went down to Ashkelon, struck down thirty men, and gave their clothes to those who explained the riddle."
+}

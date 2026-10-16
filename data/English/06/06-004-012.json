@@ -1,0 +1,42 @@
+{
+  "id": "06-004-012",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 4,
+  "verse_reference": "Joshua 4:23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Joshua said God did to the Jordan what He had done to which other body of water?",
+  "options": [
+    "The Dead Sea",
+    "The Red Sea",
+    "The Sea of Galilee",
+    "The Mediterranean Sea"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Remembrance"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    },
+    {
+      "name": "Red Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua said the LORD dried up the Jordan just as He had dried up the Red Sea before them."
+}

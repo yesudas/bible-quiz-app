@@ -1,0 +1,32 @@
+{
+  "id": "12-014-011",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 14,
+  "verse_reference": "2 Kings 14:21",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How old was Azariah when the people of Judah made him king?",
+  "options": [
+    "Seven",
+    "Twenty-five",
+    "Twelve",
+    "Sixteen"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Azariah",
+    "Amaziah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All the people of Judah took Azariah, who was sixteen years old, and made him king."
+}

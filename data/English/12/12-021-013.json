@@ -1,0 +1,36 @@
+{
+  "id": "12-021-013",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 21,
+  "verse_reference": "2 Kings 21:23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did King Amon die?",
+  "options": [
+    "His officials conspired and killed him in his palace",
+    "He died of an illness",
+    "He was killed in battle",
+    "He was taken to Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Amon"
+  ],
+  "places": [
+    {
+      "name": "Royal palace",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amon's officials conspired against him and assassinated the king in his palace."
+}

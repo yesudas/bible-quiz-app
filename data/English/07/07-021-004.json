@@ -1,0 +1,34 @@
+{
+  "id": "07-021-004",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 21,
+  "verse_reference": "Judges 21:8",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Which town had sent no one to the assembly at Mizpah?",
+  "options": [
+    "Laish",
+    "Jabesh Gilead",
+    "Zorah",
+    "Beersheba"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Unity"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jabesh Gilead",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they checked, they found that no one from Jabesh Gilead had come to the camp for the assembly."
+}

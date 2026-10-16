@@ -1,0 +1,32 @@
+{
+  "id": "18-014-001",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 14,
+  "verse_reference": "Job 14:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Mortals, born of woman, are of few days and full of ____.\"",
+  "options": [
+    "joy",
+    "trouble",
+    "wisdom",
+    "riches"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'Mortals, born of woman, are of few days and full of trouble.'"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "07-009-002",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 9,
+  "verse_reference": "Judges 9:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the citizens of Shechem give Abimelek to hire men to follow him?",
+  "options": [
+    "Seventy shekels of gold from Gideon's treasure",
+    "Seven hundred sheep",
+    "Seventy shekels of silver from the temple of Baal-Berith",
+    "Seventy chariots"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Sin"
+  ],
+  "characters": [
+    "Abimelek"
+  ],
+  "places": [
+    {
+      "name": "Temple of Baal-Berith",
+      "type": "temple"
+    },
+    {
+      "name": "Shechem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They gave him seventy shekels of silver from the temple of Baal-Berith, and he used it to hire reckless scoundrels."
+}

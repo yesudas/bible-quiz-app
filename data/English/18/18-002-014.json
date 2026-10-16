@@ -1,0 +1,36 @@
+{
+  "id": "18-002-014",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 2,
+  "verse_reference": "Job 2:13",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How long did Job's friends sit with him on the ground without saying a word?",
+  "options": [
+    "Seven days and seven nights",
+    "Three days and three nights",
+    "Forty days",
+    "One day"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Love"
+  ],
+  "characters": [
+    "Eliphaz",
+    "Bildad",
+    "Zophar",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They sat on the ground with Job for seven days and seven nights, and no one said a word because they saw how great his suffering was."
+}

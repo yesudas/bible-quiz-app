@@ -1,0 +1,22 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Ahijah",
+    "label": "Ahijah",
+    "count": 12,
+    "paths": [
+        "English/11/11-011-012.json",
+        "English/11/11-011-013.json",
+        "English/11/11-011-014.json",
+        "English/11/11-012-007.json",
+        "English/11/11-014-002.json",
+        "English/11/11-014-003.json",
+        "English/11/11-014-004.json",
+        "English/11/11-014-005.json",
+        "English/11/11-014-007.json",
+        "English/11/11-015-013.json",
+        "English/14/14-009-016.json",
+        "English/14/14-010-009.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

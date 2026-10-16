@@ -1,0 +1,37 @@
+{
+  "id": "19-046-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 46,
+  "verse_reference": "Psalm 46:5",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 46:5, when will God help the city?",
+  "options": [
+    "At midnight",
+    "At the end of the year",
+    "On the Sabbath",
+    "At break of day"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Protection",
+    "Hope"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "The city of God",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 46:5 says, \"God is within her, she will not fall; God will help her at break of day.\""
+}

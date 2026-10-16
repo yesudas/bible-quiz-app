@@ -1,0 +1,29 @@
+{
+  "id": "23-028-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 28,
+  "verse_reference": "Isaiah 28:7",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which leaders staggered from beer and were confused by wine in Isaiah 28:7?",
+  "options": [
+    "Kings and princes",
+    "Soldiers and captains",
+    "Farmers and shepherds",
+    "Priests and prophets"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 28:7 says priests and prophets stagger from beer and are befuddled with wine."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "10-015-003",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 15,
+  "verse_reference": "2 Samuel 15:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Absalom said: \"If only I were appointed ______ in the land!\"",
+  "options": [
+    "king",
+    "commander",
+    "priest",
+    "judge"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Pride",
+    "Justice"
+  ],
+  "characters": [
+    "Absalom"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Absalom said that if he were appointed judge, everyone with a complaint could come to him and receive justice."
+}

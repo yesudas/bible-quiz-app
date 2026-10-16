@@ -1,0 +1,35 @@
+{
+  "id": "15-006-008",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 6,
+  "verse_reference": "Ezra 6:16",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did the people of Israel celebrate the dedication of the house of God?",
+  "options": [
+    "With joy",
+    "With fasting and sorrow",
+    "With silence",
+    "With a battle"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House of God in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people of Israel, the priests, the Levites and the rest of the exiles celebrated the dedication of the house of God with joy."
+}

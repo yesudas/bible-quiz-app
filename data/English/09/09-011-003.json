@@ -1,0 +1,36 @@
+{
+  "id": "09-011-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 11,
+  "verse_reference": "1 Samuel 11:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How long did the elders of Jabesh ask Nahash to give them?",
+  "options": [
+    "Three days",
+    "Forty days",
+    "Seven days",
+    "One year"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Nahash"
+  ],
+  "places": [
+    {
+      "name": "Jabesh Gilead",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elders said, \"Give us seven days so we can send messengers throughout Israel.\""
+}

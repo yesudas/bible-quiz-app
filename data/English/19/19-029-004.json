@@ -1,0 +1,40 @@
+{
+  "id": "19-029-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 29,
+  "verse_reference": "Psalm 29:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 29:6, the LORD makes Lebanon leap like what?",
+  "options": [
+    "A deer",
+    "A calf",
+    "A goat",
+    "A lamb"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "Lebanon",
+      "type": "country"
+    },
+    {
+      "name": "Sirion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 29:6 says, \"He makes Lebanon leap like a calf, Sirion like a young wild ox.\""
+}

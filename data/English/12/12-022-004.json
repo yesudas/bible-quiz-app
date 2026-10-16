@@ -1,0 +1,36 @@
+{
+  "id": "12-022-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 22,
+  "verse_reference": "2 Kings 22:3",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "In which year of his reign did Josiah send Shaphan to the temple?",
+  "options": [
+    "The eighth year",
+    "The twelfth year",
+    "The eighteenth year",
+    "The thirty-first year"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Josiah",
+    "Shaphan"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the eighteenth year of his reign, King Josiah sent Shaphan the secretary to the temple of the LORD."
+}

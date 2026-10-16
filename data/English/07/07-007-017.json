@@ -1,0 +1,44 @@
+{
+  "id": "07-007-017",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 7,
+  "verse_reference": "Judges 7:24",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which tribe did Gideon call to seize the waters of the Jordan ahead of the Midianites?",
+  "options": [
+    "The Danites",
+    "The Reubenites",
+    "The Ephraimites",
+    "The Benjamites"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Unity"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [
+    {
+      "name": "Hill country of Ephraim",
+      "type": "region"
+    },
+    {
+      "name": "Beth Barah",
+      "type": "place"
+    },
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon sent messengers through the hill country of Ephraim, and the Ephraimites seized the waters as far as Beth Barah and the Jordan."
+}

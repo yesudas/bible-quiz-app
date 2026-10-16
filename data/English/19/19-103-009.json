@@ -1,0 +1,33 @@
+{
+  "id": "19-103-009",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 103,
+  "verse_reference": "Psalm 103:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"As far as the east is from the ______, so far has he removed our transgressions from us.\"",
+  "options": [
+    "north",
+    "west",
+    "south",
+    "sea"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Forgiveness",
+    "Salvation"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God removes our sins from us as far as the east is from the west, which can never meet."
+}

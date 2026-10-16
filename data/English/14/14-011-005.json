@@ -1,0 +1,52 @@
+{
+  "id": "14-011-005",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 11,
+  "verse_reference": "2 Chronicles 11:5-10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Rehoboam build up in Judah after he returned to Jerusalem?",
+  "options": [
+    "New temples",
+    "Towns for defense",
+    "Ships for trade",
+    "Palaces for his sons"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Rehoboam"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    },
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    },
+    {
+      "name": "Hebron",
+      "type": "city"
+    },
+    {
+      "name": "Lachish",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rehoboam lived in Jerusalem and built up towns for defense in Judah, such as Bethlehem, Tekoa, Lachish and Hebron."
+}

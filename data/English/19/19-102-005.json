@@ -1,0 +1,36 @@
+{
+  "id": "19-102-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 102,
+  "verse_reference": "Psalm 102:13",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Which place did the psalmist ask the LORD to arise and have compassion on?",
+  "options": [
+    "Egypt",
+    "Babylon",
+    "Bethel",
+    "Zion"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist prayed that the LORD would arise and have compassion on Zion, because the time had come to show her favor."
+}

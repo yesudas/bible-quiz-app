@@ -1,0 +1,32 @@
+{
+  "id": "23-059-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 59,
+  "verse_reference": "Isaiah 59:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'Surely the arm of the LORD is not too ______ to save, nor his ear too dull to hear.'",
+  "options": [
+    "weak",
+    "short",
+    "tired",
+    "slow"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 59:1 says, 'Surely the arm of the LORD is not too short to save, nor his ear too dull to hear.'"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "19-099-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 99,
+  "verse_reference": "Psalm 99:5",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 99:5, where are God's people told to worship?",
+  "options": [
+    "At His footstool",
+    "At the river",
+    "At the city gate",
+    "On the rooftops"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm says, \"Exalt the LORD our God and worship at his footstool; he is holy.\""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "19-045-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 45,
+  "verse_reference": "Psalm 45:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Your throne, O God, will last for ever and ever; a scepter of ____ will be the scepter of your kingdom.\"",
+  "options": [
+    "justice",
+    "gold",
+    "power",
+    "peace"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingship",
+    "Justice",
+    "Prophecy"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 45:6 says, \"Your throne, O God, will last for ever and ever; a scepter of justice will be the scepter of your kingdom.\""
+}

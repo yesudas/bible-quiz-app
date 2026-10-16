@@ -1,0 +1,35 @@
+{
+  "id": "16-010-008",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 10,
+  "verse_reference": "Nehemiah 10:35-36",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the people promise to bring to the house of the LORD?",
+  "options": [
+    "Gold and silver cups",
+    "Weapons for the guards",
+    "Stones for the wall",
+    "The firstfruits of their crops and fruit trees, and the firstborn of their sons and cattle"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House of God",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They promised to bring the firstfruits of their crops and of every fruit tree, and the firstborn of their sons and of their cattle, as written in the Law."
+}

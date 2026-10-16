@@ -1,0 +1,30 @@
+{
+  "id": "19-150-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 150,
+  "verse_reference": "Psalm 150:3-5",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which of these instruments is NOT mentioned in Psalm 150?",
+  "options": [
+    "Trumpet",
+    "Harp",
+    "Bells",
+    "Cymbals"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 150 mentions the trumpet, harp, lyre, timbrel, strings, pipe and cymbals, but not bells."
+}

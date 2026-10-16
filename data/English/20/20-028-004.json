@@ -1,0 +1,35 @@
+{
+  "id": "20-028-004",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 28,
+  "verse_reference": "Proverbs 28:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 28:19, what will those who work their land have?",
+  "options": [
+    "Many enemies",
+    "Long journeys",
+    "Great fame",
+    "Abundant food"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Land",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 28:19 says those who work their land will have abundant food, but those who chase fantasies will have their fill of poverty."
+}

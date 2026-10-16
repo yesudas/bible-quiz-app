@@ -1,0 +1,38 @@
+{
+  "id": "14-009-002",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 9,
+  "verse_reference": "2 Chronicles 9:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did Solomon do with the queen of Sheba's questions?",
+  "options": [
+    "He answered only a few",
+    "He answered all of them",
+    "He asked his officials to answer",
+    "He refused to answer"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Solomon",
+    "Queen of Sheba"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon answered all her questions; nothing was too hard for him to explain to her."
+}

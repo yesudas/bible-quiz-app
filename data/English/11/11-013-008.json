@@ -1,0 +1,29 @@
+{
+  "id": "11-013-008",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 13,
+  "verse_reference": "1 Kings 13:14",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the old prophet find the man of God?",
+  "options": [
+    "Beside a well",
+    "Sitting under an oak tree",
+    "Inside a cave",
+    "At the Jordan River"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The old prophet rode after the man of God and found him sitting under an oak tree."
+}

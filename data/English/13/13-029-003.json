@@ -1,0 +1,32 @@
+{
+  "id": "13-029-003",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 29,
+  "verse_reference": "1 Chronicles 29:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete David's question to the people: \"Now, who is ______ to consecrate themselves to the LORD today?\"",
+  "options": [
+    "able",
+    "willing",
+    "ready",
+    "strong"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Generosity"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After giving his own treasures, David asked, \"Now, who is willing to consecrate themselves to the LORD today?\""
+}

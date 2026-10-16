@@ -1,0 +1,40 @@
+{
+  "id": "19-132-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 132,
+  "verse_reference": "Psalm 132:6",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 132:6, where did they hear about the ark?",
+  "options": [
+    "In Bethel",
+    "In Shiloh",
+    "In Gilgal",
+    "In Ephrathah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Ephrathah",
+      "type": "region"
+    },
+    {
+      "name": "Fields of Jaar",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"We heard it in Ephrathah, we came upon it in the fields of Jaar.\""
+}

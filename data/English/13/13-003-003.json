@@ -1,0 +1,38 @@
+{
+  "id": "13-003-003",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 3,
+  "verse_reference": "1 Chronicles 3:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Absalom's mother was the daughter of which king?",
+  "options": [
+    "Talmai king of Geshur",
+    "Hiram king of Tyre",
+    "Achish king of Gath",
+    "Nahash king of Ammon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Absalom",
+    "Maakah",
+    "Talmai"
+  ],
+  "places": [
+    {
+      "name": "Geshur",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Absalom was the son of Maakah, daughter of Talmai king of Geshur."
+}

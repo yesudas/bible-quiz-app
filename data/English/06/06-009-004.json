@@ -1,0 +1,35 @@
+{
+  "id": "06-009-004",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 9,
+  "verse_reference": "Joshua 9:6",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where was Joshua's camp when the Gibeonites came to him?",
+  "options": [
+    "Gilgal",
+    "Shittim",
+    "Jericho",
+    "Bethel"
+  ],
+  "correct_option": 0,
+  "themes": [],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Gilgal",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Gibeonites went to Joshua in the camp at Gilgal."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "15-005-005",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 5,
+  "verse_reference": "Ezra 5:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How did the elders describe themselves when asked who they were?",
+  "options": [
+    "Servants of the God of heaven and earth",
+    "Soldiers of the king of Persia",
+    "Children of the land of Babylon",
+    "Friends of the governor Tattenai"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They answered, \"We are the servants of the God of heaven and earth, and we are rebuilding the temple that was built many years ago.\""
+}

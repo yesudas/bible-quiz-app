@@ -1,0 +1,35 @@
+{
+  "id": "19-137-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 137,
+  "verse_reference": "Psalm 137:7",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whom did the psalmist ask the LORD to remember for what they did on the day Jerusalem fell?",
+  "options": [
+    "The Moabites",
+    "The Philistines",
+    "The Ammonites",
+    "The Edomites"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Justice"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Remember, LORD, what the Edomites did on the day Jerusalem fell. 'Tear it down,' they cried.\""
+}

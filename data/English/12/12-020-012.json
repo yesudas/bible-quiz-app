@@ -1,0 +1,32 @@
+{
+  "id": "12-020-012",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 20,
+  "verse_reference": "2 Kings 20:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Hezekiah respond to Isaiah's prophecy about Babylon?",
+  "options": [
+    "He called it good, thinking there would be peace in his own lifetime",
+    "He wept and tore his clothes",
+    "He sent an army to Babylon",
+    "He asked Isaiah to pray again"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Hezekiah",
+    "Isaiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hezekiah said the word of the LORD was good, for he thought, 'Will there not be peace and security in my lifetime?'"
+}

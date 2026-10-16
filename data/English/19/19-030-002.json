@@ -1,0 +1,34 @@
+{
+  "id": "19-030-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 30,
+  "verse_reference": "Psalm 30:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 30:2, what did the LORD do when David called to him for help?",
+  "options": [
+    "Healed him",
+    "Gave him riches",
+    "Sent an army",
+    "Made him king"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Healing",
+    "Prayer"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 30:2 says, \"LORD my God, I called to you for help, and you healed me.\""
+}

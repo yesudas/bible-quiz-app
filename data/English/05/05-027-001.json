@@ -1,0 +1,38 @@
+{
+  "id": "05-027-001",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 27,
+  "verse_reference": "Deuteronomy 27:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was Israel to do with large stones after crossing the Jordan?",
+  "options": [
+    "Coat them with plaster and write all the words of this law on them",
+    "Build a wall around the camp",
+    "Throw them into the river",
+    "Use them to mark the tribal borders"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Covenant",
+    "Obedience"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Jordan",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On the day they crossed the Jordan, Israel was to set up large stones, coat them with plaster, and write all the words of this law on them."
+}

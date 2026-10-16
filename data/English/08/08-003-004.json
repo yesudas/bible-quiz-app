@@ -1,0 +1,38 @@
+{
+  "id": "08-003-004",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 3,
+  "verse_reference": "Ruth 3:3",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When was Ruth to let Boaz know she was there?",
+  "options": [
+    "As soon as she arrived",
+    "After he had finished eating and drinking",
+    "At sunrise",
+    "When the harvesters left"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Naomi",
+    "Ruth",
+    "Boaz"
+  ],
+  "places": [
+    {
+      "name": "Threshing floor",
+      "type": "threshing floor"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Naomi said not to let Boaz know she was there until he had finished eating and drinking."
+}

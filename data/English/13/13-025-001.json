@@ -1,0 +1,35 @@
+{
+  "id": "13-025-001",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 25,
+  "verse_reference": "1 Chronicles 25:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "For what ministry did David set apart some of the sons of Asaph, Heman and Jeduthun?",
+  "options": [
+    "The ministry of guarding the gates",
+    "The ministry of prophesying, with harps, lyres and cymbals",
+    "The ministry of baking bread",
+    "The ministry of judging the people"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Prophecy"
+  ],
+  "characters": [
+    "David",
+    "Asaph",
+    "Heman",
+    "Jeduthun"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David set them apart for the ministry of prophesying, accompanied by harps, lyres and cymbals."
+}

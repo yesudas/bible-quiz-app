@@ -1,0 +1,38 @@
+{
+  "id": "09-026-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 26,
+  "verse_reference": "1 Samuel 26:11-12",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What two things did David take from beside Saul's head?",
+  "options": [
+    "The spear and the water jug",
+    "The sword and the shield",
+    "The crown and the robe",
+    "The bow and the arrows"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Mercy"
+  ],
+  "characters": [
+    "David",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Saul's camp",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David took the spear and water jug near Saul's head, and they left."
+}

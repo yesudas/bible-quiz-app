@@ -1,0 +1,38 @@
+{
+  "id": "12-022-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 22,
+  "verse_reference": "2 Kings 22:4-6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the money in the temple to be used for in Josiah's time?",
+  "options": [
+    "To pay tribute to Egypt",
+    "To pay workers to repair the temple",
+    "To build a new palace",
+    "To buy weapons"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [
+    "Josiah",
+    "Hilkiah"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The money was given to the men supervising the work, to pay the carpenters, builders and masons and to buy timber and stone to repair the temple."
+}

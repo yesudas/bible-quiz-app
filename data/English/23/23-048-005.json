@@ -1,0 +1,35 @@
+{
+  "id": "23-048-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 48,
+  "verse_reference": "Isaiah 48:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What were God's people told to do with Babylon in Isaiah 48:20?",
+  "options": [
+    "Stay there forever",
+    "Leave Babylon and flee from the Babylonians",
+    "Make Babylon their new home",
+    "Rebuild Babylon's walls"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 48:20 says, 'Leave Babylon, flee from the Babylonians! Announce this with shouts of joy.'"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "12-005-008",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 5,
+  "verse_reference": "2 Kings 5:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Naaman go away angry at first?",
+  "options": [
+    "Elisha asked him for too much money",
+    "He expected Elisha to come out and heal him with a wave of his hand",
+    "Elisha refused to see him at all",
+    "The king of Israel insulted him"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Pride"
+  ],
+  "characters": [
+    "Naaman",
+    "Elisha"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Naaman said he thought Elisha would come out, call on the LORD and wave his hand over the spot to cure him."
+}

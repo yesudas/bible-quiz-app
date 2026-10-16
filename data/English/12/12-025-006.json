@@ -1,0 +1,46 @@
+{
+  "id": "12-025-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 25,
+  "verse_reference": "2 Kings 25:9",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the Babylonians do to the temple of the LORD?",
+  "options": [
+    "They turned it into a palace",
+    "They left it untouched",
+    "They gave it to Egypt",
+    "They set it on fire"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [
+    "Nebuzaradan"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    },
+    {
+      "name": "Royal palace",
+      "type": "palace"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nebuzaradan set fire to the temple of the LORD, the royal palace and all the houses of Jerusalem."
+}

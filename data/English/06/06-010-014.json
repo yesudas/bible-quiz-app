@@ -1,0 +1,38 @@
+{
+  "id": "06-010-014",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 10,
+  "verse_reference": "Joshua 10:25",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Joshua told his army commanders, \"Do not be afraid; do not be discouraged. Be ____ and courageous.\"",
+  "options": [
+    "patient",
+    "strong",
+    "quick",
+    "ready"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Makkedah",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua repeated to his commanders the same encouragement God had given him: be strong and courageous."
+}

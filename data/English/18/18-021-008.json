@@ -1,0 +1,33 @@
+{
+  "id": "18-021-008",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 21,
+  "verse_reference": "Job 21:34",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Job's question: \"So how can you console me with your ____?\"",
+  "options": [
+    "kindness",
+    "nonsense",
+    "gifts",
+    "prayers"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Wisdom"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job ended, 'So how can you console me with your nonsense? Nothing is left of your answers but falsehood!'"
+}

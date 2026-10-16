@@ -1,0 +1,38 @@
+{
+  "id": "13-011-009",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 11,
+  "verse_reference": "1 Chronicles 11:13-14",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "At Pas Dammim, what kind of field did Eleazar and his men defend?",
+  "options": [
+    "A wheat field",
+    "A vineyard",
+    "An olive grove",
+    "A barley field"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "War",
+    "Faith"
+  ],
+  "characters": [
+    "Eleazar",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Pas Dammim",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The field was full of barley. They took their stand in the middle of it and defended it, and the LORD brought about a great victory."
+}

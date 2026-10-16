@@ -1,0 +1,33 @@
+{
+  "id": "05-007-004",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 7,
+  "verse_reference": "Deuteronomy 7:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Moses said Israel was chosen to be God's \"___ possession\" out of all the peoples on earth.",
+  "options": [
+    "treasured",
+    "holy",
+    "faithful",
+    "royal"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant",
+    "Love",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel was a people holy to the Lord, chosen out of all peoples to be His treasured possession."
+}

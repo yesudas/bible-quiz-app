@@ -1,0 +1,36 @@
+{
+  "id": "23-005-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 5,
+  "verse_reference": "Isaiah 5:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "After all the owner's work, what kind of fruit did the vineyard produce?",
+  "options": [
+    "Only bad fruit",
+    "Plenty of good grapes",
+    "Figs and olives",
+    "No fruit at all"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Vineyard on a fertile hillside",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 5:2 says he looked for a crop of good grapes, but it yielded only bad fruit."
+}

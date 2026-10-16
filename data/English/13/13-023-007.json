@@ -1,0 +1,32 @@
+{
+  "id": "13-023-007",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 23,
+  "verse_reference": "1 Chronicles 23:14",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "The sons of which \"man of God\" were counted as part of the tribe of Levi?",
+  "options": [
+    "Samuel",
+    "Aaron",
+    "Moses",
+    "Elijah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The sons of Moses the man of God were counted as part of the tribe of Levi."
+}

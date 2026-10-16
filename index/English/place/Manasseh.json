@@ -1,0 +1,15 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Manasseh",
+    "label": "Manasseh",
+    "count": 5,
+    "paths": [
+        "English/07/07-006-010.json",
+        "English/07/07-006-019.json",
+        "English/14/14-015-007.json",
+        "English/14/14-030-006.json",
+        "English/14/14-031-001.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

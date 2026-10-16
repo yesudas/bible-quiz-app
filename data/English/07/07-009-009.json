@@ -1,0 +1,38 @@
+{
+  "id": "07-009-009",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 9,
+  "verse_reference": "Judges 9:15-20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In Jotham's story, whom did the thornbush represent?",
+  "options": [
+    "Abimelek",
+    "Jotham",
+    "Gideon",
+    "Gaal"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Jotham",
+    "Abimelek"
+  ],
+  "places": [
+    {
+      "name": "Shechem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jotham used the thornbush to picture Abimelek. He warned that fire would come out from Abimelek and consume the citizens of Shechem, and fire from them would consume Abimelek."
+}

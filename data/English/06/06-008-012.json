@@ -1,0 +1,38 @@
+{
+  "id": "06-008-012",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 8,
+  "verse_reference": "Joshua 8:32",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Joshua copy on stones in front of the Israelites?",
+  "options": [
+    "The names of the twelve tribes",
+    "The law of Moses",
+    "The story of Jericho",
+    "The list of the kings"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Joshua",
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Mount Ebal",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "There, in the presence of the Israelites, Joshua copied on stones the law of Moses."
+}

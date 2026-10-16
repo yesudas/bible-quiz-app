@@ -1,0 +1,38 @@
+{
+  "id": "21-012-002",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 12,
+  "verse_reference": "Ecclesiastes 12:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Ecclesiastes 12:6, which of these is described as broken before a person dies?",
+  "options": [
+    "The silver crown",
+    "The bronze gate",
+    "The golden bowl",
+    "The iron chain"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Spring",
+      "type": "well"
+    },
+    {
+      "name": "Well",
+      "type": "well"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Teacher speaks of the silver cord severed, the golden bowl broken, the pitcher shattered at the spring and the wheel broken at the well, as pictures of the end of life."
+}

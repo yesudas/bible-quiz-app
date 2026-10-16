@@ -1,0 +1,33 @@
+{
+  "id": "18-033-001",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 33,
+  "verse_reference": "Job 33:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Elihu's words: \"The Spirit of God has ____ me; the breath of the Almighty gives me life.\"",
+  "options": [
+    "called",
+    "taught",
+    "made",
+    "sent"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit",
+    "Creation"
+  ],
+  "characters": [
+    "Elihu"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elihu said, 'The Spirit of God has made me; the breath of the Almighty gives me life.'"
+}

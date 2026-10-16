@@ -1,0 +1,36 @@
+{
+  "id": "13-001-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 1,
+  "verse_reference": "1 Chronicles 1:4",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "Which of these was NOT one of the sons of Noah?",
+  "options": [
+    "Shem",
+    "Ham",
+    "Japheth",
+    "Enoch"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Noah",
+    "Shem",
+    "Ham",
+    "Japheth",
+    "Enoch"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The sons of Noah were Shem, Ham and Japheth. Enoch lived earlier and is listed among Noah's ancestors."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "05-004-011",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 4,
+  "verse_reference": "Deuteronomy 4:27-28",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Moses warn would happen to Israel if they turned to idols?",
+  "options": [
+    "They would be scattered among the nations",
+    "They would lose their cattle",
+    "They would be struck with disease only",
+    "They would be forced to rebuild Egypt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Sin",
+    "Prophecy"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses warned that idolatry would cause the Lord to scatter Israel among the nations, where they would serve man-made gods of wood and stone."
+}

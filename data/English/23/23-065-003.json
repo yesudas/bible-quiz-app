@@ -1,0 +1,32 @@
+{
+  "id": "23-065-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 65,
+  "verse_reference": "Isaiah 65:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: 'See, I will create new heavens and a new ______.'",
+  "options": [
+    "temple",
+    "city",
+    "earth",
+    "kingdom"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation",
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 65:17 says, 'See, I will create new heavens and a new earth. The former things will not be remembered, nor will they come to mind.'"
+}

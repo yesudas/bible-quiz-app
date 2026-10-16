@@ -1,0 +1,35 @@
+{
+  "id": "15-003-011",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 3,
+  "verse_reference": "Ezra 3:12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who wept aloud when they saw the foundation of the new temple?",
+  "options": [
+    "Older people who had seen the former temple",
+    "The workers from Tyre and Sidon",
+    "The children of the exiles",
+    "The officials of King Cyrus"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Many of the older priests, Levites and family heads, who had seen the former temple, wept aloud when they saw this foundation."
+}

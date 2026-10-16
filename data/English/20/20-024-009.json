@@ -1,0 +1,39 @@
+{
+  "id": "20-024-009",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 24,
+  "verse_reference": "Proverbs 24:30-31",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In Proverbs 24:30-31, what did the speaker see when he passed the field of the sluggard?",
+  "options": [
+    "A great harvest",
+    "Thorns everywhere and a stone wall in ruins",
+    "Many workers",
+    "A new house"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Field of the sluggard",
+      "type": "field"
+    },
+    {
+      "name": "Vineyard",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 24:30-31 says the field and vineyard of the sluggard were overgrown with thorns, covered with weeds, and the stone wall was in ruins."
+}

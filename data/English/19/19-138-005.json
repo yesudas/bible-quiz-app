@@ -1,0 +1,33 @@
+{
+  "id": "19-138-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 138,
+  "verse_reference": "Psalm 138:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did David say God does when he walks in the midst of trouble?",
+  "options": [
+    "God hides from him",
+    "God preserves his life",
+    "God sends him away",
+    "God makes him king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Salvation"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Though I walk in the midst of trouble, you preserve my life.\""
+}

@@ -1,0 +1,41 @@
+{
+  "id": "12-016-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 16,
+  "verse_reference": "2 Kings 16:10-11",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which priest built an altar in Jerusalem following Ahaz's plans from Damascus?",
+  "options": [
+    "Jehoiada",
+    "Hilkiah",
+    "Uriah",
+    "Zadok"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Uriah",
+    "Ahaz"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Damascus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Uriah the priest built an altar according to all the plans that King Ahaz had sent from Damascus."
+}

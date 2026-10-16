@@ -1,0 +1,37 @@
+{
+  "id": "07-012-008",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 12,
+  "verse_reference": "Judges 12:8-9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What does the Bible say about the children of Ibzan of Bethlehem?",
+  "options": [
+    "He had forty sons and thirty grandsons",
+    "He had thirty sons and thirty daughters",
+    "He had seventy sons",
+    "He had twelve sons and twelve daughters"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Marriage"
+  ],
+  "characters": [
+    "Ibzan"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ibzan had thirty sons and thirty daughters. He gave his daughters in marriage outside his clan and brought in thirty young women as wives for his sons."
+}

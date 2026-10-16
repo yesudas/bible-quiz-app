@@ -1,0 +1,39 @@
+{
+  "id": "06-014-004",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 14,
+  "verse_reference": "Joshua 14:6",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which man from the tribe of Judah came to Joshua to ask for his inheritance?",
+  "options": [
+    "Achan",
+    "Eleazar",
+    "Caleb",
+    "Othniel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [
+    "Caleb",
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Gilgal",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Caleb son of Jephunneh came with the people of Judah to Joshua at Gilgal to ask for his inheritance."
+}

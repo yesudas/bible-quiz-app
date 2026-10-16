@@ -1,0 +1,37 @@
+{
+  "id": "12-018-013",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 18,
+  "verse_reference": "2 Kings 18:29",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The field commander shouted to the people: \"Do not let Hezekiah ______ you.\"",
+  "options": [
+    "lead",
+    "deceive",
+    "rule",
+    "frighten"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Temptation"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The field commander shouted in Hebrew, 'Do not let Hezekiah deceive you. He cannot deliver you from my hand!'"
+}

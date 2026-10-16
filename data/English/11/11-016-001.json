@@ -1,0 +1,33 @@
+{
+  "id": "11-016-001",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 16,
+  "verse_reference": "1 Kings 16:1",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which prophet, the son of Hanani, brought the word of the LORD against King Baasha?",
+  "options": [
+    "Ahijah",
+    "Jehu",
+    "Elijah",
+    "Shemaiah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Jehu son of Hanani",
+    "Baasha"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The word of the LORD came to Jehu son of Hanani concerning Baasha."
+}

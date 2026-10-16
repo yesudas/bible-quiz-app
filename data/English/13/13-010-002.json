@@ -1,0 +1,40 @@
+{
+  "id": "13-010-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 10,
+  "verse_reference": "1 Chronicles 10:2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which of these sons of Saul was NOT killed by the Philistines in this battle?",
+  "options": [
+    "Jonathan",
+    "Abinadab",
+    "Malki-Shua",
+    "Esh-Baal"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "War",
+    "Family"
+  ],
+  "characters": [
+    "Saul",
+    "Jonathan",
+    "Abinadab",
+    "Malki-Shua"
+  ],
+  "places": [
+    {
+      "name": "Mount Gilboa",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Philistines killed Saul's sons Jonathan, Abinadab and Malki-Shua. Esh-Baal is not named among them."
+}

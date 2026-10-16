@@ -1,0 +1,34 @@
+{
+  "id": "13-006-001",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 6,
+  "verse_reference": "1 Chronicles 6:1",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which of these was NOT a son of Levi?",
+  "options": [
+    "Gershon",
+    "Kohath",
+    "Merari",
+    "Korah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Levi",
+    "Gershon",
+    "Kohath",
+    "Merari"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 6:1 lists the sons of Levi as Gershon, Kohath and Merari."
+}

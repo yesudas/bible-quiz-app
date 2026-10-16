@@ -1,0 +1,31 @@
+{
+  "id": "19-109-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 109,
+  "verse_reference": "Psalm 109:23",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "David said he was shaken off like which creature?",
+  "options": [
+    "A fly",
+    "A sparrow",
+    "A locust",
+    "A fish"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said he faded away like an evening shadow and was shaken off like a locust."
+}

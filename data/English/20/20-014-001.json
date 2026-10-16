@@ -1,0 +1,36 @@
+{
+  "id": "20-014-001",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 14,
+  "verse_reference": "Proverbs 14:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 14:1, what does the wise woman do?",
+  "options": [
+    "Tears down her house",
+    "Builds her house",
+    "Sells her house",
+    "Leaves her house"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Family"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 14:1 says the wise woman builds her house, but with her own hands the foolish one tears hers down."
+}

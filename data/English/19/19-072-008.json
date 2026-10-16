@@ -1,0 +1,32 @@
+{
+  "id": "19-072-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 72,
+  "verse_reference": "Psalm 72:20",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "What does Psalm 72:20 say has come to an end?",
+  "options": [
+    "The reign of Solomon",
+    "The prayers of David son of Jesse",
+    "The songs of Asaph",
+    "The book of the law"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "David",
+    "Jesse"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 72:20 says, \"This concludes the prayers of David son of Jesse.\""
+}

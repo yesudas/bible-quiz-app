@@ -1,0 +1,33 @@
+{
+  "id": "23-010-010",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 10,
+  "verse_reference": "Isaiah 10:33-34",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Before the Mighty One, what would fall like a forest cut down?",
+  "options": [
+    "Egypt",
+    "Lebanon",
+    "Damascus",
+    "Babylon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Lebanon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 10:34 says He will cut down the forest thickets with an ax, and Lebanon will fall before the Mighty One."
+}

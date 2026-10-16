@@ -1,0 +1,36 @@
+{
+  "id": "05-011-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 11,
+  "verse_reference": "Deuteronomy 11:10-12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How was the promised land different from Egypt in the way it was watered?",
+  "options": [
+    "It had no water at all",
+    "It was watered only by wells",
+    "It drank rain from heaven, while Egypt was watered by human effort",
+    "It flooded every month"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Faith",
+    "Creation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Unlike Egypt, where crops were watered by foot-driven effort, the promised land drank rain from heaven and was cared for by God throughout the year."
+}

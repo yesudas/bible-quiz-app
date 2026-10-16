@@ -1,0 +1,32 @@
+{
+  "id": "13-025-005",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 25,
+  "verse_reference": "1 Chronicles 25:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many sons and daughters did God give Heman?",
+  "options": [
+    "Fourteen sons and three daughters",
+    "Seven sons and three daughters",
+    "Twelve sons and two daughters",
+    "Ten sons and five daughters"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Blessing"
+  ],
+  "characters": [
+    "Heman"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God gave Heman fourteen sons and three daughters."
+}

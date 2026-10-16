@@ -1,0 +1,36 @@
+{
+  "id": "23-028-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 28,
+  "verse_reference": "Isaiah 28:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'See, I lay a stone in Zion, a tested stone, a precious ______ for a sure foundation.'",
+  "options": [
+    "cornerstone",
+    "jewel",
+    "pillar",
+    "altar"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Jesus",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 28:16 says, 'See, I lay a stone in Zion, a tested stone, a precious cornerstone for a sure foundation.'"
+}

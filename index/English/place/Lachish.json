@@ -1,0 +1,17 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Lachish",
+    "label": "Lachish",
+    "count": 7,
+    "paths": [
+        "English/06/06-010-015.json",
+        "English/12/12-014-010.json",
+        "English/12/12-018-008.json",
+        "English/14/14-011-005.json",
+        "English/14/14-025-015.json",
+        "English/14/14-032-006.json",
+        "English/23/23-036-003.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "12-011-011",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 11,
+  "verse_reference": "2 Kings 11:17",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What covenant did Jehoiada make between the LORD, the king and the people?",
+  "options": [
+    "That they would be the LORD's people",
+    "That Judah would never go to war",
+    "That Joash would build a new temple",
+    "That they would pay tribute to Israel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant",
+    "Worship"
+  ],
+  "characters": [
+    "Jehoiada",
+    "Joash"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoiada made a covenant between the LORD and the king and people that they would be the LORD's people."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "05-014-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 14,
+  "verse_reference": "Deuteronomy 14:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Which two features made a land animal clean and allowed for food?",
+  "options": [
+    "A split hoof and chewing the cud",
+    "Sharp teeth and a long tail",
+    "Fins and scales",
+    "Wings and feathers"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "An animal was clean to eat if it had a completely split hoof and also chewed the cud, such as the ox, sheep, and goat."
+}

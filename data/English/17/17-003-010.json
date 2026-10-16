@@ -1,0 +1,34 @@
+{
+  "id": "17-003-010",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 3,
+  "verse_reference": "Esther 3:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did King Xerxes take off his finger and give to Haman?",
+  "options": [
+    "His royal crown",
+    "His scepter",
+    "His signet ring",
+    "His robe"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Persecution"
+  ],
+  "characters": [
+    "Xerxes",
+    "Haman"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king took his signet ring from his finger and gave it to Haman, the enemy of the Jews."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "19-008-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 8,
+  "verse_reference": "Psalm 8:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Psalm 8:3, what does David call the heavens?",
+  "options": [
+    "The throne of God",
+    "The work of God's fingers",
+    "The home of the angels",
+    "The roof of the earth"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 8:3 says, \"When I consider your heavens, the work of your fingers, the moon and the stars, which you have set in place.\""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "19-058-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 58,
+  "verse_reference": "Psalm 58:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Surely the righteous still are rewarded; surely there is a God who ____ the earth.\"",
+  "options": [
+    "judges",
+    "rules",
+    "fills",
+    "made"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Hope"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm ends by declaring that the righteous are rewarded and God judges the earth."
+}

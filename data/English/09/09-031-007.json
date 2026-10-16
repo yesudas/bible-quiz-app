@@ -1,0 +1,35 @@
+{
+  "id": "09-031-007",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 31,
+  "verse_reference": "1 Samuel 31:10",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the Philistines put Saul's armor?",
+  "options": [
+    "In the temple of Dagon",
+    "In the palace at Gath",
+    "On the city gate of Ekron",
+    "In the temple of the Ashtoreths"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Temple of the Ashtoreths",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Philistines put Saul's armor in the temple of the Ashtoreths."
+}

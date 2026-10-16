@@ -1,0 +1,36 @@
+{
+  "id": "09-008-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 8,
+  "verse_reference": "1 Samuel 8:19-20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the people still want a king after Samuel's warning?",
+  "options": [
+    "So they could stop paying taxes",
+    "So they could be like the other nations, with a king to fight their battles",
+    "So they could return to Egypt",
+    "So Samuel could rest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people refused to listen and said they wanted to be like all the other nations, with a king to lead them and fight their battles."
+}

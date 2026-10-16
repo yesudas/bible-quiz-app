@@ -1,0 +1,32 @@
+{
+  "id": "09-016-012",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 16,
+  "verse_reference": "1 Samuel 16:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Saul's attendants suggest to help him?",
+  "options": [
+    "Find someone who could play the lyre",
+    "Call Samuel back",
+    "Offer a sacrifice",
+    "Go to war"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul's attendants suggested searching for someone who could play the lyre, so that he would feel better when the spirit came on him."
+}

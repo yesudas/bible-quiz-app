@@ -1,0 +1,43 @@
+{
+  "id": "23-019-009",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 19,
+  "verse_reference": "Isaiah 19:25",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: 'Blessed be Egypt my people, Assyria my handiwork, and Israel my ______.'",
+  "options": [
+    "firstborn",
+    "treasure",
+    "inheritance",
+    "chosen one"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Mission",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 19:25 says, 'Blessed be Egypt my people, Assyria my handiwork, and Israel my inheritance.'"
+}

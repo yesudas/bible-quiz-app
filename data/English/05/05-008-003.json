@@ -1,0 +1,31 @@
+{
+  "id": "05-008-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 8,
+  "verse_reference": "Deuteronomy 8:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What food did God give Israel to eat in the wilderness that they had not known before?",
+  "options": [
+    "Quail",
+    "Bread from Egypt",
+    "Figs",
+    "Manna"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God fed Israel with manna, a food they and their ancestors had never known, to humble them and teach them to depend on Him."
+}

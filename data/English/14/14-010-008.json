@@ -1,0 +1,30 @@
+{
+  "id": "14-010-008",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 10,
+  "verse_reference": "2 Chronicles 10:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Rehoboam's harsh words: \"My father scourged you with whips; I will scourge you with ______.\"",
+  "options": [
+    "rods",
+    "chains",
+    "swords",
+    "scorpions"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Rehoboam"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Following the young men's advice, Rehoboam said he would scourge the people with scorpions instead of whips."
+}

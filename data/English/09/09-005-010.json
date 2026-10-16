@@ -1,0 +1,43 @@
+{
+  "id": "09-005-010",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 5,
+  "verse_reference": "1 Samuel 5:1-10",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "In what order was the ark taken to these Philistine cities?",
+  "options": [
+    "Gath, Ashdod, Ekron",
+    "Ekron, Gath, Ashdod",
+    "Ashdod, Ekron, Gath",
+    "Ashdod, Gath, Ekron"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ashdod",
+      "type": "city"
+    },
+    {
+      "name": "Gath",
+      "type": "city"
+    },
+    {
+      "name": "Ekron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The ark was first taken to Ashdod, then moved to Gath, and then sent to Ekron."
+}

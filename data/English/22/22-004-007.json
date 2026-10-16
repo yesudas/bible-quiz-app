@@ -1,0 +1,34 @@
+{
+  "id": "22-004-007",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 4,
+  "verse_reference": "Song of Songs 4:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "The bride is called a well of flowing water streaming down from where?",
+  "options": [
+    "Lebanon",
+    "Jerusalem",
+    "The Jordan",
+    "The desert"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Lebanon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 4:15 calls her a garden fountain, a well of flowing water streaming down from Lebanon."
+}

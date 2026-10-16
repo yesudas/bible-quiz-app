@@ -1,0 +1,34 @@
+{
+  "id": "13-021-001",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 21,
+  "verse_reference": "1 Chronicles 21:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to 1 Chronicles 21:1, who incited David to take a census of Israel?",
+  "options": [
+    "Joab",
+    "Satan",
+    "Gad",
+    "Absalom"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Satan",
+    "Temptation",
+    "Sin"
+  ],
+  "characters": [
+    "David",
+    "Satan"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Satan rose up against Israel and incited David to take a census of Israel."
+}

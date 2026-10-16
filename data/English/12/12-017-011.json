@@ -1,0 +1,37 @@
+{
+  "id": "12-017-011",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 17,
+  "verse_reference": "2 Kings 17:21",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which king enticed Israel away from following the LORD and caused them to commit a great sin?",
+  "options": [
+    "Ahab",
+    "Hoshea",
+    "Jeroboam son of Nebat",
+    "Jehu"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Jeroboam"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeroboam son of Nebat enticed Israel away from following the LORD and caused them to commit a great sin."
+}

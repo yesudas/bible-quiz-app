@@ -1,0 +1,34 @@
+{
+  "id": "23-022-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 22,
+  "verse_reference": "Isaiah 22:1",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Isaiah 22 begins a prophecy against which place?",
+  "options": [
+    "The Valley of Vision",
+    "The Valley of Achor",
+    "The Desert by the Sea",
+    "The Valley of Salt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Valley of Vision",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 22:1 begins, 'A prophecy against the Valley of Vision.'"
+}

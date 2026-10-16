@@ -1,0 +1,31 @@
+{
+  "id": "09-010-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 10,
+  "verse_reference": "1 Samuel 10:14-16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Saul NOT tell his uncle about his meeting with Samuel?",
+  "options": [
+    "That they had gone to look for donkeys",
+    "That the donkeys had been found",
+    "That they had gone to Samuel",
+    "What Samuel said about the kingship"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul told his uncle that Samuel said the donkeys had been found, but he did not tell him what Samuel had said about the kingship."
+}

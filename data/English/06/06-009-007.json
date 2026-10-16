@@ -1,0 +1,33 @@
+{
+  "id": "06-009-007",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 9,
+  "verse_reference": "Joshua 9:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What mistake did the Israelites make before making the treaty?",
+  "options": [
+    "They attacked too early",
+    "They forgot to count the men",
+    "They did not inquire of the LORD",
+    "They did not write it down"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Wisdom"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites sampled the Gibeonites' provisions but did not inquire of the LORD."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "19-138-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 138,
+  "verse_reference": "Psalm 138:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Your love, LORD, endures forever—do not abandon the works of your ______.\"",
+  "options": [
+    "people",
+    "word",
+    "hands",
+    "servants"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David ends the psalm asking the LORD not to abandon the works of His hands."
+}

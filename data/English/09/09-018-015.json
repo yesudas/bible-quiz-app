@@ -1,0 +1,33 @@
+{
+  "id": "09-018-015",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 18,
+  "verse_reference": "1 Samuel 18:28-29",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Saul realize that made him more afraid of David?",
+  "options": [
+    "That David wanted to be king at once",
+    "That the Philistines liked David",
+    "That the LORD was with David and Michal loved him",
+    "That Jonathan had given David his sword"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul",
+    "David",
+    "Michal"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Saul realized the LORD was with David and that Michal loved him, he became still more afraid, and he remained David's enemy the rest of his days."
+}

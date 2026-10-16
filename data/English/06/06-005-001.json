@@ -1,0 +1,40 @@
+{
+  "id": "06-005-001",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 5,
+  "verse_reference": "Joshua 5:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the Amorite and Canaanite kings react when they heard that the LORD had dried up the Jordan?",
+  "options": [
+    "They made peace with Israel",
+    "Their hearts melted and they lost courage",
+    "They gathered to attack at once",
+    "They sent gifts to Joshua"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Fear of God",
+    "Miracles"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    },
+    {
+      "name": "Canaan",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the kings heard what the LORD had done at the Jordan, their hearts melted in fear and they no longer had courage to face Israel."
+}

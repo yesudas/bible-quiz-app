@@ -1,0 +1,36 @@
+{
+  "id": "09-011-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 11,
+  "verse_reference": "1 Samuel 11:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How complete was Israel's victory over the Ammonites?",
+  "options": [
+    "The Ammonites captured Jabesh",
+    "The survivors were so scattered that no two were left together",
+    "Israel lost most of its army",
+    "The two armies made peace"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Jabesh Gilead",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul's men slaughtered the Ammonites until the heat of the day, and those who survived were so scattered that no two of them were left together."
+}

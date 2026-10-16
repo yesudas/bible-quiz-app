@@ -1,0 +1,33 @@
+{
+  "id": "19-039-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 39,
+  "verse_reference": "Psalm 39:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 39:5, God has made David's days a mere what?",
+  "options": [
+    "Shadow",
+    "Season",
+    "Moment",
+    "Handbreadth"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Humility",
+    "Wisdom"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 39:5 says, \"You have made my days a mere handbreadth; the span of my years is as nothing before you.\""
+}

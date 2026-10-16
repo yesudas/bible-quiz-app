@@ -1,0 +1,36 @@
+{
+  "id": "16-010-010",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 10,
+  "verse_reference": "Nehemiah 10:39",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Nehemiah 10:39: \"We will not ______ the house of our God.\"",
+  "options": [
+    "leave",
+    "neglect",
+    "forget",
+    "destroy"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House of God",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The chapter ends with the people's promise: \"We will not neglect the house of our God.\""
+}

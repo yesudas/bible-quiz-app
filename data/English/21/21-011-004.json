@@ -1,0 +1,30 @@
+{
+  "id": "21-011-004",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 11,
+  "verse_reference": "Ecclesiastes 11:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "The Teacher says we do not know the path of the wind or how the body is formed in a mother's womb. What else does he say we cannot understand?",
+  "options": [
+    "The thoughts of kings",
+    "The number of the stars",
+    "The depth of the sea",
+    "The work of God, the Maker of all things"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"As you do not know the path of the wind, or how the body is formed in a mother's womb, so you cannot understand the work of God, the Maker of all things.\""
+}

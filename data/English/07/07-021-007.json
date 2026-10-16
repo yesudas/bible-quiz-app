@@ -1,0 +1,38 @@
+{
+  "id": "07-021-007",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 21,
+  "verse_reference": "Judges 21:12",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the Israelites bring the young women from Jabesh Gilead?",
+  "options": [
+    "To Mizpah",
+    "To the camp at Shiloh in Canaan",
+    "To Bethel",
+    "To Gibeah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "town"
+    },
+    {
+      "name": "Canaan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They took the young women to the camp at Shiloh in Canaan."
+}

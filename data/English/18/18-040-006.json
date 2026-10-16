@@ -1,0 +1,33 @@
+{
+  "id": "18-040-006",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 40,
+  "verse_reference": "Job 40:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "The LORD asked Job if his voice could do what like God's?",
+  "options": [
+    "Sing",
+    "Whisper",
+    "Command the sea",
+    "Thunder"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD asked, 'Do you have an arm like God's, and can your voice thunder like his?'"
+}

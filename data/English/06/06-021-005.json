@@ -1,0 +1,30 @@
+{
+  "id": "06-021-005",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 21,
+  "verse_reference": "Joshua 21:41",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many towns did the Levites receive in all?",
+  "options": [
+    "Twelve",
+    "Thirty-one",
+    "Forty-eight",
+    "Sixty"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The towns of the Levites in the territory of Israel were forty-eight in all, together with their pasturelands."
+}

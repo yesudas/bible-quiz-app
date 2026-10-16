@@ -1,0 +1,32 @@
+{
+  "id": "19-072-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 72,
+  "verse_reference": "Psalm 72 (title)",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "According to the title of Psalm 72, whose psalm is it?",
+  "options": [
+    "David's",
+    "Asaph's",
+    "Moses'",
+    "Solomon's"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title of Psalm 72 says it is \"Of Solomon.\""
+}

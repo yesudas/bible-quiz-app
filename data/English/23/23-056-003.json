@@ -1,0 +1,34 @@
+{
+  "id": "23-056-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 56,
+  "verse_reference": "Isaiah 56:4-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God promise to the eunuchs who keep His Sabbaths and hold fast to His covenant?",
+  "options": [
+    "A name better than sons and daughters",
+    "A seat in the king's palace",
+    "Great riches",
+    "A house in Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 56:5 says, 'I will give them... a memorial and a name better than sons and daughters; I will give them an everlasting name.'"
+}

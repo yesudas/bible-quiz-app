@@ -1,0 +1,42 @@
+{
+  "id": "12-002-014",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 2,
+  "verse_reference": "2 Kings 2:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When the prophets from Jericho saw Elisha cross the Jordan, what did they say?",
+  "options": [
+    "\"Elijah has come back to us\"",
+    "\"Elisha is the new king of Israel\"",
+    "\"The Jordan has dried up forever\"",
+    "\"The spirit of Elijah is resting on Elisha\""
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Holy Spirit",
+    "Leadership"
+  ],
+  "characters": [
+    "Elisha",
+    "Elijah"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    },
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The prophets said the spirit of Elijah was resting on Elisha, and they bowed to the ground before him."
+}

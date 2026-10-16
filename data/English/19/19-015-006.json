@@ -1,0 +1,31 @@
+{
+  "id": "19-015-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 15,
+  "verse_reference": "Psalm 15:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 15:5, what will happen to whoever does these things?",
+  "options": [
+    "They will become rich",
+    "They will never be shaken",
+    "They will become a priest",
+    "They will live in a palace"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 15:5 ends, \"Whoever does these things will never be shaken.\""
+}

@@ -1,0 +1,39 @@
+{
+  "id": "09-002-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 2,
+  "verse_reference": "1 Samuel 2:19",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Hannah make for Samuel each year?",
+  "options": [
+    "A pair of sandals",
+    "A little robe",
+    "A wooden toy",
+    "A leather belt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Love"
+  ],
+  "characters": [
+    "Hannah",
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Each year Hannah made Samuel a little robe and took it to him when she went up with her husband to offer the yearly sacrifice."
+}

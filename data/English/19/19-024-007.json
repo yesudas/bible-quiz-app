@@ -1,0 +1,33 @@
+{
+  "id": "19-024-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 24,
+  "verse_reference": "Psalm 24:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Who is he, this King of glory? The LORD ____ \u2014 he is the King of glory.\"",
+  "options": [
+    "Most High",
+    "our God",
+    "Almighty",
+    "of Israel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Kingship",
+    "Worship"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 24:10 says, \"Who is he, this King of glory? The LORD Almighty \u2014 he is the King of glory.\""
+}

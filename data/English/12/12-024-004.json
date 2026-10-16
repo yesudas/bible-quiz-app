@@ -1,0 +1,41 @@
+{
+  "id": "12-024-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 24,
+  "verse_reference": "2 Kings 24:3-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Because of whose sins did these things happen to Judah?",
+  "options": [
+    "Manasseh's",
+    "Josiah's",
+    "Hezekiah's",
+    "Jehoahaz's"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Manasseh"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "These things happened because of the sins of Manasseh, including the innocent blood he had shed, which the LORD was not willing to forgive."
+}

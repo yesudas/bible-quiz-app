@@ -1,0 +1,44 @@
+{
+  "id": "09-011-007",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 11,
+  "verse_reference": "1 Samuel 11:8",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Saul gather the men of Israel and Judah?",
+  "options": [
+    "Bezek",
+    "Gilgal",
+    "Mizpah",
+    "Shiloh"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Bezek",
+      "type": "camp"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul mustered the men at Bezek: three hundred thousand from Israel and thirty thousand from Judah."
+}

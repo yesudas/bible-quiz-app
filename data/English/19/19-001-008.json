@@ -1,0 +1,30 @@
+{
+  "id": "19-001-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 1,
+  "verse_reference": "Psalm 1:5",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where will sinners not stand, according to Psalm 1?",
+  "options": [
+    "In the temple courts",
+    "At the city gate",
+    "In the assembly of the righteous",
+    "On the holy mountain"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 1:5 says sinners will not stand in the assembly of the righteous."
+}

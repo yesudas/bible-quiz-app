@@ -1,0 +1,40 @@
+{
+  "id": "16-009-014",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 9,
+  "verse_reference": "Nehemiah 9:22",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two kings' lands did Israel take, according to Nehemiah 9:22?",
+  "options": [
+    "Pharaoh and Nebuchadnezzar",
+    "Sihon king of Heshbon and Og king of Bashan",
+    "Balak and Eglon",
+    "Agag and Jabin"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Sihon",
+    "Og"
+  ],
+  "places": [
+    {
+      "name": "Heshbon",
+      "type": "city"
+    },
+    {
+      "name": "Bashan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They took over the country of Sihon king of Heshbon and the country of Og king of Bashan."
+}

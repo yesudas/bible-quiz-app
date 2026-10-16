@@ -1,0 +1,33 @@
+{
+  "id": "05-025-008",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 25,
+  "verse_reference": "Deuteronomy 25:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Moses said the Lord detests anyone who deals ___.",
+  "options": [
+    "quickly",
+    "dishonestly",
+    "quietly",
+    "boldly"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Justice",
+    "Sin",
+    "Money"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord detests dishonest dealing, which is why Israel was commanded to use honest weights and measures."
+}

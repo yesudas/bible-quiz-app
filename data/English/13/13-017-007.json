@@ -1,0 +1,33 @@
+{
+  "id": "13-017-007",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 17,
+  "verse_reference": "1 Chronicles 17:11-12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to God's promise, who would build a house for the LORD?",
+  "options": [
+    "Nathan the prophet",
+    "One of David's own sons",
+    "Hiram king of Tyre",
+    "The Levites"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Prophecy"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would raise up one of David's own sons, and he is the one who would build a house for the LORD."
+}

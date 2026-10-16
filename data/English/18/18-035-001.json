@@ -1,0 +1,33 @@
+{
+  "id": "18-035-001",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 35,
+  "verse_reference": "Job 35:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In Job 35:2, what did Elihu say Job was claiming?",
+  "options": [
+    "\"My friends are in the right, not I.\"",
+    "\"God has forgotten me.\"",
+    "\"I am in the right, not God.\"",
+    "\"I deserve my suffering.\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [
+    "Elihu",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elihu asked, 'Do you think this is just? You say, \"I am in the right, not God.\"'"
+}

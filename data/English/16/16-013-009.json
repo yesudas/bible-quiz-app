@@ -1,0 +1,42 @@
+{
+  "id": "16-013-009",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 13,
+  "verse_reference": "Nehemiah 13:15-16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What wrong thing did Nehemiah see people doing on the Sabbath?",
+  "options": [
+    "Treading winepresses and selling goods and fish",
+    "Worshiping idols in the temple",
+    "Tearing down the wall",
+    "Refusing to pray"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [
+    "Nehemiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah saw people treading winepresses and bringing in grain on the Sabbath, and people from Tyre selling fish and merchandise."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13-002-004",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 2,
+  "verse_reference": "1 Chronicles 2:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Achar bring trouble on Israel?",
+  "options": [
+    "By leading the people to worship a golden calf",
+    "By running away from battle",
+    "By violating the ban on taking devoted things",
+    "By rebelling against Moses"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Obedience"
+  ],
+  "characters": [
+    "Achar"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Verse 7 says Achar brought trouble on Israel by violating the ban on taking devoted things."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "19-138-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 138,
+  "verse_reference": "Psalm 138:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In Psalm 138, toward what did David say he would bow down?",
+  "options": [
+    "Toward the mountains",
+    "Toward God's holy temple",
+    "Toward the east",
+    "Toward the king's palace"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Holy temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said, \"I will bow down toward your holy temple and will praise your name.\""
+}

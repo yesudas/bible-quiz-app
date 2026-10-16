@@ -1,0 +1,33 @@
+{
+  "id": "14-019-011",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 19,
+  "verse_reference": "2 Chronicles 19:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jehoshaphat's final words: \"Act with ______, and may the LORD be with those who do well.\"",
+  "options": [
+    "kindness",
+    "speed",
+    "wisdom",
+    "courage"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Faith"
+  ],
+  "characters": [
+    "Jehoshaphat"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoshaphat ended by saying, \"Act with courage, and may the LORD be with those who do well.\""
+}

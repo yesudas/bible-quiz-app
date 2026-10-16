@@ -1,0 +1,34 @@
+{
+  "id": "16-012-004",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 12,
+  "verse_reference": "Nehemiah 12:30",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "Before the dedication, what did the priests and Levites do first?",
+  "options": [
+    "They purified themselves, then the people, the gates and the wall",
+    "They sounded trumpets around the city",
+    "They offered a burnt offering on the wall",
+    "They read the whole Law aloud"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priests and Levites purified themselves ceremonially, and then they purified the people, the gates and the wall."
+}

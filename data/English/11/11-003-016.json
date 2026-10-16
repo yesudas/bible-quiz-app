@@ -1,0 +1,38 @@
+{
+  "id": "11-003-016",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 3,
+  "verse_reference": "1 Kings 3:28",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When Israel heard Solomon's verdict, what did they see in him?",
+  "options": [
+    "That he was stronger than David",
+    "That he had wisdom from God to administer justice",
+    "That he was a great warrior",
+    "That he was a prophet"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All Israel held the king in awe, because they saw that he had wisdom from God to administer justice."
+}

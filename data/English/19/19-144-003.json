@@ -1,0 +1,32 @@
+{
+  "id": "19-144-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 144,
+  "verse_reference": "Psalm 144:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 144, human days are like what?",
+  "options": [
+    "A fleeting shadow",
+    "A strong tree",
+    "A long river",
+    "A high mountain"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Humility"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Human beings are like a breath; their days are like a fleeting shadow."
+}

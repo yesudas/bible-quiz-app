@@ -1,0 +1,34 @@
+{
+  "id": "05-006-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 6,
+  "verse_reference": "Deuteronomy 6:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Moses command Israel to love the Lord their God?",
+  "options": [
+    "With all their heart, soul, and strength",
+    "With gifts and offerings",
+    "With loud singing only",
+    "With careful record-keeping"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses commanded Israel to love the Lord with all their heart, all their soul, and all their strength."
+}

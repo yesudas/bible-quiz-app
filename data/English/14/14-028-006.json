@@ -1,0 +1,38 @@
+{
+  "id": "14-028-006",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 28,
+  "verse_reference": "2 Chronicles 28:9-11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Oded tell Israel's army to do with the captives from Judah?",
+  "options": [
+    "Keep them as slaves",
+    "Take them to Damascus",
+    "Send them back, because they were fellow Israelites",
+    "Sell them to Assyria"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mercy",
+    "Prophecy",
+    "Sin"
+  ],
+  "characters": [
+    "Oded"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Oded said they had slaughtered Judah in a rage and told them to send back their fellow Israelites, for the LORD's fierce anger was on them."
+}

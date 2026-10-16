@@ -1,0 +1,29 @@
+{
+  "id": "07-001-020",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 1,
+  "verse_reference": "Judges 1:34",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which tribe did the Amorites confine to the hill country, not allowing them to come down into the plain?",
+  "options": [
+    "The Asherites",
+    "The Simeonites",
+    "The Benjamites",
+    "The Danites"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promised Land"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Amorites kept the Danites confined to the hill country and did not let them come down into the plain."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14-032-005",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 32,
+  "verse_reference": "2 Chronicles 32:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Hezekiah say was with the king of Assyria, compared with what was with Judah?",
+  "options": [
+    "Only chariots, but with us are horses",
+    "Only the arm of flesh, but with us is the LORD our God",
+    "Only a few soldiers, but with us is a great army",
+    "Only gold, but with us is silver"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hezekiah said, \"With him is only the arm of flesh, but with us is the LORD our God to help us and to fight our battles.\""
+}

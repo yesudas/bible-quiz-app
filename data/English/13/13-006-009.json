@@ -1,0 +1,34 @@
+{
+  "id": "13-006-009",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 6,
+  "verse_reference": "1 Chronicles 6:33",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Heman the musician was the grandson of which famous man?",
+  "options": [
+    "Samuel",
+    "Moses",
+    "Aaron",
+    "David"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Family"
+  ],
+  "characters": [
+    "Heman",
+    "Joel",
+    "Samuel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Verse 33 lists Heman, the musician, as the son of Joel, the son of Samuel."
+}

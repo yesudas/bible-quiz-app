@@ -1,0 +1,37 @@
+{
+  "id": "12-002-007",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 2,
+  "verse_reference": "2 Kings 2:8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Elijah use to strike the water of the Jordan so that it divided?",
+  "options": [
+    "His staff",
+    "A branch",
+    "His cloak",
+    "His hand"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elijah rolled up his cloak and struck the water, and it divided so they crossed on dry ground."
+}

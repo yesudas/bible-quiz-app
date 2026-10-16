@@ -1,0 +1,31 @@
+{
+  "id": "17-008-008",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 8,
+  "verse_reference": "Esther 8:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the new decree allow the Jews to do?",
+  "options": [
+    "Leave Persia before the day of attack",
+    "Choose a new king",
+    "Take Haman's riches",
+    "Assemble and protect themselves"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Justice"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king's edict granted the Jews in every city the right to assemble and protect themselves against anyone who attacked them."
+}

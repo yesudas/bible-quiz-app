@@ -1,0 +1,41 @@
+{
+  "id": "07-015-015",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 15,
+  "verse_reference": "Judges 15:19",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "What was the spring called that God opened up for Samson at Lehi?",
+  "options": [
+    "Ramath Lehi",
+    "The spring of Harod",
+    "En Hakkore",
+    "Beer"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Prayer"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [
+    {
+      "name": "En Hakkore",
+      "type": "spring"
+    },
+    {
+      "name": "Lehi",
+      "type": "place"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God opened the hollow place in Lehi and water came out. Samson drank, his strength returned, and the spring was called En Hakkore."
+}

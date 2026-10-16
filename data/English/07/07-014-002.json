@@ -1,0 +1,39 @@
+{
+  "id": "07-014-002",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 14,
+  "verse_reference": "Judges 14:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Samson's parents not want him to marry the woman from Timnah?",
+  "options": [
+    "She was too young",
+    "She was from the uncircumcised Philistines, not from their own people",
+    "She was very poor",
+    "She lived too far away"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage",
+    "Family"
+  ],
+  "characters": [
+    "Samson",
+    "Manoah"
+  ],
+  "places": [
+    {
+      "name": "Timnah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "His parents asked why he had to get a wife from the uncircumcised Philistines instead of from among their own relatives and people."
+}

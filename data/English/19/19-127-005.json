@@ -1,0 +1,32 @@
+{
+  "id": "19-127-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 127,
+  "verse_reference": "Psalm 127:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Children are a ______ from the LORD, offspring a reward from him.\"",
+  "options": [
+    "heritage",
+    "burden",
+    "gift of gold",
+    "duty"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 127:3 says children are a heritage from the LORD and a reward from Him."
+}

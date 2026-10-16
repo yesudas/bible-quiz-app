@@ -1,0 +1,37 @@
+{
+  "id": "12-016-012",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 16,
+  "verse_reference": "2 Kings 16:17-18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Ahaz remove the Sabbath canopy and the royal entryway from the temple?",
+  "options": [
+    "In deference to the king of Assyria",
+    "Because they were broken",
+    "To build a new palace",
+    "Because the priests asked him to"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Ahaz",
+    "Tiglath-Pileser"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahaz removed these things from the temple of the LORD in deference to the king of Assyria."
+}

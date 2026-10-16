@@ -1,0 +1,33 @@
+{
+  "id": "19-009-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 9,
+  "verse_reference": "Psalm 9:20",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "At the end of Psalm 9, what does David want the nations to know?",
+  "options": [
+    "That Israel is strong",
+    "That David is king",
+    "That they are only mortal",
+    "That the land belongs to Israel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Humility",
+    "Judgment"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 9:20 says, \"Strike them with terror, LORD; let the nations know they are only mortal.\""
+}

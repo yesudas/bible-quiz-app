@@ -1,0 +1,35 @@
+{
+  "id": "19-104-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 104,
+  "verse_reference": "Psalm 104:16",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Psalm 104 mentions the cedars that the LORD planted. Where are they?",
+  "options": [
+    "Egypt",
+    "Lebanon",
+    "Bashan",
+    "Moab"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Lebanon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The trees of the LORD are well watered, the cedars of Lebanon that He planted."
+}

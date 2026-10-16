@@ -1,0 +1,43 @@
+{
+  "id": "14-004-012",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 4,
+  "verse_reference": "2 Chronicles 4:17",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the king have the bronze items cast in clay moulds?",
+  "options": [
+    "In the Valley of Kidron",
+    "Near the Pool of Siloam",
+    "At Joppa by the sea",
+    "In the plain of the Jordan between Succoth and Zarethan"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Plain of the Jordan",
+      "type": "region"
+    },
+    {
+      "name": "Succoth",
+      "type": "town"
+    },
+    {
+      "name": "Zarethan",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king had the items cast in clay moulds in the plain of the Jordan between Succoth and Zarethan."
+}

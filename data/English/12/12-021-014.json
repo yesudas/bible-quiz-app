@@ -1,0 +1,38 @@
+{
+  "id": "12-021-014",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 21,
+  "verse_reference": "2 Kings 21:24",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who did the people of the land make king after Amon?",
+  "options": [
+    "Eliakim",
+    "The high priest",
+    "His officials",
+    "His son Josiah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Josiah",
+    "Amon"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people killed those who plotted against Amon and made his son Josiah king in his place."
+}

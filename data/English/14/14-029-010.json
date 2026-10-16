@@ -1,0 +1,38 @@
+{
+  "id": "14-029-010",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 29,
+  "verse_reference": "2 Chronicles 29:25",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to whose command did Hezekiah station the Levites with cymbals, harps and lyres?",
+  "options": [
+    "Moses and Aaron",
+    "Solomon and Zadok",
+    "David, Gad the seer and Nathan the prophet",
+    "Elijah and Elisha"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Hezekiah",
+    "David",
+    "Gad",
+    "Nathan"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He stationed the Levites with instruments in the way prescribed by David, Gad the king's seer and Nathan the prophet, as the LORD commanded."
+}

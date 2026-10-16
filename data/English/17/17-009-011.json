@@ -1,0 +1,31 @@
+{
+  "id": "17-009-011",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 9,
+  "verse_reference": "Esther 9:26",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What name was given to the days of celebration in Esther 9?",
+  "options": [
+    "Passover",
+    "Tabernacles",
+    "Purim",
+    "Pentecost"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Feasts",
+    "Remembrance"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "These days were called Purim."
+}

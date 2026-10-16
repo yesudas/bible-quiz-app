@@ -1,0 +1,36 @@
+{
+  "id": "12-016-011",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 16,
+  "verse_reference": "2 Kings 16:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Ahaz do with the bronze altar that stood before the LORD?",
+  "options": [
+    "Melted it down for Assyria",
+    "Moved it aside and said he would use it for seeking guidance",
+    "Put it in the Most Holy Place",
+    "Sent it to Damascus"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [
+    "Ahaz"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahaz moved the bronze altar aside and told Uriah that he would use the bronze altar for seeking guidance."
+}

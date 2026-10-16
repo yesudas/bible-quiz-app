@@ -1,0 +1,35 @@
+{
+  "id": "12-025-003",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 25,
+  "verse_reference": "2 Kings 25:4-5",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the Babylonian army overtake King Zedekiah as he fled?",
+  "options": [
+    "At Megiddo",
+    "At the Jordan",
+    "In the plains of Jericho",
+    "In the Kidron Valley"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Zedekiah"
+  ],
+  "places": [
+    {
+      "name": "Plains of Jericho",
+      "type": "plain"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Babylonian army pursued the king and overtook him in the plains of Jericho, and all his soldiers were scattered."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-016-008",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 16,
+  "verse_reference": "2 Kings 16:9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the king of Assyria do after receiving Ahaz's gift?",
+  "options": [
+    "He captured Damascus and put Rezin to death",
+    "He attacked Jerusalem",
+    "He returned the gift",
+    "He made peace with Aram"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Tiglath-Pileser",
+    "Rezin"
+  ],
+  "places": [
+    {
+      "name": "Damascus",
+      "type": "city"
+    },
+    {
+      "name": "Kir",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king of Assyria attacked Damascus, captured it, deported its people to Kir and put Rezin to death."
+}

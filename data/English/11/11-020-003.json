@@ -1,0 +1,38 @@
+{
+  "id": "11-020-003",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 20,
+  "verse_reference": "1 Kings 20:5-8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When Ben-Hadad demanded to search the palace and take everything valuable, what did the elders advise Ahab?",
+  "options": [
+    "To pay everything at once",
+    "To run away to Judah",
+    "Not to listen to him or agree to his demands",
+    "To ask Jezebel what to do"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Wisdom"
+  ],
+  "characters": [
+    "Ahab",
+    "Ben-Hadad"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elders and all the people told Ahab, \"Don't listen to him or agree to his demands.\""
+}

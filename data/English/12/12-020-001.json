@@ -1,0 +1,34 @@
+{
+  "id": "12-020-001",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 20,
+  "verse_reference": "2 Kings 20:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Isaiah first tell Hezekiah when he was ill?",
+  "options": [
+    "You will be healed in three days",
+    "Go and wash in the Jordan",
+    "Your son will be king tomorrow",
+    "Put your house in order, because you are going to die"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Suffering"
+  ],
+  "characters": [
+    "Isaiah",
+    "Hezekiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah told the sick king, 'Put your house in order, because you are going to die; you will not recover.'"
+}

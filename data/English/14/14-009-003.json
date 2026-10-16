@@ -1,0 +1,37 @@
+{
+  "id": "14-009-003",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 9,
+  "verse_reference": "2 Chronicles 9:5-6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the queen of Sheba say about the report she had heard in her own country?",
+  "options": [
+    "It was a lie",
+    "It was only half true",
+    "It was true, and not even half had been told her",
+    "It was about another king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Queen of Sheba",
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Sheba",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "She said the report was true, but she did not believe it until she saw it with her own eyes, and not even half had been told her."
+}

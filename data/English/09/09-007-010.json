@@ -1,0 +1,46 @@
+{
+  "id": "09-007-010",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 7,
+  "verse_reference": "1 Samuel 7:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What name did Samuel give the stone he set up between Mizpah and Shen?",
+  "options": [
+    "Ebenezer",
+    "Bethel",
+    "Gilgal",
+    "Peniel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Faith"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "Mizpah",
+      "type": "town"
+    },
+    {
+      "name": "Shen",
+      "type": "town"
+    },
+    {
+      "name": "Ebenezer",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel named the stone Ebenezer, saying, \"Thus far the LORD has helped us.\""
+}

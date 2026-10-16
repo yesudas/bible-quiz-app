@@ -1,0 +1,33 @@
+{
+  "id": "19-024-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 24,
+  "verse_reference": "Psalm 24:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"The earth is the LORD's, and ____ in it.\"",
+  "options": [
+    "everything",
+    "all the kings",
+    "the people",
+    "the animals"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 24:1 says, \"The earth is the LORD's, and everything in it, the world, and all who live in it.\""
+}

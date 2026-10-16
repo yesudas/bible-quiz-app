@@ -1,0 +1,34 @@
+{
+  "id": "17-003-001",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 3,
+  "verse_reference": "Esther 3:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which man did King Xerxes honor by giving him a seat higher than all the other nobles?",
+  "options": [
+    "Mordecai",
+    "Haman",
+    "Memukan",
+    "Hegai"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Pride"
+  ],
+  "characters": [
+    "Haman",
+    "Xerxes"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "King Xerxes honored Haman son of Hammedatha, the Agagite, and gave him a seat of honor higher than all the other nobles."
+}

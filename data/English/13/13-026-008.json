@@ -1,0 +1,34 @@
+{
+  "id": "13-026-008",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 26,
+  "verse_reference": "1 Chronicles 26:28",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which of these men is NOT named as having dedicated things for the house of God?",
+  "options": [
+    "Samuel the seer",
+    "Saul son of Kish",
+    "Abner son of Ner",
+    "Absalom son of David"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Samuel",
+    "Saul",
+    "Abner",
+    "Joab"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Everything dedicated by Samuel the seer, Saul son of Kish, Abner son of Ner and Joab son of Zeruiah was in the care of Shelomith and his relatives."
+}

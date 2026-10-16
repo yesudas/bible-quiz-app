@@ -1,0 +1,31 @@
+{
+  "id": "23-005-012",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 5,
+  "verse_reference": "Isaiah 5:23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the wicked leaders take in order to set the guilty free?",
+  "options": [
+    "Land",
+    "Sheep",
+    "Wine",
+    "A bribe"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Justice",
+    "Money",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 5:23 speaks of those who acquit the guilty for a bribe but deny justice to the innocent."
+}

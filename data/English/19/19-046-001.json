@@ -1,0 +1,33 @@
+{
+  "id": "19-046-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 46,
+  "verse_reference": "Psalm 46:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"God is our refuge and strength, an ever-present ____ in trouble.\"",
+  "options": [
+    "friend",
+    "help",
+    "light",
+    "shield"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Protection"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 46:1 says, \"God is our refuge and strength, an ever-present help in trouble.\""
+}

@@ -1,0 +1,31 @@
+{
+  "id": "09-030-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 30,
+  "verse_reference": "1 Samuel 30:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were the Amalekites doing when David found them?",
+  "options": [
+    "Sleeping in tents",
+    "Preparing for battle",
+    "Marching toward Egypt",
+    "Eating, drinking and reveling"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Amalekites were scattered over the countryside, eating, drinking and reveling because of the great amount of plunder they had taken."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "09-005-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 5,
+  "verse_reference": "1 Samuel 5:8",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the Philistine rulers have the ark moved after Ashdod?",
+  "options": [
+    "Ekron",
+    "Gaza",
+    "Gath",
+    "Ashkelon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gath",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The rulers of the Philistines said, \"Have the ark of the god of Israel moved to Gath.\""
+}

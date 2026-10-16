@@ -1,0 +1,38 @@
+{
+  "id": "07-018-015",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 18,
+  "verse_reference": "Judges 18:30",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who became priest for the tribe of Dan along with his sons?",
+  "options": [
+    "Phinehas son of Eleazar",
+    "Eli",
+    "Samuel",
+    "Jonathan son of Gershom, the son of Moses"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Jonathan",
+    "Gershom",
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Dan",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonathan son of Gershom, the son of Moses, and his sons were priests for the tribe of Dan until the time of the captivity of the land."
+}

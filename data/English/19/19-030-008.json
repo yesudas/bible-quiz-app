@@ -1,0 +1,34 @@
+{
+  "id": "19-030-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 30,
+  "verse_reference": "Psalm 30:12",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "At the end of Psalm 30, how long does David say he will praise the LORD?",
+  "options": [
+    "Until morning",
+    "For seven days",
+    "Until he is old",
+    "Forever"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Thanksgiving"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 30:12 says, \"LORD my God, I will praise you forever.\""
+}

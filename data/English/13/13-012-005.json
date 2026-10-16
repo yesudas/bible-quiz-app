@@ -1,0 +1,34 @@
+{
+  "id": "13-012-005",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 12,
+  "verse_reference": "1 Chronicles 12:15",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When did the Gadite commanders cross the Jordan?",
+  "options": [
+    "In the first month, when it was overflowing its banks",
+    "During a drought when it was dry",
+    "On the Sabbath day",
+    "At the time of the wheat harvest"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Courage"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They crossed the Jordan in the first month when it was overflowing all its banks."
+}

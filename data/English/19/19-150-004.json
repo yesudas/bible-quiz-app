@@ -1,0 +1,31 @@
+{
+  "id": "19-150-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 150,
+  "verse_reference": "Psalm 150:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the last verse of Psalms: \"Let everything that has ______ praise the LORD.\"",
+  "options": [
+    "life",
+    "voice",
+    "strength",
+    "breath"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The book of Psalms ends by calling everything that has breath to praise the LORD."
+}

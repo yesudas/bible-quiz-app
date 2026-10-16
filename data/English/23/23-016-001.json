@@ -1,0 +1,41 @@
+{
+  "id": "23-016-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 16,
+  "verse_reference": "Isaiah 16:1",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What were the Moabites told to send as tribute to the mount of Daughter Zion?",
+  "options": [
+    "Gold",
+    "Lambs",
+    "Grain",
+    "Olive oil"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    },
+    {
+      "name": "Sela",
+      "type": "city"
+    },
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 16:1 says, 'Send lambs as tribute to the ruler of the land, from Sela, across the desert, to the mount of Daughter Zion.'"
+}

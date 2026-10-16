@@ -1,0 +1,33 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Jotham",
+    "label": "Jotham",
+    "count": 23,
+    "paths": [
+        "English/07/07-009-003.json",
+        "English/07/07-009-004.json",
+        "English/07/07-009-005.json",
+        "English/07/07-009-006.json",
+        "English/07/07-009-007.json",
+        "English/07/07-009-008.json",
+        "English/07/07-009-009.json",
+        "English/07/07-009-010.json",
+        "English/07/07-009-022.json",
+        "English/12/12-015-003.json",
+        "English/12/12-015-013.json",
+        "English/12/12-015-014.json",
+        "English/12/12-016-001.json",
+        "English/14/14-026-014.json",
+        "English/14/14-027-001.json",
+        "English/14/14-027-002.json",
+        "English/14/14-027-003.json",
+        "English/14/14-027-004.json",
+        "English/14/14-027-005.json",
+        "English/14/14-027-006.json",
+        "English/14/14-027-007.json",
+        "English/14/14-027-008.json",
+        "English/23/23-001-002.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

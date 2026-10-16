@@ -1,0 +1,38 @@
+{
+  "id": "05-003-005",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 3,
+  "verse_reference": "Deuteronomy 3:18-20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What condition did Moses place on the tribes settling east of the Jordan?",
+  "options": [
+    "They had to pay a yearly tribute",
+    "They had to give up half their livestock",
+    "Their fighting men must cross over armed to help the other tribes take their land",
+    "They must send their leaders to Jerusalem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Covenant",
+    "Faithfulness"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Jordan",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The women, children, and livestock could stay, but the fighting men had to cross the Jordan armed and help their fellow Israelites take their land before returning home."
+}

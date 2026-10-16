@@ -1,0 +1,31 @@
+{
+  "id": "23-030-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 30,
+  "verse_reference": "Isaiah 30:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'In repentance and rest is your salvation, in quietness and ______ is your strength.'",
+  "options": [
+    "power",
+    "wisdom",
+    "courage",
+    "trust"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Repentance",
+    "Faith",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 30:15 says, 'In repentance and rest is your salvation, in quietness and trust is your strength, but you would have none of it.'"
+}

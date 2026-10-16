@@ -1,0 +1,38 @@
+{
+  "id": "09-009-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 9,
+  "verse_reference": "1 Samuel 9:15-16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the LORD tell Samuel the day before Saul came?",
+  "options": [
+    "That Saul was a thief",
+    "That He would send a man from Benjamin to anoint as ruler",
+    "That the donkeys were dead",
+    "That Samuel should leave the town"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Samuel",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Benjamin",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Samuel He would send a man from the land of Benjamin, and Samuel was to anoint him ruler over Israel."
+}

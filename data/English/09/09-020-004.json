@@ -1,0 +1,38 @@
+{
+  "id": "09-020-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 20,
+  "verse_reference": "1 Samuel 20:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What excuse did David tell Jonathan to give if Saul asked where he was?",
+  "options": [
+    "That David had gone to Bethlehem for his clan's yearly sacrifice",
+    "That David was sick in bed",
+    "That David was with Samuel",
+    "That David was fighting the Philistines"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Worship"
+  ],
+  "characters": [
+    "David",
+    "Jonathan"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David told Jonathan to say that David had asked to hurry to Bethlehem, because an annual sacrifice was being made there for his whole clan."
+}

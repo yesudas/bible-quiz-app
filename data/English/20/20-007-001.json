@@ -1,0 +1,31 @@
+{
+  "id": "20-007-001",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 7,
+  "verse_reference": "Proverbs 7:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Keep my commands and you will live; guard my teachings as the ______ of your eye.\"",
+  "options": [
+    "light",
+    "apple",
+    "corner",
+    "tear"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 7:2 says to guard these teachings as the apple of your eye, meaning to treasure and protect them."
+}

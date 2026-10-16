@@ -1,0 +1,37 @@
+{
+  "id": "14-033-011",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 33,
+  "verse_reference": "2 Chronicles 33:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Manasseh tell Judah to do after he restored the altar of the LORD?",
+  "options": [
+    "To serve the LORD, the God of Israel",
+    "To go to war against Assyria",
+    "To build high places",
+    "To pay more taxes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Obedience"
+  ],
+  "characters": [
+    "Manasseh"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Manasseh restored the altar of the LORD, sacrificed fellowship and thank offerings, and told Judah to serve the LORD, the God of Israel."
+}

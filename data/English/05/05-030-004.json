@@ -1,0 +1,33 @@
+{
+  "id": "05-030-004",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 30,
+  "verse_reference": "Deuteronomy 30:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Moses say about the command God was giving Israel?",
+  "options": [
+    "It was not too difficult or beyond their reach",
+    "It was too difficult and beyond their reach",
+    "It was meant only for the priests",
+    "It would be revealed much later"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Obedience",
+    "Hope"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses assured Israel that what God commanded was not too difficult for them or beyond their reach."
+}

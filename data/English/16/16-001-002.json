@@ -1,0 +1,37 @@
+{
+  "id": "16-001-002",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 1,
+  "verse_reference": "Nehemiah 1:1",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where was Nehemiah when he heard news about Jerusalem?",
+  "options": [
+    "Babylon",
+    "Jerusalem",
+    "The citadel of Susa",
+    "Nineveh"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Nehemiah"
+  ],
+  "places": [
+    {
+      "name": "Susa",
+      "type": "citadel"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah was in the citadel of Susa, where he served the Persian king."
+}

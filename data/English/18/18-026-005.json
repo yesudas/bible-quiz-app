@@ -1,0 +1,32 @@
+{
+  "id": "18-026-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 26,
+  "verse_reference": "Job 26:12",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to Job 26:12, whom did God cut to pieces by His wisdom?",
+  "options": [
+    "Leviathan",
+    "Rahab",
+    "Behemoth",
+    "Goliath"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation",
+    "Wisdom"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'By his power he churned up the sea; by his wisdom he cut Rahab to pieces.'"
+}

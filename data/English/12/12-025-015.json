@@ -1,0 +1,41 @@
+{
+  "id": "12-025-015",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 25,
+  "verse_reference": "2 Kings 25:27",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which king of Babylon released Jehoiachin from prison?",
+  "options": [
+    "Nebuchadnezzar",
+    "Marduk-Baladan",
+    "Awel-Marduk",
+    "Nebuzaradan"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoiachin",
+    "Awel-Marduk"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    },
+    {
+      "name": "Prison in Babylon",
+      "type": "prison"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the thirty-seventh year of Jehoiachin's exile, Awel-Marduk became king of Babylon and released Jehoiachin from prison."
+}

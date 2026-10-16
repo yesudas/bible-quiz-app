@@ -1,0 +1,37 @@
+{
+  "id": "12-019-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 19,
+  "verse_reference": "2 Kings 19:32",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the LORD promise about the king of Assyria and Jerusalem?",
+  "options": [
+    "He would capture it but leave the temple",
+    "He would not enter the city or shoot an arrow there",
+    "He would take its king captive",
+    "He would stay for three years"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Salvation"
+  ],
+  "characters": [
+    "Sennacherib"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said the king of Assyria would not enter the city, shoot an arrow there, or build a siege ramp against it."
+}

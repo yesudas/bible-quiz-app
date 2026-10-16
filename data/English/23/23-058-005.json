@@ -1,0 +1,31 @@
+{
+  "id": "23-058-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 58,
+  "verse_reference": "Isaiah 58:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'You will be like a well-watered ______, like a spring whose waters never fail.'",
+  "options": [
+    "field",
+    "garden",
+    "valley",
+    "tree"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 58:11 says, 'You will be like a well-watered garden, like a spring whose waters never fail.'"
+}

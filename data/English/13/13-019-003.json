@@ -1,0 +1,36 @@
+{
+  "id": "13-019-003",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 19,
+  "verse_reference": "1 Chronicles 19:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the Ammonite commanders tell Hanun about David's envoys?",
+  "options": [
+    "That they had come to spy out the country and overthrow it",
+    "That they had come to ask for a wife",
+    "That they had come to buy land",
+    "That they had come to worship Ammonite gods"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suspicion"
+  ],
+  "characters": [
+    "Hanun"
+  ],
+  "places": [
+    {
+      "name": "Ammon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The commanders suggested the envoys had come only to explore, spy out the country and overthrow it."
+}

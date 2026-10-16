@@ -1,0 +1,36 @@
+{
+  "id": "15-009-005",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 9,
+  "verse_reference": "Ezra 9:4-5",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "At what time did Ezra rise and fall on his knees to pray?",
+  "options": [
+    "At the morning sacrifice",
+    "At the evening sacrifice",
+    "At midnight",
+    "On the Sabbath day"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [
+    "Ezra"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra sat appalled until the evening sacrifice; then he fell on his knees with his hands spread out to the LORD his God."
+}

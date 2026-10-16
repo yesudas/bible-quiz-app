@@ -1,0 +1,35 @@
+{
+  "id": "23-031-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 31,
+  "verse_reference": "Isaiah 31:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was wrong with those who went down to Egypt for help?",
+  "options": [
+    "They relied on horses and chariots but did not look to the Holy One of Israel",
+    "They paid too much for their horses",
+    "They traveled on the Sabbath",
+    "They forgot to bring gifts"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 31:1 says they rely on horses and trust in their many chariots, but do not look to the Holy One of Israel or seek help from the LORD."
+}

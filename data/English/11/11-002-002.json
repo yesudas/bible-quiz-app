@@ -1,0 +1,39 @@
+{
+  "id": "11-002-002",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 2,
+  "verse_reference": "1 Kings 2:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to David, what had the LORD promised if his descendants walked faithfully before Him?",
+  "options": [
+    "They would never face any enemies",
+    "David would never fail to have a successor on the throne of Israel",
+    "They would all become prophets",
+    "Israel would never need a temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Covenant",
+    "Faith"
+  ],
+  "characters": [
+    "David",
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David reminded Solomon that the LORD promised he would never fail to have a successor on Israel's throne if his descendants walked faithfully with all their heart and soul."
+}

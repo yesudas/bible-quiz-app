@@ -1,0 +1,36 @@
+{
+  "id": "11-019-011",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 19,
+  "verse_reference": "1 Kings 19:11-12",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "In what order did things pass by Elijah at the mountain?",
+  "options": [
+    "Earthquake, fire, wind, gentle whisper",
+    "Fire, wind, earthquake, gentle whisper",
+    "Wind, earthquake, fire, gentle whisper",
+    "Gentle whisper, wind, earthquake, fire"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [
+    {
+      "name": "Horeb",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A great and powerful wind came, then an earthquake, then a fire, but the LORD was not in them; after the fire came a gentle whisper."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "11-007-012",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 7,
+  "verse_reference": "1 Kings 7:48",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was the golden table in the temple used for?",
+  "options": [
+    "Counting money",
+    "The bread of the Presence",
+    "Writing the law",
+    "Serving the king's meals"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon made the golden table on which the bread of the Presence was placed."
+}

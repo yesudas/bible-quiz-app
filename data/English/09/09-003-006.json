@@ -1,0 +1,38 @@
+{
+  "id": "09-003-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 3,
+  "verse_reference": "1 Samuel 3:8",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When did Eli realize that the LORD was calling Samuel?",
+  "options": [
+    "The first time",
+    "The third time",
+    "The fourth time",
+    "The next morning"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Eli",
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "House of the LORD at Shiloh",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the LORD called Samuel a third time and he came to Eli again, Eli realized that the LORD was calling the boy."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "09-024-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 24,
+  "verse_reference": "1 Samuel 24:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did David refuse to harm Saul?",
+  "options": [
+    "Saul was his father-in-law",
+    "Saul had been kind to him",
+    "Saul was the LORD's anointed",
+    "Saul's army was outside"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Obedience"
+  ],
+  "characters": [
+    "David",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said, \"The LORD forbid that I should do such a thing to my master, the LORD's anointed, or lay my hand on him.\""
+}

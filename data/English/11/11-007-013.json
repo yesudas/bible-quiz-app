@@ -1,0 +1,38 @@
+{
+  "id": "11-007-013",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 7,
+  "verse_reference": "1 Kings 7:51",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When the temple work was finished, what did Solomon bring into the temple treasuries?",
+  "options": [
+    "Weapons captured from the Philistines",
+    "Gifts from the queen of Sheba",
+    "The things his father David had dedicated",
+    "The bronze left over from the Sea"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Family"
+  ],
+  "characters": [
+    "Solomon",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon brought in the silver, gold and furnishings his father David had dedicated and placed them in the treasuries of the LORD's temple."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20-031-004",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 31,
+  "verse_reference": "Proverbs 31:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"A wife of noble character who can find? She is worth far more than ______.\"",
+  "options": [
+    "gold",
+    "silver",
+    "land",
+    "rubies"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Marriage",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 31:10 says a wife of noble character is worth far more than rubies."
+}

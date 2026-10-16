@@ -1,0 +1,32 @@
+{
+  "id": "13-004-003",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 4,
+  "verse_reference": "1 Chronicles 4:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jabez's prayer: \"Oh, that you would bless me and enlarge my ______!\"",
+  "options": [
+    "territory",
+    "family",
+    "wealth",
+    "wisdom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "Jabez"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jabez cried out to the God of Israel asking Him to bless him and enlarge his territory."
+}

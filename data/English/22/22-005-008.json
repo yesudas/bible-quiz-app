@@ -1,0 +1,35 @@
+{
+  "id": "22-005-008",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 5,
+  "verse_reference": "Song of Songs 5:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"This is my beloved, this is my ____, daughters of Jerusalem.\"",
+  "options": [
+    "king",
+    "friend",
+    "shepherd",
+    "husband"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Marriage"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 5:16 ends her description with, \"This is my beloved, this is my friend.\""
+}

@@ -1,0 +1,40 @@
+{
+  "id": "23-020-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 20,
+  "verse_reference": "Isaiah 20:3",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "For how long did Isaiah go around stripped and barefoot?",
+  "options": [
+    "Three years",
+    "Forty days",
+    "Seven months",
+    "One year"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience",
+    "Prophecy"
+  ],
+  "characters": [
+    "Isaiah"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Cush",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 20:3 says Isaiah went stripped and barefoot for three years as a sign and portent against Egypt and Cush."
+}

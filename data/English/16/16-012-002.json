@@ -1,0 +1,35 @@
+{
+  "id": "16-012-002",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 12,
+  "verse_reference": "Nehemiah 12:27",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What event is celebrated in Nehemiah 12:27?",
+  "options": [
+    "The dedication of the wall of Jerusalem",
+    "The birth of a king",
+    "The laying of the temple foundation",
+    "The return from Egypt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At the dedication of the wall of Jerusalem, the Levites were brought to celebrate joyfully with songs of thanksgiving and music."
+}

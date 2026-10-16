@@ -1,0 +1,42 @@
+{
+  "id": "09-020-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 20,
+  "verse_reference": "1 Samuel 20:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "After fleeing from Naioth, to whom did David go and ask, \"What have I done?\"",
+  "options": [
+    "Samuel",
+    "Jonathan",
+    "Michal",
+    "Jesse"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "David",
+    "Jonathan"
+  ],
+  "places": [
+    {
+      "name": "Naioth",
+      "type": "other"
+    },
+    {
+      "name": "Ramah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David fled from Naioth at Ramah and went to Jonathan and asked, \"What have I done? What is my crime?\""
+}

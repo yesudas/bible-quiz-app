@@ -1,0 +1,35 @@
+{
+  "id": "12-024-003",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 24,
+  "verse_reference": "2 Kings 24:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Who sent the raiders from Babylon, Aram, Moab and Ammon against Judah?",
+  "options": [
+    "Pharaoh Necho",
+    "The LORD, as His prophets had said",
+    "Jehoiakim's officials",
+    "The king of Assyria"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD sent these raiders to destroy Judah, in keeping with the word of the LORD proclaimed by His servants the prophets."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "19-040-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 40,
+  "verse_reference": "Psalm 40:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 40:2, where did the LORD set David's feet?",
+  "options": [
+    "On a rock",
+    "On a mountain",
+    "On a road",
+    "On a throne"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Protection"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 40:2 says, \"He set my feet on a rock and gave me a firm place to stand.\""
+}

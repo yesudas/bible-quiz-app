@@ -1,0 +1,34 @@
+{
+  "id": "15-007-003",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 7,
+  "verse_reference": "Ezra 7:6",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was Ezra well versed in?",
+  "options": [
+    "The Law of Moses",
+    "The songs of David",
+    "The laws of Persia",
+    "The wisdom of Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Wisdom"
+  ],
+  "characters": [
+    "Ezra",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra was a teacher well versed in the Law of Moses, which the LORD, the God of Israel, had given."
+}

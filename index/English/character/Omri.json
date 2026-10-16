@@ -1,0 +1,15 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Omri",
+    "label": "Omri",
+    "count": 5,
+    "paths": [
+        "English/11/11-016-006.json",
+        "English/11/11-016-008.json",
+        "English/11/11-016-009.json",
+        "English/11/11-016-010.json",
+        "English/11/11-016-011.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

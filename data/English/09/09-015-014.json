@@ -1,0 +1,31 @@
+{
+  "id": "09-015-014",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 15,
+  "verse_reference": "1 Samuel 15:29",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Samuel said, \"He who is the Glory of Israel does not lie or change his ___.\"",
+  "options": [
+    "way",
+    "mind",
+    "word",
+    "heart"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel said the Glory of Israel does not lie or change His mind, for He is not a human being."
+}

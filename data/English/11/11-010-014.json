@@ -1,0 +1,40 @@
+{
+  "id": "11-010-014",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 10,
+  "verse_reference": "1 Kings 10:28",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "From which places were Solomon's horses imported?",
+  "options": [
+    "Egypt and Kue",
+    "Tyre and Sidon",
+    "Moab and Edom",
+    "Assyria and Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Kue",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon's horses were imported from Egypt and from Kue; the royal merchants bought them from Kue."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "05-008-005",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 8,
+  "verse_reference": "Deuteronomy 8:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Moses compared the Lord's discipline of Israel to what relationship?",
+  "options": [
+    "A king ruling his servants",
+    "A shepherd guarding sheep",
+    "A teacher training students",
+    "A father disciplining his son"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Love",
+    "Discipleship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses told Israel to know in their hearts that the Lord disciplines them as a father disciplines the son he loves."
+}

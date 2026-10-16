@@ -1,0 +1,36 @@
+{
+  "id": "19-066-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 66,
+  "verse_reference": "Psalm 66:6",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Psalm 66:6 says God turned the sea into dry land. Which event does this recall?",
+  "options": [
+    "God parting the sea so Israel could cross on foot",
+    "Noah's flood",
+    "Jonah being thrown into the sea",
+    "Jesus calming the storm"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "The sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm recalls how God turned the sea into dry land and His people passed through the waters on foot."
+}

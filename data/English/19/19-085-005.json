@@ -1,0 +1,33 @@
+{
+  "id": "19-085-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 85,
+  "verse_reference": "Psalm 85:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 85:12, what will the land yield when the LORD gives what is good?",
+  "options": [
+    "Its harvest",
+    "Its gold",
+    "Its rivers",
+    "Its cities"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Creation"
+  ],
+  "characters": [
+    "Sons of Korah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD will give what is good, and the land will yield its harvest."
+}

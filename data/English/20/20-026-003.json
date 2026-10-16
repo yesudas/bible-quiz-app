@@ -1,0 +1,31 @@
+{
+  "id": "20-026-003",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 26,
+  "verse_reference": "Proverbs 26:11",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 26:11, fools repeat their folly as a dog does what?",
+  "options": [
+    "Barks at night",
+    "Chases its tail",
+    "Returns to its vomit",
+    "Guards the house"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 26:11 says as a dog returns to its vomit, so fools repeat their folly."
+}

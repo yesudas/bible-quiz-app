@@ -1,0 +1,38 @@
+{
+  "id": "12-001-017",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 1,
+  "verse_reference": "2 Kings 1:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Joram become king after Ahaziah instead of Ahaziah's son?",
+  "options": [
+    "Ahaziah's son was too young",
+    "Ahaziah had no son",
+    "Ahaziah's son was killed by fire",
+    "Elijah chose Joram"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Ahaziah",
+    "Joram"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Bible says Joram succeeded Ahaziah because Ahaziah had no son."
+}

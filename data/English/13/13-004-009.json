@@ -1,0 +1,36 @@
+{
+  "id": "13-004-009",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 4,
+  "verse_reference": "1 Chronicles 4:39-40",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were the Simeonites looking for when they went to the outskirts of Gedor?",
+  "options": [
+    "Gold and silver",
+    "Pasture for their flocks",
+    "A place to build an altar",
+    "Water in the desert"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Provision"
+  ],
+  "characters": [
+    "Simeon"
+  ],
+  "places": [
+    {
+      "name": "Gedor",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They went to look for pasture for their flocks and found rich, good pasture in a land that was spacious, peaceful and quiet."
+}

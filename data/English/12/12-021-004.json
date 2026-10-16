@@ -1,0 +1,31 @@
+{
+  "id": "12-021-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 21,
+  "verse_reference": "2 Kings 21:3",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Manasseh made an Asherah pole, as which king of Israel had done?",
+  "options": [
+    "Jehu",
+    "Ahab",
+    "Jeroboam",
+    "Hoshea"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Idolatry"
+  ],
+  "characters": [
+    "Manasseh",
+    "Ahab"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Manasseh also made an Asherah pole, as Ahab king of Israel had done."
+}

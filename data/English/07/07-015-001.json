@@ -1,0 +1,32 @@
+{
+  "id": "07-015-001",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 15,
+  "verse_reference": "Judges 15:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "At what time of year did Samson take a young goat and go to visit his wife?",
+  "options": [
+    "At the time of barley harvest",
+    "At the time of wheat harvest",
+    "At the time of grape harvest",
+    "In the middle of winter"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Later on, at the time of wheat harvest, Samson took a young goat and went to visit his wife."
+}

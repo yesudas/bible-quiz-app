@@ -1,0 +1,33 @@
+{
+  "id": "09-018-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 18,
+  "verse_reference": "1 Samuel 18:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "How did Jonathan feel about David?",
+  "options": [
+    "He was jealous of him",
+    "He was afraid of him",
+    "He loved him as himself",
+    "He did not trust him"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "Jonathan",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonathan became one in spirit with David, and he loved him as himself."
+}

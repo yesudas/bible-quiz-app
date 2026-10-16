@@ -1,0 +1,31 @@
+{
+  "id": "19-105-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 105,
+  "verse_reference": "Psalm 105:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Give praise to the LORD, proclaim his name; make known among the ______ what he has done.\"",
+  "options": [
+    "nations",
+    "tribes",
+    "priests",
+    "kings"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm opens by calling God's people to praise Him and tell the nations what He has done."
+}

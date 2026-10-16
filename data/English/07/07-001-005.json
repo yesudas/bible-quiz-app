@@ -1,0 +1,32 @@
+{
+  "id": "07-001-005",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 1,
+  "verse_reference": "Judges 1:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete what Adoni-Bezek said: \"Now God has ___ me back for what I did to them.\"",
+  "options": [
+    "paid",
+    "turned",
+    "brought",
+    "called"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Justice"
+  ],
+  "characters": [
+    "Adoni-Bezek"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Adoni-Bezek had cut off the thumbs and big toes of seventy kings. He said God had now paid him back for what he did to them."
+}

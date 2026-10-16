@@ -1,0 +1,38 @@
+{
+  "id": "12-008-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 8,
+  "verse_reference": "2 Kings 8:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the LORD show Elisha about Hazael's future?",
+  "options": [
+    "He would become a prophet",
+    "He would be killed in battle",
+    "He would become king of Aram",
+    "He would move to Israel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Elisha",
+    "Hazael"
+  ],
+  "places": [
+    {
+      "name": "Aram",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha said, 'The LORD has shown me that you will become king of Aram.'"
+}

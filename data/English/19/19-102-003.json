@@ -1,0 +1,29 @@
+{
+  "id": "19-102-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 102,
+  "verse_reference": "Psalm 102:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"For I eat ashes as my food and mingle my drink with ______.\"",
+  "options": [
+    "tears",
+    "wine",
+    "water",
+    "bitterness"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist was so full of sorrow that he said he ate ashes as food and mixed his drink with tears."
+}

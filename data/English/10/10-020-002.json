@@ -1,0 +1,31 @@
+{
+  "id": "10-020-002",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 20,
+  "verse_reference": "2 Samuel 20:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Sheba's shout: \"We have no share in David... Every man to his ______, Israel!\"",
+  "options": [
+    "home",
+    "tent",
+    "city",
+    "field"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Sheba"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sheba called the men of Israel to abandon David, shouting, \"Every man to his tent, Israel!\""
+}

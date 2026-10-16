@@ -1,0 +1,33 @@
+{
+  "id": "19-101-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 101,
+  "verse_reference": "Psalm 101:5",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which kind of person did David say he would not tolerate?",
+  "options": [
+    "One with haughty eyes and a proud heart",
+    "One who is poor and needy",
+    "One who is a stranger",
+    "One who is young and weak"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Pride",
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said he would not tolerate anyone who has haughty eyes and a proud heart."
+}

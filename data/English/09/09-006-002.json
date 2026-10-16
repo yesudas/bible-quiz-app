@@ -1,0 +1,35 @@
+{
+  "id": "09-006-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 6,
+  "verse_reference": "1 Samuel 6:2-3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the Philistine priests and diviners say must be sent back with the ark?",
+  "options": [
+    "A guilt offering",
+    "A Philistine army",
+    "A letter to Samuel",
+    "Dagon's statue"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Philistia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They said not to send the ark back without a gift, but by all means to send a guilt offering to the god of Israel."
+}

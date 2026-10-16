@@ -1,0 +1,38 @@
+{
+  "id": "23-063-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 63,
+  "verse_reference": "Isaiah 63:1",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Isaiah 63:1, the one coming from Edom has garments stained what color?",
+  "options": [
+    "Purple",
+    "White",
+    "Crimson",
+    "Gold"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    },
+    {
+      "name": "Bozrah",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 63:1 asks, 'Who is this coming from Edom, from Bozrah, with his garments stained crimson?'"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "19-032-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 32,
+  "verse_reference": "Psalm 32:5",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 32:5, what happened after David confessed his transgressions to the LORD?",
+  "options": [
+    "The LORD punished him",
+    "The LORD stayed silent",
+    "He was made king",
+    "The LORD forgave the guilt of his sin"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Forgiveness",
+    "Repentance"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 32:5 says, \"I said, 'I will confess my transgressions to the LORD.' And you forgave the guilt of my sin.\""
+}

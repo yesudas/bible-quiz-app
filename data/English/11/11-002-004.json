@@ -1,0 +1,34 @@
+{
+  "id": "11-002-004",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 2,
+  "verse_reference": "1 Kings 2:7",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "David told Solomon to show kindness to the sons of which man, because he had helped David when he fled from Absalom?",
+  "options": [
+    "Ziba",
+    "Barzillai the Gileadite",
+    "Mephibosheth",
+    "Hushai"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Love"
+  ],
+  "characters": [
+    "David",
+    "Solomon",
+    "Barzillai"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David asked Solomon to show kindness to the sons of Barzillai of Gilead, who had stood by him when he fled from Absalom."
+}

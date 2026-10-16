@@ -1,0 +1,33 @@
+{
+  "id": "19-034-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 34,
+  "verse_reference": "Psalm 34 (title)",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to its title, David wrote Psalm 34 when he pretended to be insane before whom?",
+  "options": [
+    "Saul",
+    "Abimelek",
+    "Nabal",
+    "Absalom"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Salvation"
+  ],
+  "characters": [
+    "David",
+    "Abimelek"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title of Psalm 34 says David wrote it when he pretended to be insane before Abimelek, who drove him away, and he left."
+}

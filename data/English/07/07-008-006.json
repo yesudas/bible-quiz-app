@@ -1,0 +1,36 @@
+{
+  "id": "07-008-006",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 8,
+  "verse_reference": "Judges 8:8",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "After Sukkoth refused, which other town did Gideon ask for bread, and received the same answer?",
+  "options": [
+    "Karkor",
+    "Peniel",
+    "Ophrah",
+    "Shechem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [
+    {
+      "name": "Peniel",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon went up to Peniel and made the same request, but the men of Peniel answered the same way as Sukkoth."
+}

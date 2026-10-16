@@ -1,0 +1,32 @@
+{
+  "id": "18-007-006",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 7,
+  "verse_reference": "Job 7:14",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did Job say God frightened him at night?",
+  "options": [
+    "With loud thunder",
+    "With dreams and visions",
+    "With wild animals",
+    "With fire from heaven"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said that even when he tried to rest on his bed, God frightened him with dreams and terrified him with visions."
+}

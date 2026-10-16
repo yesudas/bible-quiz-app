@@ -1,0 +1,33 @@
+{
+  "id": "18-039-008",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 39,
+  "verse_reference": "Job 39:26",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "The LORD asked whether the hawk spreads its wings toward which direction by Job's wisdom?",
+  "options": [
+    "The north",
+    "The south",
+    "The east",
+    "The west"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation",
+    "Wisdom"
+  ],
+  "characters": [
+    "God",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD asked, 'Does the hawk take flight by your wisdom and spread its wings toward the south?'"
+}

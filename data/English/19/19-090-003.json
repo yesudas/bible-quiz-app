@@ -1,0 +1,33 @@
+{
+  "id": "19-090-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 90,
+  "verse_reference": "Psalm 90:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Psalm 90:2, how long has God been God?",
+  "options": [
+    "Since the time of Abraham",
+    "Since the flood",
+    "From everlasting to everlasting",
+    "Since Israel left Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses says that before the mountains were born, from everlasting to everlasting, God is God."
+}

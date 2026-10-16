@@ -1,0 +1,41 @@
+{
+  "id": "06-010-015",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 10,
+  "verse_reference": "Joshua 10:33",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which king came up to help Lachish but was defeated by Joshua?",
+  "options": [
+    "Japhia king of Lachish",
+    "Adoni-Zedek king of Jerusalem",
+    "Horam king of Gezer",
+    "Debir king of Eglon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Victory"
+  ],
+  "characters": [
+    "Joshua",
+    "Horam"
+  ],
+  "places": [
+    {
+      "name": "Gezer",
+      "type": "city"
+    },
+    {
+      "name": "Lachish",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Horam king of Gezer came up to help Lachish, but Joshua defeated him and his army."
+}

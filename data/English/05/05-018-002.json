@@ -1,0 +1,30 @@
+{
+  "id": "05-018-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 18,
+  "verse_reference": "Deuteronomy 18:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Besides firstfruits of grain, wine, and oil, what else were the people to give the priests?",
+  "options": [
+    "The first wool from the sheep shearing",
+    "The first silver from their trade",
+    "The first stones from their fields",
+    "The first timber from their trees"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priests were to receive the firstfruits of grain, new wine, and olive oil, as well as the first wool from the shearing of the sheep."
+}

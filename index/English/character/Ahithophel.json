@@ -1,0 +1,18 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Ahithophel",
+    "label": "Ahithophel",
+    "count": 8,
+    "paths": [
+        "English/10/10-015-007.json",
+        "English/10/10-015-014.json",
+        "English/10/10-015-015.json",
+        "English/10/10-016-012.json",
+        "English/10/10-017-001.json",
+        "English/10/10-017-002.json",
+        "English/10/10-017-003.json",
+        "English/10/10-017-006.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

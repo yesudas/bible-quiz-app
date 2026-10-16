@@ -1,0 +1,36 @@
+{
+  "id": "12-012-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 12,
+  "verse_reference": "2 Kings 12:11-12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was paid with the money given for the temple repairs?",
+  "options": [
+    "Priests and Levites",
+    "Soldiers and guards",
+    "Carpenters, builders, masons and stonecutters",
+    "Singers and musicians"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The money was given to the supervisors, who paid the carpenters, builders, masons and stonecutters who worked on the temple."
+}

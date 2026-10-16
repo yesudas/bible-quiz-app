@@ -1,0 +1,31 @@
+{
+  "id": "18-019-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 19,
+  "verse_reference": "Job 19:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Job said God had removed what from his head?",
+  "options": [
+    "His hair",
+    "His helmet",
+    "His hand",
+    "His crown"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'He has stripped me of my honor and removed the crown from my head.'"
+}

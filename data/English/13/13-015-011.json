@@ -1,0 +1,40 @@
+{
+  "id": "13-015-011",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 15,
+  "verse_reference": "1 Chronicles 15:29",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who watched from a window and despised David in her heart?",
+  "options": [
+    "Bathsheba",
+    "Abigail",
+    "Michal daughter of Saul",
+    "Maakah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Pride",
+    "Worship"
+  ],
+  "characters": [
+    "Michal",
+    "David",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "City of David",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Michal daughter of Saul watched from a window and, when she saw King David dancing and celebrating, she despised him in her heart."
+}

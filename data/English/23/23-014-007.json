@@ -1,0 +1,33 @@
+{
+  "id": "23-014-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 14,
+  "verse_reference": "Isaiah 14:23",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "God said He would sweep Babylon with what?",
+  "options": [
+    "The broom of destruction",
+    "A great flood",
+    "A whirlwind of fire",
+    "An army of locusts"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 14:23 says, 'I will sweep her with the broom of destruction,' declares the LORD Almighty."
+}

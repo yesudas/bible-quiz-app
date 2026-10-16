@@ -1,0 +1,33 @@
+{
+  "id": "11-001-003",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 1,
+  "verse_reference": "1 Kings 1:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does the Bible say David had never done to his son Adonijah?",
+  "options": [
+    "Given him any gifts",
+    "Let him live in the palace",
+    "Corrected him by asking why he behaved as he did",
+    "Allowed him to ride a chariot"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Leadership"
+  ],
+  "characters": [
+    "David",
+    "Adonijah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Bible says Adonijah's father had never rebuked him by asking, \"Why do you behave as you do?\""
+}

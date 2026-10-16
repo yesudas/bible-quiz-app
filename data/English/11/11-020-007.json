@@ -1,0 +1,31 @@
+{
+  "id": "11-020-007",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 20,
+  "verse_reference": "1 Kings 20:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Ben-Hadad escape when the Arameans fled?",
+  "options": [
+    "By boat",
+    "In a chariot",
+    "On a horse with some of his horsemen",
+    "Disguised as a shepherd"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Ben-Hadad"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Arameans fled, with Israel pursuing them, but Ben-Hadad king of Aram escaped on horseback with some of his horsemen."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12-007-002",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 7,
+  "verse_reference": "2 Kings 7:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who doubted Elisha's word, asking whether it could happen even if the LORD opened the floodgates of heaven?",
+  "options": [
+    "The king of Israel",
+    "The officer on whose arm the king was leaning",
+    "One of the men with leprosy",
+    "Gehazi"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Sin"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The officer on whose arm the king was leaning doubted that the LORD could do this, even if He opened the floodgates of heaven."
+}

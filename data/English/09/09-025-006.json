@@ -1,0 +1,32 @@
+{
+  "id": "09-025-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 25,
+  "verse_reference": "1 Samuel 25:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did David tell his men after hearing Nabal's answer?",
+  "options": [
+    "\"Let us leave this place.\"",
+    "\"Let us pray for Nabal.\"",
+    "\"Each of you strap on your sword!\"",
+    "\"Let us send a gift.\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "David",
+    "Nabal"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said, \"Each of you strap on your sword!\" About four hundred men went up with David, while two hundred stayed with the supplies."
+}

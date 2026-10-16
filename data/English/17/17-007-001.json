@@ -1,0 +1,34 @@
+{
+  "id": "17-007-001",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 7,
+  "verse_reference": "Esther 7:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Queen Esther ask the king for at the second banquet?",
+  "options": [
+    "A new palace",
+    "Her life and the lives of her people",
+    "Riches for Mordecai",
+    "Half the kingdom"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Courage"
+  ],
+  "characters": [
+    "Esther",
+    "Xerxes"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Esther said, 'Grant me my life\u2014this is my petition. And spare my people\u2014this is my request.'"
+}

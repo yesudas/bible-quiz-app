@@ -1,0 +1,31 @@
+{
+  "id": "05-021-006",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 21,
+  "verse_reference": "Deuteronomy 21:17",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What share of the inheritance was the true firstborn son to receive?",
+  "options": [
+    "An equal share with his brothers",
+    "A third of the estate",
+    "Only the family land",
+    "A double share of everything his father had"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Money",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The firstborn was to receive a double share of everything his father owned, because he is the first sign of his father's strength."
+}

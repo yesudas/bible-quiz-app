@@ -1,0 +1,31 @@
+{
+  "id": "21-012-003",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 12,
+  "verse_reference": "Ecclesiastes 12:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When a person dies, the dust returns to the ground. Where does the Teacher say the spirit returns?",
+  "options": [
+    "To the earth",
+    "To God who gave it",
+    "To the sea",
+    "To the sky above"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"The dust returns to the ground it came from, and the spirit returns to God who gave it.\""
+}

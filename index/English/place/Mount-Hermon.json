@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Mount-Hermon",
+    "label": "Mount Hermon",
+    "count": 3,
+    "paths": [
+        "English/06/06-012-001.json",
+        "English/19/19-089-005.json",
+        "English/19/19-133-003.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

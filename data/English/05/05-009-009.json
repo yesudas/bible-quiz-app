@@ -1,0 +1,33 @@
+{
+  "id": "05-009-009",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 9,
+  "verse_reference": "Deuteronomy 9:21",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "What did Moses do with the golden calf after Israel had sinned?",
+  "options": [
+    "Buried it in the sand",
+    "Melted it into coins",
+    "Burned it, ground it to powder, and threw the dust into a stream",
+    "Set it up as a warning"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses took the calf, burned it, crushed it to fine powder, and threw the dust into the stream that flowed down the mountain."
+}

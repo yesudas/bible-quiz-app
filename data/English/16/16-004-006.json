@@ -1,0 +1,34 @@
+{
+  "id": "16-004-006",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 4,
+  "verse_reference": "Nehemiah 4:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the people in Judah say was making the work hard?",
+  "options": [
+    "There was no food left",
+    "The king had stopped the work",
+    "The workers were tired and there was so much rubble",
+    "There was not enough timber"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people in Judah said the strength of the workers was giving out and there was so much rubble that they could not rebuild the wall."
+}

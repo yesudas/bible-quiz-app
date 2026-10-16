@@ -1,0 +1,30 @@
+{
+  "id": "05-005-004",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 5,
+  "verse_reference": "Deuteronomy 5:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does the third commandment warn against misusing?",
+  "options": [
+    "The Sabbath day",
+    "The temple offerings",
+    "The words of the prophets",
+    "The name of the Lord"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The third commandment warns against misusing the name of the Lord, for God will hold guilty anyone who misuses His name."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "18-034-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 34,
+  "verse_reference": "Job 34:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Elihu's words: \"Far be it from God to do ____, from the Almighty to do wrong.\"",
+  "options": [
+    "evil",
+    "good",
+    "nothing",
+    "mercy"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Elihu"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elihu said, 'Far be it from God to do evil, from the Almighty to do wrong.'"
+}

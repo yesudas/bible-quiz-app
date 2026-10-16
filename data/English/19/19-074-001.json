@@ -1,0 +1,38 @@
+{
+  "id": "19-074-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 74,
+  "verse_reference": "Psalm 74:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In Psalm 74:2, Asaph asks God to remember which mountain where He dwelt?",
+  "options": [
+    "Mount Sinai",
+    "Mount Zion",
+    "Mount Carmel",
+    "Mount Nebo"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Covenant"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "Mount Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph asks God to remember His people and Mount Zion, where He dwelt."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "19-122-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 122,
+  "verse_reference": "Psalm 122:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the psalmist pray would be within Jerusalem's walls?",
+  "options": [
+    "Gold",
+    "Soldiers",
+    "Peace",
+    "Water"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Peace"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He prayed, \"May there be peace within your walls and security within your citadels.\""
+}

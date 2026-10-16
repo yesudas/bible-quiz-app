@@ -1,0 +1,32 @@
+{
+  "id": "18-017-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 17,
+  "verse_reference": "Job 17:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "In Job 17:2, who did Job say surrounded him?",
+  "options": [
+    "Angels",
+    "Soldiers",
+    "Mockers",
+    "Wise men"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'Surely mockers surround me; my eyes must dwell on their hostility.'"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14-030-013",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 30,
+  "verse_reference": "2 Chronicles 30:26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Since whose days had there been nothing like this celebration in Jerusalem?",
+  "options": [
+    "Since the days of Moses",
+    "Since the days of Solomon son of David",
+    "Since the days of Joshua",
+    "Since the days of Samuel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Joy"
+  ],
+  "characters": [
+    "Solomon",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "There was great joy in Jerusalem, for since the days of Solomon son of David king of Israel there had been nothing like this."
+}

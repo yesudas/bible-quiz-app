@@ -1,0 +1,33 @@
+{
+  "id": "23-008-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 8,
+  "verse_reference": "Isaiah 8:1-3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "What name did the LORD tell Isaiah to give his son born to the prophetess?",
+  "options": [
+    "Shear-Jashub",
+    "Immanuel",
+    "Maher-Shalal-Hash-Baz",
+    "Hezekiah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Family"
+  ],
+  "characters": [
+    "Isaiah",
+    "Maher-Shalal-Hash-Baz"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 8:3 says the prophetess gave birth to a son, and the LORD said, 'Name him Maher-Shalal-Hash-Baz.'"
+}

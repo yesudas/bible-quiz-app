@@ -1,0 +1,32 @@
+{
+  "id": "13-029-012",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 29,
+  "verse_reference": "1 Chronicles 29:27",
+  "question_type": "WHEN",
+  "difficulty": "Easy",
+  "question": "How many years did David rule over Israel in all?",
+  "options": [
+    "Thirty",
+    "Thirty-three",
+    "Forty",
+    "Fifty"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David ruled over Israel forty years, seven in Hebron and thirty-three in Jerusalem."
+}

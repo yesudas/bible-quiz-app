@@ -1,0 +1,31 @@
+{
+  "id": "11-006-004",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 6,
+  "verse_reference": "1 Kings 6:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why were no iron tools heard at the temple site during building?",
+  "options": [
+    "The workers built only with wood",
+    "The builders worked only at night",
+    "Iron was not known in Israel",
+    "The stones were dressed at the quarry before being brought"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The temple was built only with blocks dressed at the quarry, so no iron tools were needed at the building site."
+}

@@ -1,0 +1,18 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Tirzah",
+    "label": "Tirzah",
+    "count": 8,
+    "paths": [
+        "English/11/11-014-008.json",
+        "English/11/11-015-014.json",
+        "English/11/11-016-003.json",
+        "English/11/11-016-004.json",
+        "English/11/11-016-005.json",
+        "English/11/11-016-007.json",
+        "English/12/12-015-007.json",
+        "English/22/22-006-002.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

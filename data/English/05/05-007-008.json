@@ -1,0 +1,35 @@
+{
+  "id": "05-007-008",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 7,
+  "verse_reference": "Deuteronomy 7:15",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God promise to keep away from Israel if they obeyed?",
+  "options": [
+    "All rainfall",
+    "Their neighboring allies",
+    "Every kind of disease, including the illnesses of Egypt",
+    "The changing seasons"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised to keep Israel free from every disease, not bringing on them the terrible illnesses they knew in Egypt."
+}

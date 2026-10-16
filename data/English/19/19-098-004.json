@@ -1,0 +1,31 @@
+{
+  "id": "19-098-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 98,
+  "verse_reference": "Psalm 98:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Let the ____ clap their hands, let the mountains sing together for joy.\"",
+  "options": [
+    "trees",
+    "people",
+    "nations",
+    "rivers"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm pictures all creation praising God: the rivers clap their hands and the mountains sing for joy."
+}

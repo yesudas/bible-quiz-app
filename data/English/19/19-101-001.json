@@ -1,0 +1,33 @@
+{
+  "id": "19-101-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 101,
+  "verse_reference": "Psalm 101:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Psalm 101, David says he will sing of God's love and what else?",
+  "options": [
+    "Mercy",
+    "Power",
+    "Justice",
+    "Glory"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Love"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David begins by saying he will sing of God's love and justice, and sing praise to the LORD."
+}

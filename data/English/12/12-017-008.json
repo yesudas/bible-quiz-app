@@ -1,0 +1,34 @@
+{
+  "id": "12-017-008",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 17,
+  "verse_reference": "2 Kings 17:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did the Israelites respond to the prophets' warnings?",
+  "options": [
+    "They repented for a short time",
+    "They would not listen and were stiff-necked like their ancestors",
+    "They killed every prophet",
+    "They asked Assyria for help"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They would not listen and were as stiff-necked as their ancestors, who did not trust in the LORD their God."
+}

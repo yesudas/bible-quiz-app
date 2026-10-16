@@ -1,0 +1,29 @@
+{
+  "id": "13-024-007",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 24,
+  "verse_reference": "1 Chronicles 24:7-18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Into how many divisions were the priests arranged by lot?",
+  "options": [
+    "Twelve",
+    "Twenty-four",
+    "Thirty",
+    "Forty"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Priesthood"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The lots were cast from the first to the twenty-fourth, making twenty-four priestly divisions."
+}

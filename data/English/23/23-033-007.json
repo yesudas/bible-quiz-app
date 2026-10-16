@@ -1,0 +1,34 @@
+{
+  "id": "23-033-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 33,
+  "verse_reference": "Isaiah 33:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What promise is given in Isaiah 33:24 about those who dwell in Zion?",
+  "options": [
+    "Their sins will be forgiven",
+    "They will never need to work",
+    "They will become rich",
+    "They will rule other nations"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Forgiveness",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 33:24 says, 'No one living in Zion will say, I am ill; and the sins of those who dwell there will be forgiven.'"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "17-005-011",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 5,
+  "verse_reference": "Esther 5:14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Zeresh and Haman's friends suggest he do to Mordecai?",
+  "options": [
+    "Set up a pole and ask the king to have Mordecai impaled on it",
+    "Send Mordecai out of Susa",
+    "Take away Mordecai's job at the gate",
+    "Put Mordecai in prison"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution",
+    "Anger"
+  ],
+  "characters": [
+    "Zeresh",
+    "Haman",
+    "Mordecai"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They suggested setting up a pole and asking the king in the morning to have Mordecai impaled on it."
+}

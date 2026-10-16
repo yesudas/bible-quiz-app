@@ -1,0 +1,34 @@
+{
+  "id": "19-099-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 99,
+  "verse_reference": "Psalm 99:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 99:7, from what did God speak to Moses, Aaron and Samuel?",
+  "options": [
+    "A burning bush",
+    "A whirlwind",
+    "A dream",
+    "The pillar of cloud"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Law"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron",
+    "Samuel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God spoke to them from the pillar of cloud, and they kept His statutes."
+}

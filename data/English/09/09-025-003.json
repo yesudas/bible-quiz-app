@@ -1,0 +1,34 @@
+{
+  "id": "09-025-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 25,
+  "verse_reference": "1 Samuel 25:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How does the Bible describe Nabal and his wife Abigail?",
+  "options": [
+    "Both were kind and generous",
+    "Both were foolish",
+    "Abigail was intelligent and beautiful, but Nabal was surly and mean",
+    "Nabal was wise, but Abigail was proud"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Marriage"
+  ],
+  "characters": [
+    "Nabal",
+    "Abigail"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abigail was an intelligent and beautiful woman, but her husband was surly and mean in his dealings."
+}

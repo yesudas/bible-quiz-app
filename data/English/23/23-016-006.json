@@ -1,0 +1,34 @@
+{
+  "id": "23-016-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 16,
+  "verse_reference": "Isaiah 16:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: 'My heart laments for Moab like a ______.'",
+  "options": [
+    "trumpet",
+    "flute",
+    "drum",
+    "harp"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Compassion"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 16:11 says, 'My heart laments for Moab like a harp, my inmost being for Kir Hareseth.'"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "18-016-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 16,
+  "verse_reference": "Job 16:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Job say he had sewed over his skin?",
+  "options": [
+    "Sackcloth",
+    "Leather",
+    "Fine linen",
+    "Goat hair"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Repentance"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'I have sewed sackcloth over my skin and buried my brow in the dust.'"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12-006-003",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 6,
+  "verse_reference": "2 Kings 6:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The prophet cried out about the axe head: \"Oh no, my lord! It was ______!\"",
+  "options": [
+    "new",
+    "my father's",
+    "expensive",
+    "borrowed"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man was upset because the axe head was borrowed and not his own."
+}

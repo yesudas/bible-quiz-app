@@ -1,0 +1,30 @@
+{
+  "id": "23-001-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 1,
+  "verse_reference": "Isaiah 1:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: 'The ox knows its master, the donkey its owner's manger, but ______ does not know.'",
+  "options": [
+    "Egypt",
+    "Israel",
+    "Assyria",
+    "Babylon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said even animals know who feeds them, but Israel did not know or understand Him."
+}

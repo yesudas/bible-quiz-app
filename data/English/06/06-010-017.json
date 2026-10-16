@@ -1,0 +1,35 @@
+{
+  "id": "06-010-017",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 10,
+  "verse_reference": "Joshua 10:43",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Joshua and all Israel return after this campaign?",
+  "options": [
+    "Jericho",
+    "Shittim",
+    "The camp at Gilgal",
+    "Mount Ebal"
+  ],
+  "correct_option": 2,
+  "themes": [],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Gilgal",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After the campaign, Joshua returned with all Israel to the camp at Gilgal."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "05-016-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 16,
+  "verse_reference": "Deuteronomy 16:9-10",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "When did the counting of seven weeks begin before the Festival of Weeks?",
+  "options": [
+    "From the first new moon of the year",
+    "From the day after Passover ended",
+    "From when the sickle was first put to the standing grain",
+    "From the first rain of autumn"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel counted seven weeks from the time they first put the sickle to the standing grain, then celebrated the Festival of Weeks with a freewill offering."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "23-039-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 39,
+  "verse_reference": "Isaiah 39:1",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which king of Babylon sent Hezekiah letters and a gift after hearing of his illness and recovery?",
+  "options": [
+    "Nebuchadnezzar",
+    "Marduk-Baladan son of Baladan",
+    "Belshazzar",
+    "Esarhaddon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Marduk-Baladan",
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 39:1 says Marduk-Baladan son of Baladan king of Babylon sent Hezekiah letters and a gift, because he had heard of his illness and recovery."
+}

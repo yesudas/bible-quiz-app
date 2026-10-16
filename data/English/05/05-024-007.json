@@ -1,0 +1,36 @@
+{
+  "id": "05-024-007",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 24,
+  "verse_reference": "Deuteronomy 24:17-18",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whose justice was Israel warned never to deprive, and whose cloak was not to be taken as a pledge?",
+  "options": [
+    "The rich and the powerful",
+    "The foreigner, the fatherless, and the widow",
+    "The soldiers and the judges",
+    "The priests and the Levites"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Justice",
+    "Mercy",
+    "Love"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel was not to deny justice to the foreigner or the fatherless, nor take a widow's cloak as a pledge, remembering they had been slaves in Egypt."
+}

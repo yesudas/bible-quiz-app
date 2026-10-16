@@ -1,0 +1,37 @@
+{
+  "id": "06-002-016",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 2,
+  "verse_reference": "Joshua 2:18-19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Rahab's family have to do to be safe when Israel entered the land?",
+  "options": [
+    "Stay inside Rahab's house",
+    "Leave Jericho before the battle",
+    "Join Israel's army",
+    "Offer a sacrifice at the gate"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Family"
+  ],
+  "characters": [
+    "Rahab"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The spies said anyone who went outside Rahab's house would be responsible for their own death, but those inside would be safe."
+}

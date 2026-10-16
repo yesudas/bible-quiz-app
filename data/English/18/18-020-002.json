@@ -1,0 +1,33 @@
+{
+  "id": "18-020-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 20,
+  "verse_reference": "Job 20:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Zophar's words: \"The mirth of the wicked is brief, the joy of the godless lasts but a ____.\"",
+  "options": [
+    "year",
+    "lifetime",
+    "season",
+    "moment"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Zophar"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zophar said, 'The mirth of the wicked is brief, the joy of the godless lasts but a moment.'"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "19-002-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 2,
+  "verse_reference": "Psalm 2:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 2, what will the king break the nations with?",
+  "options": [
+    "A sword of bronze",
+    "A shepherd's staff",
+    "A mighty hammer",
+    "A rod of iron"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Kingship",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 2:9 says, \"You will break them with a rod of iron; you will dash them to pieces like pottery.\""
+}

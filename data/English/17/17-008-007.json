@@ -1,0 +1,31 @@
+{
+  "id": "17-008-007",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 8,
+  "verse_reference": "Esther 8:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How was the new decree sent out to the provinces?",
+  "options": [
+    "By ships",
+    "By mounted couriers riding fast horses bred for the king",
+    "By messengers on foot",
+    "By the priests"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Mordecai"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The dispatches were sent by mounted couriers riding fast horses especially bred for the king."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "06-016-001",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 16,
+  "verse_reference": "Joshua 16:1",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Near which city's springs did the land allotted to Joseph's descendants begin?",
+  "options": [
+    "Jericho",
+    "Hebron",
+    "Gibeon",
+    "Hazor"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    },
+    {
+      "name": "Jordan River",
+      "type": "river"
+    },
+    {
+      "name": "Bethel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The allotment for Joseph began at the Jordan, east of the springs of Jericho, and went up into the hill country of Bethel."
+}

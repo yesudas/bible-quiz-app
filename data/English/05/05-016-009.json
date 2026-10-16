@@ -1,0 +1,33 @@
+{
+  "id": "05-016-009",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 16,
+  "verse_reference": "Deuteronomy 16:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Moses commanded: \"Follow justice and justice alone, so that you may live and possess the ___ the Lord your God is giving you.\"",
+  "options": [
+    "land",
+    "peace",
+    "wealth",
+    "victory"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Justice",
+    "Obedience",
+    "Promise"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses commanded Israel to follow justice and justice alone, so that they might live and possess the land the Lord was giving them."
+}

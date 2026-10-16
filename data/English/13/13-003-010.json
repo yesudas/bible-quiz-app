@@ -1,0 +1,32 @@
+{
+  "id": "13-003-010",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 3,
+  "verse_reference": "1 Chronicles 3:17",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How is Jehoiachin described in 1 Chronicles 3:17?",
+  "options": [
+    "The captive",
+    "The builder",
+    "The prophet",
+    "The shepherd"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Judgment"
+  ],
+  "characters": [
+    "Jehoiachin"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Verse 17 lists the descendants of Jehoiachin the captive."
+}

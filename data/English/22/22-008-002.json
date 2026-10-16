@@ -1,0 +1,31 @@
+{
+  "id": "22-008-002",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 8,
+  "verse_reference": "Song of Songs 8:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Place me like a ____ over your heart, like a ____ on your arm.\"",
+  "options": [
+    "ring",
+    "seal",
+    "band",
+    "crown"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Marriage",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 8:6 says, \"Place me like a seal over your heart, like a seal on your arm.\""
+}

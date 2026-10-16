@@ -1,0 +1,33 @@
+{
+  "id": "19-068-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 68,
+  "verse_reference": "Psalm 68:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"May God arise, may his enemies be ____.\"",
+  "options": [
+    "scattered",
+    "silent",
+    "broken",
+    "forgiven"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David begins by asking God to arise and scatter His enemies."
+}

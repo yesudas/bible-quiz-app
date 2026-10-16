@@ -1,0 +1,40 @@
+{
+  "id": "23-024-008",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 24,
+  "verse_reference": "Isaiah 24:23",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where does Isaiah 24:23 say the LORD Almighty will reign gloriously?",
+  "options": [
+    "On Mount Sinai and in Egypt",
+    "On Mount Zion and in Jerusalem",
+    "On Mount Carmel and in Samaria",
+    "On Mount Nebo and in Moab"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Kingdom of God",
+    "Hope",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mount Zion",
+      "type": "mountain"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 24:23 says the LORD Almighty will reign on Mount Zion and in Jerusalem, and before its elders with great glory."
+}

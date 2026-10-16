@@ -1,0 +1,36 @@
+{
+  "id": "19-106-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 106,
+  "verse_reference": "Psalm 106:19",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the Israelites make a calf and worship a metal idol?",
+  "options": [
+    "At Bethel",
+    "At Gilgal",
+    "At Horeb",
+    "At Shiloh"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Horeb",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At Horeb they made a calf and worshiped an idol cast from metal."
+}

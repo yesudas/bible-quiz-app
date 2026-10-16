@@ -1,0 +1,36 @@
+{
+  "id": "07-011-014",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 11,
+  "verse_reference": "Judges 11:34",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who came out to meet Jephthah when he returned home to Mizpah?",
+  "options": [
+    "His wife",
+    "His son",
+    "His daughter",
+    "His servant"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jephthah"
+  ],
+  "places": [
+    {
+      "name": "Mizpah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Jephthah returned to Mizpah, his daughter came out to meet him."
+}

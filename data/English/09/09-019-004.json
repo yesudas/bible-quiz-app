@@ -1,0 +1,33 @@
+{
+  "id": "09-019-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 19,
+  "verse_reference": "1 Samuel 19:9-10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened to Saul's spear when he threw it at David again?",
+  "options": [
+    "It stuck in the wall",
+    "It hit David",
+    "It broke",
+    "It went through the window"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Saul",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul tried to pin David to the wall with his spear, but David eluded him as Saul drove the spear into the wall. That night David escaped."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "19-006-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 6,
+  "verse_reference": "Psalm 6:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"My soul is in deep anguish. How long, LORD, how ____?\"",
+  "options": [
+    "far",
+    "much",
+    "long",
+    "soon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Prayer"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 6:3 says, \"My soul is in deep anguish. How long, LORD, how long?\""
+}

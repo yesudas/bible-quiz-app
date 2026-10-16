@@ -37,10 +37,11 @@ $visitorsByLanguage = [];
 $shares2 = 0;
 $embeds2 = 0;
 
-// A request served by embed.php (the iframe-embeddable widget) — counted
+// A request served by embed.php (the full setup form, iframe-embeddable) or
+// embed-quiz.php (a single pre-configured quiz, iframe-embeddable) — counted
 // separately from ordinary page views, regardless of which page included
 // this file.
-$isEmbedRequest = basename((string) ($_SERVER['SCRIPT_NAME'] ?? '')) === 'embed.php';
+$isEmbedRequest = in_array(basename((string) ($_SERVER['SCRIPT_NAME'] ?? '')), ['embed.php', 'embed-quiz.php'], true);
 
 // If not a bot, increment the counter
 if (!$isBot) {

@@ -1,0 +1,31 @@
+{
+  "id": "18-002-011",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 2,
+  "verse_reference": "Job 2:11",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which friend of Job was called the Naamathite?",
+  "options": [
+    "Bildad",
+    "Eliphaz",
+    "Zophar",
+    "Elihu"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Zophar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zophar was the Naamathite; Eliphaz was the Temanite and Bildad was the Shuhite."
+}

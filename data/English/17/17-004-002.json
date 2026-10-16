@@ -1,0 +1,37 @@
+{
+  "id": "17-004-002",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 4,
+  "verse_reference": "Esther 4:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Mordecai go only as far as the king's gate?",
+  "options": [
+    "The guards knew he was a Jew",
+    "Haman had banned him from the palace",
+    "No one dressed in sackcloth was allowed to enter the gate",
+    "Esther had told him to wait there"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Suffering"
+  ],
+  "characters": [
+    "Mordecai"
+  ],
+  "places": [
+    {
+      "name": "King's gate",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mordecai went only as far as the king's gate, because no one clothed in sackcloth was allowed to enter it."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "19-002-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 2,
+  "verse_reference": "Psalm 2:1-2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "In Psalm 2, the kings of the earth rise up against the LORD and against whom?",
+  "options": [
+    "His prophets",
+    "His anointed",
+    "His priests",
+    "His people Israel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Kingship",
+    "Rebellion"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 2:2 says the kings and rulers band together against the LORD and against his anointed."
+}

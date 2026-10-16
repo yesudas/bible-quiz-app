@@ -1,0 +1,37 @@
+{
+  "id": "14-010-002",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 10,
+  "verse_reference": "2 Chronicles 10:2",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where had Jeroboam fled from King Solomon?",
+  "options": [
+    "Egypt",
+    "Moab",
+    "Tyre",
+    "Edom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jeroboam",
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeroboam son of Nebat was in Egypt, where he had fled from King Solomon, and he returned when he heard the news."
+}

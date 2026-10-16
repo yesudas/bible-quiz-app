@@ -1,0 +1,33 @@
+{
+  "id": "16-006-003",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 6,
+  "verse_reference": "Nehemiah 6:4",
+  "question_type": "DIRECT",
+  "difficulty": "Medium",
+  "question": "How many times did Nehemiah's enemies send him the same message asking him to meet them?",
+  "options": [
+    "Two times",
+    "Seven times",
+    "Four times",
+    "Ten times"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Nehemiah",
+    "Sanballat",
+    "Geshem"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Four times they sent him the same message, and each time Nehemiah gave them the same answer."
+}

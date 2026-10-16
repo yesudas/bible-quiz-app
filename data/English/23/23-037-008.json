@@ -1,0 +1,36 @@
+{
+  "id": "23-037-008",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 37,
+  "verse_reference": "Isaiah 37:37",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Sennacherib return to and stay after the Assyrian army was struck down?",
+  "options": [
+    "Babylon",
+    "Nineveh",
+    "Damascus",
+    "Lachish"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Sennacherib"
+  ],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 37:37 says Sennacherib king of Assyria broke camp and withdrew. He returned to Nineveh and stayed there."
+}

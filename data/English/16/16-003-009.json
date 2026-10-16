@@ -1,0 +1,38 @@
+{
+  "id": "16-003-009",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 3,
+  "verse_reference": "Nehemiah 3:1,32",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "Nehemiah 3 describes the rebuilding around the city wall. At which gate does the list both begin and end?",
+  "options": [
+    "The Sheep Gate",
+    "The Fish Gate",
+    "The East Gate",
+    "The Fountain Gate"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Sheep Gate",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The list begins with the priests rebuilding the Sheep Gate and ends with goldsmiths and merchants repairing up to the Sheep Gate, showing the whole wall was covered."
+}

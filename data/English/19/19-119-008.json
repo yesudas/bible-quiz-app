@@ -1,0 +1,31 @@
+{
+  "id": "19-119-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 119,
+  "verse_reference": "Psalm 119:62",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "At what time did the psalmist rise to give God thanks for His righteous laws?",
+  "options": [
+    "At sunrise",
+    "At noon",
+    "At evening",
+    "At midnight"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist said, \"At midnight I rise to give you thanks for your righteous laws.\""
+}

@@ -1,0 +1,31 @@
+{
+  "id": "14-009-013",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 9,
+  "verse_reference": "2 Chronicles 9:21",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How often did Solomon's trading ships return with gold, silver, ivory, apes and baboons?",
+  "options": [
+    "Once every three years",
+    "Every month",
+    "Once a year",
+    "Every seven years"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Solomon",
+    "Hiram"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon's fleet of trading ships, manned by Hiram's servants, returned once every three years with gold, silver, ivory, apes and baboons."
+}

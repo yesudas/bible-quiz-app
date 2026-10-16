@@ -1,0 +1,34 @@
+{
+  "id": "22-005-005",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 5,
+  "verse_reference": "Song of Songs 5:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What message did the woman ask the daughters of Jerusalem to give her beloved if they found him?",
+  "options": [
+    "That she was angry with him",
+    "That she had gone home",
+    "That she was faint with love",
+    "That the king was looking for him"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Song of Songs 5:8 she asks them to tell her beloved that she is faint with love."
+}

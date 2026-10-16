@@ -1,0 +1,43 @@
+{
+  "id": "14-009-015",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 9,
+  "verse_reference": "2 Chronicles 9:26",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "From which river did Solomon rule over all the kings to the land of the Philistines?",
+  "options": [
+    "The Jordan",
+    "The Nile",
+    "The Euphrates",
+    "The Tigris"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Euphrates River",
+      "type": "river"
+    },
+    {
+      "name": "Land of the Philistines",
+      "type": "region"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon ruled over all the kings from the Euphrates River to the land of the Philistines, as far as the border of Egypt."
+}

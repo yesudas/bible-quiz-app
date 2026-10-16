@@ -1,0 +1,34 @@
+{
+  "id": "19-085-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 85,
+  "verse_reference": "Psalm 85:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Will you not ____ us again, that your people may rejoice in you?\"",
+  "options": [
+    "revive",
+    "feed",
+    "lead",
+    "bless"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Repentance",
+    "Hope"
+  ],
+  "characters": [
+    "Sons of Korah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist asks God to revive His people again so they may rejoice in Him."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "13-004-006",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 4,
+  "verse_reference": "1 Chronicles 4:18",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was Bithiah, the woman Mered had married?",
+  "options": [
+    "A daughter of King Saul",
+    "Pharaoh's daughter",
+    "A daughter of the king of Moab",
+    "Caleb's daughter"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage",
+    "Family"
+  ],
+  "characters": [
+    "Mered",
+    "Bithiah"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 4:18 describes Bithiah as Pharaoh's daughter, whom Mered had married."
+}

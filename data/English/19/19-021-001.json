@@ -1,0 +1,33 @@
+{
+  "id": "19-021-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 21,
+  "verse_reference": "Psalm 21:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 21:1, what does the king rejoice in?",
+  "options": [
+    "His great army",
+    "The LORD's strength",
+    "His riches",
+    "His wise counselors"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Kingship",
+    "Joy"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 21:1 says, \"The king rejoices in your strength, LORD. How great is his joy in the victories you give!\""
+}

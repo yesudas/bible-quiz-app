@@ -1,0 +1,38 @@
+{
+  "id": "07-006-012",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 6,
+  "verse_reference": "Judges 6:24",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Gideon call the altar he built to the LORD in Ophrah?",
+  "options": [
+    "The LORD Will Provide",
+    "The LORD Is My Banner",
+    "The LORD Is Peace",
+    "Ebenezer"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Peace"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [
+    {
+      "name": "Ophrah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After the LORD told him not to be afraid, Gideon built an altar and called it The LORD Is Peace."
+}

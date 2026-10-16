@@ -1,0 +1,37 @@
+{
+  "id": "05-034-005",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 34,
+  "verse_reference": "Deuteronomy 34:8",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How long did the Israelites grieve for Moses in the plains of Moab?",
+  "options": [
+    "Seven days",
+    "Forty days",
+    "Thirty days",
+    "One year"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Suffering"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites grieved for Moses in the plains of Moab for thirty days, until the time of weeping and mourning was over."
+}

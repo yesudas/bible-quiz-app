@@ -1,0 +1,32 @@
+{
+  "id": "11-022-007",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 22,
+  "verse_reference": "1 Kings 22:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Micaiah said, \"As surely as the LORD lives, I can tell him only what the ______ tells me.\"",
+  "options": [
+    "king",
+    "people",
+    "LORD",
+    "prophets"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Obedience"
+  ],
+  "characters": [
+    "Micaiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micaiah refused to agree with the other prophets just to please the king, and said he could tell only what the LORD told him."
+}

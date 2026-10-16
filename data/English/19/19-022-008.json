@@ -1,0 +1,32 @@
+{
+  "id": "19-022-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 22,
+  "verse_reference": "Psalm 22:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 22:16, what do the villains do to the sufferer's hands and feet?",
+  "options": [
+    "Tie them",
+    "Wash them",
+    "Burn them",
+    "Pierce them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Prophecy"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 22:16 says, \"Dogs surround me, a pack of villains encircles me; they pierce my hands and my feet.\""
+}

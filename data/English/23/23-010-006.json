@@ -1,0 +1,33 @@
+{
+  "id": "23-010-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 10,
+  "verse_reference": "Isaiah 10:21",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'A remnant will return, a remnant of Jacob will return to the ______.'",
+  "options": [
+    "Promised Land",
+    "Mighty God",
+    "holy city",
+    "house of David"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Repentance",
+    "Promise"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 10:21 says, 'A remnant will return, a remnant of Jacob will return to the Mighty God.'"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "09-010-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 10,
+  "verse_reference": "1 Samuel 10:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Samuel pour on Saul's head?",
+  "options": [
+    "Water",
+    "Olive oil",
+    "Wine",
+    "Ashes"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [
+    "Samuel",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel took a flask of olive oil, poured it on Saul's head and kissed him, saying the LORD had anointed him ruler over His inheritance."
+}

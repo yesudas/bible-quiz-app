@@ -1,0 +1,38 @@
+{
+  "id": "09-022-007",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 22,
+  "verse_reference": "1 Samuel 22:9-10",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who told Saul that Ahimelek had helped David at Nob?",
+  "options": [
+    "Abner",
+    "Jonathan",
+    "Doeg the Edomite",
+    "Abiathar"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Doeg",
+    "Ahimelek",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Nob",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Doeg the Edomite said he saw David come to Ahimelek at Nob, and Ahimelek gave him provisions and the sword of Goliath."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "23-004-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 4,
+  "verse_reference": "Isaiah 4:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the LORD promise to create over Mount Zion by day and by night?",
+  "options": [
+    "A rainbow by day and stars by night",
+    "Angels by day and lamps by night",
+    "A cloud of smoke by day and a glow of flaming fire by night",
+    "Sunlight by day and moonlight by night"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mount Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 4:5 says the LORD will create a cloud of smoke by day and a glow of flaming fire by night over Mount Zion."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "19-138-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 138,
+  "verse_reference": "Psalm 138:4",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who did David pray would praise the LORD when they hear what He has decreed?",
+  "options": [
+    "All the kings of the earth",
+    "All the priests",
+    "All the prophets",
+    "All the angels"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Mission"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"May all the kings of the earth praise you, LORD, when they hear what you have decreed.\""
+}

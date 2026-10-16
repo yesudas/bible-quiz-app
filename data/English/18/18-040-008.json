@@ -1,0 +1,36 @@
+{
+  "id": "18-040-008",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 40,
+  "verse_reference": "Job 40:23",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Which river did the LORD mention surging against the mouth of Behemoth?",
+  "options": [
+    "The Nile",
+    "The Euphrates",
+    "The Jordan",
+    "The Tigris"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "Jordan",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said Behemoth is secure, though the Jordan should surge against its mouth."
+}

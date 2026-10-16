@@ -1,0 +1,30 @@
+{
+  "id": "21-010-005",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 10,
+  "verse_reference": "Ecclesiastes 10:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "If an ax is dull, more strength is needed. What does the Teacher say will bring success?",
+  "options": [
+    "Skill",
+    "A new ax",
+    "More workers",
+    "Patience"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"If the ax is dull and its edge unsharpened, more strength is needed, but skill will bring success.\""
+}

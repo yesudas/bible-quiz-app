@@ -1,0 +1,33 @@
+{
+  "id": "06-023-002",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 23,
+  "verse_reference": "Joshua 23:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Who did Joshua say had fought for Israel?",
+  "options": [
+    "Joshua himself",
+    "The Gibeonites",
+    "The LORD their God",
+    "Caleb and his sons"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Victory"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua reminded the people that it was the LORD their God who fought for them."
+}

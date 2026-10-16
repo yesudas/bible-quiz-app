@@ -1,0 +1,33 @@
+{
+  "id": "12-016-002",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 16,
+  "verse_reference": "2 Kings 16:2-3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How was Ahaz different from his ancestor David?",
+  "options": [
+    "He built a greater temple",
+    "He won more battles",
+    "He did not do what was right in the eyes of the LORD",
+    "He wrote more psalms"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Ahaz",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Unlike David his father, Ahaz did not do what was right in the eyes of the LORD; he followed the ways of the kings of Israel."
+}

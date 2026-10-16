@@ -1,0 +1,35 @@
+{
+  "id": "07-019-010",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 19,
+  "verse_reference": "Judges 19:30",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the people of Israel react to what the Levite sent?",
+  "options": [
+    "They said nothing like this had happened since Israel came out of Egypt, and something must be done",
+    "They celebrated in the streets",
+    "They blamed the Levite and sent him away",
+    "They ignored it and went home"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Justice",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Everyone who saw it said such a thing had never been seen or done since the Israelites came out of Egypt, and they said they must do something."
+}

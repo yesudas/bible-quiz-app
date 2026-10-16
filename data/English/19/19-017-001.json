@@ -1,0 +1,31 @@
+{
+  "id": "19-017-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 17,
+  "verse_reference": "Psalm 17 (title)",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "How does the title describe Psalm 17?",
+  "options": [
+    "A song of ascents",
+    "A prayer of David",
+    "A psalm of Asaph",
+    "A song for the Sabbath"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title of Psalm 17 calls it \"A prayer of David.\""
+}

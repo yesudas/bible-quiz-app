@@ -1,0 +1,39 @@
+{
+  "id": "14-032-010",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 32,
+  "verse_reference": "2 Chronicles 32:21",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What happened to Sennacherib after he returned home in disgrace?",
+  "options": [
+    "He became sick and died",
+    "He was captured by Babylon",
+    "Some of his sons cut him down with the sword in the temple of his god",
+    "He built a new army"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Sennacherib"
+  ],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    },
+    {
+      "name": "Temple of his god",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sennacherib withdrew to his own land in disgrace, and when he went into the temple of his god, some of his sons cut him down with the sword."
+}

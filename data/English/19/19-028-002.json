@@ -1,0 +1,38 @@
+{
+  "id": "19-028-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 28,
+  "verse_reference": "Psalm 28:2",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In Psalm 28:2, toward what place does David lift up his hands?",
+  "options": [
+    "The Most Holy Place",
+    "The Jordan River",
+    "The city gate",
+    "The mountains"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [
+    {
+      "name": "Most Holy Place",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 28:2 says, \"Hear my cry for mercy as I call to you for help, as I lift up my hands toward your Most Holy Place.\""
+}

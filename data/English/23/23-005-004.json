@@ -1,0 +1,35 @@
+{
+  "id": "23-005-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 5,
+  "verse_reference": "Isaiah 5:5-6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the owner say he would command the clouds to do to the vineyard?",
+  "options": [
+    "Cover it with shade",
+    "Bring hail on it",
+    "Send lightning on it",
+    "Not rain on it"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Parables"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Vineyard on a fertile hillside",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Isaiah 5:6 the owner says he will make the vineyard a wasteland and command the clouds not to rain on it."
+}

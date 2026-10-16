@@ -1,0 +1,33 @@
+{
+  "id": "09-018-010",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 18,
+  "verse_reference": "1 Samuel 18:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was Saul's secret plan when he offered his daughter Merab to David?",
+  "options": [
+    "To make David his heir",
+    "To send David back to Bethlehem",
+    "To let the Philistines kill David",
+    "To make peace with Jonathan"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Saul",
+    "David",
+    "Merab"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul thought, \"I will not raise a hand against him. Let the Philistines do that!\""
+}

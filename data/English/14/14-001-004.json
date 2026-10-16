@@ -1,0 +1,36 @@
+{
+  "id": "14-001-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 1,
+  "verse_reference": "2 Chronicles 1:5",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who had made the bronze altar that stood at Gibeon in front of the tabernacle?",
+  "options": [
+    "Bezalel",
+    "Oholiab",
+    "Hiram",
+    "Aaron"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Bezalel"
+  ],
+  "places": [
+    {
+      "name": "Gibeon",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The bronze altar at Gibeon had been made by Bezalel son of Uri, the son of Hur."
+}

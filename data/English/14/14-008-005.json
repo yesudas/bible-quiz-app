@@ -1,0 +1,39 @@
+{
+  "id": "14-008-005",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 8,
+  "verse_reference": "2 Chronicles 8:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Solomon rebuild as fortified cities with walls, gates and bars?",
+  "options": [
+    "Upper and Lower Beth Horon",
+    "Bethel and Ai",
+    "Jericho and Gilgal",
+    "Gath and Ekron"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Upper Beth Horon",
+      "type": "town"
+    },
+    {
+      "name": "Lower Beth Horon",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon rebuilt Upper Beth Horon and Lower Beth Horon as fortified cities, with walls and with gates and bars."
+}

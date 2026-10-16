@@ -1,0 +1,34 @@
+{
+  "id": "09-007-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 7,
+  "verse_reference": "1 Samuel 7:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How long did the ark stay at Kiriath Jearim before Israel turned back to the LORD?",
+  "options": [
+    "Seven months",
+    "Seven years",
+    "Forty years",
+    "Twenty years"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Kiriath Jearim",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The ark remained at Kiriath Jearim a long time—twenty years in all—and all the people of Israel turned back to the LORD."
+}

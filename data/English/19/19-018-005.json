@@ -1,0 +1,32 @@
+{
+  "id": "19-018-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 18,
+  "verse_reference": "Psalm 18:10",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 18:10, what did the LORD mount and fly on?",
+  "options": [
+    "The cherubim",
+    "A chariot of fire",
+    "A white horse",
+    "A cloud of smoke"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Angels",
+    "Salvation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 18:10 says, \"He mounted the cherubim and flew; he soared on the wings of the wind.\""
+}

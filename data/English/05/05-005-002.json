@@ -1,0 +1,32 @@
+{
+  "id": "05-005-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 5,
+  "verse_reference": "Deuteronomy 5:6-7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "The first commandment says: \"You shall have no other ___ before me.\"",
+  "options": [
+    "kings",
+    "idols",
+    "gods",
+    "masters"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Law",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The first commandment requires Israel to worship the Lord alone and have no other gods before Him."
+}

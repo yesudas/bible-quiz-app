@@ -1,0 +1,30 @@
+{
+  "id": "20-004-007",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 4,
+  "verse_reference": "Proverbs 4:23",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Above all else, guard your ______, for everything you do flows from it.\"",
+  "options": [
+    "house",
+    "tongue",
+    "heart",
+    "money"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 4:23 says, above all else, guard your heart, for everything you do flows from it."
+}

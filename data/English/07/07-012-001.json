@@ -1,0 +1,37 @@
+{
+  "id": "07-012-001",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 12,
+  "verse_reference": "Judges 12:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After the victory over Ammon, what did the Ephraimites threaten to do to Jephthah?",
+  "options": [
+    "Take away all his cattle",
+    "Make him their slave",
+    "Drive him back to the land of Tob",
+    "Burn down his house over his head"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Unity",
+    "Leadership"
+  ],
+  "characters": [
+    "Jephthah"
+  ],
+  "places": [
+    {
+      "name": "Zaphon",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Ephraimites crossed over to Zaphon and asked why Jephthah had not called them. They threatened to burn down his house over his head."
+}

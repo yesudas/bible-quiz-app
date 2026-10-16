@@ -1,0 +1,36 @@
+{
+  "id": "17-008-010",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 8,
+  "verse_reference": "Esther 8:15-16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the city of Susa and the Jews respond to the new decree?",
+  "options": [
+    "With fear and silence",
+    "With anger against the king",
+    "With a joyous celebration, happiness and honor",
+    "With a new fast"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Joy",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Susa",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The city of Susa held a joyous celebration, and for the Jews it was a time of happiness and joy, gladness and honor."
+}

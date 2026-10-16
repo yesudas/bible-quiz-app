@@ -1,0 +1,41 @@
+{
+  "id": "19-060-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 60,
+  "verse_reference": "Psalm 60 (title)",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to the title of Psalm 60, who returned and struck down twelve thousand Edomites?",
+  "options": [
+    "Abner",
+    "Joab",
+    "Saul",
+    "Jonathan"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David",
+    "Joab"
+  ],
+  "places": [
+    {
+      "name": "Valley of Salt",
+      "type": "valley"
+    },
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title says Joab returned and struck down twelve thousand Edomites in the Valley of Salt."
+}

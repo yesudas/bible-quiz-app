@@ -1,0 +1,33 @@
+{
+  "id": "19-090-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 90,
+  "verse_reference": "Psalm 90:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Teach us to number our days, that we may gain a heart of ____.\"",
+  "options": [
+    "joy",
+    "courage",
+    "wisdom",
+    "peace"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Prayer"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses asks God to teach us to number our days so we may gain a heart of wisdom."
+}

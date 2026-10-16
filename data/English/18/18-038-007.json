@@ -1,0 +1,32 @@
+{
+  "id": "18-038-007",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 38,
+  "verse_reference": "Job 38:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "The LORD asked Job if he had ever given orders to what?",
+  "options": [
+    "The moon",
+    "The morning",
+    "The wind",
+    "The rivers"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD asked, 'Have you ever given orders to the morning, or shown the dawn its place?'"
+}

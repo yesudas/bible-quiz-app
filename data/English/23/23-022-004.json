@@ -1,0 +1,32 @@
+{
+  "id": "23-022-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 22,
+  "verse_reference": "Isaiah 22:15",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was the palace administrator that the LORD sent Isaiah to rebuke?",
+  "options": [
+    "Eliakim",
+    "Hilkiah",
+    "Joah",
+    "Shebna"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Pride",
+    "Leadership"
+  ],
+  "characters": [
+    "Shebna",
+    "Isaiah"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 22:15 says, 'Go, say to this steward, to Shebna the palace administrator.'"
+}

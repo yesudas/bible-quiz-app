@@ -1,0 +1,32 @@
+{
+  "id": "07-014-011",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 14,
+  "verse_reference": "Judges 14:12",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "Within how many days did the companions have to solve Samson's riddle?",
+  "options": [
+    "Three days",
+    "Forty days",
+    "One month",
+    "Seven days"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samson told them to give the answer within the seven days of the feast."
+}

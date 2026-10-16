@@ -1,0 +1,33 @@
+{
+  "id": "19-019-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 19,
+  "verse_reference": "Psalm 19:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"The heavens declare the ____ of God.\"",
+  "options": [
+    "power",
+    "glory",
+    "love",
+    "name"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 19:1 says, \"The heavens declare the glory of God; the skies proclaim the work of his hands.\""
+}

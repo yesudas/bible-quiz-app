@@ -1,0 +1,38 @@
+{
+  "id": "19-135-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 135,
+  "verse_reference": "Psalm 135:11",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 135, which king of Bashan did God strike down?",
+  "options": [
+    "Sihon",
+    "Agag",
+    "Eglon",
+    "Og"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Judgment"
+  ],
+  "characters": [
+    "Sihon",
+    "Og"
+  ],
+  "places": [
+    {
+      "name": "Bashan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God struck down Sihon king of the Amorites, Og king of Bashan, and all the kings of Canaan."
+}

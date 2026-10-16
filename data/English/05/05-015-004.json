@@ -1,0 +1,32 @@
+{
+  "id": "05-015-004",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 15,
+  "verse_reference": "Deuteronomy 15:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Moses said: \"There will always be ___ people in the land. Therefore I command you to be openhanded.\"",
+  "options": [
+    "wicked",
+    "foreign",
+    "poor",
+    "faithful"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mercy",
+    "Money"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses acknowledged there would always be poor people in the land, so Israel was to be openhanded toward the poor and needy among them."
+}

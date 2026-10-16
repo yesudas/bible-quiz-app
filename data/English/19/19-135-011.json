@@ -1,0 +1,39 @@
+{
+  "id": "19-135-011",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 135,
+  "verse_reference": "Psalm 135:21",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 135:21, in which city does the LORD dwell?",
+  "options": [
+    "Bethel",
+    "Samaria",
+    "Hebron",
+    "Jerusalem"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Praise be to the LORD from Zion, to him who dwells in Jerusalem. Praise the LORD.\""
+}

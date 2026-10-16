@@ -1,0 +1,31 @@
+{
+  "id": "15-010-009",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 10,
+  "verse_reference": "Ezra 10:15",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two men opposed the plan to deal with the matter?",
+  "options": [
+    "Jonathan son of Asahel and Jahzeiah son of Tikvah",
+    "Zerubbabel and Jeshua",
+    "Haggai and Zechariah",
+    "Rehum and Shimshai"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jonathan son of Asahel",
+    "Jahzeiah"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Only Jonathan son of Asahel and Jahzeiah son of Tikvah opposed this, supported by Meshullam and Shabbethai the Levite."
+}

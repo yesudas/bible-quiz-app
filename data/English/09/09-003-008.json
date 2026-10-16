@@ -1,0 +1,37 @@
+{
+  "id": "09-003-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 3,
+  "verse_reference": "1 Samuel 3:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the LORD do the fourth time He called Samuel?",
+  "options": [
+    "He spoke from a burning bush",
+    "He sent an angel",
+    "He wrote on the wall",
+    "He came and stood there"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "House of the LORD at Shiloh",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD came and stood there, calling as at the other times, \"Samuel! Samuel!\""
+}

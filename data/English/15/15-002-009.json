@@ -1,0 +1,29 @@
+{
+  "id": "15-002-009",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 2,
+  "verse_reference": "Ezra 2:64",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many people were in the whole company that returned, not counting slaves and singers?",
+  "options": [
+    "5,400",
+    "42,360",
+    "7,337",
+    "61,000"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra records that the whole company numbered 42,360, besides their male and female slaves and singers."
+}

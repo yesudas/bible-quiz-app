@@ -1,0 +1,36 @@
+{
+  "id": "23-012-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 12,
+  "verse_reference": "Isaiah 12:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why should the people of Zion shout aloud and sing for joy?",
+  "options": [
+    "Because their enemies had run away",
+    "Because great is the Holy One of Israel among them",
+    "Because the harvest was large",
+    "Because a new king was crowned"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 12:6 says, 'Shout aloud and sing for joy, people of Zion, for great is the Holy One of Israel among you.'"
+}

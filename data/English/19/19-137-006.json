@@ -1,0 +1,35 @@
+{
+  "id": "19-137-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 137,
+  "verse_reference": "Psalm 137:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"If I forget you, Jerusalem, may my right ______ forget its skill.\"",
+  "options": [
+    "hand",
+    "eye",
+    "foot",
+    "arm"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist vowed never to forget Jerusalem, asking that his right hand forget its skill if he did."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "19-034-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 34,
+  "verse_reference": "Psalm 34:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"____ and see that the LORD is good.\"",
+  "options": [
+    "Taste",
+    "Come",
+    "Look",
+    "Wait"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Worship"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 34:8 says, \"Taste and see that the LORD is good; blessed is the one who takes refuge in him.\""
+}

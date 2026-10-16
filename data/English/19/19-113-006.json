@@ -1,0 +1,30 @@
+{
+  "id": "19-113-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 113,
+  "verse_reference": "Psalm 113:8",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 113, with whom does the LORD seat the poor and needy?",
+  "options": [
+    "Princes",
+    "Priests",
+    "Prophets",
+    "Soldiers"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD seats the poor and needy with princes, with the princes of His people."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "19-068-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 68,
+  "verse_reference": "Psalm 68:5",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "According to Psalm 68:5, God is a father to whom?",
+  "options": [
+    "The rich",
+    "The fatherless",
+    "The kings",
+    "The priests"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Family"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 68:5 says God is a father to the fatherless and a defender of widows."
+}

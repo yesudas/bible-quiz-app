@@ -1,0 +1,35 @@
+{
+  "id": "05-002-006",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 2,
+  "verse_reference": "Deuteronomy 2:14",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many years passed from leaving Kadesh Barnea until that generation of fighting men had died out?",
+  "options": [
+    "Forty years",
+    "Thirty-eight years",
+    "Twenty years",
+    "Seven years"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Kadesh Barnea",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "It took thirty-eight years from Kadesh Barnea until the whole generation of fighting men had died, just as the Lord had sworn."
+}

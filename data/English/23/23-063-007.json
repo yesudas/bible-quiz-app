@@ -1,0 +1,31 @@
+{
+  "id": "23-063-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 63,
+  "verse_reference": "Isaiah 63:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'But you, LORD, are our ______, our Redeemer from of old is your name.'",
+  "options": [
+    "King",
+    "Shepherd",
+    "Rock",
+    "Father"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 63:16 says, 'But you, LORD, are our Father, our Redeemer from of old is your name.'"
+}

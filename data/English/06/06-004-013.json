@@ -1,0 +1,38 @@
+{
+  "id": "06-004-013",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 4,
+  "verse_reference": "Joshua 4:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Joshua, why did God dry up the Jordan?",
+  "options": [
+    "So Israel could trade with Jericho",
+    "So the priests could rest",
+    "So all peoples would know the LORD's hand is powerful and Israel would fear Him",
+    "So the stones could be easily gathered"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Faith",
+    "Fear of God"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God did it so all the peoples of the earth might know that His hand is powerful, and so Israel would always fear the LORD."
+}

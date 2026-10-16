@@ -1,0 +1,12 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Cush",
+    "label": "Cush",
+    "count": 2,
+    "paths": [
+        "English/13/13-001-003.json",
+        "English/19/19-007-001.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

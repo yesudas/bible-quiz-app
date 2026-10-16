@@ -1,0 +1,39 @@
+{
+  "id": "06-012-001",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 12,
+  "verse_reference": "Joshua 12:1",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "The land Israel took east of the Jordan stretched from the Arnon Gorge to which mountain?",
+  "options": [
+    "Mount Sinai",
+    "Mount Hermon",
+    "Mount Carmel",
+    "Mount Ebal"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Victory"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Arnon Gorge",
+      "type": "valley"
+    },
+    {
+      "name": "Mount Hermon",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The kings east of the Jordan were defeated, and Israel took their land from the Arnon Gorge to Mount Hermon."
+}

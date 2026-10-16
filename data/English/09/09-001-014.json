@@ -1,0 +1,43 @@
+{
+  "id": "09-001-014",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 1,
+  "verse_reference": "1 Samuel 1:19-28",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "Which event happened LAST in 1 Samuel 1?",
+  "options": [
+    "Hannah brought Samuel to Eli and gave him to the LORD",
+    "Hannah named her son Samuel",
+    "The family returned home to Ramah",
+    "Hannah weaned Samuel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Worship"
+  ],
+  "characters": [
+    "Hannah",
+    "Samuel",
+    "Eli"
+  ],
+  "places": [
+    {
+      "name": "Ramah",
+      "type": "town"
+    },
+    {
+      "name": "Shiloh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The family went home to Ramah, Samuel was born and named, Hannah weaned him, and finally she brought him to Eli and gave him to the LORD."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "15-005-002",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 5,
+  "verse_reference": "Ezra 5:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Zerubbabel and Jeshua do after the prophets spoke?",
+  "options": [
+    "They returned to Babylon",
+    "They wrote to King Darius",
+    "They began rebuilding the house of God",
+    "They built walls around Jerusalem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Obedience",
+    "Leadership"
+  ],
+  "characters": [
+    "Zerubbabel",
+    "Jeshua",
+    "Haggai",
+    "Zechariah"
+  ],
+  "places": [
+    {
+      "name": "House of God in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zerubbabel and Jeshua set to work to rebuild the house of God in Jerusalem, and the prophets of God were with them, supporting them."
+}

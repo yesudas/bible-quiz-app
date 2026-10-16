@@ -1,0 +1,32 @@
+{
+  "id": "11-012-017",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 12,
+  "verse_reference": "1 Kings 12:31",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was wrong with the priests Jeroboam appointed?",
+  "options": [
+    "They were too young",
+    "They were from Egypt",
+    "They were not Levites",
+    "They could not read"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Jeroboam"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeroboam built shrines on high places and appointed priests from all sorts of people, even though they were not Levites."
+}

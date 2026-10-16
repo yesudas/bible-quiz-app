@@ -1,0 +1,34 @@
+{
+  "id": "09-005-007",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 5,
+  "verse_reference": "1 Samuel 5:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the people of Ashdod decide after the LORD's hand was heavy on them?",
+  "options": [
+    "The ark of the god of Israel must not stay with them",
+    "They should worship the LORD instead of Dagon",
+    "They should build a new temple for the ark",
+    "They should attack Israel again"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ashdod",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They said, \"The ark of the god of Israel must not stay here with us, because his hand is heavy on us and on Dagon our god.\""
+}

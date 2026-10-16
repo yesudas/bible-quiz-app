@@ -1,0 +1,42 @@
+{
+  "id": "14-036-006",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 36,
+  "verse_reference": "2 Chronicles 36:10",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whom did Nebuchadnezzar make king after taking Jehoiachin to Babylon?",
+  "options": [
+    "Jehoahaz",
+    "Josiah",
+    "Gedaliah",
+    "Zedekiah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Nebuchadnezzar",
+    "Jehoiachin",
+    "Zedekiah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nebuchadnezzar brought Jehoiachin to Babylon and made Jehoiachin's uncle, Zedekiah, king over Judah and Jerusalem."
+}

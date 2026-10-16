@@ -1,0 +1,34 @@
+{
+  "id": "22-006-001",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 6,
+  "verse_reference": "Song of Songs 6:1-2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "When asked where her beloved had gone, where did the woman say he had gone?",
+  "options": [
+    "Down to his garden",
+    "Up to the mountains",
+    "Into the city",
+    "Out to the wilderness"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "His garden",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Song of Songs 6:2 she says her beloved has gone down to his garden, to the beds of spices, to gather lilies."
+}

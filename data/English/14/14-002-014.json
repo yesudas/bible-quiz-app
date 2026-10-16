@@ -1,0 +1,30 @@
+{
+  "id": "14-002-014",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 2,
+  "verse_reference": "2 Chronicles 2:18",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many foremen did Solomon appoint to keep the people working?",
+  "options": [
+    "300",
+    "3,600",
+    "7,000",
+    "70,000"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon assigned 70,000 carriers, 80,000 stonecutters and 3,600 foremen to keep the people working."
+}

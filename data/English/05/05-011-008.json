@@ -1,0 +1,33 @@
+{
+  "id": "05-011-008",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 11,
+  "verse_reference": "Deuteronomy 11:26-28",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What two things did Moses set before Israel that day?",
+  "options": [
+    "A feast and a fast",
+    "A blessing and a curse",
+    "A journey and a rest",
+    "A gift and a debt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Obedience",
+    "Covenant",
+    "Judgment"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses set before Israel a blessing for obeying God's commands and a curse for disobeying and following other gods."
+}

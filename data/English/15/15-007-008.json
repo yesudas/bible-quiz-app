@@ -1,0 +1,36 @@
+{
+  "id": "15-007-008",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 7,
+  "verse_reference": "Ezra 7:24",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Artaxerxes's letter, who was not to be made to pay taxes, tribute or duty?",
+  "options": [
+    "The governors of Trans-Euphrates",
+    "All the people of Jerusalem",
+    "The king's seven advisers",
+    "The priests, Levites and other temple workers"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [
+    "Artaxerxes"
+  ],
+  "places": [
+    {
+      "name": "House of the LORD in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The letter said no taxes, tribute or duty were to be imposed on the priests, Levites, musicians, gatekeepers, temple servants or other workers at the house of God."
+}

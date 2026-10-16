@@ -1,0 +1,38 @@
+{
+  "id": "22-007-003",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 7,
+  "verse_reference": "Song of Songs 7:4",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "The tower of Lebanon mentioned in this chapter looks toward which city?",
+  "options": [
+    "Damascus",
+    "Tyre",
+    "Sidon",
+    "Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Lebanon",
+      "type": "region"
+    },
+    {
+      "name": "Damascus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 7:4 speaks of the tower of Lebanon looking toward Damascus."
+}

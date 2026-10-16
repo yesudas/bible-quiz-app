@@ -1,0 +1,31 @@
+{
+  "id": "17-002-004",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 2,
+  "verse_reference": "Esther 2:5",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "Which tribe of Israel was Mordecai from?",
+  "options": [
+    "Judah",
+    "Levi",
+    "Ephraim",
+    "Benjamin"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Mordecai"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mordecai was a Jew of the tribe of Benjamin, son of Jair, son of Shimei, son of Kish."
+}

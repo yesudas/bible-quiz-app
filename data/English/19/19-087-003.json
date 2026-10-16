@@ -1,0 +1,50 @@
+{
+  "id": "19-087-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 87,
+  "verse_reference": "Psalm 87:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In Psalm 87:4, what will God say about people from nations like Babylon, Philistia and Tyre who acknowledge Him?",
+  "options": [
+    "\"This one is a slave.\"",
+    "\"This one must leave.\"",
+    "\"This one was born in Zion.\"",
+    "\"This one is an enemy.\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mission",
+    "Kingdom of God",
+    "Salvation"
+  ],
+  "characters": [
+    "Sons of Korah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    },
+    {
+      "name": "Philistia",
+      "type": "region"
+    },
+    {
+      "name": "Tyre",
+      "type": "city"
+    },
+    {
+      "name": "Cush",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God will record people from these nations among those who acknowledge Him and say, \"This one was born in Zion.\""
+}

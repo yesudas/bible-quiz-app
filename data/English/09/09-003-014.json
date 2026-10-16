@@ -1,0 +1,38 @@
+{
+  "id": "09-003-014",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 3,
+  "verse_reference": "1 Samuel 3:21",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did the LORD continue to appear and reveal Himself to Samuel?",
+  "options": [
+    "Shiloh",
+    "Bethel",
+    "Mizpah",
+    "Ramah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Worship"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD continued to appear at Shiloh, and there He revealed Himself to Samuel through His word."
+}

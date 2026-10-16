@@ -1,0 +1,37 @@
+{
+  "id": "12-009-016",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 9,
+  "verse_reference": "2 Kings 9:32-33",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who threw Jezebel down from the window?",
+  "options": [
+    "Jehu himself",
+    "Two or three eunuchs",
+    "The young prophet",
+    "Soldiers from Aram"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Jezebel",
+    "Jehu"
+  ],
+  "places": [
+    {
+      "name": "Jezreel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehu called, 'Who is on my side?' and two or three eunuchs looked down and threw her down at his command."
+}

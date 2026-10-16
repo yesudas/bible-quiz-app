@@ -1,0 +1,36 @@
+{
+  "id": "23-014-011",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 14,
+  "verse_reference": "Isaiah 14:32",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Where did Isaiah say the LORD's afflicted people would find refuge?",
+  "options": [
+    "In Egypt",
+    "In Philistia",
+    "In Zion",
+    "In Babylon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 14:32 says, 'The LORD has established Zion, and in her his afflicted people will find refuge.'"
+}

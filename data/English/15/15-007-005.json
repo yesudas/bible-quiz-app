@@ -1,0 +1,39 @@
+{
+  "id": "15-007-005",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 7,
+  "verse_reference": "Ezra 7:8-9",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "In which month did Ezra arrive in Jerusalem after beginning his journey in the first month?",
+  "options": [
+    "The second month",
+    "The fifth month",
+    "The seventh month",
+    "The tenth month"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Ezra"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra began his journey from Babylon on the first day of the first month and arrived in Jerusalem on the first day of the fifth month."
+}

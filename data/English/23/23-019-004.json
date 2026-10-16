@@ -1,0 +1,38 @@
+{
+  "id": "23-019-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 19,
+  "verse_reference": "Isaiah 19:5-8",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "When the waters of the river dried up, which workers would groan and lament?",
+  "options": [
+    "The shepherds",
+    "The builders",
+    "The soldiers",
+    "The fishermen"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Nile",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 19:5-8 says the waters of the river would dry up, and the fishermen would groan and lament."
+}

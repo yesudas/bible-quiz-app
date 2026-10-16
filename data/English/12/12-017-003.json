@@ -1,0 +1,40 @@
+{
+  "id": "12-017-003",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 17,
+  "verse_reference": "2 Kings 17:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the king of Assyria put Hoshea in prison?",
+  "options": [
+    "Hoshea killed Assyrian soldiers",
+    "Hoshea refused to worship Assyria's gods",
+    "Hoshea sent envoys to So king of Egypt and stopped paying tribute",
+    "Hoshea attacked Judah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Hoshea",
+    "Shalmaneser"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king of Assyria found that Hoshea was a traitor, for he had sent envoys to So king of Egypt and no longer paid tribute."
+}

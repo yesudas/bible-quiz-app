@@ -1,0 +1,44 @@
+{
+  "id": "16-003-006",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 3,
+  "verse_reference": "Nehemiah 3:13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Besides repairing the Valley Gate, how much of the wall did Hanun and the residents of Zanoah repair?",
+  "options": [
+    "A hundred cubits",
+    "A thousand cubits",
+    "Fifty cubits",
+    "Five hundred cubits"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Hanun"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Valley Gate",
+      "type": "gate"
+    },
+    {
+      "name": "Dung Gate",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hanun and the residents of Zanoah repaired the Valley Gate and also a thousand cubits of the wall as far as the Dung Gate."
+}

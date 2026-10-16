@@ -1,0 +1,39 @@
+{
+  "id": "08-004-008",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 4,
+  "verse_reference": "Ruth 4:11",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "The people prayed that Ruth would be like which two women who built up the family of Israel?",
+  "options": [
+    "Sarah and Rebekah",
+    "Rachel and Leah",
+    "Miriam and Deborah",
+    "Hannah and Peninnah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Blessing",
+    "Family"
+  ],
+  "characters": [
+    "Ruth",
+    "Rachel",
+    "Leah"
+  ],
+  "places": [
+    {
+      "name": "Town gate of Bethlehem",
+      "type": "city gate"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elders and people prayed that the LORD would make Ruth like Rachel and Leah, who together built up the family of Israel."
+}

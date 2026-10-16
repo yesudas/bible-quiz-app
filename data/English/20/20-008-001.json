@@ -1,0 +1,39 @@
+{
+  "id": "20-008-001",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 8,
+  "verse_reference": "Proverbs 8:1-3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 8:1-3, where does Wisdom take her stand and cry out?",
+  "options": [
+    "Inside a quiet room",
+    "At the crossroads and beside the city gates",
+    "Only in the wilderness",
+    "On a boat at sea"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Crossroads",
+      "type": "road"
+    },
+    {
+      "name": "City gates",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 8:2-3 says Wisdom takes her stand at the crossroads and cries aloud beside the gate leading into the city."
+}

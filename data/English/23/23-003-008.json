@@ -1,0 +1,35 @@
+{
+  "id": "23-003-008",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 3,
+  "verse_reference": "Isaiah 3:16",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who walked along with outstretched necks, flirting with their eyes?",
+  "options": [
+    "The priests of Judah",
+    "The prophets of Israel",
+    "The women of Zion",
+    "The soldiers of Assyria"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Pride"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 3:16 says the women of Zion were haughty, walking with outstretched necks and flirting with their eyes."
+}

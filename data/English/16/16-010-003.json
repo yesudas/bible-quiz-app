@@ -1,0 +1,30 @@
+{
+  "id": "16-010-003",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 10,
+  "verse_reference": "Nehemiah 10:30",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the people promise about marriage?",
+  "options": [
+    "Not to marry during the festival",
+    "To marry only within the tribe of Judah",
+    "Not to give their daughters to the surrounding peoples or take their daughters for their sons",
+    "To have all marriages approved by the governor"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Marriage",
+    "Covenant",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They promised not to give their daughters in marriage to the peoples around them or take their daughters for their sons."
+}

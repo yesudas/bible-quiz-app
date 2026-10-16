@@ -1,0 +1,30 @@
+{
+  "id": "23-061-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 61,
+  "verse_reference": "Isaiah 61:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Isaiah 61:1, what was the speaker sent to proclaim for the captives?",
+  "options": [
+    "Judgment",
+    "Freedom",
+    "Punishment",
+    "A new law"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 61:1 says, 'He has sent me to bind up the brokenhearted, to proclaim freedom for the captives.'"
+}

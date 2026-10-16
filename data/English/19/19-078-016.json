@@ -1,0 +1,32 @@
+{
+  "id": "19-078-016",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 78,
+  "verse_reference": "Psalm 78:72",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"And David shepherded them with ____ of heart; with skillful hands he led them.\"",
+  "options": [
+    "integrity",
+    "courage",
+    "joy",
+    "wisdom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David led God's people with integrity of heart and skillful hands."
+}

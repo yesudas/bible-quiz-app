@@ -1,0 +1,40 @@
+{
+  "id": "23-010-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 10,
+  "verse_reference": "Isaiah 10:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "What did the Lord tell His people who lived in Zion about the Assyrians?",
+  "options": [
+    "Run away from them",
+    "Pay them tribute",
+    "Make peace with them",
+    "Do not be afraid of them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Fear"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 10:24 says, 'My people who live in Zion, do not be afraid of the Assyrians.'"
+}

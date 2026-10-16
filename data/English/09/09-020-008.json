@@ -1,0 +1,38 @@
+{
+  "id": "09-020-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 20,
+  "verse_reference": "1 Samuel 20:20-22",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What sign did Jonathan use to tell David whether it was safe?",
+  "options": [
+    "Lighting a fire",
+    "Blowing a trumpet",
+    "Shooting arrows",
+    "Sending a letter"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "Jonathan",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Field",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonathan said he would shoot arrows and send a boy to find them. What he shouted to the boy about where the arrows were would tell David to stay or to go."
+}

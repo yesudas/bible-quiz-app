@@ -1,0 +1,37 @@
+{
+  "id": "23-021-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 21,
+  "verse_reference": "Isaiah 21:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "In the prophecy against Dumah, someone calls from Seir: 'Watchman, what is left of the ______?'",
+  "options": [
+    "day",
+    "night",
+    "city",
+    "army"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Dumah",
+      "type": "region"
+    },
+    {
+      "name": "Seir",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 21:11 says someone calls from Seir, 'Watchman, what is left of the night?'"
+}

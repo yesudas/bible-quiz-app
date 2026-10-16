@@ -1,0 +1,48 @@
+{
+  "id": "07-011-007",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 11,
+  "verse_reference": "Judges 11:13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What complaint did the king of the Ammonites make against Israel?",
+  "options": [
+    "Israel had killed his son",
+    "Israel had stolen his gold",
+    "Israel had destroyed the temple of Chemosh",
+    "Israel took his land from the Arnon to the Jabbok when they came up out of Egypt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promised Land"
+  ],
+  "characters": [
+    "Jephthah"
+  ],
+  "places": [
+    {
+      "name": "Ammon",
+      "type": "country"
+    },
+    {
+      "name": "Arnon River",
+      "type": "river"
+    },
+    {
+      "name": "Jabbok River",
+      "type": "river"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Ammonite king claimed that when Israel came out of Egypt, they took his land from the Arnon to the Jabbok, all the way to the Jordan."
+}

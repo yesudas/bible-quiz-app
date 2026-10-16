@@ -1,0 +1,40 @@
+{
+  "id": "07-007-001",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 7,
+  "verse_reference": "Judges 7:1",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Gideon and his men camp before the battle with Midian?",
+  "options": [
+    "At the Gihon Spring",
+    "At the spring of En Gedi",
+    "At the spring of Harod",
+    "At the well of Beersheba"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [
+    {
+      "name": "Spring of Harod",
+      "type": "spring"
+    },
+    {
+      "name": "Hill of Moreh",
+      "type": "hill"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon and his men camped at the spring of Harod. The camp of Midian was north of them near the hill of Moreh."
+}

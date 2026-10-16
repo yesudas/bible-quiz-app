@@ -1,0 +1,37 @@
+{
+  "id": "11-009-013",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 9,
+  "verse_reference": "1 Kings 9:27-28",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "To which place did Solomon's and Hiram's sailors sail to bring back gold?",
+  "options": [
+    "Ophir",
+    "Sheba",
+    "Tarshish",
+    "Egypt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Solomon",
+    "Hiram"
+  ],
+  "places": [
+    {
+      "name": "Ophir",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hiram's sailors served with Solomon's men; they sailed to Ophir and brought back 420 talents of gold to King Solomon."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "23-030-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 30,
+  "verse_reference": "Isaiah 30:7",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which nation did God call 'Rahab the Do-Nothing' because its help was useless?",
+  "options": [
+    "Assyria",
+    "Babylon",
+    "Egypt",
+    "Moab"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 30:7 says Egypt's help is utterly useless, so God calls her Rahab the Do-Nothing."
+}

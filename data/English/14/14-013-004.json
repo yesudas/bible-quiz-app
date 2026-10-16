@@ -1,0 +1,37 @@
+{
+  "id": "14-013-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 13,
+  "verse_reference": "2 Chronicles 13:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Abijah's words: God gave the kingship of Israel to David and his descendants forever by a covenant of ______.",
+  "options": [
+    "blood",
+    "peace",
+    "oil",
+    "salt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Abijah",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Mount Zemaraim",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abijah reminded Israel that the LORD had given the kingship to David and his descendants forever by a covenant of salt."
+}

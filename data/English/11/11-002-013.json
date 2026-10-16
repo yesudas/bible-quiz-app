@@ -1,0 +1,36 @@
+{
+  "id": "11-002-013",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 2,
+  "verse_reference": "1 Kings 2:28",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When Joab heard what was happening, where did he flee?",
+  "options": [
+    "To the land of the Philistines",
+    "To the tent of the LORD, where he took hold of the horns of the altar",
+    "To the Jordan River",
+    "To the cave of Adullam"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Joab"
+  ],
+  "places": [
+    {
+      "name": "Tent of the LORD",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joab fled to the tent of the LORD and took hold of the horns of the altar."
+}

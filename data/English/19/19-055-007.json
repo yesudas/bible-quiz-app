@@ -1,0 +1,34 @@
+{
+  "id": "19-055-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 55,
+  "verse_reference": "Psalm 55:22",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Cast your ____ on the LORD and he will sustain you.\"",
+  "options": [
+    "sins",
+    "cares",
+    "crowns",
+    "nets"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Hope",
+    "Suffering"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David encourages God's people to give their cares to the LORD, who will sustain them."
+}

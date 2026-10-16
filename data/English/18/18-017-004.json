@@ -1,0 +1,32 @@
+{
+  "id": "18-017-004",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 17,
+  "verse_reference": "Job 17:7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Why did Job say his eyes had grown dim?",
+  "options": [
+    "Because of old age",
+    "Because of grief",
+    "Because of the smoke",
+    "Because of the dark night"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'My eyes have grown dim with grief; my whole frame is but a shadow.'"
+}

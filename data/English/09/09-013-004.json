@@ -1,0 +1,43 @@
+{
+  "id": "09-013-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 13,
+  "verse_reference": "1 Samuel 13:6-7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did many Israelites react when they saw the Philistine army?",
+  "options": [
+    "They marched out to fight",
+    "They made a treaty",
+    "They offered sacrifices",
+    "They hid in caves, thickets, rocks, pits and cisterns"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    },
+    {
+      "name": "Gad",
+      "type": "region"
+    },
+    {
+      "name": "Gilead",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the Israelites saw how difficult their situation was, they hid in caves and thickets, among the rocks, and in pits and cisterns. Some even crossed the Jordan."
+}

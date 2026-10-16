@@ -1,0 +1,39 @@
+{
+  "id": "16-007-002",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 7,
+  "verse_reference": "Nehemiah 7:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which of his brothers did Nehemiah put in charge of Jerusalem?",
+  "options": [
+    "Hanani",
+    "Shemaiah",
+    "Eliashib",
+    "Malkijah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Nehemiah",
+    "Hanani",
+    "Hananiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah put his brother Hanani in charge of Jerusalem, along with Hananiah the commander of the citadel."
+}

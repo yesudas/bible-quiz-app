@@ -1,0 +1,32 @@
+{
+  "id": "18-006-001",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 6,
+  "verse_reference": "Job 6:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Job said that if his anguish could be weighed, it would outweigh what?",
+  "options": [
+    "The mountains",
+    "The sand of the seas",
+    "All the gold in the world",
+    "The stars in the sky"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said his anguish and misery would surely outweigh the sand of the seas."
+}

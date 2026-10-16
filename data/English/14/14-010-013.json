@@ -1,0 +1,36 @@
+{
+  "id": "14-010-013",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 10,
+  "verse_reference": "2 Chronicles 10:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did King Rehoboam escape to Jerusalem?",
+  "options": [
+    "He got into his chariot",
+    "He rode a camel",
+    "He sailed on a ship",
+    "He hid among the soldiers"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Rehoboam"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "King Rehoboam managed to get into his chariot and escape to Jerusalem."
+}

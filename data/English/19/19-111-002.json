@@ -1,0 +1,31 @@
+{
+  "id": "19-111-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 111,
+  "verse_reference": "Psalm 111:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Psalm 111, who ponders the great works of the LORD?",
+  "options": [
+    "Only the priests",
+    "All who delight in them",
+    "The kings of the earth",
+    "The angels in heaven"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Great are the works of the LORD; they are pondered by all who delight in them."
+}

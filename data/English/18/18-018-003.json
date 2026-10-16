@@ -1,0 +1,33 @@
+{
+  "id": "18-018-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 18,
+  "verse_reference": "Job 18:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Bildad said the lamp of a wicked man is what?",
+  "options": [
+    "Made brighter",
+    "Given to his children",
+    "Snuffed out",
+    "Hidden under a bowl"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Bildad"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Bildad said, 'The lamp of a wicked man is snuffed out; the flame of his fire stops burning.'"
+}

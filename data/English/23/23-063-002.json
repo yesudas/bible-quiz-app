@@ -1,0 +1,28 @@
+{
+  "id": "23-063-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 63,
+  "verse_reference": "Isaiah 63:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: 'I have trodden the ______ alone; from the nations no one was with me.'",
+  "options": [
+    "winepress",
+    "threshing floor",
+    "battlefield",
+    "road"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 63:3 says, 'I have trodden the winepress alone; from the nations no one was with me.'"
+}

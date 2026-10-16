@@ -1,0 +1,33 @@
+{
+  "id": "09-014-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 14,
+  "verse_reference": "1 Samuel 14:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Jonathan said, \"Nothing can hinder the LORD from saving, whether by many or by ___.\"",
+  "options": [
+    "few",
+    "none",
+    "weak",
+    "one"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Salvation"
+  ],
+  "characters": [
+    "Jonathan"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonathan trusted God, saying, \"Nothing can hinder the LORD from saving, whether by many or by few.\""
+}

@@ -1,0 +1,31 @@
+{
+  "id": "05-018-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 18,
+  "verse_reference": "Deuteronomy 18:10-11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which practices of the nations did God forbid Israel to imitate?",
+  "options": [
+    "Farming and trading",
+    "Building cities and walls",
+    "Divination, sorcery, witchcraft, and consulting the dead",
+    "Keeping flocks and herds"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God forbade divination, sorcery, interpreting omens, witchcraft, casting spells, and consulting mediums, spiritists, or the dead, calling these detestable."
+}

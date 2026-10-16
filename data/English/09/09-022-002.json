@@ -1,0 +1,36 @@
+{
+  "id": "09-022-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 22,
+  "verse_reference": "1 Samuel 22:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What kind of men gathered around David at the cave?",
+  "options": [
+    "Priests and Levites",
+    "Men in distress, in debt, or discontented",
+    "Soldiers sent by Saul",
+    "Philistine warriors"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Cave of Adullam",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All those who were in distress or in debt or discontented gathered around David, and he became their commander. About four hundred men were with him."
+}

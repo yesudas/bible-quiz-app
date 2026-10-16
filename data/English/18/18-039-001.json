@@ -1,0 +1,33 @@
+{
+  "id": "18-039-001",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 39,
+  "verse_reference": "Job 39:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Job 39:1, the LORD asked Job if he knew when which animals give birth?",
+  "options": [
+    "Sheep",
+    "Camels",
+    "Mountain goats",
+    "Lions"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD asked, 'Do you know when the mountain goats give birth? Do you watch when the doe bears her fawn?'"
+}

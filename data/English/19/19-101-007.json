@@ -1,0 +1,33 @@
+{
+  "id": "19-101-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 101,
+  "verse_reference": "Psalm 101:7",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 101, who would not dwell in David's house?",
+  "options": [
+    "Anyone who is poor",
+    "Anyone who is a foreigner",
+    "Anyone who sings praises",
+    "Anyone who practices deceit"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Honesty",
+    "Sin"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said no one who practices deceit would dwell in his house, and no one who speaks falsely would stand in his presence."
+}

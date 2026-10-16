@@ -1,0 +1,38 @@
+{
+  "id": "07-006-015",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 6,
+  "verse_reference": "Judges 6:31",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who said, \"If Baal really is a god, he can defend himself when someone breaks down his altar\"?",
+  "options": [
+    "Joash",
+    "Purah",
+    "Heber",
+    "Othniel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Courage"
+  ],
+  "characters": [
+    "Joash",
+    "Gideon"
+  ],
+  "places": [
+    {
+      "name": "Ophrah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the townspeople wanted to kill Gideon, his father Joash said Baal should defend himself if he really was a god."
+}

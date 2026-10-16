@@ -1,0 +1,31 @@
+{
+  "id": "19-051-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 51,
+  "verse_reference": "Psalm 51:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In Psalm 51:5, what does David say about when he became sinful?",
+  "options": [
+    "He was sinful from birth",
+    "He became sinful as a king",
+    "He became sinful when he was a teenager",
+    "He became sinful after meeting Bathsheba"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said he was sinful at birth, from the time his mother conceived him."
+}

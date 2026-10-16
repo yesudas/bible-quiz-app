@@ -1,0 +1,30 @@
+{
+  "id": "23-008-010",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 8,
+  "verse_reference": "Isaiah 8:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Isaiah tell the people to consult?",
+  "options": [
+    "God's instruction and the testimony of warning",
+    "The stars in the sky",
+    "The kings of the nations",
+    "The wise men of Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 8:20 says, 'Consult God's instruction and the testimony of warning.'"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "17-008-005",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 8,
+  "verse_reference": "Esther 8:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why could the king not simply cancel Haman's first decree?",
+  "options": [
+    "A document written in the king's name and sealed with his ring could not be revoked",
+    "Haman's sons still had the signet ring",
+    "The decree had already been carried out",
+    "The nobles refused to allow it"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Xerxes",
+    "Esther",
+    "Mordecai"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king said no document written in the king's name and sealed with his ring can be revoked, so he allowed another decree to be written for the Jews."
+}

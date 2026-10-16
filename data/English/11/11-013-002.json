@@ -1,0 +1,36 @@
+{
+  "id": "11-013-002",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 13,
+  "verse_reference": "1 Kings 13:2",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "The man of God said a son of the house of David would one day sacrifice the priests of the high places on the altar. What was his name?",
+  "options": [
+    "Hezekiah",
+    "Asa",
+    "Jehoshaphat",
+    "Josiah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Josiah"
+  ],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man of God cried out that a son named Josiah would be born to the house of David, and on the altar he would sacrifice the priests of the high places."
+}

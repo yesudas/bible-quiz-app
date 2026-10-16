@@ -1,0 +1,33 @@
+{
+  "id": "05-030-006",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 30,
+  "verse_reference": "Deuteronomy 30:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Moses said: \"The word is very near you; it is in your mouth and in your ___ so you may obey it.\"",
+  "options": [
+    "hand",
+    "home",
+    "memory",
+    "heart"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Obedience",
+    "Faith"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses told Israel the word was very near them, in their mouth and in their heart, so that they could obey it."
+}

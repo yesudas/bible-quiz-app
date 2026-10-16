@@ -1,0 +1,32 @@
+{
+  "id": "09-018-016",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 18,
+  "verse_reference": "1 Samuel 18:30",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened to David's name because of his success against the Philistines?",
+  "options": [
+    "It became well known",
+    "It was changed",
+    "It was forgotten",
+    "It was written on the temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David met with more success than the rest of Saul's officers, and his name became well known."
+}

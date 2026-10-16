@@ -1,0 +1,30 @@
+{
+  "id": "19-100-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 100,
+  "verse_reference": "Psalm 100 (title)",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to its title, Psalm 100 is a psalm for giving what kind of praise?",
+  "options": [
+    "Sorrowful praise",
+    "Grateful praise",
+    "Royal praise",
+    "Silent praise"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title says Psalm 100 is a psalm for giving grateful praise."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12-002-019",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 2,
+  "verse_reference": "2 Kings 2:23",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "On the road to Bethel, who jeered at Elisha and called him \"baldy\"?",
+  "options": [
+    "Some soldiers",
+    "The prophets of Baal",
+    "Some boys",
+    "The men of Jericho"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As Elisha was going up to Bethel, some boys came out of the town and jeered at him, saying 'Get out of here, baldy!'"
+}

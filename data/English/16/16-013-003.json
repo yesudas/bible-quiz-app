@@ -1,0 +1,38 @@
+{
+  "id": "16-013-003",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 13,
+  "verse_reference": "Nehemiah 13:4-5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which priest gave Tobiah a large room in the house of God?",
+  "options": [
+    "Ezra",
+    "Zadok",
+    "Eliashib",
+    "Shemaiah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Eliashib",
+    "Tobiah"
+  ],
+  "places": [
+    {
+      "name": "House of God",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eliashib the priest, who was in charge of the storerooms and closely associated with Tobiah, gave him a large room in the house of God."
+}

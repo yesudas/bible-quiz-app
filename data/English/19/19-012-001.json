@@ -1,0 +1,33 @@
+{
+  "id": "19-012-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 12,
+  "verse_reference": "Psalm 12:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why does David cry out, \"Help, LORD,\" at the start of Psalm 12?",
+  "options": [
+    "Because his army was defeated",
+    "Because no one is faithful anymore",
+    "Because there was a famine",
+    "Because he was sick"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Sin"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 12:1 says, \"Help, LORD, for no one is faithful anymore; those who are loyal have vanished from the human race.\""
+}

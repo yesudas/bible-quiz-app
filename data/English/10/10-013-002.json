@@ -1,0 +1,33 @@
+{
+  "id": "10-013-002",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 13,
+  "verse_reference": "2 Samuel 13:3",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was Amnon's very shrewd adviser and David's nephew?",
+  "options": [
+    "Jonadab",
+    "Hushai",
+    "Ahithophel",
+    "Joab"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Sin"
+  ],
+  "characters": [
+    "Jonadab",
+    "Amnon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amnon had an adviser named Jonadab son of Shimeah, David's brother. Jonadab was a very shrewd man."
+}

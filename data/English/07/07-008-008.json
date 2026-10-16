@@ -1,0 +1,36 @@
+{
+  "id": "07-008-008",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 8,
+  "verse_reference": "Judges 8:14",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "A young man of Sukkoth wrote down the names of Sukkoth's officials and elders for Gideon. How many were there?",
+  "options": [
+    "Seventy-seven",
+    "Seventy",
+    "Twelve",
+    "Three hundred"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [
+    {
+      "name": "Sukkoth",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon caught a young man of Sukkoth, who wrote down the names of the seventy-seven officials of Sukkoth, the elders of the town."
+}

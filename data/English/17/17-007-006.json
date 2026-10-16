@@ -1,0 +1,38 @@
+{
+  "id": "17-007-006",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 7,
+  "verse_reference": "Esther 7:7-8",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "What was Haman doing when the king came back from the palace garden?",
+  "options": [
+    "Running away from the palace",
+    "Writing a new decree",
+    "Falling on the couch where Esther was reclining, begging for his life",
+    "Talking with his wife Zeresh"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Haman",
+    "Esther",
+    "Xerxes"
+  ],
+  "places": [
+    {
+      "name": "Palace garden",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Haman stayed behind to beg Esther for his life, and when the king returned, Haman was falling on the couch where Esther was reclining."
+}

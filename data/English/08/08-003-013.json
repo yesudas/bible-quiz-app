@@ -1,0 +1,39 @@
+{
+  "id": "08-003-013",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 3,
+  "verse_reference": "Ruth 3:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Boaz put into Ruth's shawl?",
+  "options": [
+    "Ten pieces of silver",
+    "A loaf of bread",
+    "Two measures of wheat",
+    "Six measures of barley"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Generosity",
+    "Provision"
+  ],
+  "characters": [
+    "Boaz",
+    "Ruth"
+  ],
+  "places": [
+    {
+      "name": "Threshing floor",
+      "type": "threshing floor"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Boaz told Ruth to hold out her shawl, and he poured six measures of barley into it."
+}

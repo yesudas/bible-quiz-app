@@ -1,0 +1,39 @@
+{
+  "id": "22-004-004",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 4,
+  "verse_reference": "Song of Songs 4:8",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "The beloved asks his bride to come with him from which place?",
+  "options": [
+    "Egypt",
+    "Moab",
+    "Damascus",
+    "Lebanon"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Marriage"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Lebanon",
+      "type": "region"
+    },
+    {
+      "name": "Hermon",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Song of Songs 4:8 he says, \"Come with me from Lebanon, my bride,\" naming peaks such as Amana, Senir and Hermon."
+}

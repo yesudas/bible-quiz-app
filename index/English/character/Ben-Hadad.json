@@ -1,0 +1,29 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Ben-Hadad",
+    "label": "Ben-Hadad",
+    "count": 19,
+    "paths": [
+        "English/11/11-015-009.json",
+        "English/11/11-020-001.json",
+        "English/11/11-020-002.json",
+        "English/11/11-020-003.json",
+        "English/11/11-020-004.json",
+        "English/11/11-020-006.json",
+        "English/11/11-020-007.json",
+        "English/11/11-020-008.json",
+        "English/11/11-020-009.json",
+        "English/11/11-020-013.json",
+        "English/11/11-020-014.json",
+        "English/11/11-020-016.json",
+        "English/12/12-006-014.json",
+        "English/12/12-008-006.json",
+        "English/12/12-008-007.json",
+        "English/12/12-008-011.json",
+        "English/12/12-013-002.json",
+        "English/12/12-013-014.json",
+        "English/14/14-016-003.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

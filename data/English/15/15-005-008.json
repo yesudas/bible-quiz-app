@@ -1,0 +1,38 @@
+{
+  "id": "15-005-008",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 5,
+  "verse_reference": "Ezra 5:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Tattenai ask King Darius to do?",
+  "options": [
+    "Send an army to Jerusalem",
+    "Punish the prophets",
+    "Give more gold for the temple",
+    "Search the royal archives for Cyrus's decree"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Tattenai",
+    "Darius",
+    "Cyrus"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The letter asked the king to search the royal archives of Babylon to see if Cyrus had issued a decree to rebuild the house of God."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16-004-012",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 4,
+  "verse_reference": "Nehemiah 4:23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How ready did Nehemiah and his men stay during the danger?",
+  "options": [
+    "They slept outside the city",
+    "They changed guards every hour",
+    "They left their weapons with the priests",
+    "They did not take off their clothes, and each kept his weapon, even when going for water"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Faith"
+  ],
+  "characters": [
+    "Nehemiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Neither Nehemiah nor his men took off their clothes, and each had his weapon, even when he went for water."
+}

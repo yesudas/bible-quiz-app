@@ -1,0 +1,31 @@
+{
+  "id": "19-115-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 115,
+  "verse_reference": "Psalm 115:3",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "According to Psalm 115, where is our God?",
+  "options": [
+    "On a mountain",
+    "In a statue",
+    "In heaven",
+    "In the sea"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Kingdom of God"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Our God is in heaven; He does whatever pleases Him."
+}

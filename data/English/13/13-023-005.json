@@ -1,0 +1,31 @@
+{
+  "id": "13-023-005",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 23,
+  "verse_reference": "1 Chronicles 23:24-27",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to David's last instructions, from what age were the Levites counted?",
+  "options": [
+    "Fifteen years old or more",
+    "Twenty years old or more",
+    "Thirty years old or more",
+    "Forty years old or more"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "According to the last instructions of David, the Levites were counted from those twenty years old or more."
+}

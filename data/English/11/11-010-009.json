@@ -1,0 +1,32 @@
+{
+  "id": "11-010-009",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 10,
+  "verse_reference": "1 Kings 10:18-20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was on the steps of Solomon's great throne?",
+  "options": [
+    "Twelve eagles",
+    "Seven angels",
+    "Four bulls",
+    "Twelve lions"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The throne had six steps with twelve lions standing on them, one at either end of each step; nothing like it was ever made for any other kingdom."
+}

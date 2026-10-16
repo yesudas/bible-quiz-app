@@ -1,0 +1,38 @@
+{
+  "id": "12-012-007",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 12,
+  "verse_reference": "2 Kings 12:9",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jehoiada use to collect money for the temple repairs?",
+  "options": [
+    "A large clay jar",
+    "A chest with a hole in its lid",
+    "A leather bag",
+    "A golden bowl"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Worship"
+  ],
+  "characters": [
+    "Jehoiada"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoiada took a chest, bored a hole in its lid and placed it beside the altar for the money."
+}

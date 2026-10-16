@@ -1,0 +1,42 @@
+{
+  "id": "09-023-012",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 23,
+  "verse_reference": "1 Samuel 23:19",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which people went to Saul at Gibeah to betray where David was hiding?",
+  "options": [
+    "The Ziphites",
+    "The men of Keilah",
+    "The Philistines",
+    "The Moabites"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Persecution"
+  ],
+  "characters": [
+    "Saul",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Gibeah",
+      "type": "town"
+    },
+    {
+      "name": "Desert of Ziph",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Ziphites went up to Saul at Gibeah and said David was hiding among them."
+}

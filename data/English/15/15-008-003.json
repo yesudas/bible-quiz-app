@@ -1,0 +1,37 @@
+{
+  "id": "15-008-003",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 8,
+  "verse_reference": "Ezra 8:17",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "To whom did Ezra send men to ask for ministers for the house of God?",
+  "options": [
+    "Iddo",
+    "Tattenai",
+    "Rehum",
+    "Shecaniah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Ezra",
+    "Iddo"
+  ],
+  "places": [
+    {
+      "name": "Kasiphia",
+      "type": "place"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra sent men to Iddo, the leader in Kasiphia, to bring ministers for the house of God."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12-012-008",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 12,
+  "verse_reference": "2 Kings 12:9",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Jehoiada place the chest for the money?",
+  "options": [
+    "Beside the altar, on the right side as one enters the temple",
+    "At the city gate",
+    "In the king's palace",
+    "In the Most Holy Place"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Jehoiada"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He placed the chest beside the altar, on the right side as one enters the temple of the LORD."
+}

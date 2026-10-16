@@ -1,0 +1,41 @@
+{
+  "id": "09-030-016",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 30,
+  "verse_reference": "1 Samuel 30:26",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "To whom did David send some of the plunder as a gift?",
+  "options": [
+    "The elders of Judah",
+    "King Achish",
+    "Saul",
+    "The priests at Nob"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Money"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Ziklag",
+      "type": "town"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When David reached Ziklag, he sent some of the plunder to the elders of Judah, saying, \"Here is a gift for you from the plunder of the LORD's enemies.\""
+}

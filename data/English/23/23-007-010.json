@@ -1,0 +1,38 @@
+{
+  "id": "23-007-010",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 7,
+  "verse_reference": "Isaiah 7:18",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "The LORD would whistle for flies from Egypt and what from Assyria?",
+  "options": [
+    "Locusts",
+    "Bees",
+    "Hornets",
+    "Birds"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 7:18 says the LORD will whistle for flies from the Nile delta in Egypt and for bees from the land of Assyria."
+}

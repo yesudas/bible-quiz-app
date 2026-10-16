@@ -1,0 +1,33 @@
+{
+  "id": "18-001-010",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 1,
+  "verse_reference": "Job 1:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What limit did the LORD place on Satan in Job 1?",
+  "options": [
+    "He could not touch Job's animals",
+    "He could not touch Job's children",
+    "He could not lay a finger on Job himself",
+    "He could only test Job for seven days"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Satan",
+    "Suffering"
+  ],
+  "characters": [
+    "Satan",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said everything Job had was in Satan's power, but Satan must not lay a finger on Job himself."
+}

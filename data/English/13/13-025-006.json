@@ -1,0 +1,29 @@
+{
+  "id": "13-025-006",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 25,
+  "verse_reference": "1 Chronicles 25:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many trained and skilled musicians were there in all?",
+  "options": [
+    "120",
+    "288",
+    "4,000",
+    "24,000"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Along with their relatives, all trained and skilled in music for the LORD, they numbered 288."
+}

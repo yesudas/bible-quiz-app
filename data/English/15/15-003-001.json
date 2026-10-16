@@ -1,0 +1,34 @@
+{
+  "id": "15-003-001",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 3,
+  "verse_reference": "Ezra 3:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "In which month did the people assemble together as one in Jerusalem?",
+  "options": [
+    "The first month",
+    "The seventh month",
+    "The tenth month",
+    "The twelfth month"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the seventh month came, the people assembled together as one in Jerusalem."
+}

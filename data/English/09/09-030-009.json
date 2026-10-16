@@ -1,0 +1,34 @@
+{
+  "id": "09-030-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 30,
+  "verse_reference": "1 Samuel 30:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why had the Egyptian been left behind?",
+  "options": [
+    "He had run away",
+    "His master abandoned him when he became ill",
+    "He was a prisoner",
+    "He was guarding the camp"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Field",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He said he was the slave of an Amalekite, and his master abandoned him when he became ill three days before."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "19-119-018",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 119,
+  "verse_reference": "Psalm 119:105",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Your word is a ______ for my feet, a light on my path.\"",
+  "options": [
+    "guide",
+    "lamp",
+    "road",
+    "shield"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 119:105 says God's word is a lamp for our feet and a light on our path."
+}

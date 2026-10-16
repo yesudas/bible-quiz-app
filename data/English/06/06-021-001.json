@@ -1,0 +1,40 @@
+{
+  "id": "06-021-001",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 21,
+  "verse_reference": "Joshua 21:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Levites ask Eleazar and Joshua to give them?",
+  "options": [
+    "A large territory like the other tribes",
+    "Towns to live in with pasturelands for their livestock",
+    "Gold from the treasury",
+    "Their own king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Promise"
+  ],
+  "characters": [
+    "Eleazar",
+    "Joshua",
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Levites said the LORD had commanded through Moses that they be given towns to live in, with pasturelands for their livestock."
+}

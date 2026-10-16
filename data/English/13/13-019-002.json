@@ -1,0 +1,38 @@
+{
+  "id": "13-019-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 19,
+  "verse_reference": "1 Chronicles 19:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did David want to show kindness to Hanun?",
+  "options": [
+    "Hanun had helped David fight the Philistines",
+    "Hanun was David's relative",
+    "Hanun's father Nahash had shown kindness to David",
+    "Hanun had sent David gifts"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Kindness"
+  ],
+  "characters": [
+    "David",
+    "Hanun",
+    "Nahash"
+  ],
+  "places": [
+    {
+      "name": "Ammon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said, \"I will show kindness to Hanun son of Nahash, because his father showed kindness to me.\""
+}

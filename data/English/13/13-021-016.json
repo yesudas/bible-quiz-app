@@ -1,0 +1,36 @@
+{
+  "id": "13-021-016",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 21,
+  "verse_reference": "1 Chronicles 21:27",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the angel do when the LORD spoke to him after David's sacrifice?",
+  "options": [
+    "He struck Jerusalem",
+    "He flew to heaven",
+    "He put his sword back into its sheath",
+    "He blessed David"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mercy",
+    "Angels"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD spoke to the angel, and he put his sword back into its sheath."
+}

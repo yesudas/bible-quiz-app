@@ -1,0 +1,36 @@
+{
+  "id": "19-118-011",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 118,
+  "verse_reference": "Psalm 118:26",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Blessed is he who comes in the ______ of the LORD.\"",
+  "options": [
+    "power",
+    "house",
+    "name",
+    "glory"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 118:26 says, \"Blessed is he who comes in the name of the LORD. From the house of the LORD we bless you.\""
+}

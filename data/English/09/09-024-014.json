@@ -1,0 +1,33 @@
+{
+  "id": "09-024-014",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 24,
+  "verse_reference": "1 Samuel 24:21-22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Saul ask David to swear to him?",
+  "options": [
+    "That David would never return to Gibeah",
+    "That David would give Saul his army",
+    "That David would not kill off his descendants or wipe out his name",
+    "That David would marry Merab"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Family"
+  ],
+  "characters": [
+    "Saul",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul asked David to swear by the LORD that he would not kill off his descendants or wipe out his name from his father's family. David gave his oath."
+}

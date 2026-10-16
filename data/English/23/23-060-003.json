@@ -1,0 +1,34 @@
+{
+  "id": "23-060-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 60,
+  "verse_reference": "Isaiah 60:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What will those from Sheba bring, according to Isaiah 60:6?",
+  "options": [
+    "Silver and bronze",
+    "Wool and linen",
+    "Gold and incense",
+    "Horses and chariots"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sheba",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 60:6 says, 'And all from Sheba will come, bearing gold and incense and proclaiming the praise of the LORD.'"
+}

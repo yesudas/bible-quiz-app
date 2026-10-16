@@ -1,0 +1,37 @@
+{
+  "id": "19-048-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 48,
+  "verse_reference": "Psalm 48:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 48:7, God destroyed the enemy kings like ships of Tarshish shattered by what?",
+  "options": [
+    "A great storm",
+    "A west wind",
+    "Rocks in the sea",
+    "An east wind"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Protection"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "Tarshish",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 48:7 says, \"You destroyed them like ships of Tarshish shattered by an east wind.\""
+}

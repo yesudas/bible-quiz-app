@@ -1,0 +1,33 @@
+{
+  "id": "13-006-006",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 6,
+  "verse_reference": "1 Chronicles 6:28",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who were the two sons of Samuel?",
+  "options": [
+    "Hophni and Phinehas",
+    "Nadab and Abihu",
+    "Joel and Abijah",
+    "Eli and Ichabod"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Samuel",
+    "Joel",
+    "Abijah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 6:28 names Joel the firstborn and Abijah the second as the sons of Samuel."
+}

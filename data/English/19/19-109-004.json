@@ -1,0 +1,32 @@
+{
+  "id": "19-109-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 109,
+  "verse_reference": "Psalm 109:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"May his days be few; may another take his place of ______.\"",
+  "options": [
+    "worship",
+    "rest",
+    "honor",
+    "leadership"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David prayed that the days of his wicked accuser would be few and that another would take his place of leadership."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "19-056-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 56,
+  "verse_reference": "Psalm 56 (title)",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to the title of Psalm 56, in which city had the Philistines seized David?",
+  "options": [
+    "Ekron",
+    "Gath",
+    "Gaza",
+    "Ashdod"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Gath",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title says David wrote this psalm when the Philistines had seized him in Gath."
+}

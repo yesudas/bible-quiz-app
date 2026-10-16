@@ -1,0 +1,42 @@
+{
+  "id": "09-005-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 5,
+  "verse_reference": "1 Samuel 5:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What had happened to the statue of Dagon the next morning?",
+  "options": [
+    "It had fallen on its face before the ark",
+    "It had been stolen",
+    "It had turned to dust",
+    "It had moved outside the temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Miracles"
+  ],
+  "characters": [
+    "Dagon"
+  ],
+  "places": [
+    {
+      "name": "Ashdod",
+      "type": "city"
+    },
+    {
+      "name": "Temple of Dagon",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the people of Ashdod rose early the next day, Dagon had fallen on his face on the ground before the ark of the LORD."
+}

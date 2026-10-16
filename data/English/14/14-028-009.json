@@ -1,0 +1,37 @@
+{
+  "id": "14-028-009",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 28,
+  "verse_reference": "2 Chronicles 28:16",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "To whom did King Ahaz send for help?",
+  "options": [
+    "The king of Egypt",
+    "The kings of Assyria",
+    "The king of Tyre",
+    "The king of Moab"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Faith"
+  ],
+  "characters": [
+    "Ahaz"
+  ],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At that time King Ahaz sent to the kings of Assyria for help."
+}

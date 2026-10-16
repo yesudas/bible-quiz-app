@@ -1,0 +1,33 @@
+{
+  "id": "12-005-013",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 5,
+  "verse_reference": "2 Kings 5:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Elisha do when Naaman offered him a gift?",
+  "options": [
+    "He refused to accept anything",
+    "He took only the silver",
+    "He gave it to the poor",
+    "He sent it to the king of Israel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Elisha",
+    "Naaman"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Even though Naaman urged him, Elisha refused to accept anything."
+}

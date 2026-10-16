@@ -1,0 +1,39 @@
+{
+  "id": "09-016-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 16,
+  "verse_reference": "1 Samuel 16:1",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "To which town did the LORD send Samuel to anoint a new king?",
+  "options": [
+    "Bethlehem",
+    "Hebron",
+    "Gibeah",
+    "Jerusalem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Prophecy"
+  ],
+  "characters": [
+    "Samuel",
+    "Jesse"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Samuel to fill his horn with oil and go to Jesse of Bethlehem, because He had chosen one of Jesse's sons to be king."
+}

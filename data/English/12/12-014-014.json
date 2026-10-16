@@ -1,0 +1,35 @@
+{
+  "id": "12-014-014",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 14,
+  "verse_reference": "2 Kings 14:25",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "The prophet Jonah son of Amittai came from which town?",
+  "options": [
+    "Gath Hepher",
+    "Tekoa",
+    "Anathoth",
+    "Tishbe"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [
+    {
+      "name": "Gath Hepher",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonah son of Amittai was the prophet from Gath Hepher."
+}

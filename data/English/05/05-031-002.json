@@ -1,0 +1,38 @@
+{
+  "id": "05-031-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 31,
+  "verse_reference": "Deuteronomy 31:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who did Moses say would cross over ahead of Israel as their leader?",
+  "options": [
+    "Joshua",
+    "Caleb",
+    "Eleazar",
+    "Aaron"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Promise"
+  ],
+  "characters": [
+    "Moses",
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Jordan",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses said the Lord Himself would cross over ahead of them to destroy the nations, and Joshua would cross over as their leader."
+}

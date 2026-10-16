@@ -1,0 +1,38 @@
+{
+  "id": "18-042-004",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 42,
+  "verse_reference": "Job 42:7",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "To which of Job's friends did the LORD speak after speaking to Job?",
+  "options": [
+    "Elihu",
+    "Bildad",
+    "Zophar",
+    "Eliphaz"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "God",
+    "Eliphaz"
+  ],
+  "places": [
+    {
+      "name": "Teman",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said to Eliphaz the Temanite, 'I am angry with you and your two friends.'"
+}

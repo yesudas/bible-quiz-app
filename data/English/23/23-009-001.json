@@ -1,0 +1,46 @@
+{
+  "id": "23-009-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 9,
+  "verse_reference": "Isaiah 9:1",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In the future, which region did Isaiah say the LORD would honor?",
+  "options": [
+    "Moab of the plains",
+    "Edom of the mountains",
+    "Galilee of the nations",
+    "Gilead of the east"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Galilee",
+      "type": "region"
+    },
+    {
+      "name": "Zebulun",
+      "type": "region"
+    },
+    {
+      "name": "Naphtali",
+      "type": "region"
+    },
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 9:1 says that in the past He humbled Zebulun and Naphtali, but in the future He will honor Galilee of the nations."
+}

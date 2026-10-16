@@ -1,0 +1,34 @@
+{
+  "id": "07-020-015",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 20,
+  "verse_reference": "Judges 20:47",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did six hundred Benjamites flee and stay for four months?",
+  "options": [
+    "The rock of Rimmon",
+    "The cave of Adullam",
+    "Mount Gilboa",
+    "The rock of Etam"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Rock of Rimmon",
+      "type": "landmark"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Six hundred men turned and fled into the wilderness to the rock of Rimmon, where they stayed four months."
+}

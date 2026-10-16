@@ -1,0 +1,38 @@
+{
+  "id": "23-013-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 13,
+  "verse_reference": "Isaiah 13:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Isaiah 13 begins a prophecy against which city?",
+  "options": [
+    "Nineveh",
+    "Babylon",
+    "Damascus",
+    "Tyre"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Isaiah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 13:1 says, 'A prophecy against Babylon that Isaiah son of Amoz saw.'"
+}

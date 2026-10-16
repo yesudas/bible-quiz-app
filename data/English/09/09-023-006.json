@@ -1,0 +1,37 @@
+{
+  "id": "09-023-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 23,
+  "verse_reference": "1 Samuel 23:11-12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When David asked if the citizens of Keilah would surrender him to Saul, what did the LORD answer?",
+  "options": [
+    "\"They will not.\"",
+    "\"Saul will not come.\"",
+    "\"They will.\"",
+    "\"Stay and fight.\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "David",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Keilah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David asked, \"Will the citizens of Keilah surrender me and my men to Saul?\" And the LORD said, \"They will.\""
+}

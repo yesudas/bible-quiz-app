@@ -1,0 +1,36 @@
+{
+  "id": "14-028-012",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 28,
+  "verse_reference": "2 Chronicles 28:23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Ahaz offer sacrifices to the gods of Damascus?",
+  "options": [
+    "He thought they had helped Aram, so they would help him",
+    "The king of Aram forced him",
+    "The priests told him to",
+    "He wanted to trick Aram"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Ahaz"
+  ],
+  "places": [
+    {
+      "name": "Damascus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahaz said, \"Since the gods of the kings of Aram have helped them, I will sacrifice to them so that they will help me,\" but they were his downfall."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "12-021-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 21,
+  "verse_reference": "2 Kings 21:13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "The LORD said He would wipe out Jerusalem like wiping what?",
+  "options": [
+    "A dish",
+    "A table",
+    "A window",
+    "A floor"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said He would wipe out Jerusalem as one wipes a dish, wiping it and turning it upside down."
+}

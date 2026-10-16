@@ -1,0 +1,38 @@
+{
+  "id": "05-004-014",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 4,
+  "verse_reference": "Deuteronomy 4:37",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Moses, why did God bring Israel out of Egypt by His great power?",
+  "options": [
+    "Because Israel deserved it",
+    "Because the Egyptians asked Him to",
+    "Because of Israel's great strength",
+    "Because He loved their ancestors and chose their descendants"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Covenant",
+    "Salvation"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses said that because God loved their ancestors and chose their descendants, He personally brought Israel out of Egypt by His great power."
+}

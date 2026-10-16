@@ -1,0 +1,34 @@
+{
+  "id": "19-044-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 44,
+  "verse_reference": "Psalm 44:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 44:1, who told the people what God did in days long ago?",
+  "options": [
+    "The prophets",
+    "Their ancestors",
+    "The kings",
+    "The angels"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Faith"
+  ],
+  "characters": [
+    "Sons of Korah",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 44:1 says, \"We have heard it with our ears, O God; our ancestors have told us what you did in their days, in days long ago.\""
+}

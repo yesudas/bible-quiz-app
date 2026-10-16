@@ -1,0 +1,31 @@
+{
+  "id": "18-001-011",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 1,
+  "verse_reference": "Job 1:14-15",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who attacked and carried off Job's oxen and donkeys?",
+  "options": [
+    "The Chaldeans",
+    "The Sabeans",
+    "The Philistines",
+    "The Amalekites"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A messenger reported that the Sabeans attacked, carried off the oxen and donkeys, and killed the servants."
+}

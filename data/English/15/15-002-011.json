@@ -1,0 +1,30 @@
+{
+  "id": "15-002-011",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 2,
+  "verse_reference": "Ezra 2:69",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Besides gold and silver, what did the people give for the work, according to their ability?",
+  "options": [
+    "Bronze shields",
+    "Cedar logs",
+    "Priestly garments",
+    "Sheep and goats"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They gave gold, silver and 100 priestly garments to the treasury for the work."
+}

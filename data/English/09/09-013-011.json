@@ -1,0 +1,34 @@
+{
+  "id": "09-013-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 13,
+  "verse_reference": "1 Samuel 13:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was there not a blacksmith in the whole land of Israel?",
+  "options": [
+    "All the blacksmiths had died in battle",
+    "Israel had no iron",
+    "The Philistines did not want the Hebrews to make swords or spears",
+    "Samuel forbade blacksmiths"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Not a blacksmith could be found in Israel, because the Philistines had said, \"Otherwise the Hebrews will make swords or spears!\""
+}

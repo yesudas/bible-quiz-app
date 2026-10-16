@@ -1,0 +1,35 @@
+{
+  "id": "06-009-006",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 9,
+  "verse_reference": "Joshua 9:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What reason did the Gibeonites give for coming to Israel?",
+  "options": [
+    "They wanted to trade",
+    "The fame of the LORD Israel's God",
+    "They were looking for food",
+    "They wanted to see the ark"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Fear of God"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gibeon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They said they had come because of the fame of the LORD, having heard all He did in Egypt and to the Amorite kings."
+}

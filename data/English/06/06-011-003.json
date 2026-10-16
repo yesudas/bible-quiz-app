@@ -1,0 +1,35 @@
+{
+  "id": "06-011-003",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 11,
+  "verse_reference": "Joshua 11:5",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the northern kings camp together to fight Israel?",
+  "options": [
+    "At the Waters of Merom",
+    "At the Jordan River",
+    "At Gilgal",
+    "At Mount Ebal"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Waters of Merom",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The kings joined forces and made camp together at the Waters of Merom to fight against Israel."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20-023-010",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 23,
+  "verse_reference": "Proverbs 23:31-32",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "According to Proverbs 23:32, in the end wine bites like what?",
+  "options": [
+    "A lion",
+    "A dog",
+    "A wolf",
+    "A snake"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Temptation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 23:31-32 warns not to gaze at wine, for in the end it bites like a snake and poisons like a viper."
+}

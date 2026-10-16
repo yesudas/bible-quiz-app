@@ -1,0 +1,38 @@
+{
+  "id": "11-018-005",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 18,
+  "verse_reference": "1 Kings 18:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Elijah, who had really brought trouble on Israel?",
+  "options": [
+    "Ahab and his father's family, who abandoned the LORD's commands and followed the Baals",
+    "Elijah himself",
+    "Obadiah",
+    "The people of Judah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Elijah",
+    "Ahab"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elijah said he had not made trouble for Israel, but Ahab and his father's family had, by abandoning the LORD's commands and following the Baals."
+}

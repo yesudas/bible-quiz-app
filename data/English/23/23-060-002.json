@@ -1,0 +1,30 @@
+{
+  "id": "23-060-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 60,
+  "verse_reference": "Isaiah 60:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Isaiah 60:3, who will come to the brightness of God's people's dawn?",
+  "options": [
+    "Shepherds",
+    "Kings",
+    "Prophets",
+    "Soldiers"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mission",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 60:3 says, 'Nations will come to your light, and kings to the brightness of your dawn.'"
+}

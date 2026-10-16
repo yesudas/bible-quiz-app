@@ -1,0 +1,38 @@
+{
+  "id": "11-019-003",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 19,
+  "verse_reference": "1 Kings 19:4",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Under what did Elijah sit down in the wilderness and pray that he might die?",
+  "options": [
+    "An oak tree",
+    "A fig tree",
+    "A broom bush",
+    "A palm tree"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Prayer"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elijah went a day's journey into the wilderness, sat down under a broom bush and prayed that he might die."
+}

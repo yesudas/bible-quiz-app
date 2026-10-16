@@ -1,0 +1,36 @@
+{
+  "id": "12-012-002",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 12,
+  "verse_reference": "2 Kings 12:1",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Joash's mother Zibiah came from which town?",
+  "options": [
+    "Bethlehem",
+    "Hebron",
+    "Beersheba",
+    "Jezreel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Joash",
+    "Zibiah"
+  ],
+  "places": [
+    {
+      "name": "Beersheba",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "His mother's name was Zibiah; she was from Beersheba."
+}

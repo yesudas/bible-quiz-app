@@ -1,0 +1,37 @@
+{
+  "id": "09-025-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 25,
+  "verse_reference": "1 Samuel 25:7-8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did David think Nabal should share food with his men?",
+  "options": [
+    "David was the king",
+    "Nabal owed David money",
+    "Samuel had told Nabal to",
+    "David's men had not mistreated Nabal's shepherds or taken anything from them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "David",
+    "Nabal"
+  ],
+  "places": [
+    {
+      "name": "Carmel",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David's men told Nabal that when his shepherds were with them, they did not mistreat them, and nothing of theirs was missing."
+}

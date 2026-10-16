@@ -1,0 +1,33 @@
+{
+  "id": "19-037-011",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 37,
+  "verse_reference": "Psalm 37:39",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 37:39, where does the salvation of the righteous come from?",
+  "options": [
+    "From their good deeds",
+    "From their kings",
+    "From the LORD",
+    "From their army"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Protection"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 37:39 says, \"The salvation of the righteous comes from the LORD; he is their stronghold in time of trouble.\""
+}

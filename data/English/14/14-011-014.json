@@ -1,0 +1,40 @@
+{
+  "id": "14-011-014",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 11,
+  "verse_reference": "2 Chronicles 11:23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Rehoboam do with his other sons?",
+  "options": [
+    "He sent them to Egypt",
+    "He made them priests",
+    "He dispersed them to the fortified cities of Judah and Benjamin",
+    "He kept them all in Jerusalem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Rehoboam"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    },
+    {
+      "name": "Benjamin",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rehoboam acted wisely, dispersing his sons throughout Judah and Benjamin and to all the fortified cities, giving them abundant provisions."
+}

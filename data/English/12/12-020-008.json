@@ -1,0 +1,37 @@
+{
+  "id": "12-020-008",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 20,
+  "verse_reference": "2 Kings 20:11",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "On what did the shadow go back ten steps?",
+  "options": [
+    "The stairway of Ahaz",
+    "The temple steps",
+    "The palace wall",
+    "The city gate"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Prayer"
+  ],
+  "characters": [
+    "Isaiah",
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Stairway of Ahaz",
+      "type": "stairway"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah called on the LORD, and the LORD made the shadow go back the ten steps it had gone down on the stairway of Ahaz."
+}

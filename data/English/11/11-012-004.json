@@ -1,0 +1,33 @@
+{
+  "id": "11-012-004",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 12,
+  "verse_reference": "1 Kings 12:8",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "After rejecting the elders' advice, whom did Rehoboam listen to?",
+  "options": [
+    "The prophets",
+    "The priests",
+    "Jeroboam",
+    "The young men who had grown up with him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Wisdom"
+  ],
+  "characters": [
+    "Rehoboam"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rehoboam rejected the elders' advice and consulted the young men who had grown up with him and were serving him."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "05-023-008",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 23,
+  "verse_reference": "Deuteronomy 23:24-25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was allowed when walking through a neighbor's vineyard or grainfield?",
+  "options": [
+    "Eating your fill by hand, but not filling a basket or using a sickle",
+    "Taking as much as could be carried home",
+    "Harvesting a full row",
+    "Nothing at all could be touched"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Mercy",
+    "Law",
+    "Money"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A person could eat their fill of grapes or pluck heads of grain by hand, but could not put grapes in a basket or put a sickle to the standing grain."
+}

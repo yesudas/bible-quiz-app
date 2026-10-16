@@ -1,0 +1,38 @@
+{
+  "id": "19-027-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 27,
+  "verse_reference": "Psalm 27:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In Psalm 27:4, what is the one thing David asks of the LORD?",
+  "options": [
+    "To defeat all his enemies",
+    "To dwell in the house of the LORD all the days of his life",
+    "To have a long and rich life",
+    "To build a great palace"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Prayer"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [
+    {
+      "name": "The house of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 27:4 says, \"One thing I ask from the LORD... that I may dwell in the house of the LORD all the days of my life.\""
+}

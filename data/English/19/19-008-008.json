@@ -1,0 +1,31 @@
+{
+  "id": "19-008-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 8,
+  "verse_reference": "Psalm 8:7-8",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which group is NOT listed in Psalm 8:7-8 as being put under human rule?",
+  "options": [
+    "Flocks and herds",
+    "Birds in the sky",
+    "Fish in the sea",
+    "Stars in the heavens"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 8:7-8 lists flocks and herds, the animals of the wild, the birds in the sky, the fish in the sea and all that swim the paths of the seas. The stars are not in the list."
+}

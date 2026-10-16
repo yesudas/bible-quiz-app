@@ -1,0 +1,43 @@
+{
+  "id": "15-003-002",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 3,
+  "verse_reference": "Ezra 3:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jeshua and Zerubbabel build first so they could offer burnt offerings?",
+  "options": [
+    "The city walls",
+    "The temple gates",
+    "The altar of the God of Israel",
+    "A house for the governor"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [
+    "Jeshua",
+    "Zerubbabel"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Altar of the God of Israel",
+      "type": "altar"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeshua and Zerubbabel began to build the altar of the God of Israel to sacrifice burnt offerings, as written in the Law of Moses."
+}

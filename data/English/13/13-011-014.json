@@ -1,0 +1,32 @@
+{
+  "id": "13-011-014",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 11,
+  "verse_reference": "1 Chronicles 11:25",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What position did David give Benaiah?",
+  "options": [
+    "Commander of the whole army",
+    "Keeper of the treasury",
+    "Head of the priests",
+    "In charge of his bodyguard"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Benaiah",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David put Benaiah in charge of his bodyguard."
+}

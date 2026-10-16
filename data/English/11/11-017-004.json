@@ -1,0 +1,38 @@
+{
+  "id": "11-017-004",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 17,
+  "verse_reference": "1 Kings 17:4,6",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What birds brought Elijah food while he hid by the brook?",
+  "options": [
+    "Doves",
+    "Eagles",
+    "Sparrows",
+    "Ravens"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Faith"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [
+    {
+      "name": "Kerith Ravine",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD ordered ravens to feed Elijah, and they brought him bread and meat in the morning and in the evening."
+}

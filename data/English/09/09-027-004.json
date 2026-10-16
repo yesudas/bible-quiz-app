@@ -1,0 +1,38 @@
+{
+  "id": "09-027-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 27,
+  "verse_reference": "1 Samuel 27:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Saul do when he heard David had fled to Gath?",
+  "options": [
+    "He sent an army to Gath",
+    "He made peace with Achish",
+    "He asked Samuel for help",
+    "He no longer searched for him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Saul",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Gath",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Saul was told that David had fled to Gath, he no longer searched for him."
+}

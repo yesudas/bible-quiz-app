@@ -1,0 +1,34 @@
+{
+  "id": "07-005-002",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 5,
+  "verse_reference": "Judges 5:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"When the princes in Israel take the lead, when the people willingly offer themselves — ___ the LORD!\"",
+  "options": [
+    "fear",
+    "obey",
+    "serve",
+    "praise"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Deborah",
+    "Barak"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The song opens by praising the LORD because Israel's leaders took the lead and the people willingly offered themselves."
+}

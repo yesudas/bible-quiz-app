@@ -1,0 +1,24 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Ethan",
+    "label": "Ethan",
+    "count": 14,
+    "paths": [
+        "English/11/11-004-012.json",
+        "English/13/13-015-006.json",
+        "English/19/19-089-001.json",
+        "English/19/19-089-002.json",
+        "English/19/19-089-003.json",
+        "English/19/19-089-004.json",
+        "English/19/19-089-005.json",
+        "English/19/19-089-006.json",
+        "English/19/19-089-007.json",
+        "English/19/19-089-008.json",
+        "English/19/19-089-009.json",
+        "English/19/19-089-010.json",
+        "English/19/19-089-011.json",
+        "English/19/19-089-012.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

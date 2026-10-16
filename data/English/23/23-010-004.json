@@ -1,0 +1,34 @@
+{
+  "id": "23-010-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 10,
+  "verse_reference": "Isaiah 10:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What does Isaiah 10:15 teach with the picture of the ax and the person who swings it?",
+  "options": [
+    "The tool should not boast against the one who uses it",
+    "Axes are better than saws",
+    "The strongest worker wins",
+    "Trees should not be cut down"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Pride",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 10:15 asks, 'Does the ax raise itself above the person who swings it?' Assyria was only a tool in God's hand and had no reason to boast."
+}

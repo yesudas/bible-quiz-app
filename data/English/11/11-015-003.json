@@ -1,0 +1,32 @@
+{
+  "id": "11-015-003",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 15,
+  "verse_reference": "1 Kings 15:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "David did what was right in the LORD's eyes all his life except in the case of whom?",
+  "options": [
+    "Absalom",
+    "Saul",
+    "Uriah the Hittite",
+    "Goliath"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "David",
+    "Uriah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David had done what was right and had not failed to keep the LORD's commands all his life, except in the case of Uriah the Hittite."
+}

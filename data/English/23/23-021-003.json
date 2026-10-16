@@ -1,0 +1,35 @@
+{
+  "id": "23-021-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 21,
+  "verse_reference": "Isaiah 21:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: '______ has fallen, has fallen! All the images of its gods lie shattered on the ground!'",
+  "options": [
+    "Nineveh",
+    "Damascus",
+    "Tyre",
+    "Babylon"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 21:9 announces, 'Babylon has fallen, has fallen! All the images of its gods lie shattered on the ground!'"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "19-006-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 6,
+  "verse_reference": "Psalm 6:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why does David say his eyes grow weak and fail?",
+  "options": [
+    "Because of old age",
+    "Because of all his foes",
+    "Because he could not sleep",
+    "Because of the bright sun"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Persecution"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 6:7 says, \"My eyes grow weak with sorrow; they fail because of all my foes.\""
+}

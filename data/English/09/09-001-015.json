@@ -1,0 +1,39 @@
+{
+  "id": "09-001-015",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 1,
+  "verse_reference": "1 Samuel 1:27-28",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Hannah keep the vow she made in her prayer?",
+  "options": [
+    "She sacrificed a bull every year",
+    "She gave Samuel to the LORD for his whole life",
+    "She stayed at Shiloh as a servant",
+    "She named him after Eli"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [
+    "Hannah",
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hannah had vowed to give her son to the LORD. She said, \"So now I give him to the LORD. For his whole life he will be given over to the LORD.\""
+}

@@ -1,0 +1,37 @@
+{
+  "id": "19-048-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 48,
+  "verse_reference": "Psalm 48:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Great is the LORD, and most worthy of ____, in the city of our God.\"",
+  "options": [
+    "praise",
+    "gifts",
+    "silence",
+    "fear"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "The city of our God",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 48:1 says, \"Great is the LORD, and most worthy of praise, in the city of our God, his holy mountain.\""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "19-052-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 52,
+  "verse_reference": "Psalm 52 (title)",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Doeg, mentioned in the title of Psalm 52, came from which people?",
+  "options": [
+    "The Moabites",
+    "The Philistines",
+    "The Edomites",
+    "The Amalekites"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Doeg"
+  ],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title calls him Doeg the Edomite."
+}

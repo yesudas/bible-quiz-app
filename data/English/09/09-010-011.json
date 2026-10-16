@@ -1,0 +1,37 @@
+{
+  "id": "09-010-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 10,
+  "verse_reference": "1 Samuel 10:22",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "When Saul was chosen as king, where was he hiding?",
+  "options": [
+    "In a cave",
+    "Behind the altar",
+    "Among the supplies",
+    "In a tree"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Mizpah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they looked for Saul he could not be found. The LORD said, \"Yes, he has hidden himself among the supplies.\""
+}

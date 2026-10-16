@@ -1,0 +1,34 @@
+{
+  "id": "17-004-011",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 4,
+  "verse_reference": "Esther 4:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "And who knows but that you have come to your royal position for such a ___ as this?",
+  "options": [
+    "day",
+    "reason",
+    "time",
+    "purpose"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Courage",
+    "Providence"
+  ],
+  "characters": [
+    "Mordecai",
+    "Esther"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mordecai told Esther that perhaps she had come to her royal position for such a time as this."
+}

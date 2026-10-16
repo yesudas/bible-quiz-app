@@ -1,0 +1,39 @@
+{
+  "id": "09-021-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 21,
+  "verse_reference": "1 Samuel 21:12-13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did David pretend to be insane in Gath?",
+  "options": [
+    "To make people laugh",
+    "To get food",
+    "He was very much afraid of Achish",
+    "Achish told him to"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Wisdom"
+  ],
+  "characters": [
+    "David",
+    "Achish"
+  ],
+  "places": [
+    {
+      "name": "Gath",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David was very much afraid of Achish king of Gath, so he pretended to be insane in their presence."
+}

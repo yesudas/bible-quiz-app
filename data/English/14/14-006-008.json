@@ -1,0 +1,37 @@
+{
+  "id": "14-006-008",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 6,
+  "verse_reference": "2 Chronicles 6:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Solomon understand about God and the temple he had built?",
+  "options": [
+    "God would live only in the temple",
+    "Even the highest heavens cannot contain God, much less the temple",
+    "The temple was bigger than heaven",
+    "God needed the temple to rest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Prayer"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon asked, \"Will God really dwell on earth with humans?\" and said the highest heavens cannot contain Him, much less the temple."
+}

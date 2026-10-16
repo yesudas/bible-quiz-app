@@ -1,0 +1,33 @@
+{
+  "id": "10-017-004",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 17,
+  "verse_reference": "2 Samuel 17:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "To what animal did Hushai compare David and his men?",
+  "options": [
+    "A lion in the forest",
+    "A wild bear robbed of her cubs",
+    "A wolf at night",
+    "A charging bull"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Hushai",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hushai said David and his men were fighters, as fierce as a wild bear robbed of her cubs."
+}

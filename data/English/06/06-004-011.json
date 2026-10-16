@@ -1,0 +1,38 @@
+{
+  "id": "06-004-011",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 4,
+  "verse_reference": "Joshua 4:19",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "On what day did the people go up from the Jordan?",
+  "options": [
+    "The first day of the seventh month",
+    "The fourteenth day of the first month",
+    "The fifteenth day of the second month",
+    "The tenth day of the first month"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Remembrance"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    },
+    {
+      "name": "Gilgal",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua 4:19 says the people went up from the Jordan on the tenth day of the first month."
+}

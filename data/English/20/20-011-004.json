@@ -1,0 +1,31 @@
+{
+  "id": "20-011-004",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 11,
+  "verse_reference": "Proverbs 11:13",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 11:13, who betrays a confidence?",
+  "options": [
+    "A trustworthy person",
+    "A gossip",
+    "A king",
+    "A teacher"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 11:13 says a gossip betrays a confidence, but a trustworthy person keeps a secret."
+}

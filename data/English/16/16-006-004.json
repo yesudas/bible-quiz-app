@@ -1,0 +1,32 @@
+{
+  "id": "16-006-004",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 6,
+  "verse_reference": "Nehemiah 6:5-7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What false report did Sanballat's unsealed letter say about Nehemiah?",
+  "options": [
+    "That he had stolen the king's gold",
+    "That he had married a foreign wife",
+    "That he wanted to return to Susa",
+    "That he and the Jews were plotting to revolt and he wanted to be king"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Nehemiah",
+    "Sanballat"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The letter claimed that Nehemiah and the Jews were plotting to revolt and that he was about to become their king."
+}

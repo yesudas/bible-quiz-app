@@ -1,0 +1,41 @@
+{
+  "id": "19-068-009",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 68,
+  "verse_reference": "Psalm 68:31",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 68:31, from which nation will envoys come?",
+  "options": [
+    "Egypt",
+    "Assyria",
+    "Babylon",
+    "Greece"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Mission",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Cush",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David says envoys will come from Egypt, and Cush will submit herself to God."
+}

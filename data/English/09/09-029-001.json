@@ -1,0 +1,38 @@
+{
+  "id": "09-029-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 29,
+  "verse_reference": "1 Samuel 29:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the Philistines gather their forces before the battle with Saul?",
+  "options": [
+    "Aphek",
+    "Shunem",
+    "Gath",
+    "Ekron"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Aphek",
+      "type": "camp"
+    },
+    {
+      "name": "Spring in Jezreel",
+      "type": "well"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Philistines gathered all their forces at Aphek, and Israel camped by the spring in Jezreel."
+}

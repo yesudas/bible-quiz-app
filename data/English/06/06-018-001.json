@@ -1,0 +1,39 @@
+{
+  "id": "06-018-001",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 18,
+  "verse_reference": "Joshua 18:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the whole assembly of Israel set up the tent of meeting?",
+  "options": [
+    "Gilgal",
+    "Shiloh",
+    "Jerusalem",
+    "Bethel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "city"
+    },
+    {
+      "name": "tent of meeting",
+      "type": "tabernacle"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The whole assembly of the Israelites gathered at Shiloh and set up the tent of meeting there."
+}

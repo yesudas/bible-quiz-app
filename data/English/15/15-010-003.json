@@ -1,0 +1,33 @@
+{
+  "id": "15-010-003",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 10,
+  "verse_reference": "Ezra 10:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Shecaniah's words to Ezra: \"We will support you, so take ______ and do it.\"",
+  "options": [
+    "courage",
+    "time",
+    "care",
+    "charge"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Faith"
+  ],
+  "characters": [
+    "Shecaniah",
+    "Ezra"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Shecaniah told Ezra, \"Rise up; this matter is in your hands. We will support you, so take courage and do it.\""
+}

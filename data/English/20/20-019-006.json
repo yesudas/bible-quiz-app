@@ -1,0 +1,32 @@
+{
+  "id": "20-019-006",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 19,
+  "verse_reference": "Proverbs 19:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Whoever is kind to the poor ______ to the LORD, and he will reward them for what they have done.\"",
+  "options": [
+    "speaks",
+    "sings",
+    "lends",
+    "prays"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Money",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 19:17 says whoever is kind to the poor lends to the LORD, and He will reward them."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "19-015-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 15,
+  "verse_reference": "Psalm 15:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"...who speaks the ____ from their heart.\"",
+  "options": [
+    "law",
+    "truth",
+    "word",
+    "praise"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Truth",
+    "Holiness"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 15:2 describes the one who may dwell with God as one who speaks the truth from their heart."
+}

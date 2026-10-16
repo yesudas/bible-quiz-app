@@ -1,0 +1,33 @@
+{
+  "id": "11-003-008",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 3,
+  "verse_reference": "1 Kings 3:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Solomon describe himself when he spoke to God?",
+  "options": [
+    "As a mighty warrior",
+    "As only a little child who did not know how to carry out his duties",
+    "As the wisest man in Israel",
+    "As a prophet like Samuel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon humbly said he was only a little child and did not know how to carry out his duties."
+}

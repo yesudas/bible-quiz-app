@@ -1,0 +1,32 @@
+{
+  "id": "13-007-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 7,
+  "verse_reference": "1 Chronicles 7:13",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "The sons of Naphtali are called descendants of which woman?",
+  "options": [
+    "Leah",
+    "Zilpah",
+    "Rachel",
+    "Bilhah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Naphtali",
+    "Bilhah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Verse 13 lists the sons of Naphtali and says they were the descendants of Bilhah."
+}

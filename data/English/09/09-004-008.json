@@ -1,0 +1,31 @@
+{
+  "id": "09-004-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 4,
+  "verse_reference": "1 Samuel 4:11",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened to the ark of God in the battle?",
+  "options": [
+    "It was captured",
+    "It was hidden in a cave",
+    "It was burned",
+    "It was carried back to Shiloh"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The ark of God was captured by the Philistines, and Eli's two sons died."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "09-004-007",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 4,
+  "verse_reference": "1 Samuel 4:10-11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did bringing the ark not save Israel in the battle?",
+  "options": [
+    "The ark was carried by the wrong tribe",
+    "The ark was left outside the camp",
+    "Samuel refused to come",
+    "Israel was defeated and the ark itself was captured"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Covenant",
+    "Faith"
+  ],
+  "characters": [
+    "Hophni",
+    "Phinehas"
+  ],
+  "places": [
+    {
+      "name": "Ebenezer",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Even with the ark in the camp, Israel was defeated, thirty thousand foot soldiers fell, the ark was captured, and Hophni and Phinehas died."
+}

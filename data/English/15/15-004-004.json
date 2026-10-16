@@ -1,0 +1,30 @@
+{
+  "id": "15-004-004",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 4,
+  "verse_reference": "Ezra 4:4-5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the peoples around them try to stop the building?",
+  "options": [
+    "They attacked the city with an army",
+    "They stole the gold and silver articles",
+    "They poisoned the wells of Jerusalem",
+    "They discouraged them and bribed officials"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They set out to discourage the people of Judah, make them afraid, and bribe officials to work against their plans."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "13-016-006",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 16,
+  "verse_reference": "1 Chronicles 16:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Look to the LORD and his strength; seek his ______ always.\"",
+  "options": [
+    "word",
+    "face",
+    "house",
+    "way"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 16:11 says, \"Look to the LORD and his strength; seek his face always.\""
+}

@@ -1,0 +1,31 @@
+{
+  "id": "05-007-011",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 7,
+  "verse_reference": "Deuteronomy 7:25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God warn Israel not to covet or take from the idols they destroyed?",
+  "options": [
+    "The silver and gold on them",
+    "The wood of the poles",
+    "The stones of the altars",
+    "The clothing of the priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Money",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God warned Israel not to covet or keep the silver and gold on the idols, for it was detestable and could become a snare to them."
+}

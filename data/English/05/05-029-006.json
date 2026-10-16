@@ -1,0 +1,31 @@
+{
+  "id": "05-029-006",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 29,
+  "verse_reference": "Deuteronomy 29:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "With whom was this covenant being made, besides those present that day?",
+  "options": [
+    "Only with the tribe of Levi",
+    "Only with the older generation",
+    "Only with the nations nearby",
+    "Also with those who were not there that day"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Promise",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses said the covenant was made not only with those standing there that day but also with those who were not present, including future generations."
+}

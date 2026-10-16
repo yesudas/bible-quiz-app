@@ -1,0 +1,34 @@
+{
+  "id": "12-018-002",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 18,
+  "verse_reference": "2 Kings 18:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How is Hezekiah's reign compared with King David's?",
+  "options": [
+    "He did what was right, just as David had done",
+    "He was worse than David",
+    "He was like Ahab",
+    "He did right only in his old age"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [
+    "Hezekiah",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hezekiah did what was right in the eyes of the LORD, just as his father David had done."
+}

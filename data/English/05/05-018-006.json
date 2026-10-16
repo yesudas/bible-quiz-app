@@ -1,0 +1,36 @@
+{
+  "id": "05-018-006",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 18,
+  "verse_reference": "Deuteronomy 18:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What had the people asked for at Horeb that led to God promising a prophet?",
+  "options": [
+    "More food and water",
+    "A king to rule over them",
+    "A shorter journey",
+    "Not to hear God's voice or see the great fire again, lest they die"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Fear",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Horeb",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At Horeb the people begged not to hear the Lord's voice or see the great fire any longer, fearing they would die, so God promised to speak through a prophet."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "09-016-010",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 16,
+  "verse_reference": "1 Samuel 16:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What happened to David from the day he was anointed?",
+  "options": [
+    "He became king that day",
+    "He moved to the palace",
+    "The Spirit of the LORD came powerfully on him",
+    "He left his family forever"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Ramah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "From that day on the Spirit of the LORD came powerfully on David. Then Samuel went to Ramah."
+}

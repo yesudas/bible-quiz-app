@@ -1,0 +1,37 @@
+{
+  "id": "14-010-001",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 10,
+  "verse_reference": "2 Chronicles 10:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did all Israel go to make Rehoboam king?",
+  "options": [
+    "Jerusalem",
+    "Hebron",
+    "Shechem",
+    "Bethel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Rehoboam"
+  ],
+  "places": [
+    {
+      "name": "Shechem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rehoboam went to Shechem, for all Israel had gone there to make him king."
+}

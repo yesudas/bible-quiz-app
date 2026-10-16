@@ -1,0 +1,30 @@
+{
+  "id": "20-007-003",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 7,
+  "verse_reference": "Proverbs 7:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Proverbs 7:4, what is the son told to call wisdom?",
+  "options": [
+    "My sister",
+    "My mother",
+    "My queen",
+    "My servant"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 7:4 says, \"Say to wisdom, 'You are my sister,' and to insight, 'You are my relative.'\""
+}

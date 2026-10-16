@@ -1,0 +1,31 @@
+{
+  "id": "13-028-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 28,
+  "verse_reference": "1 Chronicles 28:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete David's words: \"I had it in my heart to build a house as a place of rest for the ark of the covenant of the LORD, for the ______ of our God.\"",
+  "options": [
+    "throne",
+    "footstool",
+    "dwelling",
+    "altar"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said he wanted to build a house as a place of rest for the ark of the covenant, for the footstool of our God."
+}

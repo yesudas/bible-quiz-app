@@ -1,0 +1,38 @@
+{
+  "id": "16-001-005",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 1,
+  "verse_reference": "Nehemiah 1:4",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Nehemiah do when he heard the bad news about Jerusalem?",
+  "options": [
+    "He left for Jerusalem that night",
+    "He wept, mourned, fasted and prayed",
+    "He asked the king for soldiers",
+    "He wrote a letter to the governor"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Suffering"
+  ],
+  "characters": [
+    "Nehemiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "For some days Nehemiah sat down and wept, mourned, fasted and prayed before the God of heaven."
+}

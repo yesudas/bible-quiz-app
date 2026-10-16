@@ -1,0 +1,33 @@
+{
+  "id": "09-014-014",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 14,
+  "verse_reference": "1 Samuel 14:41-43",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "When lots were cast to find who had sinned, on whom did the lot fall?",
+  "options": [
+    "Saul",
+    "The armor-bearer",
+    "Jonathan",
+    "Abner"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Saul",
+    "Jonathan"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The lot fell on Jonathan, who told Saul, \"I tasted a little honey with the end of my staff.\""
+}

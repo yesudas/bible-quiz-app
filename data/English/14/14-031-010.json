@@ -1,0 +1,37 @@
+{
+  "id": "14-031-010",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 31,
+  "verse_reference": "2 Chronicles 31:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Hezekiah order to be prepared in the temple for the extra offerings?",
+  "options": [
+    "A new altar",
+    "Towers",
+    "Storerooms",
+    "A bigger courtyard"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Wisdom"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hezekiah gave orders to prepare storerooms in the temple of the LORD, and this was done."
+}

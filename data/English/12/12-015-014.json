@@ -1,0 +1,41 @@
+{
+  "id": "12-015-014",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 15,
+  "verse_reference": "2 Kings 15:37",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two kings did the LORD begin to send against Judah in Jotham's days?",
+  "options": [
+    "Pul and Menahem",
+    "Rezin king of Aram and Pekah son of Remaliah",
+    "Hazael and Ben-Hadad",
+    "Tiglath-Pileser and Hoshea"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Rezin",
+    "Pekah",
+    "Jotham"
+  ],
+  "places": [
+    {
+      "name": "Aram",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In those days the LORD began to send Rezin king of Aram and Pekah son of Remaliah against Judah."
+}

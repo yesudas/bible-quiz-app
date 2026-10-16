@@ -1,0 +1,36 @@
+{
+  "id": "12-002-020",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 2,
+  "verse_reference": "2 Kings 2:24",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What came out of the woods after Elisha cursed the boys in the name of the LORD?",
+  "options": [
+    "Two lions",
+    "Two bears",
+    "A pack of wolves",
+    "A swarm of hornets"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Two bears came out of the woods and mauled forty-two of the boys."
+}

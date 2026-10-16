@@ -1,0 +1,38 @@
+{
+  "id": "12-015-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 15,
+  "verse_reference": "2 Kings 15:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Zechariah's death fulfil the word of the LORD spoken to Jehu?",
+  "options": [
+    "Jehu's family would rule forever",
+    "Zechariah would die in Jezreel",
+    "Jehu's descendants sat on the throne only to the fourth generation",
+    "Aram would destroy Jehu's house"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Promise"
+  ],
+  "characters": [
+    "Zechariah",
+    "Jehu"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD had told Jehu his descendants would sit on the throne of Israel to the fourth generation, and so it happened."
+}

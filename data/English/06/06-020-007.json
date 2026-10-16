@@ -1,0 +1,38 @@
+{
+  "id": "06-020-007",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 20,
+  "verse_reference": "Joshua 20:7",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which city of refuge was in the hill country of Ephraim?",
+  "options": [
+    "Kedesh",
+    "Bezer",
+    "Shechem",
+    "Golan"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Shechem",
+      "type": "city"
+    },
+    {
+      "name": "hill country of Ephraim",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Shechem in the hill country of Ephraim was set apart as a city of refuge."
+}

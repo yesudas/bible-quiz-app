@@ -1,0 +1,38 @@
+{
+  "id": "09-016-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 16,
+  "verse_reference": "1 Samuel 16:11",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was David doing when Samuel came to Jesse's house?",
+  "options": [
+    "Tending the sheep",
+    "Fighting the Philistines",
+    "Playing the lyre for Saul",
+    "Studying with the priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "David",
+    "Jesse"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesse said, \"There is still the youngest, but he is tending the sheep.\""
+}

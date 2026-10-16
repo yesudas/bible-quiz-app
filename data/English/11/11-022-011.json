@@ -1,0 +1,32 @@
+{
+  "id": "11-022-011",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 22,
+  "verse_reference": "1 Kings 22:28",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Micaiah say would prove he had NOT spoken for the LORD?",
+  "options": [
+    "If it rained that day",
+    "If the other prophets agreed with him",
+    "If the king ever returned safely",
+    "If Jehoshaphat stayed at home"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Micaiah",
+    "Ahab"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micaiah declared, \"If you ever return safely, the LORD has not spoken through me.\""
+}

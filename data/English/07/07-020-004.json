@@ -1,0 +1,39 @@
+{
+  "id": "07-020-004",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 20,
+  "verse_reference": "Judges 20:12-13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Israel ask the tribe of Benjamin to do?",
+  "options": [
+    "Pay a thousand shekels of silver",
+    "Leave the land of Israel",
+    "Surrender the wicked men of Gibeah so they could be put to death",
+    "Give up their best land"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Justice",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gibeah",
+      "type": "town"
+    },
+    {
+      "name": "Benjamin",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel asked Benjamin to surrender the wicked men of Gibeah so they could be put to death and purge the evil, but the Benjamites would not listen."
+}

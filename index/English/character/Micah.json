@@ -1,0 +1,25 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Micah",
+    "label": "Micah",
+    "count": 15,
+    "paths": [
+        "English/07/07-017-001.json",
+        "English/07/07-017-002.json",
+        "English/07/07-017-003.json",
+        "English/07/07-017-004.json",
+        "English/07/07-017-005.json",
+        "English/07/07-017-007.json",
+        "English/07/07-017-008.json",
+        "English/07/07-017-009.json",
+        "English/07/07-017-010.json",
+        "English/07/07-018-003.json",
+        "English/07/07-018-009.json",
+        "English/07/07-018-011.json",
+        "English/07/07-018-012.json",
+        "English/07/07-018-016.json",
+        "English/13/13-008-007.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

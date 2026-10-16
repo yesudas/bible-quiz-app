@@ -1,0 +1,40 @@
+{
+  "id": "11-015-001",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 15,
+  "verse_reference": "1 Kings 15:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How long did Abijah reign as king of Judah in Jerusalem?",
+  "options": [
+    "Three years",
+    "Seventeen years",
+    "Forty-one years",
+    "Two years"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Abijah son of Rehoboam"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abijah became king of Judah in the eighteenth year of Jeroboam's reign, and he reigned in Jerusalem three years."
+}

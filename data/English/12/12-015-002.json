@@ -1,0 +1,32 @@
+{
+  "id": "12-015-002",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 15,
+  "verse_reference": "2 Kings 15:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the LORD afflict King Azariah with until the day he died?",
+  "options": [
+    "Blindness",
+    "Leprosy",
+    "Deafness",
+    "A broken leg"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Judgment"
+  ],
+  "characters": [
+    "Azariah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD afflicted the king with leprosy until the day he died, and he lived in a separate house."
+}

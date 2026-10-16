@@ -1,0 +1,36 @@
+{
+  "id": "14-024-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 24,
+  "verse_reference": "2 Chronicles 24:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the temple need to be restored?",
+  "options": [
+    "An earthquake had damaged it",
+    "Egypt had burned it",
+    "It had become too old",
+    "Athaliah's sons had broken in and used its sacred objects for the Baals"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [
+    "Athaliah"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The sons of that wicked woman Athaliah had broken into the temple and used even its sacred objects for the Baals."
+}

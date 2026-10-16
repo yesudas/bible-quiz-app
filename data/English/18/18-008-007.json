@@ -1,0 +1,32 @@
+{
+  "id": "18-008-007",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 8,
+  "verse_reference": "Job 8:8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Where did Bildad tell Job to look to find wisdom?",
+  "options": [
+    "To the stars in the sky",
+    "To his own heart",
+    "To the former generation and what their ancestors learned",
+    "To the priests in the temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Bildad",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Bildad said, 'Ask the former generation and find out what their ancestors learned.'"
+}

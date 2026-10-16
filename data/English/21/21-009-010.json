@@ -1,0 +1,30 @@
+{
+  "id": "21-009-010",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 9,
+  "verse_reference": "Ecclesiastes 9:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Wisdom is better than weapons of war, but one ______ destroys much good.\"",
+  "options": [
+    "fool",
+    "sinner",
+    "enemy",
+    "liar"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ecclesiastes 9:18 teaches that wisdom is powerful, but one sinner can destroy much good."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "19-036-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 36,
+  "verse_reference": "Psalm 36:1",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 36:1, what is missing before the eyes of the wicked?",
+  "options": [
+    "Light",
+    "The fear of God",
+    "Tears",
+    "The law"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Wisdom"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 36:1 says of the wicked, \"There is no fear of God before their eyes.\""
+}

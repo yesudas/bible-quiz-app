@@ -1,0 +1,38 @@
+{
+  "id": "06-017-008",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 17,
+  "verse_reference": "Joshua 17:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Joshua tell the people of Joseph to do if their land was too small?",
+  "options": [
+    "Take land from Judah",
+    "Go back across the Jordan",
+    "Wait for the next lot",
+    "Go up into the forest and clear land for themselves"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Faith"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "hill country of Ephraim",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua told them to go up into the forest and clear land for themselves there."
+}

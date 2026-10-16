@@ -1,0 +1,31 @@
+{
+  "id": "18-014-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 14,
+  "verse_reference": "Job 14:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Job say about the number of a person's days?",
+  "options": [
+    "They are known only to the angels",
+    "They depend on how much money a person has",
+    "God has determined them and set limits that cannot be passed",
+    "They can be made longer by sacrifices"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said a person's days are determined; God has decreed the number of his months and set limits he cannot exceed."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "18-011-007",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 11,
+  "verse_reference": "Job 11:16",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Zophar said Job would forget his trouble and remember it only like what?",
+  "options": [
+    "A bad dream",
+    "A cloud at night",
+    "A cold winter",
+    "Waters gone by"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [
+    "Zophar",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zophar said Job would surely forget his trouble, recalling it only as waters gone by."
+}

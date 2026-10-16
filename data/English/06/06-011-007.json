@@ -1,0 +1,36 @@
+{
+  "id": "06-011-007",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 11,
+  "verse_reference": "Joshua 11:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was Hazor an important city?",
+  "options": [
+    "It was the head of all these kingdoms",
+    "It was the oldest city in Canaan",
+    "It had the tallest walls",
+    "It was on the seashore"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jabin"
+  ],
+  "places": [
+    {
+      "name": "Hazor",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hazor had been the head of all these kingdoms, so Joshua turned back and captured it."
+}

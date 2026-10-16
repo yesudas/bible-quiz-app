@@ -1,0 +1,39 @@
+{
+  "id": "15-001-007",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 1,
+  "verse_reference": "Ezra 1:7",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who had carried away the articles of the LORD's temple from Jerusalem?",
+  "options": [
+    "Nebuchadnezzar",
+    "Belshazzar",
+    "Sennacherib",
+    "Pharaoh Necho"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Judgment"
+  ],
+  "characters": [
+    "Nebuchadnezzar",
+    "Cyrus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Cyrus brought out the articles that Nebuchadnezzar had carried away from Jerusalem and placed in the temple of his god."
+}

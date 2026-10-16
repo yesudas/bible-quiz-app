@@ -1,0 +1,36 @@
+{
+  "id": "20-030-010",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 30,
+  "verse_reference": "Proverbs 30:28",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 30:28, where can a lizard be found?",
+  "options": [
+    "In kings' palaces",
+    "In the temple",
+    "In deep caves",
+    "In the river"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Kings' palaces",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 30:28 says a lizard can be caught with the hand, yet it is found in kings' palaces."
+}

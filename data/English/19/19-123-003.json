@@ -1,0 +1,31 @@
+{
+  "id": "19-123-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 123,
+  "verse_reference": "Psalm 123:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the psalmist ask the LORD to have on His people?",
+  "options": [
+    "Anger",
+    "Pity on their enemies",
+    "Mercy",
+    "Patience with the proud"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Forgiveness"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He prayed, \"Have mercy on us, LORD, have mercy on us, for we have endured no end of contempt.\""
+}

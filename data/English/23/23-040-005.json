@@ -1,0 +1,43 @@
+{
+  "id": "23-040-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 40,
+  "verse_reference": "Isaiah 40:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the one who brings good news to Zion told to say to the towns of Judah?",
+  "options": [
+    "'Here is your God!'",
+    "'Run for your lives!'",
+    "'Your king has come from Babylon!'",
+    "'The temple is finished!'"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Evangelism"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 40:9 says, 'Lift up your voice with a shout, lift it up, do not be afraid; say to the towns of Judah, Here is your God!'"
+}

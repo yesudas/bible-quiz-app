@@ -1,0 +1,36 @@
+{
+  "id": "09-027-007",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 27,
+  "verse_reference": "1 Samuel 27:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How long did David live in Philistine territory?",
+  "options": [
+    "Seven years",
+    "Forty days",
+    "Three months",
+    "A year and four months"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Philistia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David lived in Philistine territory a year and four months."
+}

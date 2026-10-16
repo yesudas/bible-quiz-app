@@ -1,0 +1,32 @@
+{
+  "id": "05-022-001",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 22,
+  "verse_reference": "Deuteronomy 22:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What were the Israelites to do if they saw a neighbor's ox or sheep wandering away?",
+  "options": [
+    "Ignore it and walk on",
+    "Keep it as their own",
+    "Take it back to the owner, or keep it safe until he comes looking for it",
+    "Sell it in the market"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Law",
+    "Justice"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel was not to ignore a straying animal but to return it, and if the owner was unknown or far away, to keep it safely until he came looking for it."
+}

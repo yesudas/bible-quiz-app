@@ -1,0 +1,38 @@
+{
+  "id": "11-022-019",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 22,
+  "verse_reference": "1 Kings 22:51-53",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which son of Ahab became king of Israel and served and worshiped Baal?",
+  "options": [
+    "Jehoram",
+    "Jehu",
+    "Ahaziah",
+    "Hazael"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Ahaziah",
+    "Ahab"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahaziah son of Ahab became king of Israel in Samaria, reigned two years, and served and worshiped Baal."
+}

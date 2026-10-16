@@ -1,0 +1,32 @@
+{
+  "id": "11-001-016",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 1,
+  "verse_reference": "1 Kings 1:41-48",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who came to Adonijah's feast with the news that Solomon had been made king?",
+  "options": [
+    "Jonathan son of Abiathar",
+    "Joab",
+    "Ahimaaz",
+    "Shimei"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jonathan son of Abiathar",
+    "Adonijah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonathan son of Abiathar arrived and told Adonijah that David had made Solomon king."
+}

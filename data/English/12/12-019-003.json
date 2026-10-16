@@ -1,0 +1,34 @@
+{
+  "id": "12-019-003",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 19,
+  "verse_reference": "2 Kings 19:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Isaiah gave Hezekiah this message from the LORD: \"Do not be ______ of what you have heard.\"",
+  "options": [
+    "afraid",
+    "ashamed",
+    "proud",
+    "careless"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Prophecy"
+  ],
+  "characters": [
+    "Isaiah",
+    "Hezekiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Hezekiah through Isaiah not to be afraid of the words the king of Assyria's servants had spoken."
+}

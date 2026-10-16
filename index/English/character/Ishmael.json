@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Ishmael",
     "label": "Ishmael",
-    "count": 14,
+    "count": 16,
     "paths": [
         "English/01/01-016-007.json",
         "English/01/01-016-009.json",
@@ -18,7 +18,9 @@
         "English/01/01-021-010.json",
         "English/01/01-025-004.json",
         "English/01/01-025-005.json",
-        "English/01/01-028-004.json"
+        "English/01/01-028-004.json",
+        "English/12/12-025-013.json",
+        "English/13/13-001-006.json"
     ],
-    "generated": "2026-09-20T01:15:55+00:00"
+    "generated": "2026-10-16T13:50:54+00:00"
 }

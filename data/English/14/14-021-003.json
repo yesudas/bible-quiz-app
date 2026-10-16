@@ -1,0 +1,31 @@
+{
+  "id": "14-021-003",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 21,
+  "verse_reference": "2 Chronicles 21:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What evil thing did Jehoram do after he established himself as king?",
+  "options": [
+    "He burned the temple",
+    "He sold Judah to Egypt",
+    "He killed the prophets",
+    "He put all his brothers to death"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Jehoram"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Jehoram established himself firmly over his father's kingdom, he put all his brothers to the sword along with some officials."
+}

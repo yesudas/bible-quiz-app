@@ -1,0 +1,37 @@
+{
+  "id": "07-013-003",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 13,
+  "verse_reference": "Judges 13:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In which town did Manoah live?",
+  "options": [
+    "Bethlehem",
+    "Zorah",
+    "Ophrah",
+    "Mizpah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Manoah"
+  ],
+  "places": [
+    {
+      "name": "Zorah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Manoah was a certain man of Zorah."
+}

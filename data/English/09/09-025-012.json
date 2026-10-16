@@ -1,0 +1,32 @@
+{
+  "id": "09-025-012",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 25,
+  "verse_reference": "1 Samuel 25:36-37",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened to Nabal when Abigail told him everything the next morning?",
+  "options": [
+    "He laughed",
+    "He apologized to David",
+    "He ran away",
+    "His heart failed and he became like a stone"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Nabal",
+    "Abigail"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the morning, when Nabal was sober, his wife told him all these things, and his heart failed him and he became like a stone."
+}

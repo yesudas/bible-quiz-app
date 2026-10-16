@@ -1,0 +1,33 @@
+{
+  "id": "19-124-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 124,
+  "verse_reference": "Psalm 124:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What is the main idea of the opening of Psalm 124?",
+  "options": [
+    "Israel won by its own strength",
+    "If the LORD had not been on our side, we would have been destroyed",
+    "The enemies were never dangerous",
+    "Israel should make peace with its enemies"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David asks Israel to say that if the LORD had not been on their side when people attacked, they would have been swallowed alive."
+}

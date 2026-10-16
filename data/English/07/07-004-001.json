@@ -1,0 +1,39 @@
+{
+  "id": "07-004-001",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 4,
+  "verse_reference": "Judges 4:1-2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "After Ehud died and Israel did evil again, which king did the LORD sell them to?",
+  "options": [
+    "Jabin king of Canaan",
+    "Eglon king of Moab",
+    "Cushan-Rishathaim",
+    "Og king of Bashan"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [
+    "Jabin",
+    "Ehud"
+  ],
+  "places": [
+    {
+      "name": "Canaan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After Ehud died, the Israelites again did evil, and the LORD sold them into the hands of Jabin king of Canaan."
+}

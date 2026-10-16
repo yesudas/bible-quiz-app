@@ -1,0 +1,38 @@
+{
+  "id": "18-022-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 22,
+  "verse_reference": "Job 22:12",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "In Job 22:12, where did Eliphaz say God is?",
+  "options": [
+    "In the heights of heaven",
+    "In the deep sea",
+    "In the land of Uz",
+    "In the city gate"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [
+    "Eliphaz"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eliphaz said, 'Is not God in the heights of heaven? And see how lofty are the highest stars!'"
+}

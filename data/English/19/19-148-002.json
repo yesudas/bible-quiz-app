@@ -1,0 +1,31 @@
+{
+  "id": "19-148-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 148,
+  "verse_reference": "Psalm 148:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to Psalm 148:3, which of these is called to praise the LORD?",
+  "options": [
+    "The sun and moon",
+    "The idols",
+    "The kings of Egypt",
+    "The wicked"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Praise him, sun and moon; praise him, all you shining stars.\""
+}

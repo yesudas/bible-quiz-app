@@ -1,0 +1,39 @@
+{
+  "id": "23-062-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 62,
+  "verse_reference": "Isaiah 62:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'For Zion's sake I will not keep ______.'",
+  "options": [
+    "silent",
+    "still",
+    "away",
+    "quiet"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 62:1 says, 'For Zion's sake I will not keep silent, for Jerusalem's sake I will not remain quiet.'"
+}

@@ -1,0 +1,22 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Ish-Bosheth",
+    "label": "Ish-Bosheth",
+    "count": 12,
+    "paths": [
+        "English/10/10-002-006.json",
+        "English/10/10-002-007.json",
+        "English/10/10-002-008.json",
+        "English/10/10-003-004.json",
+        "English/10/10-003-005.json",
+        "English/10/10-003-006.json",
+        "English/10/10-004-001.json",
+        "English/10/10-004-002.json",
+        "English/10/10-004-006.json",
+        "English/10/10-004-007.json",
+        "English/10/10-004-009.json",
+        "English/10/10-004-010.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

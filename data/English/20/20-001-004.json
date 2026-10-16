@@ -1,0 +1,31 @@
+{
+  "id": "20-001-004",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 1,
+  "verse_reference": "Proverbs 1:7",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 1:7, who despises wisdom and instruction?",
+  "options": [
+    "Fools",
+    "Kings",
+    "Priests",
+    "Children"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 1:7 says that fools despise wisdom and instruction."
+}

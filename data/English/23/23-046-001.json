@@ -1,0 +1,34 @@
+{
+  "id": "23-046-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 46,
+  "verse_reference": "Isaiah 46:1",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two Babylonian gods are said to bow down and stoop low in Isaiah 46:1?",
+  "options": [
+    "Baal and Asherah",
+    "Dagon and Molek",
+    "Bel and Nebo",
+    "Chemosh and Milkom"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 46:1 says, 'Bel bows down, Nebo stoops low; their idols are borne by beasts of burden.'"
+}

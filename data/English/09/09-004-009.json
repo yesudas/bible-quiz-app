@@ -1,0 +1,34 @@
+{
+  "id": "09-004-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 4,
+  "verse_reference": "1 Samuel 4:12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who ran from the battle line to Shiloh to bring the news?",
+  "options": [
+    "A man from Judah",
+    "A Levite",
+    "A Benjamite",
+    "A Philistine soldier"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A Benjamite ran from the battle line to Shiloh with his clothes torn and dust on his head."
+}

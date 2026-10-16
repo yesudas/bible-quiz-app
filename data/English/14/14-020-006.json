@@ -1,0 +1,36 @@
+{
+  "id": "14-020-006",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 20,
+  "verse_reference": "2 Chronicles 20:14",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "On whom did the Spirit of the LORD come in the assembly?",
+  "options": [
+    "Jehu son of Hanani",
+    "Eliezer son of Dodavahu",
+    "Jahaziel son of Zechariah",
+    "Azariah son of Oded"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jahaziel"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Spirit of the LORD came on Jahaziel son of Zechariah, a Levite and descendant of Asaph, as he stood in the assembly."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "06-007-006",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 7,
+  "verse_reference": "Joshua 7:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Joshua do after the defeat at Ai?",
+  "options": [
+    "He ordered a second attack right away",
+    "He sent the army home",
+    "He blamed the spies",
+    "He tore his clothes and fell facedown before the ark"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Repentance"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua tore his clothes and fell facedown before the ark until evening, and the elders did the same."
+}

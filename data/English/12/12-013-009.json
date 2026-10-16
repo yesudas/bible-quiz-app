@@ -1,0 +1,33 @@
+{
+  "id": "12-013-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 13,
+  "verse_reference": "2 Kings 13:18",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How many times did Jehoash strike the ground with the arrows?",
+  "options": [
+    "Three times",
+    "Five times",
+    "Seven times",
+    "Once"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jehoash",
+    "Elisha"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha told him to strike the ground, and Jehoash struck it three times and stopped."
+}

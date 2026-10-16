@@ -1,0 +1,31 @@
+{
+  "id": "23-011-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 11,
+  "verse_reference": "Isaiah 11:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What will the lion eat like the ox?",
+  "options": [
+    "Grass",
+    "Grain",
+    "Straw",
+    "Fruit"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Peace"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 11:7 says the lion will eat straw like the ox."
+}

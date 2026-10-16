@@ -1,0 +1,32 @@
+{
+  "id": "18-014-008",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 14,
+  "verse_reference": "Job 14:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Job said God destroys a person's hope as water wears away what?",
+  "options": [
+    "Stones",
+    "Sand",
+    "Wood",
+    "Iron"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Hope"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'As water wears away stones and torrents wash away the soil, so you destroy a person's hope.'"
+}

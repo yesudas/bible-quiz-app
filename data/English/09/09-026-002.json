@@ -1,0 +1,41 @@
+{
+  "id": "09-026-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 26,
+  "verse_reference": "1 Samuel 26:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was lying near Saul in the camp as commander of his army?",
+  "options": [
+    "Abner son of Ner",
+    "Joab",
+    "Jonathan",
+    "Doeg"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Abner",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Saul's camp",
+      "type": "camp"
+    },
+    {
+      "name": "Desert of Ziph",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David saw where Saul and Abner son of Ner, the commander of the army, had lain down. Saul was lying inside the camp."
+}

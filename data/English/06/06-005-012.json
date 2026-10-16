@@ -1,0 +1,38 @@
+{
+  "id": "06-005-012",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 5,
+  "verse_reference": "Joshua 5:15",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the commander of the LORD's army tell Joshua to take off?",
+  "options": [
+    "His sandals",
+    "His armor",
+    "His cloak",
+    "His belt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Holiness"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He told Joshua to take off his sandals because the place where he was standing was holy, and Joshua did so."
+}

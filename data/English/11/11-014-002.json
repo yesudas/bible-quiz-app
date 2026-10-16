@@ -1,0 +1,39 @@
+{
+  "id": "11-014-002",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 14,
+  "verse_reference": "1 Kings 14:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jeroboam tell his wife to do before going to see the prophet Ahijah?",
+  "options": [
+    "Disguise herself so no one would know she was his wife",
+    "Bring the golden calves",
+    "Take a large army",
+    "Wear her royal robes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Jeroboam",
+    "Jeroboam's wife",
+    "Ahijah"
+  ],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeroboam told his wife to disguise herself so she would not be recognized and go to Ahijah the prophet at Shiloh."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20-017-007",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 17,
+  "verse_reference": "Proverbs 17:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"A friend loves at all ______, and a brother is born for a time of adversity.\"",
+  "options": [
+    "costs",
+    "times",
+    "places",
+    "seasons"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 17:17 says a friend loves at all times, and a brother is born for a time of adversity."
+}

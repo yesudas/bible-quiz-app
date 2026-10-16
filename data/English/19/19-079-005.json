@@ -1,0 +1,33 @@
+{
+  "id": "19-079-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 79,
+  "verse_reference": "Psalm 79:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Then we your people, the ____ of your pasture, will praise you forever.\"",
+  "options": [
+    "sheep",
+    "flowers",
+    "children",
+    "servants"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Hope"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph calls God's people the sheep of His pasture, who will praise Him forever."
+}

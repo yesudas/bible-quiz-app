@@ -1,0 +1,31 @@
+{
+  "id": "19-096-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 96,
+  "verse_reference": "Psalm 96:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Psalm 96:5, how is the LORD different from the gods of the nations?",
+  "options": [
+    "The gods are idols, but the LORD made the heavens",
+    "The gods are older than the LORD",
+    "The gods live in the sea, but the LORD lives on the earth",
+    "The gods are many, but the LORD is weak"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm says all the gods of the nations are idols, but the LORD made the heavens."
+}

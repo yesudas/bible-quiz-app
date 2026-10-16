@@ -1,0 +1,34 @@
+{
+  "id": "11-021-010",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 21,
+  "verse_reference": "1 Kings 21:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Elijah say would happen to Ahab's blood?",
+  "options": [
+    "It would be poured on the altar",
+    "It would be kept in the palace",
+    "Dogs would lick it up where they licked up Naboth's blood",
+    "It would be washed away by the rain"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Elijah",
+    "Ahab",
+    "Naboth"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elijah said, \"In the place where dogs licked up Naboth's blood, dogs will lick up your blood—yes, yours!\""
+}

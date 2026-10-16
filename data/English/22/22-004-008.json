@@ -1,0 +1,29 @@
+{
+  "id": "22-004-008",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 4,
+  "verse_reference": "Song of Songs 4:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which winds does the woman call to blow on her garden?",
+  "options": [
+    "The east and west winds",
+    "The north and south winds",
+    "The desert winds",
+    "The sea winds"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Song of Songs 4:16 she says, \"Awake, north wind, and come, south wind! Blow on my garden.\""
+}

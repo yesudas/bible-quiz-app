@@ -1,0 +1,33 @@
+{
+  "id": "10-010-009",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 10,
+  "verse_reference": "2 Samuel 10:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What plan did Joab and Abishai agree on before the battle?",
+  "options": [
+    "Whoever finished first would go home",
+    "They would surrender if they began to lose",
+    "Each would fight alone to the end",
+    "If one side was too strong, the other brother would come to the rescue"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Joab",
+    "Abishai"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joab told Abishai that if the Arameans were too strong for him, Abishai would rescue him, and if the Ammonites were too strong for Abishai, Joab would rescue him."
+}

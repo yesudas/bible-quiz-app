@@ -1,0 +1,38 @@
+{
+  "id": "16-002-002",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 2,
+  "verse_reference": "Nehemiah 2:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the king notice about Nehemiah?",
+  "options": [
+    "He looked sad",
+    "He was sick",
+    "He was late",
+    "He had spilled the wine"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Nehemiah",
+    "Artaxerxes"
+  ],
+  "places": [
+    {
+      "name": "Susa",
+      "type": "citadel"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king asked Nehemiah why his face looked so sad when he was not ill, saying it must be sadness of heart."
+}

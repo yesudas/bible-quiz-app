@@ -1,0 +1,33 @@
+{
+  "id": "19-139-012",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 139,
+  "verse_reference": "Psalm 139:23",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Search me, God, and know my heart; test me and know my ______ thoughts.\"",
+  "options": [
+    "hidden",
+    "secret",
+    "good",
+    "anxious"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Repentance"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David asked God to search him, know his heart and test his anxious thoughts."
+}

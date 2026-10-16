@@ -1,0 +1,37 @@
+{
+  "id": "18-029-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 29,
+  "verse_reference": "Job 29:7",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did Job take his seat in the days he was remembering?",
+  "options": [
+    "In the temple",
+    "By the river",
+    "In the king's palace",
+    "In the public square at the city gate"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [
+    {
+      "name": "City gate",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said that when he went to the gate of the city, he took his seat in the public square."
+}

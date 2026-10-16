@@ -1,0 +1,38 @@
+{
+  "id": "09-014-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 14,
+  "verse_reference": "1 Samuel 14:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who went with Jonathan to attack the Philistine outpost?",
+  "options": [
+    "His father Saul",
+    "Abner",
+    "His armor-bearer",
+    "Ahijah the priest"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Leadership"
+  ],
+  "characters": [
+    "Jonathan"
+  ],
+  "places": [
+    {
+      "name": "Mikmash",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonathan said to the young man bearing his armor, \"Come, let's go over to the Philistine outpost.\" He did not tell his father."
+}

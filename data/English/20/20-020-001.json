@@ -1,0 +1,30 @@
+{
+  "id": "20-020-001",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 20,
+  "verse_reference": "Proverbs 20:1",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 20:1, what is called a mocker?",
+  "options": [
+    "Wine",
+    "Money",
+    "Gossip",
+    "Pride"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Temptation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 20:1 says wine is a mocker and beer a brawler; whoever is led astray by them is not wise."
+}

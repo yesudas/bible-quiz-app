@@ -1,0 +1,38 @@
+{
+  "id": "19-135-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 135,
+  "verse_reference": "Psalm 135:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 135, the LORD has chosen Israel to be His what?",
+  "options": [
+    "Servant nation",
+    "Treasured possession",
+    "Mighty army",
+    "Holy city"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Love"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD has chosen Jacob to be His own, Israel to be His treasured possession."
+}

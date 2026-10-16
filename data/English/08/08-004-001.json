@@ -1,0 +1,38 @@
+{
+  "id": "08-004-001",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 4,
+  "verse_reference": "Ruth 4:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Boaz go to meet the other guardian-redeemer?",
+  "options": [
+    "The town gate",
+    "The threshing floor",
+    "The tabernacle",
+    "Naomi's house"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Redemption"
+  ],
+  "characters": [
+    "Boaz"
+  ],
+  "places": [
+    {
+      "name": "Town gate of Bethlehem",
+      "type": "city gate"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Boaz went up to the town gate and sat there until the guardian-redeemer he had mentioned came along."
+}

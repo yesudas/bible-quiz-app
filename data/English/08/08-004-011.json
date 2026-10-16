@@ -1,0 +1,34 @@
+{
+  "id": "08-004-011",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 4,
+  "verse_reference": "Ruth 4:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Naomi do with the baby?",
+  "options": [
+    "She laid him in her lap and cared for him",
+    "She took him back to Moab",
+    "She gave him to the priest",
+    "She sent him to the elders"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Joy"
+  ],
+  "characters": [
+    "Naomi",
+    "Obed"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Naomi took the child in her arms, laid him in her lap and cared for him."
+}

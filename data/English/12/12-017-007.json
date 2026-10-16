@@ -1,0 +1,40 @@
+{
+  "id": "12-017-007",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 17,
+  "verse_reference": "2 Kings 17:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The LORD warned Israel and Judah through His prophets: \"______ from your evil ways.\"",
+  "options": [
+    "Run",
+    "Hide",
+    "Turn",
+    "Rest"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD warned them through all His prophets and seers: 'Turn from your evil ways.'"
+}

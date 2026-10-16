@@ -1,0 +1,32 @@
+{
+  "id": "11-001-006",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 1,
+  "verse_reference": "1 Kings 1:8",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which of these men did NOT join Adonijah?",
+  "options": [
+    "Joab",
+    "Abiathar",
+    "Jonathan son of Abiathar",
+    "Nathan the prophet"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Nathan",
+    "Adonijah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zadok the priest, Benaiah, Nathan the prophet, Shimei, Rei and David's special guard did not join Adonijah."
+}

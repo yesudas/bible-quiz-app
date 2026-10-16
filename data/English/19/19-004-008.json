@@ -1,0 +1,35 @@
+{
+  "id": "19-004-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 4,
+  "verse_reference": "Psalm 4:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"In ____ I will lie down and sleep, for you alone, LORD, make me dwell in safety.\"",
+  "options": [
+    "comfort",
+    "silence",
+    "darkness",
+    "peace"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Hope",
+    "Protection"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 4:8 says David will lie down and sleep in peace, because the LORD alone makes him dwell in safety."
+}

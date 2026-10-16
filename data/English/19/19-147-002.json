@@ -1,0 +1,31 @@
+{
+  "id": "19-147-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 147,
+  "verse_reference": "Psalm 147:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"He heals the ______ and binds up their wounds.\"",
+  "options": [
+    "sick",
+    "brokenhearted",
+    "weak",
+    "poor"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 147 says the LORD heals the brokenhearted and binds up their wounds."
+}

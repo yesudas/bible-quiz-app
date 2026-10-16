@@ -1,0 +1,34 @@
+{
+  "id": "05-004-004",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 4,
+  "verse_reference": "Deuteronomy 4:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Moses tell the people to do with the things they had seen God do?",
+  "options": [
+    "Write them on the city gates",
+    "Teach them to their children and grandchildren",
+    "Keep them secret from outsiders",
+    "Forget the past and look ahead"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Discipleship",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses urged the people not to forget what they had seen but to teach these things to their children and grandchildren."
+}

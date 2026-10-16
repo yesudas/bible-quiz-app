@@ -1,0 +1,40 @@
+{
+  "id": "12-008-015",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 8,
+  "verse_reference": "2 Kings 8:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Edom do during the reign of Jehoram?",
+  "options": [
+    "Joined Judah against Aram",
+    "Rebelled against Judah and set up its own king",
+    "Paid double tribute",
+    "Destroyed Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoram"
+  ],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Jehoram's time, Edom rebelled against Judah and set up its own king."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "13-013-008",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 13,
+  "verse_reference": "1 Chronicles 13:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened to Uzzah after he put his hand on the ark?",
+  "options": [
+    "He was made blind",
+    "The LORD struck him down and he died",
+    "He became a leper",
+    "He was sent away from Israel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Holiness"
+  ],
+  "characters": [
+    "Uzzah"
+  ],
+  "places": [
+    {
+      "name": "threshing floor of Kidon",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD's anger burned against Uzzah, and He struck him down because he had put his hand on the ark. He died there before God."
+}

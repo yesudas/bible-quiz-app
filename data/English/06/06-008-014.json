@@ -1,0 +1,34 @@
+{
+  "id": "06-008-014",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 8,
+  "verse_reference": "Joshua 8:34-35",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "How much of the law did Joshua read to the people?",
+  "options": [
+    "Only the blessings",
+    "Every word Moses had commanded",
+    "Only the Ten Commandments",
+    "Only the curses"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Obedience"
+  ],
+  "characters": [
+    "Joshua",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua read all the words of the law, the blessings and the curses; there was not a word of Moses' commands he did not read."
+}

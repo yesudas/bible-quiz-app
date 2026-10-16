@@ -1,0 +1,38 @@
+{
+  "id": "09-030-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 30,
+  "verse_reference": "1 Samuel 30:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did David do when his own men talked of stoning him?",
+  "options": [
+    "He found strength in the LORD his God",
+    "He ran away",
+    "He blamed Abiathar",
+    "He gave up leadership"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Suffering"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Ziklag",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David was greatly distressed because the men were talking of stoning him, but David found strength in the LORD his God."
+}

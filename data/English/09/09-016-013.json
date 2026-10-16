@@ -1,0 +1,36 @@
+{
+  "id": "09-016-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 16,
+  "verse_reference": "1 Samuel 16:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did one of Saul's servants describe David?",
+  "options": [
+    "A rich man with many flocks",
+    "A priest from Shiloh",
+    "A brave warrior who plays the lyre, speaks well, and the LORD is with him",
+    "The oldest son of Jesse"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The servant said Jesse's son could play the lyre, was a brave man and a warrior, spoke well, was fine-looking, and the LORD was with him."
+}

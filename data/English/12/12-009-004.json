@@ -1,0 +1,33 @@
+{
+  "id": "12-009-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 9,
+  "verse_reference": "2 Kings 9:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to the prophet, whose blood was the LORD avenging through Jehu?",
+  "options": [
+    "The soldiers killed at Ramoth Gilead",
+    "His servants the prophets, shed by Jezebel",
+    "The people of Samaria in the famine",
+    "The men killed by the bears"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Persecution"
+  ],
+  "characters": [
+    "Jehu",
+    "Jezebel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Jehu to destroy the house of Ahab to avenge the blood of His servants the prophets shed by Jezebel."
+}

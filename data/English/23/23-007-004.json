@@ -1,0 +1,40 @@
+{
+  "id": "23-007-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 7,
+  "verse_reference": "Isaiah 7:3",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Isaiah go to meet Ahaz?",
+  "options": [
+    "At the city gate of Samaria",
+    "Inside the temple courts",
+    "At the Pool of Siloam",
+    "At the end of the aqueduct of the Upper Pool"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Isaiah",
+    "Ahaz"
+  ],
+  "places": [
+    {
+      "name": "Upper Pool",
+      "type": "other"
+    },
+    {
+      "name": "Launderer's Field",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 7:3 says to meet Ahaz at the end of the aqueduct of the Upper Pool, on the road to the Launderer's Field."
+}

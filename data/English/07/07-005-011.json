@@ -1,0 +1,38 @@
+{
+  "id": "07-005-011",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 5,
+  "verse_reference": "Judges 5:19",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Deborah's song, where did the kings of Canaan fight?",
+  "options": [
+    "At Taanach, by the waters of Megiddo",
+    "At Gibeon",
+    "At Jericho",
+    "At Bethel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Taanach",
+      "type": "city"
+    },
+    {
+      "name": "Waters of Megiddo",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The song says the kings of Canaan fought at Taanach, by the waters of Megiddo, but took no silver as plunder."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "11-002-015",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 2,
+  "verse_reference": "1 Kings 2:36-37",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Shimei told he must never do, or he would surely die?",
+  "options": [
+    "Enter the temple",
+    "Speak to the king",
+    "Leave Jerusalem and cross the Kidron Valley",
+    "Eat at the king's table"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience",
+    "Law"
+  ],
+  "characters": [
+    "Solomon",
+    "Shimei"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Kidron Valley",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon told Shimei to build a house in Jerusalem and live there, and warned that the day he crossed the Kidron Valley he would surely die."
+}

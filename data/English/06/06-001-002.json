@@ -1,0 +1,33 @@
+{
+  "id": "06-001-002",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 1,
+  "verse_reference": "Joshua 1:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who was Joshua's father?",
+  "options": [
+    "Jephunneh",
+    "Amram",
+    "Nun",
+    "Jesse"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua 1:1 calls Joshua the son of Nun. He had been Moses' aide."
+}

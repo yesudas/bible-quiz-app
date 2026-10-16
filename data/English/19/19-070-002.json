@@ -1,0 +1,33 @@
+{
+  "id": "19-070-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 70,
+  "verse_reference": "Psalm 70:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 70:4, what should those who long for God's saving help always say?",
+  "options": [
+    "\"The LORD is great!\"",
+    "\"The LORD is far away!\"",
+    "\"Where is our God?\"",
+    "\"Our king is mighty!\""
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Salvation"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David prays that those who long for God's saving help will always say, \"The LORD is great!\""
+}

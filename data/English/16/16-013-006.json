@@ -1,0 +1,35 @@
+{
+  "id": "16-013-006",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 13,
+  "verse_reference": "Nehemiah 13:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why had the Levites and musicians gone back to their own fields?",
+  "options": [
+    "The wall was finished",
+    "They had not been given their portions",
+    "Their enemies had attacked them",
+    "The temple was closed for repairs"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House of God",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah learned that the portions for the Levites had not been given to them, so the Levites and musicians had gone back to their own fields."
+}

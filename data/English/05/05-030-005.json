@@ -1,0 +1,33 @@
+{
+  "id": "05-030-005",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 30,
+  "verse_reference": "Deuteronomy 30:12-13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Moses show that God's command was within Israel's reach?",
+  "options": [
+    "It was written on the city gates",
+    "It was kept by the elders",
+    "It was not up in heaven or beyond the sea, needing someone to fetch it",
+    "It was carried by the priests only"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Wisdom",
+    "Obedience"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses said the command was not up in heaven, so that someone must go up and get it, nor beyond the sea, so that someone must cross over to bring it back."
+}

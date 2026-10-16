@@ -1,0 +1,31 @@
+{
+  "id": "05-005-008",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 5,
+  "verse_reference": "Deuteronomy 5:17-20",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which of these is one of the commandments given in this passage?",
+  "options": [
+    "You shall not murder",
+    "You shall build an altar",
+    "You shall keep the feast",
+    "You shall tithe your grain"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "These verses list the commands not to murder, not to commit adultery, not to steal, and not to give false testimony."
+}

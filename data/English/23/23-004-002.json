@@ -1,0 +1,31 @@
+{
+  "id": "23-004-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 4,
+  "verse_reference": "Isaiah 4:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'In that day the ______ of the LORD will be beautiful and glorious.'",
+  "options": [
+    "Branch",
+    "Vine",
+    "Tower",
+    "Light"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 4:2 says that in that day the Branch of the LORD will be beautiful and glorious."
+}

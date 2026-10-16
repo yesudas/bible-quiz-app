@@ -1,0 +1,37 @@
+{
+  "id": "09-021-007",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 21,
+  "verse_reference": "1 Samuel 21:10",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "To which king did David flee after leaving Nob?",
+  "options": [
+    "Achish king of Gath",
+    "Nahash the Ammonite",
+    "Agag king of the Amalekites",
+    "The king of Moab"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "David",
+    "Achish"
+  ],
+  "places": [
+    {
+      "name": "Gath",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "That day David fled from Saul and went to Achish king of Gath."
+}

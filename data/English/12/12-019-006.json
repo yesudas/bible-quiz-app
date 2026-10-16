@@ -1,0 +1,37 @@
+{
+  "id": "12-019-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 19,
+  "verse_reference": "2 Kings 19:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Hezekiah prayed: \"LORD, the God of Israel, enthroned between the ______, you alone are God over all the kingdoms of the earth.\"",
+  "options": [
+    "stars",
+    "cherubim",
+    "clouds",
+    "nations"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hezekiah began his prayer by praising the LORD, enthroned between the cherubim, as the only God over all kingdoms."
+}

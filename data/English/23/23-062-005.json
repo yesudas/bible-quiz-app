@@ -1,0 +1,33 @@
+{
+  "id": "23-062-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 62,
+  "verse_reference": "Isaiah 62:6",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whom has God posted on the walls of Jerusalem in Isaiah 62:6?",
+  "options": [
+    "Soldiers",
+    "Watchmen",
+    "Priests",
+    "Singers"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 62:6 says, 'I have posted watchmen on your walls, Jerusalem; they will never be silent day or night.'"
+}

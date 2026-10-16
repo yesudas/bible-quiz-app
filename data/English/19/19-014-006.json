@@ -1,0 +1,42 @@
+{
+  "id": "19-014-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 14,
+  "verse_reference": "Psalm 14:7",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 14:7, salvation for Israel will come out of where?",
+  "options": [
+    "Egypt",
+    "Bethlehem",
+    "Zion",
+    "Sinai"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Hope"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "mountain"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 14:7 says, \"Oh, that salvation for Israel would come out of Zion!\""
+}

@@ -1,0 +1,38 @@
+{
+  "id": "11-014-008",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 14,
+  "verse_reference": "1 Kings 14:17",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When did Jeroboam's son die?",
+  "options": [
+    "As soon as his mother stepped over the threshold of the house in Tirzah",
+    "Seven days after she returned",
+    "While she was still with Ahijah",
+    "The next morning"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Jeroboam's wife",
+    "Abijah son of Jeroboam"
+  ],
+  "places": [
+    {
+      "name": "Tirzah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeroboam's wife went to Tirzah, and as soon as she stepped over the threshold of the house, the boy died, just as the LORD had said."
+}

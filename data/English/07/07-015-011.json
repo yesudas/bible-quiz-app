@@ -1,0 +1,38 @@
+{
+  "id": "07-015-011",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 15,
+  "verse_reference": "Judges 15:15",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Samson use to strike down the Philistines at Lehi?",
+  "options": [
+    "An ox goad",
+    "A wooden club",
+    "The fresh jawbone of a donkey",
+    "A bronze spear"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit",
+    "Miracles"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [
+    {
+      "name": "Lehi",
+      "type": "place"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samson found a fresh jawbone of a donkey, grabbed it, and struck down the Philistines."
+}

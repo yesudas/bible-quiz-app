@@ -1,0 +1,32 @@
+{
+  "id": "17-006-005",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 6,
+  "verse_reference": "Esther 6:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When the king asked what should be done for the man he delighted to honor, who did Haman think the king meant?",
+  "options": [
+    "Mordecai",
+    "Memukan",
+    "Himself",
+    "One of the king's sons"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Pride"
+  ],
+  "characters": [
+    "Haman",
+    "Xerxes"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Haman thought to himself, 'Who is there that the king would rather honor than me?'"
+}

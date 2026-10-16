@@ -1,0 +1,19 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Ophir",
+    "label": "Ophir",
+    "count": 9,
+    "paths": [
+        "English/11/11-009-013.json",
+        "English/11/11-010-007.json",
+        "English/11/11-022-018.json",
+        "English/14/14-008-013.json",
+        "English/14/14-008-014.json",
+        "English/14/14-009-006.json",
+        "English/18/18-022-008.json",
+        "English/19/19-045-006.json",
+        "English/23/23-013-004.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

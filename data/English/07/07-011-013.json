@@ -1,0 +1,44 @@
+{
+  "id": "07-011-013",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 11,
+  "verse_reference": "Judges 11:33",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many Ammonite towns did Jephthah devastate from Aroer to Minnith?",
+  "options": [
+    "Seventy",
+    "Twenty",
+    "Thirty",
+    "Seven"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "Jephthah"
+  ],
+  "places": [
+    {
+      "name": "Aroer",
+      "type": "town"
+    },
+    {
+      "name": "Minnith",
+      "type": "town"
+    },
+    {
+      "name": "Abel Keramim",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jephthah devastated twenty towns from Aroer to Minnith, as far as Abel Keramim. So Ammon was subdued by Israel."
+}

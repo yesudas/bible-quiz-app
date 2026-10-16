@@ -1,0 +1,45 @@
+{
+  "id": "14-008-013",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 8,
+  "verse_reference": "2 Chronicles 8:17-18",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Solomon's and Hiram's ships sail to bring back gold?",
+  "options": [
+    "Ophir",
+    "Tarshish",
+    "Egypt",
+    "Sheba"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Solomon",
+    "Hiram"
+  ],
+  "places": [
+    {
+      "name": "Ophir",
+      "type": "region"
+    },
+    {
+      "name": "Ezion Geber",
+      "type": "city"
+    },
+    {
+      "name": "Elath",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hiram's men sailed with Solomon's men to Ophir and brought back gold to King Solomon."
+}

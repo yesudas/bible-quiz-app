@@ -1,0 +1,34 @@
+{
+  "id": "11-003-015",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 3,
+  "verse_reference": "1 Kings 3:26-27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Solomon know which woman was the real mother?",
+  "options": [
+    "She knew the baby's name",
+    "She cried the loudest",
+    "She was willing to give up the baby so he would not be killed",
+    "She showed him a birth record"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Love",
+    "Family"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The real mother was filled with love for her son and begged the king to give the baby to the other woman rather than kill him."
+}

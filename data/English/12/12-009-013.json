@@ -1,0 +1,36 @@
+{
+  "id": "12-009-013",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 9,
+  "verse_reference": "2 Kings 9:27",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Ahaziah king of Judah die after he was wounded?",
+  "options": [
+    "Megiddo",
+    "Jezreel",
+    "Jerusalem",
+    "Samaria"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Ahaziah",
+    "Jehu"
+  ],
+  "places": [
+    {
+      "name": "Megiddo",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahaziah was wounded near Ibleam, escaped to Megiddo and died there."
+}

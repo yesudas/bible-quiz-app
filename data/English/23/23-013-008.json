@@ -1,0 +1,34 @@
+{
+  "id": "23-013-008",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 13,
+  "verse_reference": "Isaiah 13:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After its fall, which animals would howl in Babylon's strongholds?",
+  "options": [
+    "Hyenas",
+    "Lions",
+    "Bears",
+    "Wolves"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 13:22 says hyenas will howl in her strongholds and jackals in her luxurious palaces."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "23-031-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 31,
+  "verse_reference": "Isaiah 31:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Like what will the LORD Almighty shield Jerusalem?",
+  "options": [
+    "Like a wall of stone",
+    "Like a cloud of fire",
+    "Like birds hovering overhead",
+    "Like a mighty army"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 31:5 says, 'Like birds hovering overhead, the LORD Almighty will shield Jerusalem.'"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "19-028-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 28,
+  "verse_reference": "Psalm 28:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 28:1, what does David ask the LORD not to turn to him?",
+  "options": [
+    "His back",
+    "A deaf ear",
+    "His anger",
+    "His face"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 28:1 says, \"To you, LORD, I call; you are my Rock, do not turn a deaf ear to me.\""
+}

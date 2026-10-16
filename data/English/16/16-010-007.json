@@ -1,0 +1,33 @@
+{
+  "id": "16-010-007",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 10,
+  "verse_reference": "Nehemiah 10:34",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did they decide when each family would bring wood to burn on the altar?",
+  "options": [
+    "The high priest chose them",
+    "The oldest family went first",
+    "They cast lots",
+    "The king decided"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House of God",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priests, Levites and people cast lots to determine when each family would bring a contribution of wood to burn on the altar of the LORD."
+}

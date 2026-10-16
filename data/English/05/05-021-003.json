@@ -1,0 +1,31 @@
+{
+  "id": "05-021-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 21,
+  "verse_reference": "Deuteronomy 21:6-8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the elders declare as they washed their hands in the ceremony?",
+  "options": [
+    "That they knew who the killer was",
+    "That they would pay a fine",
+    "That their hands did not shed this blood and their eyes did not see it done",
+    "That they would search for the killer"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Justice",
+    "Prayer",
+    "Forgiveness"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elders washed their hands over the heifer and declared their innocence, asking the Lord to accept atonement and not hold His people guilty of innocent blood."
+}

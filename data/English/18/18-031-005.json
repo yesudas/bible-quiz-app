@@ -1,0 +1,33 @@
+{
+  "id": "18-031-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 31,
+  "verse_reference": "Job 31:19-20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Job said he warmed people who lacked clothing with what?",
+  "options": [
+    "Fire from his hearth",
+    "Robes from the king",
+    "Fleece from his sheep",
+    "Blankets of camel hair"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Money"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said that when he saw anyone perishing for lack of clothing, he warmed them with fleece from his sheep."
+}

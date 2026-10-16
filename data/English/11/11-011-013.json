@@ -1,0 +1,33 @@
+{
+  "id": "11-011-013",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 11,
+  "verse_reference": "1 Kings 11:30-31",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Into how many pieces did the prophet Ahijah tear his new cloak?",
+  "options": [
+    "Two",
+    "Seven",
+    "Twelve",
+    "Ten"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Ahijah",
+    "Jeroboam"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahijah took hold of the new cloak he was wearing and tore it into twelve pieces."
+}

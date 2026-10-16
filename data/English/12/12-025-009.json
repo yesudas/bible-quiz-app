@@ -1,0 +1,39 @@
+{
+  "id": "12-025-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 25,
+  "verse_reference": "2 Kings 25:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Babylonians do with the bronze pillars and the bronze Sea from the temple?",
+  "options": [
+    "Broke them up and carried the bronze to Babylon",
+    "Buried them in Jerusalem",
+    "Melted them into weapons in Judah",
+    "Hid them in the Jordan"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Babylonians broke up the bronze pillars, the movable stands and the bronze Sea, and carried the bronze to Babylon."
+}

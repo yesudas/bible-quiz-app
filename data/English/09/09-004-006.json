@@ -1,0 +1,29 @@
+{
+  "id": "09-004-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 4,
+  "verse_reference": "1 Samuel 4:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The Philistines said, \"Be strong, Philistines! Be men, or you will be subject to the ___.\"",
+  "options": [
+    "Egyptians",
+    "Hebrews",
+    "Amorites",
+    "Canaanites"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Philistines encouraged one another to fight, so that they would not become subject to the Hebrews."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "11-022-009",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 22,
+  "verse_reference": "1 Kings 22:24",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who slapped Micaiah in the face?",
+  "options": [
+    "Zedekiah son of Kenaanah",
+    "The king of Israel",
+    "Jehoshaphat",
+    "Amon the ruler of the city"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Zedekiah son of Kenaanah",
+    "Micaiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zedekiah son of Kenaanah went up and slapped Micaiah in the face."
+}

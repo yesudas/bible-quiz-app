@@ -1,0 +1,31 @@
+{
+  "id": "19-130-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 130,
+  "verse_reference": "Psalm 130:6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "The psalmist waits for the Lord more than whom wait for the morning?",
+  "options": [
+    "Watchmen",
+    "Shepherds",
+    "Farmers",
+    "Soldiers"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He waits for the Lord more than watchmen wait for the morning."
+}

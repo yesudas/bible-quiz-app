@@ -1,0 +1,37 @@
+{
+  "id": "23-002-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 2,
+  "verse_reference": "Isaiah 2:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does Isaiah say will happen to the mountain of the LORD's temple in the last days?",
+  "options": [
+    "It will be covered by the sea",
+    "It will be moved to another land",
+    "It will be established as the highest of the mountains",
+    "It will be hidden from all nations"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Hope",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mountain of the LORD's temple",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 2:2 says that in the last days the mountain of the LORD's temple will be established as the highest of the mountains, and all nations will stream to it."
+}

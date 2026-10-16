@@ -1,0 +1,36 @@
+{
+  "id": "09-028-010",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 28,
+  "verse_reference": "1 Samuel 28:14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the woman describe the figure she saw coming up?",
+  "options": [
+    "A young man with a sword",
+    "A king with a crown",
+    "An angel with wings",
+    "An old man wearing a robe"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Samuel",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Endor",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "She said, \"An old man wearing a robe is coming up.\" Then Saul knew it was Samuel, and he bowed down with his face to the ground."
+}

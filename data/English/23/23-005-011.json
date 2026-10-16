@@ -1,0 +1,31 @@
+{
+  "id": "23-005-011",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 5,
+  "verse_reference": "Isaiah 5:21",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Isaiah pronounced woe on those who are wise in whose eyes?",
+  "options": [
+    "The king's eyes",
+    "Their own eyes",
+    "God's eyes",
+    "Their parents' eyes"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Pride"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 5:21 says, 'Woe to those who are wise in their own eyes and clever in their own sight.'"
+}

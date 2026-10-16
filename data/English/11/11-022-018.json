@@ -1,0 +1,40 @@
+{
+  "id": "11-022-018",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 22,
+  "verse_reference": "1 Kings 22:48",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where were Jehoshaphat's trading ships wrecked before they could sail to Ophir for gold?",
+  "options": [
+    "Joppa",
+    "Ezion Geber",
+    "Tyre",
+    "Sidon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Jehoshaphat"
+  ],
+  "places": [
+    {
+      "name": "Ezion Geber",
+      "type": "town"
+    },
+    {
+      "name": "Ophir",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoshaphat built a fleet of trading ships to go to Ophir for gold, but they never set sail; they were wrecked at Ezion Geber."
+}

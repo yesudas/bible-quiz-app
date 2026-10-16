@@ -1,0 +1,31 @@
+{
+  "id": "23-005-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 5,
+  "verse_reference": "Isaiah 5:8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Isaiah pronounced woe on those who added house to house and joined what together?",
+  "options": [
+    "City to city",
+    "Field to field",
+    "Wall to wall",
+    "Tribe to tribe"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Sin",
+    "Justice"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 5:8 says, 'Woe to you who add house to house and join field to field till no space is left.'"
+}

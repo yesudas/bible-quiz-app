@@ -1,0 +1,31 @@
+{
+  "id": "16-009-005",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 9,
+  "verse_reference": "Nehemiah 9:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In the prayer, what did the people say God made?",
+  "options": [
+    "The heavens, the earth, the seas and all that is in them",
+    "Only the land of Israel",
+    "Only the temple in Jerusalem",
+    "The city wall"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The prayer says the LORD alone made the heavens, the highest heavens, the earth and all that is on it, and the seas and all that is in them."
+}

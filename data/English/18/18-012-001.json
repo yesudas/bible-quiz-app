@@ -1,0 +1,31 @@
+{
+  "id": "18-012-001",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 12,
+  "verse_reference": "Job 12:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Job mean when he told his friends, \"Wisdom will die with you!\"?",
+  "options": [
+    "He truly believed they were the wisest men alive",
+    "He was warning them they would soon die",
+    "He was praising their kindness",
+    "He was mocking them for thinking they alone were wise"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job was speaking with sarcasm. He went on to say, 'I have a mind as well as you; I am not inferior to you.'"
+}

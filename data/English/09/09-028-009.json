@@ -1,0 +1,36 @@
+{
+  "id": "09-028-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 28,
+  "verse_reference": "1 Samuel 28:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the woman realize when she saw Samuel?",
+  "options": [
+    "That she was dreaming",
+    "That the visitor was a Philistine",
+    "That the visitor was Saul",
+    "That she had called the wrong person"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Saul",
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "Endor",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the woman saw Samuel, she cried out and said to Saul, \"Why have you deceived me? You are Saul!\""
+}

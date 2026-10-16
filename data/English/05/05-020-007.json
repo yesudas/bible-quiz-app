@@ -1,0 +1,31 @@
+{
+  "id": "05-020-007",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 20,
+  "verse_reference": "Deuteronomy 20:19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What were the Israelites forbidden to cut down during a long siege of a city?",
+  "options": [
+    "Fruit trees, though they could eat from them",
+    "All trees of every kind",
+    "The city walls",
+    "Their own tents"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Creation",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "During a long siege Israel could eat from the fruit trees but must not cut them down, since the trees are not the enemy; only non-fruit trees could be used for siege works."
+}

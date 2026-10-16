@@ -1,0 +1,37 @@
+{
+  "id": "14-031-003",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 31,
+  "verse_reference": "2 Chronicles 31:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Hezekiah order the people to give the portion due to the priests and Levites?",
+  "options": [
+    "So the priests could become rich",
+    "So they could build more towers",
+    "So they could pay Assyria",
+    "So they could devote themselves to the Law of the LORD"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Money",
+    "Worship"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He ordered the people to give the portion due the priests and Levites so they could devote themselves to the Law of the LORD."
+}

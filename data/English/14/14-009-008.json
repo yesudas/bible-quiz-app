@@ -1,0 +1,30 @@
+{
+  "id": "14-009-008",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 9,
+  "verse_reference": "2 Chronicles 9:13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How much gold did Solomon receive each year?",
+  "options": [
+    "120 talents",
+    "450 talents",
+    "1,000 talents",
+    "666 talents"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The weight of the gold that Solomon received yearly was 666 talents."
+}

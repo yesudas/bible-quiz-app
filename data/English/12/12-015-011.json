@@ -1,0 +1,49 @@
+{
+  "id": "12-015-011",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 15,
+  "verse_reference": "2 Kings 15:29",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which king of Assyria took Gilead, Galilee and Naphtali and deported the people?",
+  "options": [
+    "Tiglath-Pileser",
+    "Shalmaneser",
+    "Sennacherib",
+    "Nebuchadnezzar"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Tiglath-Pileser",
+    "Pekah"
+  ],
+  "places": [
+    {
+      "name": "Gilead",
+      "type": "region"
+    },
+    {
+      "name": "Galilee",
+      "type": "region"
+    },
+    {
+      "name": "Naphtali",
+      "type": "region"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the time of Pekah, Tiglath-Pileser king of Assyria took Gilead, Galilee and all Naphtali and deported the people to Assyria."
+}

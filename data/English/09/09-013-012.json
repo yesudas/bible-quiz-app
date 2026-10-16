@@ -1,0 +1,29 @@
+{
+  "id": "09-013-012",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 13,
+  "verse_reference": "1 Samuel 13:20",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the Israelites have to go to sharpen their farming tools?",
+  "options": [
+    "To Egypt",
+    "To the priests",
+    "To Samuel",
+    "To the Philistines"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All Israel went down to the Philistines to have their plow points, mattocks, axes and sickles sharpened."
+}

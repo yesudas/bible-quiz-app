@@ -1,0 +1,33 @@
+{
+  "id": "19-037-010",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 37,
+  "verse_reference": "Psalm 37:25",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 37:25, David says he was young and now is old. What has he never seen?",
+  "options": [
+    "A poor man become rich",
+    "The righteous forsaken or their children begging bread",
+    "A king lose his throne",
+    "A wicked man punished"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Provision",
+    "Faith",
+    "Family"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 37:25 says, \"I was young and now I am old, yet I have never seen the righteous forsaken or their children begging bread.\""
+}

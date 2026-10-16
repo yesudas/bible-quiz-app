@@ -1,0 +1,40 @@
+{
+  "id": "07-001-008",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 1,
+  "verse_reference": "Judges 1:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Caleb promise to give the man who attacked and captured Kiriath Sepher?",
+  "options": [
+    "A large field of his own",
+    "A hundred pieces of silver",
+    "Command of Judah's army",
+    "His daughter Aksah in marriage"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Marriage",
+    "Courage"
+  ],
+  "characters": [
+    "Caleb",
+    "Aksah"
+  ],
+  "places": [
+    {
+      "name": "Debir",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Caleb said he would give his daughter Aksah in marriage to the man who captured Kiriath Sepher (Debir)."
+}

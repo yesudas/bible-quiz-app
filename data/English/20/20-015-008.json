@@ -1,0 +1,30 @@
+{
+  "id": "20-015-008",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 15,
+  "verse_reference": "Proverbs 15:29",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 15:29, whose prayer does the LORD hear?",
+  "options": [
+    "The wicked",
+    "The proud",
+    "The rich",
+    "The righteous"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 15:29 says the LORD is far from the wicked, but He hears the prayer of the righteous."
+}

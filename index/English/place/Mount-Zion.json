@@ -1,0 +1,21 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Mount-Zion",
+    "label": "Mount Zion",
+    "count": 11,
+    "paths": [
+        "English/19/19-048-002.json",
+        "English/19/19-048-003.json",
+        "English/19/19-074-001.json",
+        "English/19/19-078-014.json",
+        "English/19/19-125-001.json",
+        "English/19/19-133-003.json",
+        "English/23/23-004-005.json",
+        "English/23/23-018-004.json",
+        "English/23/23-024-008.json",
+        "English/23/23-029-002.json",
+        "English/23/23-031-003.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

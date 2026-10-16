@@ -1,0 +1,33 @@
+{
+  "id": "11-013-005",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 13,
+  "verse_reference": "1 Kings 13:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How was Jeroboam's hand healed?",
+  "options": [
+    "The man of God prayed to the LORD for him",
+    "A priest put oil on it",
+    "He washed it in the Jordan",
+    "It healed by itself after seven days"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Miracles"
+  ],
+  "characters": [
+    "Jeroboam"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king asked the man of God to intercede with the LORD, so he did, and the king's hand was restored."
+}

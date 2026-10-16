@@ -1,0 +1,31 @@
+{
+  "id": "19-057-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 57,
+  "verse_reference": "Psalm 57:5, 11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse that appears twice in Psalm 57: \"Be exalted, O God, above the heavens; let your ____ be over all the earth.\"",
+  "options": [
+    "kingdom",
+    "peace",
+    "name",
+    "glory"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David repeats this praise, asking that God's glory be over all the earth."
+}

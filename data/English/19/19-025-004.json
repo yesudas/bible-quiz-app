@@ -1,0 +1,34 @@
+{
+  "id": "19-025-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 25,
+  "verse_reference": "Psalm 25:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 25:7, what does David ask the LORD not to remember?",
+  "options": [
+    "His enemies' names",
+    "His father's mistakes",
+    "The wars he fought",
+    "The sins of his youth"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Forgiveness",
+    "Repentance",
+    "Sin"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 25:7 says, \"Do not remember the sins of my youth and my rebellious ways; according to your love remember me.\""
+}

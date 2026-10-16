@@ -1,0 +1,35 @@
+{
+  "id": "07-004-019",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 4,
+  "verse_reference": "Judges 4:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete what Deborah said to Barak: \"Go! This is the day the LORD has given Sisera into your hands. Has not the ___ gone ahead of you?\"",
+  "options": [
+    "LORD",
+    "army",
+    "angel",
+    "ark"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Courage"
+  ],
+  "characters": [
+    "Deborah",
+    "Barak",
+    "Sisera"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Deborah encouraged Barak that the LORD had gone ahead of him, so Barak went down from Mount Tabor."
+}

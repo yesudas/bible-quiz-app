@@ -1,0 +1,38 @@
+{
+  "id": "19-048-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 48,
+  "verse_reference": "Psalm 48:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 48:2, Mount Zion is the city of whom?",
+  "options": [
+    "The great prophet",
+    "The Great King",
+    "The high priest",
+    "The first king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Kingship",
+    "Worship"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "Mount Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 48:2 says Mount Zion is \"the city of the Great King.\""
+}

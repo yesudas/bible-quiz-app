@@ -1,0 +1,34 @@
+{
+  "id": "11-008-006",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 8,
+  "verse_reference": "1 Kings 8:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why could the priests not do their work in the temple?",
+  "options": [
+    "The doors were locked",
+    "The ark was too heavy",
+    "The glory of the LORD filled His temple",
+    "The king told them to stop"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priests could not perform their service because of the cloud, for the glory of the LORD filled His temple."
+}

@@ -1,0 +1,25 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Manoah",
+    "label": "Manoah",
+    "count": 15,
+    "paths": [
+        "English/07/07-013-002.json",
+        "English/07/07-013-003.json",
+        "English/07/07-013-004.json",
+        "English/07/07-013-005.json",
+        "English/07/07-013-009.json",
+        "English/07/07-013-010.json",
+        "English/07/07-013-011.json",
+        "English/07/07-013-012.json",
+        "English/07/07-013-013.json",
+        "English/07/07-013-014.json",
+        "English/07/07-013-015.json",
+        "English/07/07-014-002.json",
+        "English/07/07-014-003.json",
+        "English/07/07-014-007.json",
+        "English/07/07-016-022.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "09-022-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 22,
+  "verse_reference": "1 Samuel 22:18",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many priests who wore the linen ephod were killed that day?",
+  "options": [
+    "Seventy",
+    "Forty",
+    "Eighty-five",
+    "One hundred"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Doeg"
+  ],
+  "places": [
+    {
+      "name": "Nob",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "That day Doeg killed eighty-five men who wore the linen ephod."
+}

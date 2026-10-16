@@ -1,0 +1,33 @@
+{
+  "id": "19-051-009",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 51,
+  "verse_reference": "Psalm 51:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Create in me a pure ____, O God, and renew a steadfast spirit within me.\"",
+  "options": [
+    "mind",
+    "heart",
+    "soul",
+    "life"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David asked God to create a pure heart in him."
+}

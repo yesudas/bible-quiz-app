@@ -1,0 +1,30 @@
+{
+  "id": "19-119-012",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 119,
+  "verse_reference": "Psalm 119:73",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 119:73, what made and formed the psalmist?",
+  "options": [
+    "His parents' hands",
+    "The dust of the earth",
+    "An angel",
+    "God's hands"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He said, \"Your hands made me and formed me; give me understanding to learn your commands.\""
+}

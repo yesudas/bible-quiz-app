@@ -1,0 +1,34 @@
+{
+  "id": "19-023-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 23,
+  "verse_reference": "Psalm 23:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 23:5, the LORD prepares a table before David in the presence of whom?",
+  "options": [
+    "His family",
+    "The priests",
+    "The angels",
+    "His enemies"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Provision",
+    "Protection"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 23:5 says, \"You prepare a table before me in the presence of my enemies.\""
+}

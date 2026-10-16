@@ -1,0 +1,39 @@
+{
+  "id": "11-019-015",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 19,
+  "verse_reference": "1 Kings 19:16",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Whom did the LORD tell Elijah to anoint to succeed him as prophet?",
+  "options": [
+    "Obadiah",
+    "Jehu",
+    "Elisha",
+    "Micaiah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Elijah",
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Abel Meholah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Elijah to anoint Elisha son of Shaphat from Abel Meholah to succeed him as prophet."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "17-001-012",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 1,
+  "verse_reference": "Esther 1:22",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the king's dispatches to all the provinces proclaim?",
+  "options": [
+    "That every man should be ruler over his own household",
+    "That all people must worship the king",
+    "That taxes would be doubled",
+    "That a new queen had been chosen"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Marriage",
+    "Law"
+  ],
+  "characters": [
+    "Xerxes"
+  ],
+  "places": [
+    {
+      "name": "Persia",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king sent dispatches to every province in its own script and language, proclaiming that every man should be ruler over his own household."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "17-009-007",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 9,
+  "verse_reference": "Esther 9:17-18",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "On which day of Adar did the Jews in Susa rest and make it a day of feasting and joy?",
+  "options": [
+    "The fifteenth",
+    "The thirteenth",
+    "The fourteenth",
+    "The twentieth"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Feasts",
+    "Joy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Susa",
+      "type": "citadel"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Jews in Susa gathered on the thirteenth and fourteenth, and on the fifteenth they rested and made it a day of feasting and joy."
+}

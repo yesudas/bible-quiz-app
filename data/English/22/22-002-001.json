@@ -1,0 +1,35 @@
+{
+  "id": "22-002-001",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 2,
+  "verse_reference": "Song of Songs 2:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"I am a rose of ____, a lily of the valleys.\"",
+  "options": [
+    "Lebanon",
+    "Sharon",
+    "Gilead",
+    "Carmel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sharon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Song of Songs 2:1 the woman calls herself a rose of Sharon, a lily of the valleys."
+}

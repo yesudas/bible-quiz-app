@@ -1,0 +1,30 @@
+{
+  "id": "05-017-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 17,
+  "verse_reference": "Deuteronomy 17:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How many witnesses were required before a person could be put to death?",
+  "options": [
+    "The testimony of one witness",
+    "The word of a priest alone",
+    "The testimony of two or three witnesses",
+    "The vote of the whole town"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Justice",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A person could be put to death only on the testimony of two or three witnesses, never on the testimony of just one witness."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "07-016-005",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 16,
+  "verse_reference": "Judges 16:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How much did each Philistine ruler promise to give Delilah?",
+  "options": [
+    "Thirty pieces of silver",
+    "A thousand shekels of gold",
+    "Seventy shekels of silver",
+    "Eleven hundred shekels of silver"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money",
+    "Temptation"
+  ],
+  "characters": [
+    "Delilah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Each of the Philistine rulers promised to give Delilah eleven hundred shekels of silver."
+}

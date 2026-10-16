@@ -1,0 +1,38 @@
+{
+  "id": "14-024-007",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 24,
+  "verse_reference": "2 Chronicles 24:12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did the king and Jehoiada hire with the money?",
+  "options": [
+    "Soldiers from Aram",
+    "Singers and musicians",
+    "Masons, carpenters and workers in iron and bronze",
+    "Priests from other lands"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [
+    "Joash",
+    "Jehoiada"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They hired masons and carpenters, and also workers in iron and bronze, to repair the temple."
+}

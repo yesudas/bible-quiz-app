@@ -1,0 +1,30 @@
+{
+  "id": "21-004-002",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 4,
+  "verse_reference": "Ecclesiastes 4:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to the Teacher, what do all toil and achievement spring from?",
+  "options": [
+    "Love for family",
+    "Fear of God",
+    "Envy of one's neighbor",
+    "The need for food"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Temptation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Teacher saw that all toil and achievement spring from one person's envy of another, and he called this meaningless."
+}

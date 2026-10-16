@@ -1,0 +1,35 @@
+{
+  "id": "14-009-009",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 9,
+  "verse_reference": "2 Chronicles 9:15-16",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Solomon put the large and small shields of hammered gold?",
+  "options": [
+    "In the Palace of the Forest of Lebanon",
+    "In the temple treasury",
+    "At the city gates",
+    "In the Most Holy Place"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Palace of the Forest of Lebanon",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon made 200 large shields and 300 small shields of hammered gold and put them in the Palace of the Forest of Lebanon."
+}

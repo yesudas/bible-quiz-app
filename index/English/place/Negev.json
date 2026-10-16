@@ -1,0 +1,15 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Negev",
+    "label": "Negev",
+    "count": 5,
+    "paths": [
+        "English/06/06-015-009.json",
+        "English/06/06-015-010.json",
+        "English/07/07-001-010.json",
+        "English/09/09-030-001.json",
+        "English/19/19-126-004.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

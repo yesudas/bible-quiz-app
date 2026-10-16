@@ -1,0 +1,31 @@
+{
+  "id": "10-021-004",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 21,
+  "verse_reference": "2 Samuel 21:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Gibeonites say they had no right to demand from Saul's family?",
+  "options": [
+    "Land",
+    "Silver or gold",
+    "Cattle",
+    "Their freedom"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Justice"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Gibeonites said they had no right to demand silver or gold from Saul or his family, or to put anyone in Israel to death."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "10-014-006",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 14,
+  "verse_reference": "2 Samuel 14:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "David promised the woman: \"Not one ______ of your son's head will fall to the ground.\"",
+  "options": [
+    "drop",
+    "hair",
+    "stone",
+    "tear"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Justice"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king said, \"As surely as the LORD lives, not one hair of your son's head will fall to the ground.\""
+}

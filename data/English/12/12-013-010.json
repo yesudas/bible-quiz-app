@@ -1,0 +1,38 @@
+{
+  "id": "12-013-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 13,
+  "verse_reference": "2 Kings 13:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was Elisha angry with Jehoash?",
+  "options": [
+    "He shot the arrow the wrong way",
+    "He did not bring enough arrows",
+    "He refused to strike the ground",
+    "He should have struck the ground five or six times to completely destroy Aram"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Prophecy"
+  ],
+  "characters": [
+    "Elisha",
+    "Jehoash"
+  ],
+  "places": [
+    {
+      "name": "Aram",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha said if Jehoash had struck five or six times he would have defeated Aram completely, but now he would defeat it only three times."
+}

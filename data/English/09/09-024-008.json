@@ -1,0 +1,38 @@
+{
+  "id": "09-024-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 24,
+  "verse_reference": "1 Samuel 24:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did David do after Saul left the cave?",
+  "options": [
+    "He called out to Saul and bowed down with his face to the ground",
+    "He ran the other way",
+    "He sent a messenger to Jonathan",
+    "He chased Saul with his sword"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Cave near the sheep pens",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David went out of the cave and called to Saul, \"My lord the king!\" When Saul looked behind him, David bowed down with his face to the ground."
+}

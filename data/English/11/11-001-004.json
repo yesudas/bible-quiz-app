@@ -1,0 +1,32 @@
+{
+  "id": "11-001-004",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 1,
+  "verse_reference": "1 Kings 1:6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Adonijah was born next after which of David's sons?",
+  "options": [
+    "Absalom",
+    "Amnon",
+    "Solomon",
+    "Nathan"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Adonijah",
+    "Absalom"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Adonijah was very handsome and was born next after Absalom."
+}

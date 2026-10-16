@@ -1,0 +1,40 @@
+{
+  "id": "09-002-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 2,
+  "verse_reference": "1 Samuel 2:25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Eli's sons respond when Eli warned them about their sin?",
+  "options": [
+    "They repented and changed",
+    "They left Shiloh",
+    "They asked Samuel to pray for them",
+    "They did not listen to their father"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Repentance",
+    "Family"
+  ],
+  "characters": [
+    "Eli",
+    "Hophni",
+    "Phinehas"
+  ],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eli warned his sons, but they did not listen to their father's rebuke, for it was the LORD's will to put them to death."
+}

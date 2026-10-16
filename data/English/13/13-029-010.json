@@ -1,0 +1,33 @@
+{
+  "id": "13-029-010",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 29,
+  "verse_reference": "1 Chronicles 29:22",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "When Solomon was anointed king the second time, who was anointed to be priest?",
+  "options": [
+    "Zadok",
+    "Abiathar",
+    "Ahimelek",
+    "Jehoiada"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Priesthood",
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon",
+    "Zadok"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They acknowledged Solomon as king a second time, anointing him to be ruler and Zadok to be priest."
+}

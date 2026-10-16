@@ -1,0 +1,39 @@
+{
+  "id": "11-001-013",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 1,
+  "verse_reference": "1 Kings 1:39",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who anointed Solomon with oil to make him king?",
+  "options": [
+    "Nathan the prophet",
+    "Abiathar the priest",
+    "Zadok the priest",
+    "Benaiah son of Jehoiada"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [
+    "Zadok",
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Gihon",
+      "type": "spring"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zadok the priest took the horn of oil from the sacred tent and anointed Solomon."
+}

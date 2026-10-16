@@ -1,0 +1,33 @@
+{
+  "id": "07-006-009",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 6,
+  "verse_reference": "Judges 6:11",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was Gideon's father?",
+  "options": [
+    "Kenaz",
+    "Joash",
+    "Abinoam",
+    "Gera"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Gideon",
+    "Joash"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon was the son of Joash the Abiezrite, who owned the oak in Ophrah."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "22-004-002",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 4,
+  "verse_reference": "Song of Songs 4:4",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "The beloved compares the woman's neck to the tower of which king?",
+  "options": [
+    "Solomon",
+    "David",
+    "Saul",
+    "Hezekiah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 4:4 says her neck is like the tower of David, on which hang a thousand shields."
+}

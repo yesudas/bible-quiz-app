@@ -1,0 +1,38 @@
+{
+  "id": "09-017-007",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 17,
+  "verse_reference": "1 Samuel 17:17-18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did Jesse send David to the battle camp?",
+  "options": [
+    "To fight Goliath",
+    "To bring food to his brothers and see how they were",
+    "To carry a message to Saul",
+    "To take Saul's armor"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "David",
+    "Jesse"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesse sent David with roasted grain, loaves of bread and cheeses, and told him to see how his brothers were."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "10-023-001",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 23,
+  "verse_reference": "2 Samuel 23:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How is David described at the start of his last words?",
+  "options": [
+    "The wisest king of the earth",
+    "The builder of the temple",
+    "The man exalted by the Most High and the hero of Israel's songs",
+    "The strongest warrior in Judah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David is called the man exalted by the Most High, the man anointed by the God of Jacob, and the hero of Israel's songs."
+}

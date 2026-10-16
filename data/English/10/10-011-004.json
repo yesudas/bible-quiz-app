@@ -1,0 +1,32 @@
+{
+  "id": "10-011-004",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 11,
+  "verse_reference": "2 Samuel 11:3",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who was Bathsheba's husband?",
+  "options": [
+    "Joab",
+    "Uriah the Hittite",
+    "Nathan",
+    "Ahithophel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [
+    "Bathsheba",
+    "Uriah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David was told that the woman was Bathsheba, the daughter of Eliam and the wife of Uriah the Hittite."
+}

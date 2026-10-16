@@ -1,0 +1,33 @@
+{
+  "id": "23-051-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 51,
+  "verse_reference": "Isaiah 51:17",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What had Jerusalem drunk from the hand of the LORD in Isaiah 51:17?",
+  "options": [
+    "The cup of blessing",
+    "The cup of salvation",
+    "The cup of his wrath",
+    "The cup of joy"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 51:17 says, 'Awake, awake! Rise up, Jerusalem, you who have drunk from the hand of the LORD the cup of his wrath.'"
+}

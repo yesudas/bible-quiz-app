@@ -1,0 +1,37 @@
+{
+  "id": "12-009-007",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 9,
+  "verse_reference": "2 Kings 9:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the officers do when they heard Jehu was anointed king?",
+  "options": [
+    "Arrested him and sent him to Joram",
+    "Laughed and went away",
+    "Spread their cloaks under him, blew the trumpet and shouted, \"Jehu is king!\"",
+    "Asked Elisha to confirm it"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [
+    "Jehu"
+  ],
+  "places": [
+    {
+      "name": "Ramoth Gilead",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They quickly spread their cloaks under him, blew the trumpet and shouted, 'Jehu is king!'"
+}

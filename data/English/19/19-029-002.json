@@ -1,0 +1,33 @@
+{
+  "id": "19-029-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 29,
+  "verse_reference": "Psalm 29:3-9",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which phrase is repeated again and again in Psalm 29?",
+  "options": [
+    "\"The voice of the LORD\"",
+    "\"The hand of the LORD\"",
+    "\"The love of the LORD\"",
+    "\"The word of the LORD\""
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Creation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 29:3-9 repeats \"The voice of the LORD\" many times, describing its power over creation."
+}

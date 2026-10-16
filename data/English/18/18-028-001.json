@@ -1,0 +1,33 @@
+{
+  "id": "18-028-001",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 28,
+  "verse_reference": "Job 28:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to Job 28:1, there is a mine for which metal?",
+  "options": [
+    "Iron",
+    "Copper",
+    "Bronze",
+    "Silver"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation",
+    "Wisdom"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job 28:1 says, 'There is a mine for silver and a place where gold is refined.'"
+}

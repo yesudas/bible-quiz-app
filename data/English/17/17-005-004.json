@@ -1,0 +1,32 @@
+{
+  "id": "17-005-004",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 5,
+  "verse_reference": "Esther 5:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "What is your request? Even up to ___ the kingdom, it will be given you.",
+  "options": [
+    "all of",
+    "a third of",
+    "a province of",
+    "half"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Kingdom"
+  ],
+  "characters": [
+    "Xerxes",
+    "Esther"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king asked Esther what she wanted and promised to give her even up to half the kingdom."
+}

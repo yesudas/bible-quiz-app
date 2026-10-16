@@ -1,0 +1,38 @@
+{
+  "id": "09-005-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 5,
+  "verse_reference": "1 Samuel 5:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When Dagon fell the second time, what was broken off?",
+  "options": [
+    "Only its feet",
+    "Its head and hands",
+    "Its crown",
+    "Its arms and legs"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Miracles"
+  ],
+  "characters": [
+    "Dagon"
+  ],
+  "places": [
+    {
+      "name": "Temple of Dagon",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The second time, Dagon's head and hands had been broken off and were lying on the threshold; only his body remained."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "23-011-012",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 11,
+  "verse_reference": "Isaiah 11:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Isaiah promised a highway for the remnant, just like the way prepared for Israel when they came up from where?",
+  "options": [
+    "Egypt",
+    "Babylon",
+    "Edom",
+    "Moab"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 11:16 says there will be a highway for the remnant, as there was for Israel when they came up from Egypt."
+}

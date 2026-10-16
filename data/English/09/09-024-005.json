@@ -1,0 +1,36 @@
+{
+  "id": "09-024-005",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 24,
+  "verse_reference": "1 Samuel 24:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did David feel after he cut off the corner of Saul's robe?",
+  "options": [
+    "Proud",
+    "Conscience-stricken",
+    "Afraid",
+    "Angry"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Cave near the sheep pens",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Afterward, David was conscience-stricken for having cut off a corner of Saul's robe."
+}

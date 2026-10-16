@@ -1,0 +1,37 @@
+{
+  "id": "12-006-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 6,
+  "verse_reference": "2 Kings 6:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Elisha ask the LORD to do for his servant?",
+  "options": [
+    "Open his eyes so he could see",
+    "Give him courage to fight",
+    "Make the enemy go away",
+    "Hide them from the army"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Dothan",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha prayed, 'Open his eyes, LORD, so that he may see,' and the servant saw God's army."
+}

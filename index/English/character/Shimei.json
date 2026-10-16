@@ -1,0 +1,22 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Shimei",
+    "label": "Shimei",
+    "count": 12,
+    "paths": [
+        "English/10/10-016-004.json",
+        "English/10/10-016-005.json",
+        "English/10/10-016-006.json",
+        "English/10/10-016-007.json",
+        "English/10/10-016-008.json",
+        "English/10/10-016-009.json",
+        "English/10/10-019-007.json",
+        "English/10/10-019-008.json",
+        "English/11/11-002-005.json",
+        "English/11/11-002-015.json",
+        "English/11/11-002-016.json",
+        "English/13/13-004-008.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

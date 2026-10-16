@@ -1,0 +1,43 @@
+{
+  "id": "12-017-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 17,
+  "verse_reference": "2 Kings 17:6",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened to the Israelites when Samaria was captured?",
+  "options": [
+    "They were deported to Assyria",
+    "They fled to Egypt",
+    "They were made slaves in Samaria",
+    "They moved to Jerusalem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    },
+    {
+      "name": "Habor River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king of Assyria captured Samaria and deported the Israelites to Assyria."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "09-018-007",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 18,
+  "verse_reference": "1 Samuel 18:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was Saul afraid of David?",
+  "options": [
+    "David had a bigger army",
+    "Samuel had cursed Saul",
+    "David had threatened him",
+    "The LORD was with David but had left Saul"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul was afraid of David, because the LORD was with David but had departed from Saul."
+}

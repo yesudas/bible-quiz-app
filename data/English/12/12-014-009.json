@@ -1,0 +1,37 @@
+{
+  "id": "12-014-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 14,
+  "verse_reference": "2 Kings 14:13-14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jehoash do to Jerusalem after capturing Amaziah?",
+  "options": [
+    "Burned the temple",
+    "Broke down part of its wall and took its treasures and hostages",
+    "Made Jerusalem Israel's capital",
+    "Returned it untouched"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Jehoash",
+    "Amaziah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoash broke down a long section of Jerusalem's wall and took the gold, silver, temple articles and hostages to Samaria."
+}

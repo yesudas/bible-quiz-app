@@ -1,0 +1,39 @@
+{
+  "id": "23-051-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 51,
+  "verse_reference": "Isaiah 51:3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "God promised to make Zion's deserts like which garden?",
+  "options": [
+    "Eden",
+    "Gethsemane",
+    "The garden of Babylon",
+    "The garden of the king"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    },
+    {
+      "name": "Eden",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 51:3 says, 'He will make her deserts like Eden, her wastelands like the garden of the LORD.'"
+}

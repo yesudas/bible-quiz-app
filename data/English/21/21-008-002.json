@@ -1,0 +1,30 @@
+{
+  "id": "21-008-002",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 8,
+  "verse_reference": "Ecclesiastes 8:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why does the Teacher say to obey the king's command?",
+  "options": [
+    "Because the king is always right",
+    "Because the king is rich",
+    "Because you took an oath before God",
+    "Because the king will reward you"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Obey the king's command, I say, because you took an oath before God.\""
+}

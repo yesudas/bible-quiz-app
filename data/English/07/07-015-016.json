@@ -1,0 +1,32 @@
+{
+  "id": "07-015-016",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 15,
+  "verse_reference": "Judges 15:20",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How long did Samson lead Israel?",
+  "options": [
+    "Twenty years",
+    "Forty years",
+    "Seven years",
+    "Eight years"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samson led Israel for twenty years in the days of the Philistines."
+}

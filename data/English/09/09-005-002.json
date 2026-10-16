@@ -1,0 +1,41 @@
+{
+  "id": "09-005-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 5,
+  "verse_reference": "1 Samuel 5:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the Philistines put the ark in Ashdod?",
+  "options": [
+    "In the king's palace",
+    "In a cave outside the city",
+    "In Dagon's temple, beside Dagon",
+    "At the city gate"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Dagon"
+  ],
+  "places": [
+    {
+      "name": "Ashdod",
+      "type": "city"
+    },
+    {
+      "name": "Temple of Dagon",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Philistines carried the ark into Dagon's temple and set it beside Dagon."
+}

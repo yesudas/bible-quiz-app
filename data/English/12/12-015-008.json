@@ -1,0 +1,40 @@
+{
+  "id": "12-015-008",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 15,
+  "verse_reference": "2 Kings 15:19",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which king of Assyria invaded Israel during Menahem's reign?",
+  "options": [
+    "Sargon",
+    "Sennacherib",
+    "Shalmaneser",
+    "Pul"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Menahem",
+    "Pul"
+  ],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pul king of Assyria invaded the land during Menahem's reign."
+}

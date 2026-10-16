@@ -1,0 +1,34 @@
+{
+  "id": "09-031-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 31,
+  "verse_reference": "1 Samuel 31:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Israelites across the valley and the Jordan do when they saw Saul and his sons were dead?",
+  "options": [
+    "They crowned David king",
+    "They fought back and won",
+    "They abandoned their towns and fled",
+    "They made peace with the Philistines"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the Israelites saw that the army had fled and Saul and his sons had died, they abandoned their towns and fled, and the Philistines came and occupied them."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "19-030-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 30,
+  "verse_reference": "Psalm 30:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 30:11, what did the LORD remove from David before clothing him with joy?",
+  "options": [
+    "His crown",
+    "His armor",
+    "His sackcloth",
+    "His sandals"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Joy",
+    "Repentance"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 30:11 says, \"You removed my sackcloth and clothed me with joy.\""
+}

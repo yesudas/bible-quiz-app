@@ -1,0 +1,38 @@
+{
+  "id": "13-004-007",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 4,
+  "verse_reference": "1 Chronicles 4:23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What work did the people living at Netaim and Gederah do for the king?",
+  "options": [
+    "They were shepherds",
+    "They were soldiers",
+    "They were potters",
+    "They were singers"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Work"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Netaim",
+      "type": "town"
+    },
+    {
+      "name": "Gederah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Verse 23 says they were the potters who lived at Netaim and Gederah and worked for the king."
+}

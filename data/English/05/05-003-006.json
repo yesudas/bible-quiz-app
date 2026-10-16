@@ -1,0 +1,34 @@
+{
+  "id": "05-003-006",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 3,
+  "verse_reference": "Deuteronomy 3:21-22",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did Moses encourage, telling him not to be afraid because the Lord would fight for Israel?",
+  "options": [
+    "Caleb",
+    "Aaron",
+    "Eleazar",
+    "Joshua"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Faith",
+    "Hope"
+  ],
+  "characters": [
+    "Joshua",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses told Joshua not to be afraid, because the Lord Himself would fight for Israel just as He had defeated the two kings east of the Jordan."
+}

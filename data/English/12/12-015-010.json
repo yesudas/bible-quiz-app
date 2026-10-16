@@ -1,0 +1,37 @@
+{
+  "id": "12-015-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 15,
+  "verse_reference": "2 Kings 15:25",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which chief officer killed King Pekahiah and became king?",
+  "options": [
+    "Hoshea son of Elah",
+    "Pekah son of Remaliah",
+    "Menahem son of Gadi",
+    "Shallum son of Jabesh"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Pekah",
+    "Pekahiah"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pekah son of Remaliah, one of his chief officers, conspired against Pekahiah and killed him."
+}

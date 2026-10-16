@@ -1,0 +1,41 @@
+{
+  "id": "12-006-013",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 6,
+  "verse_reference": "2 Kings 6:21-23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Elisha tell the king of Israel to do with the captured Aramean soldiers?",
+  "options": [
+    "Kill them with the sword",
+    "Give them food and water and send them back to their master",
+    "Keep them as slaves",
+    "Put them in prison"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    },
+    {
+      "name": "Aram",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha told the king not to kill them but to set food and water before them. After a great feast they went home, and the Aramean raids stopped."
+}

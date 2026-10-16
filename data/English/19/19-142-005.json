@@ -1,0 +1,33 @@
+{
+  "id": "19-142-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 142,
+  "verse_reference": "Psalm 142:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"You are my refuge, my ______ in the land of the living.\"",
+  "options": [
+    "portion",
+    "shield",
+    "rock",
+    "light"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David cried to the LORD, \"You are my refuge, my portion in the land of the living.\""
+}

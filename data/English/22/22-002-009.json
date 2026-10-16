@@ -1,0 +1,30 @@
+{
+  "id": "22-002-009",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 2,
+  "verse_reference": "Song of Songs 2:15",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What does the passage say ruins the vineyards?",
+  "options": [
+    "The little foxes",
+    "The wild goats",
+    "The locusts",
+    "The birds"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 2:15 asks to catch the little foxes that ruin the vineyards."
+}

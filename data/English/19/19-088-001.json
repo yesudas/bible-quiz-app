@@ -1,0 +1,33 @@
+{
+  "id": "19-088-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 88,
+  "verse_reference": "Psalm 88 (title)",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to the title of Psalm 88, which man wrote this maskil?",
+  "options": [
+    "Ethan the Ezrahite",
+    "Heman the Ezrahite",
+    "Asaph son of Berekiah",
+    "Jeduthun"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Suffering"
+  ],
+  "characters": [
+    "Heman",
+    "Sons of Korah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title calls Psalm 88 a maskil of Heman the Ezrahite."
+}

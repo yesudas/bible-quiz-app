@@ -1,0 +1,35 @@
+{
+  "id": "23-052-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 52,
+  "verse_reference": "Isaiah 52:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What do those who bring good news say to Zion in Isaiah 52:7?",
+  "options": [
+    "'Your God reigns!'",
+    "'Your king is coming!'",
+    "'Your walls are built!'",
+    "'Your enemies are gone!'"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Evangelism",
+    "Kingdom of God"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 52:7 says they proclaim salvation and say to Zion, 'Your God reigns!'"
+}

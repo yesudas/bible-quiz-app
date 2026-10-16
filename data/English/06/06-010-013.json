@@ -1,0 +1,37 @@
+{
+  "id": "06-010-013",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 10,
+  "verse_reference": "Joshua 10:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Joshua order to be placed at the mouth of the cave?",
+  "options": [
+    "Large rocks",
+    "A wooden door",
+    "A fire",
+    "The ark"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Makkedah",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua ordered large rocks to be rolled up to the mouth of the cave and men to guard it."
+}

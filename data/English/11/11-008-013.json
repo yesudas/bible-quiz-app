@@ -1,0 +1,32 @@
+{
+  "id": "11-008-013",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 8,
+  "verse_reference": "1 Kings 8:46",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Solomon prayed, \"When they sin against you—for there is no one who does not ______.\"",
+  "options": [
+    "sin",
+    "pray",
+    "hope",
+    "fail"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In his prayer Solomon said plainly that there is no one who does not sin."
+}

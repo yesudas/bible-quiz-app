@@ -1,0 +1,37 @@
+{
+  "id": "06-024-003",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 24,
+  "verse_reference": "Joshua 24:9-10",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whom did Balak king of Moab send for to curse Israel?",
+  "options": [
+    "Balaam son of Beor",
+    "Og king of Bashan",
+    "Sihon king of Heshbon",
+    "Jabin king of Hazor"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Balak",
+    "Balaam"
+  ],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Balak sent for Balaam son of Beor to curse Israel, but the LORD would not listen to Balaam, so he blessed Israel again and again."
+}

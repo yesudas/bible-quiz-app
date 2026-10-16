@@ -1,0 +1,35 @@
+{
+  "id": "07-020-010",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 20,
+  "verse_reference": "Judges 20:27",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Judges 20, what was at Bethel in those days?",
+  "options": [
+    "Micah's idol",
+    "The ark of the covenant of God",
+    "Gideon's ephod",
+    "The bronze snake"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In those days the ark of the covenant of God was there at Bethel."
+}

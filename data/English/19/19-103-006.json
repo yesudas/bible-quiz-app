@@ -1,0 +1,33 @@
+{
+  "id": "19-103-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 103,
+  "verse_reference": "Psalm 103:8",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which description of the LORD is given in Psalm 103:8?",
+  "options": [
+    "Compassionate and gracious, slow to anger, abounding in love",
+    "Strict and harsh, quick to punish",
+    "Distant and silent, far from people",
+    "Angry and jealous, never forgiving"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Forgiveness"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said the LORD is compassionate and gracious, slow to anger, and abounding in love."
+}

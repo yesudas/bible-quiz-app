@@ -1,0 +1,38 @@
+{
+  "id": "08-002-014",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 2,
+  "verse_reference": "Ruth 2:23",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "Until when did Ruth keep gleaning with Boaz's women workers?",
+  "options": [
+    "Until the Feast of Tabernacles",
+    "Until the grape harvest",
+    "Until the barley and wheat harvests were finished",
+    "Until Naomi became sick"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Work",
+    "Provision"
+  ],
+  "characters": [
+    "Ruth",
+    "Boaz"
+  ],
+  "places": [
+    {
+      "name": "Boaz's field",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ruth stayed close to Boaz's women workers to glean until both the barley and wheat harvests were finished, and she lived with Naomi."
+}

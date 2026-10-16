@@ -1,0 +1,40 @@
+{
+  "id": "09-007-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 7,
+  "verse_reference": "1 Samuel 7:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In whose house did the men of Kiriath Jearim put the ark?",
+  "options": [
+    "Obed-Edom's house",
+    "Samuel's house",
+    "Abinadab's house",
+    "Elkanah's house"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [
+    "Abinadab"
+  ],
+  "places": [
+    {
+      "name": "Kiriath Jearim",
+      "type": "town"
+    },
+    {
+      "name": "House of Abinadab",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The men of Kiriath Jearim took the ark to Abinadab's house on the hill."
+}

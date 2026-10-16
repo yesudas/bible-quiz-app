@@ -1,0 +1,32 @@
+{
+  "id": "19-020-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 20,
+  "verse_reference": "Psalm 20:6",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 20:6, to whom does the LORD give victory?",
+  "options": [
+    "His anointed",
+    "The strongest army",
+    "The richest king",
+    "The priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingship",
+    "Salvation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 20:6 says, \"Now this I know: The LORD gives victory to his anointed.\""
+}

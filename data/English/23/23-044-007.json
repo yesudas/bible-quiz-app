@@ -1,0 +1,40 @@
+{
+  "id": "23-044-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 44,
+  "verse_reference": "Isaiah 44:28",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Isaiah 44:28, what would Cyrus say about Jerusalem and the temple?",
+  "options": [
+    "Let them be destroyed",
+    "Let them be forgotten",
+    "Let them be given to Egypt",
+    "Let them be rebuilt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Hope"
+  ],
+  "characters": [
+    "Cyrus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 44:28 says Cyrus will say of Jerusalem, 'Let it be rebuilt,' and of the temple, 'Let its foundations be laid.'"
+}

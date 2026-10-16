@@ -1,0 +1,40 @@
+{
+  "id": "09-031-010",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 31,
+  "verse_reference": "1 Samuel 31:13",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the people of Jabesh bury the bones of Saul and his sons?",
+  "options": [
+    "In Saul's tomb at Gibeah",
+    "Under a tamarisk tree at Jabesh",
+    "In a cave at Gilboa",
+    "Beside Samuel at Ramah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Tamarisk tree at Jabesh",
+      "type": "tomb"
+    },
+    {
+      "name": "Jabesh Gilead",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They took their bones and buried them under a tamarisk tree at Jabesh."
+}

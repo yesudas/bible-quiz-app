@@ -1,0 +1,31 @@
+{
+  "id": "12-018-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 18,
+  "verse_reference": "2 Kings 18:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was the bronze snake called?",
+  "options": [
+    "Asherah",
+    "Molek",
+    "Nehushtan",
+    "Dagon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Idolatry"
+  ],
+  "characters": [
+    "Hezekiah",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The bronze snake was called Nehushtan."
+}

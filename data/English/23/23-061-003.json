@@ -1,0 +1,30 @@
+{
+  "id": "23-061-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 61,
+  "verse_reference": "Isaiah 61:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: '...to proclaim the year of the LORD's ______.'",
+  "options": [
+    "judgment",
+    "harvest",
+    "favor",
+    "Sabbath"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 61:2 says, 'to proclaim the year of the LORD's favor and the day of vengeance of our God.'"
+}

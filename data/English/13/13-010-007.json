@@ -1,0 +1,36 @@
+{
+  "id": "13-010-007",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 10,
+  "verse_reference": "1 Chronicles 10:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "After burying the bones of Saul and his sons, what did the men of Jabesh do?",
+  "options": [
+    "They fasted seven days",
+    "They attacked the Philistines",
+    "They crowned a new king",
+    "They offered burnt offerings"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Jabesh Gilead",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They buried the bones under the great tree in Jabesh, and they fasted seven days."
+}

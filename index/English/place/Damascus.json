@@ -1,0 +1,27 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Damascus",
+    "label": "Damascus",
+    "count": 17,
+    "paths": [
+        "English/10/10-008-005.json",
+        "English/11/11-011-010.json",
+        "English/11/11-015-009.json",
+        "English/12/12-005-009.json",
+        "English/12/12-008-006.json",
+        "English/12/12-008-007.json",
+        "English/12/12-008-008.json",
+        "English/12/12-008-011.json",
+        "English/12/12-016-008.json",
+        "English/12/12-016-009.json",
+        "English/12/12-016-010.json",
+        "English/14/14-016-003.json",
+        "English/14/14-028-003.json",
+        "English/14/14-028-012.json",
+        "English/22/22-007-003.json",
+        "English/23/23-008-003.json",
+        "English/23/23-017-001.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

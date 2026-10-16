@@ -1,0 +1,33 @@
+{
+  "id": "19-072-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 72,
+  "verse_reference": "Psalm 72:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 72:1, what does the psalmist ask God to give the king?",
+  "options": [
+    "Great wealth",
+    "God's justice",
+    "A large army",
+    "A long life"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Prayer"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm begins, \"Endow the king with your justice, O God.\""
+}

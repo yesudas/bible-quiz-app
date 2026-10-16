@@ -1,0 +1,31 @@
+{
+  "id": "13-012-011",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 12,
+  "verse_reference": "1 Chronicles 12:33",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "The men of Zebulun came to help David with what kind of loyalty?",
+  "options": [
+    "Undivided loyalty",
+    "Secret loyalty",
+    "Paid loyalty",
+    "Half-hearted loyalty"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Loyalty"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The men of Zebulun came to help David with undivided loyalty."
+}

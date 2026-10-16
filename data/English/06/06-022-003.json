@@ -1,0 +1,32 @@
+{
+  "id": "06-022-003",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 22,
+  "verse_reference": "Joshua 22:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the eastern tribes take home with them?",
+  "options": [
+    "Nothing but their weapons",
+    "Only food for the journey",
+    "The ark of the covenant",
+    "Great wealth and large herds of livestock"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua sent them home with great wealth: large herds, silver, gold, bronze, iron and clothing, to share with their fellow Israelites."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "06-015-005",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 15,
+  "verse_reference": "Joshua 15:14",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which three sons of Anak did Caleb drive out of Hebron?",
+  "options": [
+    "Sihon, Og and Jabin",
+    "Hoham, Piram and Japhia",
+    "Sheshai, Ahiman and Talmai",
+    "Zerah, Karmi and Zimri"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Victory",
+    "Faith"
+  ],
+  "characters": [
+    "Caleb"
+  ],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "From Hebron, Caleb drove out the three Anakites, Sheshai, Ahiman and Talmai, the sons of Anak."
+}

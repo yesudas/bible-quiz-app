@@ -1,0 +1,36 @@
+{
+  "id": "09-022-005",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 22,
+  "verse_reference": "1 Samuel 22:6",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where was Saul seated when he heard David had been discovered?",
+  "options": [
+    "Under a tamarisk tree on the hill at Gibeah",
+    "Under a pomegranate tree in Migron",
+    "On his throne in Jerusalem",
+    "By the great cistern at Seku"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Gibeah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul, spear in hand, was seated under the tamarisk tree on the hill at Gibeah, with all his officials around him."
+}

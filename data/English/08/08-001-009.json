@@ -1,0 +1,35 @@
+{
+  "id": "08-001-009",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 1,
+  "verse_reference": "Ruth 1:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Ruth's words: \"Where you go I will go, and where you stay I will ____.\"",
+  "options": [
+    "rest",
+    "stay",
+    "live",
+    "wait"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Faithfulness",
+    "Family"
+  ],
+  "characters": [
+    "Ruth",
+    "Naomi"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ruth told Naomi she would go wherever Naomi went and stay wherever Naomi stayed."
+}

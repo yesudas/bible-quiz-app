@@ -1,0 +1,30 @@
+{
+  "id": "06-009-011",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 9,
+  "verse_reference": "Joshua 9:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the whole assembly of Israel react when they learned the truth?",
+  "options": [
+    "They praised the leaders",
+    "They left the camp",
+    "They grumbled against the leaders",
+    "They made a feast"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The whole assembly grumbled against the leaders because of the treaty."
+}

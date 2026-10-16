@@ -1,0 +1,33 @@
+{
+  "id": "23-013-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 13,
+  "verse_reference": "Isaiah 13:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "God said He would make people more rare than the gold of which place?",
+  "options": [
+    "Sheba",
+    "Tarshish",
+    "Ophir",
+    "Havilah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ophir",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 13:12 says, 'I will make people scarcer than pure gold, more rare than the gold of Ophir.'"
+}

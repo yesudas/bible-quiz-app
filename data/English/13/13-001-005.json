@@ -1,0 +1,33 @@
+{
+  "id": "13-001-005",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 1,
+  "verse_reference": "1 Chronicles 1:27",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What other name is given for Abram in this chapter?",
+  "options": [
+    "Israel",
+    "Abraham",
+    "Isaac",
+    "Ishmael"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Family"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The chapter says Abram, that is, Abraham, showing they are the same person."
+}

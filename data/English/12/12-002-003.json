@@ -1,0 +1,49 @@
+{
+  "id": "12-002-003",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 2,
+  "verse_reference": "2 Kings 2:2-6",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "In what order did Elijah and Elisha travel after leaving Gilgal?",
+  "options": [
+    "Jericho, Bethel, the Jordan",
+    "The Jordan, Jericho, Bethel",
+    "Bethel, Jericho, the Jordan",
+    "Bethel, the Jordan, Jericho"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Elijah",
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Gilgal",
+      "type": "town"
+    },
+    {
+      "name": "Bethel",
+      "type": "city"
+    },
+    {
+      "name": "Jericho",
+      "type": "city"
+    },
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD sent Elijah first to Bethel, then to Jericho, and then to the Jordan, and Elisha went with him each time."
+}

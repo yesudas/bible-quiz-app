@@ -1,0 +1,31 @@
+{
+  "id": "09-014-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 14,
+  "verse_reference": "1 Samuel 14:35",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Saul do for the first time in this chapter?",
+  "options": [
+    "He offered a sacrifice",
+    "He built an altar to the LORD",
+    "He prayed",
+    "He wrote a law"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul built an altar to the LORD; it was the first time he had done this."
+}

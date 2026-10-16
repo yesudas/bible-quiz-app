@@ -1,0 +1,37 @@
+{
+  "id": "06-011-004",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 11,
+  "verse_reference": "Joshua 11:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the LORD tell Joshua to do with the enemy's horses and chariots?",
+  "options": [
+    "Keep them for Israel's army",
+    "Give them to the priests",
+    "Hamstring the horses and burn the chariots",
+    "Send them back to Hazor"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience",
+    "Faith"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Waters of Merom",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Joshua to hamstring their horses and burn their chariots, and Joshua did as the LORD directed."
+}

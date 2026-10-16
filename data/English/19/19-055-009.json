@@ -1,0 +1,31 @@
+{
+  "id": "19-055-009",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 55,
+  "verse_reference": "Psalm 55:23",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"But as for me, I ____ in you.\"",
+  "options": [
+    "trust",
+    "hide",
+    "rest",
+    "rejoice"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David ends the psalm by declaring his trust in God."
+}

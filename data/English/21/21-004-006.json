@@ -1,0 +1,31 @@
+{
+  "id": "21-004-006",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 4,
+  "verse_reference": "Ecclesiastes 4:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Two are better than ______, because they have a good return for their labor.\"",
+  "options": [
+    "three",
+    "none",
+    "many",
+    "one"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ecclesiastes 4:9 teaches that two people working together are better than one working alone."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "06-002-014",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 2,
+  "verse_reference": "Joshua 2:16",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Rahab tell the spies to hide for three days?",
+  "options": [
+    "In a cave by the sea",
+    "In the hills",
+    "In the desert of Sinai",
+    "In the Jordan valley"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Rahab"
+  ],
+  "places": [
+    {
+      "name": "hills near Jericho",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rahab told the spies to go to the hills and hide there three days until their pursuers returned."
+}

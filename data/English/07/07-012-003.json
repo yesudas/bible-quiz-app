@@ -1,0 +1,40 @@
+{
+  "id": "07-012-003",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 12,
+  "verse_reference": "Judges 12:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Gileadites capture to stop the Ephraimites from escaping home?",
+  "options": [
+    "The gates of Mizpah",
+    "The walls of Shechem",
+    "The fords of the Jordan",
+    "The wells of Beersheba"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Jephthah"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    },
+    {
+      "name": "Ephraim",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Gileadites captured the fords of the Jordan leading to Ephraim, so no survivor could cross without being questioned."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "09-018-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 18,
+  "verse_reference": "1 Samuel 18:25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was Saul hoping would happen when he set the bride price for Michal?",
+  "options": [
+    "That David would become rich",
+    "That David would fall by the hands of the Philistines",
+    "That David would refuse and leave",
+    "That Michal would marry someone else"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Saul",
+    "David",
+    "Michal"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul asked for proof of a hundred dead Philistines as the bride price. His plan was to have David fall by the hands of the Philistines."
+}

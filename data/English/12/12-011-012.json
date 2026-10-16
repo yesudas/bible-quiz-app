@@ -1,0 +1,36 @@
+{
+  "id": "12-011-012",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 11,
+  "verse_reference": "2 Kings 11:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the people do to the temple of Baal?",
+  "options": [
+    "They turned it into a storehouse",
+    "They gave it to the priests of the LORD",
+    "They left it alone",
+    "They tore it down and smashed its altars and idols"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Idolatry",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of Baal",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All the people went to the temple of Baal, tore it down and smashed the altars and idols to pieces."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "19-054-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 54,
+  "verse_reference": "Psalm 54:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 54:1, by what did David ask God to save him?",
+  "options": [
+    "By your name",
+    "By your angels",
+    "By your army",
+    "By your law"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David prayed, \"Save me, O God, by your name; vindicate me by your might.\""
+}

@@ -1,0 +1,29 @@
+{
+  "id": "23-054-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 54,
+  "verse_reference": "Isaiah 54:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: 'For your Maker is your ______\u2014the LORD Almighty is his name.'",
+  "options": [
+    "father",
+    "king",
+    "shepherd",
+    "husband"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 54:5 says, 'For your Maker is your husband\u2014the LORD Almighty is his name.'"
+}

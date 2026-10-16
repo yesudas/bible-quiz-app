@@ -1,0 +1,31 @@
+{
+  "id": "15-002-007",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 2,
+  "verse_reference": "Ezra 2:61",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "One priest married a daughter of which man and was called by his name?",
+  "options": [
+    "Barzillai the Gileadite",
+    "Jesse of Bethlehem",
+    "Boaz of Bethlehem",
+    "Jethro of Midian"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Marriage"
+  ],
+  "characters": [
+    "Barzillai"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A priest had married a daughter of Barzillai the Gileadite and was called by that name."
+}

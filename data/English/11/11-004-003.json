@@ -1,0 +1,31 @@
+{
+  "id": "11-004-003",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 4,
+  "verse_reference": "1 Kings 4:5",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which official was a priest and also an adviser to King Solomon?",
+  "options": [
+    "Zabud son of Nathan",
+    "Benaiah son of Jehoiada",
+    "Ahijah son of Shisha",
+    "Jehoshaphat son of Ahilud"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Zabud"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zabud son of Nathan was a priest and adviser to the king."
+}

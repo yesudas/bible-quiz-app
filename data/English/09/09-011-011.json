@@ -1,0 +1,38 @@
+{
+  "id": "09-011-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 11,
+  "verse_reference": "1 Samuel 11:14",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did Samuel lead the people to renew the kingship?",
+  "options": [
+    "Ramah",
+    "Gilgal",
+    "Jerusalem",
+    "Bethel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Samuel",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Gilgal",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel said, \"Come, let us go to Gilgal and there renew the kingship.\""
+}

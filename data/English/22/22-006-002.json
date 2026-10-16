@@ -1,0 +1,38 @@
+{
+  "id": "22-006-002",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 6,
+  "verse_reference": "Song of Songs 6:4",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "The beloved says the woman is as beautiful as which city?",
+  "options": [
+    "Samaria",
+    "Tirzah",
+    "Hebron",
+    "Shechem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tirzah",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 6:4 says she is as beautiful as Tirzah and as lovely as Jerusalem."
+}

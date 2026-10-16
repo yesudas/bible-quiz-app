@@ -1,0 +1,38 @@
+{
+  "id": "13-012-013",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 12,
+  "verse_reference": "1 Chronicles 12:39-40",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did Israel feel when the people gathered in Hebron to make David king?",
+  "options": [
+    "Afraid",
+    "Sad",
+    "Joyful",
+    "Angry"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Joy",
+    "Unity"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They spent three days eating and drinking with David, food was brought from far away, and there was joy in Israel."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "05-026-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 26,
+  "verse_reference": "Deuteronomy 26:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "The worshiper declared: \"My father was a wandering ___, and he went down into Egypt.\"",
+  "options": [
+    "shepherd",
+    "servant",
+    "traveler",
+    "Aramean"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The worshiper recited that his father was a wandering Aramean who went down to Egypt with few people and there became a great nation."
+}

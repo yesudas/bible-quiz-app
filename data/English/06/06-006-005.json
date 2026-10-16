@@ -1,0 +1,36 @@
+{
+  "id": "06-006-005",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 6,
+  "verse_reference": "Joshua 6:4",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How many times did the Israelites march around Jericho on the seventh day?",
+  "options": [
+    "Seven times",
+    "Once",
+    "Twelve times",
+    "Three times"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On the seventh day they marched around the city seven times, with the priests blowing the trumpets."
+}

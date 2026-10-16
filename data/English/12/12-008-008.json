@@ -1,0 +1,36 @@
+{
+  "id": "12-008-008",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 8,
+  "verse_reference": "2 Kings 8:9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many camel-loads of gifts did Hazael take to Elisha?",
+  "options": [
+    "Forty",
+    "Seven",
+    "Twelve",
+    "Ten"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Hazael",
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Damascus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hazael took forty camel-loads of all the finest goods of Damascus as a gift for Elisha."
+}

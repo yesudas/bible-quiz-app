@@ -1,0 +1,37 @@
+{
+  "id": "09-001-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 1,
+  "verse_reference": "1 Samuel 1:3",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did Elkanah go each year to worship and sacrifice to the LORD?",
+  "options": [
+    "Bethel",
+    "Jerusalem",
+    "Gilgal",
+    "Shiloh"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Elkanah"
+  ],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Year after year Elkanah went up from his town to worship and sacrifice to the LORD Almighty at Shiloh."
+}

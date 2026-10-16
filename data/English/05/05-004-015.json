@@ -1,0 +1,46 @@
+{
+  "id": "05-004-015",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 4,
+  "verse_reference": "Deuteronomy 4:41-43",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Moses set apart three cities east of the Jordan to be?",
+  "options": [
+    "Places of worship",
+    "Storehouses for grain",
+    "Cities of refuge for those who killed someone accidentally",
+    "Fortresses against enemies"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Mercy",
+    "Justice"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Bezer",
+      "type": "city"
+    },
+    {
+      "name": "Ramoth",
+      "type": "city"
+    },
+    {
+      "name": "Golan",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses set apart Bezer, Ramoth, and Golan as cities of refuge where a person who killed someone unintentionally could flee and be safe."
+}

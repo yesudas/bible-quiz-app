@@ -1,0 +1,31 @@
+{
+  "id": "18-003-006",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 3,
+  "verse_reference": "Job 3:24",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Job say had become his daily food?",
+  "options": [
+    "Tears",
+    "Ashes",
+    "Sighing",
+    "Silence"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'Sighing has become my daily food; my groans pour out like water.'"
+}

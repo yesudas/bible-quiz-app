@@ -1,0 +1,38 @@
+{
+  "id": "11-010-001",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 10,
+  "verse_reference": "1 Kings 10:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which queen came to test Solomon with hard questions?",
+  "options": [
+    "The queen of Egypt",
+    "The queen of Sheba",
+    "Queen Jezebel",
+    "Queen Esther"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Queen of Sheba",
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Sheba",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the queen of Sheba heard about Solomon's fame and his relationship to the LORD, she came to test him with hard questions."
+}

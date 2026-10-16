@@ -1,0 +1,32 @@
+{
+  "id": "09-009-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 9,
+  "verse_reference": "1 Samuel 9:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was special about Saul's appearance?",
+  "options": [
+    "He had very long hair",
+    "He was very short",
+    "He was a head taller than anyone else",
+    "He had red hair like Esau"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul was a handsome young man without equal among the Israelites, a head taller than anyone else."
+}

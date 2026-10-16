@@ -1,0 +1,32 @@
+{
+  "id": "19-030-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 30,
+  "verse_reference": "Psalm 30:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 30:5, how long does the LORD's anger last compared to his favor?",
+  "options": [
+    "His anger lasts a year, but his favor a day",
+    "His anger and favor last the same time",
+    "His anger lasts only a moment, but his favor lasts a lifetime",
+    "His anger lasts forever"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Grace",
+    "Hope"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 30:5 says, \"For his anger lasts only a moment, but his favor lasts a lifetime.\""
+}

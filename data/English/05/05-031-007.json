@@ -1,0 +1,33 @@
+{
+  "id": "05-031-007",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 31,
+  "verse_reference": "Deuteronomy 31:14-15",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the Lord tell Moses and Joshua to present themselves, and how did He appear there?",
+  "options": [
+    "On Mount Nebo, in a great wind",
+    "Beside the Jordan, in a bright light",
+    "In the camp, in a burning bush",
+    "At the tent of meeting, in a pillar of cloud"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses",
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord called Moses and Joshua to present themselves at the tent of meeting, where He appeared in a pillar of cloud that stood over the entrance."
+}

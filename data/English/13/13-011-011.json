@@ -1,0 +1,37 @@
+{
+  "id": "13-011-011",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 11,
+  "verse_reference": "1 Chronicles 11:18-19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did David refuse to drink the water his three men brought him?",
+  "options": [
+    "It was dirty",
+    "He was not thirsty anymore",
+    "The men had risked their lives to get it",
+    "The priest told him not to"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David poured it out to the LORD, saying he could not drink the blood of men who went at the risk of their lives."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "19-016-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 16,
+  "verse_reference": "Psalm 16:10",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 16:10, what will God not let his faithful one see?",
+  "options": [
+    "Decay",
+    "Sorrow",
+    "War",
+    "Darkness"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Prophecy",
+    "Salvation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 16:10 says, \"You will not abandon me to the realm of the dead, nor will you let your faithful one see decay.\""
+}

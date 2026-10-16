@@ -1,0 +1,32 @@
+{
+  "id": "06-023-001",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 23,
+  "verse_reference": "Joshua 23:1-2",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who called together Israel's elders, leaders, judges and officials when he was very old?",
+  "options": [
+    "Moses",
+    "Joshua",
+    "Caleb",
+    "Eleazar"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Joshua was very old, he summoned all Israel, their elders, leaders, judges and officials."
+}

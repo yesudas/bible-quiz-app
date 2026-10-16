@@ -1,0 +1,43 @@
+{
+  "id": "19-053-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 53,
+  "verse_reference": "Psalm 53:6",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In Psalm 53:6, out of which place did David pray that salvation for Israel would come?",
+  "options": [
+    "Egypt",
+    "Zion",
+    "Bethlehem",
+    "Babylon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Hope",
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David prayed, \"Oh, that salvation for Israel would come out of Zion!\""
+}

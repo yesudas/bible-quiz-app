@@ -1,0 +1,35 @@
+{
+  "id": "23-028-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 28,
+  "verse_reference": "Isaiah 28:1",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Isaiah 28:1 pronounces woe on the wreath that was the pride of whose drunkards?",
+  "options": [
+    "Judah's",
+    "Ephraim's",
+    "Moab's",
+    "Egypt's"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Pride",
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ephraim",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 28:1 says, 'Woe to that wreath, the pride of Ephraim's drunkards.'"
+}

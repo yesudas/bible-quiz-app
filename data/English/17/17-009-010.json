@@ -1,0 +1,34 @@
+{
+  "id": "17-009-010",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 9,
+  "verse_reference": "Esther 9:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Besides giving food to one another, what did Mordecai tell the Jews to give during the celebration?",
+  "options": [
+    "Gifts to the poor",
+    "Offerings at the temple",
+    "Silver to the king",
+    "Gifts to the nobles"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Feasts",
+    "Love",
+    "Money"
+  ],
+  "characters": [
+    "Mordecai"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mordecai told them to observe the days as days of feasting and joy, giving presents of food to one another and gifts to the poor."
+}

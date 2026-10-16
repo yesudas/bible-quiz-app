@@ -1,0 +1,32 @@
+{
+  "id": "06-023-006",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 23,
+  "verse_reference": "Joshua 23:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"So be very careful to ____ the LORD your God.\"",
+  "options": [
+    "fear",
+    "love",
+    "praise",
+    "follow"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua told the people to be very careful to love the LORD their God."
+}

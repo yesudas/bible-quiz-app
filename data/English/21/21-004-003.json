@@ -1,0 +1,30 @@
+{
+  "id": "21-004-003",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 4,
+  "verse_reference": "Ecclesiastes 4:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does the Teacher say fools do that brings ruin on themselves?",
+  "options": [
+    "They talk too much",
+    "They fold their hands",
+    "They spend their money",
+    "They sleep too long"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Fools fold their hands and ruin themselves.\" Laziness leads to ruin."
+}

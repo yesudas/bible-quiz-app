@@ -1,0 +1,33 @@
+{
+  "id": "19-055-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 55,
+  "verse_reference": "Psalm 55:6",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Psalm 55:6, David wished he had the wings of which bird?",
+  "options": [
+    "An eagle",
+    "A sparrow",
+    "A dove",
+    "A raven"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Hope"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said, \"Oh, that I had the wings of a dove! I would fly away and be at rest.\""
+}

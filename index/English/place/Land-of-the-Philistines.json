@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Land-of-the-Philistines",
+    "label": "Land of the Philistines",
+    "count": 2,
+    "paths": [
+        "English/12/12-008-002.json",
+        "English/14/14-009-015.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

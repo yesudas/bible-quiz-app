@@ -1,0 +1,37 @@
+{
+  "id": "06-002-013",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 2,
+  "verse_reference": "Joshua 2:15",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did Rahab help the spies escape from the city?",
+  "options": [
+    "She let them down by a rope through the window",
+    "She opened the city gate at night",
+    "She hid them in a cart",
+    "She dug a tunnel under the wall"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Rahab"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rahab's house was part of the city wall, so she let the spies down by a rope through the window."
+}

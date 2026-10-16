@@ -1,0 +1,35 @@
+{
+  "id": "15-003-003",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 3,
+  "verse_reference": "Ezra 3:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What feeling did the people have while they built the altar?",
+  "options": [
+    "Fear of the peoples around them",
+    "Anger at the priests",
+    "Pride in their own strength",
+    "Sadness about leaving Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Altar of the God of Israel",
+      "type": "altar"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They built the altar on its foundation even though they were afraid of the peoples around them."
+}

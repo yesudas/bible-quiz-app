@@ -1,0 +1,32 @@
+{
+  "id": "19-139-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 139,
+  "verse_reference": "Psalm 139:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"You have ______ me, LORD, and you know me.\"",
+  "options": [
+    "loved",
+    "searched",
+    "called",
+    "saved"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David begins by saying the LORD has searched him and knows him completely."
+}

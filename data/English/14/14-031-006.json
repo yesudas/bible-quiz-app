@@ -1,0 +1,29 @@
+{
+  "id": "14-031-006",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 31,
+  "verse_reference": "2 Chronicles 31:7",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When did the people begin and finish piling up their offerings?",
+  "options": [
+    "From the first month to the second",
+    "From the tenth month to the twelfth",
+    "From the third month to the seventh",
+    "From the seventh month to the ninth"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They began doing this in the third month and finished in the seventh month."
+}

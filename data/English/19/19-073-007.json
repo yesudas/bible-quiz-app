@@ -1,0 +1,33 @@
+{
+  "id": "19-073-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 73,
+  "verse_reference": "Psalm 73:25",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Whom have I in ____ but you? And earth has nothing I desire besides you.\"",
+  "options": [
+    "the temple",
+    "my house",
+    "heaven",
+    "Israel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Faith"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph says he has no one in heaven but God, and nothing on earth he desires more."
+}

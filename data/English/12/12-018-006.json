@@ -1,0 +1,35 @@
+{
+  "id": "12-018-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 18,
+  "verse_reference": "2 Kings 18:8",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "As far as which city did Hezekiah defeat the Philistines?",
+  "options": [
+    "Gaza",
+    "Gath",
+    "Ekron",
+    "Ashdod"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Gaza",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "From watchtower to fortified city, Hezekiah defeated the Philistines as far as Gaza and its territory."
+}

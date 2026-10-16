@@ -1,0 +1,38 @@
+{
+  "id": "07-006-010",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 6,
+  "verse_reference": "Judges 6:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When the LORD sent Gideon to save Israel, what reason did Gideon give for why he could not do it?",
+  "options": [
+    "He was too old to fight",
+    "He could not speak well",
+    "He was only a child",
+    "His clan was the weakest in Manasseh and he was the least in his family"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Leadership"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [
+    {
+      "name": "Manasseh",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon said his clan was the weakest in Manasseh and he was the least in his family. The LORD answered, \"I will be with you.\""
+}

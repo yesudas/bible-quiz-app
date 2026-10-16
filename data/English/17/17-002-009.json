@@ -1,0 +1,34 @@
+{
+  "id": "17-002-009",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 2,
+  "verse_reference": "Esther 2:12",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "How long did each young woman complete beauty treatments before going to the king?",
+  "options": [
+    "Twelve months",
+    "Seven days",
+    "Forty days",
+    "Three years"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Beauty"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "King's harem",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Each woman completed twelve months of beauty treatments: six months with oil of myrrh and six with perfumes and cosmetics."
+}

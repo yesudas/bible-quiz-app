@@ -1,0 +1,39 @@
+{
+  "id": "07-001-012",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 1,
+  "verse_reference": "Judges 1:17",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Judah and Simeon attacked the Canaanites in Zephath and totally destroyed the city. What was the city called after that?",
+  "options": [
+    "Luz",
+    "Debir",
+    "Hormah",
+    "Kiriath Arba"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Promised Land"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zephath",
+      "type": "city"
+    },
+    {
+      "name": "Hormah",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Because Judah and Simeon totally destroyed Zephath, the city was then called Hormah."
+}

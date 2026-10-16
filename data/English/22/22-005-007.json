@@ -1,0 +1,30 @@
+{
+  "id": "22-005-007",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 5,
+  "verse_reference": "Song of Songs 5:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "The woman says her beloved's hair is black like which bird?",
+  "options": [
+    "A dove",
+    "An eagle",
+    "A sparrow",
+    "A raven"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 5:11 says his hair is wavy and black as a raven."
+}

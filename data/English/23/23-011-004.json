@@ -1,0 +1,30 @@
+{
+  "id": "23-011-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 11,
+  "verse_reference": "Isaiah 11:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: 'Righteousness will be his belt and ______ the sash around his waist.'",
+  "options": [
+    "truth",
+    "peace",
+    "faithfulness",
+    "wisdom"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Justice",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 11:5 says, 'Righteousness will be his belt and faithfulness the sash around his waist.'"
+}

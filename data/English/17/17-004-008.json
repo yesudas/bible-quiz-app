@@ -1,0 +1,38 @@
+{
+  "id": "17-004-008",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 4,
+  "verse_reference": "Esther 4:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What would happen to anyone who went to the king in the inner court without being called, unless the king spared them?",
+  "options": [
+    "They would be put in prison",
+    "They would lose their position",
+    "They would be sent away from Susa",
+    "They would be put to death"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Courage"
+  ],
+  "characters": [
+    "Esther",
+    "Xerxes"
+  ],
+  "places": [
+    {
+      "name": "King's inner court",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The law said anyone who approached the king in the inner court without being summoned would be put to death."
+}

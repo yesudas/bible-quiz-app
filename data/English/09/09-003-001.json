@@ -1,0 +1,31 @@
+{
+  "id": "09-003-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 3,
+  "verse_reference": "1 Samuel 3:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was true about the word of the LORD in the days when Samuel was a boy?",
+  "options": [
+    "It came to every priest",
+    "It was rare, and there were not many visions",
+    "It was written on the temple walls",
+    "It came only through dreams to kings"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In those days the word of the LORD was rare; there were not many visions."
+}

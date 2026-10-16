@@ -1,0 +1,32 @@
+{
+  "id": "07-009-015",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 9,
+  "verse_reference": "Judges 9:36",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete what Zebul said to Gaal: \"You mistake the ___ of the mountains for men.\"",
+  "options": [
+    "trees",
+    "shadows",
+    "rocks",
+    "clouds"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Zebul",
+    "Gaal"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Gaal saw people coming down from the mountains, Zebul told him he was only seeing shadows."
+}

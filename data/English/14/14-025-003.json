@@ -1,0 +1,35 @@
+{
+  "id": "14-025-003",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 25,
+  "verse_reference": "2 Chronicles 25:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How much did Amaziah pay to hire 100,000 fighting men from Israel?",
+  "options": [
+    "A thousand talents of gold",
+    "Ten talents of silver",
+    "Fifty talents of gold",
+    "A hundred talents of silver"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Amaziah"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amaziah hired a hundred thousand fighting men from Israel for a hundred talents of silver."
+}

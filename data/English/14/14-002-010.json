@@ -1,0 +1,39 @@
+{
+  "id": "14-002-010",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 2,
+  "verse_reference": "2 Chronicles 2:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Hiram's reply: \"Because the LORD ______ his people, he has made you their king.\"",
+  "options": [
+    "protects",
+    "loves",
+    "chose",
+    "blesses"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Leadership"
+  ],
+  "characters": [
+    "Hiram",
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hiram answered Solomon by letter, saying the LORD made Solomon king because He loves His people."
+}

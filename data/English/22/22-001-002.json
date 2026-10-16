@@ -1,0 +1,30 @@
+{
+  "id": "22-001-002",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 1,
+  "verse_reference": "Song of Songs 1:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"For your love is more delightful than ____.\"",
+  "options": [
+    "honey",
+    "gold",
+    "wine",
+    "oil"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Marriage"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Song of Songs 1:2 the woman says her beloved's love is more delightful than wine."
+}

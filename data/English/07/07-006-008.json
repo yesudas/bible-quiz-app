@@ -1,0 +1,33 @@
+{
+  "id": "07-006-008",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 6,
+  "verse_reference": "Judges 6:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete what the angel said to Gideon: \"The LORD is with you, mighty ___.\"",
+  "options": [
+    "man",
+    "servant",
+    "warrior",
+    "judge"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Angels",
+    "Courage"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the angel of the LORD appeared to Gideon, he said, \"The LORD is with you, mighty warrior.\""
+}

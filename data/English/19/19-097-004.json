@@ -1,0 +1,30 @@
+{
+  "id": "19-097-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 97,
+  "verse_reference": "Psalm 97:7",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 97:7, who are put to shame?",
+  "options": [
+    "Those who pray",
+    "Those who sing",
+    "Those who give offerings",
+    "All who worship images"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm says all who worship images and boast in idols are put to shame."
+}

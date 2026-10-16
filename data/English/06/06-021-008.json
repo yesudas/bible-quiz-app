@@ -1,0 +1,32 @@
+{
+  "id": "06-021-008",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 21,
+  "verse_reference": "Joshua 21:45",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"Not one of all the LORD's good promises to Israel ____; every one was fulfilled.\"",
+  "options": [
+    "waited",
+    "changed",
+    "was hidden",
+    "failed"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Faith",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua 21:45 says not one of the LORD's good promises to Israel failed; every one was fulfilled."
+}

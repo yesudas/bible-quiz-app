@@ -1,0 +1,35 @@
+{
+  "id": "09-031-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 31,
+  "verse_reference": "1 Samuel 31:10",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "On the wall of which city did the Philistines fasten Saul's body?",
+  "options": [
+    "Gath",
+    "Beth Shan",
+    "Ashdod",
+    "Aphek"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Beth Shan",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Philistines fastened Saul's body to the wall of Beth Shan."
+}

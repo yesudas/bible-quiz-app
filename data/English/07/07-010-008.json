@@ -1,0 +1,39 @@
+{
+  "id": "07-010-008",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 10,
+  "verse_reference": "Judges 10:8",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "For how many years did the Philistines and Ammonites shatter and crush the Israelites in Gilead?",
+  "options": [
+    "Seven",
+    "Eighteen",
+    "Twenty",
+    "Forty"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gilead",
+      "type": "region"
+    },
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "For eighteen years they oppressed all the Israelites on the east side of the Jordan in Gilead."
+}

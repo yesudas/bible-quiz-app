@@ -1,0 +1,38 @@
+{
+  "id": "07-006-017",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 6,
+  "verse_reference": "Judges 6:33",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the Midianites, Amalekites and other eastern peoples camp after crossing the Jordan?",
+  "options": [
+    "The Valley of Elah",
+    "The Valley of Jezreel",
+    "The Valley of Aijalon",
+    "The Kidron Valley"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Valley of Jezreel",
+      "type": "valley"
+    },
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Midianites, Amalekites and other eastern peoples crossed over the Jordan and camped in the Valley of Jezreel."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "19-051-010",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 51,
+  "verse_reference": "Psalm 51:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 51:11, what did David ask God not to take from him?",
+  "options": [
+    "His kingdom",
+    "His crown",
+    "His Holy Spirit",
+    "His children"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit",
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David prayed, \"Do not cast me from your presence or take your Holy Spirit from me.\""
+}

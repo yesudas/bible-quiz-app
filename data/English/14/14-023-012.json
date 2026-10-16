@@ -1,0 +1,37 @@
+{
+  "id": "14-023-012",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 23,
+  "verse_reference": "2 Chronicles 23:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did all the people do to the temple of Baal?",
+  "options": [
+    "They tore it down and smashed the altars and idols",
+    "They turned it into a storehouse",
+    "They locked it up",
+    "They gave it to the priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Repentance"
+  ],
+  "characters": [
+    "Mattan"
+  ],
+  "places": [
+    {
+      "name": "Temple of Baal",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All the people went to the temple of Baal and tore it down, smashed the altars and idols, and killed Mattan the priest of Baal."
+}

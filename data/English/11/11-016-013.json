@@ -1,0 +1,37 @@
+{
+  "id": "11-016-013",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 16,
+  "verse_reference": "1 Kings 16:32",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Ahab build in Samaria?",
+  "options": [
+    "A temple of Baal with an altar for Baal",
+    "A new palace for the LORD",
+    "A wall around Jericho",
+    "An altar to the LORD"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Ahab"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahab set up an altar for Baal in the temple of Baal that he built in Samaria."
+}

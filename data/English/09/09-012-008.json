@@ -1,0 +1,37 @@
+{
+  "id": "09-012-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 12,
+  "verse_reference": "1 Samuel 12:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the thunder and rain show the people?",
+  "options": [
+    "That the harvest would be large",
+    "That Saul was a good king",
+    "That the Philistines were coming",
+    "What an evil thing they had done in asking for a king"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Repentance"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "Gilgal",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel said the thunder and rain would make them realize what an evil thing they had done in the eyes of the LORD when they asked for a king."
+}

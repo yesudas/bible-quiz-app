@@ -1,0 +1,33 @@
+{
+  "id": "06-001-017",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 1,
+  "verse_reference": "Joshua 1:18",
+  "question_type": "DIRECT",
+  "difficulty": "Medium",
+  "question": "What words of encouragement did the people give Joshua at the end of the chapter?",
+  "options": [
+    "\"Go in peace!\"",
+    "\"The LORD bless you!\"",
+    "\"Only be strong and courageous!\"",
+    "\"May you live forever!\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Faith"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people ended their answer to Joshua by saying, \"Only be strong and courageous!\""
+}

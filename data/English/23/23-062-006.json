@@ -1,0 +1,35 @@
+{
+  "id": "23-062-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 62,
+  "verse_reference": "Isaiah 62:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Isaiah 62:12, what will God's people be called?",
+  "options": [
+    "The Mighty Nation",
+    "The Chosen Kings",
+    "The Holy People, the Redeemed of the LORD",
+    "The Children of Abraham"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Holiness"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 62:12 says, 'They will be called the Holy People, the Redeemed of the LORD; and you will be called Sought After, the City No Longer Deserted.'"
+}

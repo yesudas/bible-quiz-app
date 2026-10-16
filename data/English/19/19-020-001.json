@@ -1,0 +1,33 @@
+{
+  "id": "19-020-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 20,
+  "verse_reference": "Psalm 20:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "In Psalm 20:1, the people pray that the name of the God of whom will protect the king?",
+  "options": [
+    "Abraham",
+    "Moses",
+    "Jacob",
+    "Isaac"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Protection"
+  ],
+  "characters": [
+    "God",
+    "Jacob"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 20:1 says, \"May the LORD answer you when you are in distress; may the name of the God of Jacob protect you.\""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "06-001-011",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 1,
+  "verse_reference": "Joshua 1:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to God, what would happen if Joshua was careful to do everything written in the Book of the Law?",
+  "options": [
+    "He would never have to fight",
+    "He would be prosperous and successful",
+    "He would live to be 150 years old",
+    "He would become king of Israel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Promise",
+    "Obedience"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said that by obeying everything written in the Book of the Law, Joshua would be prosperous and successful."
+}

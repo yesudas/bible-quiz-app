@@ -1,0 +1,37 @@
+{
+  "id": "23-035-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 35,
+  "verse_reference": "Isaiah 35:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How will the ransomed of the LORD enter Zion?",
+  "options": [
+    "With singing, and everlasting joy will crown their heads",
+    "With weapons ready for battle",
+    "In silence and fear",
+    "Carrying heavy burdens"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Hope",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 35:10 says the ransomed of the LORD will enter Zion with singing; everlasting joy will crown their heads, and sorrow and sighing will flee away."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "16-009-013",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 9,
+  "verse_reference": "Nehemiah 9:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What does Nehemiah 9:21 say about God's care for Israel during the forty years in the wilderness?",
+  "options": [
+    "They lacked nothing, their clothes did not wear out, and their feet did not swell",
+    "They were always hungry but never died",
+    "They had no enemies",
+    "They lived in stone houses"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "For forty years God sustained them in the wilderness; they lacked nothing, their clothes did not wear out, and their feet did not become swollen."
+}

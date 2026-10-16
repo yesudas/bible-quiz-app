@@ -1,0 +1,45 @@
+{
+  "id": "12-023-013",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 23,
+  "verse_reference": "2 Kings 23:29",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which Pharaoh killed Josiah at Megiddo?",
+  "options": [
+    "Pharaoh So",
+    "Pharaoh Shishak",
+    "Pharaoh Necho",
+    "Pharaoh Hophra"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Josiah",
+    "Necho"
+  ],
+  "places": [
+    {
+      "name": "Megiddo",
+      "type": "city"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Euphrates River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh Necho king of Egypt went up to the Euphrates; Josiah marched out to meet him, and Necho killed him at Megiddo."
+}

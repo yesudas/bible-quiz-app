@@ -1,0 +1,33 @@
+{
+  "id": "13-012-006",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 12,
+  "verse_reference": "1 Chronicles 12:18",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "The Spirit came on which man, who said, \"We are yours, David! We are with you, son of Jesse!\"?",
+  "options": [
+    "Abishai",
+    "Joab",
+    "Amasai",
+    "Benaiah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit",
+    "Loyalty"
+  ],
+  "characters": [
+    "Amasai",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Spirit came on Amasai, chief of the Thirty, and he declared his loyalty to David."
+}

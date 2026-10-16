@@ -1,0 +1,37 @@
+{
+  "id": "11-015-011",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 15,
+  "verse_reference": "1 Kings 15:24",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who succeeded Asa as king of Judah?",
+  "options": [
+    "Abijah",
+    "Nadab",
+    "Jehoshaphat",
+    "Ahab"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Asa",
+    "Jehoshaphat"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asa rested with his ancestors and was buried in the City of David, and Jehoshaphat his son succeeded him as king."
+}

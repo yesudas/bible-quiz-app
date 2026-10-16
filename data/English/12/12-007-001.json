@@ -1,0 +1,42 @@
+{
+  "id": "12-007-001",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 7,
+  "verse_reference": "2 Kings 7:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Elisha say would happen at the gate of Samaria about that time the next day?",
+  "options": [
+    "The king of Aram would surrender",
+    "Rain would fall and end the famine",
+    "Fine flour and barley would sell for a shekel",
+    "The city walls would fall"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Promise"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    },
+    {
+      "name": "Gate of Samaria",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha said a seah of the finest flour and two seahs of barley would each sell for a shekel at the gate of Samaria."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14-033-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 33,
+  "verse_reference": "2 Chronicles 33:5",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Manasseh build altars to all the starry hosts?",
+  "options": [
+    "On Mount Carmel",
+    "In both courts of the LORD's temple",
+    "In the Valley of Salt",
+    "In Samaria"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Manasseh"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In both courts of the temple of the LORD, Manasseh built altars to all the starry hosts."
+}

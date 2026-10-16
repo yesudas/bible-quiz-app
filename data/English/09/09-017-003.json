@@ -1,0 +1,31 @@
+{
+  "id": "09-017-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 17,
+  "verse_reference": "1 Samuel 17:5-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the shaft of Goliath's spear like?",
+  "options": [
+    "A weaver's rod",
+    "A tree trunk",
+    "A shepherd's staff",
+    "A tent pole"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Goliath"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Goliath wore a bronze helmet and scale armor, and his spear shaft was like a weaver's rod."
+}

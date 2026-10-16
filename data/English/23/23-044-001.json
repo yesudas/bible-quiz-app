@@ -1,0 +1,31 @@
+{
+  "id": "23-044-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 44,
+  "verse_reference": "Isaiah 44:2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "In Isaiah 44:2, by what special name does God call Israel along with Jacob?",
+  "options": [
+    "Ariel",
+    "Hephzibah",
+    "Jeshurun",
+    "Beulah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Covenant"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 44:2 says, 'Do not be afraid, Jacob, my servant, Jeshurun, whom I have chosen.'"
+}

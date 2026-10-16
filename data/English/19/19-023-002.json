@@ -1,0 +1,34 @@
+{
+  "id": "19-023-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 23,
+  "verse_reference": "Psalm 23:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Because the LORD is his shepherd, what does David say he lacks?",
+  "options": [
+    "Nothing",
+    "Only food",
+    "Only water",
+    "Only friends"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Provision"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 23:1 says, \"The LORD is my shepherd, I lack nothing.\""
+}

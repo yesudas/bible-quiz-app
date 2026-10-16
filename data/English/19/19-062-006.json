@@ -1,0 +1,33 @@
+{
+  "id": "19-062-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 62,
+  "verse_reference": "Psalm 62:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 62:10, what should you not do when your riches increase?",
+  "options": [
+    "Share them",
+    "Count them",
+    "Set your heart on them",
+    "Hide them"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Wisdom"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David warns that though riches increase, people should not set their hearts on them."
+}

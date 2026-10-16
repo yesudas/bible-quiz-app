@@ -1,0 +1,32 @@
+{
+  "id": "11-010-012",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 10,
+  "verse_reference": "1 Kings 10:22",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Every three years, what did Solomon's trading ships bring back?",
+  "options": [
+    "Wheat, wine and oil",
+    "Gold, silver, ivory, apes and baboons",
+    "Horses and chariots",
+    "Cedar and pine logs"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Solomon",
+    "Hiram"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Once every three years the trading ships returned carrying gold, silver and ivory, and apes and baboons."
+}

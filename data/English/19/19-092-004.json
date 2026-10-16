@@ -1,0 +1,29 @@
+{
+  "id": "19-092-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 92,
+  "verse_reference": "Psalm 92:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 92:3, how many strings does the lyre have?",
+  "options": [
+    "Seven",
+    "Ten",
+    "Twelve",
+    "Five"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist praises God to the music of the ten-stringed lyre and the melody of the harp."
+}

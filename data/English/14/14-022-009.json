@@ -1,0 +1,36 @@
+{
+  "id": "14-022-009",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 22,
+  "verse_reference": "2 Chronicles 22:9",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where was Ahaziah hiding when Jehu's men captured him?",
+  "options": [
+    "Jerusalem",
+    "Samaria",
+    "Jezreel",
+    "Megiddo"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Ahaziah",
+    "Jehu"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehu's men captured Ahaziah while he was hiding in Samaria, brought him to Jehu, and he was put to death."
+}

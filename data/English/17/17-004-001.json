@@ -1,0 +1,38 @@
+{
+  "id": "17-004-001",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 4,
+  "verse_reference": "Esther 4:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Mordecai do when he learned about everything that had been done?",
+  "options": [
+    "He hid in his house",
+    "He tore his clothes and put on sackcloth and ashes",
+    "He ran away from Susa",
+    "He went to fight Haman"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Repentance"
+  ],
+  "characters": [
+    "Mordecai"
+  ],
+  "places": [
+    {
+      "name": "Susa",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mordecai tore his clothes, put on sackcloth and ashes, and went into the city wailing loudly and bitterly."
+}

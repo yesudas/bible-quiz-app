@@ -1,0 +1,40 @@
+{
+  "id": "09-028-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 28,
+  "verse_reference": "1 Samuel 28:4",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Saul gather Israel and set up camp to face the Philistines at Shunem?",
+  "options": [
+    "Mizpah",
+    "Gibeah",
+    "Carmel",
+    "Gilboa"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Shunem",
+      "type": "town"
+    },
+    {
+      "name": "Gilboa",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Philistines assembled and set up camp at Shunem, while Saul gathered all Israel and set up camp at Gilboa."
+}

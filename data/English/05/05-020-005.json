@@ -1,0 +1,31 @@
+{
+  "id": "05-020-005",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 20,
+  "verse_reference": "Deuteronomy 20:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were the Israelites to do first when they approached a distant city to attack it?",
+  "options": [
+    "Burn its fields",
+    "Make an offer of peace to it",
+    "Surround it silently",
+    "Send spies inside"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Peace",
+    "Law",
+    "Mercy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Israel marched against a distant city, they were first to make an offer of peace to it before any attack."
+}

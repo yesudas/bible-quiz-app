@@ -1,0 +1,42 @@
+{
+  "id": "06-011-013",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 11,
+  "verse_reference": "Joshua 11:22",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In which cities did some Anakites survive?",
+  "options": [
+    "Gaza, Gath and Ashdod",
+    "Hebron, Debir and Anab",
+    "Hazor, Madon and Shimron",
+    "Jericho, Ai and Bethel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Victory"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gaza",
+      "type": "city"
+    },
+    {
+      "name": "Gath",
+      "type": "city"
+    },
+    {
+      "name": "Ashdod",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "No Anakites were left in Israelite territory; only in Gaza, Gath and Ashdod did any survive."
+}

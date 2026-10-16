@@ -1,0 +1,35 @@
+{
+  "id": "23-016-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 16,
+  "verse_reference": "Isaiah 16:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What were the people asked to do for the Moabite fugitives?",
+  "options": [
+    "Send them back to Moab",
+    "Sell them as servants",
+    "Let them stay and be their shelter from the destroyer",
+    "Make them fight in the army"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Compassion",
+    "Mercy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 16:4 says, 'Let the Moabite fugitives stay with you; be their shelter from the destroyer.'"
+}

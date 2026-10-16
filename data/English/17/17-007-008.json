@@ -1,0 +1,39 @@
+{
+  "id": "17-007-008",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 7,
+  "verse_reference": "Esther 7:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened to Haman at the end of Esther 7?",
+  "options": [
+    "He was sent into exile",
+    "He was put in prison",
+    "He was forgiven by the king",
+    "He was impaled on the pole he had set up for Mordecai"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Justice"
+  ],
+  "characters": [
+    "Haman",
+    "Mordecai"
+  ],
+  "places": [
+    {
+      "name": "Haman's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They impaled Haman on the pole he had set up for Mordecai."
+}

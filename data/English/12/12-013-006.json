@@ -1,0 +1,33 @@
+{
+  "id": "12-013-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 13,
+  "verse_reference": "2 Kings 13:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "When Elisha was ill, King Jehoash wept over him and said: \"My father! My father! The chariots and ______ of Israel!\"",
+  "options": [
+    "soldiers",
+    "prophets",
+    "kings",
+    "horsemen"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jehoash",
+    "Elisha"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoash went to see the dying Elisha and wept, saying, 'My father! My father! The chariots and horsemen of Israel!'"
+}

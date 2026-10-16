@@ -1,0 +1,33 @@
+{
+  "id": "19-101-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 101,
+  "verse_reference": "Psalm 101:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"I will be careful to lead a ______ life—when will you come to me?\"",
+  "options": [
+    "blameless",
+    "peaceful",
+    "humble",
+    "joyful"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holiness",
+    "Obedience"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David promised to be careful to lead a blameless life, living in a way that pleases God."
+}

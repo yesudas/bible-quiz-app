@@ -1,0 +1,36 @@
+{
+  "id": "06-003-015",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 3,
+  "verse_reference": "Joshua 3:17",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did the whole nation of Israel cross the Jordan?",
+  "options": [
+    "By boat",
+    "By swimming",
+    "Across a bridge",
+    "On dry ground"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priests stood firm on dry ground in the middle of the Jordan while all Israel crossed over on dry ground."
+}

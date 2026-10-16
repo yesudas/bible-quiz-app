@@ -1,0 +1,32 @@
+{
+  "id": "18-032-007",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 32,
+  "verse_reference": "Job 32:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Elihu's words: \"It is the spirit in a person, the ____ of the Almighty, that gives them understanding.\"",
+  "options": [
+    "word",
+    "breath",
+    "hand",
+    "light"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Elihu"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elihu said, 'It is the spirit in a person, the breath of the Almighty, that gives them understanding.'"
+}

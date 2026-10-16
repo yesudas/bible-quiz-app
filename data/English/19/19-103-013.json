@@ -1,0 +1,37 @@
+{
+  "id": "19-103-013",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 103,
+  "verse_reference": "Psalm 103:19",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where has the LORD established His throne, according to Psalm 103?",
+  "options": [
+    "In heaven",
+    "In Jerusalem",
+    "In the temple",
+    "On Mount Sinai"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingdom of God"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD has established His throne in heaven, and His kingdom rules over all."
+}

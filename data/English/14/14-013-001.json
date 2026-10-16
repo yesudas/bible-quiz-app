@@ -1,0 +1,35 @@
+{
+  "id": "14-013-001",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 13,
+  "verse_reference": "2 Chronicles 13:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many years did Abijah reign in Jerusalem?",
+  "options": [
+    "Three",
+    "Seventeen",
+    "Seven",
+    "Forty"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Abijah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abijah became king of Judah in the eighteenth year of Jeroboam and reigned in Jerusalem three years."
+}

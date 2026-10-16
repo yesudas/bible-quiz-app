@@ -1,0 +1,32 @@
+{
+  "id": "09-020-010",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 20,
+  "verse_reference": "1 Samuel 20:26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Saul say nothing on the first day David was missing?",
+  "options": [
+    "He thought something had made David ceremonially unclean",
+    "He had not noticed",
+    "He was glad David was gone",
+    "He knew David had gone to Bethlehem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Saul",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul said nothing that day, for he thought something must have happened to David to make him ceremonially unclean."
+}

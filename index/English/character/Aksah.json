@@ -1,0 +1,17 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Aksah",
+    "label": "Aksah",
+    "count": 7,
+    "paths": [
+        "English/06/06-015-007.json",
+        "English/06/06-015-008.json",
+        "English/06/06-015-009.json",
+        "English/06/06-015-010.json",
+        "English/07/07-001-008.json",
+        "English/07/07-001-009.json",
+        "English/07/07-001-010.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

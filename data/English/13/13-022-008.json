@@ -1,0 +1,34 @@
+{
+  "id": "13-022-008",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 22,
+  "verse_reference": "1 Chronicles 22:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete David's words to Solomon: \"Be strong and ______. Do not be afraid or discouraged.\"",
+  "options": [
+    "courageous",
+    "wise",
+    "humble",
+    "patient"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Courage",
+    "Faith"
+  ],
+  "characters": [
+    "David",
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David encouraged Solomon, \"Be strong and courageous. Do not be afraid or discouraged.\""
+}

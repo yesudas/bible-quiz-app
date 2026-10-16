@@ -1,0 +1,37 @@
+{
+  "id": "07-008-018",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 8,
+  "verse_reference": "Judges 8:31",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "What was the name of the son born to Gideon's concubine in Shechem?",
+  "options": [
+    "Jether",
+    "Abimelek",
+    "Purah",
+    "Gaal"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Gideon",
+    "Abimelek"
+  ],
+  "places": [
+    {
+      "name": "Shechem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon's concubine, who lived in Shechem, bore him a son, and Gideon named him Abimelek."
+}

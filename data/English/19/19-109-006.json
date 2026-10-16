@@ -1,0 +1,33 @@
+{
+  "id": "19-109-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 109,
+  "verse_reference": "Psalm 109:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did David describe himself in Psalm 109:22?",
+  "options": [
+    "Rich and strong",
+    "Poor and needy",
+    "Proud and wise",
+    "Old and tired"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said, \"I am poor and needy, and my heart is wounded within me.\""
+}

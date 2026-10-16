@@ -1,0 +1,32 @@
+{
+  "id": "09-026-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 26,
+  "verse_reference": "1 Samuel 26:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "David said, \"The king of Israel has come out to look for a flea—as one hunts a ___ in the mountains.\"",
+  "options": [
+    "deer",
+    "lion",
+    "goat",
+    "partridge"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "David",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David asked Saul not to let his blood fall far from the LORD's presence, for the king had come out to look for a flea—as one hunts a partridge in the mountains."
+}

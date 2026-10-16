@@ -1,0 +1,37 @@
+{
+  "id": "12-010-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 10,
+  "verse_reference": "2 Kings 10:15",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which man did Jehu take up into his chariot on the way to Samaria?",
+  "options": [
+    "Elisha",
+    "Jehonadab son of Rekab",
+    "Hazael",
+    "Bidkar"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jehu",
+    "Jehonadab"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehu met Jehonadab son of Rekab, asked if he was in accord with him, and helped him up into the chariot."
+}

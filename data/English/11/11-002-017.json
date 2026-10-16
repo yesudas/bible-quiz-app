@@ -1,0 +1,32 @@
+{
+  "id": "11-002-017",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 2,
+  "verse_reference": "1 Kings 2:46",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "The kingdom was now firmly established in ______ hands.",
+  "options": [
+    "David's",
+    "Adonijah's",
+    "Solomon's",
+    "Joab's"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After these events, the chapter ends by saying the kingdom was now firmly established in Solomon's hands."
+}

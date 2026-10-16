@@ -1,0 +1,39 @@
+{
+  "id": "14-011-001",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 11,
+  "verse_reference": "2 Chronicles 11:1",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many able young men did Rehoboam gather to fight against Israel?",
+  "options": [
+    "18,000",
+    "180,000",
+    "80,000",
+    "1,800"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Rehoboam"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    },
+    {
+      "name": "Benjamin",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rehoboam mustered Judah and Benjamin, 180,000 able young men, to make war against Israel and regain the kingdom."
+}

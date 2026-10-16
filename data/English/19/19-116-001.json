@@ -1,0 +1,31 @@
+{
+  "id": "19-116-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 116,
+  "verse_reference": "Psalm 116:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "Why did the psalmist say he loved the LORD?",
+  "options": [
+    "Because God made him rich",
+    "Because God heard his voice and his cry for mercy",
+    "Because God made him king",
+    "Because God gave him land"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist said, \"I love the LORD, for he heard my voice; he heard my cry for mercy.\""
+}

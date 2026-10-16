@@ -1,0 +1,35 @@
+{
+  "id": "14-025-015",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 25,
+  "verse_reference": "2 Chronicles 25:27",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "To which town did Amaziah flee when there was a conspiracy against him?",
+  "options": [
+    "Lachish",
+    "Hebron",
+    "Bethlehem",
+    "Gath"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Amaziah"
+  ],
+  "places": [
+    {
+      "name": "Lachish",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When a conspiracy arose in Jerusalem, Amaziah fled to Lachish, but they sent men after him and killed him there."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "12-004-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 4,
+  "verse_reference": "2 Kings 4:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Elisha tell the widow to do with the oil?",
+  "options": [
+    "Give it to the company of the prophets",
+    "Offer it at the temple",
+    "Keep it for the coming famine",
+    "Sell it, pay her debts, and live on what was left"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money",
+    "Family"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha said, 'Go, sell the oil and pay your debts. You and your sons can live on what is left.'"
+}

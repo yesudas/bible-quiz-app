@@ -1,0 +1,36 @@
+{
+  "id": "13-018-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 18,
+  "verse_reference": "1 Chronicles 18:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Moabites do after David defeated them?",
+  "options": [
+    "They fled to Egypt",
+    "They became subject to him and brought tribute",
+    "They joined Hadadezer",
+    "They attacked Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Victory"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Moabites became subject to David and brought him tribute."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "12-008-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 8,
+  "verse_reference": "2 Kings 8:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the king order to be given back to the Shunammite woman?",
+  "options": [
+    "Only her house",
+    "Only half of her land",
+    "A reward of silver and gold",
+    "Everything that was hers, including the income from her land"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Money"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king told an official to give back everything that belonged to her, including all the income from her land."
+}

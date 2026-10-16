@@ -1,0 +1,37 @@
+{
+  "id": "09-026-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 26,
+  "verse_reference": "1 Samuel 26:6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who volunteered to go down into Saul's camp with David at night?",
+  "options": [
+    "Ahimelek the Hittite",
+    "Joab",
+    "Abishai",
+    "Abiathar"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Abishai",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Saul's camp",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David asked who would go down into the camp with him. Abishai son of Zeruiah, Joab's brother, said, \"I'll go with you.\""
+}

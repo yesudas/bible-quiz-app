@@ -1,0 +1,32 @@
+{
+  "id": "18-030-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 30,
+  "verse_reference": "Job 30:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Job said God had thrown him into the mud and reduced him to what?",
+  "options": [
+    "Silence",
+    "A servant",
+    "A beggar",
+    "Dust and ashes"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'He throws me into the mud, and I am reduced to dust and ashes.'"
+}

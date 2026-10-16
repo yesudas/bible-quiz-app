@@ -1,0 +1,33 @@
+{
+  "id": "05-016-008",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 16,
+  "verse_reference": "Deuteronomy 16:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Moses forbid judges from accepting, because it blinds the wise and twists their words?",
+  "options": [
+    "Gifts of food",
+    "A bribe",
+    "Land from the accused",
+    "Praise from the crowd"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Justice",
+    "Leadership",
+    "Wisdom"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Judges were commanded not to pervert justice, show partiality, or accept a bribe, because a bribe blinds the eyes of the wise and twists the words of the righteous."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12-011-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 11,
+  "verse_reference": "2 Kings 11:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "When Athaliah saw the new king, she tore her robes and called out: \"______! ______!\"",
+  "options": [
+    "Help",
+    "Murder",
+    "Treason",
+    "Guards"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Athaliah",
+    "Joash"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Athaliah saw the king standing by the pillar, tore her robes and called out, 'Treason! Treason!'"
+}

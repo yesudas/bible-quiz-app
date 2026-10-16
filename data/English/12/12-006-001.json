@@ -1,0 +1,37 @@
+{
+  "id": "12-006-001",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 6,
+  "verse_reference": "2 Kings 6:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the company of the prophets want to go to the Jordan?",
+  "options": [
+    "They wanted to be baptised",
+    "Their meeting place was too small, so they wanted to cut poles to build a new one",
+    "They were escaping the army of Aram",
+    "They wanted to fish for food"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Discipleship"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The prophets told Elisha their place was too small, so they wanted to go to the Jordan to cut poles and build a place to meet."
+}

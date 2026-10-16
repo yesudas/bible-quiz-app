@@ -1,0 +1,33 @@
+{
+  "id": "18-024-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 24,
+  "verse_reference": "Job 24:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Job said the wicked drive away the donkey of whom?",
+  "options": [
+    "The king",
+    "The priest",
+    "The orphan",
+    "The merchant"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Money"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said the wicked drive away the orphan's donkey and take the widow's ox in pledge."
+}

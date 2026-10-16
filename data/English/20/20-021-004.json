@@ -1,0 +1,34 @@
+{
+  "id": "20-021-004",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 21,
+  "verse_reference": "Proverbs 21:9",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 21:9, where is it better to live than to share a house with a quarrelsome wife?",
+  "options": [
+    "In a cave",
+    "In the city gate",
+    "In a tent",
+    "On a corner of the roof"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Corner of the roof",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 21:9 says better to live on a corner of the roof than share a house with a quarrelsome wife."
+}

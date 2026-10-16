@@ -1,0 +1,39 @@
+{
+  "id": "12-005-007",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 5,
+  "verse_reference": "2 Kings 5:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How many times did Elisha tell Naaman to wash in the Jordan?",
+  "options": [
+    "Three times",
+    "Twelve times",
+    "Seven times",
+    "Once"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience",
+    "Miracles"
+  ],
+  "characters": [
+    "Elisha",
+    "Naaman"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha's messenger told Naaman, 'Go, wash yourself seven times in the Jordan.'"
+}

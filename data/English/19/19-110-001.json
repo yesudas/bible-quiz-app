@@ -1,0 +1,33 @@
+{
+  "id": "19-110-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 110,
+  "verse_reference": "Psalm 110:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In Psalm 110, where does the LORD tell David's lord to sit?",
+  "options": [
+    "At His left hand",
+    "At His right hand",
+    "On a high mountain",
+    "At the city gate"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Kingdom of God",
+    "Prophecy"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD says to David's lord, \"Sit at my right hand until I make your enemies a footstool for your feet.\""
+}

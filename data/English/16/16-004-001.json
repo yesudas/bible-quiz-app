@@ -1,0 +1,37 @@
+{
+  "id": "16-004-001",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 4,
+  "verse_reference": "Nehemiah 4:1-2",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who became angry and made fun of the Jews for rebuilding the wall?",
+  "options": [
+    "Artaxerxes",
+    "Sanballat",
+    "Hanani",
+    "Eliashib"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Sanballat"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Sanballat heard that the Jews were rebuilding the wall, he became angry and ridiculed them."
+}

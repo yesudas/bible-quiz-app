@@ -1,0 +1,32 @@
+{
+  "id": "12-004-002",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 4,
+  "verse_reference": "2 Kings 4:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the widow have in her house when Elisha asked her?",
+  "options": [
+    "A handful of flour",
+    "Two loaves of bread",
+    "A small jar of olive oil",
+    "A few silver coins"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "She told Elisha she had nothing there at all, except a small jar of olive oil."
+}

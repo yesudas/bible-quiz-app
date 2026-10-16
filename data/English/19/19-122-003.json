@@ -1,0 +1,36 @@
+{
+  "id": "19-122-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 122,
+  "verse_reference": "Psalm 122:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How does Psalm 122 describe the way Jerusalem is built?",
+  "options": [
+    "Like a tent in the desert",
+    "Like a tower to the heavens",
+    "Like a city closely compacted together",
+    "Like a fortress on the sea"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jerusalem is built like a city that is closely compacted together."
+}

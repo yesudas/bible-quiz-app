@@ -1,0 +1,30 @@
+{
+  "id": "23-001-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 1,
+  "verse_reference": "Isaiah 1:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Whom did the LORD call to listen as He spoke against His rebellious children?",
+  "options": [
+    "The kings of the nations",
+    "The heavens and the earth",
+    "The angels and the prophets",
+    "The mountains and the seas"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah began, 'Hear me, you heavens! Listen, earth!' because the LORD's children had rebelled against Him."
+}

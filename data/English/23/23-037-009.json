@@ -1,0 +1,42 @@
+{
+  "id": "23-037-009",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 37,
+  "verse_reference": "Isaiah 37:38",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who killed Sennacherib while he was worshiping in the temple of his god Nisrok?",
+  "options": [
+    "His sons Adrammelek and Sharezer",
+    "The king of Babylon",
+    "Hezekiah's soldiers",
+    "His own servants from Egypt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Sennacherib",
+    "Adrammelek",
+    "Sharezer",
+    "Esarhaddon"
+  ],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    },
+    {
+      "name": "Temple of Nisrok",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 37:38 says his sons Adrammelek and Sharezer killed him with the sword, and Esarhaddon his son succeeded him as king."
+}

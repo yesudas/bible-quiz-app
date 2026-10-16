@@ -1,0 +1,32 @@
+{
+  "id": "14-030-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 30,
+  "verse_reference": "2 Chronicles 30:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the letter: \"People of Israel, ______ to the LORD, the God of Abraham, Isaac and Israel.\"",
+  "options": [
+    "return",
+    "sing",
+    "give",
+    "listen"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Repentance"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The couriers' letters said, \"People of Israel, return to the LORD... that he may return to you who are left.\""
+}

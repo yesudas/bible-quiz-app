@@ -1,0 +1,37 @@
+{
+  "id": "06-011-006",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 11,
+  "verse_reference": "Joshua 11:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Joshua attack the northern army?",
+  "options": [
+    "He waited for them to leave",
+    "He came against them suddenly",
+    "He sent spies first",
+    "He made a treaty"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Waters of Merom",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua and his army came against them suddenly at the Waters of Merom and attacked them."
+}

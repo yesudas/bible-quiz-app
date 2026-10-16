@@ -1,0 +1,41 @@
+{
+  "id": "16-003-001",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 3,
+  "verse_reference": "Nehemiah 3:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was the high priest who rebuilt the Sheep Gate with his fellow priests?",
+  "options": [
+    "Eliashib",
+    "Joshua",
+    "Hilkiah",
+    "Ezra"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Eliashib"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Sheep Gate",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eliashib the high priest and his fellow priests rebuilt the Sheep Gate and dedicated it."
+}

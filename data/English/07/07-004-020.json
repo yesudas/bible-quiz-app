@@ -1,0 +1,37 @@
+{
+  "id": "07-004-020",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 4,
+  "verse_reference": "Judges 4:23-24",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened to Jabin king of Canaan after Sisera died?",
+  "options": [
+    "He made peace with Israel",
+    "God subdued him, and Israel grew stronger against him until they destroyed him",
+    "He fled to Egypt",
+    "He became Israel's servant for forty years"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Judgment"
+  ],
+  "characters": [
+    "Jabin"
+  ],
+  "places": [
+    {
+      "name": "Canaan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On that day God subdued Jabin, and the Israelites grew stronger and stronger against him until they destroyed him."
+}

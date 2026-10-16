@@ -1,0 +1,40 @@
+{
+  "id": "17-001-005",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 1,
+  "verse_reference": "Esther 1:5",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did King Xerxes hold his seven-day banquet for all the people in the citadel of Susa?",
+  "options": [
+    "In the temple courts",
+    "In the enclosed garden of the king's palace",
+    "By the river",
+    "In the city gate"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Feasts"
+  ],
+  "characters": [
+    "Xerxes"
+  ],
+  "places": [
+    {
+      "name": "King's palace garden",
+      "type": "garden"
+    },
+    {
+      "name": "Susa",
+      "type": "citadel"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king gave a seven-day banquet in the enclosed garden of the king's palace for everyone in Susa, from the least to the greatest."
+}

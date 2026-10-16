@@ -1,0 +1,41 @@
+{
+  "id": "19-079-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 79,
+  "verse_reference": "Psalm 79:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 79:1, which city had the nations reduced to rubble?",
+  "options": [
+    "Samaria",
+    "Jerusalem",
+    "Jericho",
+    "Bethlehem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph says the nations invaded God's inheritance, defiled His temple and reduced Jerusalem to rubble."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14-028-005",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 28,
+  "verse_reference": "2 Chronicles 28:9",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which prophet of the LORD went out to meet Israel's army returning to Samaria?",
+  "options": [
+    "Elisha",
+    "Oded",
+    "Isaiah",
+    "Micah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Oded"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A prophet of the LORD named Oded went out to meet the army when it returned to Samaria."
+}

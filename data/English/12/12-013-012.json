@@ -1,0 +1,39 @@
+{
+  "id": "12-013-012",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 13,
+  "verse_reference": "2 Kings 13:20-21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the Israelites throw a man's body into Elisha's tomb?",
+  "options": [
+    "Elisha had asked for it",
+    "They saw a band of Moabite raiders coming",
+    "It was the family tomb",
+    "The priests told them to"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Elisha's tomb",
+      "type": "tomb"
+    },
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While burying a man, some Israelites saw a band of Moabite raiders, so they threw the body into Elisha's tomb."
+}

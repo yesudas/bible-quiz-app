@@ -1,0 +1,31 @@
+{
+  "id": "19-106-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 106,
+  "verse_reference": "Psalm 106:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Give thanks to the LORD, for he is good; his ______ endures forever.\"",
+  "options": [
+    "love",
+    "law",
+    "kingdom",
+    "name"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 106 begins by thanking the LORD because He is good and His love endures forever."
+}

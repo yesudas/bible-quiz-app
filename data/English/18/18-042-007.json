@@ -1,0 +1,37 @@
+{
+  "id": "18-042-007",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 42,
+  "verse_reference": "Job 42:8-9",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who prayed for Job's three friends, and whose prayer did the LORD accept?",
+  "options": [
+    "Elihu",
+    "Job",
+    "Job's wife",
+    "Eliphaz"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Job",
+    "God",
+    "Eliphaz",
+    "Bildad",
+    "Zophar"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, 'My servant Job will pray for you, and I will accept his prayer,' and the LORD accepted Job's prayer."
+}

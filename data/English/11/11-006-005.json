@@ -1,0 +1,39 @@
+{
+  "id": "11-006-005",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 6,
+  "verse_reference": "1 Kings 6:11-13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the LORD promise Solomon if he followed God's decrees and commands?",
+  "options": [
+    "He would never grow old",
+    "He would live among the Israelites and not abandon His people",
+    "He would give Solomon more land",
+    "He would send fire from heaven"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Obedience",
+    "Covenant"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said that if Solomon obeyed, He would fulfill His promise to David and live among the Israelites and not abandon His people Israel."
+}

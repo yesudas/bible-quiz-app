@@ -1,0 +1,33 @@
+{
+  "id": "18-008-006",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 8,
+  "verse_reference": "Job 8:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Your beginnings will seem ____, so prosperous will your future be.\"",
+  "options": [
+    "humble",
+    "sad",
+    "dark",
+    "long"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [
+    "Bildad",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Bildad told Job, 'Your beginnings will seem humble, so prosperous will your future be.'"
+}

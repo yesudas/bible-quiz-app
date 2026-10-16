@@ -1,0 +1,37 @@
+{
+  "id": "19-073-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 73,
+  "verse_reference": "Psalm 73:16-17",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 73:17, where did Asaph finally understand the final destiny of the wicked?",
+  "options": [
+    "In the desert",
+    "On the battlefield",
+    "In his own house",
+    "In the sanctuary of God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Wisdom"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "Sanctuary of God",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph was deeply troubled until he entered the sanctuary of God; then he understood their final destiny."
+}

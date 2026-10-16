@@ -1,0 +1,33 @@
+{
+  "id": "13-006-011",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 6,
+  "verse_reference": "1 Chronicles 6:49",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Aaron and his descendants do at the altar of burnt offering and the altar of incense?",
+  "options": [
+    "Presented offerings and made atonement for Israel",
+    "Sang psalms and played music",
+    "Guarded the gates of the temple",
+    "Carried the ark"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Priesthood",
+    "Worship",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They presented offerings on these altars and made atonement for Israel, as Moses commanded."
+}

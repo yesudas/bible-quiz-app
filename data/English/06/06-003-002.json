@@ -1,0 +1,36 @@
+{
+  "id": "06-003-002",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 3,
+  "verse_reference": "Joshua 3:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What were the people to follow when it moved out?",
+  "options": [
+    "A pillar of cloud",
+    "The ark of the covenant",
+    "The tabernacle",
+    "A bronze snake"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The officers told the people to move out and follow the ark of the covenant when they saw the priests carrying it."
+}

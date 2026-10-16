@@ -1,0 +1,40 @@
+{
+  "id": "09-004-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 4,
+  "verse_reference": "1 Samuel 4:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "After their first defeat, what did the elders of Israel decide to bring from Shiloh?",
+  "options": [
+    "The ark of the LORD's covenant",
+    "The bronze altar",
+    "The golden lampstand",
+    "Samuel the prophet"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "town"
+    },
+    {
+      "name": "Ebenezer",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elders said, \"Let us bring the ark of the LORD's covenant from Shiloh, so that he may go with us and save us.\""
+}

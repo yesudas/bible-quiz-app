@@ -1,0 +1,39 @@
+{
+  "id": "11-001-015",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 1,
+  "verse_reference": "1 Kings 1:38",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which groups went with Zadok, Nathan and Benaiah to bring Solomon down to Gihon?",
+  "options": [
+    "The Levites and the singers",
+    "The Kerethites and the Pelethites",
+    "The Ammonites and the Moabites",
+    "The elders of Judah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon",
+    "Zadok",
+    "Nathan",
+    "Benaiah"
+  ],
+  "places": [
+    {
+      "name": "Gihon",
+      "type": "spring"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zadok, Nathan, Benaiah, the Kerethites and the Pelethites put Solomon on David's mule and escorted him to Gihon."
+}

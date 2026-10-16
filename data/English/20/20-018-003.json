@@ -1,0 +1,36 @@
+{
+  "id": "20-018-003",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 18,
+  "verse_reference": "Proverbs 18:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"The name of the LORD is a fortified ______; the righteous run to it and are safe.\"",
+  "options": [
+    "city",
+    "wall",
+    "tower",
+    "house"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Fortified tower",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 18:10 says the name of the LORD is a fortified tower; the righteous run to it and are safe."
+}

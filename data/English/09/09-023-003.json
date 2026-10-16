@@ -1,0 +1,38 @@
+{
+  "id": "09-023-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 23,
+  "verse_reference": "1 Samuel 23:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was the result when David and his men fought the Philistines at Keilah?",
+  "options": [
+    "They lost the battle",
+    "The Philistines made peace",
+    "David saved the people of Keilah",
+    "David was captured"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Keilah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David and his men fought the Philistines, carried off their livestock and inflicted heavy losses. So David saved the people of Keilah."
+}

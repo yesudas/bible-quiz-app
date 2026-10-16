@@ -1,0 +1,36 @@
+{
+  "id": "11-022-013",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 22,
+  "verse_reference": "1 Kings 22:31",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What order did the king of Aram give his thirty-two chariot commanders?",
+  "options": [
+    "Fight only with the king of Israel",
+    "Capture Jehoshaphat",
+    "Destroy Samaria",
+    "Stay out of the battle"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Ahab"
+  ],
+  "places": [
+    {
+      "name": "Aram",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king of Aram ordered his chariot commanders, \"Do not fight with anyone, small or great, except the king of Israel.\""
+}

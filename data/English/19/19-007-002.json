@@ -1,0 +1,33 @@
+{
+  "id": "19-007-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 7,
+  "verse_reference": "Psalm 7:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 7:2, what animal does David say his pursuers could tear him apart like?",
+  "options": [
+    "A bear",
+    "A wolf",
+    "A lion",
+    "A leopard"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution",
+    "Protection"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 7:2 says his pursuers could tear him apart like a lion with no one to rescue him."
+}

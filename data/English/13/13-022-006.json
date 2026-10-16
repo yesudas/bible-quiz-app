@@ -1,0 +1,34 @@
+{
+  "id": "13-022-006",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 22,
+  "verse_reference": "1 Chronicles 22:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete God's words about David's son: \"But you will have a son who will be a man of ______ and rest.\"",
+  "options": [
+    "war",
+    "wisdom",
+    "peace",
+    "wealth"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Peace",
+    "Promise"
+  ],
+  "characters": [
+    "Solomon",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised that David would have a son who would be a man of peace and rest, and his name would be Solomon."
+}

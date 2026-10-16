@@ -1,0 +1,32 @@
+{
+  "id": "13-017-008",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 17,
+  "verse_reference": "1 Chronicles 17:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete God's promise about David's son: \"I will be his ______, and he will be my son.\"",
+  "options": [
+    "king",
+    "shepherd",
+    "father",
+    "friend"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Love"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"I will be his father, and he will be my son.\""
+}

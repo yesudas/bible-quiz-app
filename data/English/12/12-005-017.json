@@ -1,0 +1,33 @@
+{
+  "id": "12-005-017",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 5,
+  "verse_reference": "2 Kings 5:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What lie did Gehazi tell Naaman?",
+  "options": [
+    "That two young prophets had come and needed silver and clothing",
+    "That Elisha had changed his mind and wanted all the gifts",
+    "That the king of Israel needed money",
+    "That Naaman had not paid for his healing"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Money"
+  ],
+  "characters": [
+    "Gehazi",
+    "Naaman"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gehazi falsely said two young men from the company of the prophets had come and Elisha wanted a talent of silver and two sets of clothing for them."
+}

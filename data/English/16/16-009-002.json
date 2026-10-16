@@ -1,0 +1,30 @@
+{
+  "id": "16-009-002",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 9,
+  "verse_reference": "Nehemiah 9:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Whose sins did the Israelites confess when they stood in their places?",
+  "options": [
+    "Only the sins of their kings",
+    "Their own sins and the sins of their ancestors",
+    "The sins of the Babylonians",
+    "Only the sins of the priests"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They separated themselves from all foreigners and confessed their sins and the sins of their ancestors."
+}

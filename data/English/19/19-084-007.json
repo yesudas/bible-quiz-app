@@ -1,0 +1,36 @@
+{
+  "id": "19-084-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 84,
+  "verse_reference": "Psalm 84:10",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 84:10, what would the psalmist rather be in God's house than dwell in the tents of the wicked?",
+  "options": [
+    "A priest",
+    "A singer",
+    "A guest",
+    "A doorkeeper"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Sons of Korah"
+  ],
+  "places": [
+    {
+      "name": "House of God",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He says he would rather be a doorkeeper in the house of his God than dwell in the tents of the wicked."
+}

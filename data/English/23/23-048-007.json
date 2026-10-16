@@ -1,0 +1,30 @@
+{
+  "id": "23-048-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 48,
+  "verse_reference": "Isaiah 48:22",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'There is no ______, says the LORD, for the wicked.'",
+  "options": [
+    "peace",
+    "rest",
+    "hope",
+    "joy"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Peace"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 48:22 says, 'There is no peace, says the LORD, for the wicked.'"
+}

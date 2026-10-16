@@ -1,0 +1,32 @@
+{
+  "id": "13-010-009",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 10,
+  "verse_reference": "1 Chronicles 10:13-14",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Instead of inquiring of the LORD, whom did Saul consult for guidance?",
+  "options": [
+    "A prophet",
+    "A priest",
+    "A wise woman of Tekoa",
+    "A medium"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Idolatry"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul even consulted a medium for guidance and did not inquire of the LORD."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "19-120-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 120,
+  "verse_reference": "Psalm 120:5",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "The psalmist said, \"Woe to me that I live among the tents of\" where?",
+  "options": [
+    "Kedar",
+    "Edom",
+    "Moab",
+    "Midian"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Meshek",
+      "type": "region"
+    },
+    {
+      "name": "Kedar",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He said, \"Woe to me that I dwell in Meshek, that I live among the tents of Kedar!\""
+}

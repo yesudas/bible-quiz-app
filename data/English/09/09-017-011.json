@@ -1,0 +1,33 @@
+{
+  "id": "09-017-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 17,
+  "verse_reference": "1 Samuel 17:34-37",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What experience did David use to show Saul the LORD would help him?",
+  "options": [
+    "He had won many battles",
+    "The LORD had rescued him from the lion and the bear",
+    "Samuel had anointed him",
+    "He had killed a giant before"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "David",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said the LORD who rescued him from the paw of the lion and the paw of the bear would rescue him from this Philistine."
+}

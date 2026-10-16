@@ -1,0 +1,34 @@
+{
+  "id": "12-018-003",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 18,
+  "verse_reference": "2 Kings 18:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which object made by Moses did Hezekiah break into pieces?",
+  "options": [
+    "The golden calf",
+    "The ark of the covenant",
+    "The stone tablets",
+    "The bronze snake"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Idolatry",
+    "Worship"
+  ],
+  "characters": [
+    "Hezekiah",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hezekiah broke into pieces the bronze snake Moses had made, because the Israelites had been burning incense to it."
+}

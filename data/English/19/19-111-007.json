@@ -1,0 +1,30 @@
+{
+  "id": "19-111-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 111,
+  "verse_reference": "Psalm 111:9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 111, what did the LORD provide for His people?",
+  "options": [
+    "A king",
+    "A land of rest",
+    "Redemption",
+    "A new temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He provided redemption for His people and ordained His covenant forever; holy and awesome is His name."
+}

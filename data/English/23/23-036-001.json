@@ -1,0 +1,40 @@
+{
+  "id": "23-036-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 36,
+  "verse_reference": "Isaiah 36:1",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "In which year of King Hezekiah's reign did Sennacherib attack the fortified cities of Judah?",
+  "options": [
+    "The fourth year",
+    "The tenth year",
+    "The fourteenth year",
+    "The twentieth year"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Hezekiah",
+    "Sennacherib"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 36:1 says, 'In the fourteenth year of King Hezekiah's reign, Sennacherib king of Assyria attacked all the fortified cities of Judah and captured them.'"
+}

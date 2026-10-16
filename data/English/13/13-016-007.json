@@ -1,0 +1,34 @@
+{
+  "id": "13-016-007",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 16,
+  "verse_reference": "1 Chronicles 16:16-17",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "David's song says God made His covenant with Abraham, swore an oath to whom, and confirmed it to Jacob?",
+  "options": [
+    "Joseph",
+    "Moses",
+    "Isaac",
+    "Noah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Abraham",
+    "Isaac",
+    "Jacob"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The song speaks of the covenant God made with Abraham, the oath He swore to Isaac, and the decree He confirmed to Jacob."
+}

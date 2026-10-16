@@ -1,0 +1,32 @@
+{
+  "id": "14-026-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 26,
+  "verse_reference": "2 Chronicles 26:5",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "During whose days did Uzziah seek God, since this man taught him to fear God?",
+  "options": [
+    "Zechariah",
+    "Jehoiada",
+    "Isaiah",
+    "Azariah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship",
+    "Faith"
+  ],
+  "characters": [
+    "Uzziah",
+    "Zechariah"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Uzziah sought God during the days of Zechariah, who instructed him in the fear of God."
+}

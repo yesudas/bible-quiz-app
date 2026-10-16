@@ -1,0 +1,23 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Beersheba",
+    "label": "Beersheba",
+    "count": 13,
+    "paths": [
+        "English/07/07-020-002.json",
+        "English/09/09-003-013.json",
+        "English/09/09-008-002.json",
+        "English/10/10-003-005.json",
+        "English/10/10-017-005.json",
+        "English/10/10-024-001.json",
+        "English/10/10-024-009.json",
+        "English/11/11-004-008.json",
+        "English/11/11-019-002.json",
+        "English/12/12-012-002.json",
+        "English/14/14-019-004.json",
+        "English/14/14-030-003.json",
+        "English/16/16-011-005.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

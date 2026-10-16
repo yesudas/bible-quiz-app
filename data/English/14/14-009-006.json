@@ -1,0 +1,36 @@
+{
+  "id": "14-009-006",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 9,
+  "verse_reference": "2 Chronicles 9:10-11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Solomon make from the algumwood brought from Ophir?",
+  "options": [
+    "Ships and oars",
+    "Steps, harps and lyres",
+    "Doors and gates",
+    "Tables and chairs"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon",
+    "Hiram"
+  ],
+  "places": [
+    {
+      "name": "Ophir",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon used the algumwood to make steps for the temple and palace, and harps and lyres for the musicians."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "15-006-009",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 6,
+  "verse_reference": "Ezra 6:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why were twelve male goats offered as a sin offering at the dedication?",
+  "options": [
+    "One for each month of the year",
+    "One for each tribe of Israel",
+    "One for each gate of the temple",
+    "One for each family head"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Sin",
+    "Forgiveness"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House of God in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Twelve male goats were offered as a sin offering for all Israel, one for each of the tribes of Israel."
+}

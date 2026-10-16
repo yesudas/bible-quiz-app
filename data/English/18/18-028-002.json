@@ -1,0 +1,32 @@
+{
+  "id": "18-028-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 28,
+  "verse_reference": "Job 28:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"But where can ____ be found? Where does understanding dwell?\"",
+  "options": [
+    "gold",
+    "wisdom",
+    "peace",
+    "water"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job asked, 'But where can wisdom be found? Where does understanding dwell?' People can find silver and gold, but wisdom is harder to find."
+}

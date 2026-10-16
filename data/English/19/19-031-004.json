@@ -1,0 +1,32 @@
+{
+  "id": "19-031-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 31,
+  "verse_reference": "Psalm 31:13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 31:13, what does David hear many people whispering?",
+  "options": [
+    "\"The king is dead!\"",
+    "\"Run to the hills!\"",
+    "\"Peace, peace!\"",
+    "\"Terror on every side!\""
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Persecution"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 31:13 says, \"For I hear many whispering, 'Terror on every side!'\""
+}

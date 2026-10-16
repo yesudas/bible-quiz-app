@@ -1,0 +1,38 @@
+{
+  "id": "05-004-007",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 4,
+  "verse_reference": "Deuteronomy 4:15-18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Moses warn the people not to make an idol in any shape?",
+  "options": [
+    "Because idols were too costly to make",
+    "Because other nations would mock them",
+    "Because idols were forbidden only for priests",
+    "Because they saw no form when God spoke at Horeb"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Sin",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Horeb",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Because Israel saw no form when God spoke from the fire, Moses warned them not to make idols shaped like any person, animal, bird, or fish."
+}

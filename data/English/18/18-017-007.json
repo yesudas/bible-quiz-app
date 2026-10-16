@@ -1,0 +1,32 @@
+{
+  "id": "18-017-007",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 17,
+  "verse_reference": "Job 17:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Job's question: \"Where then is my ____? Who can see any for me?\"",
+  "options": [
+    "home",
+    "wealth",
+    "friend",
+    "hope"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job asked, 'Where then is my hope—who can see any hope for me?'"
+}

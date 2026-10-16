@@ -1,0 +1,29 @@
+{
+  "id": "22-002-003",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 2,
+  "verse_reference": "Song of Songs 2:3",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "The woman compares her beloved to which tree among the trees of the forest?",
+  "options": [
+    "An apple tree",
+    "A fig tree",
+    "A cedar",
+    "An olive tree"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Song of Songs 2:3 she says her beloved is like an apple tree among the trees of the forest."
+}

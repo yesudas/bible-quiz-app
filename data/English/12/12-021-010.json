@@ -1,0 +1,36 @@
+{
+  "id": "12-021-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 21,
+  "verse_reference": "2 Kings 21:16",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Besides leading Judah into sin, what else did Manasseh do?",
+  "options": [
+    "He burned the temple",
+    "He gave Jerusalem to Assyria",
+    "He killed all the priests of Baal",
+    "He shed so much innocent blood that he filled Jerusalem"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Manasseh"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Manasseh also shed so much innocent blood that he filled Jerusalem from end to end."
+}

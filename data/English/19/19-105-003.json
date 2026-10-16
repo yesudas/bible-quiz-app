@@ -1,0 +1,36 @@
+{
+  "id": "19-105-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 105,
+  "verse_reference": "Psalm 105:11",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Which land did God promise to give His people as their inheritance?",
+  "options": [
+    "Egypt",
+    "Moab",
+    "Canaan",
+    "Assyria"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Canaan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"To you I will give the land of Canaan as the portion you will inherit.\""
+}

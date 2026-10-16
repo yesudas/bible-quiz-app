@@ -1,0 +1,34 @@
+{
+  "id": "23-001-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 1,
+  "verse_reference": "Isaiah 1:8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Daughter Zion was left like a shelter in which kind of field?",
+  "options": [
+    "A wheat field",
+    "A cucumber field",
+    "A barley field",
+    "A flax field"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 1:8 says Daughter Zion was left like a shelter in a vineyard, like a hut in a cucumber field."
+}

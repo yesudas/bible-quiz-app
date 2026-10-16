@@ -1,0 +1,33 @@
+{
+  "id": "19-042-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 42,
+  "verse_reference": "Psalm 42:8",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "According to Psalm 42:8, when is God's song with the writer?",
+  "options": [
+    "At dawn",
+    "At noon",
+    "On feast days",
+    "At night"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Love"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 42:8 says, \"By day the LORD directs his love, at night his song is with me \u2014 a prayer to the God of my life.\""
+}

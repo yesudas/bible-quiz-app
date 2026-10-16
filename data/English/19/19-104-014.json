@@ -1,0 +1,30 @@
+{
+  "id": "19-104-014",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 104,
+  "verse_reference": "Psalm 104:33",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"I will sing to the LORD all my ______; I will sing praise to my God as long as I live.\"",
+  "options": [
+    "days",
+    "life",
+    "heart",
+    "strength"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist promised to sing to the LORD all his life and praise God as long as he lived."
+}

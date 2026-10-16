@@ -1,0 +1,33 @@
+{
+  "id": "13-016-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 16,
+  "verse_reference": "1 Chronicles 16:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did David give to each Israelite man and woman?",
+  "options": [
+    "A silver coin and a new robe",
+    "A loaf of bread, a cake of dates and a cake of raisins",
+    "A lamb for sacrifice",
+    "A jar of oil and wine"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Joy",
+    "Generosity"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David gave a loaf of bread, a cake of dates and a cake of raisins to each Israelite man and woman."
+}

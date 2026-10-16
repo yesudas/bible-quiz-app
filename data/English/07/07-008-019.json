@@ -1,0 +1,37 @@
+{
+  "id": "07-008-019",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 8,
+  "verse_reference": "Judges 8:32",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where was Gideon buried?",
+  "options": [
+    "In Shechem",
+    "In Shiloh",
+    "In the tomb of his father Joash in Ophrah",
+    "At Timnath Heres"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Gideon",
+    "Joash"
+  ],
+  "places": [
+    {
+      "name": "Ophrah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon died at a good old age and was buried in the tomb of his father Joash in Ophrah of the Abiezrites."
+}

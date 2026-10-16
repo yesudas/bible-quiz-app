@@ -1,0 +1,37 @@
+{
+  "id": "15-005-007",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 5,
+  "verse_reference": "Ezra 5:14,16",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to the letter, whom had Cyrus appointed governor, who laid the foundations of the house of God?",
+  "options": [
+    "Ezra",
+    "Tattenai",
+    "Sheshbazzar",
+    "Nehemiah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Sheshbazzar",
+    "Cyrus"
+  ],
+  "places": [
+    {
+      "name": "House of God in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The letter says Cyrus gave the temple articles to Sheshbazzar, whom he had appointed governor, and Sheshbazzar came and laid the foundations of the house of God."
+}

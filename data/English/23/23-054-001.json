@@ -1,0 +1,30 @@
+{
+  "id": "23-054-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 54,
+  "verse_reference": "Isaiah 54:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom does Isaiah 54:1 call to sing and burst into song?",
+  "options": [
+    "The barren woman",
+    "The king's daughter",
+    "The priests of the temple",
+    "The watchmen on the walls"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 54:1 says, 'Sing, barren woman, you who never bore a child; burst into song, shout for joy.'"
+}

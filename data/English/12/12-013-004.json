@@ -1,0 +1,35 @@
+{
+  "id": "12-013-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 13,
+  "verse_reference": "2 Kings 13:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How small had Jehoahaz's army become?",
+  "options": [
+    "Five hundred chariots",
+    "Fifty horsemen, ten chariots and ten thousand foot soldiers",
+    "Only three hundred men",
+    "Twelve thousand horsemen"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Jehoahaz"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nothing was left of Jehoahaz's army except fifty horsemen, ten chariots and ten thousand foot soldiers."
+}

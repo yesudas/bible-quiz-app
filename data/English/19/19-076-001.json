@@ -1,0 +1,41 @@
+{
+  "id": "19-076-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 76,
+  "verse_reference": "Psalm 76:1",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "According to Psalm 76:1, in which land is God renowned?",
+  "options": [
+    "Egypt",
+    "Judah",
+    "Moab",
+    "Assyria"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph says, \"God is renowned in Judah; in Israel his name is great.\""
+}

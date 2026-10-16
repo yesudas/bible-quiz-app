@@ -1,0 +1,36 @@
+{
+  "id": "12-010-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 10,
+  "verse_reference": "2 Kings 10:13-14",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whose relatives did Jehu meet and kill at Beth Eked of the Shepherds?",
+  "options": [
+    "Hazael king of Aram",
+    "Jehonadab son of Rekab",
+    "Ahaziah king of Judah",
+    "Elisha"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Jehu",
+    "Ahaziah"
+  ],
+  "places": [
+    {
+      "name": "Beth Eked of the Shepherds",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehu met relatives of Ahaziah king of Judah and had them killed at the well of Beth Eked, forty-two men."
+}

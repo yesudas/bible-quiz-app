@@ -1,0 +1,38 @@
+{
+  "id": "07-004-003",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 4,
+  "verse_reference": "Judges 4:2",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who was the commander of Jabin's army?",
+  "options": [
+    "Goliath",
+    "Oreb",
+    "Sisera",
+    "Adoni-Bezek"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Sisera",
+    "Jabin"
+  ],
+  "places": [
+    {
+      "name": "Harosheth Haggoyim",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sisera was the commander of Jabin's army, and he was based in Harosheth Haggoyim."
+}

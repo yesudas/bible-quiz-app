@@ -1,0 +1,34 @@
+{
+  "id": "19-018-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 18,
+  "verse_reference": "Psalm 18:28",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"My God turns my darkness into ____.\"",
+  "options": [
+    "day",
+    "light",
+    "joy",
+    "gold"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Joy"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 18:28 says, \"You, LORD, keep my lamp burning; my God turns my darkness into light.\""
+}

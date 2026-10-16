@@ -1,0 +1,40 @@
+{
+  "id": "19-076-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 76,
+  "verse_reference": "Psalm 76:2",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 76:2, in which place is God's tent?",
+  "options": [
+    "Salem",
+    "Shiloh",
+    "Bethel",
+    "Hebron"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "Salem",
+      "type": "city"
+    },
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph says God's tent is in Salem and His dwelling place is in Zion."
+}

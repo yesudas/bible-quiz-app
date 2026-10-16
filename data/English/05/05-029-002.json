@@ -1,0 +1,38 @@
+{
+  "id": "05-029-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 29,
+  "verse_reference": "Deuteronomy 29:2-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Although Israel had seen God's great signs in Egypt, what did Moses say they still lacked?",
+  "options": [
+    "A mind that understands, eyes that see, and ears that hear",
+    "Enough food and water",
+    "Strong leaders to guide them",
+    "Weapons for the battle ahead"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Wisdom",
+    "Sin"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Though they had seen the signs, wonders, and trials in Egypt, Moses said the Lord had not yet given them a mind that understands, eyes that see, or ears that hear."
+}

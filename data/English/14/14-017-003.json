@@ -1,0 +1,32 @@
+{
+  "id": "14-017-003",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 17,
+  "verse_reference": "2 Chronicles 17:3-4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Whom did Jehoshaphat not consult?",
+  "options": [
+    "The priests",
+    "The Levites",
+    "The elders",
+    "The Baals"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Obedience"
+  ],
+  "characters": [
+    "Jehoshaphat"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoshaphat did not consult the Baals but sought the God of his father and followed His commands."
+}

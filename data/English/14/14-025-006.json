@@ -1,0 +1,39 @@
+{
+  "id": "14-025-006",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 25,
+  "verse_reference": "2 Chronicles 25:11",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Amaziah lead his army to defeat the men of Seir?",
+  "options": [
+    "Valley of Elah",
+    "Valley of Berakah",
+    "Valley of Salt",
+    "Valley of Zephathah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Amaziah"
+  ],
+  "places": [
+    {
+      "name": "Valley of Salt",
+      "type": "valley"
+    },
+    {
+      "name": "Seir",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amaziah marshaled his strength and led his army to the Valley of Salt, where he killed ten thousand men of Seir."
+}

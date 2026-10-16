@@ -1,0 +1,35 @@
+{
+  "id": "16-006-012",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 6,
+  "verse_reference": "Nehemiah 6:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the surrounding nations realize when they heard the wall was finished?",
+  "options": [
+    "That the king had paid for it",
+    "That Nehemiah had many soldiers",
+    "That they could still stop it",
+    "That the work had been done with the help of God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The nations were afraid and lost their self-confidence, because they realized the work had been done with the help of God."
+}

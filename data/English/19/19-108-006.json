@@ -1,0 +1,36 @@
+{
+  "id": "19-108-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 108,
+  "verse_reference": "Psalm 108:10",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "David asked who would lead him to which land?",
+  "options": [
+    "Egypt",
+    "Edom",
+    "Assyria",
+    "Aram"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David asked, \"Who will bring me to the fortified city? Who will lead me to Edom?\""
+}

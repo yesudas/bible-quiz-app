@@ -1,0 +1,38 @@
+{
+  "id": "19-048-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 48,
+  "verse_reference": "Psalm 48:9",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 48:9, where do the people meditate on God's unfailing love?",
+  "options": [
+    "Within his temple",
+    "In the wilderness",
+    "By the sea",
+    "In their homes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Love"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "Your temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 48:9 says, \"Within your temple, O God, we meditate on your unfailing love.\""
+}

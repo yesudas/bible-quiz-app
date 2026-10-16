@@ -1,0 +1,38 @@
+{
+  "id": "09-007-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 7,
+  "verse_reference": "1 Samuel 7:3-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Samuel tell Israel to do if they were returning to the LORD with all their hearts?",
+  "options": [
+    "Build a new temple",
+    "Get rid of the foreign gods and serve the LORD only",
+    "Bring the ark into battle",
+    "Choose a king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Worship"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel told them to rid themselves of foreign gods and the Ashtoreths, commit themselves to the LORD and serve Him only. So they put away their Baals and Ashtoreths."
+}

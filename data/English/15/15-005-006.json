@@ -1,0 +1,36 @@
+{
+  "id": "15-005-006",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 5,
+  "verse_reference": "Ezra 5:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to the elders, why had God handed their ancestors over to Nebuchadnezzar?",
+  "options": [
+    "Because they refused to pay taxes",
+    "Because their ancestors angered the God of heaven",
+    "Because they had no king",
+    "Because they had attacked Babylon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elders explained that because their ancestors angered the God of heaven, he gave them into the hands of Nebuchadnezzar, who destroyed the temple and deported the people to Babylon."
+}

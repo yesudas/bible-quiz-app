@@ -1,0 +1,34 @@
+{
+  "id": "14-029-013",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 29,
+  "verse_reference": "2 Chronicles 29:34",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the Levites help the priests skin the burnt offerings?",
+  "options": [
+    "The Levites were stronger",
+    "There were too few priests, and the Levites had been more careful to consecrate themselves",
+    "The king paid the Levites",
+    "The priests were sick"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priests were too few, so the Levites helped, for they had been more conscientious in consecrating themselves than the priests."
+}

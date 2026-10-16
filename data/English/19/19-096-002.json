@@ -1,0 +1,32 @@
+{
+  "id": "19-096-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 96,
+  "verse_reference": "Psalm 96:3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 96:3, where should God's glory be declared?",
+  "options": [
+    "Only in the temple",
+    "Only in Jerusalem",
+    "Among the nations",
+    "Only among the priests"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mission",
+    "Evangelism",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm says, \"Declare his glory among the nations, his marvelous deeds among all peoples.\""
+}

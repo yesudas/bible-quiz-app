@@ -1,0 +1,37 @@
+{
+  "id": "09-022-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 22,
+  "verse_reference": "1 Samuel 22:1",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did David escape to after leaving Gath?",
+  "options": [
+    "The cave of Adullam",
+    "The cave at En Gedi",
+    "The forest of Hereth",
+    "The town of Ziklag"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Cave of Adullam",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David left Gath and escaped to the cave of Adullam. His brothers and his father's household went down to him there."
+}

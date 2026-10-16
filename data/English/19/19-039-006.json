@@ -1,0 +1,34 @@
+{
+  "id": "19-039-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 39,
+  "verse_reference": "Psalm 39:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"But now, Lord, what do I look for? My ____ is in you.\"",
+  "options": [
+    "joy",
+    "hope",
+    "life",
+    "strength"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Faith"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 39:7 says, \"But now, Lord, what do I look for? My hope is in you.\""
+}

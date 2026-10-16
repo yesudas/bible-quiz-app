@@ -1,0 +1,33 @@
+{
+  "id": "19-143-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 143,
+  "verse_reference": "Psalm 143:8",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When did David ask to hear word of God's unfailing love?",
+  "options": [
+    "At night",
+    "At the feast",
+    "At noon",
+    "In the morning"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Let the morning bring me word of your unfailing love, for I have put my trust in you.\""
+}

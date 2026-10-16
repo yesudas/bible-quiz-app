@@ -1,0 +1,38 @@
+{
+  "id": "19-122-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 122,
+  "verse_reference": "Psalm 122:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Pray for the ______ of Jerusalem.\"",
+  "options": [
+    "walls",
+    "peace",
+    "king",
+    "temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Peace"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 122:6 calls God's people to pray for the peace of Jerusalem."
+}

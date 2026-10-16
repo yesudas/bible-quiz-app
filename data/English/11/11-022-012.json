@@ -1,0 +1,37 @@
+{
+  "id": "11-022-012",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 22,
+  "verse_reference": "1 Kings 22:30",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the king of Israel go into the battle?",
+  "options": [
+    "In a golden chariot",
+    "Hidden in the back of the army",
+    "Wearing Jehoshaphat's robes",
+    "In disguise"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Ahab",
+    "Jehoshaphat"
+  ],
+  "places": [
+    {
+      "name": "Ramoth Gilead",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king of Israel told Jehoshaphat, \"I will enter the battle in disguise, but you wear your royal robes.\""
+}

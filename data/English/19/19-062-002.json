@@ -1,0 +1,33 @@
+{
+  "id": "19-062-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 62,
+  "verse_reference": "Psalm 62:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Truly my soul finds ____ in God; my salvation comes from him.\"",
+  "options": [
+    "rest",
+    "joy",
+    "peace",
+    "strength"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Salvation"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David says his soul finds rest in God, because his salvation comes from Him."
+}

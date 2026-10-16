@@ -1,0 +1,17 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Saul-s-camp",
+    "label": "Saul's camp",
+    "count": 7,
+    "paths": [
+        "English/09/09-026-002.json",
+        "English/09/09-026-003.json",
+        "English/09/09-026-004.json",
+        "English/09/09-026-005.json",
+        "English/09/09-026-006.json",
+        "English/09/09-026-008.json",
+        "English/09/09-026-009.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

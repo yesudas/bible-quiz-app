@@ -1,0 +1,30 @@
+{
+  "id": "16-009-003",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 9,
+  "verse_reference": "Nehemiah 9:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did the people spend their time that day?",
+  "options": [
+    "All day building the wall",
+    "All day singing psalms",
+    "A quarter of the day reading the Law and another quarter confessing and worshiping",
+    "Half the day fasting and half the day feasting"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Repentance",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They read from the Book of the Law for a quarter of the day, and spent another quarter confessing and worshiping the LORD."
+}

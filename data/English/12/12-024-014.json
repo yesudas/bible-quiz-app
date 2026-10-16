@@ -1,0 +1,41 @@
+{
+  "id": "12-024-014",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 24,
+  "verse_reference": "2 Kings 24:18,20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did King Zedekiah do against the king of Babylon?",
+  "options": [
+    "He made an alliance with Assyria",
+    "He destroyed the temple",
+    "He rebelled against the king of Babylon",
+    "He refused to pray"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Judgment"
+  ],
+  "characters": [
+    "Zedekiah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zedekiah reigned eleven years and did evil, and he rebelled against the king of Babylon."
+}

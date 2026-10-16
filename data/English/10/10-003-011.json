@@ -1,0 +1,37 @@
+{
+  "id": "10-003-011",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 3,
+  "verse_reference": "2 Samuel 3:26-27",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "From where did Joab's messengers bring Abner back, without David knowing?",
+  "options": [
+    "The well of Sirah",
+    "The pool of Gibeon",
+    "The Jordan River",
+    "The cave of Adullam"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Joab",
+    "Abner"
+  ],
+  "places": [
+    {
+      "name": "Well of Sirah",
+      "type": "well"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joab sent messengers after Abner, and they brought him back from the well of Sirah, but David did not know it."
+}

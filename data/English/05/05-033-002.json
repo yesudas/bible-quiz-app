@@ -1,0 +1,32 @@
+{
+  "id": "05-033-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 33,
+  "verse_reference": "Deuteronomy 33:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Moses say he had given as the possession of the assembly of Jacob?",
+  "options": [
+    "The land east of the Jordan",
+    "The ark of the covenant",
+    "The law",
+    "The tent of meeting"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses gave Israel the law, which became the treasured possession of the assembly of Jacob."
+}

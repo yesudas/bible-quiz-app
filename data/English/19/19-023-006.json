@@ -1,0 +1,35 @@
+{
+  "id": "19-023-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 23,
+  "verse_reference": "Psalm 23:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why will David fear no evil even in the darkest valley?",
+  "options": [
+    "Because he has a sword",
+    "Because the LORD is with him",
+    "Because the valley is short",
+    "Because his friends are near"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Courage",
+    "Protection"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 23:4 says, \"Even though I walk through the darkest valley, I will fear no evil, for you are with me.\""
+}

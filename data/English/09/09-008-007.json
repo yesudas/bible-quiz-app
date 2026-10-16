@@ -1,0 +1,32 @@
+{
+  "id": "09-008-007",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 8,
+  "verse_reference": "1 Samuel 8:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the LORD tell Samuel to do before giving the people a king?",
+  "options": [
+    "Anoint Joel as king",
+    "Warn them about what the king would claim",
+    "Make them offer a sacrifice",
+    "Send them back to their towns"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Prophecy"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Samuel to listen to them but to warn them solemnly and let them know what the king who would reign over them would claim as his rights."
+}

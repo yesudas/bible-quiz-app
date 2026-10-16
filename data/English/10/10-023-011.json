@@ -1,0 +1,37 @@
+{
+  "id": "10-023-011",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 23,
+  "verse_reference": "2 Samuel 23:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did David refuse to drink the water from Bethlehem?",
+  "options": [
+    "It was the blood of men who went at the risk of their lives",
+    "It was not clean",
+    "It belonged to the Philistines",
+    "He had made a vow to fast"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said, \"Is it not the blood of men who went at the risk of their lives?\" So he would not drink it."
+}

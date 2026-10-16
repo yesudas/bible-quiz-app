@@ -1,0 +1,40 @@
+{
+  "id": "12-015-007",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 15,
+  "verse_reference": "2 Kings 15:14",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who came from Tirzah and killed Shallum?",
+  "options": [
+    "Menahem son of Gadi",
+    "Pekah son of Remaliah",
+    "Hoshea son of Elah",
+    "Pekahiah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Menahem",
+    "Shallum"
+  ],
+  "places": [
+    {
+      "name": "Tirzah",
+      "type": "city"
+    },
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Menahem son of Gadi went from Tirzah up to Samaria, attacked Shallum, killed him and became king."
+}

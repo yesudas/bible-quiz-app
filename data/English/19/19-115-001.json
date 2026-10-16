@@ -1,0 +1,30 @@
+{
+  "id": "19-115-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 115,
+  "verse_reference": "Psalm 115:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Not to us, LORD, not to us but to your ______ be the glory.\"",
+  "options": [
+    "name",
+    "people",
+    "temple",
+    "king"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist said the glory belongs not to us but to the LORD's name, because of His love and faithfulness."
+}

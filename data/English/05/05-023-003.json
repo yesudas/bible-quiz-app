@@ -1,0 +1,36 @@
+{
+  "id": "05-023-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 23,
+  "verse_reference": "Deuteronomy 23:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was Israel told not to despise an Egyptian?",
+  "options": [
+    "Because Egypt was powerful",
+    "Because Egypt had helped them fight",
+    "Because Israel had lived as foreigners in his country",
+    "Because they shared the same ancestors"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mercy",
+    "Love",
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel was not to despise an Egyptian because they had lived as foreigners in Egypt, just as they were not to despise an Edomite, who was a brother."
+}

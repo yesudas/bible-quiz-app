@@ -1,0 +1,29 @@
+{
+  "id": "13-009-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 9,
+  "verse_reference": "1 Chronicles 9:1",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In which book were all Israel's genealogies recorded, according to 1 Chronicles 9:1?",
+  "options": [
+    "The book of the law",
+    "The book of the annals of Solomon",
+    "The book of the kings of Israel and Judah",
+    "The book of Jashar"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "History"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All Israel was listed in the genealogies recorded in the book of the kings of Israel and Judah."
+}

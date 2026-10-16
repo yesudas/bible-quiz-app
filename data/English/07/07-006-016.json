@@ -1,0 +1,32 @@
+{
+  "id": "07-006-016",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 6,
+  "verse_reference": "Judges 6:32",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "What name was Gideon given after he broke down Baal's altar?",
+  "options": [
+    "Abimelek",
+    "Baal-Berith",
+    "Jerub-Baal",
+    "Ben-Hadad"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon was named Jerub-Baal, meaning \"Let Baal contend with him,\" because he broke down Baal's altar."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12-022-002",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 22,
+  "verse_reference": "2 Kings 22:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How long did Josiah reign in Jerusalem?",
+  "options": [
+    "Thirty-one years",
+    "Fifty-five years",
+    "Forty years",
+    "Twenty-nine years"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Josiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Josiah reigned in Jerusalem thirty-one years."
+}

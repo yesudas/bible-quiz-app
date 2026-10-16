@@ -1,0 +1,36 @@
+{
+  "id": "05-017-006",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 17,
+  "verse_reference": "Deuteronomy 17:16-17",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which of these was a king of Israel commanded NOT to do?",
+  "options": [
+    "Read the law daily",
+    "Rule from the chosen place",
+    "Fear the Lord",
+    "Acquire great numbers of horses, wives, or silver and gold"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Money",
+    "Temptation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king was not to accumulate many horses, take many wives who could lead his heart astray, or amass large amounts of silver and gold."
+}

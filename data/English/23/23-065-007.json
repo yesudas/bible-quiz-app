@@ -1,0 +1,29 @@
+{
+  "id": "23-065-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 65,
+  "verse_reference": "Isaiah 65:25",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Isaiah 65:25, what will be the serpent's food?",
+  "options": [
+    "Grass",
+    "Straw",
+    "Fruit",
+    "Dust"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 65:25 says, 'The wolf and the lamb will feed together... and dust will be the serpent's food.'"
+}

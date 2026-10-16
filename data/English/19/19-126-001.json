@@ -1,0 +1,36 @@
+{
+  "id": "19-126-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 126,
+  "verse_reference": "Psalm 126:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When the LORD restored the fortunes of Zion, what were the people like?",
+  "options": [
+    "Like those who were afraid",
+    "Like those who dreamed",
+    "Like those who were asleep",
+    "Like those who were lost"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the LORD restored the fortunes of Zion, they were like those who dreamed."
+}

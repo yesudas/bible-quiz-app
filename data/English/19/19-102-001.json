@@ -1,0 +1,31 @@
+{
+  "id": "19-102-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 102,
+  "verse_reference": "Psalm 102:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What kind of prayer is Psalm 102?",
+  "options": [
+    "A song of victory after battle",
+    "A prayer of an afflicted person pouring out a lament",
+    "A wedding song for the king",
+    "A song of thanks for a good harvest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 102 is the prayer of an afflicted person who has grown weak and pours out a lament before the LORD."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13-011-013",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 11,
+  "verse_reference": "1 Chronicles 11:23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Benaiah kill the tall Egyptian?",
+  "options": [
+    "With a sling and stone",
+    "With an arrow",
+    "By snatching the Egyptian's own spear and killing him with it",
+    "By cutting off his head with a sword"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Courage",
+    "War"
+  ],
+  "characters": [
+    "Benaiah"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Benaiah went against the Egyptian with a club, snatched the spear from his hand and killed him with his own spear."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20-026-007",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 26,
+  "verse_reference": "Proverbs 26:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Without wood a fire goes out; without a ______ a quarrel dies down.\"",
+  "options": [
+    "king",
+    "fool",
+    "sword",
+    "gossip"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 26:20 says without wood a fire goes out; without a gossip a quarrel dies down."
+}

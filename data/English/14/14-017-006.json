@@ -1,0 +1,38 @@
+{
+  "id": "14-017-006",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 17,
+  "verse_reference": "2 Chronicles 17:7-9",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jehoshaphat send officials, Levites and priests to do in the towns of Judah?",
+  "options": [
+    "Collect taxes",
+    "Build altars",
+    "Teach the people",
+    "Count the soldiers"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jehoshaphat"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the third year of his reign, Jehoshaphat sent officials, Levites and priests to teach in the towns of Judah."
+}

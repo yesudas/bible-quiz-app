@@ -1,0 +1,38 @@
+{
+  "id": "23-006-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 6,
+  "verse_reference": "Isaiah 6:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Isaiah cry, 'Woe to me! I am ruined!'?",
+  "options": [
+    "Because he was a man of unclean lips and had seen the King, the LORD Almighty",
+    "Because the temple was on fire",
+    "Because King Uzziah had died",
+    "Because the seraphim were angry with him"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Repentance",
+    "Worship"
+  ],
+  "characters": [
+    "Isaiah"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Isaiah 6:5 Isaiah said he was a man of unclean lips living among a people of unclean lips, and his eyes had seen the King, the LORD Almighty."
+}

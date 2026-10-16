@@ -1,0 +1,32 @@
+{
+  "id": "13-012-003",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 12,
+  "verse_reference": "1 Chronicles 12:2",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "The Benjamite warriors who first joined David were relatives of whom?",
+  "options": [
+    "Joab",
+    "Samuel",
+    "Jonathan's armor-bearer",
+    "Saul"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Saul",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "These skilled warriors were relatives of Saul from the tribe of Benjamin."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "22-008-003",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 8,
+  "verse_reference": "Song of Songs 8:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"For love is as strong as ____.\"",
+  "options": [
+    "iron",
+    "the sea",
+    "death",
+    "a lion"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 8:6 says love is as strong as death, and its jealousy is unyielding as the grave."
+}

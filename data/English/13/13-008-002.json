@@ -1,0 +1,42 @@
+{
+  "id": "13-008-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 8,
+  "verse_reference": "1 Chronicles 8:13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Beriah and Shema, heads of families in Aijalon, do?",
+  "options": [
+    "Built the walls of Jerusalem",
+    "Drove out the inhabitants of Gath",
+    "Served as priests in Gibeon",
+    "Led the people back from exile"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "War",
+    "Leadership"
+  ],
+  "characters": [
+    "Beriah",
+    "Shema"
+  ],
+  "places": [
+    {
+      "name": "Aijalon",
+      "type": "town"
+    },
+    {
+      "name": "Gath",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Beriah and Shema were heads of families in Aijalon who drove out the inhabitants of Gath."
+}

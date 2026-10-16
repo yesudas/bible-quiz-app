@@ -1,0 +1,30 @@
+{
+  "id": "21-004-010",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 4,
+  "verse_reference": "Ecclesiastes 4:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Whom does the Teacher say is better than an old but foolish king who no longer listens to warnings?",
+  "options": [
+    "A rich young prince",
+    "A strong soldier",
+    "A poor but wise youth",
+    "An old and wise priest"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Better a poor but wise youth than an old but foolish king who no longer knows how to heed a warning.\""
+}

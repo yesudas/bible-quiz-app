@@ -1,0 +1,31 @@
+{
+  "id": "05-015-001",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 15,
+  "verse_reference": "Deuteronomy 15:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were the Israelites commanded to do at the end of every seven years?",
+  "options": [
+    "Cancel the debts owed by fellow Israelites",
+    "Move to a new town",
+    "Rebuild their houses",
+    "Choose new leaders"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Mercy",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At the end of every seven years, in the year of release, creditors were to cancel the debts owed to them by their fellow Israelites."
+}

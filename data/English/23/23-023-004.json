@@ -1,0 +1,34 @@
+{
+  "id": "23-023-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 23,
+  "verse_reference": "Isaiah 23:8",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which city was called 'the bestower of crowns, whose merchants are princes'?",
+  "options": [
+    "Babylon",
+    "Nineveh",
+    "Damascus",
+    "Tyre"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Pride",
+    "Money"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 23:8 describes Tyre as the bestower of crowns, whose merchants are princes and whose traders are renowned in the earth."
+}

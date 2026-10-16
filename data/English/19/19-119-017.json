@@ -1,0 +1,31 @@
+{
+  "id": "19-119-017",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 119,
+  "verse_reference": "Psalm 119:103",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to Psalm 119:103, God's words are sweeter than what?",
+  "options": [
+    "Honey",
+    "Wine",
+    "Fruit",
+    "Milk"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"How sweet are your words to my taste, sweeter than honey to my mouth!\""
+}

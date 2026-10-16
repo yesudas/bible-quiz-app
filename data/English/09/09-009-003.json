@@ -1,0 +1,33 @@
+{
+  "id": "09-009-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 9,
+  "verse_reference": "1 Samuel 9:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What had Saul's father lost?",
+  "options": [
+    "Some donkeys",
+    "Some sheep",
+    "His silver",
+    "A camel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Saul",
+    "Kish"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The donkeys belonging to Kish were lost, so he sent Saul and a servant to look for them."
+}

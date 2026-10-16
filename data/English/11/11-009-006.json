@@ -1,0 +1,41 @@
+{
+  "id": "11-009-006",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 9,
+  "verse_reference": "1 Kings 9:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Solomon give Hiram king of Tyre?",
+  "options": [
+    "A thousand horses",
+    "Twenty towns in Galilee",
+    "The city of Jerusalem",
+    "His daughter in marriage"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Solomon",
+    "Hiram"
+  ],
+  "places": [
+    {
+      "name": "Galilee",
+      "type": "region"
+    },
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "King Solomon gave twenty towns in Galilee to Hiram, who had supplied him with cedar, juniper and gold."
+}

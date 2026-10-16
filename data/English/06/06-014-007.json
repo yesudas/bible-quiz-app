@@ -1,0 +1,33 @@
+{
+  "id": "06-014-007",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 14,
+  "verse_reference": "Joshua 14:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How old was Caleb when he asked Joshua for his land?",
+  "options": [
+    "Sixty-five years old",
+    "Seventy years old",
+    "One hundred years old",
+    "Eighty-five years old"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [
+    "Caleb"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Caleb said, \"So here I am today, eighty-five years old!\" The LORD had kept him alive for forty-five years."
+}

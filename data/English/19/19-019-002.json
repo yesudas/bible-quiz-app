@@ -1,0 +1,32 @@
+{
+  "id": "19-019-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 19,
+  "verse_reference": "Psalm 19:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 19:4, for what has God pitched a tent in the heavens?",
+  "options": [
+    "For the moon",
+    "For the angels",
+    "For the sun",
+    "For the stars"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 19:4 says, \"In the heavens God has pitched a tent for the sun.\""
+}

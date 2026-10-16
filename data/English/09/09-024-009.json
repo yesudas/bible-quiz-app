@@ -1,0 +1,32 @@
+{
+  "id": "09-024-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 24,
+  "verse_reference": "1 Samuel 24:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the piece of Saul's robe prove?",
+  "options": [
+    "That David was a thief",
+    "That David had been close enough to kill Saul but had not",
+    "That Saul's robe was old",
+    "That the robe belonged to David"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mercy"
+  ],
+  "characters": [
+    "David",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said the piece of robe showed he had cut it off but did not kill Saul, so Saul could see he was not guilty of wrongdoing or rebellion."
+}

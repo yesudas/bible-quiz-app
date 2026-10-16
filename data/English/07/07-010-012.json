@@ -1,0 +1,31 @@
+{
+  "id": "07-010-012",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 10,
+  "verse_reference": "Judges 10:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"And he could bear Israel's ___ no longer.\"",
+  "options": [
+    "sin",
+    "misery",
+    "anger",
+    "pride"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Israel turned back and served the LORD, He could no longer bear to see their misery."
+}

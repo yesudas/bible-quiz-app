@@ -1,0 +1,32 @@
+{
+  "id": "12-003-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 3,
+  "verse_reference": "2 Kings 3:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Joram get rid of that his father had made?",
+  "options": [
+    "The golden calf at Bethel",
+    "The altar in Samaria",
+    "The sacred stone of Baal",
+    "The Asherah pole"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Idolatry"
+  ],
+  "characters": [
+    "Joram",
+    "Ahab"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joram got rid of the sacred stone of Baal that his father had made."
+}

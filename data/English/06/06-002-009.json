@@ -1,0 +1,38 @@
+{
+  "id": "06-002-009",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 2,
+  "verse_reference": "Joshua 2:10",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two Amorite kings did Rahab mention that Israel had destroyed east of the Jordan?",
+  "options": [
+    "Sihon and Og",
+    "Eglon and Jabin",
+    "Balak and Agag",
+    "Adoni-Zedek and Horam"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Rahab",
+    "Sihon",
+    "Og"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rahab said they had heard what Israel did to Sihon and Og, the two kings of the Amorites east of the Jordan."
+}

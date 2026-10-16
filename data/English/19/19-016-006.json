@@ -1,0 +1,33 @@
+{
+  "id": "19-016-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 16,
+  "verse_reference": "Psalm 16:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"You make known to me the path of ____.\"",
+  "options": [
+    "peace",
+    "life",
+    "wisdom",
+    "truth"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Joy",
+    "Hope"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 16:11 says, \"You make known to me the path of life; you will fill me with joy in your presence.\""
+}

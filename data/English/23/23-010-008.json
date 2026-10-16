@@ -1,0 +1,34 @@
+{
+  "id": "23-010-008",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 10,
+  "verse_reference": "Isaiah 10:26",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "At which rock did God strike down Midian, as remembered in Isaiah 10:26?",
+  "options": [
+    "The rock of Oreb",
+    "The rock of Horeb",
+    "The rock of Etam",
+    "The rock of Rimmon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Rock of Oreb",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 10:26 says the LORD will lash them with a whip, as when He struck down Midian at the rock of Oreb."
+}

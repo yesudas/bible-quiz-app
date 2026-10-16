@@ -1,0 +1,38 @@
+{
+  "id": "14-029-007",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 29,
+  "verse_reference": "2 Chronicles 29:16",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the Levites carry the unclean things taken out of the temple?",
+  "options": [
+    "To the Valley of Ben Hinnom",
+    "To the Jordan River",
+    "To Samaria",
+    "To the Kidron Valley"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    },
+    {
+      "name": "Kidron Valley",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priests brought out everything unclean to the courtyard, and the Levites took it out to the Kidron Valley."
+}

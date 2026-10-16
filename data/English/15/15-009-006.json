@@ -1,0 +1,38 @@
+{
+  "id": "15-009-006",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 9,
+  "verse_reference": "Ezra 9:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Ezra's prayer: \"Our sins are higher than our heads and our guilt has reached to the ______.\"",
+  "options": [
+    "mountains",
+    "clouds",
+    "heavens",
+    "stars"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Sin",
+    "Repentance"
+  ],
+  "characters": [
+    "Ezra"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra prayed, \"Our sins are higher than our heads and our guilt has reached to the heavens.\""
+}

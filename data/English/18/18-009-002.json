@@ -1,0 +1,31 @@
+{
+  "id": "18-009-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 9,
+  "verse_reference": "Job 9:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Job said that if someone wished to dispute with God, they could not answer Him how often?",
+  "options": [
+    "One time out of a thousand",
+    "Once in a lifetime",
+    "One day in seven",
+    "Once a year"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said that if someone wished to dispute with God, they could not answer Him one time out of a thousand."
+}

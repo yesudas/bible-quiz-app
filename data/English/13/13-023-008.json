@@ -1,0 +1,37 @@
+{
+  "id": "13-023-008",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 23,
+  "verse_reference": "1 Chronicles 23:25-26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the Levites no longer need to carry the tabernacle?",
+  "options": [
+    "It had been destroyed",
+    "The LORD had granted rest and come to dwell in Jerusalem forever",
+    "The priests carried it instead",
+    "It was left in Gibeon forever"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Rest"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said the LORD had granted rest to His people and come to dwell in Jerusalem forever, so the Levites no longer needed to carry the tabernacle."
+}

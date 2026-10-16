@@ -1,0 +1,36 @@
+{
+  "id": "12-005-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 5,
+  "verse_reference": "2 Kings 5:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Naaman take with him when he went to Israel?",
+  "options": [
+    "Horses, camels and spices",
+    "Silver, gold and ten sets of clothing",
+    "Cattle, sheep and wine",
+    "Weapons and chariots"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Naaman"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Naaman took ten talents of silver, six thousand shekels of gold and ten sets of clothing."
+}

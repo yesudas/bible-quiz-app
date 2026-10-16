@@ -1,0 +1,39 @@
+{
+  "id": "07-001-015",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 1,
+  "verse_reference": "Judges 1:20",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "As Moses had promised, Caleb was given Hebron. Whom did Caleb drive out of it?",
+  "options": [
+    "The Jebusites",
+    "The Philistines",
+    "The Moabites",
+    "The three sons of Anak"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Courage"
+  ],
+  "characters": [
+    "Caleb",
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebron was given to Caleb as Moses had promised, and Caleb drove the three sons of Anak out of it."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "05-006-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 6,
+  "verse_reference": "Deuteronomy 6:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The Shema declares: \"Hear, O Israel: the Lord our God, the Lord is ___.\"",
+  "options": [
+    "holy",
+    "mighty",
+    "near",
+    "one"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Shema, Israel's central confession, declares that the Lord our God, the Lord is one."
+}

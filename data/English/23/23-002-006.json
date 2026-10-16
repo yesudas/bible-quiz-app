@@ -1,0 +1,33 @@
+{
+  "id": "23-002-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 2,
+  "verse_reference": "Isaiah 2:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: 'Come, descendants of Jacob, let us walk in the ______ of the LORD.'",
+  "options": [
+    "light",
+    "house",
+    "path",
+    "name"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience",
+    "Faith"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 2:5 calls the descendants of Jacob to walk in the light of the LORD."
+}

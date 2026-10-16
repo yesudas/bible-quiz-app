@@ -1,0 +1,38 @@
+{
+  "id": "19-084-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 84,
+  "verse_reference": "Psalm 84:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 84:3, which bird has found a home near God's altar?",
+  "options": [
+    "The eagle",
+    "The sparrow",
+    "The dove",
+    "The raven"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Creation"
+  ],
+  "characters": [
+    "Sons of Korah"
+  ],
+  "places": [
+    {
+      "name": "God's altar",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist says even the sparrow has found a home, and the swallow a nest, near God's altar."
+}

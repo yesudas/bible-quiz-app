@@ -1,0 +1,31 @@
+{
+  "id": "05-019-004",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 19,
+  "verse_reference": "Deuteronomy 19:11-12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened if a murderer who killed out of hatred fled to a city of refuge?",
+  "options": [
+    "He was allowed to stay safely",
+    "He was given a new home there",
+    "He was fined and released",
+    "The elders of his town sent for him and handed him over"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Justice",
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A person who lay in wait and killed out of hatred could not hide in a city of refuge; the elders of his own town were to send for him and hand him over for justice."
+}

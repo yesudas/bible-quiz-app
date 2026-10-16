@@ -1,0 +1,30 @@
+{
+  "id": "05-002-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 2,
+  "verse_reference": "Deuteronomy 2:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God tell Israel to do to get food and water while passing through Esau's land?",
+  "options": [
+    "Take it by force",
+    "Pay for it with silver",
+    "Wait for it to be given freely",
+    "Gather it from the wild only"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Obedience",
+    "Money"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God commanded Israel to pay Esau's descendants with silver for the food they ate and the water they drank rather than taking it."
+}

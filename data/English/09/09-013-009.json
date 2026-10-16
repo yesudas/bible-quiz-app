@@ -1,0 +1,39 @@
+{
+  "id": "09-013-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 13,
+  "verse_reference": "1 Samuel 13:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Samuel say the LORD would have done if Saul had kept His command?",
+  "options": [
+    "Given Saul many sons",
+    "Established Saul's kingdom over Israel for all time",
+    "Made Saul a prophet",
+    "Destroyed the Philistines that day"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Obedience",
+    "Leadership",
+    "Promise"
+  ],
+  "characters": [
+    "Samuel",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel said, \"You have done a foolish thing… If you had, he would have established your kingdom over Israel for all time.\""
+}

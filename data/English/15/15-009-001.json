@@ -1,0 +1,37 @@
+{
+  "id": "15-009-001",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 9,
+  "verse_reference": "Ezra 9:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What problem did the leaders report to Ezra?",
+  "options": [
+    "The people had stopped building the temple",
+    "The people had not kept themselves separate from the neighbouring peoples",
+    "The people had refused to pay taxes",
+    "The people had gone back to Babylon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Marriage"
+  ],
+  "characters": [
+    "Ezra"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The leaders told Ezra that the people, including priests and Levites, had not kept themselves separate from the neighbouring peoples and had married their daughters."
+}

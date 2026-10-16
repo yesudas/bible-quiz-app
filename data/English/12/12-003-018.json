@@ -1,0 +1,40 @@
+{
+  "id": "12-003-018",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 3,
+  "verse_reference": "2 Kings 3:26-27",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "What did the king of Moab do after he failed to break through to the king of Edom?",
+  "options": [
+    "He offered his firstborn son as a sacrifice on the city wall",
+    "He surrendered to Joram",
+    "He fled to Edom",
+    "He paid tribute again to Israel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Mesha"
+  ],
+  "places": [
+    {
+      "name": "Kir Hareseth",
+      "type": "city"
+    },
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the king of Moab and his 700 swordsmen failed to break through, he offered his firstborn son as a sacrifice on the city wall, and Israel withdrew."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "19-083-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 83,
+  "verse_reference": "Psalm 83:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Psalm 83:1, what does Asaph ask God not to do?",
+  "options": [
+    "Remain silent",
+    "Send rain",
+    "Leave the temple",
+    "Forget the king"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph begins, \"O God, do not remain silent.\""
+}

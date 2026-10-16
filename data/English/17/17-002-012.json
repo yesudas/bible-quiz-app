@@ -1,0 +1,33 @@
+{
+  "id": "17-002-012",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 2,
+  "verse_reference": "Esther 2:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did King Xerxes give to celebrate Esther becoming queen?",
+  "options": [
+    "A great banquet called Esther's banquet",
+    "A new palace in Susa",
+    "A parade through all 127 provinces",
+    "A gift of land to Mordecai"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Feasts"
+  ],
+  "characters": [
+    "Xerxes",
+    "Esther"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king gave a great banquet, Esther's banquet, for his nobles and officials, proclaimed a holiday and gave gifts."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "14-036-001",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 36,
+  "verse_reference": "2 Chronicles 36:2",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How long did Jehoahaz reign in Jerusalem?",
+  "options": [
+    "Three years",
+    "Eleven years",
+    "Three months",
+    "One year"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoahaz"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoahaz was twenty-three years old when he became king, and he reigned in Jerusalem three months."
+}

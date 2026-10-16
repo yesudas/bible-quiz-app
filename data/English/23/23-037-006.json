@@ -1,0 +1,41 @@
+{
+  "id": "23-037-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 37,
+  "verse_reference": "Isaiah 37:33",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the LORD say the king of Assyria would not do to Jerusalem?",
+  "options": [
+    "Speak to its people",
+    "Look at its walls",
+    "Enter the city or shoot an arrow there",
+    "Send a letter to it"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Faith"
+  ],
+  "characters": [
+    "Sennacherib"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 37:33 says, 'He will not enter this city or shoot an arrow here.'"
+}

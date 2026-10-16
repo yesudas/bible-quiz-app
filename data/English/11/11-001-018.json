@@ -1,0 +1,33 @@
+{
+  "id": "11-001-018",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 1,
+  "verse_reference": "1 Kings 1:52-53",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Solomon say would happen to Adonijah if he showed himself to be a worthy man?",
+  "options": [
+    "He would become a priest",
+    "He would rule part of the kingdom",
+    "He would be sent away from Israel",
+    "Not a hair of his head would fall to the ground"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Forgiveness",
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon",
+    "Adonijah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon said that if Adonijah showed himself worthy, not a hair of his head would fall, but if evil was found in him, he would die."
+}

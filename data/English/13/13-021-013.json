@@ -1,0 +1,39 @@
+{
+  "id": "13-021-013",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 21,
+  "verse_reference": "1 Chronicles 21:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete David's words: \"I will not take for the LORD what is yours, or sacrifice a burnt offering that costs me ______.\"",
+  "options": [
+    "little",
+    "nothing",
+    "too much",
+    "silver"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [
+    "David",
+    "Araunah"
+  ],
+  "places": [
+    {
+      "name": "threshing floor of Araunah",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David insisted on paying the full price, saying he would not sacrifice a burnt offering that cost him nothing."
+}

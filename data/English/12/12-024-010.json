@@ -1,0 +1,38 @@
+{
+  "id": "12-024-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 24,
+  "verse_reference": "2 Kings 24:15",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where was King Jehoiachin taken as a captive?",
+  "options": [
+    "Egypt",
+    "Assyria",
+    "Babylon",
+    "Damascus"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Jehoiachin",
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nebuchadnezzar took Jehoiachin captive to Babylon, along with his mother, wives, officials and leading men."
+}

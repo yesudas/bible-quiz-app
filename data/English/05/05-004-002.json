@@ -1,0 +1,38 @@
+{
+  "id": "05-004-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 4,
+  "verse_reference": "Deuteronomy 4:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Moses reminded Israel of God's judgment on those who followed which false god?",
+  "options": [
+    "Molek",
+    "Dagon",
+    "Baal of Peor",
+    "Ashtoreth"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Peor",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses reminded the people how the Lord destroyed everyone who followed the Baal of Peor, while those who held fast to the Lord were kept alive."
+}

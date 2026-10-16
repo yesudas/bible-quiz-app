@@ -1,0 +1,33 @@
+{
+  "id": "09-019-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 19,
+  "verse_reference": "1 Samuel 19:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What oath did Saul take after listening to Jonathan?",
+  "options": [
+    "That David would never enter his house again",
+    "That he would make David king",
+    "That he would give David Merab",
+    "That David would not be put to death"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Saul",
+    "David",
+    "Jonathan"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul listened to Jonathan and took this oath: \"As surely as the LORD lives, David will not be put to death.\""
+}

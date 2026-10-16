@@ -1,0 +1,30 @@
+{
+  "id": "19-011-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 11,
+  "verse_reference": "Psalm 11:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"When the ____ are being destroyed, what can the righteous do?\"",
+  "options": [
+    "walls",
+    "cities",
+    "foundations",
+    "temples"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 11:3 asks, \"When the foundations are being destroyed, what can the righteous do?\""
+}

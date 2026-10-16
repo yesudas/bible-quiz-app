@@ -1,0 +1,33 @@
+{
+  "id": "19-032-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 32,
+  "verse_reference": "Psalm 32:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 32:3, what happened to David when he kept silent about his sin?",
+  "options": [
+    "His bones wasted away",
+    "He became rich",
+    "He slept peacefully",
+    "His enemies left him"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Repentance",
+    "Suffering"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 32:3 says, \"When I kept silent, my bones wasted away through my groaning all day long.\""
+}

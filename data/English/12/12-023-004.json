@@ -1,0 +1,39 @@
+{
+  "id": "12-023-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 23,
+  "verse_reference": "2 Kings 23:10",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which place did Josiah desecrate so no one could sacrifice children there to Molek?",
+  "options": [
+    "The high place at Gibeon",
+    "The altar at Dan",
+    "The pool of Siloam",
+    "Topheth in the Valley of Ben Hinnom"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Idolatry"
+  ],
+  "characters": [
+    "Josiah"
+  ],
+  "places": [
+    {
+      "name": "Topheth",
+      "type": "place"
+    },
+    {
+      "name": "Valley of Ben Hinnom",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Josiah desecrated Topheth in the Valley of Ben Hinnom so no one could use it to sacrifice a son or daughter in the fire to Molek."
+}

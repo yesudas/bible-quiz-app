@@ -1,0 +1,30 @@
+{
+  "id": "20-030-009",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 30,
+  "verse_reference": "Proverbs 30:27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Proverbs 30:27, what is wise about locusts?",
+  "options": [
+    "They have a strong king",
+    "They live alone",
+    "They sleep all winter",
+    "They have no king, yet they advance together in ranks"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom",
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 30:27 says locusts have no king, yet they advance together in ranks."
+}

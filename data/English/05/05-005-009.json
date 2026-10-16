@@ -1,0 +1,30 @@
+{
+  "id": "05-005-009",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 5,
+  "verse_reference": "Deuteronomy 5:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "The tenth commandment forbids coveting what belongs to whom?",
+  "options": [
+    "Your enemy",
+    "The king",
+    "The priest",
+    "Your neighbor"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The tenth commandment forbids coveting a neighbor's wife, house, land, servants, or anything that belongs to them."
+}

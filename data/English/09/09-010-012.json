@@ -1,0 +1,41 @@
+{
+  "id": "09-010-012",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 10,
+  "verse_reference": "1 Samuel 10:20-21",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "In what order were the lots taken to choose the king?",
+  "options": [
+    "Tribe of Benjamin, then Matri's clan, then Saul",
+    "Saul, then Matri's clan, then Benjamin",
+    "Matri's clan, then Benjamin, then Saul",
+    "Tribe of Judah, then Benjamin, then Saul"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Samuel",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Mizpah",
+      "type": "town"
+    },
+    {
+      "name": "Benjamin",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel had each tribe come forward. Benjamin was taken by lot, then Matri's clan, and finally Saul son of Kish."
+}

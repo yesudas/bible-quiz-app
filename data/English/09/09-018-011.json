@@ -1,0 +1,37 @@
+{
+  "id": "09-018-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 18,
+  "verse_reference": "1 Samuel 18:19",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "To whom was Merab given in marriage instead of David?",
+  "options": [
+    "Abner son of Ner",
+    "Doeg the Edomite",
+    "Ahimaaz",
+    "Adriel of Meholah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [
+    "Merab",
+    "Adriel"
+  ],
+  "places": [
+    {
+      "name": "Meholah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the time came for Merab to be given to David, she was given in marriage to Adriel of Meholah."
+}

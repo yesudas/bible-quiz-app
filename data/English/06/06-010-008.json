@@ -1,0 +1,30 @@
+{
+  "id": "06-010-008",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 10,
+  "verse_reference": "Joshua 10:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to the Bible, what killed more of the enemy soldiers that day?",
+  "options": [
+    "The swords of the Israelites",
+    "Arrows from the Gibeonites",
+    "The hailstones from the LORD",
+    "The flooding river"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Victory"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Bible says more of the enemy died from the hail than were killed by the swords of the Israelites."
+}

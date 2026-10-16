@@ -1,0 +1,32 @@
+{
+  "id": "06-013-009",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 13,
+  "verse_reference": "Joshua 13:15-31",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "Joshua 13 describes the land Moses gave east of the Jordan. In what order are the tribes described?",
+  "options": [
+    "Gad, Reuben, half-tribe of Manasseh",
+    "Reuben, Gad, half-tribe of Manasseh",
+    "Half-tribe of Manasseh, Gad, Reuben",
+    "Reuben, half-tribe of Manasseh, Gad"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Promise"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The chapter first describes Reuben's land (13:15), then Gad's (13:24), then the half-tribe of Manasseh's (13:29)."
+}

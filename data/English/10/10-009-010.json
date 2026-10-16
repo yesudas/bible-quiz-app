@@ -1,0 +1,31 @@
+{
+  "id": "10-009-010",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 9,
+  "verse_reference": "2 Samuel 9:10",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many sons and servants did Ziba have?",
+  "options": [
+    "Ten sons and twelve servants",
+    "Twelve sons and fifteen servants",
+    "Fifteen sons and twenty servants",
+    "Twenty sons and thirty servants"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Ziba"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ziba had fifteen sons and twenty servants."
+}

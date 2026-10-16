@@ -1,0 +1,39 @@
+{
+  "id": "14-020-009",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 20,
+  "verse_reference": "2 Chronicles 20:16",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where would Judah find the enemy army, according to Jahaziel?",
+  "options": [
+    "At the Jordan River",
+    "At the end of the gorge in the Desert of Jeruel",
+    "At the gate of Jerusalem",
+    "In the Valley of Elah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jahaziel"
+  ],
+  "places": [
+    {
+      "name": "Pass of Ziz",
+      "type": "road"
+    },
+    {
+      "name": "Desert of Jeruel",
+      "type": "desert"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jahaziel said they would climb up by the Pass of Ziz and find the enemy at the end of the gorge in the Desert of Jeruel."
+}

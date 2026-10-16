@@ -1,0 +1,44 @@
+{
+  "id": "14-013-013",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 13,
+  "verse_reference": "2 Chronicles 13:19",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which town did Abijah take from Jeroboam?",
+  "options": [
+    "Bethel",
+    "Shechem",
+    "Samaria",
+    "Dan"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Abijah",
+    "Jeroboam"
+  ],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "town"
+    },
+    {
+      "name": "Jeshanah",
+      "type": "town"
+    },
+    {
+      "name": "Ephron",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abijah pursued Jeroboam and took from him the towns of Bethel, Jeshanah and Ephron."
+}

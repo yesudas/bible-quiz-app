@@ -1,0 +1,33 @@
+{
+  "id": "09-030-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 30,
+  "verse_reference": "1 Samuel 30:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the LORD's answer to David about the raiding party?",
+  "options": [
+    "\"Stay in Ziklag.\"",
+    "\"Wait seven days.\"",
+    "\"Pursue them. You will certainly overtake them and succeed in the rescue.\"",
+    "\"Let the Philistines chase them.\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Promise"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD answered, \"Pursue them. You will certainly overtake them and succeed in the rescue.\""
+}

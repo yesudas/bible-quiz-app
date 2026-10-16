@@ -1,0 +1,30 @@
+{
+  "id": "20-002-001",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 2,
+  "verse_reference": "Proverbs 2:1-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In Proverbs 2, how should we search for wisdom?",
+  "options": [
+    "As for bread in a famine",
+    "As for silver and hidden treasure",
+    "As for a lost sheep",
+    "As for water in the desert"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 2:4 says to look for wisdom as for silver and search for it as for hidden treasure."
+}

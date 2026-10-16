@@ -1,0 +1,36 @@
+{
+  "id": "19-134-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 134,
+  "verse_reference": "Psalm 134:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to Psalm 134, what should the servants lift up in the sanctuary as they praise the LORD?",
+  "options": [
+    "Their hands",
+    "Their voices only",
+    "Their swords",
+    "Their offerings"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sanctuary",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Lift up your hands in the sanctuary and praise the LORD.\""
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-008-016",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 8,
+  "verse_reference": "1 Kings 8:65",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How long did Solomon and all Israel celebrate the festival at the temple's dedication?",
+  "options": [
+    "Three days",
+    "Seven days",
+    "Forty days",
+    "Fourteen days"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Lebo Hamath",
+      "type": "region"
+    },
+    {
+      "name": "Wadi of Egypt",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They celebrated for seven days and seven days more, fourteen days in all."
+}

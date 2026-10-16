@@ -1,0 +1,33 @@
+{
+  "id": "19-139-009",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 139,
+  "verse_reference": "Psalm 139:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"I praise you because I am fearfully and ______ made.\"",
+  "options": [
+    "wonderfully",
+    "carefully",
+    "quickly",
+    "perfectly"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David praised God because he was fearfully and wonderfully made."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "06-003-005",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 3,
+  "verse_reference": "Joshua 3:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why were the people told to follow the ark?",
+  "options": [
+    "So they could guard it from enemies",
+    "So they could carry it in turns",
+    "So they could hear the priests sing",
+    "So they would know which way to go"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people had never been that way before, so following the ark would show them which way to go."
+}

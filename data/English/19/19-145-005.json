@@ -1,0 +1,32 @@
+{
+  "id": "19-145-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 145,
+  "verse_reference": "Psalm 145:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How does Psalm 145 describe God's kingdom?",
+  "options": [
+    "An everlasting kingdom",
+    "A kingdom in Jerusalem only",
+    "A kingdom that will end",
+    "A hidden kingdom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingdom of God"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Your kingdom is an everlasting kingdom, and your dominion endures through all generations.\""
+}

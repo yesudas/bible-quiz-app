@@ -270,6 +270,9 @@ $embedQuery = $embed ? '&embed=1' : '';
     </section>
 </div>
 
+<script>
+    window.QUIZ_VERSION = <?= json_encode($version) ?>;
+</script>
 <script src="assets/js/quiz.js?v=<?= htmlspecialchars($version) ?>" defer></script>
 
 <?php renderQuizFooter($version, ['embed' => $embed]); ?>

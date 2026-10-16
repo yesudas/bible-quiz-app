@@ -1,0 +1,32 @@
+{
+  "id": "19-139-010",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 139,
+  "verse_reference": "Psalm 139:16",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 139, where were all the days ordained for David written?",
+  "options": [
+    "On stone tablets",
+    "In God's book",
+    "On the temple walls",
+    "In the stars"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All the days ordained for him were written in God's book before one of them came to be."
+}

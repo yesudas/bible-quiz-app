@@ -1,0 +1,37 @@
+{
+  "id": "09-010-014",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 10,
+  "verse_reference": "1 Samuel 10:25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Samuel write on a scroll and place before the LORD?",
+  "options": [
+    "The rights and duties of kingship",
+    "The Ten Commandments",
+    "The names of the twelve tribes",
+    "A list of Saul's enemies"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Law"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "Mizpah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel explained to the people the rights and duties of kingship. He wrote them down on a scroll and deposited it before the LORD."
+}

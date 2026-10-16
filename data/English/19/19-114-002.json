@@ -1,0 +1,35 @@
+{
+  "id": "19-114-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 114,
+  "verse_reference": "Psalm 114:2",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 114, what did Judah become?",
+  "options": [
+    "God's sanctuary",
+    "God's footstool",
+    "God's army",
+    "God's vineyard"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Israel came out of Egypt, Judah became God's sanctuary and Israel His dominion."
+}

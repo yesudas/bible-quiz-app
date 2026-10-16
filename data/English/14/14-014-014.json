@@ -1,0 +1,35 @@
+{
+  "id": "14-014-014",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 14,
+  "verse_reference": "2 Chronicles 14:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why could Judah destroy the villages around Gerar?",
+  "options": [
+    "The people there were asleep",
+    "The villages had no walls",
+    "The terror of the LORD had fallen on them",
+    "The villagers welcomed them"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Asa"
+  ],
+  "places": [
+    {
+      "name": "Gerar",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They destroyed the villages around Gerar, for the terror of the LORD had fallen on them, and carried off much plunder."
+}

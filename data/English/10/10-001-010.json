@@ -1,0 +1,40 @@
+{
+  "id": "10-001-010",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 1,
+  "verse_reference": "2 Samuel 1:20",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Tell it not in Gath, proclaim it not in the streets of ______.\"",
+  "options": [
+    "Ekron",
+    "Gaza",
+    "Ashdod",
+    "Ashkelon"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Gath",
+      "type": "city"
+    },
+    {
+      "name": "Ashkelon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David did not want the news told in the Philistine cities of Gath and Ashkelon, so the daughters of the Philistines would not rejoice."
+}

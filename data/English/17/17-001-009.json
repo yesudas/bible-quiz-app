@@ -1,0 +1,43 @@
+{
+  "id": "17-001-009",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 1,
+  "verse_reference": "Esther 1:13-16",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which of the king's nobles answered when Xerxes asked what should be done to Queen Vashti?",
+  "options": [
+    "Memukan",
+    "Haman",
+    "Mordecai",
+    "Hegai"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Wisdom"
+  ],
+  "characters": [
+    "Memukan",
+    "Xerxes",
+    "Vashti"
+  ],
+  "places": [
+    {
+      "name": "Persia",
+      "type": "kingdom"
+    },
+    {
+      "name": "Media",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Memukan, one of the seven nobles of Persia and Media, gave the answer to the king."
+}

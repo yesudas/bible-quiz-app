@@ -1,0 +1,29 @@
+{
+  "id": "12-008-003",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 8,
+  "verse_reference": "2 Kings 8:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the Shunammite woman go to the king when she came back?",
+  "options": [
+    "To report Gehazi",
+    "To ask for her house and land",
+    "To ask for food",
+    "To find Elisha"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When she returned after seven years, she went to the king to beg for her house and land."
+}

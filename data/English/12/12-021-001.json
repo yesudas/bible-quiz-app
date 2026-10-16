@@ -1,0 +1,36 @@
+{
+  "id": "12-021-001",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 21,
+  "verse_reference": "2 Kings 21:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How old was Manasseh when he became king?",
+  "options": [
+    "Twelve",
+    "Seven",
+    "Sixteen",
+    "Twenty-five"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Manasseh"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Manasseh was twelve years old when he became king."
+}

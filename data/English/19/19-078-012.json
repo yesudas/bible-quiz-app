@@ -1,0 +1,36 @@
+{
+  "id": "19-078-012",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 78,
+  "verse_reference": "Psalm 78:51",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 78:51, whom did God strike down in Egypt?",
+  "options": [
+    "All the firstborn",
+    "All the soldiers",
+    "All the magicians",
+    "All the priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God struck down all the firstborn of Egypt."
+}

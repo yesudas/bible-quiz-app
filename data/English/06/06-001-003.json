@@ -1,0 +1,33 @@
+{
+  "id": "06-001-003",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 1,
+  "verse_reference": "Joshua 1:1",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Before he became Israel's leader, what was Joshua's role?",
+  "options": [
+    "Moses' aide",
+    "High priest",
+    "Judge of Israel",
+    "King's officer"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Bible describes Joshua as Moses' aide before God made him the leader of Israel."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13-020-004",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 20,
+  "verse_reference": "1 Chronicles 20:4",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who killed Sippai, a descendant of the Rephaites, at Gezer?",
+  "options": [
+    "Elhanan son of Jair",
+    "Abishai",
+    "Benaiah",
+    "Sibbekai the Hushathite"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "War"
+  ],
+  "characters": [
+    "Sibbekai",
+    "Sippai"
+  ],
+  "places": [
+    {
+      "name": "Gezer",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In a battle with the Philistines at Gezer, Sibbekai the Hushathite killed Sippai."
+}

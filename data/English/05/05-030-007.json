@@ -1,0 +1,33 @@
+{
+  "id": "05-030-007",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 30,
+  "verse_reference": "Deuteronomy 30:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What two choices did Moses set before Israel that day?",
+  "options": [
+    "Wealth and poverty",
+    "Life and prosperity, death and destruction",
+    "Peace and war",
+    "Work and rest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Obedience",
+    "Covenant",
+    "Judgment"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses set before Israel life and prosperity, death and destruction, depending on whether they loved and obeyed the Lord."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "05-028-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 28,
+  "verse_reference": "Deuteronomy 28:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God promise about enemies who attacked an obedient Israel?",
+  "options": [
+    "They would come by one road and flee by seven",
+    "They would never come near the land",
+    "They would become Israel's servants",
+    "They would send gifts instead"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised that enemies rising against Israel would be defeated before them, coming at them from one direction but fleeing in seven."
+}

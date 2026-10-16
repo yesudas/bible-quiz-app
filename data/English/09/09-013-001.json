@@ -1,0 +1,45 @@
+{
+  "id": "09-013-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 13,
+  "verse_reference": "1 Samuel 13:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who led the thousand men at Gibeah in Benjamin while Saul had two thousand at Mikmash?",
+  "options": [
+    "Abner",
+    "Jonathan",
+    "Samuel",
+    "David"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul",
+    "Jonathan"
+  ],
+  "places": [
+    {
+      "name": "Mikmash",
+      "type": "town"
+    },
+    {
+      "name": "Gibeah",
+      "type": "town"
+    },
+    {
+      "name": "Benjamin",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul kept two thousand men with him at Mikmash, and a thousand were with Jonathan at Gibeah in Benjamin."
+}

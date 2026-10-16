@@ -1,0 +1,40 @@
+{
+  "id": "07-015-007",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 15,
+  "verse_reference": "Judges 15:10-12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who came to the rock of Etam to tie Samson up and hand him over to the Philistines?",
+  "options": [
+    "The men of Dan",
+    "The Ephraimites",
+    "Three thousand men of Judah",
+    "The Philistine army"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [
+    {
+      "name": "Rock of Etam",
+      "type": "cave"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Three thousand men from Judah went down to the cave in the rock of Etam to tie Samson up and hand him over."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "11-011-011",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 11,
+  "verse_reference": "1 Kings 11:26",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which of Solomon's officials, the son of Nebat, rebelled against the king?",
+  "options": [
+    "Adoniram",
+    "Benaiah",
+    "Zadok",
+    "Jeroboam"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jeroboam",
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeroboam son of Nebat, one of Solomon's officials, rebelled against the king."
+}

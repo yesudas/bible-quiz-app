@@ -1,0 +1,38 @@
+{
+  "id": "15-010-001",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 10,
+  "verse_reference": "Ezra 10:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did a large crowd do while Ezra prayed and wept before the house of God?",
+  "options": [
+    "They laughed at him",
+    "They gathered and wept bitterly too",
+    "They went home",
+    "They ran to tell the king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Prayer"
+  ],
+  "characters": [
+    "Ezra"
+  ],
+  "places": [
+    {
+      "name": "House of God in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While Ezra was praying, confessing and weeping, a large crowd of Israelites gathered around him and they too wept bitterly."
+}

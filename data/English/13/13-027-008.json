@@ -1,0 +1,32 @@
+{
+  "id": "13-027-008",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 27,
+  "verse_reference": "1 Chronicles 27:33",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who is described as the king's confidant?",
+  "options": [
+    "Ahithophel",
+    "Nathan",
+    "Hushai the Arkite",
+    "Zadok"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Friendship"
+  ],
+  "characters": [
+    "Hushai",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahithophel was the king's counselor, and Hushai the Arkite was the king's confidant."
+}

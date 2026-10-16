@@ -1,0 +1,31 @@
+{
+  "id": "05-027-008",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 27,
+  "verse_reference": "Deuteronomy 27:18",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "One of the curses was against a person who did what to someone who is blind?",
+  "options": [
+    "Refused to feed him",
+    "Took his staff away",
+    "Led him astray on the road",
+    "Spoke harshly to him"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Justice",
+    "Mercy",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A curse was pronounced on anyone who led a blind person astray on the road, taking advantage of someone unable to see the way."
+}

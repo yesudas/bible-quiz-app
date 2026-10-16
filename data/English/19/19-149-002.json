@@ -1,0 +1,36 @@
+{
+  "id": "19-149-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 149,
+  "verse_reference": "Psalm 149:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 149, in whom should the people of Zion be glad?",
+  "options": [
+    "Their prophets",
+    "Their King",
+    "Their fathers",
+    "Their soldiers"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Kingdom of God"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Let Israel rejoice in their Maker; let the people of Zion be glad in their King.\""
+}

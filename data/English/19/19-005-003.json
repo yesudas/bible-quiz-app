@@ -1,0 +1,33 @@
+{
+  "id": "19-005-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 5,
+  "verse_reference": "Psalm 5:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"For you are not a God who is pleased with ____; with you, evil people are not welcome.\"",
+  "options": [
+    "sacrifice",
+    "foolishness",
+    "wickedness",
+    "sorrow"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Holiness"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 5:4 says God is not pleased with wickedness, and evil people are not welcome with him."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "15-002-002",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 2,
+  "verse_reference": "Ezra 2:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which two men are named first among the leaders who came back with the exiles?",
+  "options": [
+    "Ezra and Nehemiah",
+    "Haggai and Zechariah",
+    "Zerubbabel and Jeshua",
+    "Sheshbazzar and Mithredath"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Promise"
+  ],
+  "characters": [
+    "Zerubbabel",
+    "Jeshua"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The list begins with those who came in company with Zerubbabel and Jeshua."
+}

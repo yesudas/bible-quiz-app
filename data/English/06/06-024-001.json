@@ -1,0 +1,38 @@
+{
+  "id": "06-024-001",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 24,
+  "verse_reference": "Joshua 24:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Joshua gather all the tribes of Israel at the end of his life?",
+  "options": [
+    "Shiloh",
+    "Shechem",
+    "Gilgal",
+    "Jericho"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Shechem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua assembled all the tribes of Israel at Shechem, and they presented themselves before God."
+}

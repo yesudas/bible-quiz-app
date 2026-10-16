@@ -1,0 +1,37 @@
+{
+  "id": "15-009-009",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 9,
+  "verse_reference": "Ezra 9:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Ezra say about the way God had punished his people?",
+  "options": [
+    "God had punished them less than their sins deserved",
+    "God had punished them too harshly",
+    "God had not punished them at all",
+    "God had punished only their enemies"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Forgiveness",
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [
+    "Ezra"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra prayed that God had punished them less than their sins deserved and had given them a remnant."
+}

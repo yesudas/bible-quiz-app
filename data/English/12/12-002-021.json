@@ -1,0 +1,44 @@
+{
+  "id": "12-002-021",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 2,
+  "verse_reference": "2 Kings 2:25",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "After leaving Bethel, where did Elisha go before returning to Samaria?",
+  "options": [
+    "Mount Carmel",
+    "Jericho",
+    "Gilgal",
+    "The Jordan"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    },
+    {
+      "name": "Mount Carmel",
+      "type": "mountain"
+    },
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "From Bethel Elisha went on to Mount Carmel, and from there he returned to Samaria."
+}

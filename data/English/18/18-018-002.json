@@ -1,0 +1,32 @@
+{
+  "id": "18-018-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 18,
+  "verse_reference": "Job 18:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Bildad complained that Job regarded the friends as what?",
+  "options": [
+    "Enemies",
+    "Children",
+    "Strangers",
+    "Cattle"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Bildad",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Bildad asked, 'Why are we regarded as cattle and considered stupid in your sight?'"
+}

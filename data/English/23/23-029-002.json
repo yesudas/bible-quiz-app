@@ -1,0 +1,33 @@
+{
+  "id": "23-029-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 29,
+  "verse_reference": "Isaiah 29:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Isaiah compares the nations that fight against Mount Zion to a hungry person who does what?",
+  "options": [
+    "Finds a great feast",
+    "Hunts in the forest",
+    "Shares bread with others",
+    "Dreams of eating but wakes up still hungry"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mount Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 29:8 says it will be as when a hungry person dreams of eating but awakens still hungry; so it will be for the nations that fight against Mount Zion."
+}

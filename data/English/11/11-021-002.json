@@ -1,0 +1,38 @@
+{
+  "id": "11-021-002",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 21,
+  "verse_reference": "1 Kings 21:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Ahab want to use Naboth's vineyard for?",
+  "options": [
+    "A vegetable garden",
+    "A temple for Baal",
+    "A stable for horses",
+    "A new palace"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Temptation"
+  ],
+  "characters": [
+    "Ahab",
+    "Naboth"
+  ],
+  "places": [
+    {
+      "name": "Jezreel",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahab asked for the vineyard to use as a vegetable garden, since it was close to his palace, and offered a better vineyard or payment for it."
+}

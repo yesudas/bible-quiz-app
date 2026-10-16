@@ -1,0 +1,40 @@
+{
+  "id": "20-031-007",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 31,
+  "verse_reference": "Proverbs 31:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 31:16, what does she plant out of her earnings?",
+  "options": [
+    "A garden of herbs",
+    "An orchard of figs",
+    "A vineyard",
+    "A field of wheat"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Field",
+      "type": "field"
+    },
+    {
+      "name": "Vineyard",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 31:16 says she considers a field and buys it; out of her earnings she plants a vineyard."
+}

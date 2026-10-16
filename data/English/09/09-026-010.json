@@ -1,0 +1,37 @@
+{
+  "id": "09-026-010",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 26,
+  "verse_reference": "1 Samuel 26:13-15",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did David call out to and blame for not guarding the king?",
+  "options": [
+    "Saul",
+    "Abishai",
+    "Abner",
+    "Jonathan"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David",
+    "Abner"
+  ],
+  "places": [
+    {
+      "name": "Hilltop across from Saul's camp",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David stood on a hill some distance away and called out to Abner, \"Why didn't you guard your lord the king?\""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "14-030-011",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 30,
+  "verse_reference": "2 Chronicles 30:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the LORD do after hearing Hezekiah's prayer?",
+  "options": [
+    "He sent fire",
+    "He punished the unclean",
+    "He sent a prophet",
+    "He healed the people"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD heard Hezekiah and healed the people."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "19-144-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 144,
+  "verse_reference": "Psalm 144:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 144, daughters are compared to what?",
+  "options": [
+    "Flowers in a garden",
+    "Stars in the sky",
+    "Pillars carved to adorn a palace",
+    "Doves in a tree"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Our sons in their youth will be like well-nurtured plants, and our daughters will be like pillars carved to adorn a palace.\""
+}

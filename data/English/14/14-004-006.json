@@ -1,0 +1,36 @@
+{
+  "id": "14-004-006",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 4,
+  "verse_reference": "2 Chronicles 4:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was the Sea used for?",
+  "options": [
+    "Storing oil for the lamps",
+    "The priests washing themselves",
+    "Watering the courtyard gardens",
+    "Giving the people drinking water"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The ten basins were for rinsing things used for burnt offerings, but the Sea was used by the priests for washing."
+}

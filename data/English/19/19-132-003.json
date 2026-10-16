@@ -1,0 +1,31 @@
+{
+  "id": "19-132-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 132,
+  "verse_reference": "Psalm 132:2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "In Psalm 132, what title is used for God in David's vow?",
+  "options": [
+    "The Holy One of Israel",
+    "The God of Abraham",
+    "The Mighty One of Jacob",
+    "The LORD of Hosts"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David made a vow to the LORD, the Mighty One of Jacob."
+}

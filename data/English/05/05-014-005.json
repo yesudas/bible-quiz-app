@@ -1,0 +1,29 @@
+{
+  "id": "05-014-005",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 14,
+  "verse_reference": "Deuteronomy 14:21",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What food rule did God give about cooking a young goat?",
+  "options": [
+    "Do not cook it with bread",
+    "Do not cook it at night",
+    "Do not cook it with salt",
+    "Do not cook it in its mother's milk"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God commanded that Israel not cook a young goat in its mother's milk."
+}

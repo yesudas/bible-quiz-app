@@ -1,0 +1,41 @@
+{
+  "id": "12-011-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 11,
+  "verse_reference": "2 Kings 11:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jehoiada order that Athaliah be taken out before she was put to death?",
+  "options": [
+    "He wanted her to see the people",
+    "She must not be put to death in the temple of the LORD",
+    "The king wanted to speak with her",
+    "The guards were outside"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Judgment"
+  ],
+  "characters": [
+    "Jehoiada",
+    "Athaliah"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    },
+    {
+      "name": "Royal palace",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priest had said, 'She must not be put to death in the temple of the LORD,' so she was taken out and killed at the palace grounds."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "06-008-005",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 8,
+  "verse_reference": "Joshua 8:15-16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Joshua and his army pretend to run away from the men of Ai?",
+  "options": [
+    "They were truly afraid",
+    "To draw the men of Ai away from their city",
+    "To wait for the priests",
+    "To reach the Jordan before dark"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Ai",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua and Israel let themselves be driven back so that all the men of Ai would chase them and leave the city open."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14-031-008",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 31,
+  "verse_reference": "2 Chronicles 31:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the priests have enough to eat and plenty to spare, according to Azariah?",
+  "options": [
+    "The LORD had blessed His people",
+    "The king had bought extra food",
+    "Assyria had sent grain",
+    "There were fewer priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Promise"
+  ],
+  "characters": [
+    "Azariah"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Azariah said they had enough to eat and plenty to spare because the LORD had blessed His people, and a great amount was left over."
+}

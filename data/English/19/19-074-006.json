@@ -1,0 +1,32 @@
+{
+  "id": "19-074-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 74,
+  "verse_reference": "Psalm 74:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"The day is yours, and yours also the ____.\"",
+  "options": [
+    "light",
+    "sun",
+    "night",
+    "earth"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph says that both the day and the night belong to God."
+}

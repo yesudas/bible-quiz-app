@@ -1,0 +1,38 @@
+{
+  "id": "14-011-011",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 11,
+  "verse_reference": "2 Chronicles 11:17",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "For how long did the people walk in the ways of David and Solomon, strengthening Rehoboam's kingdom?",
+  "options": [
+    "Seven years",
+    "Forty years",
+    "Ten years",
+    "Three years"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Obedience"
+  ],
+  "characters": [
+    "Rehoboam",
+    "David",
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They strengthened the kingdom of Judah and supported Rehoboam for three years, walking in the ways of David and Solomon."
+}

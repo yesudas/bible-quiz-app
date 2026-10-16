@@ -1,0 +1,29 @@
+{
+  "id": "19-104-012",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 104,
+  "verse_reference": "Psalm 104:26",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which sea creature did God form to frolic in the sea, according to Psalm 104?",
+  "options": [
+    "Behemoth",
+    "Leviathan",
+    "The great fish",
+    "The dragon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 104:26 says the ships go to and fro on the sea, and Leviathan, which God formed to frolic there."
+}

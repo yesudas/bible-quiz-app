@@ -1,0 +1,34 @@
+{
+  "id": "07-018-006",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 18,
+  "verse_reference": "Judges 18:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the people of Laish live, according to the spies?",
+  "options": [
+    "In safety, at peace and secure, like the Sidonians",
+    "With a great army ready for battle",
+    "Behind very high walls",
+    "Under the rule of the Philistines"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Peace"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Laish",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The spies saw that the people of Laish lived in safety like the Sidonians, unsuspecting and secure."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "19-092-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 92,
+  "verse_reference": "Psalm 92:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"It is ____ to praise the LORD and make music to your name, O Most High.\"",
+  "options": [
+    "good",
+    "right",
+    "easy",
+    "holy"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm begins by saying it is good to praise the LORD."
+}

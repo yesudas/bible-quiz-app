@@ -1,0 +1,32 @@
+{
+  "id": "19-070-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 70,
+  "verse_reference": "Psalm 70:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "In Psalm 70:1, how quickly does David ask God to help him?",
+  "options": [
+    "Slowly, in God's own time",
+    "Next year",
+    "Quickly",
+    "After the battle"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David prays, \"Hasten, O God, to save me; come quickly, LORD, to help me.\""
+}

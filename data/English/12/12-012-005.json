@@ -1,0 +1,38 @@
+{
+  "id": "12-012-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 12,
+  "verse_reference": "2 Kings 12:4-5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Joash want the money brought to the temple to be used for?",
+  "options": [
+    "To pay Hazael",
+    "To build a palace",
+    "To feed the priests",
+    "To repair the temple"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [
+    "Joash"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joash told the priests to use the money brought into the temple to repair whatever damage was found in it."
+}

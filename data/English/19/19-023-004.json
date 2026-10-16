@@ -1,0 +1,34 @@
+{
+  "id": "19-023-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 23,
+  "verse_reference": "Psalm 23:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 23:2, what does the LORD lead David beside?",
+  "options": [
+    "Rushing rivers",
+    "Deep wells",
+    "High walls",
+    "Quiet waters"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Peace",
+    "Guidance"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 23:2 says the LORD leads him beside quiet waters."
+}

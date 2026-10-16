@@ -1,0 +1,36 @@
+{
+  "id": "11-005-006",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 5,
+  "verse_reference": "1 Kings 5:6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Solomon, which people were more skilled at cutting timber than anyone in Israel?",
+  "options": [
+    "The Egyptians",
+    "The Sidonians",
+    "The Philistines",
+    "The Moabites"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Sidon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon said that no one among his people was as skilled in felling timber as the Sidonians."
+}

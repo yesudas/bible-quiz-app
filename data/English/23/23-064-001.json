@@ -1,0 +1,29 @@
+{
+  "id": "23-064-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 64,
+  "verse_reference": "Isaiah 64:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the prayer: 'Oh, that you would rend the ______ and come down, that the mountains would tremble before you!'",
+  "options": [
+    "clouds",
+    "heavens",
+    "skies",
+    "gates"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 64:1 says, 'Oh, that you would rend the heavens and come down, that the mountains would tremble before you!'"
+}

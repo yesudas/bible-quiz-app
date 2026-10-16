@@ -1,0 +1,30 @@
+{
+  "id": "05-022-006",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 22,
+  "verse_reference": "Deuteronomy 22:10",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which two animals were not to be yoked together for plowing?",
+  "options": [
+    "A camel and a horse",
+    "An ox and a donkey",
+    "A sheep and a goat",
+    "A bull and a cow"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Mercy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel was forbidden to plow with an ox and a donkey yoked together."
+}

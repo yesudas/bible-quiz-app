@@ -1,0 +1,37 @@
+{
+  "id": "13-003-004",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 3,
+  "verse_reference": "1 Chronicles 3:4",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How long did David reign in Hebron?",
+  "options": [
+    "Three years",
+    "Seven years and six months",
+    "Twelve years",
+    "Thirty-three years"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 3:4 says David reigned in Hebron seven years and six months."
+}

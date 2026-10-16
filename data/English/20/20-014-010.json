@@ -1,0 +1,30 @@
+{
+  "id": "20-014-010",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 14,
+  "verse_reference": "Proverbs 14:34",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"______ exalts a nation, but sin condemns any people.\"",
+  "options": [
+    "Wealth",
+    "Strength",
+    "Wisdom",
+    "Righteousness"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 14:34 says righteousness exalts a nation, but sin condemns any people."
+}

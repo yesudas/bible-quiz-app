@@ -1,0 +1,33 @@
+{
+  "id": "19-054-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 54,
+  "verse_reference": "Psalm 54:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "At the end of Psalm 54, what does David say God has done for him?",
+  "options": [
+    "Delivered him from all his troubles",
+    "Made him king over Israel",
+    "Given him great riches",
+    "Forgiven his sin with Bathsheba"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David says God has delivered him from all his troubles."
+}

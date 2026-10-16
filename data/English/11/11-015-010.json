@@ -1,0 +1,45 @@
+{
+  "id": "11-015-010",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 15,
+  "verse_reference": "1 Kings 15:22",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did King Asa do with the stones and timber Baasha had used at Ramah?",
+  "options": [
+    "He burned them",
+    "He used them to build up Geba and Mizpah",
+    "He gave them to Ben-Hadad",
+    "He built a new temple with them"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Asa",
+    "Baasha"
+  ],
+  "places": [
+    {
+      "name": "Ramah",
+      "type": "town"
+    },
+    {
+      "name": "Geba",
+      "type": "town"
+    },
+    {
+      "name": "Mizpah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asa's men carried away the stones and timber from Ramah, and with them Asa built up Geba in Benjamin, and also Mizpah."
+}

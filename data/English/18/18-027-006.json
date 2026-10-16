@@ -1,0 +1,33 @@
+{
+  "id": "18-027-006",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 27,
+  "verse_reference": "Job 27:18",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Job said the house a wicked man builds is like a moth's what?",
+  "options": [
+    "Wing",
+    "Nest",
+    "Cocoon",
+    "Shadow"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'The house he builds is like a moth's cocoon, like a hut made by a watchman.'"
+}

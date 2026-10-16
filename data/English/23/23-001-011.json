@@ -1,0 +1,34 @@
+{
+  "id": "23-001-011",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 1,
+  "verse_reference": "Isaiah 1:22",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "God said Jerusalem's silver had become what?",
+  "options": [
+    "Gold",
+    "Dross",
+    "Bronze",
+    "Ashes"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 1:22 says, 'Your silver has become dross, your choice wine is diluted with water,' showing how the city had become impure."
+}

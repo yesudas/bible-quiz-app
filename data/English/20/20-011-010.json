@@ -1,0 +1,30 @@
+{
+  "id": "20-011-010",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 11,
+  "verse_reference": "Proverbs 11:30",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"The fruit of the righteous is a tree of ______, and the one who is wise saves lives.\"",
+  "options": [
+    "life",
+    "peace",
+    "joy",
+    "hope"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 11:30 says the fruit of the righteous is a tree of life, and the one who is wise saves lives."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "06-009-003",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 9,
+  "verse_reference": "Joshua 9:4-5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did the Gibeonites make it look like they had traveled a long way?",
+  "options": [
+    "They rode camels",
+    "They brought a map",
+    "They wore old clothes and carried dry, moldy bread",
+    "They came with many soldiers"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gibeon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They wore old clothes and patched sandals, carried worn-out sacks and cracked wineskins, and their bread was dry and moldy."
+}

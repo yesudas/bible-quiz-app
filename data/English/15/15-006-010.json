@@ -1,0 +1,30 @@
+{
+  "id": "15-006-010",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 6,
+  "verse_reference": "Ezra 6:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which festival did the exiles celebrate on the fourteenth day of the first month?",
+  "options": [
+    "The Festival of Tabernacles",
+    "Purim",
+    "The Passover",
+    "The Festival of Trumpets"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On the fourteenth day of the first month, the exiles celebrated the Passover."
+}

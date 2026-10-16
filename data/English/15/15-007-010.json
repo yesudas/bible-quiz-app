@@ -1,0 +1,39 @@
+{
+  "id": "15-007-010",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 7,
+  "verse_reference": "Ezra 7:27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Ezra praise the LORD at the end of the chapter?",
+  "options": [
+    "God had defeated Israel's enemies",
+    "God had given Ezra great riches",
+    "God had put it into the king's heart to honour the house of the LORD",
+    "God had made Ezra king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Prayer",
+    "Promise"
+  ],
+  "characters": [
+    "Ezra",
+    "Artaxerxes"
+  ],
+  "places": [
+    {
+      "name": "House of the LORD in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra praised the LORD, who put it into the king's heart to bring honour to the house of the LORD in Jerusalem."
+}

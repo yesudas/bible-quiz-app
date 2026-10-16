@@ -1,0 +1,29 @@
+{
+  "id": "23-030-008",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 30,
+  "verse_reference": "Isaiah 30:26",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In the day the LORD binds up His people's wounds, how bright will the sun be?",
+  "options": [
+    "Twice as bright",
+    "Ten times brighter",
+    "As bright as the moon",
+    "Seven times brighter"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 30:26 says the moon will shine like the sun, and the sunlight will be seven times brighter."
+}

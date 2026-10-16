@@ -1,0 +1,29 @@
+{
+  "id": "15-002-005",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 2,
+  "verse_reference": "Ezra 2:59-60",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What problem did some of the returning families have?",
+  "options": [
+    "They could not speak Hebrew",
+    "They could not show that they were from Israel",
+    "They had no money for the journey",
+    "They refused to leave Babylon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some families could not show that their families were descended from Israel."
+}

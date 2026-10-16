@@ -1,0 +1,32 @@
+{
+  "id": "19-143-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 143,
+  "verse_reference": "Psalm 143:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did David ask God not to bring him into judgment?",
+  "options": [
+    "Because he was the king",
+    "Because no one living is righteous before God",
+    "Because his enemies were worse",
+    "Because he had given many offerings"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Forgiveness"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Do not bring your servant into judgment, for no one living is righteous before you.\""
+}

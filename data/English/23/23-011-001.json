@@ -1,0 +1,34 @@
+{
+  "id": "23-011-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 11,
+  "verse_reference": "Isaiah 11:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'A shoot will come up from the stump of ______; from his roots a Branch will bear fruit.'",
+  "options": [
+    "David",
+    "Jesse",
+    "Abraham",
+    "Judah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Jesus",
+    "Hope"
+  ],
+  "characters": [
+    "Jesse"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 11:1 says a shoot will come up from the stump of Jesse, and from his roots a Branch will bear fruit."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "12-012-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 12,
+  "verse_reference": "2 Kings 12:10",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who counted the money from the chest?",
+  "options": [
+    "The king and his mother",
+    "The carpenters and builders",
+    "The elders of Judah",
+    "The royal secretary and the high priest"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the chest had a large amount of money, the royal secretary and the high priest came, counted it and put it into bags."
+}

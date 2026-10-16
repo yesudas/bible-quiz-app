@@ -1,0 +1,39 @@
+{
+  "id": "14-009-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 9,
+  "verse_reference": "2 Chronicles 9:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the queen of Sheba say God had made Solomon king over Israel?",
+  "options": [
+    "Because Solomon was the oldest son",
+    "Because Solomon was the strongest man",
+    "Because Israel asked for a king",
+    "Because of the love of God for Israel"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [
+    "Queen of Sheba",
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "She praised the LORD, saying that because of God's love for Israel and His desire to uphold them, He made Solomon king."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "08-004-006",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 4,
+  "verse_reference": "Ruth 4:7-8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the man take off to show that the deal was final?",
+  "options": [
+    "His sandal",
+    "His cloak",
+    "His ring",
+    "His belt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Covenant"
+  ],
+  "characters": [
+    "Boaz"
+  ],
+  "places": [
+    {
+      "name": "Town gate of Bethlehem",
+      "type": "city gate"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Israel, a man took off his sandal and gave it to the other to confirm a transfer, so the guardian-redeemer removed his sandal."
+}

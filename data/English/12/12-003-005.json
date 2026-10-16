@@ -1,0 +1,37 @@
+{
+  "id": "12-003-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 3,
+  "verse_reference": "2 Kings 3:4",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was the king of Moab who raised sheep and paid tribute to Israel?",
+  "options": [
+    "Eglon",
+    "Mesha",
+    "Balak",
+    "Nahash"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Leadership"
+  ],
+  "characters": [
+    "Mesha"
+  ],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mesha king of Moab raised sheep and had to give the king of Israel a hundred thousand lambs and the wool of a hundred thousand rams."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "05-004-005",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 4,
+  "verse_reference": "Deuteronomy 4:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When God spoke at Horeb, what did the people experience?",
+  "options": [
+    "They saw God's face clearly",
+    "They saw a bright angel",
+    "They heard a voice but saw no form",
+    "They heard nothing at all"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Horeb",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At Horeb the people heard the Lord speak out of the fire but saw no form, which is why they were warned not to make idols."
+}

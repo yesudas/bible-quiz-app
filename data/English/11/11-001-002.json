@@ -1,0 +1,34 @@
+{
+  "id": "11-001-002",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 1,
+  "verse_reference": "1 Kings 1:5",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which son of David put himself forward and said, \"I will be king\"?",
+  "options": [
+    "Absalom",
+    "Amnon",
+    "Solomon",
+    "Adonijah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Sin"
+  ],
+  "characters": [
+    "Adonijah",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Adonijah, the son of Haggith, put himself forward and said he would be king."
+}

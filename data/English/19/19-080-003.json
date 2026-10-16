@@ -1,0 +1,34 @@
+{
+  "id": "19-080-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 80,
+  "verse_reference": "Psalm 80:3, 7, 19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse repeated in Psalm 80: \"Restore us, O God; make your face shine on us, that we may be ____.\"",
+  "options": [
+    "happy",
+    "strong",
+    "saved",
+    "rich"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Prayer",
+    "Repentance"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "This prayer is repeated three times, asking God to restore His people and make His face shine on them so they may be saved."
+}

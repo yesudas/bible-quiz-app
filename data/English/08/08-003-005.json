@@ -1,0 +1,38 @@
+{
+  "id": "08-003-005",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 3,
+  "verse_reference": "Ruth 3:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Naomi tell Ruth to do when Boaz lay down?",
+  "options": [
+    "Wake him with a song",
+    "Sit by the door and wait",
+    "Uncover his feet and lie down",
+    "Leave a message for him"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Naomi",
+    "Ruth",
+    "Boaz"
+  ],
+  "places": [
+    {
+      "name": "Threshing floor",
+      "type": "threshing floor"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Naomi told Ruth to note where he lay, then uncover his feet and lie down; he would tell her what to do."
+}

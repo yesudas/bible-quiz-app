@@ -1,0 +1,32 @@
+{
+  "id": "19-016-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 16,
+  "verse_reference": "Psalm 16:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 16:6, where does David say the boundary lines have fallen for him?",
+  "options": [
+    "Near the river",
+    "In the desert",
+    "In pleasant places",
+    "On the mountains"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Thanksgiving",
+    "Joy"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 16:6 says, \"The boundary lines have fallen for me in pleasant places; surely I have a delightful inheritance.\""
+}

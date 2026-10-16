@@ -1,0 +1,42 @@
+{
+  "id": "06-003-013",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 3,
+  "verse_reference": "Joshua 3:16",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "At which town did the waters of the Jordan pile up in a heap?",
+  "options": [
+    "Adam",
+    "Jericho",
+    "Gilgal",
+    "Zoar"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Adam",
+      "type": "city"
+    },
+    {
+      "name": "Zarethan",
+      "type": "city"
+    },
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The water piled up a great distance away, at a town called Adam near Zarethan."
+}

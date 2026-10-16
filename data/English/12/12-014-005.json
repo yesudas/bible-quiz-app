@@ -1,0 +1,35 @@
+{
+  "id": "12-014-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 14,
+  "verse_reference": "2 Kings 14:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What new name did Amaziah give to Sela after he captured it?",
+  "options": [
+    "Beth Millo",
+    "Joktheel",
+    "Elath",
+    "Gath Hepher"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Amaziah"
+  ],
+  "places": [
+    {
+      "name": "Sela",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amaziah captured Sela in battle and called it Joktheel."
+}

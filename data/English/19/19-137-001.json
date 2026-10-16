@@ -1,0 +1,39 @@
+{
+  "id": "19-137-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 137,
+  "verse_reference": "Psalm 137:1",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "By the rivers of which land did God's people sit and weep?",
+  "options": [
+    "Egypt",
+    "Assyria",
+    "Babylon",
+    "Moab"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    },
+    {
+      "name": "Rivers of Babylon",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"By the rivers of Babylon we sat and wept when we remembered Zion.\""
+}

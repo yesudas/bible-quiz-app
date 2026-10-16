@@ -1,0 +1,36 @@
+{
+  "id": "13-024-001",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 24,
+  "verse_reference": "1 Chronicles 24:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did only Eleazar and Ithamar serve as priests among Aaron's sons?",
+  "options": [
+    "Nadab and Abihu died before their father and had no sons",
+    "Nadab and Abihu became kings",
+    "Nadab and Abihu moved to Egypt",
+    "Nadab and Abihu chose to be musicians"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Priesthood",
+    "Family"
+  ],
+  "characters": [
+    "Nadab",
+    "Abihu",
+    "Eleazar",
+    "Ithamar",
+    "Aaron"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nadab and Abihu died before their father did, and they had no sons, so Eleazar and Ithamar served as the priests."
+}

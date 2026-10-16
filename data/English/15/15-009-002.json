@@ -1,0 +1,34 @@
+{
+  "id": "15-009-002",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 9,
+  "verse_reference": "Ezra 9:2",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to the report, who had led the way in this unfaithfulness?",
+  "options": [
+    "The leaders and officials",
+    "The singers and gatekeepers",
+    "The foreign workers",
+    "The young children"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The report said the leaders and officials had led the way in this unfaithfulness."
+}

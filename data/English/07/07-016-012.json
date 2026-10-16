@@ -1,0 +1,33 @@
+{
+  "id": "07-016-012",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 16,
+  "verse_reference": "Judges 16:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How was Samson's hair cut off?",
+  "options": [
+    "The Philistines cut it while he was awake",
+    "Delilah put him to sleep on her lap and called someone to shave off his seven braids",
+    "Delilah gave him wine and cut it herself",
+    "He was taken to a barber in Gaza"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Temptation"
+  ],
+  "characters": [
+    "Delilah",
+    "Samson"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Delilah put Samson to sleep on her lap and called for someone to shave off the seven braids of his hair."
+}

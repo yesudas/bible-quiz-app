@@ -1,0 +1,34 @@
+{
+  "id": "23-037-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 37,
+  "verse_reference": "Isaiah 37:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Isaiah's message to Hezekiah began: 'This is what the LORD says: Do not be ______ of what you have heard.'",
+  "options": [
+    "ashamed",
+    "afraid",
+    "sorry",
+    "angry"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Fear"
+  ],
+  "characters": [
+    "Isaiah",
+    "Hezekiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 37:6 says, 'Do not be afraid of what you have heard\u2014those words with which the underlings of the king of Assyria have blasphemed me.'"
+}

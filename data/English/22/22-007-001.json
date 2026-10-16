@@ -1,0 +1,29 @@
+{
+  "id": "22-007-001",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 7,
+  "verse_reference": "Song of Songs 7:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "In this chapter, what title does the beloved use for the woman when he praises her sandaled feet?",
+  "options": [
+    "Daughter of Zion",
+    "Prince's daughter",
+    "Queen of the south",
+    "Daughter of the king of Tyre"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 7:1 says, \"How beautiful your sandaled feet, O prince's daughter!\""
+}

@@ -1,0 +1,48 @@
+{
+  "id": "09-014-016",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 14,
+  "verse_reference": "1 Samuel 14:47",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Saul fought against enemies on every side. Which of these was one of them?",
+  "options": [
+    "Egypt",
+    "Edom",
+    "Babylon",
+    "Assyria"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    },
+    {
+      "name": "Ammon",
+      "type": "country"
+    },
+    {
+      "name": "Edom",
+      "type": "country"
+    },
+    {
+      "name": "Zobah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul fought against Moab, the Ammonites, Edom, the kings of Zobah and the Philistines."
+}

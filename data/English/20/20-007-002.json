@@ -1,0 +1,30 @@
+{
+  "id": "20-007-002",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 7,
+  "verse_reference": "Proverbs 7:3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 7:3, where should the father's teachings be written?",
+  "options": [
+    "On the doorposts",
+    "On the city walls",
+    "On the tablet of your heart",
+    "On a scroll in the temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 7:3 says to bind them on your fingers and write them on the tablet of your heart."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "09-022-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 22,
+  "verse_reference": "1 Samuel 22:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did David admit to Abiathar about the priests' deaths?",
+  "options": [
+    "That Saul was not to blame",
+    "That he was responsible for the death of Abiathar's whole family",
+    "That he had warned the priests",
+    "That he did not know Doeg was there"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance"
+  ],
+  "characters": [
+    "David",
+    "Abiathar",
+    "Doeg"
+  ],
+  "places": [
+    {
+      "name": "Nob",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said he knew Doeg would surely tell Saul, and \"I am responsible for the death of your whole family.\""
+}

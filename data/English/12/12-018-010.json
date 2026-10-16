@@ -1,0 +1,35 @@
+{
+  "id": "12-018-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 18,
+  "verse_reference": "2 Kings 18:18",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was Hezekiah's palace administrator who went out to meet the Assyrians?",
+  "options": [
+    "Eliakim son of Hilkiah",
+    "Shebna",
+    "Joah son of Asaph",
+    "Isaiah son of Amoz"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Eliakim"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eliakim son of Hilkiah the palace administrator went out with Shebna the secretary and Joah the recorder."
+}

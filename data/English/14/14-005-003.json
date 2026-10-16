@@ -1,0 +1,35 @@
+{
+  "id": "14-005-003",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 5,
+  "verse_reference": "2 Chronicles 5:3",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "At what time did all the Israelites gather to the king for the ark to be brought up?",
+  "options": [
+    "At the Passover in the first month",
+    "At the harvest in the third month",
+    "At the festival in the seventh month",
+    "At the new year in the twelfth month"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All the Israelites came together to the king at the time of the festival in the seventh month."
+}

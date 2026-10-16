@@ -1,0 +1,30 @@
+{
+  "id": "19-104-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 104,
+  "verse_reference": "Psalm 104:17",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 104, which bird has its home in the junipers?",
+  "options": [
+    "The eagle",
+    "The raven",
+    "The stork",
+    "The dove"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The birds make their nests in the trees, and the stork has its home in the junipers."
+}

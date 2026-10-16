@@ -1,0 +1,31 @@
+{
+  "id": "19-115-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 115,
+  "verse_reference": "Psalm 115:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 115, what question do the nations ask about God's people?",
+  "options": [
+    "\"Who is their king?\"",
+    "\"Where is their God?\"",
+    "\"Why are they so rich?\"",
+    "\"When will they leave?\""
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Persecution"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The nations mock God's people by asking, \"Where is their God?\""
+}

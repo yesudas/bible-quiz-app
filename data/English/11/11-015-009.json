@@ -1,0 +1,43 @@
+{
+  "id": "11-015-009",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 15,
+  "verse_reference": "1 Kings 15:18-19",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "To which king in Damascus did Asa send silver and gold, asking him to break his treaty with Baasha?",
+  "options": [
+    "Ben-Hadad king of Aram",
+    "Shishak king of Egypt",
+    "Hiram king of Tyre",
+    "Achish king of Gath"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Money"
+  ],
+  "characters": [
+    "Asa",
+    "Ben-Hadad",
+    "Baasha"
+  ],
+  "places": [
+    {
+      "name": "Damascus",
+      "type": "city"
+    },
+    {
+      "name": "Aram",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asa took the silver and gold left in the temple and palace treasuries and sent them to Ben-Hadad king of Aram, who was ruling in Damascus."
+}

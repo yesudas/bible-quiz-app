@@ -1,0 +1,36 @@
+{
+  "id": "20-024-001",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 24,
+  "verse_reference": "Proverbs 24:3-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 24:3-4, by what is a house built?",
+  "options": [
+    "By wisdom",
+    "By gold",
+    "By strong men",
+    "By many servants"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Family"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 24:3-4 says by wisdom a house is built, through understanding it is established, and through knowledge its rooms are filled with rare and beautiful treasures."
+}

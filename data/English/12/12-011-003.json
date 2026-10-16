@@ -1,0 +1,39 @@
+{
+  "id": "12-011-003",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 11,
+  "verse_reference": "2 Kings 11:2-3",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where was Joash kept hidden for six years?",
+  "options": [
+    "At the temple of the LORD",
+    "In the palace of Samaria",
+    "In a cave near Jericho",
+    "In the land of Edom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Family"
+  ],
+  "characters": [
+    "Joash",
+    "Jehosheba"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joash remained hidden with his nurse at the temple of the LORD for six years while Athaliah ruled the land."
+}

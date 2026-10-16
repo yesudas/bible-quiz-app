@@ -1,0 +1,35 @@
+{
+  "id": "14-027-006",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 27,
+  "verse_reference": "2 Chronicles 27:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How much silver did the Ammonites pay Jotham that year?",
+  "options": [
+    "Ten talents",
+    "One thousand talents",
+    "A hundred talents",
+    "Fifty talents"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Jotham"
+  ],
+  "places": [
+    {
+      "name": "Ammon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "That year the Ammonites paid him a hundred talents of silver, ten thousand cors of wheat and ten thousand cors of barley."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "14-002-011",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 2,
+  "verse_reference": "2 Chronicles 2:13-14",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "What was the name of the skilled man Hiram sent to Solomon?",
+  "options": [
+    "Bezalel",
+    "Oholiab",
+    "Huram-Abi",
+    "Zadok"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Huram-Abi",
+    "Hiram"
+  ],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    },
+    {
+      "name": "Dan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hiram sent Huram-Abi, a man of great skill whose mother was from Dan and whose father was from Tyre."
+}

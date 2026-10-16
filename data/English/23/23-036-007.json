@@ -1,0 +1,36 @@
+{
+  "id": "23-036-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 36,
+  "verse_reference": "Isaiah 36:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the field commander tell the people not to let Hezekiah persuade them to do?",
+  "options": [
+    "Pay taxes",
+    "Trust in the LORD",
+    "Go to Egypt",
+    "Build higher walls"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 36:15 says, 'Do not let Hezekiah persuade you to trust in the LORD when he says, The LORD will surely deliver us.'"
+}

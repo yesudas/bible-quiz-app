@@ -1,0 +1,41 @@
+{
+  "id": "05-009-011",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 9,
+  "verse_reference": "Deuteronomy 9:25-29",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In his prayer, what reason did Moses give the Lord for not destroying Israel?",
+  "options": [
+    "That Israel had become righteous",
+    "That the Lord should remember His servants Abraham, Isaac, and Jacob and His own reputation",
+    "That the nations would help Israel",
+    "That Israel would build a temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Covenant",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Moses",
+    "Abraham",
+    "Isaac",
+    "Jacob"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses pleaded with God to remember His servants Abraham, Isaac, and Jacob, and not let the Egyptians say He was unable to bring Israel into the land."
+}

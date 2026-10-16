@@ -1,0 +1,32 @@
+{
+  "id": "18-036-008",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 36,
+  "verse_reference": "Job 36:27",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Elihu, God draws up drops of water, which then become what?",
+  "options": [
+    "Snow on the mountains",
+    "The sea",
+    "Rain to the streams",
+    "Dew on the grass"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "Elihu"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elihu said God draws up the drops of water, which distill as rain to the streams."
+}

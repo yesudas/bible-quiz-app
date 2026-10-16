@@ -1,0 +1,38 @@
+{
+  "id": "19-011-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 11,
+  "verse_reference": "Psalm 11:4",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 11:4, where is the LORD's throne?",
+  "options": [
+    "In Jerusalem",
+    "On Mount Sinai",
+    "In the tabernacle",
+    "In heaven"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Kingship",
+    "Worship"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "His holy temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 11:4 says, \"The LORD is in his holy temple; the LORD is on his heavenly throne.\""
+}

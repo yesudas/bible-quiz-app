@@ -1,0 +1,35 @@
+{
+  "id": "14-017-013",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 17,
+  "verse_reference": "2 Chronicles 17:17",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How were the men of Benjamin under Eliada armed?",
+  "options": [
+    "With swords and spears",
+    "With bows and shields",
+    "With chariots",
+    "With slings only"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Eliada"
+  ],
+  "places": [
+    {
+      "name": "Benjamin",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "From Benjamin, Eliada, a valiant soldier, commanded 200,000 men armed with bows and shields."
+}

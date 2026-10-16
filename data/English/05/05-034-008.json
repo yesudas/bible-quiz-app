@@ -1,0 +1,38 @@
+{
+  "id": "05-034-008",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 34,
+  "verse_reference": "Deuteronomy 34:11-12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What deeds of Moses does the closing of the book remember?",
+  "options": [
+    "His building of cities in Canaan",
+    "The signs and wonders the Lord sent him to do in Egypt, and his mighty acts before all Israel",
+    "His writing of many songs",
+    "His long journeys to distant nations"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Leadership",
+    "Salvation"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The book closes by remembering the signs and wonders the Lord sent Moses to do in Egypt against Pharaoh and his land, and the mighty, awesome deeds he performed in the sight of all Israel."
+}

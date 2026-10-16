@@ -1,0 +1,33 @@
+{
+  "id": "19-011-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 11,
+  "verse_reference": "Psalm 11:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 11:7, what will the upright see?",
+  "options": [
+    "The promised land",
+    "A great light",
+    "The new temple",
+    "The LORD's face"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 11:7 promises, \"The upright will see his face.\""
+}

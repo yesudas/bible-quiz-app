@@ -1,0 +1,34 @@
+{
+  "id": "19-002-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 2,
+  "verse_reference": "Psalm 2:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"He said to me, 'You are my ____; today I have become your father.'\"",
+  "options": [
+    "servant",
+    "son",
+    "friend",
+    "chosen one"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Kingship",
+    "Promise",
+    "Prophecy"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 2:7 records the LORD's decree: \"You are my son; today I have become your father.\""
+}

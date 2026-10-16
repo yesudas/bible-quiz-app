@@ -1,0 +1,42 @@
+{
+  "id": "11-014-007",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 14,
+  "verse_reference": "1 Kings 14:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Ahijah said the LORD would scatter Israel beyond which river because of their Asherah poles?",
+  "options": [
+    "The Jordan",
+    "The Nile",
+    "The Tigris",
+    "The Euphrates"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Prophecy",
+    "Sin"
+  ],
+  "characters": [
+    "Ahijah"
+  ],
+  "places": [
+    {
+      "name": "Euphrates River",
+      "type": "river"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahijah said the LORD would uproot Israel and scatter them beyond the Euphrates River, because they aroused His anger by making Asherah poles."
+}

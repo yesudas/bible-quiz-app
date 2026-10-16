@@ -1,0 +1,39 @@
+{
+  "id": "15-004-009",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 4,
+  "verse_reference": "Ezra 4:23",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Rehum and Shimshai do after reading the king's reply?",
+  "options": [
+    "They forced the Jews to stop building",
+    "They helped the Jews finish the walls",
+    "They sent gifts to the temple",
+    "They left the land of Judah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution",
+    "Suffering"
+  ],
+  "characters": [
+    "Rehum",
+    "Shimshai"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They went at once to the Jews in Jerusalem and compelled them by force to stop."
+}

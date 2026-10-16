@@ -1,0 +1,31 @@
+{
+  "id": "05-025-001",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 25,
+  "verse_reference": "Deuteronomy 25:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What were judges required to do when deciding a dispute between two people?",
+  "options": [
+    "Favor the wealthier party",
+    "Divide the blame equally",
+    "Acquit the innocent and condemn the guilty",
+    "Send the case to the priests"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Justice",
+    "Law",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Judges were to hear the case and give a fair verdict, acquitting the one who was innocent and condemning the one who was guilty."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "18-012-008",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 12,
+  "verse_reference": "Job 12:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Job say about what God tears down?",
+  "options": [
+    "It will rise again in three days",
+    "It cannot be rebuilt",
+    "It becomes a holy place",
+    "It is given to the poor"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation",
+    "Wisdom"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'What he tears down cannot be rebuilt; those he imprisons cannot be released.'"
+}

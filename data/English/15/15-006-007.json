@@ -1,0 +1,35 @@
+{
+  "id": "15-006-007",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 6,
+  "verse_reference": "Ezra 6:15",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When was the temple completed?",
+  "options": [
+    "In the first year of Cyrus",
+    "In the second year of Darius",
+    "In the seventh year of Artaxerxes",
+    "In the sixth year of Darius"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Darius"
+  ],
+  "places": [
+    {
+      "name": "House of God in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The temple was completed on the third day of the month Adar, in the sixth year of the reign of King Darius."
+}

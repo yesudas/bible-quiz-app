@@ -1,0 +1,32 @@
+{
+  "id": "05-005-005",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 5,
+  "verse_reference": "Deuteronomy 5:12-14",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Which day did the commandment tell Israel to keep holy by resting?",
+  "options": [
+    "The first day",
+    "The feast day",
+    "The Sabbath day",
+    "The new moon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Law",
+    "Rest"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The fourth commandment told Israel to keep the Sabbath day holy, working six days and resting on the seventh."
+}

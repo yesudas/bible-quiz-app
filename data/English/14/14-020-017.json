@@ -1,0 +1,39 @@
+{
+  "id": "14-020-017",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 20,
+  "verse_reference": "2 Chronicles 20:35-37",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why were the trading ships Jehoshaphat built at Ezion Geber wrecked?",
+  "options": [
+    "A great storm came by chance",
+    "He made an alliance with wicked King Ahaziah",
+    "The sailors were not trained",
+    "Egypt attacked the port"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jehoshaphat",
+    "Ahaziah",
+    "Eliezer"
+  ],
+  "places": [
+    {
+      "name": "Ezion Geber",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eliezer prophesied that because Jehoshaphat had made an alliance with Ahaziah, the LORD would destroy what he had made, and the ships were wrecked."
+}

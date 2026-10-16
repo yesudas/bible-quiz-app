@@ -1,0 +1,37 @@
+{
+  "id": "14-012-008",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 12,
+  "verse_reference": "2 Chronicles 12:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did God allow Judah to become subject to Shishak?",
+  "options": [
+    "So they would learn the difference between serving God and serving other kings",
+    "So Egypt would become rich",
+    "So Rehoboam would lose his throne",
+    "So the temple would be rebuilt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Obedience"
+  ],
+  "characters": [
+    "Shishak"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said they would become subject to Shishak so that they might learn the difference between serving Him and serving the kings of other lands."
+}

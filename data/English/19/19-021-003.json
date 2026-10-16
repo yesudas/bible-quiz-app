@@ -1,0 +1,32 @@
+{
+  "id": "19-021-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 21,
+  "verse_reference": "Psalm 21:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 21:4, what did the king ask the LORD for?",
+  "options": [
+    "Wisdom",
+    "Riches",
+    "Life",
+    "Victory"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Blessing"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 21:4 says, \"He asked you for life, and you gave it to him \u2014 length of days, for ever and ever.\""
+}

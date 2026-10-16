@@ -1,0 +1,36 @@
+{
+  "id": "07-001-004",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 1,
+  "verse_reference": "Judges 1:5-6",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "After the men of Judah caught Adoni-Bezek, what did they cut off?",
+  "options": [
+    "His hair",
+    "His right hand",
+    "His ears",
+    "His thumbs and big toes"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Adoni-Bezek"
+  ],
+  "places": [
+    {
+      "name": "Bezek",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Adoni-Bezek fled from the battle at Bezek, but Judah chased and caught him and cut off his thumbs and big toes."
+}

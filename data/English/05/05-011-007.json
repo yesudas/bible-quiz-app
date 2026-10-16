@@ -1,0 +1,39 @@
+{
+  "id": "05-011-007",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 11,
+  "verse_reference": "Deuteronomy 11:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God promise about the land Israel would possess?",
+  "options": [
+    "Only the coastal plain would be theirs",
+    "They would share the land with Egypt",
+    "They could keep only what they bought",
+    "Every place where they set their foot would be theirs, reaching to the great river Euphrates"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Euphrates",
+      "type": "river"
+    },
+    {
+      "name": "Lebanon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised that every place they set their foot would be theirs, with territory reaching from the wilderness to Lebanon and from the Euphrates to the Mediterranean Sea."
+}

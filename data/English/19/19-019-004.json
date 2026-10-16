@@ -1,0 +1,33 @@
+{
+  "id": "19-019-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 19,
+  "verse_reference": "Psalm 19:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"The law of the LORD is perfect, refreshing the ____.\"",
+  "options": [
+    "heart",
+    "mind",
+    "body",
+    "soul"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Wisdom"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 19:7 says, \"The law of the LORD is perfect, refreshing the soul.\""
+}

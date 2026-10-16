@@ -1,0 +1,44 @@
+{
+  "id": "16-003-007",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 3,
+  "verse_reference": "Nehemiah 3:15",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Near which pool did Shallun repair the wall, by the King's Garden?",
+  "options": [
+    "The Pool of Bethesda",
+    "The King's Pool of Gibeon",
+    "The Pool of Siloam",
+    "The Pool of Heshbon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Shallun"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Pool of Siloam",
+      "type": "pool"
+    },
+    {
+      "name": "King's Garden",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Shallun repaired the Fountain Gate and also the wall of the Pool of Siloam, by the King's Garden."
+}

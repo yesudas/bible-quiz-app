@@ -1,0 +1,32 @@
+{
+  "id": "11-008-010",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 8,
+  "verse_reference": "1 Kings 8:30",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Solomon ask God to do when He heard prayers from heaven, His dwelling place?",
+  "options": [
+    "Forgive",
+    "Send fire",
+    "Send rain every day",
+    "Make them rich"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Forgiveness",
+    "Prayer"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon asked God to hear from heaven, His dwelling place, and when He heard, to forgive."
+}

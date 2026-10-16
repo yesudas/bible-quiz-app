@@ -1,0 +1,34 @@
+{
+  "id": "19-068-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 68,
+  "verse_reference": "Psalm 68:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Praise be to the Lord, to God our Savior, who daily bears our ____.\"",
+  "options": [
+    "sins",
+    "burdens",
+    "names",
+    "prayers"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Hope",
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David praises God our Savior, who carries our burdens every day."
+}

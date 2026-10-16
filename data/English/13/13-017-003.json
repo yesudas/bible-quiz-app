@@ -1,0 +1,32 @@
+{
+  "id": "13-017-003",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 17,
+  "verse_reference": "1 Chronicles 17:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Nathan first tell David about his plan?",
+  "options": [
+    "\"Wait until you ask the priests.\"",
+    "\"The LORD is angry with you.\"",
+    "\"Your son will do it.\"",
+    "\"Whatever you have in mind, do it, for God is with you.\""
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Nathan",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At first Nathan said, \"Whatever you have in mind, do it, for God is with you.\""
+}

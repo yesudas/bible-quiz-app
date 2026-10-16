@@ -1,0 +1,42 @@
+{
+  "id": "10-002-016",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 2,
+  "verse_reference": "2 Samuel 2:32",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where was Asahel buried?",
+  "options": [
+    "In Hebron",
+    "In Gibeon",
+    "In his father's tomb at Bethlehem",
+    "In the cave of Adullam"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Suffering"
+  ],
+  "characters": [
+    "Asahel"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    },
+    {
+      "name": "Asahel's father's tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They took Asahel and buried him in his father's tomb at Bethlehem."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "07-008-015",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 8,
+  "verse_reference": "Judges 8:27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened because of the ephod Gideon placed in Ophrah?",
+  "options": [
+    "The Midianites captured it",
+    "It was placed inside the ark",
+    "Israel worshiped it, and it became a snare to Gideon and his family",
+    "It was used to choose Israel's first king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Temptation",
+    "Worship"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [
+    {
+      "name": "Ophrah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All Israel prostituted themselves by worshiping the ephod there, and it became a snare to Gideon and his family."
+}

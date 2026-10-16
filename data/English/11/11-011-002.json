@@ -1,0 +1,33 @@
+{
+  "id": "11-011-002",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 11,
+  "verse_reference": "1 Kings 11:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does the Bible say Solomon's many wives did to him?",
+  "options": [
+    "They helped him build the temple",
+    "They made him wiser",
+    "They led him astray",
+    "They taught him to pray"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Marriage",
+    "Sin",
+    "Temptation"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon had seven hundred wives of royal birth and three hundred concubines, and his wives led him astray."
+}

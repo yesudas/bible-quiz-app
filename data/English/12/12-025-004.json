@@ -1,0 +1,41 @@
+{
+  "id": "12-025-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 25,
+  "verse_reference": "2 Kings 25:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the king of Babylon do to Zedekiah at Riblah?",
+  "options": [
+    "He made him governor of Judah",
+    "He put out his eyes, bound him in bronze shackles and took him to Babylon",
+    "He set him free",
+    "He made him a servant in his palace"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [
+    "Zedekiah",
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Riblah",
+      "type": "town"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At Riblah they killed Zedekiah's sons before his eyes, then put out his eyes, bound him in bronze shackles and took him to Babylon."
+}

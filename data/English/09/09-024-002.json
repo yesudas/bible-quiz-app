@@ -1,0 +1,38 @@
+{
+  "id": "09-024-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 24,
+  "verse_reference": "1 Samuel 24:3",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where were David and his men hiding when Saul came in?",
+  "options": [
+    "Far back in a cave",
+    "Behind a large rock",
+    "In a forest",
+    "In a sheep pen"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "David",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Cave near the sheep pens",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul came to the sheep pens along the way, where there was a cave, and went in. David and his men were far back in the cave."
+}

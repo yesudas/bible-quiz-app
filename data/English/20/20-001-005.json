@@ -1,0 +1,31 @@
+{
+  "id": "20-001-005",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 1,
+  "verse_reference": "Proverbs 1:8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Proverbs 1:8, the son is told not to forsake whose teaching?",
+  "options": [
+    "His brother's",
+    "His king's",
+    "His friend's",
+    "His mother's"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 1:8 tells the son to listen to his father's instruction and not forsake his mother's teaching."
+}

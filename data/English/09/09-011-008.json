@@ -1,0 +1,36 @@
+{
+  "id": "09-011-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 11,
+  "verse_reference": "1 Samuel 11:11",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When did Saul's army break into the Ammonite camp?",
+  "options": [
+    "At noon",
+    "At sunset",
+    "During the last watch of the night",
+    "After seven days of siege"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Jabesh Gilead",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul separated his men into three divisions, and during the last watch of the night they broke into the camp of the Ammonites."
+}

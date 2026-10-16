@@ -1,0 +1,42 @@
+{
+  "id": "12-007-013",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 7,
+  "verse_reference": "2 Kings 7:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "After the people plundered the camp, how was Elisha's prophecy fulfilled?",
+  "options": [
+    "The king of Aram was captured",
+    "The officer became rich",
+    "Flour and barley sold for a shekel, as the LORD had said",
+    "The lepers were healed"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Promise"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Aramean camp",
+      "type": "camp"
+    },
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people plundered the camp, and flour and barley sold for a shekel, just as the LORD had said."
+}

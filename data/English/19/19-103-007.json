@@ -1,0 +1,34 @@
+{
+  "id": "19-103-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 103,
+  "verse_reference": "Psalm 103:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does Psalm 103 say about how God treats us?",
+  "options": [
+    "He gives us exactly what our sins deserve",
+    "He does not treat us as our sins deserve",
+    "He only helps those who never sin",
+    "He forgets about people who sin"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Forgiveness",
+    "Love",
+    "Sin"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God does not treat us as our sins deserve or repay us for our wrongs, because of His great mercy."
+}

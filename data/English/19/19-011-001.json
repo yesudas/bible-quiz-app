@@ -1,0 +1,33 @@
+{
+  "id": "19-011-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 11,
+  "verse_reference": "Psalm 11:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 11:1, people told David to flee to his mountain like what?",
+  "options": [
+    "A deer",
+    "A bird",
+    "A lion",
+    "A sheep"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Courage"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 11:1 says, \"In the LORD I take refuge. How then can you say to me: 'Flee like a bird to your mountain.'\""
+}

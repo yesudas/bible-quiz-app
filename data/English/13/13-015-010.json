@@ -1,0 +1,31 @@
+{
+  "id": "13-015-010",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 15,
+  "verse_reference": "1 Chronicles 15:27",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was David wearing as the ark was brought up?",
+  "options": [
+    "His royal crown and armor",
+    "A robe of fine linen and a linen ephod",
+    "Sackcloth and ashes",
+    "A coat of many colors"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David was clothed in a robe of fine linen and wore a linen ephod."
+}

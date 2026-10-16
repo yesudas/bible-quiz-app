@@ -1,0 +1,31 @@
+{
+  "id": "06-013-006",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 13,
+  "verse_reference": "Joshua 13:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Which tribe received no land as its inheritance?",
+  "options": [
+    "Judah",
+    "Levi",
+    "Reuben",
+    "Dan"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The tribe of Levi was given no land, because the food offerings presented to the LORD were their inheritance."
+}

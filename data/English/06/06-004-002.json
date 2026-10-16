@@ -1,0 +1,37 @@
+{
+  "id": "06-004-002",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 4,
+  "verse_reference": "Joshua 4:3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where in the river were the stones taken from?",
+  "options": [
+    "From the riverbank near Jericho",
+    "From the place where the priests stood",
+    "From the town of Adam",
+    "From the fords near Shittim"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Remembrance"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The stones were taken from the middle of the Jordan, right where the priests had stood firm."
+}

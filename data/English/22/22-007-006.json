@@ -1,0 +1,35 @@
+{
+  "id": "22-007-006",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 7,
+  "verse_reference": "Song of Songs 7:11-12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does the woman invite her beloved to do in this chapter?",
+  "options": [
+    "Go to the countryside and see if the vines have budded",
+    "Go up to Jerusalem to meet the king",
+    "Hide in the clefts of the rock",
+    "Gather the flocks at the shepherds' tents"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Creation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Countryside",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Song of Songs 7:11-12 she invites him to go to the countryside and see if the vines have budded and the pomegranates are in bloom."
+}

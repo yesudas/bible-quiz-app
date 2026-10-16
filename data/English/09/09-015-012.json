@@ -1,0 +1,34 @@
+{
+  "id": "09-015-012",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 15,
+  "verse_reference": "1 Samuel 15:27-28",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened when Saul caught hold of Samuel's robe?",
+  "options": [
+    "Samuel fell down",
+    "Saul was healed",
+    "The robe turned white",
+    "The robe tore"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Saul",
+    "Samuel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul caught hold of the hem of Samuel's robe, and it tore. Samuel said the LORD had torn the kingdom of Israel from Saul that day."
+}

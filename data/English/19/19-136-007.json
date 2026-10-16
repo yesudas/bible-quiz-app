@@ -1,0 +1,36 @@
+{
+  "id": "19-136-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 136,
+  "verse_reference": "Psalm 136:16",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Through where did God lead His people, according to Psalm 136?",
+  "options": [
+    "The wilderness",
+    "The sea of Galilee",
+    "The city of Babylon",
+    "The valley of Elah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Provision"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God led His people through the wilderness, for His love endures forever."
+}

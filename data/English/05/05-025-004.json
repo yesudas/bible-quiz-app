@@ -1,0 +1,31 @@
+{
+  "id": "05-025-004",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 25,
+  "verse_reference": "Deuteronomy 25:5-6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "If a man died without a son, what was his brother expected to do?",
+  "options": [
+    "Take all the property for himself",
+    "Send the widow back to her father",
+    "Divide the land among the other brothers",
+    "Marry the widow, so her first son would carry on the dead brother's name"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Marriage",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The brother-in-law was to marry the widow, and the first son she bore would carry on the dead brother's name so it would not be blotted out from Israel."
+}

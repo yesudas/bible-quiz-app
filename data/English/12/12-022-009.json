@@ -1,0 +1,32 @@
+{
+  "id": "12-022-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 22,
+  "verse_reference": "2 Kings 22:10",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who read the Book of the Law to King Josiah?",
+  "options": [
+    "Hilkiah the high priest",
+    "Shaphan the secretary",
+    "Huldah",
+    "Ahikam"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Shaphan",
+    "Josiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Shaphan the secretary told the king about the book and read from it in the king's presence."
+}

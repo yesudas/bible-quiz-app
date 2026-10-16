@@ -1,0 +1,29 @@
+{
+  "id": "23-002-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 2,
+  "verse_reference": "Isaiah 2:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "The people practiced divination like which group?",
+  "options": [
+    "The Egyptians",
+    "The Babylonians",
+    "The Philistines",
+    "The Moabites"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 2:6 says they were full of superstitions from the East and practiced divination like the Philistines."
+}

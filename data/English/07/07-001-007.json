@@ -1,0 +1,34 @@
+{
+  "id": "07-001-007",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 1,
+  "verse_reference": "Judges 1:10",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which city was formerly called Kiriath Arba?",
+  "options": [
+    "Debir",
+    "Bethel",
+    "Hebron",
+    "Hormah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promised Land"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebron was formerly called Kiriath Arba. Judah attacked the Canaanites living there and defeated Sheshai, Ahiman and Talmai."
+}

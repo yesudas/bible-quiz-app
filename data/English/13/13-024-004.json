@@ -1,0 +1,31 @@
+{
+  "id": "13-024-004",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 24,
+  "verse_reference": "1 Chronicles 24:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How were the priests divided fairly into their divisions?",
+  "options": [
+    "By age",
+    "By casting lots",
+    "By the king's choice",
+    "By their wealth"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Justice",
+    "Priesthood"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They divided them impartially by casting lots, for there were officials of the sanctuary from both Eleazar and Ithamar."
+}

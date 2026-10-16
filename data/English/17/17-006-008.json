@@ -1,0 +1,40 @@
+{
+  "id": "17-006-008",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 6,
+  "verse_reference": "Esther 6:10",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who did the king order Haman to honor in the way Haman had suggested?",
+  "options": [
+    "Hegai",
+    "Mordecai",
+    "Hathak",
+    "Esther"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Providence",
+    "Pride"
+  ],
+  "characters": [
+    "Xerxes",
+    "Haman",
+    "Mordecai"
+  ],
+  "places": [
+    {
+      "name": "King's gate",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king told Haman to do just as he had suggested for Mordecai the Jew, who sat at the king's gate."
+}

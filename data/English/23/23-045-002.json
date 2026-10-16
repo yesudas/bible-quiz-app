@@ -1,0 +1,31 @@
+{
+  "id": "23-045-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 45,
+  "verse_reference": "Isaiah 45:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God promise to give Cyrus in Isaiah 45:3?",
+  "options": [
+    "The treasures of darkness and riches stored in secret places",
+    "A crown of gold from Jerusalem",
+    "The daughter of Pharaoh as his wife",
+    "The ark of the covenant"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Promise"
+  ],
+  "characters": [
+    "Cyrus"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 45:3 says, 'I will give you hidden treasures, riches stored in secret places, so that you may know that I am the LORD.'"
+}

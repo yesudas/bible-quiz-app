@@ -1,0 +1,33 @@
+{
+  "id": "07-008-012",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 8,
+  "verse_reference": "Judges 8:23",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete what Gideon said: \"I will not rule over you, nor will my son rule over you. The ___ will rule over you.\"",
+  "options": [
+    "LORD",
+    "elders",
+    "priests",
+    "judges"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon refused to be king and said the LORD would rule over Israel."
+}

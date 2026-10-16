@@ -1,0 +1,33 @@
+{
+  "id": "19-077-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 77,
+  "verse_reference": "Psalm 77:2",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "According to Psalm 77:2, what did Asaph do when he was in distress?",
+  "options": [
+    "He ran away",
+    "He sought the Lord",
+    "He blamed his friends",
+    "He went to war"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Suffering"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph says, \"When I was in distress, I sought the Lord.\""
+}

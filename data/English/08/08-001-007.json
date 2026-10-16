@@ -1,0 +1,42 @@
+{
+  "id": "08-001-007",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 1,
+  "verse_reference": "Ruth 1:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did Naomi decide to go back home from Moab?",
+  "options": [
+    "Her sons asked her to go",
+    "She heard the Lord had given His people food",
+    "An angel appeared to her",
+    "The king of Moab sent her away"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [
+    "Naomi"
+  ],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While in Moab, Naomi heard that the Lord had come to help His people by giving them food, so she prepared to return."
+}

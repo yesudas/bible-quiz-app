@@ -1,0 +1,30 @@
+{
+  "id": "23-043-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 43,
+  "verse_reference": "Isaiah 43:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'I, even I, am the LORD, and apart from me there is no ______.'",
+  "options": [
+    "king",
+    "judge",
+    "light",
+    "savior"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 43:11 says, 'I, even I, am the LORD, and apart from me there is no savior.'"
+}

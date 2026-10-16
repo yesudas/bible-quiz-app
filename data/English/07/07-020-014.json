@@ -1,0 +1,34 @@
+{
+  "id": "07-020-014",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 20,
+  "verse_reference": "Judges 20:38-40",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the signal for the ambush at Gibeah?",
+  "options": [
+    "A loud trumpet blast",
+    "A great cloud of smoke rising from the city",
+    "Arrows shot with fire",
+    "A flag raised on the hill"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gibeah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites had arranged that the ambush would send up a great cloud of smoke from the city as a signal."
+}

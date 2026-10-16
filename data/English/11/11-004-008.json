@@ -1,0 +1,42 @@
+{
+  "id": "11-004-008",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 4,
+  "verse_reference": "1 Kings 4:25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "During Solomon's lifetime, from Dan to Beersheba, where did each man live in safety?",
+  "options": [
+    "Under their own vine and under their own fig tree",
+    "Inside a walled city",
+    "In the king's palace",
+    "In tents in the desert"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Dan",
+      "type": "city"
+    },
+    {
+      "name": "Beersheba",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "During Solomon's lifetime Judah and Israel lived in safety, everyone under their own vine and fig tree, from Dan to Beersheba."
+}

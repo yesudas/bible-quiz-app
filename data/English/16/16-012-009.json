@@ -1,0 +1,34 @@
+{
+  "id": "16-012-009",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 12,
+  "verse_reference": "Nehemiah 12:44",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "At that time, what were some men put in charge of?",
+  "options": [
+    "The city gates",
+    "The storerooms for contributions, firstfruits and tithes",
+    "The king's army",
+    "The building of new houses"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House of God",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Men were appointed to be in charge of the storerooms for the contributions, firstfruits and tithes for the priests and Levites."
+}

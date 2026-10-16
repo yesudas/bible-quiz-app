@@ -1,0 +1,36 @@
+{
+  "id": "12-020-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 20,
+  "verse_reference": "2 Kings 20:12",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which king of Babylon sent letters and a gift to Hezekiah when he was ill?",
+  "options": [
+    "Nebuchadnezzar",
+    "Sennacherib",
+    "Evil-Merodak",
+    "Marduk-Baladan"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Marduk-Baladan",
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Marduk-Baladan son of Baladan king of Babylon sent Hezekiah letters and a gift, because he had heard of his illness."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14-004-007",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 4,
+  "verse_reference": "2 Chronicles 4:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were the ten basins used for?",
+  "options": [
+    "Washing the priests' clothes",
+    "Holding the incense",
+    "Rinsing the things used for burnt offerings",
+    "Storing the bread of the Presence"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon made ten basins for washing, where the things used for the burnt offerings were rinsed."
+}

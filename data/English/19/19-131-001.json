@@ -1,0 +1,32 @@
+{
+  "id": "19-131-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 131,
+  "verse_reference": "Psalm 131:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did David describe his heart in Psalm 131?",
+  "options": [
+    "His heart was afraid",
+    "His heart was not proud",
+    "His heart was broken",
+    "His heart was angry"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Humility"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said, \"My heart is not proud, LORD, my eyes are not haughty; I do not concern myself with great matters or things too wonderful for me.\""
+}

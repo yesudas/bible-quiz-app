@@ -1,0 +1,38 @@
+{
+  "id": "12-022-007",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 22,
+  "verse_reference": "2 Kings 22:8",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who found the Book of the Law in the temple?",
+  "options": [
+    "Shaphan the secretary",
+    "King Josiah",
+    "Huldah the prophet",
+    "Hilkiah the high priest"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Worship"
+  ],
+  "characters": [
+    "Hilkiah"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hilkiah the high priest said to Shaphan, 'I have found the Book of the Law in the temple of the LORD.'"
+}

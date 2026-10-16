@@ -1,0 +1,31 @@
+{
+  "id": "16-013-001",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 13,
+  "verse_reference": "Nehemiah 13:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When the Book of Moses was read, what did the people find written about Ammonites and Moabites?",
+  "options": [
+    "They were to be given land",
+    "They were never to be admitted into the assembly of God",
+    "They were to serve as gatekeepers",
+    "They could offer sacrifices"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They found written that no Ammonite or Moabite should ever be admitted into the assembly of God."
+}

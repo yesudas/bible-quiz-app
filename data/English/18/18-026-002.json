@@ -1,0 +1,36 @@
+{
+  "id": "18-026-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 26,
+  "verse_reference": "Job 26:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Job say about the realm of the dead in Job 26:6?",
+  "options": [
+    "It is hidden from God",
+    "It is ruled by Satan",
+    "It is far beyond God's reach",
+    "It is naked before God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [
+    {
+      "name": "Realm of the dead",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'The realm of the dead is naked before God; Destruction lies uncovered.' Nothing is hidden from Him."
+}

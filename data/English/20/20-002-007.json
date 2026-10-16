@@ -1,0 +1,36 @@
+{
+  "id": "20-002-007",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 2,
+  "verse_reference": "Proverbs 2:18-19",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 2:18, where does the house of the adulterous woman lead?",
+  "options": [
+    "To a feast",
+    "To the king's palace",
+    "To a safe place",
+    "Down to death"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Temptation",
+    "Marriage"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House of the adulterous woman",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 2:18 warns that her house leads down to death, and none who go to her return."
+}

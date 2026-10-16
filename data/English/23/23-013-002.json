@@ -1,0 +1,30 @@
+{
+  "id": "23-013-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 13,
+  "verse_reference": "Isaiah 13:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'Wail, for the day of the ______ is near; it will come like destruction from the Almighty.'",
+  "options": [
+    "LORD",
+    "harvest",
+    "battle",
+    "king"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 13:6 says, 'Wail, for the day of the LORD is near; it will come like destruction from the Almighty.'"
+}

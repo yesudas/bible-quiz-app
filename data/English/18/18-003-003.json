@@ -1,0 +1,31 @@
+{
+  "id": "18-003-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 3,
+  "verse_reference": "Job 3:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In Job 3, what did Job wish had happened to him?",
+  "options": [
+    "That he had been born a king",
+    "That he had lived in another land",
+    "That he had never had children",
+    "That he had died at birth"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job asked, 'Why did I not perish at birth, and die as I came from the womb?'"
+}

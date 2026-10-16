@@ -1,0 +1,38 @@
+{
+  "id": "19-101-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 101,
+  "verse_reference": "Psalm 101:8",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When did David say he would put to silence all the wicked in the land?",
+  "options": [
+    "Every evening",
+    "On the Sabbath",
+    "Every morning",
+    "At every feast"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Justice",
+    "Leadership",
+    "Sin"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "City of the LORD",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said every morning he would put to silence all the wicked in the land and cut off every evildoer from the city of the LORD."
+}

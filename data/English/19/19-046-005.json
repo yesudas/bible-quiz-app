@@ -1,0 +1,32 @@
+{
+  "id": "19-046-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 46,
+  "verse_reference": "Psalm 46:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 46:6, what happens when God lifts his voice?",
+  "options": [
+    "The earth melts",
+    "The rain falls",
+    "The sun stands still",
+    "The sea divides"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingship",
+    "Judgment"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 46:6 says, \"Nations are in uproar, kingdoms fall; he lifts his voice, the earth melts.\""
+}

@@ -1,0 +1,44 @@
+{
+  "id": "07-013-016",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 13,
+  "verse_reference": "Judges 13:25",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the Spirit of the LORD begin to stir Samson?",
+  "options": [
+    "In Mizpah",
+    "In Shiloh",
+    "In Mahaneh Dan, between Zorah and Eshtaol",
+    "In Timnah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [
+    {
+      "name": "Mahaneh Dan",
+      "type": "place"
+    },
+    {
+      "name": "Zorah",
+      "type": "town"
+    },
+    {
+      "name": "Eshtaol",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Spirit of the LORD began to stir Samson while he was in Mahaneh Dan, between Zorah and Eshtaol."
+}

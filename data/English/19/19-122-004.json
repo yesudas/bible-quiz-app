@@ -1,0 +1,38 @@
+{
+  "id": "19-122-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 122,
+  "verse_reference": "Psalm 122:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why do the tribes go up to Jerusalem, according to Psalm 122?",
+  "options": [
+    "To trade goods",
+    "To fight their enemies",
+    "To choose a king",
+    "To praise the name of the LORD"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The tribes of the LORD go up to Jerusalem to praise His name, according to the statute given to Israel."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "15-004-006",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 4,
+  "verse_reference": "Ezra 4:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In what language was the letter to King Artaxerxes written?",
+  "options": [
+    "Hebrew",
+    "Greek",
+    "Aramaic",
+    "Egyptian"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Artaxerxes"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The letter was written in Aramaic script and in the Aramaic language."
+}

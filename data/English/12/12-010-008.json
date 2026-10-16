@@ -1,0 +1,36 @@
+{
+  "id": "12-010-008",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 10,
+  "verse_reference": "2 Kings 10:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How full was the temple of Baal when Baal's servants came?",
+  "options": [
+    "Only half full",
+    "Only the priests came",
+    "Full from one end to the other",
+    "It was empty"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Idolatry"
+  ],
+  "characters": [
+    "Jehu"
+  ],
+  "places": [
+    {
+      "name": "Temple of Baal",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All the servants of Baal came, and they crowded into the temple of Baal until it was full from one end to the other."
+}

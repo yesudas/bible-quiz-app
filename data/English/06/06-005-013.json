@@ -1,0 +1,37 @@
+{
+  "id": "06-005-013",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 5,
+  "verse_reference": "Joshua 5:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Joshua do when he learned who the man with the sword was?",
+  "options": [
+    "He ran back to the camp",
+    "He fell facedown to the ground in reverence",
+    "He challenged him to fight",
+    "He called the priests"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Holiness"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua fell facedown to the ground in reverence and asked what message the commander had for him."
+}

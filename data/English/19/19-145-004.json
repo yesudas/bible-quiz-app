@@ -1,0 +1,32 @@
+{
+  "id": "19-145-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 145,
+  "verse_reference": "Psalm 145:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Psalm 145:9, to whom is the LORD good?",
+  "options": [
+    "Only to Israel",
+    "Only to kings",
+    "Only to the righteous",
+    "To all"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"The LORD is good to all; he has compassion on all he has made.\""
+}

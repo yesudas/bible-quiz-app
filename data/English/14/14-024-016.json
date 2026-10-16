@@ -1,0 +1,35 @@
+{
+  "id": "14-024-016",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 24,
+  "verse_reference": "2 Chronicles 24:25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Joash's officials conspire against him and kill him?",
+  "options": [
+    "He had lost the war",
+    "He raised the taxes",
+    "He had married a foreign wife",
+    "He had murdered the son of Jehoiada the priest"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Joash"
+  ],
+  "places": [
+    {
+      "name": "City of David",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "His officials conspired against him for murdering the son of Jehoiada, and they killed him in his bed."
+}

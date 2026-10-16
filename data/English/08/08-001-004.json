@@ -1,0 +1,38 @@
+{
+  "id": "08-001-004",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 1,
+  "verse_reference": "Ruth 1:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "What were the names of Naomi's two sons?",
+  "options": [
+    "Mahlon and Kilion",
+    "Perez and Zerah",
+    "Hophni and Phinehas",
+    "Nadab and Abihu"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Naomi",
+    "Mahlon",
+    "Kilion"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Naomi and Elimelek had two sons named Mahlon and Kilion. They were Ephrathites from Bethlehem."
+}

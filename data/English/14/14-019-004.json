@@ -1,0 +1,41 @@
+{
+  "id": "14-019-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 19,
+  "verse_reference": "2 Chronicles 19:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jehoshaphat do as he went out among the people from Beersheba to the hill country of Ephraim?",
+  "options": [
+    "He collected taxes",
+    "He counted his soldiers",
+    "He built altars",
+    "He turned them back to the LORD"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Repentance",
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoshaphat"
+  ],
+  "places": [
+    {
+      "name": "Beersheba",
+      "type": "town"
+    },
+    {
+      "name": "Hill country of Ephraim",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoshaphat went out again among the people from Beersheba to the hill country of Ephraim and turned them back to the LORD."
+}

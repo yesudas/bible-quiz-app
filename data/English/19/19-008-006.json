@@ -1,0 +1,32 @@
+{
+  "id": "19-008-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 8,
+  "verse_reference": "Psalm 8:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"...and crowned them with glory and ____.\"",
+  "options": [
+    "power",
+    "wisdom",
+    "honor",
+    "riches"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 8:5 says God crowned human beings with glory and honor."
+}

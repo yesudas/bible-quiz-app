@@ -1,0 +1,36 @@
+{
+  "id": "11-006-008",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 6,
+  "verse_reference": "1 Kings 6:15,18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What kind of wood lined the inside walls of the temple, so that no stone could be seen?",
+  "options": [
+    "Oak",
+    "Acacia",
+    "Olive",
+    "Cedar"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon lined the interior walls with cedar boards; everything inside was cedar and no stone was to be seen."
+}

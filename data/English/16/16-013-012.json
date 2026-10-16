@@ -1,0 +1,41 @@
+{
+  "id": "16-013-012",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 13,
+  "verse_reference": "Nehemiah 13:23-24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What problem did Nehemiah find among the children of men who had married women from Ashdod, Ammon and Moab?",
+  "options": [
+    "They would not work",
+    "They did not go to the temple",
+    "They had no names",
+    "Half of them could not speak the language of Judah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Marriage"
+  ],
+  "characters": [
+    "Nehemiah"
+  ],
+  "places": [
+    {
+      "name": "Ashdod",
+      "type": "city"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Half of their children spoke the language of Ashdod or of the other peoples and did not know how to speak the language of Judah."
+}

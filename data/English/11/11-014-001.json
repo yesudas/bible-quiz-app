@@ -1,0 +1,33 @@
+{
+  "id": "11-014-001",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 14,
+  "verse_reference": "1 Kings 14:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which son of Jeroboam became ill?",
+  "options": [
+    "Nadab",
+    "Abijah",
+    "Rehoboam",
+    "Josiah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Suffering"
+  ],
+  "characters": [
+    "Jeroboam",
+    "Abijah son of Jeroboam"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At that time Abijah son of Jeroboam became ill."
+}

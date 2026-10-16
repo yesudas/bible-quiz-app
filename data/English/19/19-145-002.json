@@ -1,0 +1,32 @@
+{
+  "id": "19-145-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 145,
+  "verse_reference": "Psalm 145:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does Psalm 145:3 say about the LORD's greatness?",
+  "options": [
+    "It can be measured",
+    "No one can fathom it",
+    "Only kings understand it",
+    "It is seen only in the temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Great is the LORD and most worthy of praise; his greatness no one can fathom.\""
+}

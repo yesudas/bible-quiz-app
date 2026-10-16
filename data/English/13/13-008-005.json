@@ -1,0 +1,33 @@
+{
+  "id": "13-008-005",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 8,
+  "verse_reference": "1 Chronicles 8:33",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "Which order is correct, from grandfather to grandson?",
+  "options": [
+    "Ner, Kish, Saul",
+    "Kish, Ner, Saul",
+    "Saul, Kish, Ner",
+    "Kish, Saul, Ner"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Ner",
+    "Kish",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ner was the father of Kish, and Kish was the father of Saul."
+}

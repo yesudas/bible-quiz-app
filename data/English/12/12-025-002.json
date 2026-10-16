@@ -1,0 +1,34 @@
+{
+  "id": "12-025-002",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 25,
+  "verse_reference": "2 Kings 25:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What had become so severe in Jerusalem by the end of the siege?",
+  "options": [
+    "The heat",
+    "The flooding",
+    "The plague of frogs",
+    "The famine"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "By the ninth day of the fourth month the famine in the city had become so severe that there was no food for the people."
+}

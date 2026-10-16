@@ -1,0 +1,39 @@
+{
+  "id": "07-018-002",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 18,
+  "verse_reference": "Judges 18:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How many warriors did the Danites send from Zorah and Eshtaol to spy out the land?",
+  "options": [
+    "Five",
+    "Twelve",
+    "Three hundred",
+    "Two"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zorah",
+      "type": "town"
+    },
+    {
+      "name": "Eshtaol",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Danites sent five warriors from Zorah and Eshtaol to spy out the land and explore it."
+}

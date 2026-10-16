@@ -1,0 +1,38 @@
+{
+  "id": "17-002-013",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 2,
+  "verse_reference": "Esther 2:21",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two officers who guarded the king's doorway plotted to kill King Xerxes?",
+  "options": [
+    "Haman and Hegai",
+    "Mehuman and Biztha",
+    "Carshena and Shethar",
+    "Bigthana and Teresh"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Bigthana",
+    "Teresh",
+    "Xerxes"
+  ],
+  "places": [
+    {
+      "name": "King's gate",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Bigthana and Teresh, two royal officers who guarded the doorway, became angry and conspired to assassinate King Xerxes."
+}

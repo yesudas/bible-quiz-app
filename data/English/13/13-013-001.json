@@ -1,0 +1,32 @@
+{
+  "id": "13-013-001",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 13,
+  "verse_reference": "1 Chronicles 13:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did David want to bring the ark of God back?",
+  "options": [
+    "Because the Philistines wanted it",
+    "Because they had not inquired of it during Saul's reign",
+    "Because the ark was damaged",
+    "Because Samuel commanded it"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said, \"Let us bring the ark of our God back to us, for we did not inquire of it during the reign of Saul.\""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15-001-006",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 1,
+  "verse_reference": "Ezra 1:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "The family heads of which two tribes prepared to go up and build the house of the LORD?",
+  "options": [
+    "Ephraim and Manasseh",
+    "Reuben and Gad",
+    "Judah and Benjamin",
+    "Dan and Asher"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The family heads of Judah and Benjamin, with the priests and Levites, prepared to go up to Jerusalem to build the house of the LORD."
+}

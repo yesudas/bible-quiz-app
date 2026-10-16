@@ -1,0 +1,34 @@
+{
+  "id": "19-025-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 25,
+  "verse_reference": "Psalm 25:5",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "According to Psalm 25:5, when is David's hope in God?",
+  "options": [
+    "Only in the morning",
+    "Only in times of war",
+    "All day long",
+    "Only on the Sabbath"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Faith"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 25:5 says, \"For you are God my Savior, and my hope is in you all day long.\""
+}

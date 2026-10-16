@@ -1,0 +1,37 @@
+{
+  "id": "11-016-004",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 16,
+  "verse_reference": "1 Kings 16:9-10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was King Elah doing when Zimri came in and struck him down?",
+  "options": [
+    "Praying in the temple",
+    "Leading his army at Gibbethon",
+    "Getting drunk in the home of Arza",
+    "Sleeping in the palace"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Elah",
+    "Zimri"
+  ],
+  "places": [
+    {
+      "name": "Tirzah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elah was in Tirzah getting drunk in the home of Arza when Zimri came in, struck him down and killed him."
+}

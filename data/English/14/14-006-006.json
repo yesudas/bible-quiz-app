@@ -1,0 +1,38 @@
+{
+  "id": "14-006-006",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 6,
+  "verse_reference": "2 Chronicles 6:13",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Solomon do on the platform before praying?",
+  "options": [
+    "He stood silently",
+    "He sang a song",
+    "He lifted up the ark",
+    "He knelt down and spread out his hands toward heaven"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon knelt down before the whole assembly of Israel and spread out his hands toward heaven."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "19-018-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 18,
+  "verse_reference": "Psalm 18:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"I love you, LORD, my ____.\"",
+  "options": [
+    "strength",
+    "shepherd",
+    "king",
+    "friend"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Worship"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 18:1 begins, \"I love you, LORD, my strength.\""
+}

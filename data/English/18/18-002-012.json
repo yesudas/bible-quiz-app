@@ -1,0 +1,36 @@
+{
+  "id": "18-002-012",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 2,
+  "verse_reference": "Job 2:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Job's three friends come to see him?",
+  "options": [
+    "To take his remaining property",
+    "To judge him before the elders",
+    "To sympathize with him and comfort him",
+    "To bring him news of his children"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Suffering"
+  ],
+  "characters": [
+    "Eliphaz",
+    "Bildad",
+    "Zophar",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They agreed to go together to sympathize with Job and comfort him."
+}

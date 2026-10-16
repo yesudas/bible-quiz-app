@@ -1,0 +1,36 @@
+{
+  "id": "05-026-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 26,
+  "verse_reference": "Deuteronomy 26:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to the recitation, what did the Lord do when Israel cried out to Him in Egypt?",
+  "options": [
+    "He waited many more years",
+    "He sent them back to Canaan alone",
+    "He heard their voice and saw their misery, toil, and oppression",
+    "He gave them wealth in Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Salvation",
+    "Mercy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Israel cried out to the Lord, He heard their voice and saw their misery, toil, and oppression, then brought them out with a mighty hand."
+}

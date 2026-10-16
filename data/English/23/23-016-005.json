@@ -1,0 +1,35 @@
+{
+  "id": "23-016-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 16,
+  "verse_reference": "Isaiah 16:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Which sin of Moab is especially named in Isaiah 16:6?",
+  "options": [
+    "Laziness",
+    "Pride and arrogance",
+    "Greed for gold",
+    "Worship of the sun"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Pride",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 16:6 says, 'We have heard of Moab's pride\u2014how great is her arrogance!'"
+}

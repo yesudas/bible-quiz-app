@@ -1,0 +1,45 @@
+{
+  "id": "19-042-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 42,
+  "verse_reference": "Psalm 42:6",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which of these places is named in Psalm 42:6, where the writer says he will remember God?",
+  "options": [
+    "Mount Carmel",
+    "Mount Sinai",
+    "The heights of Hermon",
+    "The hills of Bethel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Hope"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "Jordan",
+      "type": "region"
+    },
+    {
+      "name": "Hermon",
+      "type": "mountain"
+    },
+    {
+      "name": "Mount Mizar",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 42:6 says, \"I will remember you from the land of the Jordan, the heights of Hermon \u2014 from Mount Mizar.\""
+}

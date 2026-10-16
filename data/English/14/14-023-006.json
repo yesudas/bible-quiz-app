@@ -1,0 +1,39 @@
+{
+  "id": "14-023-006",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 23,
+  "verse_reference": "2 Chronicles 23:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jehoiada and his sons do after bringing out the king's son?",
+  "options": [
+    "They sent him to Egypt",
+    "They hid him again",
+    "They crowned him, gave him the covenant and anointed him",
+    "They gave him a sword to fight"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Covenant"
+  ],
+  "characters": [
+    "Jehoiada",
+    "Joash"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They brought out the king's son, put the crown on him, presented him with a copy of the covenant, proclaimed him king and anointed him."
+}

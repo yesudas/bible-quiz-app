@@ -1,0 +1,38 @@
+{
+  "id": "20-025-001",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 25,
+  "verse_reference": "Proverbs 25:1",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to Proverbs 25:1, whose men compiled these further proverbs of Solomon?",
+  "options": [
+    "Josiah",
+    "David",
+    "Hezekiah",
+    "Rehoboam"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon",
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 25:1 says these are more proverbs of Solomon, compiled by the men of Hezekiah king of Judah."
+}

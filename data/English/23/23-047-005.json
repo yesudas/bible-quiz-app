@@ -1,0 +1,34 @@
+{
+  "id": "23-047-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 47,
+  "verse_reference": "Isaiah 47:13-14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does Isaiah say about Babylon's astrologers and stargazers?",
+  "options": [
+    "They will save the city",
+    "They will become prophets",
+    "They are like stubble and cannot save themselves from the fire",
+    "They will flee to Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 47:13-14 says, 'Let your astrologers come forward... Surely they are like stubble; the fire will burn them up. They cannot even save themselves.'"
+}

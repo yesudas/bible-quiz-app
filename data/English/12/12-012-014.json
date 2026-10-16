@@ -1,0 +1,36 @@
+{
+  "id": "12-012-014",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 12,
+  "verse_reference": "2 Kings 12:20-21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Joash's reign end?",
+  "options": [
+    "He died peacefully in old age",
+    "He was killed in battle with Aram",
+    "His officials conspired against him and killed him",
+    "He gave the throne to Jehoiada"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joash"
+  ],
+  "places": [
+    {
+      "name": "Beth Millo",
+      "type": "place"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "His officials conspired against him and assassinated him at Beth Millo, and his son Amaziah succeeded him."
+}

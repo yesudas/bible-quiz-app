@@ -1,0 +1,38 @@
+{
+  "id": "16-012-005",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 12,
+  "verse_reference": "Nehemiah 12:31",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Nehemiah assign to go on top of the wall to give thanks?",
+  "options": [
+    "Two armies",
+    "Two large choirs",
+    "Twelve priests with trumpets",
+    "Seven Levites with lamps"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Nehemiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah had the leaders of Judah go up on top of the wall and assigned two large choirs to give thanks."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "07-004-011",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 4,
+  "verse_reference": "Judges 4:7",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "To which river did the LORD say He would lead Sisera and his army?",
+  "options": [
+    "The Jordan River",
+    "The Jabbok River",
+    "The Kishon River",
+    "The Arnon River"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Sisera"
+  ],
+  "places": [
+    {
+      "name": "Kishon River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said He would lead Sisera, his chariots and his troops to the Kishon River and give him into Barak's hands."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "09-006-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 6,
+  "verse_reference": "1 Samuel 6:14",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the cart with the ark stop?",
+  "options": [
+    "At the gate of Jerusalem",
+    "Beside the Jordan River",
+    "At the temple in Shiloh",
+    "In the field of Joshua of Beth Shemesh, beside a large rock"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Field of Joshua of Beth Shemesh",
+      "type": "field"
+    },
+    {
+      "name": "Beth Shemesh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The cart came to the field of Joshua of Beth Shemesh and stopped beside a large rock."
+}

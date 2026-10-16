@@ -1,0 +1,34 @@
+{
+  "id": "18-004-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 4,
+  "verse_reference": "Job 4:3-4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Eliphaz, what had Job done for others in the past?",
+  "options": [
+    "He had built cities for them",
+    "He had instructed many and strengthened those who were weak",
+    "He had led armies to protect them",
+    "He had given all his land away"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Love"
+  ],
+  "characters": [
+    "Eliphaz",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eliphaz said Job had instructed many, strengthened feeble hands, and supported those who stumbled."
+}

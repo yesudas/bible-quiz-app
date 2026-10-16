@@ -1,0 +1,37 @@
+{
+  "id": "14-003-011",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 3,
+  "verse_reference": "2 Chronicles 3:14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Solomon make with cherubim worked into it, using blue, purple and crimson yarn and fine linen?",
+  "options": [
+    "The curtain",
+    "The priests' robes",
+    "The altar cover",
+    "The ark's covering"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Angels"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon made the curtain of blue, purple and crimson yarn and fine linen, with cherubim worked into it."
+}

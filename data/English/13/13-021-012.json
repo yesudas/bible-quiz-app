@@ -1,0 +1,37 @@
+{
+  "id": "13-021-012",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 21,
+  "verse_reference": "1 Chronicles 21:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Araunah doing when he saw the angel?",
+  "options": [
+    "Threshing wheat",
+    "Feeding his sheep",
+    "Building a wall",
+    "Praying at the altar"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Angels"
+  ],
+  "characters": [
+    "Araunah"
+  ],
+  "places": [
+    {
+      "name": "threshing floor of Araunah",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Araunah was threshing wheat when he turned and saw the angel, and his four sons with him hid themselves."
+}

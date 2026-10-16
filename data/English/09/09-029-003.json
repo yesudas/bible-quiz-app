@@ -1,0 +1,37 @@
+{
+  "id": "09-029-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 29,
+  "verse_reference": "1 Samuel 29:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the Philistine commanders ask when they saw David and his men?",
+  "options": [
+    "\"Who brought these soldiers food?\"",
+    "\"Are these men from Gath?\"",
+    "\"What about these Hebrews?\"",
+    "\"Where is King Saul?\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Achish",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Aphek",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The commanders of the Philistines asked, \"What about these Hebrews?\""
+}

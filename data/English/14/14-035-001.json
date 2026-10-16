@@ -1,0 +1,37 @@
+{
+  "id": "14-035-001",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 35,
+  "verse_reference": "2 Chronicles 35:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Which festival did Josiah celebrate to the LORD in Jerusalem?",
+  "options": [
+    "The Passover",
+    "The Festival of Tabernacles",
+    "The Festival of Weeks",
+    "Purim"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Josiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Josiah celebrated the Passover to the LORD in Jerusalem, and the Passover lamb was slaughtered on the fourteenth day of the first month."
+}

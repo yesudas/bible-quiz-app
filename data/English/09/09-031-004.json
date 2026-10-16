@@ -1,0 +1,35 @@
+{
+  "id": "09-031-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 31,
+  "verse_reference": "1 Samuel 31:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Saul's armor-bearer refuse Saul's request to kill him?",
+  "options": [
+    "He wanted to capture Saul",
+    "He did not hear Saul",
+    "He had already fled",
+    "He was terrified"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Mount Gilboa",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul asked his armor-bearer to run him through, but the armor-bearer was terrified and would not do it. So Saul took his own life."
+}

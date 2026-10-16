@@ -1,0 +1,31 @@
+{
+  "id": "13-012-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 12,
+  "verse_reference": "1 Chronicles 12:2",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What special skill did the Benjamite warriors who joined David have?",
+  "options": [
+    "They could shoot arrows or sling stones with either hand",
+    "They could fight on horseback",
+    "They could make iron weapons",
+    "They could run faster than chariots"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "War"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They were armed with bows and could shoot arrows or sling stones right-handed or left-handed."
+}

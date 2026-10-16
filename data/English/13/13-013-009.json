@@ -1,0 +1,37 @@
+{
+  "id": "13-013-009",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 13,
+  "verse_reference": "1 Chronicles 13:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What name was given to the place where Uzzah died?",
+  "options": [
+    "Ebenezer",
+    "Bethel",
+    "Perez Uzzah",
+    "Gilgal"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Uzzah",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Perez Uzzah",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Because the LORD's wrath had broken out against Uzzah, the place was called Perez Uzzah."
+}

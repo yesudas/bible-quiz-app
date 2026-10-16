@@ -1,0 +1,38 @@
+{
+  "id": "13-012-012",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 12,
+  "verse_reference": "1 Chronicles 12:38",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did the fighting men come to Hebron?",
+  "options": [
+    "To make David king over all Israel",
+    "To bury Saul",
+    "To attack the Philistines",
+    "To bring back the ark"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Unity"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They came to Hebron fully determined to make David king over all Israel, and the rest of Israel were of one mind."
+}

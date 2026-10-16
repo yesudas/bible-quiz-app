@@ -1,0 +1,32 @@
+{
+  "id": "06-018-010",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 18,
+  "verse_reference": "Joshua 18:28",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which famous city was among the towns in Benjamin's land?",
+  "options": [
+    "Hebron",
+    "Shechem",
+    "Jerusalem",
+    "Beersheba"
+  ],
+  "correct_option": 2,
+  "themes": [],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Benjamin's towns included the Jebusite city, that is, Jerusalem."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "11-019-007",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 19,
+  "verse_reference": "1 Kings 19:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How long did Elijah travel on the strength of that food?",
+  "options": [
+    "Three days and three nights",
+    "Seven days",
+    "Forty days and forty nights",
+    "One year"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [
+    {
+      "name": "Horeb",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Strengthened by that food, Elijah traveled forty days and forty nights until he reached Horeb, the mountain of God."
+}

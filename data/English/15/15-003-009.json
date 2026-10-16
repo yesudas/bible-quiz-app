@@ -1,0 +1,31 @@
+{
+  "id": "15-003-009",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 3,
+  "verse_reference": "Ezra 3:10",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "The praise at the laying of the foundation followed the way prescribed by which king?",
+  "options": [
+    "Solomon",
+    "Hezekiah",
+    "Cyrus",
+    "David"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They praised the LORD as prescribed by David king of Israel."
+}

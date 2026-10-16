@@ -1,0 +1,32 @@
+{
+  "id": "09-017-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 17,
+  "verse_reference": "1 Samuel 17:25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the king promise to the man who killed Goliath?",
+  "options": [
+    "Command of the army",
+    "Half the kingdom",
+    "A house in Jerusalem",
+    "Great wealth, his daughter in marriage, and no taxes for his family"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money",
+    "Family"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites said the king would give great wealth to the man who killed Goliath, give him his daughter in marriage, and exempt his family from taxes."
+}

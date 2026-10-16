@@ -1,0 +1,36 @@
+{
+  "id": "06-006-008",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 6,
+  "verse_reference": "Joshua 6:20",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened to the wall of Jericho when the people shouted?",
+  "options": [
+    "It caught fire",
+    "It became thicker",
+    "It opened a gate",
+    "It collapsed"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the trumpets sounded and the people gave a loud shout, the wall collapsed and the army went straight into the city."
+}

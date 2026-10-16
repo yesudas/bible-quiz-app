@@ -1,0 +1,38 @@
+{
+  "id": "17-006-010",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 6,
+  "verse_reference": "Esther 6:12",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "What did Haman do right after leading Mordecai through the city?",
+  "options": [
+    "He went to Esther's banquet",
+    "He went back to the king to complain",
+    "He rushed home with his head covered in grief",
+    "He left Susa"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Pride",
+    "Suffering"
+  ],
+  "characters": [
+    "Haman",
+    "Mordecai"
+  ],
+  "places": [
+    {
+      "name": "King's gate",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Afterward Mordecai returned to the king's gate, but Haman rushed home with his head covered in grief."
+}

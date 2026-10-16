@@ -1,0 +1,35 @@
+{
+  "id": "14-004-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 4,
+  "verse_reference": "2 Chronicles 4:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How were the twelve bulls under the Sea arranged?",
+  "options": [
+    "All twelve faced east toward the entrance",
+    "Six faced north and six faced south",
+    "They stood in a line along the temple wall",
+    "Three faced each of the four directions"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Three bulls faced north, three west, three south and three east, with their back parts toward the center."
+}

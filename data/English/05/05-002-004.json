@@ -1,0 +1,33 @@
+{
+  "id": "05-002-004",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 2,
+  "verse_reference": "Deuteronomy 2:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Moses reminded the people: \"These forty years the Lord your God has been with you, and you have not lacked ___.\"",
+  "options": [
+    "anything",
+    "courage",
+    "wisdom",
+    "rest"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Hope",
+    "Faith"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses reminded Israel that God had blessed them and watched over them for forty years so that they lacked nothing during their journey."
+}

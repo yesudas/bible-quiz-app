@@ -1,0 +1,38 @@
+{
+  "id": "09-022-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 22,
+  "verse_reference": "1 Samuel 22:7-8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Saul complain about to his officials from Benjamin?",
+  "options": [
+    "That they were too weak in battle",
+    "That none of them told him Jonathan had made a covenant with David",
+    "That they refused to pay taxes",
+    "That they worshiped idols"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul",
+    "Jonathan",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Gibeah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul said none of them was concerned about him or told him that his son had made a covenant with the son of Jesse."
+}

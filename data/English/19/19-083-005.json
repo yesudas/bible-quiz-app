@@ -1,0 +1,33 @@
+{
+  "id": "19-083-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 83,
+  "verse_reference": "Psalm 83:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Let them know that you, whose name is the LORD — that you alone are the Most High over all the ____.\"",
+  "options": [
+    "nations",
+    "heavens",
+    "earth",
+    "gods"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph prays that the nations will know that the LORD alone is the Most High over all the earth."
+}

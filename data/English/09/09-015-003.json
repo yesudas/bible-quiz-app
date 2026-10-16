@@ -1,0 +1,36 @@
+{
+  "id": "09-015-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 15,
+  "verse_reference": "1 Samuel 15:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Saul warn the Kenites to move away from the Amalekites?",
+  "options": [
+    "They were Saul's relatives",
+    "They paid him silver",
+    "They had worshiped the LORD",
+    "They had shown kindness to Israel when Israel came up out of Egypt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul told the Kenites to leave, because they had shown kindness to all the Israelites when they came up out of Egypt."
+}

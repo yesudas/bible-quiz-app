@@ -1,0 +1,33 @@
+{
+  "id": "16-001-001",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 1,
+  "verse_reference": "Nehemiah 1:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who was Nehemiah's father?",
+  "options": [
+    "Hilkiah",
+    "Hakaliah",
+    "Jozadak",
+    "Seraiah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Nehemiah",
+    "Hakaliah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah 1:1 introduces Nehemiah as the son of Hakaliah."
+}

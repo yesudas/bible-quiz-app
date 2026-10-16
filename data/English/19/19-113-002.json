@@ -1,0 +1,30 @@
+{
+  "id": "19-113-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 113,
+  "verse_reference": "Psalm 113:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"From the rising of the ______ to the place where it sets, the name of the LORD is to be praised.\"",
+  "options": [
+    "moon",
+    "star",
+    "sun",
+    "dawn"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD's name is to be praised all day long and everywhere, from sunrise to sunset."
+}

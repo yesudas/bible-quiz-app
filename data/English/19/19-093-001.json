@@ -1,0 +1,31 @@
+{
+  "id": "19-093-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 93,
+  "verse_reference": "Psalm 93:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"The LORD reigns, he is robed in ____.\"",
+  "options": [
+    "light",
+    "gold",
+    "majesty",
+    "white"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Kingdom of God",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm declares that the LORD reigns and is robed in majesty."
+}

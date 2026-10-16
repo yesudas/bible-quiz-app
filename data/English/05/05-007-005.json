@@ -1,0 +1,36 @@
+{
+  "id": "05-007-005",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 7,
+  "verse_reference": "Deuteronomy 7:7-8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the Lord set His love on Israel and choose them?",
+  "options": [
+    "Because the Lord loved them and kept the oath He swore to their ancestors",
+    "Because they were the largest nation",
+    "Because they were the strongest fighters",
+    "Because they had never sinned"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God chose Israel not because they were numerous, for they were the fewest, but because He loved them and kept His oath to their ancestors, redeeming them from Egypt."
+}

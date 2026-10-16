@@ -1,0 +1,36 @@
+{
+  "id": "09-023-007",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 23,
+  "verse_reference": "1 Samuel 23:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "About how many men were with David when he left Keilah?",
+  "options": [
+    "Four hundred",
+    "Two hundred",
+    "One thousand",
+    "Six hundred"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Keilah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David and his men, about six hundred in number, left Keilah and kept moving from place to place."
+}

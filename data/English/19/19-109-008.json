@@ -1,0 +1,32 @@
+{
+  "id": "19-109-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 109,
+  "verse_reference": "Psalm 109:24",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 109, why did David's knees give way?",
+  "options": [
+    "From running",
+    "From old age",
+    "From kneeling",
+    "From fasting"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David's knees gave way from fasting, and his body became thin and gaunt."
+}

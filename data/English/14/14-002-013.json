@@ -1,0 +1,35 @@
+{
+  "id": "14-002-013",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 2,
+  "verse_reference": "2 Chronicles 2:17-18",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who did Solomon use as carriers, stonecutters and foremen to build the temple?",
+  "options": [
+    "The priests and Levites",
+    "Soldiers from his army",
+    "Foreigners living in Israel",
+    "Men sent from Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon counted the foreigners living in Israel, 153,600 in all, and made them carriers, stonecutters and foremen."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "12-016-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 16,
+  "verse_reference": "2 Kings 16:6",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which town did Rezin recover for Aram, driving out the people of Judah?",
+  "options": [
+    "Lachish",
+    "Gath",
+    "Libnah",
+    "Elath"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Rezin"
+  ],
+  "places": [
+    {
+      "name": "Elath",
+      "type": "town"
+    },
+    {
+      "name": "Aram",
+      "type": "country"
+    },
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rezin recovered Elath for Aram and drove out the people of Judah, and Edomites moved in and lived there."
+}

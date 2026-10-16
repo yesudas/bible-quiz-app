@@ -1,0 +1,38 @@
+{
+  "id": "06-015-009",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 15,
+  "verse_reference": "Joshua 15:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What special favor did Aksah ask her father Caleb for?",
+  "options": [
+    "A new house",
+    "Springs of water",
+    "A flock of sheep",
+    "Her own city"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Aksah",
+    "Caleb"
+  ],
+  "places": [
+    {
+      "name": "Negev",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Aksah said, \"Since you have given me land in the Negev, give me also springs of water,\" and Caleb gave her the upper and lower springs."
+}

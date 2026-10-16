@@ -1,0 +1,41 @@
+{
+  "id": "09-024-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 24,
+  "verse_reference": "1 Samuel 24:1-2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In which desert was David when Saul took three thousand men to look for him?",
+  "options": [
+    "Desert of Ziph",
+    "Desert of Maon",
+    "Desert of En Gedi",
+    "Desert of Paran"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Saul",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Desert of En Gedi",
+      "type": "wilderness"
+    },
+    {
+      "name": "Crags of the Wild Goats",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul was told David was in the Desert of En Gedi, so he took three thousand able young men and set out near the Crags of the Wild Goats."
+}

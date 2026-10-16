@@ -1,0 +1,38 @@
+{
+  "id": "07-001-001",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 1,
+  "verse_reference": "Judges 1:1",
+  "question_type": "WHEN",
+  "difficulty": "Easy",
+  "question": "After whose death did the Israelites ask the LORD which tribe should go up first to fight against the Canaanites?",
+  "options": [
+    "Moses",
+    "Joshua",
+    "Aaron",
+    "Eli"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Canaan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Judges begins after the death of Joshua, when the Israelites asked the LORD who should go up first to fight the Canaanites."
+}

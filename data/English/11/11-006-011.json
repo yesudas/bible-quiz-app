@@ -1,0 +1,35 @@
+{
+  "id": "11-006-011",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 6,
+  "verse_reference": "1 Kings 6:27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How were the wings of the two cherubim placed in the inner room?",
+  "options": [
+    "Their wings were folded at their sides",
+    "Their wings pointed toward the door",
+    "Each covered its own face with its wings",
+    "Their outer wings touched the walls and their inner wings touched each other in the middle"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Angels"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The cherubim's wings were spread out: one wing of each touched a wall, and their other wings touched each other in the middle of the room."
+}

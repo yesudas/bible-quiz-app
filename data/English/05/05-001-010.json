@@ -1,0 +1,38 @@
+{
+  "id": "05-001-010",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 1,
+  "verse_reference": "Deuteronomy 1:29-31",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Moses encourage the fearful people to trust God?",
+  "options": [
+    "By reminding them the Lord would fight for them as He had in Egypt and the wilderness",
+    "By promising them great riches",
+    "By telling them the enemy was weak",
+    "By offering to lead the attack himself"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Hope",
+    "Promise"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses reminded the people that the Lord would fight for them and had carried them as a father carries a son, just as He had done in Egypt and the wilderness."
+}

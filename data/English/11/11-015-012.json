@@ -1,0 +1,38 @@
+{
+  "id": "11-015-012",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 15,
+  "verse_reference": "1 Kings 15:25-27",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who plotted against Nadab, son of Jeroboam, and killed him?",
+  "options": [
+    "Zimri",
+    "Omri",
+    "Ahab",
+    "Baasha son of Ahijah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Sin"
+  ],
+  "characters": [
+    "Nadab",
+    "Baasha"
+  ],
+  "places": [
+    {
+      "name": "Gibbethon",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Baasha son of Ahijah from the tribe of Issachar plotted against Nadab and struck him down at Gibbethon."
+}

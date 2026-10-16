@@ -1,0 +1,33 @@
+{
+  "id": "18-034-006",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 34,
+  "verse_reference": "Job 34:22",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to Elihu, where can evildoers hide from God?",
+  "options": [
+    "In deep caves",
+    "In the darkness of night",
+    "In faraway lands",
+    "Nowhere"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Elihu"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elihu said there is no deep shadow, no utter darkness, where evildoers can hide."
+}

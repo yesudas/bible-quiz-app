@@ -1,0 +1,31 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Shechem",
+    "label": "Shechem",
+    "count": 21,
+    "paths": [
+        "English/06/06-020-007.json",
+        "English/06/06-024-001.json",
+        "English/06/06-024-006.json",
+        "English/06/06-024-007.json",
+        "English/06/06-024-008.json",
+        "English/06/06-024-009.json",
+        "English/06/06-024-010.json",
+        "English/06/06-024-014.json",
+        "English/07/07-008-018.json",
+        "English/07/07-009-001.json",
+        "English/07/07-009-002.json",
+        "English/07/07-009-009.json",
+        "English/07/07-009-012.json",
+        "English/07/07-009-013.json",
+        "English/07/07-009-014.json",
+        "English/07/07-009-016.json",
+        "English/07/07-009-022.json",
+        "English/11/11-012-001.json",
+        "English/14/14-010-001.json",
+        "English/14/14-010-003.json",
+        "English/14/14-010-004.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

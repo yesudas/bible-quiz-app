@@ -1,0 +1,39 @@
+{
+  "id": "14-026-011",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 26,
+  "verse_reference": "2 Chronicles 26:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the priests say it was not right for Uzziah to burn incense?",
+  "options": [
+    "He was too young",
+    "He had not washed first",
+    "It was not the right day",
+    "It was for the priests, the descendants of Aaron"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Worship"
+  ],
+  "characters": [
+    "Azariah",
+    "Uzziah",
+    "Aaron"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They told him burning incense was for the priests, the descendants of Aaron, who had been consecrated to do it."
+}

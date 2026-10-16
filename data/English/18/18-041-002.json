@@ -1,0 +1,33 @@
+{
+  "id": "18-041-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 41,
+  "verse_reference": "Job 41:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the LORD ask Job about making Leviathan a pet?",
+  "options": [
+    "Whether he could feed it bread",
+    "Whether he could ride it to the sea",
+    "Whether he could teach it to speak",
+    "Whether he could make a pet of it like a bird"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD asked, 'Can you make a pet of it like a bird or put it on a leash for the young women in your house?'"
+}

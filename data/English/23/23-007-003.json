@@ -1,0 +1,39 @@
+{
+  "id": "23-007-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 7,
+  "verse_reference": "Isaiah 7:3",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which son did the LORD tell Isaiah to take with him to meet Ahaz?",
+  "options": [
+    "Maher-Shalal-Hash-Baz",
+    "Immanuel",
+    "Shear-Jashub",
+    "Amoz"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Family"
+  ],
+  "characters": [
+    "Isaiah",
+    "Shear-Jashub",
+    "Ahaz"
+  ],
+  "places": [
+    {
+      "name": "Upper Pool",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 7:3 says, 'Go out, you and your son Shear-Jashub, to meet Ahaz.'"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "12-002-001",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 2,
+  "verse_reference": "2 Kings 2:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did the LORD take Elijah up to heaven?",
+  "options": [
+    "In a whirlwind",
+    "In a cloud",
+    "On a mountain in a bright light",
+    "In a dream"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Prophecy"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD took Elijah up to heaven in a whirlwind."
+}

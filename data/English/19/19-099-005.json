@@ -1,0 +1,35 @@
+{
+  "id": "19-099-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 99,
+  "verse_reference": "Psalm 99:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 99:8, how was God to Israel?",
+  "options": [
+    "A forgiving God, though He punished their misdeeds",
+    "A God who never noticed their sin",
+    "A God who never forgave",
+    "A God far away from them"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Forgiveness",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm says God was a forgiving God to Israel, though He punished their misdeeds."
+}

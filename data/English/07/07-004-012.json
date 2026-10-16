@@ -1,0 +1,34 @@
+{
+  "id": "07-004-012",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 4,
+  "verse_reference": "Judges 4:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Barak say to Deborah when she gave him the LORD's command?",
+  "options": [
+    "I will go only if God gives me a sign",
+    "I will go if the elders agree",
+    "I will go if you give me a thousand chariots",
+    "If you go with me, I will go; but if you don't go with me, I won't go"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Courage"
+  ],
+  "characters": [
+    "Barak",
+    "Deborah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Barak told Deborah he would go only if she went with him."
+}

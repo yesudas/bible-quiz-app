@@ -1,0 +1,45 @@
+{
+  "id": "09-026-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 26,
+  "verse_reference": "1 Samuel 26:1",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to the Ziphites, where was David hiding?",
+  "options": [
+    "In the cave of Adullam",
+    "On the hill of Hakilah, facing Jeshimon",
+    "In the strongholds of En Gedi",
+    "In the forest of Hereth"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "David",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Gibeah",
+      "type": "town"
+    },
+    {
+      "name": "Hill of Hakilah",
+      "type": "mountain"
+    },
+    {
+      "name": "Jeshimon",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Ziphites went to Saul at Gibeah and said, \"Is not David hiding on the hill of Hakilah, which faces Jeshimon?\""
+}

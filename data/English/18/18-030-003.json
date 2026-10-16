@@ -1,0 +1,33 @@
+{
+  "id": "18-030-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 30,
+  "verse_reference": "Job 30:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Job say happened when he cried out to God in Job 30:20?",
+  "options": [
+    "God sent an angel",
+    "God answered from a storm",
+    "God did not answer",
+    "God gave him back his health"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'I cry out to you, God, but you do not answer; I stand up, but you merely look at me.'"
+}

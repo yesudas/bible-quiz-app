@@ -1,0 +1,39 @@
+{
+  "id": "11-009-003",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 9,
+  "verse_reference": "1 Kings 9:4-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God promise if Solomon walked before Him with integrity of heart as David did?",
+  "options": [
+    "That he would never die",
+    "That he would conquer Egypt",
+    "That He would establish Solomon's royal throne over Israel forever",
+    "That the temple would never need repair"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Obedience",
+    "Covenant"
+  ],
+  "characters": [
+    "Solomon",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised to establish Solomon's royal throne over Israel forever, as He promised David, if Solomon walked with integrity and obeyed."
+}

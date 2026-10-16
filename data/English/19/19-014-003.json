@@ -1,0 +1,30 @@
+{
+  "id": "19-014-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 14,
+  "verse_reference": "Psalm 14:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What does Psalm 14:3 say about how many people do good?",
+  "options": [
+    "Only the priests",
+    "Only the people of Israel",
+    "No one, not even one",
+    "Most people"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 14:3 says, \"All have turned away, all have become corrupt; there is no one who does good, not even one.\""
+}

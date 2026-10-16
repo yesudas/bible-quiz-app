@@ -1,0 +1,32 @@
+{
+  "id": "19-022-012",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 22,
+  "verse_reference": "Psalm 22:31",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"They will proclaim his righteousness, declaring to a people yet unborn: He has ____ it!\"",
+  "options": [
+    "seen",
+    "said",
+    "planned",
+    "done"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Hope"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 22:31 ends, \"They will proclaim his righteousness, declaring to a people yet unborn: He has done it!\""
+}

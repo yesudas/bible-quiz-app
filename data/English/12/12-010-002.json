@@ -1,0 +1,36 @@
+{
+  "id": "12-010-002",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 10,
+  "verse_reference": "2 Kings 10:2-3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jehu's first letter challenge the leaders of Samaria to do?",
+  "options": [
+    "Choose the best of Ahab's sons, make him king and fight",
+    "Surrender the city at once",
+    "Send all their gold to Jezreel",
+    "Destroy the temple of Baal"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jehu",
+    "Ahab"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehu wrote that they should choose the best and most worthy of their master's sons, set him on his father's throne and fight."
+}

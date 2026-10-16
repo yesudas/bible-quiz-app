@@ -1,0 +1,34 @@
+{
+  "id": "19-027-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 27,
+  "verse_reference": "Psalm 27:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"____ for the LORD; be strong and take heart.\"",
+  "options": [
+    "Wait",
+    "Pray",
+    "Sing",
+    "Look"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Faith",
+    "Courage"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 27:14 says, \"Wait for the LORD; be strong and take heart and wait for the LORD.\""
+}

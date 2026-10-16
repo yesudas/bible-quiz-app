@@ -1,0 +1,37 @@
+{
+  "id": "13-005-010",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 5,
+  "verse_reference": "1 Chronicles 5:26",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whose spirit did God stir up to take the Reubenites, the Gadites and the half-tribe of Manasseh into exile?",
+  "options": [
+    "Pharaoh Necho of Egypt",
+    "Nebuchadnezzar of Babylon",
+    "Pul king of Assyria",
+    "Cyrus king of Persia"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Pul",
+    "Tiglath-Pileser"
+  ],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God stirred up the spirit of Pul king of Assyria (that is, Tiglath-Pileser), who took them into exile."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "07-015-013",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 15,
+  "verse_reference": "Judges 15:17",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "After Samson threw away the jawbone, what was that place called?",
+  "options": [
+    "En Hakkore",
+    "Ramath Lehi",
+    "Mahaneh Dan",
+    "Beth Shemesh"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [
+    {
+      "name": "Ramath Lehi",
+      "type": "place"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Samson finished speaking, he threw away the jawbone, and the place was called Ramath Lehi."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "13-028-010",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 28,
+  "verse_reference": "1 Chronicles 28:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete David's promise to Solomon: \"The LORD God, my God, is with you. He will not ______ you or forsake you until all the work is finished.\"",
+  "options": [
+    "test",
+    "hurry",
+    "punish",
+    "fail"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [
+    "David",
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David encouraged Solomon that the LORD would not fail him or forsake him until all the work for the temple was finished."
+}

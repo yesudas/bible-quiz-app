@@ -1,0 +1,35 @@
+{
+  "id": "19-129-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 129,
+  "verse_reference": "Psalm 129:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who does the psalmist pray will be turned back in shame?",
+  "options": [
+    "All who travel far",
+    "All who are poor",
+    "All who sing loudly",
+    "All who hate Zion"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist prayed, \"May all who hate Zion be turned back in shame.\""
+}

@@ -1,0 +1,39 @@
+{
+  "id": "09-023-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 23,
+  "verse_reference": "1 Samuel 23:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why could Saul never catch David, even though he searched day after day?",
+  "options": [
+    "God did not give David into his hands",
+    "David was too fast",
+    "Saul's army was too small",
+    "The Philistines protected David"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Persecution"
+  ],
+  "characters": [
+    "Saul",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Desert of Ziph",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Day after day Saul searched for David, but God did not give David into his hands."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "06-011-008",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 11,
+  "verse_reference": "Joshua 11:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Of the cities built on their mounds, which one did Israel burn?",
+  "options": [
+    "Gibeon",
+    "Hebron",
+    "Jerusalem",
+    "Hazor"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Hazor",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel did not burn any of the cities built on their mounds except Hazor, which Joshua burned."
+}

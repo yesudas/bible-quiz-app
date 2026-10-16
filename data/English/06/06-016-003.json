@@ -1,0 +1,34 @@
+{
+  "id": "06-016-003",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 16,
+  "verse_reference": "Joshua 16:10",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "From which town did Ephraim fail to drive out the Canaanites?",
+  "options": [
+    "Bethel",
+    "Shechem",
+    "Jericho",
+    "Gezer"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gezer",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ephraim did not dislodge the Canaanites living in Gezer; they lived among Ephraim but were made to do forced labor."
+}

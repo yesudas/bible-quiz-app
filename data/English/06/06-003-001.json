@@ -1,0 +1,41 @@
+{
+  "id": "06-003-001",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 3,
+  "verse_reference": "Joshua 3:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "From which place did Joshua and the Israelites set out to go to the Jordan?",
+  "options": [
+    "Gilgal",
+    "Kadesh",
+    "Bethel",
+    "Shittim"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Shittim",
+      "type": "camp"
+    },
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Early in the morning Joshua and all the Israelites set out from Shittim and went to the Jordan."
+}

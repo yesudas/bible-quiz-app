@@ -1,0 +1,38 @@
+{
+  "id": "08-003-002",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 3,
+  "verse_reference": "Ruth 3:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Boaz doing on the threshing floor that night?",
+  "options": [
+    "Planting seed",
+    "Pressing grapes",
+    "Winnowing barley",
+    "Counting his sheep"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Work"
+  ],
+  "characters": [
+    "Boaz",
+    "Naomi"
+  ],
+  "places": [
+    {
+      "name": "Threshing floor",
+      "type": "threshing floor"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Naomi told Ruth that Boaz would be winnowing barley on the threshing floor that night."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "11-020-008",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 20,
+  "verse_reference": "1 Kings 20:23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the Aramean officials think they had lost to Israel?",
+  "options": [
+    "Their horses were tired",
+    "Their king was sick",
+    "Israel had more chariots",
+    "They thought Israel's gods were gods of the hills"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Ben-Hadad"
+  ],
+  "places": [
+    {
+      "name": "Aram",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The officials said, \"Their gods are gods of the hills. That is why they were too strong for us. But if we fight them on the plains, surely we will be stronger.\""
+}

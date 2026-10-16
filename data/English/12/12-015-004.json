@@ -1,0 +1,35 @@
+{
+  "id": "12-015-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 15,
+  "verse_reference": "2 Kings 15:8",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How long did Zechariah son of Jeroboam reign over Israel?",
+  "options": [
+    "One month",
+    "Two years",
+    "Ten years",
+    "Six months"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Zechariah"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zechariah son of Jeroboam reigned over Israel in Samaria for six months."
+}

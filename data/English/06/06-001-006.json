@@ -1,0 +1,43 @@
+{
+  "id": "06-001-006",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 1,
+  "verse_reference": "Joshua 1:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which great river did God name as a boundary of the land He promised Israel?",
+  "options": [
+    "The Nile",
+    "The Tigris",
+    "The Kishon",
+    "The Euphrates"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Euphrates",
+      "type": "river"
+    },
+    {
+      "name": "Lebanon",
+      "type": "region"
+    },
+    {
+      "name": "Mediterranean Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God described the land as reaching from the desert to Lebanon, and from the great river, the Euphrates, to the Mediterranean Sea."
+}

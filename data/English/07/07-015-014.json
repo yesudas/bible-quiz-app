@@ -1,0 +1,38 @@
+{
+  "id": "07-015-014",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 15,
+  "verse_reference": "Judges 15:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After the great victory, Samson was very thirsty. What did he do?",
+  "options": [
+    "He went down to the Jordan River",
+    "He asked the men of Judah for water",
+    "He dug a well with the jawbone",
+    "He cried out to the LORD"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [
+    {
+      "name": "Lehi",
+      "type": "place"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samson cried out to the LORD, asking if he must now die of thirst after the LORD had given him this great victory."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "07-021-010",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 21,
+  "verse_reference": "Judges 21:20-21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the elders tell the remaining Benjamites to do at the festival in Shiloh?",
+  "options": [
+    "Ask the fathers of Shiloh for their daughters",
+    "Pay a bride price in silver",
+    "Wait one more year",
+    "Hide in the vineyards and each seize a young woman who came out to dance, to be his wife"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elders told them to hide in the vineyards, and when the young women of Shiloh came out to dance, each man should seize one to be his wife."
+}

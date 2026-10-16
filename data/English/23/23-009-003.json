@@ -1,0 +1,29 @@
+{
+  "id": "23-009-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 9,
+  "verse_reference": "Isaiah 9:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Isaiah compares the breaking of the oppressor's rod to the day of whose defeat?",
+  "options": [
+    "Egypt's defeat",
+    "Midian's defeat",
+    "Moab's defeat",
+    "Assyria's defeat"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 9:4 says God would shatter the rod of the oppressor, as in the day of Midian's defeat."
+}

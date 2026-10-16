@@ -1,0 +1,34 @@
+{
+  "id": "13-022-007",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 22,
+  "verse_reference": "1 Chronicles 22:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did David pray the LORD would give Solomon so that he could keep the law?",
+  "options": [
+    "Riches and honor",
+    "Many children",
+    "A long life",
+    "Discretion and understanding"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom",
+    "Prayer",
+    "Law"
+  ],
+  "characters": [
+    "David",
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said, \"May the LORD give you discretion and understanding when he puts you in command over Israel, so that you may keep the law.\""
+}

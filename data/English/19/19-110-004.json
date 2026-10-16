@@ -1,0 +1,31 @@
+{
+  "id": "19-110-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 110,
+  "verse_reference": "Psalm 110:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 110, what will the king's troops be like on his day of battle?",
+  "options": [
+    "Afraid",
+    "Few in number",
+    "Tired",
+    "Willing"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 110:3 says the king's troops will be willing on his day of battle."
+}

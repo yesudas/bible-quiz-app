@@ -1,0 +1,32 @@
+{
+  "id": "11-004-010",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 4,
+  "verse_reference": "1 Kings 4:29",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "God gave Solomon wisdom and very great insight, and a breadth of understanding as measureless as the ______ on the seashore.",
+  "options": [
+    "waves",
+    "sand",
+    "shells",
+    "rocks"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God gave Solomon wisdom, great insight and a breadth of understanding as measureless as the sand on the seashore."
+}

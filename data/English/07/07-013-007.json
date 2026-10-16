@@ -1,0 +1,33 @@
+{
+  "id": "07-013-007",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 13,
+  "verse_reference": "Judges 13:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"The boy is to be a ___, dedicated to God from the womb.\"",
+  "options": [
+    "Levite",
+    "Nazirite",
+    "prophet",
+    "priest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Worship"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel said the boy would be a Nazirite, set apart for God from before he was born."
+}

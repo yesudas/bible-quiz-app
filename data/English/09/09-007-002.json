@@ -1,0 +1,38 @@
+{
+  "id": "09-007-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 7,
+  "verse_reference": "1 Samuel 7:1",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was consecrated to guard the ark at Abinadab's house?",
+  "options": [
+    "Eleazar",
+    "Ichabod",
+    "Samuel",
+    "Phinehas"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [
+    "Eleazar",
+    "Abinadab"
+  ],
+  "places": [
+    {
+      "name": "House of Abinadab",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They consecrated Eleazar, Abinadab's son, to guard the ark of the LORD."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "19-090-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 90,
+  "verse_reference": "Psalm 90:5-6",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "In Psalm 90:5-6, human life is compared to what, which springs up in the morning and is withered by evening?",
+  "options": [
+    "A flower",
+    "A tree",
+    "A river",
+    "New grass"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Wisdom"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses says people are like the new grass of the morning; by evening it is dry and withered."
+}

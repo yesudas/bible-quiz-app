@@ -1,0 +1,32 @@
+{
+  "id": "07-014-010",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 14,
+  "verse_reference": "Judges 14:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Samson's riddle: \"Out of the eater, something to eat; out of the strong, something ___.\"",
+  "options": [
+    "strong",
+    "sweet",
+    "bright",
+    "wise"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samson's riddle was about the honey he found in the lion: \"Out of the strong, something sweet.\""
+}

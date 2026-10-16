@@ -1,0 +1,33 @@
+{
+  "id": "09-009-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 9,
+  "verse_reference": "1 Samuel 9:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Samuel tell Saul about the lost donkeys?",
+  "options": [
+    "They had been stolen",
+    "They had been found",
+    "They had died",
+    "They were in Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Samuel",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel told Saul not to worry about the donkeys that had been lost three days earlier, because they had been found."
+}

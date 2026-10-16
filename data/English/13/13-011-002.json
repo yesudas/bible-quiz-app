@@ -1,0 +1,33 @@
+{
+  "id": "13-011-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 11,
+  "verse_reference": "1 Chronicles 11:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete what the LORD said to David: \"You will ______ my people Israel, and you will become their ruler.\"",
+  "options": [
+    "judge",
+    "save",
+    "teach",
+    "shepherd"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Promise"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people reminded David that the LORD had said to him, \"You will shepherd my people Israel, and you will become their ruler.\""
+}

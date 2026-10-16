@@ -1,0 +1,31 @@
+{
+  "id": "19-144-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 144,
+  "verse_reference": "Psalm 144:9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "On what instrument did David say he would make music with a new song?",
+  "options": [
+    "A trumpet",
+    "A flute",
+    "A harp of gold",
+    "A ten-stringed lyre"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"I will sing a new song to you, my God; on the ten-stringed lyre I will make music to you.\""
+}

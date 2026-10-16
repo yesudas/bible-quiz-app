@@ -1,0 +1,36 @@
+{
+  "id": "07-012-010",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 12,
+  "verse_reference": "Judges 12:13-14",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which description fits the family of Abdon son of Hillel?",
+  "options": [
+    "Forty sons and thirty grandsons who rode on seventy donkeys",
+    "Thirty sons and thirty daughters",
+    "Thirty sons who rode thirty donkeys",
+    "Seventy sons from many wives"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Abdon"
+  ],
+  "places": [
+    {
+      "name": "Pirathon",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abdon son of Hillel from Pirathon had forty sons and thirty grandsons, who rode on seventy donkeys. He led Israel eight years."
+}

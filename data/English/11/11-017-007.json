@@ -1,0 +1,42 @@
+{
+  "id": "11-017-007",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 17,
+  "verse_reference": "1 Kings 17:9",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "To which town in the region of Sidon did the LORD send Elijah?",
+  "options": [
+    "Tyre",
+    "Bethel",
+    "Samaria",
+    "Zarephath"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Obedience",
+    "Mission"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [
+    {
+      "name": "Zarephath",
+      "type": "town"
+    },
+    {
+      "name": "Sidon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Elijah to go to Zarephath in the region of Sidon, where He had directed a widow to supply him with food."
+}

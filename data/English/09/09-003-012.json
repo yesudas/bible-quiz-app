@@ -1,0 +1,31 @@
+{
+  "id": "09-003-012",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 3,
+  "verse_reference": "1 Samuel 3:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does it mean that the LORD let none of Samuel's words \"fall to the ground\"?",
+  "options": [
+    "Samuel never spoke loudly",
+    "Samuel's words from the LORD all proved true",
+    "Samuel wrote everything down",
+    "Samuel spoke only in the temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD was with Samuel as he grew up, and none of his words failed; what he spoke from the LORD came true."
+}

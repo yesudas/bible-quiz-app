@@ -1,0 +1,38 @@
+{
+  "id": "05-003-008",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 3,
+  "verse_reference": "Deuteronomy 3:26-27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did God answer Moses' request to enter the promised land?",
+  "options": [
+    "God allowed him to enter with Joshua",
+    "God told him to wait one more year",
+    "God gave him the land east of the Jordan instead",
+    "God said Moses could only view the land from a mountain but not cross over"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Prayer",
+    "Obedience"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Pisgah",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God would not let Moses cross the Jordan but told him to go up Pisgah and look at the land in every direction, since Joshua would lead the people in."
+}

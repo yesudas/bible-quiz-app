@@ -1,0 +1,30 @@
+{
+  "id": "19-104-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 104,
+  "verse_reference": "Psalm 104:14",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to Psalm 104, for whom does God make the grass grow?",
+  "options": [
+    "The cattle",
+    "The lions",
+    "The birds",
+    "The fish"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God makes grass grow for the cattle and plants for people to grow, bringing food from the earth."
+}

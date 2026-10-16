@@ -1,0 +1,34 @@
+{
+  "id": "19-023-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 23,
+  "verse_reference": "Psalm 23:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"The LORD is my ____, I lack nothing.\"",
+  "options": [
+    "king",
+    "shepherd",
+    "father",
+    "rock"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Protection"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 23:1 says, \"The LORD is my shepherd, I lack nothing.\""
+}

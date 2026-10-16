@@ -1,0 +1,30 @@
+{
+  "id": "16-007-007",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 7,
+  "verse_reference": "Nehemiah 7:61-64",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why were some priests excluded from the priesthood as unclean?",
+  "options": [
+    "They had married foreign wives",
+    "They had refused to help build the wall",
+    "They could not find their family records to prove their descent",
+    "They had worshiped idols in Babylon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Family",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "These priests searched for their family records but could not find them, so they were excluded from the priesthood as unclean."
+}

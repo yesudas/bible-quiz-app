@@ -1,0 +1,39 @@
+{
+  "id": "14-025-007",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 25,
+  "verse_reference": "2 Chronicles 25:13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the troops Amaziah sent home do in their anger?",
+  "options": [
+    "Joined the army of Edom",
+    "Burned Jerusalem",
+    "Captured Amaziah",
+    "Raided towns of Judah and killed three thousand people"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Amaziah"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    },
+    {
+      "name": "Beth Horon",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The troops Amaziah had sent back raided Judean towns from Samaria to Beth Horon, killing three thousand people and carrying off plunder."
+}

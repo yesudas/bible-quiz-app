@@ -1,0 +1,33 @@
+{
+  "id": "19-039-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 39,
+  "verse_reference": "Psalm 39:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 39:12, how does David say he dwells with God?",
+  "options": [
+    "As a king and a priest",
+    "As a son and an heir",
+    "As a foreigner and a stranger",
+    "As a soldier and a guard"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Humility",
+    "Faith"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 39:12 says, \"I dwell with you as a foreigner, a stranger, as all my ancestors were.\""
+}

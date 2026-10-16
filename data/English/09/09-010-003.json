@@ -1,0 +1,40 @@
+{
+  "id": "09-010-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 10,
+  "verse_reference": "1 Samuel 10:3-4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What would the three men going up to Bethel give Saul?",
+  "options": [
+    "A young goat",
+    "A skin of wine",
+    "Two loaves of bread",
+    "A sword"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Great tree of Tabor",
+      "type": "other"
+    },
+    {
+      "name": "Bethel",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel said three men going to worship at Bethel would greet Saul and offer him two loaves of bread."
+}

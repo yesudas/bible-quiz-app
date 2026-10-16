@@ -1,0 +1,38 @@
+{
+  "id": "12-008-014",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 8,
+  "verse_reference": "2 Kings 8:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was the LORD not willing to destroy Judah even though Jehoram did evil?",
+  "options": [
+    "Because Judah offered many sacrifices",
+    "Because Elisha prayed for them",
+    "For the sake of His servant David",
+    "Because Jehoram later repented"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "David",
+    "Jehoram"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "For the sake of David, the LORD was not willing to destroy Judah, since He had promised to keep a lamp for David and his descendants."
+}

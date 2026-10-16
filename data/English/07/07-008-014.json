@@ -1,0 +1,37 @@
+{
+  "id": "07-008-014",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 8,
+  "verse_reference": "Judges 8:27",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Gideon make from the gold he collected?",
+  "options": [
+    "A golden calf",
+    "An ephod",
+    "An altar",
+    "A crown"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [
+    {
+      "name": "Ophrah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon made the gold into an ephod, which he placed in his town, Ophrah."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "23-003-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 3,
+  "verse_reference": "Isaiah 3:4",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "As a judgment, who did God say would rule over the people?",
+  "options": [
+    "Foreign kings",
+    "Prophets",
+    "Priests",
+    "Children"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Isaiah 3:4 God said, 'I will make mere youths their officials; children will rule over them.'"
+}

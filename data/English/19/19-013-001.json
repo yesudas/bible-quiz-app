@@ -1,0 +1,33 @@
+{
+  "id": "19-013-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 13,
+  "verse_reference": "Psalm 13:1-2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which question does David ask the LORD four times in Psalm 13:1-2?",
+  "options": [
+    "\"Why?\"",
+    "\"Where are you?\"",
+    "\"How long?\"",
+    "\"Who will help me?\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Suffering"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Psalm 13:1-2 David asks \"How long\" four times, such as, \"How long, LORD? Will you forget me forever?\""
+}

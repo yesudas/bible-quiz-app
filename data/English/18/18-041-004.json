@@ -1,0 +1,32 @@
+{
+  "id": "18-041-004",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 41,
+  "verse_reference": "Job 41:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the LORD's words: \"Who has a claim against me that I must pay? Everything under ____ belongs to me.\"",
+  "options": [
+    "the sun",
+    "the sea",
+    "heaven",
+    "the earth"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, 'Who has a claim against me that I must pay? Everything under heaven belongs to me.'"
+}

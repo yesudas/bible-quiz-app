@@ -1,0 +1,38 @@
+{
+  "id": "23-033-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 33,
+  "verse_reference": "Isaiah 33:20",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How does Isaiah 33:20 describe Jerusalem when God's people look on it?",
+  "options": [
+    "A city of ruins",
+    "A peaceful abode, a tent that will not be moved",
+    "A city on fire",
+    "A city full of enemies"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 33:20 says, 'Your eyes will see Jerusalem, a peaceful abode, a tent that will not be moved.'"
+}

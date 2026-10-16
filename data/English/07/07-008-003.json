@@ -1,0 +1,37 @@
+{
+  "id": "07-008-003",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 8,
+  "verse_reference": "Judges 8:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Gideon ask the men of Sukkoth to give his tired troops?",
+  "options": [
+    "Swords",
+    "Camels",
+    "Bread",
+    "A place to sleep"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [
+    {
+      "name": "Sukkoth",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon and his three hundred men were exhausted, so he asked the men of Sukkoth to give his troops some bread."
+}

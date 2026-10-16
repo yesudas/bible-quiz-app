@@ -1,0 +1,41 @@
+{
+  "id": "11-017-003",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 17,
+  "verse_reference": "1 Kings 17:3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the LORD tell Elijah to hide at first?",
+  "options": [
+    "In the Kerith Ravine, east of the Jordan",
+    "In a cave on Mount Horeb",
+    "In the city of Zarephath",
+    "In Ahab's palace"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [
+    {
+      "name": "Kerith Ravine",
+      "type": "valley"
+    },
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Elijah to go east and hide in the Kerith Ravine, east of the Jordan."
+}

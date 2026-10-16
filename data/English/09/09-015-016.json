@@ -1,0 +1,42 @@
+{
+  "id": "09-015-016",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 15,
+  "verse_reference": "1 Samuel 15:34-35",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What happened between Samuel and Saul after this?",
+  "options": [
+    "Samuel made Saul his son",
+    "Samuel did not go to see Saul again until the day he died",
+    "Saul went to live with Samuel",
+    "They fought a battle together"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Suffering"
+  ],
+  "characters": [
+    "Samuel",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Ramah",
+      "type": "town"
+    },
+    {
+      "name": "Gibeah of Saul",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel went to Ramah and Saul to Gibeah of Saul. Until the day Samuel died, he did not go to see Saul again, though he mourned for him."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "19-147-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 147,
+  "verse_reference": "Psalm 147:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 147, what does the LORD do as He builds up Jerusalem?",
+  "options": [
+    "He gathers the exiles of Israel",
+    "He sends away the poor",
+    "He makes the walls taller",
+    "He chooses a new king"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"The LORD builds up Jerusalem; he gathers the exiles of Israel.\""
+}

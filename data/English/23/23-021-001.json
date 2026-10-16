@@ -1,0 +1,38 @@
+{
+  "id": "23-021-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 21,
+  "verse_reference": "Isaiah 21:2",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two peoples were called to attack and lay siege in Isaiah 21:2?",
+  "options": [
+    "Edom and Moab",
+    "Elam and Media",
+    "Assyria and Egypt",
+    "Aram and Philistia"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Elam",
+      "type": "country"
+    },
+    {
+      "name": "Media",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 21:2 says, 'Elam, attack! Media, lay siege!'"
+}

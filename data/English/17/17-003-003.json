@@ -1,0 +1,39 @@
+{
+  "id": "17-003-003",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 3,
+  "verse_reference": "Esther 3:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Mordecai refuse to do when Haman passed by at the king's gate?",
+  "options": [
+    "Kneel down and pay him honor",
+    "Open the gate for him",
+    "Give him a gift",
+    "Speak to him"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience",
+    "Faithfulness"
+  ],
+  "characters": [
+    "Mordecai",
+    "Haman"
+  ],
+  "places": [
+    {
+      "name": "King's gate",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All the royal officials knelt down and paid honor to Haman, but Mordecai would not kneel down or pay him honor."
+}

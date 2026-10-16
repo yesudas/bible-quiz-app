@@ -1,0 +1,36 @@
+{
+  "id": "19-135-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 135,
+  "verse_reference": "Psalm 135:8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Which judgment on Egypt does Psalm 135:8 mention?",
+  "options": [
+    "The plague of frogs",
+    "The darkness",
+    "The death of the firstborn",
+    "The hail"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Miracles"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God struck down the firstborn of Egypt, the firstborn of people and animals."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "23-026-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 26,
+  "verse_reference": "Isaiah 26:1",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In the song of Judah, what does God make the walls and ramparts of the strong city?",
+  "options": [
+    "Gold",
+    "Salvation",
+    "Stone",
+    "Fire"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 26:1 says, 'We have a strong city; God makes salvation its walls and ramparts.'"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "09-015-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 15,
+  "verse_reference": "1 Samuel 15:28",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Samuel, to whom would the LORD give the kingdom?",
+  "options": [
+    "To Jonathan",
+    "To Samuel's sons",
+    "To one of Saul's neighbors, one better than him",
+    "To the king of the Amalekites"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Samuel",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel said the LORD had given the kingdom to one of Saul's neighbors—to one better than Saul."
+}

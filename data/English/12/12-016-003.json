@@ -1,0 +1,31 @@
+{
+  "id": "12-016-003",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 16,
+  "verse_reference": "2 Kings 16:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which terrible practice of the nations did Ahaz follow?",
+  "options": [
+    "He married a foreign queen",
+    "He sacrificed his son in the fire",
+    "He destroyed the temple",
+    "He worshipped the golden calves at Dan"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Idolatry"
+  ],
+  "characters": [
+    "Ahaz"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahaz even sacrificed his son in the fire, following the detestable practices of the nations the LORD had driven out."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "23-041-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 41,
+  "verse_reference": "Isaiah 41:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: 'So do not fear, for I am with you; do not be dismayed, for I am your ______.'",
+  "options": [
+    "King",
+    "God",
+    "Shepherd",
+    "Father"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Fear",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 41:10 says, 'So do not fear, for I am with you; do not be dismayed, for I am your God.'"
+}

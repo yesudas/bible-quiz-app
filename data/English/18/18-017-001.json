@@ -1,0 +1,32 @@
+{
+  "id": "18-017-001",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 17,
+  "verse_reference": "Job 17:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Job's words: \"My spirit is ____, my days are cut short, the grave awaits me.\"",
+  "options": [
+    "broken",
+    "strong",
+    "free",
+    "tired"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'My spirit is broken, my days are cut short, the grave awaits me.'"
+}

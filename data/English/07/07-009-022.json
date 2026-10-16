@@ -1,0 +1,38 @@
+{
+  "id": "07-009-022",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 9,
+  "verse_reference": "Judges 9:56-57",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How does Judges 9 explain the deaths of Abimelek and the downfall of Shechem?",
+  "options": [
+    "Abimelek's son became king in his place",
+    "Shechem made peace with the Midianites",
+    "God repaid Abimelek for murdering his brothers, and Jotham's curse came on Shechem",
+    "Gideon's ephod was destroyed in the fire"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Justice"
+  ],
+  "characters": [
+    "Abimelek",
+    "Jotham"
+  ],
+  "places": [
+    {
+      "name": "Shechem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God repaid the wickedness Abimelek had done by murdering his seventy brothers, and the curse of Jotham came on the people of Shechem."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20-013-006",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 13,
+  "verse_reference": "Proverbs 13:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"Hope deferred makes the heart sick, but a longing fulfilled is a tree of ______.\"",
+  "options": [
+    "fruit",
+    "shade",
+    "joy",
+    "life"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 13:12 says hope deferred makes the heart sick, but a longing fulfilled is a tree of life."
+}

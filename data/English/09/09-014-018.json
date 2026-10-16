@@ -1,0 +1,32 @@
+{
+  "id": "09-014-018",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 14,
+  "verse_reference": "1 Samuel 14:50",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was the commander of Saul's army?",
+  "options": [
+    "Joab",
+    "Jonathan",
+    "Abner",
+    "Ahimaaz"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Abner",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The commander of Saul's army was Abner son of Ner, and Ner was Saul's uncle."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Job-s-wife",
+    "label": "Job's wife",
+    "count": 3,
+    "paths": [
+        "English/18/18-002-007.json",
+        "English/18/18-002-009.json",
+        "English/18/18-019-004.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

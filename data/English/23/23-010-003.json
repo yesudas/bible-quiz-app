@@ -1,0 +1,34 @@
+{
+  "id": "23-010-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 10,
+  "verse_reference": "Isaiah 10:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the king of Assyria proudly claim about his victories?",
+  "options": [
+    "That the LORD had given them to him",
+    "That his gods had won them",
+    "That he had done them by his own strength and wisdom",
+    "That his father had planned them"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Pride",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Isaiah 10:13 the king of Assyria boasts, 'By the strength of my hand I have done this, and by my wisdom.'"
+}

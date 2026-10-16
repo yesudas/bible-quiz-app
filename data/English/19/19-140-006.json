@@ -1,0 +1,33 @@
+{
+  "id": "19-140-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 140,
+  "verse_reference": "Psalm 140:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did David say he knows the LORD does for the poor?",
+  "options": [
+    "Makes them rich",
+    "Sends them away",
+    "Secures justice for them",
+    "Ignores them"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Justice",
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"I know that the LORD secures justice for the poor and upholds the cause of the needy.\""
+}

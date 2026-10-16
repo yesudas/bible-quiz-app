@@ -1,0 +1,32 @@
+{
+  "id": "12-002-012",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 2,
+  "verse_reference": "2 Kings 2:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Elisha do with his own garment after Elijah was taken up?",
+  "options": [
+    "He gave it to the prophets",
+    "He tore it in two",
+    "He threw it into the Jordan",
+    "He burned it"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When he could no longer see Elijah, Elisha took hold of his garment and tore it in two."
+}

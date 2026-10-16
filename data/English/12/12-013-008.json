@@ -1,0 +1,42 @@
+{
+  "id": "12-013-008",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 13,
+  "verse_reference": "2 Kings 13:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After the arrow was shot through the east window, what did Elisha call it?",
+  "options": [
+    "The arrow of judgment on Israel",
+    "The LORD's arrow of victory over Aram",
+    "The sign of peace",
+    "The arrow of Elijah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Promise"
+  ],
+  "characters": [
+    "Elisha",
+    "Jehoash"
+  ],
+  "places": [
+    {
+      "name": "Aram",
+      "type": "country"
+    },
+    {
+      "name": "Aphek",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha declared, 'The LORD's arrow of victory, the arrow of victory over Aram!' and said Jehoash would destroy the Arameans at Aphek."
+}

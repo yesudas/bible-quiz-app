@@ -1,0 +1,37 @@
+{
+  "id": "19-068-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 68,
+  "verse_reference": "Psalm 68:8",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In Psalm 68:8, the earth shook before God, the One of which mountain?",
+  "options": [
+    "Mount Zion",
+    "Mount Carmel",
+    "Mount Sinai",
+    "Mount Hermon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Mount Sinai",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The earth shook and the heavens poured down rain before God, the One of Sinai."
+}

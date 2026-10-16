@@ -1,0 +1,34 @@
+{
+  "id": "19-040-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 40,
+  "verse_reference": "Psalm 40:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 40:5, why does David say he cannot declare all the LORD's wonders?",
+  "options": [
+    "He has forgotten them",
+    "They are a secret",
+    "No one would listen",
+    "They would be too many to declare"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Thanksgiving"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 40:5 says if he were to speak and tell of the LORD's deeds, they would be too many to declare."
+}

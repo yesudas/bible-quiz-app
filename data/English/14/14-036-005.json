@@ -1,0 +1,41 @@
+{
+  "id": "14-036-005",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 36,
+  "verse_reference": "2 Chronicles 36:7",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Nebuchadnezzar put the articles he took from the LORD's temple?",
+  "options": [
+    "In the river",
+    "In his palace in Egypt",
+    "In his temple in Babylon",
+    "In the Dead Sea"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    },
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nebuchadnezzar took articles from the temple of the LORD to Babylon and put them in his temple there."
+}

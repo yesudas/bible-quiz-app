@@ -1,0 +1,37 @@
+{
+  "id": "19-061-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 61,
+  "verse_reference": "Psalm 61:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 61:4, where does David long to dwell forever?",
+  "options": [
+    "In the king's palace",
+    "In the city of David",
+    "In the land of Canaan",
+    "In God's tent"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Hope"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "God's tent",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David says he longs to dwell in God's tent forever and take refuge in the shelter of His wings."
+}

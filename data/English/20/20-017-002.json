@@ -1,0 +1,31 @@
+{
+  "id": "20-017-002",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 17,
+  "verse_reference": "Proverbs 17:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 17:3, what does the LORD test?",
+  "options": [
+    "The silver",
+    "The gold",
+    "The heart",
+    "The weather"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 17:3 says the crucible is for silver and the furnace for gold, but the LORD tests the heart."
+}

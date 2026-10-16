@@ -1,0 +1,31 @@
+{
+  "id": "19-137-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 137,
+  "verse_reference": "Psalm 137:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 137, what did the captives hang on the poplars?",
+  "options": [
+    "Their swords",
+    "Their clothes",
+    "Their scrolls",
+    "Their harps"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"There on the poplars we hung our harps.\""
+}

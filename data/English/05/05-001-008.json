@@ -1,0 +1,30 @@
+{
+  "id": "05-001-008",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 1,
+  "verse_reference": "Deuteronomy 1:25",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the explorers bring back to show the land was good?",
+  "options": [
+    "Gold and silver",
+    "Weapons of the enemy",
+    "Stone tablets",
+    "Some of the fruit of the land"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The explorers brought back some of the fruit of the land and reported that the land the Lord was giving them was good."
+}

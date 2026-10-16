@@ -1,0 +1,31 @@
+{
+  "id": "19-098-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 98,
+  "verse_reference": "Psalm 98:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 98:3, who have seen the salvation of our God?",
+  "options": [
+    "Only the priests",
+    "All the ends of the earth",
+    "Only the kings",
+    "Only Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm says all the ends of the earth have seen the salvation of our God."
+}

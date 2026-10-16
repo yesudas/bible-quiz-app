@@ -1,0 +1,33 @@
+{
+  "id": "18-035-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 35,
+  "verse_reference": "Job 35:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Job 35:5, where did Elihu tell Job to look?",
+  "options": [
+    "Up at the heavens and the clouds",
+    "Down at the sea",
+    "Out at the fields",
+    "Into his own heart"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "Elihu",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elihu said, 'Look up at the heavens and see; gaze at the clouds so high above you.'"
+}

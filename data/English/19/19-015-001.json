@@ -1,0 +1,43 @@
+{
+  "id": "19-015-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 15,
+  "verse_reference": "Psalm 15:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What question does David ask the LORD at the start of Psalm 15?",
+  "options": [
+    "Who may dwell in your sacred tent?",
+    "When will you save us?",
+    "Why do the wicked prosper?",
+    "Where is your throne?"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Holiness"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [
+    {
+      "name": "Sacred tent",
+      "type": "tabernacle"
+    },
+    {
+      "name": "Holy mountain",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 15:1 asks, \"LORD, who may dwell in your sacred tent? Who may live on your holy mountain?\""
+}

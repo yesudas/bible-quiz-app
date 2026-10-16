@@ -1,0 +1,33 @@
+{
+  "id": "13-020-005",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 20,
+  "verse_reference": "1 Chronicles 20:5",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who killed Lahmi, the brother of Goliath the Gittite?",
+  "options": [
+    "David",
+    "Elhanan son of Jair",
+    "Jonathan son of Shimea",
+    "Joab"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "War"
+  ],
+  "characters": [
+    "Elhanan",
+    "Lahmi",
+    "Goliath"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 20:5 says Elhanan son of Jair killed Lahmi the brother of Goliath the Gittite."
+}

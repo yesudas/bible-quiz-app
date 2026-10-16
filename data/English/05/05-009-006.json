@@ -1,0 +1,38 @@
+{
+  "id": "05-009-006",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 9,
+  "verse_reference": "Deuteronomy 9:12-16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What sinful idol had Israel made while Moses was on the mountain?",
+  "options": [
+    "A golden calf",
+    "A bronze serpent",
+    "A wooden pole",
+    "A silver bull"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Worship",
+    "Judgment"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Horeb",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While Moses was on the mountain, Israel quickly turned aside and made a golden calf, an idol of cast metal, to worship."
+}

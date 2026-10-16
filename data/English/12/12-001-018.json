@@ -1,0 +1,33 @@
+{
+  "id": "12-001-018",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 1,
+  "verse_reference": "2 Kings 1:17",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "What happened right after Elijah gave his message to King Ahaziah in person?",
+  "options": [
+    "Moab rebelled against Israel",
+    "Ahaziah sent messengers to Ekron",
+    "Ahaziah died, as Elijah had said",
+    "A third captain was sent to Elijah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Ahaziah",
+    "Elijah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After Elijah spoke to the king, Ahaziah died according to the word of the LORD that Elijah had spoken."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "11-011-005",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 11,
+  "verse_reference": "1 Kings 11:7",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Solomon build a high place for Chemosh, the detestable god of Moab?",
+  "options": [
+    "On a hill east of Jerusalem",
+    "On Mount Carmel",
+    "In the temple courtyard",
+    "At Bethel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On a hill east of Jerusalem, Solomon built a high place for Chemosh the detestable god of Moab and for Molek."
+}

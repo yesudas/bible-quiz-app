@@ -1,0 +1,40 @@
+{
+  "id": "06-024-012",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 24,
+  "verse_reference": "Joshua 24:30",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where was Joshua buried?",
+  "options": [
+    "At Shechem",
+    "At Hebron",
+    "At Shiloh",
+    "At Timnath Serah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Timnath Serah",
+      "type": "city"
+    },
+    {
+      "name": "hill country of Ephraim",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They buried Joshua in the land of his inheritance, at Timnath Serah in the hill country of Ephraim."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "05-012-005",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 12,
+  "verse_reference": "Deuteronomy 12:16",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God command Israel NOT to eat, but to pour out on the ground like water?",
+  "options": [
+    "The blood",
+    "The fat",
+    "The grain",
+    "The wine"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God forbade eating the blood, commanding that it be poured out on the ground like water, because the blood represents the life."
+}

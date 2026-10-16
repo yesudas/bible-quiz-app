@@ -1,0 +1,33 @@
+{
+  "id": "19-146-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 146,
+  "verse_reference": "Psalm 146:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 146, those are blessed whose help is the God of whom?",
+  "options": [
+    "David",
+    "Moses",
+    "Jacob",
+    "Solomon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Blessed are those whose help is the God of Jacob, whose hope is in the LORD their God.\""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "09-030-007",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 30,
+  "verse_reference": "1 Samuel 30:9-10",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "At which valley did two hundred of David's men stay behind because they were too exhausted to cross?",
+  "options": [
+    "Valley of Elah",
+    "Kidron Valley",
+    "Jezreel Valley",
+    "Besor Valley"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Besor Valley",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they came to the Besor Valley, two hundred men were too exhausted to cross, but David and four hundred men continued the pursuit."
+}

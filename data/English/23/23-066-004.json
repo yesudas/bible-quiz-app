@@ -1,0 +1,36 @@
+{
+  "id": "23-066-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 66,
+  "verse_reference": "Isaiah 66:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: 'As a ______ comforts her child, so will I comfort you.'",
+  "options": [
+    "sister",
+    "friend",
+    "nurse",
+    "mother"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 66:13 says, 'As a mother comforts her child, so will I comfort you; and you will be comforted over Jerusalem.'"
+}

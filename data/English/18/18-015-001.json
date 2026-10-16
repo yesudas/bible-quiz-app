@@ -1,0 +1,32 @@
+{
+  "id": "18-015-001",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 15,
+  "verse_reference": "Job 15:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Eliphaz's question: \"Would a wise person answer with empty notions or fill their belly with the hot ____ wind?\"",
+  "options": [
+    "north",
+    "west",
+    "east",
+    "south"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Eliphaz",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eliphaz asked whether a wise person would answer with empty notions or fill their belly with the hot east wind, suggesting Job's words were empty."
+}

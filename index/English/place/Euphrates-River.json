@@ -1,0 +1,22 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Euphrates-River",
+    "label": "Euphrates River",
+    "count": 12,
+    "paths": [
+        "English/10/10-008-003.json",
+        "English/11/11-004-007.json",
+        "English/11/11-014-007.json",
+        "English/12/12-023-013.json",
+        "English/12/12-024-005.json",
+        "English/13/13-018-003.json",
+        "English/13/13-019-010.json",
+        "English/14/14-009-015.json",
+        "English/14/14-035-008.json",
+        "English/23/23-007-011.json",
+        "English/23/23-008-005.json",
+        "English/23/23-011-011.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

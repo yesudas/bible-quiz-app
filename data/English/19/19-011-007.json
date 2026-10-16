@@ -1,0 +1,33 @@
+{
+  "id": "19-011-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 11,
+  "verse_reference": "Psalm 11:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"For the LORD is righteous, he loves ____.\"",
+  "options": [
+    "justice",
+    "peace",
+    "children",
+    "music"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Justice",
+    "Holiness"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 11:7 says, \"For the LORD is righteous, he loves justice; the upright will see his face.\""
+}

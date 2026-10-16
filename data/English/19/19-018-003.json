@@ -1,0 +1,34 @@
+{
+  "id": "19-018-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 18,
+  "verse_reference": "Psalm 18:2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which of these is one of the names David gives the LORD in Psalm 18:2?",
+  "options": [
+    "My lamp",
+    "My rock",
+    "My bread",
+    "My river"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Protection"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 18:2 says, \"The LORD is my rock, my fortress and my deliverer.\""
+}

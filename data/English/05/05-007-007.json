@@ -1,0 +1,31 @@
+{
+  "id": "05-007-007",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 7,
+  "verse_reference": "Deuteronomy 7:13-14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God promise to Israel if they obeyed and kept the covenant?",
+  "options": [
+    "He would love and bless them and increase their numbers, crops, and herds",
+    "He would give them gold from other nations",
+    "He would make them rulers over the whole earth",
+    "He would remove the need to farm"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Covenant",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised to love, bless, and multiply Israel, blessing their children, crops, and animals more than any other people if they obeyed Him."
+}

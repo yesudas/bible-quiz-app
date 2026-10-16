@@ -1,0 +1,31 @@
+{
+  "id": "19-104-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 104,
+  "verse_reference": "Psalm 104:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 104, what does the LORD wrap Himself in as with a garment?",
+  "options": [
+    "Clouds",
+    "Light",
+    "Fire",
+    "Glory"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist says the LORD wraps Himself in light as with a garment and stretches out the heavens like a tent."
+}

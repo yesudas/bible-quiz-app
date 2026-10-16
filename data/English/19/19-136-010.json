@@ -1,0 +1,30 @@
+{
+  "id": "19-136-010",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 136,
+  "verse_reference": "Psalm 136:26",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the last verse: \"Give thanks to the God of ______. His love endures forever.\"",
+  "options": [
+    "Israel",
+    "Abraham",
+    "heaven",
+    "Zion"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 136 ends by calling us to give thanks to the God of heaven."
+}

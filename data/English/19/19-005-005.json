@@ -1,0 +1,39 @@
+{
+  "id": "19-005-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 5,
+  "verse_reference": "Psalm 5:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How does David say he is able to come into God's house?",
+  "options": [
+    "By his great love",
+    "By his own good deeds",
+    "Because he is the king",
+    "By bringing many gifts"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Worship",
+    "Grace"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [
+    {
+      "name": "God's holy temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 5:7 says, \"But I, by your great love, can come into your house,\" and bow down toward God's holy temple."
+}

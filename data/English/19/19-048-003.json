@@ -1,0 +1,38 @@
+{
+  "id": "19-048-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 48,
+  "verse_reference": "Psalm 48:2",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In Psalm 48:2, Mount Zion is compared to the heights of which place?",
+  "options": [
+    "Lebanon",
+    "Hermon",
+    "Zaphon",
+    "Carmel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mount Zion",
+      "type": "mountain"
+    },
+    {
+      "name": "Zaphon",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 48:2 says, \"Like the heights of Zaphon is Mount Zion, the city of the Great King.\""
+}

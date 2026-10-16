@@ -1,0 +1,39 @@
+{
+  "id": "08-002-011",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 2,
+  "verse_reference": "Ruth 2:15-16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Boaz tell his men to do to help Ruth?",
+  "options": [
+    "Pull out some stalks from the bundles for her",
+    "Carry her grain home",
+    "Give her silver",
+    "Build her a shelter"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kindness",
+    "Generosity"
+  ],
+  "characters": [
+    "Boaz",
+    "Ruth"
+  ],
+  "places": [
+    {
+      "name": "Boaz's field",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Boaz told his men to let Ruth gather among the sheaves and to pull out some stalks for her to pick up."
+}

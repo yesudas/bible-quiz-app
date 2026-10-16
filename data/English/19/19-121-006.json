@@ -1,0 +1,31 @@
+{
+  "id": "19-121-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 121,
+  "verse_reference": "Psalm 121:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 121, what will not harm you by night?",
+  "options": [
+    "The lion",
+    "The moon",
+    "The storm",
+    "The enemy"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The sun will not harm you by day, nor the moon by night."
+}

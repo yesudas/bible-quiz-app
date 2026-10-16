@@ -1,0 +1,34 @@
+{
+  "id": "23-013-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 13,
+  "verse_reference": "Isaiah 13:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why could the Medes not be bribed to spare Babylon?",
+  "options": [
+    "They were too far away",
+    "They had no delight in gold and did not care for silver",
+    "They did not speak the same language",
+    "They were afraid of Babylon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Money"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 13:17 describes the Medes as people who do not care for silver and have no delight in gold."
+}

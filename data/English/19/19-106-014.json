@@ -1,0 +1,34 @@
+{
+  "id": "19-106-014",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 106,
+  "verse_reference": "Psalm 106:37-38",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What terrible sin does Psalm 106 say the people committed to the idols of Canaan?",
+  "options": [
+    "They burned the temple",
+    "They sacrificed their sons and daughters",
+    "They killed the prophets",
+    "They sold the land"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Canaan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They sacrificed their sons and daughters to false gods, shedding innocent blood to the idols of Canaan."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "18-038-010",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 38,
+  "verse_reference": "Job 38:39",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "For which animal did the LORD ask Job if he hunts prey?",
+  "options": [
+    "The eagle",
+    "The wolf",
+    "The bear",
+    "The lioness"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD asked, 'Do you hunt the prey for the lioness and satisfy the hunger of the lions?'"
+}

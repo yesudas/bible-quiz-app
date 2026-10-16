@@ -1,0 +1,30 @@
+{
+  "id": "05-017-001",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 17,
+  "verse_reference": "Deuteronomy 17:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What kind of animal was Israel forbidden to sacrifice to the Lord?",
+  "options": [
+    "An animal with any defect or flaw",
+    "A young animal",
+    "A female animal",
+    "An animal from another town"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel was not to sacrifice an ox or sheep that had any defect or flaw, because that would be detestable to the Lord."
+}

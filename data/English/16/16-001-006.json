@@ -1,0 +1,36 @@
+{
+  "id": "16-001-006",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 1,
+  "verse_reference": "Nehemiah 1:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "In which month did Nehemiah hear the news about Jerusalem?",
+  "options": [
+    "Nisan",
+    "Adar",
+    "Kislev",
+    "Elul"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Nehemiah"
+  ],
+  "places": [
+    {
+      "name": "Susa",
+      "type": "citadel"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah heard the news in the month of Kislev in the twentieth year."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "19-100-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 100,
+  "verse_reference": "Psalm 100:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Worship the LORD with ____; come before him with joyful songs.\"",
+  "options": [
+    "gladness",
+    "fear",
+    "gifts",
+    "tears"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm calls us to worship the LORD with gladness and joyful songs."
+}

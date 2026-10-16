@@ -1,0 +1,36 @@
+{
+  "id": "15-008-002",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 8,
+  "verse_reference": "Ezra 8:15",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "While checking the people at the canal, which group did Ezra find missing?",
+  "options": [
+    "The priests",
+    "The singers",
+    "The Levites",
+    "The family heads"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Ezra"
+  ],
+  "places": [
+    {
+      "name": "Ahava Canal",
+      "type": "canal"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Ezra checked among the people and the priests, he found no Levites there."
+}

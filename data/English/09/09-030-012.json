@@ -1,0 +1,31 @@
+{
+  "id": "09-030-012",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 30,
+  "verse_reference": "1 Samuel 30:17",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How did some of the Amalekites escape David's attack?",
+  "options": [
+    "Four hundred young men rode off on camels",
+    "They hid in caves",
+    "They swam across a river",
+    "They surrendered"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David fought them from dusk until the evening of the next day, and none of them got away except four hundred young men who rode off on camels."
+}

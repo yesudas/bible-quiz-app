@@ -1,0 +1,31 @@
+{
+  "id": "06-003-003",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 3,
+  "verse_reference": "Joshua 3:3",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who carried the ark of the covenant?",
+  "options": [
+    "The elders of Israel",
+    "The fighting men",
+    "The Levitical priests",
+    "The twelve spies"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people were told to watch for the ark being carried by the Levitical priests."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "09-005-005",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 5,
+  "verse_reference": "1 Samuel 5:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Because of what happened to Dagon, what do the priests of Dagon avoid doing in Ashdod?",
+  "options": [
+    "Touching the ark",
+    "Entering the temple at night",
+    "Stepping on the threshold of Dagon's temple",
+    "Speaking the name of the LORD"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Dagon"
+  ],
+  "places": [
+    {
+      "name": "Ashdod",
+      "type": "city"
+    },
+    {
+      "name": "Temple of Dagon",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "That is why the priests of Dagon and others who enter his temple at Ashdod do not step on the threshold."
+}

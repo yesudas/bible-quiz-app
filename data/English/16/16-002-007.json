@@ -1,0 +1,32 @@
+{
+  "id": "16-002-007",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 2,
+  "verse_reference": "Nehemiah 2:10",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which two men were very troubled that someone had come to help the Israelites?",
+  "options": [
+    "Sanballat and Tobiah",
+    "Haman and Zeresh",
+    "Rehum and Shimshai",
+    "Hanani and Hananiah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Sanballat",
+    "Tobiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sanballat the Horonite and Tobiah the Ammonite official were very disturbed that someone had come to promote the welfare of the Israelites."
+}

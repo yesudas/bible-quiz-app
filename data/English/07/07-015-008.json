@@ -1,0 +1,37 @@
+{
+  "id": "07-015-008",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 15,
+  "verse_reference": "Judges 15:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the men of Judah want to hand Samson over to the Philistines?",
+  "options": [
+    "The Philistines were rulers over them, and Samson's actions brought trouble on them",
+    "Samson had stolen from Judah",
+    "The priests commanded them to",
+    "The Philistines offered them a large reward"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Suffering"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The men of Judah said, \"Don't you realize that the Philistines are rulers over us? What have you done to us?\""
+}

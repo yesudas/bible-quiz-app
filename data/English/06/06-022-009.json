@@ -1,0 +1,35 @@
+{
+  "id": "06-022-009",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 22,
+  "verse_reference": "Joshua 22:26-27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the eastern tribes say the altar was really for?",
+  "options": [
+    "For burnt offerings and sacrifices",
+    "For worshiping other gods",
+    "To mark the border of their land for battle",
+    "To be a witness that they too served the LORD"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Family"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They said the altar was not for sacrifices but a witness between them and the other tribes, so future children would know they too belonged to the LORD."
+}

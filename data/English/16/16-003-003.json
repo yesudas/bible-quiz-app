@@ -1,0 +1,38 @@
+{
+  "id": "16-003-003",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 3,
+  "verse_reference": "Nehemiah 3:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What does Nehemiah 3:5 say about the nobles of Tekoa?",
+  "options": [
+    "They gave gold for the gates",
+    "They guarded the builders at night",
+    "They would not do the work under their supervisors",
+    "They built two sections of the wall"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Tekoa",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The men of Tekoa repaired a section, but their nobles would not put their shoulders to the work under their supervisors."
+}

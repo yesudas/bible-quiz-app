@@ -1,0 +1,36 @@
+{
+  "id": "16-012-007",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 12,
+  "verse_reference": "Nehemiah 12:38",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did the two choirs move along the wall?",
+  "options": [
+    "They went in opposite directions, with Nehemiah following the second",
+    "Both went the same way, led by Nehemiah",
+    "They stayed in one place",
+    "They marched around the city seven times"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Nehemiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The first choir went one way, and the second choir went in the opposite direction, with Nehemiah following them; both ended up in the house of God."
+}

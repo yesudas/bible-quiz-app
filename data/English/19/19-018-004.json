@@ -1,0 +1,39 @@
+{
+  "id": "19-018-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 18,
+  "verse_reference": "Psalm 18:6",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In Psalm 18:6, where did the LORD hear David's voice from when he called in distress?",
+  "options": [
+    "From the mountain",
+    "From the clouds",
+    "From the sea",
+    "From his temple"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Salvation"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [
+    {
+      "name": "His temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 18:6 says, \"In my distress I called to the LORD... From his temple he heard my voice.\""
+}

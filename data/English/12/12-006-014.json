@@ -1,0 +1,41 @@
+{
+  "id": "12-006-014",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 6,
+  "verse_reference": "2 Kings 6:24",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which king of Aram besieged Samaria?",
+  "options": [
+    "Ben-Hadad",
+    "Hazael",
+    "Rezin",
+    "Naaman"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Suffering"
+  ],
+  "characters": [
+    "Ben-Hadad"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    },
+    {
+      "name": "Aram",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ben-Hadad king of Aram mobilised his whole army and laid siege to Samaria."
+}

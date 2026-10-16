@@ -1,0 +1,32 @@
+{
+  "id": "05-004-010",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 4,
+  "verse_reference": "Deuteronomy 4:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Moses said: \"For the Lord your God is a consuming ___, a jealous God.\"",
+  "options": [
+    "light",
+    "fire",
+    "wind",
+    "storm"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Judgment"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses described the Lord as a consuming fire and a jealous God, warning against idolatry."
+}

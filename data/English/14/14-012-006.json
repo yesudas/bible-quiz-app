@@ -1,0 +1,37 @@
+{
+  "id": "14-012-006",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 12,
+  "verse_reference": "2 Chronicles 12:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "When the leaders and the king humbled themselves, what did they say? \"The LORD is ______.\"",
+  "options": [
+    "good",
+    "great",
+    "just",
+    "holy"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance"
+  ],
+  "characters": [
+    "Rehoboam"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The leaders of Israel and the king humbled themselves and said, \"The LORD is just.\""
+}

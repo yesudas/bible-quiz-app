@@ -1,0 +1,31 @@
+{
+  "id": "23-026-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 26,
+  "verse_reference": "Isaiah 26:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'But your dead will ______, LORD; their bodies will rise.'",
+  "options": [
+    "live",
+    "sleep",
+    "be remembered",
+    "rest"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Promise",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 26:19 says, 'But your dead will live, LORD; their bodies will rise\u2014let those who dwell in the dust wake up and shout for joy.'"
+}

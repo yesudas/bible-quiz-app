@@ -1,0 +1,41 @@
+{
+  "id": "19-133-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 133,
+  "verse_reference": "Psalm 133:3",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Psalm 133 says unity is as if the dew of which mountain were falling on Mount Zion?",
+  "options": [
+    "Hermon",
+    "Carmel",
+    "Sinai",
+    "Tabor"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Peace"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Mount Hermon",
+      "type": "mountain"
+    },
+    {
+      "name": "Mount Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "It is as if the dew of Hermon were falling on Mount Zion."
+}

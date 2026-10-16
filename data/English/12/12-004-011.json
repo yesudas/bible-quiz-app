@@ -1,0 +1,35 @@
+{
+  "id": "12-004-011",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 4,
+  "verse_reference": "2 Kings 4:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "When the boy was out with the reapers, he said to his father: \"My ______! My ______!\"",
+  "options": [
+    "eyes",
+    "head",
+    "stomach",
+    "leg"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Shunem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The boy cried, 'My head! My head!' He was carried to his mother, sat on her lap until noon, and then died."
+}

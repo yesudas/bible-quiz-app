@@ -1,0 +1,36 @@
+{
+  "id": "23-027-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 27,
+  "verse_reference": "Isaiah 27:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Isaiah 27:6, what will Israel fill all the world with?",
+  "options": [
+    "Fruit",
+    "Gold",
+    "Soldiers",
+    "Temples"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Promise",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 27:6 says, 'Jacob will take root, Israel will bud and blossom and fill all the world with fruit.'"
+}

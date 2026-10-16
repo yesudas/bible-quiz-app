@@ -1,0 +1,39 @@
+{
+  "id": "12-021-008",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 21,
+  "verse_reference": "2 Kings 21:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The LORD said He would bring such disaster on Jerusalem that \"the ears of everyone who hears of it will ______.\"",
+  "options": [
+    "close",
+    "tingle",
+    "bleed",
+    "ring"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said through His prophets that the disaster would be so great that the ears of everyone who heard of it would tingle."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "12-022-015",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 22,
+  "verse_reference": "2 Kings 22:20",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the LORD promise Josiah through Huldah?",
+  "options": [
+    "He would never die",
+    "Judah would never be punished",
+    "He would rule for another fifty years",
+    "His eyes would not see the disaster, and he would be buried in peace"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Prophecy"
+  ],
+  "characters": [
+    "Josiah",
+    "Huldah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said Josiah would be buried in peace and his eyes would not see all the disaster He was going to bring."
+}

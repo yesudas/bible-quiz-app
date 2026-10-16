@@ -1,0 +1,38 @@
+{
+  "id": "23-036-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 36,
+  "verse_reference": "Isaiah 36:3",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which man was the palace administrator who went out to meet the field commander?",
+  "options": [
+    "Shebna",
+    "Joah",
+    "Eliakim son of Hilkiah",
+    "Isaiah son of Amoz"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Eliakim",
+    "Hilkiah",
+    "Shebna",
+    "Joah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 36:3 says Eliakim son of Hilkiah the palace administrator, Shebna the secretary and Joah the recorder went out to him."
+}

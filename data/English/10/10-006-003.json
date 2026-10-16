@@ -1,0 +1,40 @@
+{
+  "id": "10-006-003",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 6,
+  "verse_reference": "2 Samuel 6:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How was the ark carried when it was first brought from Abinadab's house?",
+  "options": [
+    "On a boat",
+    "On the shoulders of the Levites",
+    "On a camel",
+    "On a new cart"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [
+    "Abinadab",
+    "Uzzah",
+    "Ahio"
+  ],
+  "places": [
+    {
+      "name": "Abinadab's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They set the ark of God on a new cart and brought it from the house of Abinadab, with Uzzah and Ahio guiding it."
+}

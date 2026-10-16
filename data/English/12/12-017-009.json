@@ -1,0 +1,34 @@
+{
+  "id": "12-017-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 17,
+  "verse_reference": "2 Kings 17:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What idols did the Israelites make for themselves?",
+  "options": [
+    "Two idols cast in the shape of calves",
+    "A golden serpent",
+    "A statue of Moses",
+    "Twelve stone pillars"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Idolatry"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They forsook the LORD's commands and made for themselves two idols cast in the shape of calves, and an Asherah pole."
+}

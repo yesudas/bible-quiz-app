@@ -1,0 +1,32 @@
+{
+  "id": "18-011-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 11,
+  "verse_reference": "Job 11:8-9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Zophar said the measure of God's wisdom is longer than the earth and wider than what?",
+  "options": [
+    "The desert",
+    "The sky",
+    "The sea",
+    "The river"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Creation"
+  ],
+  "characters": [
+    "Zophar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zophar said God's wisdom is higher than the heavens, deeper than the grave, longer than the earth and wider than the sea."
+}

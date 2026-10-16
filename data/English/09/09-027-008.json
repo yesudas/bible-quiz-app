@@ -1,0 +1,35 @@
+{
+  "id": "09-027-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 27,
+  "verse_reference": "1 Samuel 27:8",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which of these peoples did David and his men raid while living at Ziklag?",
+  "options": [
+    "The Geshurites, Girzites and Amalekites",
+    "The Moabites and Edomites",
+    "The Hittites and Amorites",
+    "The Ammonites and Arameans"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Ziklag",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David and his men went up and raided the Geshurites, the Girzites and the Amalekites, peoples who had lived in the land from ancient times."
+}

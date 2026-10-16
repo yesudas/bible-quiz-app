@@ -1,0 +1,34 @@
+{
+  "id": "07-020-008",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 20,
+  "verse_reference": "Judges 20:21",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many Israelites did the Benjamites cut down on the first day of battle?",
+  "options": [
+    "Ten thousand",
+    "Twenty-five thousand one hundred",
+    "Twenty-two thousand",
+    "Six hundred"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gibeah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Benjamites came out of Gibeah and cut down twenty-two thousand Israelites on the battlefield that day."
+}

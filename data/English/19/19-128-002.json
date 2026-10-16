@@ -1,0 +1,31 @@
+{
+  "id": "19-128-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 128,
+  "verse_reference": "Psalm 128:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does Psalm 128 promise the one who fears the LORD will eat?",
+  "options": [
+    "The bread of heaven",
+    "Food from the king's table",
+    "The fruit of their labor",
+    "Manna"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Provision",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"You will eat the fruit of your labor; blessings and prosperity will be yours.\""
+}

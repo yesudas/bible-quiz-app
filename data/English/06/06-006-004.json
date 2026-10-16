@@ -1,0 +1,36 @@
+{
+  "id": "06-006-004",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 6,
+  "verse_reference": "Joshua 6:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the seven priests carry in front of the ark?",
+  "options": [
+    "Swords",
+    "Banners",
+    "Lamps",
+    "Trumpets of rams' horns"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Seven priests carried trumpets of rams' horns in front of the ark."
+}

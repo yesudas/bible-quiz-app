@@ -1,0 +1,38 @@
+{
+  "id": "18-022-008",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 22,
+  "verse_reference": "Job 22:24-25",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Eliphaz spoke of throwing away gold from which place?",
+  "options": [
+    "Sheba",
+    "Tarshish",
+    "Ophir",
+    "Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Worship"
+  ],
+  "characters": [
+    "Eliphaz",
+    "Job"
+  ],
+  "places": [
+    {
+      "name": "Ophir",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eliphaz said to assign your gold of Ophir to the rocks, and then the Almighty will be your gold."
+}

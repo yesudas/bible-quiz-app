@@ -1,0 +1,35 @@
+{
+  "id": "06-010-003",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 10,
+  "verse_reference": "Joshua 10:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How many Amorite kings joined forces to attack Gibeon?",
+  "options": [
+    "Two",
+    "Three",
+    "Five",
+    "Seven"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gibeon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Five kings of the Amorites joined forces and attacked Gibeon."
+}

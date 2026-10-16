@@ -1,0 +1,35 @@
+{
+  "id": "09-006-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 6,
+  "verse_reference": "1 Samuel 6:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the ark placed on to send it back to Israel?",
+  "options": [
+    "A new cart pulled by two cows",
+    "A chariot pulled by horses",
+    "The shoulders of Levites",
+    "A boat on the river"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Philistia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Philistines prepared a new cart with two cows that had calved and had never been yoked, and placed the ark on it."
+}

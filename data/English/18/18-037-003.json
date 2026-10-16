@@ -1,0 +1,32 @@
+{
+  "id": "18-037-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 37,
+  "verse_reference": "Job 37:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Elihu, what does the breath of God produce?",
+  "options": [
+    "Fire",
+    "Clouds",
+    "Wind",
+    "Ice"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "Elihu"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elihu said, 'The breath of God produces ice, and the broad waters become frozen.'"
+}

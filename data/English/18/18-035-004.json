@@ -1,0 +1,33 @@
+{
+  "id": "18-035-004",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 35,
+  "verse_reference": "Job 35:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Where is God my Maker, who gives ____ in the night?\"",
+  "options": [
+    "light",
+    "songs",
+    "dreams",
+    "rest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Creation"
+  ],
+  "characters": [
+    "Elihu"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elihu said no one asks, 'Where is God my Maker, who gives songs in the night?'"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "12-002-015",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 2,
+  "verse_reference": "2 Kings 2:16-17",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How long did the fifty men search for Elijah?",
+  "options": [
+    "One day",
+    "Seven days",
+    "Three days",
+    "Forty days"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Elisha",
+    "Elijah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha let the fifty men go, and they searched for three days but did not find Elijah."
+}

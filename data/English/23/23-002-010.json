@@ -1,0 +1,38 @@
+{
+  "id": "23-002-010",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 2,
+  "verse_reference": "Isaiah 2:13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "The day of the LORD would come against the cedars of Lebanon and the oaks of which place?",
+  "options": [
+    "Bashan",
+    "Gilead",
+    "Carmel",
+    "Sharon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Lebanon",
+      "type": "region"
+    },
+    {
+      "name": "Bashan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 2:13 names all the cedars of Lebanon and all the oaks of Bashan as things the LORD would humble."
+}

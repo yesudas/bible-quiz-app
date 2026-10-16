@@ -1,0 +1,34 @@
+{
+  "id": "23-031-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 31,
+  "verse_reference": "Isaiah 31:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "To what animal does the LORD compare Himself as He comes down to fight on Mount Zion?",
+  "options": [
+    "An eagle",
+    "A bear",
+    "A wild ox",
+    "A lion"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mount Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 31:4 says, 'As a lion growls, a great lion over its prey... so the LORD Almighty will come down to do battle on Mount Zion.'"
+}

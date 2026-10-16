@@ -1,0 +1,40 @@
+{
+  "id": "09-002-005",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 2,
+  "verse_reference": "1 Samuel 2:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does the Bible say about Eli's sons?",
+  "options": [
+    "They were brave warriors",
+    "They were faithful priests",
+    "They were scoundrels with no regard for the LORD",
+    "They were wise judges"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Hophni",
+    "Phinehas",
+    "Eli"
+  ],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eli's sons were scoundrels; they had no regard for the LORD."
+}

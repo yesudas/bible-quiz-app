@@ -1,0 +1,34 @@
+{
+  "id": "18-032-001",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 32,
+  "verse_reference": "Job 32:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Job's three friends stop answering him?",
+  "options": [
+    "Because Job had become sick again",
+    "Because God told them to be quiet",
+    "Because they had to go home",
+    "Because Job was righteous in his own eyes"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Job",
+    "Eliphaz",
+    "Bildad",
+    "Zophar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The three men stopped answering Job, because he was righteous in his own eyes."
+}

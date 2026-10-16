@@ -1,0 +1,32 @@
+{
+  "id": "13-011-008",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 11,
+  "verse_reference": "1 Chronicles 11:11",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which chief of David's officers raised his spear against three hundred men and killed them in one encounter?",
+  "options": [
+    "Jashobeam",
+    "Eleazar",
+    "Shammah",
+    "Asahel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "War"
+  ],
+  "characters": [
+    "Jashobeam",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jashobeam, a Hakmonite, was chief of the officers and killed three hundred men in one encounter."
+}

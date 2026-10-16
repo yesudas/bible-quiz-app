@@ -1,0 +1,35 @@
+{
+  "id": "23-014-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 14,
+  "verse_reference": "Isaiah 14:15",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Instead of rising to the heavens, where was the proud one brought down to?",
+  "options": [
+    "The bottom of the sea",
+    "The realm of the dead, to the depths of the pit",
+    "A prison in Egypt",
+    "The desert of Edom"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Pride",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Realm of the dead",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 14:15 says, 'But you are brought down to the realm of the dead, to the depths of the pit.'"
+}

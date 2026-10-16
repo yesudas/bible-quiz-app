@@ -1,0 +1,31 @@
+{
+  "id": "22-003-007",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 3,
+  "verse_reference": "Song of Songs 3:10",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What were the posts of Solomon's carriage made of?",
+  "options": [
+    "Silver",
+    "Gold",
+    "Bronze",
+    "Ivory"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 3:10 says its posts were made of silver and its base of gold."
+}

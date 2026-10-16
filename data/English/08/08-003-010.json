@@ -1,0 +1,39 @@
+{
+  "id": "08-003-010",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 3,
+  "verse_reference": "Ruth 3:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Boaz said, \"All the people of my town know that you are a woman of ____ character.\"",
+  "options": [
+    "gentle",
+    "humble",
+    "faithful",
+    "noble"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Character",
+    "Faithfulness"
+  ],
+  "characters": [
+    "Boaz",
+    "Ruth"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Boaz told Ruth that all the people of his town knew she was a woman of noble character."
+}

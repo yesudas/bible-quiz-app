@@ -1,0 +1,40 @@
+{
+  "id": "06-005-006",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 5,
+  "verse_reference": "Joshua 5:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Which feast did the Israelites celebrate while camped at Gilgal?",
+  "options": [
+    "The Feast of Tabernacles",
+    "Purim",
+    "The Passover",
+    "The Feast of Weeks"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Remembrance"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gilgal",
+      "type": "camp"
+    },
+    {
+      "name": "plains of Jericho",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While camped at Gilgal on the plains of Jericho, the Israelites celebrated the Passover."
+}

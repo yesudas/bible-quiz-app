@@ -1,0 +1,33 @@
+{
+  "id": "07-008-001",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 8,
+  "verse_reference": "Judges 8:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which tribe sharply criticized Gideon for not calling them when he went to fight Midian?",
+  "options": [
+    "The Danites",
+    "The Benjamites",
+    "The Reubenites",
+    "The Ephraimites"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Unity",
+    "Leadership"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Ephraimites asked Gideon why he had not called them when he went to fight Midian, and they criticized him sharply."
+}

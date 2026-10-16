@@ -1,0 +1,33 @@
+{
+  "id": "19-140-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 140,
+  "verse_reference": "Psalm 140:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "From whom did David ask the LORD to rescue him in Psalm 140?",
+  "options": [
+    "Wild animals",
+    "Evildoers",
+    "A great flood",
+    "His own family"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Salvation"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David prayed, \"Rescue me, LORD, from evildoers; protect me from the violent.\""
+}

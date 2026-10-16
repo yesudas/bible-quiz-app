@@ -1,0 +1,32 @@
+{
+  "id": "23-045-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 45,
+  "verse_reference": "Isaiah 45:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom does the LORD call 'his anointed' in Isaiah 45:1?",
+  "options": [
+    "David",
+    "Cyrus",
+    "Hezekiah",
+    "Zerubbabel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Cyrus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 45:1 says, 'This is what the LORD says to his anointed, to Cyrus, whose right hand I take hold of to subdue nations before him.'"
+}

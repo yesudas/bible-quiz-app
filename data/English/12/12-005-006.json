@@ -1,0 +1,38 @@
+{
+  "id": "12-005-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 5,
+  "verse_reference": "2 Kings 5:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Elisha tell the king to send Naaman to him?",
+  "options": [
+    "So Elisha could receive his gifts",
+    "So Elisha could punish Naaman",
+    "So Naaman would make peace with Israel",
+    "So Naaman would know there is a prophet in Israel"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Mission"
+  ],
+  "characters": [
+    "Elisha",
+    "Naaman"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha said, 'Make the man come to me and he will know that there is a prophet in Israel.'"
+}

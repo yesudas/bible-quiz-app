@@ -1,0 +1,37 @@
+{
+  "id": "19-078-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 78,
+  "verse_reference": "Psalm 78:15-16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 78:15-16, what did God split in the wilderness to give His people water?",
+  "options": [
+    "The ground",
+    "The trees",
+    "The rocks",
+    "The clouds"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God split the rocks in the wilderness and brought streams out of a rocky crag."
+}

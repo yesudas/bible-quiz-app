@@ -1,0 +1,33 @@
+{
+  "id": "10-022-010",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 22,
+  "verse_reference": "2 Samuel 22:29",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"You, LORD, are my ______; the LORD turns my darkness into light.\"",
+  "options": [
+    "lamp",
+    "sun",
+    "star",
+    "fire"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David praised the LORD as his lamp, who turns darkness into light."
+}

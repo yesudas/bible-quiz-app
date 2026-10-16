@@ -1,0 +1,33 @@
+{
+  "id": "05-008-009",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 8,
+  "verse_reference": "Deuteronomy 8:19-20",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Moses warn would happen if Israel forgot the Lord and followed other gods?",
+  "options": [
+    "They would lose only their crops",
+    "They would surely be destroyed like the nations before them",
+    "They would be given a second chance each year",
+    "They would be scattered but never harmed"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses solemnly warned that if Israel forgot the Lord and worshiped other gods, they would surely be destroyed like the nations the Lord destroyed before them."
+}

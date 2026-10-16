@@ -1,0 +1,37 @@
+{
+  "id": "07-009-010",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 9,
+  "verse_reference": "Judges 9:21",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Jotham flee and live because he was afraid of Abimelek?",
+  "options": [
+    "Shechem",
+    "Ophrah",
+    "Beer",
+    "Thebez"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Jotham",
+    "Abimelek"
+  ],
+  "places": [
+    {
+      "name": "Beer",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After speaking, Jotham fled to Beer and lived there because he was afraid of his brother Abimelek."
+}

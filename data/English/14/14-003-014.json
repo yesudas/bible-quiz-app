@@ -1,0 +1,35 @@
+{
+  "id": "14-003-014",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 3,
+  "verse_reference": "2 Chronicles 3:17",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which pillar stood on the north side of the temple?",
+  "options": [
+    "Jakin",
+    "Hiram",
+    "Moriah",
+    "Boaz"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The pillar on the north was named Boaz, and the one on the south was named Jakin."
+}

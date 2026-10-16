@@ -1,0 +1,38 @@
+{
+  "id": "09-019-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 19,
+  "verse_reference": "1 Samuel 19:12",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did Michal help David escape from his house?",
+  "options": [
+    "She hid him in a barrel",
+    "She dressed him as a woman",
+    "She let him down through a window",
+    "She sent him out the back door"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [
+    "Michal",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "David's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Michal let David down through a window, and he fled and escaped."
+}

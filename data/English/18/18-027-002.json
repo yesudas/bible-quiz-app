@@ -1,0 +1,32 @@
+{
+  "id": "18-027-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 27,
+  "verse_reference": "Job 27:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Job's words: \"Till I die, I will not deny my ____.\"",
+  "options": [
+    "integrity",
+    "friends",
+    "family",
+    "God"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'I will never admit you are in the right; till I die, I will not deny my integrity.'"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "11-018-018",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 18,
+  "verse_reference": "1 Kings 18:39",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "When the people saw the fire, they fell down and cried, \"The LORD—he is ______!\"",
+  "options": [
+    "King",
+    "God",
+    "good",
+    "great"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mount Carmel",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When all the people saw this, they fell prostrate and cried, \"The LORD—he is God! The LORD—he is God!\""
+}

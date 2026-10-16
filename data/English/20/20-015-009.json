@@ -1,0 +1,30 @@
+{
+  "id": "20-015-009",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 15,
+  "verse_reference": "Proverbs 15:33",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"Wisdom's instruction is to fear the LORD, and ______ comes before honor.\"",
+  "options": [
+    "humility",
+    "wealth",
+    "strength",
+    "age"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 15:33 says wisdom's instruction is to fear the LORD, and humility comes before honor."
+}

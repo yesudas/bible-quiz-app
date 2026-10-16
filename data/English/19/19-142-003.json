@@ -1,0 +1,33 @@
+{
+  "id": "19-142-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 142,
+  "verse_reference": "Psalm 142:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When David's spirit grew faint, what did he say God does?",
+  "options": [
+    "God watches over his way",
+    "God leaves him alone",
+    "God sends him home",
+    "God makes him sleep"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"When my spirit grows faint within me, it is you who watch over my way.\""
+}

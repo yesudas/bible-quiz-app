@@ -1,0 +1,37 @@
+{
+  "id": "09-026-005",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 26,
+  "verse_reference": "1 Samuel 26:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Abishai want to do to Saul?",
+  "options": [
+    "Tie him up",
+    "Pin him to the ground with his spear",
+    "Wake him up",
+    "Take him prisoner"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Temptation"
+  ],
+  "characters": [
+    "Abishai",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Saul's camp",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abishai said God had delivered Saul into David's hands and asked to pin him to the ground with one thrust of the spear."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "11-002-011",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 2,
+  "verse_reference": "1 Kings 2:26-27",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "When Solomon removed Abiathar from being priest, where did he send him?",
+  "options": [
+    "To Shiloh",
+    "To his fields in Anathoth",
+    "To Gath",
+    "To Bethel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Prophecy"
+  ],
+  "characters": [
+    "Solomon",
+    "Abiathar"
+  ],
+  "places": [
+    {
+      "name": "Anathoth",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon told Abiathar to go back to his fields in Anathoth and removed him from the priesthood of the LORD."
+}

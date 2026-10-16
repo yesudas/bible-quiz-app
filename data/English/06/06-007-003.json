@@ -1,0 +1,37 @@
+{
+  "id": "06-007-003",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 7,
+  "verse_reference": "Joshua 7:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After spying out Ai, how many men did the spies say should be sent to attack it?",
+  "options": [
+    "The whole army",
+    "Twelve thousand men",
+    "About two or three thousand men",
+    "Forty thousand men"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Ai",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The spies told Joshua that not all the army needed to go; two or three thousand men would be enough to take Ai."
+}

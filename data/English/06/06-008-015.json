@@ -1,0 +1,33 @@
+{
+  "id": "06-008-015",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 8,
+  "verse_reference": "Joshua 8:35",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who heard Joshua read the law, along with the men of Israel?",
+  "options": [
+    "Only the priests and Levites",
+    "Only the elders",
+    "The women, children and foreigners among them",
+    "The kings of Canaan"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Family"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua read the law to the whole assembly of Israel, including the women and children and the foreigners living among them."
+}

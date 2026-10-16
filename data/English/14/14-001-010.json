@@ -1,0 +1,37 @@
+{
+  "id": "14-001-010",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 1,
+  "verse_reference": "2 Chronicles 1:14",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many chariots did Solomon gather?",
+  "options": [
+    "700",
+    "1,400",
+    "12,000",
+    "3,000"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Money"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon gathered 1,400 chariots and 12,000 horses, keeping them in the chariot cities and with him in Jerusalem."
+}

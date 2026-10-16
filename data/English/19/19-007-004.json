@@ -1,0 +1,33 @@
+{
+  "id": "19-007-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 7,
+  "verse_reference": "Psalm 7:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"My shield is God Most High, who saves the ____ in heart.\"",
+  "options": [
+    "pure",
+    "humble",
+    "brave",
+    "upright"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Protection"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 7:10 says, \"My shield is God Most High, who saves the upright in heart.\""
+}

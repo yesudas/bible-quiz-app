@@ -1,0 +1,32 @@
+{
+  "id": "05-005-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 5,
+  "verse_reference": "Deuteronomy 5:8-9",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What does the commandment about idols forbid making and bowing down to?",
+  "options": [
+    "Carved images or idols",
+    "Foreign coins",
+    "Written scrolls",
+    "Stone altars"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Law",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The commandment forbids making idols or images of anything to bow down to or worship them."
+}

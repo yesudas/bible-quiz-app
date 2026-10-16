@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Eleazar",
     "label": "Eleazar",
-    "count": 8,
+    "count": 23,
     "paths": [
         "English/04/04-003-001.json",
         "English/04/04-019-002.json",
@@ -12,7 +12,22 @@
         "English/04/04-027-007.json",
         "English/04/04-031-005.json",
         "English/04/04-031-007.json",
-        "English/04/04-034-005.json"
+        "English/04/04-034-005.json",
+        "English/05/05-010-003.json",
+        "English/06/06-014-001.json",
+        "English/06/06-017-005.json",
+        "English/06/06-019-009.json",
+        "English/06/06-021-001.json",
+        "English/06/06-021-002.json",
+        "English/06/06-024-015.json",
+        "English/07/07-020-011.json",
+        "English/09/09-007-002.json",
+        "English/10/10-023-006.json",
+        "English/13/13-006-003.json",
+        "English/13/13-009-005.json",
+        "English/13/13-011-009.json",
+        "English/13/13-024-001.json",
+        "English/13/13-024-003.json"
     ],
-    "generated": "2026-09-20T01:15:55+00:00"
+    "generated": "2026-10-16T13:50:54+00:00"
 }

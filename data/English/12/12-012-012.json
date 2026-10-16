@@ -1,0 +1,39 @@
+{
+  "id": "12-012-012",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 12,
+  "verse_reference": "2 Kings 12:17",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which city did Hazael capture before turning to attack Jerusalem?",
+  "options": [
+    "Gath",
+    "Libnah",
+    "Ekron",
+    "Samaria"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Hazael"
+  ],
+  "places": [
+    {
+      "name": "Gath",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hazael king of Aram attacked Gath and captured it, then turned to attack Jerusalem."
+}

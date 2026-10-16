@@ -1,0 +1,31 @@
+{
+  "id": "23-002-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 2,
+  "verse_reference": "Isaiah 2:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Isaiah 2:4, what will nations no longer do?",
+  "options": [
+    "Plant vineyards",
+    "Build houses",
+    "Train for war",
+    "Worship the LORD"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Peace"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 2:4 says nation will not take up sword against nation, nor will they train for war anymore."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "23-009-011",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 9,
+  "verse_reference": "Isaiah 9:21",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two tribes would turn against each other and then together turn against Judah?",
+  "options": [
+    "Reuben and Gad",
+    "Manasseh and Ephraim",
+    "Simeon and Levi",
+    "Dan and Asher"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 9:21 says Manasseh will feed on Ephraim, and Ephraim on Manasseh; together they will turn against Judah."
+}

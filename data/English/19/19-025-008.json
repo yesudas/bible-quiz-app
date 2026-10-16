@@ -1,0 +1,34 @@
+{
+  "id": "19-025-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 25,
+  "verse_reference": "Psalm 25:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 25:16, why does David ask the LORD to turn to him and be gracious?",
+  "options": [
+    "Because he is tired",
+    "Because he is old",
+    "Because he is hungry",
+    "Because he is lonely and afflicted"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Prayer"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 25:16 says, \"Turn to me and be gracious to me, for I am lonely and afflicted.\""
+}

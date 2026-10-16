@@ -1,0 +1,39 @@
+{
+  "id": "05-003-004",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 3,
+  "verse_reference": "Deuteronomy 3:12-13",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which tribes received the conquered land east of the Jordan, including Gilead and Bashan?",
+  "options": [
+    "Judah, Benjamin, and Levi",
+    "Ephraim, Dan, and Naphtali",
+    "Simeon, Issachar, and Zebulun",
+    "Reuben, Gad, and the half-tribe of Manasseh"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gilead",
+      "type": "region"
+    },
+    {
+      "name": "Bashan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses gave the land east of the Jordan to the Reubenites, the Gadites, and the half-tribe of Manasseh."
+}

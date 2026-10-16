@@ -1,0 +1,33 @@
+{
+  "id": "19-022-009",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 22,
+  "verse_reference": "Psalm 22:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 22:18, what do the enemies cast lots for?",
+  "options": [
+    "His garment",
+    "His land",
+    "His crown",
+    "His sword"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Prophecy"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 22:18 says, \"They divide my clothes among them and cast lots for my garment.\""
+}

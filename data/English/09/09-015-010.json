@@ -1,0 +1,34 @@
+{
+  "id": "09-015-010",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 15,
+  "verse_reference": "1 Samuel 15:23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the LORD reject Saul as king?",
+  "options": [
+    "Because Saul was too old",
+    "Because Saul had rejected the word of the LORD",
+    "Because Saul lost a battle",
+    "Because Saul's son was chosen"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Obedience",
+    "Leadership"
+  ],
+  "characters": [
+    "Saul",
+    "Samuel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel said, \"Because you have rejected the word of the LORD, he has rejected you as king.\""
+}

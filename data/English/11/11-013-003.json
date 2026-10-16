@@ -1,0 +1,35 @@
+{
+  "id": "11-013-003",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 13,
+  "verse_reference": "1 Kings 13:3,5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What sign did the man of God give that his words were from the LORD?",
+  "options": [
+    "The sun would go dark",
+    "The altar would split apart and its ashes pour out",
+    "Fire would fall from heaven",
+    "A lion would appear"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Miracles"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The sign was that the altar would be split apart and the ashes on it poured out, and it happened as he said."
+}

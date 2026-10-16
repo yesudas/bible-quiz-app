@@ -1,0 +1,33 @@
+{
+  "id": "09-020-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 20,
+  "verse_reference": "1 Samuel 20:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "David told Jonathan, \"There is only a ___ between me and death.\"",
+  "options": [
+    "day",
+    "wall",
+    "step",
+    "breath"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Persecution"
+  ],
+  "characters": [
+    "David",
+    "Jonathan"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said, \"As surely as the LORD lives and as you live, there is only a step between me and death.\""
+}

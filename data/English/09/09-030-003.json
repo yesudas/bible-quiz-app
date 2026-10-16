@@ -1,0 +1,37 @@
+{
+  "id": "09-030-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 30,
+  "verse_reference": "1 Samuel 30:4",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did David and his men do when they saw Ziklag burned?",
+  "options": [
+    "They chased the raiders at once",
+    "They built new houses",
+    "They went back to Achish",
+    "They wept aloud until they had no strength left"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Ziklag",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David and his men wept aloud until they had no strength left to weep."
+}

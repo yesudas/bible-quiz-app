@@ -1,0 +1,33 @@
+{
+  "id": "19-105-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 105,
+  "verse_reference": "Psalm 105:16-17",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "When God called down a famine, which man did He send ahead, who was sold as a slave?",
+  "options": [
+    "Moses",
+    "Joseph",
+    "Benjamin",
+    "Aaron"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Faith"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God sent Joseph ahead of His people; Joseph was sold as a slave before the famine came."
+}

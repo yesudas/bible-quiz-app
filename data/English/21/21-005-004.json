@@ -1,0 +1,30 @@
+{
+  "id": "21-005-004",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 5,
+  "verse_reference": "Ecclesiastes 5:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to the Teacher, what is better than making a vow and not fulfilling it?",
+  "options": [
+    "Making a smaller vow",
+    "Not making a vow at all",
+    "Asking a priest to fulfill it",
+    "Paying money instead"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"It is better not to make a vow than to make one and not fulfill it.\""
+}

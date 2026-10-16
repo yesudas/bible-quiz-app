@@ -1,0 +1,33 @@
+{
+  "id": "13-012-010",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 12,
+  "verse_reference": "1 Chronicles 12:32",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which tribe's men understood the times and knew what Israel should do?",
+  "options": [
+    "Zebulun",
+    "Judah",
+    "Levi",
+    "Issachar"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Issachar"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 12:32 says the men of Issachar understood the times and knew what Israel should do."
+}

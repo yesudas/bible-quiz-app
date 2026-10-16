@@ -1,0 +1,36 @@
+{
+  "id": "18-042-006",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 42,
+  "verse_reference": "Job 42:8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the LORD tell the three friends to take to Job for a burnt offering?",
+  "options": [
+    "Seven bulls and seven rams",
+    "Ten lambs and two goats",
+    "Three oxen and three sheep",
+    "Twelve doves"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Forgiveness"
+  ],
+  "characters": [
+    "God",
+    "Job",
+    "Eliphaz",
+    "Bildad",
+    "Zophar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told them to take seven bulls and seven rams, go to Job and sacrifice a burnt offering for themselves."
+}

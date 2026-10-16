@@ -1,0 +1,36 @@
+{
+  "id": "19-093-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 93,
+  "verse_reference": "Psalm 93:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Psalm 93:4, the LORD on high is mightier than what?",
+  "options": [
+    "The armies of the nations",
+    "The breakers of the sea",
+    "The kings of the earth",
+    "The mountains"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation",
+    "Kingdom of God"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "The sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD is mightier than the thunder of the great waters and the breakers of the sea."
+}

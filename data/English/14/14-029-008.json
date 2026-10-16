@@ -1,0 +1,33 @@
+{
+  "id": "14-029-008",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 29,
+  "verse_reference": "2 Chronicles 29:17",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "On which day of the first month did they finish consecrating the temple?",
+  "options": [
+    "The sixteenth day",
+    "The seventh day",
+    "The eighth day",
+    "The fortieth day"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They began on the first day of the first month and finished consecrating the temple on the sixteenth day."
+}

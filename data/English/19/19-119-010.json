@@ -1,0 +1,30 @@
+{
+  "id": "19-119-010",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 119,
+  "verse_reference": "Psalm 119:71",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Why did the psalmist say it was good for him to be afflicted?",
+  "options": [
+    "So that he might become rich",
+    "So that he might learn God's decrees",
+    "So that he might be famous",
+    "So that he might rest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He said, \"It was good for me to be afflicted so that I might learn your decrees.\""
+}

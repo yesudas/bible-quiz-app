@@ -1,0 +1,32 @@
+{
+  "id": "19-033-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 33,
+  "verse_reference": "Psalm 33:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 33:6, how were the heavens made?",
+  "options": [
+    "By the hands of angels",
+    "Over seven long years",
+    "By the word of the LORD",
+    "From the waters of the sea"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 33:6 says, \"By the word of the LORD the heavens were made, their starry host by the breath of his mouth.\""
+}

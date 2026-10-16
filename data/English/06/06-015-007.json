@@ -1,0 +1,40 @@
+{
+  "id": "06-015-007",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 15,
+  "verse_reference": "Joshua 15:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Caleb promise to the man who captured Kiriath Sepher?",
+  "options": [
+    "His daughter Aksah in marriage",
+    "A share of Hebron",
+    "Gold and silver",
+    "The city of Debir as a kingdom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Marriage",
+    "Promise",
+    "Family"
+  ],
+  "characters": [
+    "Caleb",
+    "Aksah"
+  ],
+  "places": [
+    {
+      "name": "Debir",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Caleb said he would give his daughter Aksah in marriage to the man who attacked and captured Kiriath Sepher."
+}

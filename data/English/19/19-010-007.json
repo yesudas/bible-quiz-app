@@ -1,0 +1,33 @@
+{
+  "id": "19-010-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 10,
+  "verse_reference": "Psalm 10:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"The LORD is ____ for ever and ever.\"",
+  "options": [
+    "good",
+    "holy",
+    "King",
+    "Judge"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Kingship",
+    "Worship"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 10:16 says, \"The LORD is King for ever and ever; the nations will perish from his land.\""
+}

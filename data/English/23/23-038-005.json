@@ -1,0 +1,37 @@
+{
+  "id": "23-038-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 38,
+  "verse_reference": "Isaiah 38:8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What sign did the LORD give Hezekiah that He would do what He promised?",
+  "options": [
+    "Fire fell from heaven",
+    "Rain fell on a dry fleece",
+    "The moon turned red",
+    "The sun's shadow went back ten steps on the stairway of Ahaz"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Promise"
+  ],
+  "characters": [
+    "Hezekiah",
+    "Ahaz"
+  ],
+  "places": [
+    {
+      "name": "Stairway of Ahaz",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 38:8 says the shadow cast by the sun went back the ten steps it had gone down on the stairway of Ahaz."
+}

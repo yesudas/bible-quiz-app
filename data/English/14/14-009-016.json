@@ -1,0 +1,33 @@
+{
+  "id": "14-009-016",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 9,
+  "verse_reference": "2 Chronicles 9:29",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which of these prophets is named as writing records of Solomon's reign?",
+  "options": [
+    "Elijah",
+    "Samuel",
+    "Gad",
+    "Nathan"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Solomon",
+    "Nathan",
+    "Ahijah",
+    "Iddo"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The other events of Solomon's reign are written in the records of Nathan the prophet, the prophecy of Ahijah the Shilonite and the visions of Iddo the seer."
+}

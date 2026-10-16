@@ -1,0 +1,38 @@
+{
+  "id": "09-021-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 21,
+  "verse_reference": "1 Samuel 21:4-6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What bread did Ahimelek give to David?",
+  "options": [
+    "Barley loaves",
+    "Unleavened bread from Passover",
+    "Bread from Saul's table",
+    "The consecrated bread, the bread of the Presence"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [
+    "David",
+    "Ahimelek"
+  ],
+  "places": [
+    {
+      "name": "Nob",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "There was no ordinary bread, so the priest gave David the consecrated bread—the bread of the Presence that had been removed from before the LORD."
+}

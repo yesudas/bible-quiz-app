@@ -1,0 +1,37 @@
+{
+  "id": "11-020-017",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 20,
+  "verse_reference": "1 Kings 20:43",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did Ahab feel as he went home to Samaria after hearing the prophet's words?",
+  "options": [
+    "Sullen and angry",
+    "Happy and thankful",
+    "Calm and peaceful",
+    "Proud and excited"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Ahab"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sullen and angry, the king of Israel went to his palace in Samaria."
+}

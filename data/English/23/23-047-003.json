@@ -1,0 +1,34 @@
+{
+  "id": "23-047-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 47,
+  "verse_reference": "Isaiah 47:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How had Babylon treated God's people, according to Isaiah 47:6?",
+  "options": [
+    "It set them free",
+    "It gave them land",
+    "It taught them its wisdom",
+    "It showed them no mercy and put a heavy yoke even on the aged"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Compassion"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 47:6 says, 'You showed them no mercy. Even on the aged you laid a very heavy yoke.'"
+}

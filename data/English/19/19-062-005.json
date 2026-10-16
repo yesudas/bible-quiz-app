@@ -1,0 +1,33 @@
+{
+  "id": "19-062-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 62,
+  "verse_reference": "Psalm 62:8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Psalm 62:8, what does David tell people to pour out to God?",
+  "options": [
+    "Their money",
+    "Their hearts",
+    "Their tears",
+    "Their offerings"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David says, \"Trust in him at all times, you people; pour out your hearts to him, for God is our refuge.\""
+}

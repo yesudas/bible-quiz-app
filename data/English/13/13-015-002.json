@@ -1,0 +1,33 @@
+{
+  "id": "13-015-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 15,
+  "verse_reference": "1 Chronicles 15:2",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "According to David, who alone could carry the ark of God?",
+  "options": [
+    "The Levites",
+    "The king's soldiers",
+    "The elders of Israel",
+    "The men of Judah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Obedience"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said no one but the Levites may carry the ark, because the LORD chose them to carry it and to minister before Him forever."
+}

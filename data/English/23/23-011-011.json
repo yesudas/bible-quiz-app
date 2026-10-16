@@ -1,0 +1,34 @@
+{
+  "id": "23-011-011",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 11,
+  "verse_reference": "Isaiah 11:15",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Into how many streams would the LORD break up the Euphrates River?",
+  "options": [
+    "Two",
+    "Four",
+    "Twelve",
+    "Seven"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Miracles"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Euphrates River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 11:15 says He will sweep His hand over the Euphrates River and break it up into seven streams."
+}

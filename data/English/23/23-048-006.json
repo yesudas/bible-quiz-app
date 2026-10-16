@@ -1,0 +1,35 @@
+{
+  "id": "23-048-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 48,
+  "verse_reference": "Isaiah 48:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Isaiah 48:21 remembers how God made water flow for His people in the desert from what?",
+  "options": [
+    "A well",
+    "A cloud",
+    "The rock",
+    "A river"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Desert",
+      "type": "desert"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 48:21 says, 'They did not thirst when he led them through the deserts; he made water flow for them from the rock.'"
+}

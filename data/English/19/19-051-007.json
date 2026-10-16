@@ -1,0 +1,32 @@
+{
+  "id": "19-051-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 51,
+  "verse_reference": "Psalm 51:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "David asked God to cleanse him with which plant?",
+  "options": [
+    "Olive",
+    "Hyssop",
+    "Cedar",
+    "Myrrh"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Forgiveness",
+    "Repentance"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David prayed, \"Cleanse me with hyssop, and I will be clean.\""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "19-078-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 78,
+  "verse_reference": "Psalm 78:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 78:2, Asaph says he will open his mouth with what?",
+  "options": [
+    "A song of war",
+    "A parable",
+    "A new law",
+    "A prophecy about kings"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph says, \"I will open my mouth with a parable.\""
+}

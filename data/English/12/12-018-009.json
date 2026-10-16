@@ -1,0 +1,37 @@
+{
+  "id": "12-018-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 18,
+  "verse_reference": "2 Kings 18:17",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the Assyrian commanders stop outside Jerusalem?",
+  "options": [
+    "At the Gihon Spring",
+    "At the aqueduct of the Upper Pool",
+    "At the Fish Gate",
+    "At the Mount of Olives"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Upper Pool",
+      "type": "pool"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They came to Jerusalem and stopped at the aqueduct of the Upper Pool, on the road to the Washerman's Field."
+}

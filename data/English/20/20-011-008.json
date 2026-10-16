@@ -1,0 +1,30 @@
+{
+  "id": "20-011-008",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 11,
+  "verse_reference": "Proverbs 11:26",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to Proverbs 11:26, whom do people curse?",
+  "options": [
+    "The one who hoards grain",
+    "The one who sells grain",
+    "The one who plants fields",
+    "The one who bakes bread"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 11:26 says people curse the one who hoards grain, but they pray God's blessing on the one who is willing to sell."
+}

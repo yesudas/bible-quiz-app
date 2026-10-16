@@ -1,0 +1,31 @@
+{
+  "id": "20-027-005",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 27,
+  "verse_reference": "Proverbs 27:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"As ______ sharpens ______, so one person sharpens another.\"",
+  "options": [
+    "stone ... stone",
+    "iron ... iron",
+    "wood ... wood",
+    "gold ... gold"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 27:17 says as iron sharpens iron, so one person sharpens another."
+}

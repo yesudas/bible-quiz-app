@@ -1,0 +1,33 @@
+{
+  "id": "10-007-011",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 7,
+  "verse_reference": "2 Samuel 7:18",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did David do after Nathan told him the LORD's message?",
+  "options": [
+    "He went in, sat before the LORD, and prayed",
+    "He started building the temple anyway",
+    "He called for a great feast",
+    "He went out to battle"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "King David went in and sat before the LORD, and prayed, \"Who am I, Sovereign LORD, and what is my family, that you have brought me this far?\""
+}

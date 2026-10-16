@@ -1,0 +1,31 @@
+{
+  "id": "20-010-002",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 10,
+  "verse_reference": "Proverbs 10:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to Proverbs 10:1, what does a wise son bring to his father?",
+  "options": [
+    "Joy",
+    "Grief",
+    "Shame",
+    "Worry"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 10:1 says a wise son brings joy to his father, but a foolish son brings grief to his mother."
+}

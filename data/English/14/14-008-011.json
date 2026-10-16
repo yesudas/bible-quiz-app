@@ -1,0 +1,31 @@
+{
+  "id": "14-008-011",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 8,
+  "verse_reference": "2 Chronicles 8:13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which three annual festivals are named in this chapter?",
+  "options": [
+    "Passover, Purim and Hanukkah",
+    "Trumpets, Atonement and Firstfruits",
+    "Unleavened Bread, Weeks and Tabernacles",
+    "New Moon, Sabbath and Jubilee"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The three annual festivals were the Festival of Unleavened Bread, the Festival of Weeks and the Festival of Tabernacles."
+}

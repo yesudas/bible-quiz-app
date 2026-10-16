@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "City-streets-of-Susa",
+    "label": "City streets of Susa",
+    "count": 2,
+    "paths": [
+        "English/17/17-006-007.json",
+        "English/17/17-006-009.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

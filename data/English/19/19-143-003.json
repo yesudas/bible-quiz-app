@@ -1,0 +1,33 @@
+{
+  "id": "19-143-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 143,
+  "verse_reference": "Psalm 143:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "David said he thirsted for God like what?",
+  "options": [
+    "A parched land",
+    "A tired traveler",
+    "A deer by the river",
+    "A lost sheep"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"I spread out my hands to you; I thirst for you like a parched land.\""
+}

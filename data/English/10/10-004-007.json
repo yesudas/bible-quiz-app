@@ -1,0 +1,40 @@
+{
+  "id": "10-004-007",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 4,
+  "verse_reference": "2 Samuel 4:8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Rekab and Baanah bring to David at Hebron?",
+  "options": [
+    "Saul's crown",
+    "The head of Ish-Bosheth",
+    "A letter from Ish-Bosheth",
+    "Gold and silver"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Rekab",
+    "Baanah",
+    "David",
+    "Ish-Bosheth"
+  ],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They brought the head of Ish-Bosheth to David at Hebron, thinking he would reward them."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "07-004-007",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 4,
+  "verse_reference": "Judges 4:5",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Deborah hold court, where the Israelites came to have their disputes decided?",
+  "options": [
+    "At the gate of Shiloh",
+    "By the well at Hebron",
+    "Among the stone images near Gilgal",
+    "Under the Palm of Deborah between Ramah and Bethel"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Wisdom"
+  ],
+  "characters": [
+    "Deborah"
+  ],
+  "places": [
+    {
+      "name": "Palm of Deborah",
+      "type": "landmark"
+    },
+    {
+      "name": "Ramah",
+      "type": "city"
+    },
+    {
+      "name": "Bethel",
+      "type": "city"
+    },
+    {
+      "name": "Hill country of Ephraim",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Deborah held court under the Palm of Deborah between Ramah and Bethel in the hill country of Ephraim."
+}

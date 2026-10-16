@@ -1,0 +1,34 @@
+{
+  "id": "11-005-010",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 5,
+  "verse_reference": "1 Kings 5:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does the Bible say the LORD gave Solomon, just as He had promised?",
+  "options": [
+    "Wisdom",
+    "A long life",
+    "Victory in war",
+    "A son"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Promise"
+  ],
+  "characters": [
+    "Solomon",
+    "Hiram"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD gave Solomon wisdom as He had promised, and there were peaceful relations and a treaty between Hiram and Solomon."
+}

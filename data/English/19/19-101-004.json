@@ -1,0 +1,33 @@
+{
+  "id": "19-101-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 101,
+  "verse_reference": "Psalm 101:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did David say he would do to anyone who slanders their neighbor in secret?",
+  "options": [
+    "Forgive them",
+    "Send them away",
+    "Put them to silence",
+    "Pray for them"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Leadership",
+    "Justice"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said whoever slanders their neighbor in secret, he would put to silence."
+}

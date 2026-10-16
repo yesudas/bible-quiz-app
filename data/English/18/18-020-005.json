@@ -1,0 +1,33 @@
+{
+  "id": "18-020-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 20,
+  "verse_reference": "Job 20:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Zophar said the wicked man will spit out what he swallowed. What was it?",
+  "options": [
+    "Bread",
+    "Wine",
+    "Words",
+    "Riches"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money",
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Zophar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zophar said, 'He will spit out the riches he swallowed; God will make his stomach vomit them up.'"
+}

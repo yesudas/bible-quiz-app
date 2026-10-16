@@ -1,0 +1,32 @@
+{
+  "id": "18-030-004",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 30,
+  "verse_reference": "Job 30:25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In Job 30:25, what did Job say he had done for those in trouble?",
+  "options": [
+    "Wept for them",
+    "Ignored them",
+    "Sent them away",
+    "Judged them"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job asked, 'Have I not wept for those in trouble? Has not my soul grieved for the poor?'"
+}

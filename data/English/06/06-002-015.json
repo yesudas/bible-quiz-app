@@ -1,0 +1,38 @@
+{
+  "id": "06-002-015",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 2,
+  "verse_reference": "Joshua 2:18",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the spies tell Rahab to tie in her window?",
+  "options": [
+    "A white cloth",
+    "A gold chain",
+    "A scarlet cord",
+    "A blue ribbon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Promise"
+  ],
+  "characters": [
+    "Rahab"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The spies told Rahab to tie the scarlet cord in the window so her household would be spared."
+}

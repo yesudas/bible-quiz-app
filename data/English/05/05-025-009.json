@@ -1,0 +1,35 @@
+{
+  "id": "05-025-009",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 25,
+  "verse_reference": "Deuteronomy 25:17-18",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which people attacked the weary stragglers at the rear of Israel on the way out of Egypt?",
+  "options": [
+    "The Moabites",
+    "The Amalekites",
+    "The Edomites",
+    "The Philistines"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Amalekites attacked Israel's weary and worn-out stragglers at the rear when they were exhausted, having no fear of God."
+}

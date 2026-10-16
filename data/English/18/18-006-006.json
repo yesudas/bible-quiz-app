@@ -1,0 +1,32 @@
+{
+  "id": "18-006-006",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 6,
+  "verse_reference": "Job 6:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Job said his friends were as undependable as what?",
+  "options": [
+    "Intermittent streams",
+    "Broken bows",
+    "Clouds without rain",
+    "Leaky boats"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Love"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'My brothers are as undependable as intermittent streams,' which run dry when they are needed most."
+}

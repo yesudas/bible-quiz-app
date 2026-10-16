@@ -1,0 +1,31 @@
+{
+  "id": "20-006-002",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 6,
+  "verse_reference": "Proverbs 6:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Go to the ______, you sluggard; consider its ways and be wise!\"",
+  "options": [
+    "lion",
+    "bee",
+    "ant",
+    "eagle"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 6:6 tells the lazy person to go to the ant, consider its ways and be wise."
+}

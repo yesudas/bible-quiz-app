@@ -1,0 +1,32 @@
+{
+  "id": "19-057-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 57,
+  "verse_reference": "Psalm 57:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 57:8, which instruments did David call to awake?",
+  "options": [
+    "Trumpet and drum",
+    "Harp and lyre",
+    "Flute and cymbal",
+    "Horn and tambourine"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said, \"Awake, harp and lyre! I will awaken the dawn.\""
+}

@@ -1,0 +1,30 @@
+{
+  "id": "14-015-014",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 15,
+  "verse_reference": "2 Chronicles 15:19",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "Until which year of Asa's reign was there no more war?",
+  "options": [
+    "The thirty-fifth year",
+    "The tenth year",
+    "The fifteenth year",
+    "The twentieth year"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Asa"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "There was no more war until the thirty-fifth year of Asa's reign."
+}

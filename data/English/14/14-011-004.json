@@ -1,0 +1,33 @@
+{
+  "id": "14-011-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 11,
+  "verse_reference": "2 Chronicles 11:4",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Rehoboam and his men do when they heard God's word through Shemaiah?",
+  "options": [
+    "They obeyed and turned back",
+    "They fought anyway",
+    "They asked another prophet",
+    "They waited forty days"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [
+    "Rehoboam",
+    "Jeroboam"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They obeyed the words of the LORD and turned back from marching against Jeroboam."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "19-140-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 140,
+  "verse_reference": "Psalm 140:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 140, what is on the lips of the wicked?",
+  "options": [
+    "Honey",
+    "Lies only",
+    "The poison of vipers",
+    "Songs of praise"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Honesty"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They make their tongues as sharp as a serpent's; the poison of vipers is on their lips."
+}

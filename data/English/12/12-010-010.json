@@ -1,0 +1,38 @@
+{
+  "id": "12-010-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 10,
+  "verse_reference": "2 Kings 10:26-27",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jehu's men do to the sacred stone and temple of Baal?",
+  "options": [
+    "Burned the stone and tore down the temple",
+    "Moved them to Jerusalem",
+    "Gave them to Jehonadab",
+    "Covered them with gold"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Idolatry",
+    "Worship"
+  ],
+  "characters": [
+    "Jehu"
+  ],
+  "places": [
+    {
+      "name": "Temple of Baal",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They brought out the sacred stone and burned it, and they demolished the temple of Baal."
+}

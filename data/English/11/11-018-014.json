@@ -1,0 +1,33 @@
+{
+  "id": "11-018-014",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 18,
+  "verse_reference": "1 Kings 18:31",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the twelve stones of Elijah's altar stand for?",
+  "options": [
+    "The twelve months of the year",
+    "The twelve tribes descended from Jacob",
+    "Twelve prophets of the LORD",
+    "Twelve years of drought"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Worship"
+  ],
+  "characters": [
+    "Elijah",
+    "Jacob"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elijah took twelve stones, one for each of the tribes descended from Jacob, to whom the LORD had said, \"Your name shall be Israel.\""
+}

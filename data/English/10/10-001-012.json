@@ -1,0 +1,33 @@
+{
+  "id": "10-001-012",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 1,
+  "verse_reference": "2 Samuel 1:23",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse about Saul and Jonathan: \"They were swifter than ______, they were stronger than lions.\"",
+  "options": [
+    "eagles",
+    "horses",
+    "gazelles",
+    "the wind"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Saul",
+    "Jonathan"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David praised Saul and Jonathan, saying they were swifter than eagles and stronger than lions."
+}

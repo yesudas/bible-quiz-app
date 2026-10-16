@@ -1,0 +1,36 @@
+{
+  "id": "18-010-008",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 10,
+  "verse_reference": "Job 10:20-22",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Job say he would soon go, never to return?",
+  "options": [
+    "To a far country",
+    "To a city by the sea",
+    "To the land of gloom and utter darkness",
+    "To the mountains of the East"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [
+    {
+      "name": "Land of gloom and utter darkness",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job asked God to let him alone for a little comfort before he went to the place of no return, the land of gloom and utter darkness."
+}

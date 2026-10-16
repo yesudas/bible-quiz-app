@@ -1,0 +1,32 @@
+{
+  "id": "23-025-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 25,
+  "verse_reference": "Isaiah 25:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: 'He will swallow up ______ forever.'",
+  "options": [
+    "sin",
+    "evil",
+    "darkness",
+    "death"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Salvation",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 25:8 says, 'He will swallow up death forever.'"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "06-003-014",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 3,
+  "verse_reference": "Joshua 3:16",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Which city were the people opposite when they crossed the Jordan?",
+  "options": [
+    "Ai",
+    "Hebron",
+    "Jericho",
+    "Shechem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    },
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people crossed over opposite Jericho."
+}

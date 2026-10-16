@@ -1,0 +1,37 @@
+{
+  "id": "14-011-008",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 11,
+  "verse_reference": "2 Chronicles 11:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the Levites leave Israel and come to Judah?",
+  "options": [
+    "Jeroboam rejected them as priests of the LORD",
+    "There was a famine in Israel",
+    "Rehoboam paid them more",
+    "They were driven out by Egypt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [
+    "Jeroboam"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeroboam and his sons had rejected them as priests of the LORD and appointed his own priests for the high places and the idols he had made."
+}

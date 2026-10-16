@@ -1,0 +1,40 @@
+{
+  "id": "09-023-014",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 23,
+  "verse_reference": "1 Samuel 23:29",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did David go to live after escaping in the Desert of Maon?",
+  "options": [
+    "The cave of Adullam",
+    "The strongholds of En Gedi",
+    "The forest of Hereth",
+    "Gath"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "En Gedi",
+      "type": "wilderness"
+    },
+    {
+      "name": "Sela Hammahlekoth",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David went up from there and lived in the strongholds of En Gedi."
+}

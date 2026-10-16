@@ -1,0 +1,39 @@
+{
+  "id": "10-024-009",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 24,
+  "verse_reference": "2 Samuel 24:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How many people died in the plague from Dan to Beersheba?",
+  "options": [
+    "Seven thousand",
+    "Twenty thousand",
+    "One hundred thousand",
+    "Seventy thousand"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Dan",
+      "type": "city"
+    },
+    {
+      "name": "Beersheba",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD sent a plague on Israel, and seventy thousand of the people from Dan to Beersheba died."
+}

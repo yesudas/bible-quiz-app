@@ -1,0 +1,31 @@
+{
+  "id": "18-020-007",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 20,
+  "verse_reference": "Job 20:24",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Zophar said that though the wicked man flees from an iron weapon, what pierces him?",
+  "options": [
+    "A sharp sword",
+    "A bronze-tipped arrow",
+    "A wooden spear",
+    "A falling stone"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Zophar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zophar said, 'Though he flees from an iron weapon, a bronze-tipped arrow pierces him.'"
+}

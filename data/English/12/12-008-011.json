@@ -1,0 +1,36 @@
+{
+  "id": "12-008-011",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 8,
+  "verse_reference": "2 Kings 8:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Ben-Hadad die?",
+  "options": [
+    "He died from his illness",
+    "Hazael spread a soaked cloth over his face",
+    "He was killed in battle with Israel",
+    "He was struck down by fire"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Hazael",
+    "Ben-Hadad"
+  ],
+  "places": [
+    {
+      "name": "Damascus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The next day Hazael soaked a thick cloth in water and spread it over the king's face, so he died, and Hazael became king."
+}

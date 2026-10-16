@@ -1,0 +1,31 @@
+{
+  "id": "13-002-005",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 2,
+  "verse_reference": "1 Chronicles 2:10",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who is described as the leader of the people of Judah?",
+  "options": [
+    "Boaz",
+    "Salmon",
+    "Ram",
+    "Nahshon"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Nahshon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 2:10 calls Nahshon the leader of the people of Judah."
+}

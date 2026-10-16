@@ -1,0 +1,33 @@
+{
+  "id": "11-003-013",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 3,
+  "verse_reference": "1 Kings 3:16-22",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Two women came to King Solomon arguing about what?",
+  "options": [
+    "Which of them owned a house",
+    "Which of them was the mother of a living baby",
+    "Who should marry the king",
+    "Who had stolen some silver"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Family"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Two women came to Solomon, each claiming that the living baby was her son and the dead baby belonged to the other."
+}

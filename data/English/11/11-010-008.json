@@ -1,0 +1,36 @@
+{
+  "id": "11-010-008",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 10,
+  "verse_reference": "1 Kings 10:16-17",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Solomon put the shields of hammered gold he made?",
+  "options": [
+    "In the Most Holy Place",
+    "In the Palace of the Forest of Lebanon",
+    "At the city gate of Jerusalem",
+    "In the tent at Gibeon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Palace of the Forest of Lebanon",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "King Solomon made large and small shields of hammered gold and put them in the Palace of the Forest of Lebanon."
+}

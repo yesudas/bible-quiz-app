@@ -1,0 +1,29 @@
+{
+  "id": "23-050-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 50,
+  "verse_reference": "Isaiah 50:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: 'Because the Sovereign LORD helps me... I have set my face like ______.'",
+  "options": [
+    "stone",
+    "flint",
+    "iron",
+    "bronze"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 50:7 says, 'Therefore have I set my face like flint, and I know I will not be put to shame.'"
+}

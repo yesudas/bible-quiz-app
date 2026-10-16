@@ -1,0 +1,33 @@
+{
+  "id": "19-032-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 32,
+  "verse_reference": "Psalm 32:10",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 32:10, whom does the LORD's unfailing love surround?",
+  "options": [
+    "The one who is rich",
+    "The one who is strong",
+    "The one who is a priest",
+    "The one who trusts in him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Faith"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 32:10 says, \"Many are the woes of the wicked, but the LORD's unfailing love surrounds the one who trusts in him.\""
+}

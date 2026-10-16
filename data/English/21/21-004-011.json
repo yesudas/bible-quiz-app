@@ -1,0 +1,35 @@
+{
+  "id": "21-004-011",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 4,
+  "verse_reference": "Ecclesiastes 4:14",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to the Teacher, the wise youth may have come from where to become king?",
+  "options": [
+    "Prison",
+    "The fields",
+    "The temple",
+    "The army"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Prison",
+      "type": "prison"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The youth may have come from prison to the kingship, or he may have been born in poverty within his kingdom."
+}

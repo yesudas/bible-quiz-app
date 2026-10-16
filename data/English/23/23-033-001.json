@@ -1,0 +1,30 @@
+{
+  "id": "23-033-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 33,
+  "verse_reference": "Isaiah 33:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the prayer: 'LORD, be gracious to us; we long for you. Be our strength every morning, our ______ in time of distress.'",
+  "options": [
+    "refuge",
+    "salvation",
+    "shield",
+    "comfort"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 33:2 prays, 'Be our strength every morning, our salvation in time of distress.'"
+}

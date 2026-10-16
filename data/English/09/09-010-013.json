@@ -1,0 +1,39 @@
+{
+  "id": "09-010-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 10,
+  "verse_reference": "1 Samuel 10:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "When Samuel presented Saul, the people shouted, \"Long live the ___!\"",
+  "options": [
+    "prophet",
+    "judge",
+    "king",
+    "LORD"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [
+    "Saul",
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "Mizpah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel said there was no one like Saul among all the people. Then the people shouted, \"Long live the king!\""
+}

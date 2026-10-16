@@ -1,0 +1,35 @@
+{
+  "id": "07-008-009",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 8,
+  "verse_reference": "Judges 8:20",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which of Gideon's sons was told to kill Zebah and Zalmunna but was afraid to do it?",
+  "options": [
+    "Abimelek",
+    "Purah",
+    "Joash",
+    "Jether"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Courage"
+  ],
+  "characters": [
+    "Jether",
+    "Gideon",
+    "Zebah",
+    "Zalmunna"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon told his oldest son Jether to kill them, but Jether did not draw his sword because he was only a boy and was afraid."
+}

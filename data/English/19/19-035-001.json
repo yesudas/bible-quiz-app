@@ -1,0 +1,34 @@
+{
+  "id": "19-035-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 35,
+  "verse_reference": "Psalm 35:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 35:1, what does David ask the LORD to do to those who fight against him?",
+  "options": [
+    "Forgive them",
+    "Fight against them",
+    "Make peace with them",
+    "Send them away to Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Protection"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 35:1 says, \"Contend, LORD, with those who contend with me; fight against those who fight against me.\""
+}

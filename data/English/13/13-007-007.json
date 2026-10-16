@@ -1,0 +1,46 @@
+{
+  "id": "13-007-007",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 7,
+  "verse_reference": "1 Chronicles 7:24",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What is Sheerah, Ephraim's daughter, remembered for?",
+  "options": [
+    "Hiding the spies",
+    "Building Lower and Upper Beth Horon and Uzzen Sheerah",
+    "Leading Israel as a judge",
+    "Singing a song of victory"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Work"
+  ],
+  "characters": [
+    "Sheerah",
+    "Ephraim"
+  ],
+  "places": [
+    {
+      "name": "Lower Beth Horon",
+      "type": "town"
+    },
+    {
+      "name": "Upper Beth Horon",
+      "type": "town"
+    },
+    {
+      "name": "Uzzen Sheerah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 7:24 says Sheerah built Lower and Upper Beth Horon as well as Uzzen Sheerah."
+}

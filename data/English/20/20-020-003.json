@@ -1,0 +1,35 @@
+{
+  "id": "20-020-003",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 20,
+  "verse_reference": "Proverbs 20:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Proverbs 20:4, why do sluggards find nothing at harvest?",
+  "options": [
+    "Their crops were stolen",
+    "There was no rain",
+    "They did not plow in season",
+    "The king took the harvest"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Fields",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 20:4 says sluggards do not plow in season; so at harvest time they look but find nothing."
+}

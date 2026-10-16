@@ -1,0 +1,42 @@
+{
+  "id": "12-008-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 8,
+  "verse_reference": "2 Kings 8:7",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which king of Aram was ill when Elisha went to Damascus?",
+  "options": [
+    "Hazael",
+    "Rezin",
+    "Ben-Hadad",
+    "Mesha"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Leadership"
+  ],
+  "characters": [
+    "Ben-Hadad",
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Damascus",
+      "type": "city"
+    },
+    {
+      "name": "Aram",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha went to Damascus, and Ben-Hadad king of Aram was ill."
+}

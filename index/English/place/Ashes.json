@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Ashes",
+    "label": "Ashes",
+    "count": 2,
+    "paths": [
+        "English/18/18-002-005.json",
+        "English/18/18-002-006.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

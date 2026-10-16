@@ -1,0 +1,40 @@
+{
+  "id": "12-019-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 19,
+  "verse_reference": "2 Kings 19:8-9",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which king was reported to be marching out to fight Sennacherib?",
+  "options": [
+    "So king of Egypt",
+    "Rezin king of Aram",
+    "Mesha king of Moab",
+    "Tirhakah king of Cush"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Tirhakah",
+    "Sennacherib"
+  ],
+  "places": [
+    {
+      "name": "Cush",
+      "type": "country"
+    },
+    {
+      "name": "Libnah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sennacherib received a report that Tirhakah, the king of Cush, was marching out to fight against him."
+}

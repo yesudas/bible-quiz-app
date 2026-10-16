@@ -1,0 +1,35 @@
+{
+  "id": "16-007-005",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 7,
+  "verse_reference": "Nehemiah 7:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What problem did Jerusalem have even though it was large and spacious?",
+  "options": [
+    "There were few people in it and the houses had not yet been rebuilt",
+    "It had no water",
+    "The wall was still broken",
+    "Enemies were living inside it"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The city was large and spacious, but there were few people in it, and the houses had not yet been rebuilt."
+}

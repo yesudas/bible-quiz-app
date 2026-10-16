@@ -1,0 +1,32 @@
+{
+  "id": "18-002-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 2,
+  "verse_reference": "Job 2:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Satan's words: \"Skin for skin! A man will give all he has for his own ____.\"",
+  "options": [
+    "family",
+    "honor",
+    "life",
+    "wealth"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Satan",
+    "Suffering"
+  ],
+  "characters": [
+    "Satan"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Satan claimed that a man will give all he has for his own life, and that Job would curse God if his own body were struck."
+}

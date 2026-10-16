@@ -1,0 +1,37 @@
+{
+  "id": "09-011-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 11,
+  "verse_reference": "1 Samuel 11:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was Saul doing when he heard the news from Jabesh?",
+  "options": [
+    "Sitting on his throne",
+    "Praying with Samuel",
+    "Leading his army",
+    "Coming in from the fields behind his oxen"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Gibeah of Saul",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul was returning from the fields behind his oxen when he asked why the people were weeping."
+}

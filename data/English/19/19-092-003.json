@@ -1,0 +1,31 @@
+{
+  "id": "19-092-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 92,
+  "verse_reference": "Psalm 92:2",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "According to Psalm 92:2, when should we proclaim God's love?",
+  "options": [
+    "At night",
+    "At noon",
+    "In the evening",
+    "In the morning"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm speaks of proclaiming God's love in the morning and His faithfulness at night."
+}

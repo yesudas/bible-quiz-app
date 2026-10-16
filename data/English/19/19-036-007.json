@@ -1,0 +1,33 @@
+{
+  "id": "19-036-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 36,
+  "verse_reference": "Psalm 36:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"For with you is the fountain of life; in your light we see ____.\"",
+  "options": [
+    "truth",
+    "joy",
+    "light",
+    "you"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Wisdom"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 36:9 says, \"For with you is the fountain of life; in your light we see light.\""
+}

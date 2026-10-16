@@ -1,0 +1,42 @@
+{
+  "id": "06-010-009",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 10,
+  "verse_reference": "Joshua 10:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Joshua said, \"Sun, stand still over ____, and you, moon, over the Valley of Aijalon.\"",
+  "options": [
+    "Gibeon",
+    "Jericho",
+    "Gilgal",
+    "Jerusalem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Prayer"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Gibeon",
+      "type": "city"
+    },
+    {
+      "name": "Valley of Aijalon",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua spoke to the LORD and said, \"Sun, stand still over Gibeon, and you, moon, over the Valley of Aijalon.\""
+}

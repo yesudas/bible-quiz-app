@@ -1,0 +1,30 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Sennacherib",
+    "label": "Sennacherib",
+    "count": 20,
+    "paths": [
+        "English/12/12-018-007.json",
+        "English/12/12-018-008.json",
+        "English/12/12-019-004.json",
+        "English/12/12-019-005.json",
+        "English/12/12-019-008.json",
+        "English/12/12-019-010.json",
+        "English/12/12-019-014.json",
+        "English/12/12-019-015.json",
+        "English/14/14-032-001.json",
+        "English/14/14-032-006.json",
+        "English/14/14-032-007.json",
+        "English/14/14-032-010.json",
+        "English/23/23-036-001.json",
+        "English/23/23-036-002.json",
+        "English/23/23-036-003.json",
+        "English/23/23-037-004.json",
+        "English/23/23-037-005.json",
+        "English/23/23-037-006.json",
+        "English/23/23-037-008.json",
+        "English/23/23-037-009.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

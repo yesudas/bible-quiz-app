@@ -1,0 +1,42 @@
+{
+  "id": "12-009-012",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 9,
+  "verse_reference": "2 Kings 9:25-26",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "On whose field did Jehu have Joram's body thrown?",
+  "options": [
+    "Ahab",
+    "Naboth the Jezreelite",
+    "Elijah",
+    "The Shunammite woman"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jehu",
+    "Joram",
+    "Naboth"
+  ],
+  "places": [
+    {
+      "name": "Field of Naboth",
+      "type": "field"
+    },
+    {
+      "name": "Jezreel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehu told Bidkar to throw Joram's body on the field that belonged to Naboth the Jezreelite, as the LORD had spoken."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "19-040-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 40,
+  "verse_reference": "Psalm 40:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Psalm 40:2, what did the LORD lift David out of?",
+  "options": [
+    "A lion's den",
+    "A deep river",
+    "A slimy pit",
+    "A dark prison"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 40:2 says, \"He lifted me out of the slimy pit, out of the mud and mire.\""
+}

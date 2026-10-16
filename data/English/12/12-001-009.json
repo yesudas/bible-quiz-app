@@ -1,0 +1,33 @@
+{
+  "id": "12-001-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 1,
+  "verse_reference": "2 Kings 1:7-8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The messengers described the man they met: \"He had a garment of hair and had a ______ around his waist.\"",
+  "options": [
+    "gold chain",
+    "linen sash",
+    "rope",
+    "leather belt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Elijah",
+    "Ahaziah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man wore a garment of hair and a leather belt, and the king knew at once it was Elijah the Tishbite."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "06-011-015",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 11,
+  "verse_reference": "Joshua 11:23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Joshua give the land to Israel?",
+  "options": [
+    "He sold it to the richest families",
+    "He gave it all to the priests",
+    "He gave it as an inheritance by tribal divisions",
+    "He kept it for himself"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Family"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua gave the land as an inheritance to Israel according to their tribal divisions."
+}

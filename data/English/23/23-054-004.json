@@ -1,0 +1,31 @@
+{
+  "id": "23-054-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 54,
+  "verse_reference": "Isaiah 54:9",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "In Isaiah 54:9, God compares His promise not to be angry again with His oath in the days of whom?",
+  "options": [
+    "Moses",
+    "Noah",
+    "Abraham",
+    "David"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Noah"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 54:9 says, 'To me this is like the days of Noah, when I swore that the waters of Noah would never again cover the earth.'"
+}

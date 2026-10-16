@@ -1,0 +1,31 @@
+{
+  "id": "19-135-009",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 135,
+  "verse_reference": "Psalm 135:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 135, what endures forever?",
+  "options": [
+    "The kings of Israel",
+    "The name of the LORD",
+    "The walls of Jerusalem",
+    "The idols of the nations"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Your name, LORD, endures forever, your renown, LORD, through all generations.\""
+}

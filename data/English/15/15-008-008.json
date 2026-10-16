@@ -1,0 +1,30 @@
+{
+  "id": "15-008-008",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 8,
+  "verse_reference": "Ezra 8:28",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Ezra's words: \"You as well as these articles are ______ to the LORD.\"",
+  "options": [
+    "given",
+    "promised",
+    "sent",
+    "consecrated"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Ezra"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra told the priests, \"You as well as these articles are consecrated to the LORD.\""
+}

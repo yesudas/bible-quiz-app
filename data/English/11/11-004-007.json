@@ -1,0 +1,44 @@
+{
+  "id": "11-004-007",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 4,
+  "verse_reference": "1 Kings 4:21",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Solomon ruled over the kingdoms from which river to the land of the Philistines?",
+  "options": [
+    "The Jordan River",
+    "The Nile River",
+    "The Euphrates River",
+    "The Kishon River"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Euphrates River",
+      "type": "river"
+    },
+    {
+      "name": "Philistia",
+      "type": "region"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon ruled over all the kingdoms from the Euphrates River to the land of the Philistines, as far as the border of Egypt."
+}

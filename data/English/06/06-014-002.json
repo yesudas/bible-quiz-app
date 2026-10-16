@@ -1,0 +1,30 @@
+{
+  "id": "06-014-002",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 14,
+  "verse_reference": "Joshua 14:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How were the tribes' inheritances assigned?",
+  "options": [
+    "By lot",
+    "By the tribes' size only",
+    "By who fought best",
+    "By the elders voting"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The inheritances were assigned by lot to the nine and a half tribes, as the LORD commanded through Moses."
+}

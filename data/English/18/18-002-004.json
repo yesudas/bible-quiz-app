@@ -1,0 +1,34 @@
+{
+  "id": "18-002-004",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 2,
+  "verse_reference": "Job 2:7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did Satan afflict Job in chapter 2?",
+  "options": [
+    "He made him blind",
+    "He took away his voice",
+    "He sent a wild animal against him",
+    "He covered him with painful sores"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Satan"
+  ],
+  "characters": [
+    "Job",
+    "Satan"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Satan afflicted Job with painful sores from the soles of his feet to the crown of his head."
+}

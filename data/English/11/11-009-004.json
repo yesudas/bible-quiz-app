@@ -1,0 +1,42 @@
+{
+  "id": "11-009-004",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 9,
+  "verse_reference": "1 Kings 9:6-7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God warn would happen if Israel turned away and served other gods?",
+  "options": [
+    "Nothing would change",
+    "They would get a new king",
+    "The ark would be taken to heaven",
+    "He would cut Israel off from the land and reject the temple"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Sin",
+    "Covenant"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God warned that if they served other gods, He would cut off Israel from the land and reject the temple consecrated for His Name."
+}

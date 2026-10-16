@@ -1,0 +1,35 @@
+{
+  "id": "20-009-001",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 9,
+  "verse_reference": "Proverbs 9:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 9:1, how many pillars did Wisdom set up for her house?",
+  "options": [
+    "Three",
+    "Five",
+    "Seven",
+    "Twelve"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wisdom's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 9:1 says Wisdom has built her house and set up its seven pillars."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "19-125-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 125,
+  "verse_reference": "Psalm 125:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What blessing ends Psalm 125?",
+  "options": [
+    "\"Joy be on Jerusalem\"",
+    "\"Peace be on Israel\"",
+    "\"Grace be on Judah\"",
+    "\"Glory be on Zion\""
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Peace"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After saying the LORD will banish those who turn to crooked ways, the psalm ends, \"Peace be on Israel.\""
+}

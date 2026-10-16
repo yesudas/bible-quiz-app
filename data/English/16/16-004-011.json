@@ -1,0 +1,34 @@
+{
+  "id": "16-004-011",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 4,
+  "verse_reference": "Nehemiah 4:21",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How long did the builders work each day?",
+  "options": [
+    "From noon until evening",
+    "Only in the morning",
+    "From first light of dawn until the stars came out",
+    "From midnight until sunrise"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people continued the work with half the men holding spears, from the first light of dawn till the stars came out."
+}

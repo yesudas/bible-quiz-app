@@ -1,0 +1,30 @@
+{
+  "id": "19-146-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 146,
+  "verse_reference": "Psalm 146:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Do not put your trust in ______, in human beings, who cannot save.\"",
+  "options": [
+    "princes",
+    "idols",
+    "riches",
+    "horses"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 146 warns not to trust in princes or human beings, because they cannot save."
+}

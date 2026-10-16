@@ -1,0 +1,34 @@
+{
+  "id": "19-103-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 103,
+  "verse_reference": "Psalm 103:7",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "To whom did the LORD make known His ways, according to Psalm 103?",
+  "options": [
+    "Abraham",
+    "Moses",
+    "Joshua",
+    "Samuel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Leadership"
+  ],
+  "characters": [
+    "David",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD made known His ways to Moses and His deeds to the people of Israel."
+}

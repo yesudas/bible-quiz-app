@@ -1,0 +1,39 @@
+{
+  "id": "10-004-008",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 4,
+  "verse_reference": "2 Samuel 4:9-10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Whom did David remind Rekab and Baanah of when he refused to reward them?",
+  "options": [
+    "Nabal of Carmel",
+    "Goliath of Gath",
+    "The man at Ziklag who reported Saul's death",
+    "Doeg the Edomite"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "David",
+    "Rekab",
+    "Baanah"
+  ],
+  "places": [
+    {
+      "name": "Ziklag",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said that when a man told him Saul was dead, thinking it was good news, he had him put to death at Ziklag."
+}

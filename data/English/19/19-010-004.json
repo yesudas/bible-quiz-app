@@ -1,0 +1,32 @@
+{
+  "id": "19-010-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 10,
+  "verse_reference": "Psalm 10:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What does the wicked man say to himself in Psalm 10:11?",
+  "options": [
+    "\"God will help me\"",
+    "\"I will repent tomorrow\"",
+    "\"The king will punish me\"",
+    "\"God will never notice\""
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Pride"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 10:11 says the wicked man tells himself, \"God will never notice; he covers his face and never sees.\""
+}

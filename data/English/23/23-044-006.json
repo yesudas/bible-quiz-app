@@ -1,0 +1,37 @@
+{
+  "id": "23-044-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 44,
+  "verse_reference": "Isaiah 44:28",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom does the LORD call 'my shepherd' in Isaiah 44:28?",
+  "options": [
+    "David",
+    "Hezekiah",
+    "Cyrus",
+    "Moses"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Cyrus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 44:28 says of Cyrus, 'He is my shepherd and will accomplish all that I please.'"
+}

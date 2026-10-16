@@ -1,0 +1,31 @@
+{
+  "id": "07-005-016",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 5,
+  "verse_reference": "Judges 5:31",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"But may all who love you be like the ___ when it rises in its strength.\"",
+  "options": [
+    "eagle",
+    "lion",
+    "sun",
+    "river"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The song ends by asking that all who love the LORD be like the sun rising in its strength."
+}

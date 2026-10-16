@@ -1,0 +1,39 @@
+{
+  "id": "21-007-002",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 7,
+  "verse_reference": "Ecclesiastes 7:2",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to the Teacher, where is it better to go than to a house of feasting?",
+  "options": [
+    "A house of prayer",
+    "A house of learning",
+    "A house of mourning",
+    "A house of the king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House of mourning",
+      "type": "house"
+    },
+    {
+      "name": "House of feasting",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "It is better to go to a house of mourning, for death is the destiny of everyone, and the living should take this to heart."
+}

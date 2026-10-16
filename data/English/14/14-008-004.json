@@ -1,0 +1,39 @@
+{
+  "id": "14-008-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 8,
+  "verse_reference": "2 Chronicles 8:4",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which city did Solomon build in the desert?",
+  "options": [
+    "Beersheba",
+    "Jericho",
+    "Arad",
+    "Tadmor"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Tadmor",
+      "type": "city"
+    },
+    {
+      "name": "Desert",
+      "type": "desert"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon built up Tadmor in the desert and all the store cities he had built in Hamath."
+}

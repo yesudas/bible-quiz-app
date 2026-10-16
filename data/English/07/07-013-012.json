@@ -1,0 +1,31 @@
+{
+  "id": "07-013-012",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 13,
+  "verse_reference": "Judges 13:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "When Manoah asked the angel his name, the angel replied: \"Why do you ask my name? It is beyond ___.\"",
+  "options": [
+    "counting",
+    "reach",
+    "understanding",
+    "telling"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Angels"
+  ],
+  "characters": [
+    "Manoah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel of the LORD asked Manoah why he wanted to know his name, saying it was beyond understanding."
+}

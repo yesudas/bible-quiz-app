@@ -1,0 +1,38 @@
+{
+  "id": "13-011-001",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 11,
+  "verse_reference": "1 Chronicles 11:1-3",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did all Israel come to David and anoint him king?",
+  "options": [
+    "Jerusalem",
+    "Bethlehem",
+    "Hebron",
+    "Shiloh"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Covenant"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All Israel came together to David at Hebron, made a covenant with him, and anointed him king over Israel."
+}

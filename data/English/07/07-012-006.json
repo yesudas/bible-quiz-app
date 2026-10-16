@@ -1,0 +1,35 @@
+{
+  "id": "07-012-006",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 12,
+  "verse_reference": "Judges 12:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many Ephraimites were killed at that time?",
+  "options": [
+    "Forty-two thousand",
+    "Twenty-two thousand",
+    "Ten thousand",
+    "One hundred twenty thousand"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ephraim",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Forty-two thousand Ephraimites were killed at that time."
+}

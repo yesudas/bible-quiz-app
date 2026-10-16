@@ -1,0 +1,31 @@
+{
+  "id": "19-041-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 41,
+  "verse_reference": "Psalm 41:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What do David's enemies say about him in malice in Psalm 41:5?",
+  "options": [
+    "\"He will be king forever\"",
+    "\"He has many friends\"",
+    "\"He is very wise\"",
+    "\"When will he die and his name perish?\""
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 41:5 says, \"My enemies say of me in malice, 'When will he die and his name perish?'\""
+}

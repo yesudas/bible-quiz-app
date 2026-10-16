@@ -1,0 +1,33 @@
+{
+  "id": "11-018-019",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 18,
+  "verse_reference": "1 Kings 18:43-44",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After the servant looked toward the sea seven times, what did he finally see?",
+  "options": [
+    "A great storm",
+    "A flock of birds",
+    "A cloud as small as a man's hand",
+    "A ship"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The seventh time, the servant reported that a cloud as small as a man's hand was rising from the sea."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "19-083-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 83,
+  "verse_reference": "Psalm 83:8",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 83:8, which powerful nation joined the alliance against Israel?",
+  "options": [
+    "Egypt",
+    "Babylon",
+    "Persia",
+    "Assyria"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph says even Assyria joined the nations that formed an alliance against God's people."
+}

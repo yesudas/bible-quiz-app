@@ -1,0 +1,41 @@
+{
+  "id": "13-020-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 20,
+  "verse_reference": "1 Chronicles 20:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "While Joab besieged Rabbah, where did David remain?",
+  "options": [
+    "Hebron",
+    "Ziklag",
+    "Jerusalem",
+    "Jericho"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David",
+    "Joab"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Rabbah",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joab went to Rabbah and besieged it, but David remained in Jerusalem."
+}

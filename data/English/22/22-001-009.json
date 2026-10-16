@@ -1,0 +1,30 @@
+{
+  "id": "22-001-009",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 1,
+  "verse_reference": "Song of Songs 1:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does the woman say the beams of their house are made of?",
+  "options": [
+    "Oak",
+    "Acacia",
+    "Olive wood",
+    "Cedars"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Marriage"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 1:17 says the beams of their house are cedars and the rafters are firs."
+}

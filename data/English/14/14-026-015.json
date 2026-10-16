@@ -1,0 +1,31 @@
+{
+  "id": "14-026-015",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 26,
+  "verse_reference": "2 Chronicles 26:22",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which prophet recorded the other events of Uzziah's reign?",
+  "options": [
+    "Jeremiah",
+    "Micah",
+    "Hosea",
+    "Isaiah son of Amoz"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Isaiah",
+    "Uzziah"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The other events of Uzziah's reign, from beginning to end, are recorded by the prophet Isaiah son of Amoz."
+}

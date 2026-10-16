@@ -1,0 +1,38 @@
+{
+  "id": "18-001-006",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 1,
+  "verse_reference": "Job 1:4-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Job sacrifice burnt offerings for his children after their feasts?",
+  "options": [
+    "To thank God for a good harvest",
+    "In case they had sinned and cursed God in their hearts",
+    "Because a priest told him to",
+    "To celebrate their birthdays"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Worship",
+    "Family"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [
+    {
+      "name": "Uz",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job thought, 'Perhaps my children have sinned and cursed God in their hearts,' so he regularly offered burnt offerings for each of them."
+}

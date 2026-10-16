@@ -1,0 +1,41 @@
+{
+  "id": "11-002-006",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 2,
+  "verse_reference": "1 Kings 2:10-11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How long did David reign over Israel?",
+  "options": [
+    "Twenty years",
+    "Thirty years",
+    "Fifty years",
+    "Forty years"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David ruled over Israel for forty years: seven years in Hebron and thirty-three in Jerusalem."
+}

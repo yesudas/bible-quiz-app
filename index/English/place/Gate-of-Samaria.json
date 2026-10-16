@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Gate-of-Samaria",
+    "label": "Gate of Samaria",
+    "count": 3,
+    "paths": [
+        "English/12/12-007-001.json",
+        "English/12/12-007-004.json",
+        "English/12/12-007-014.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

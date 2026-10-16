@@ -1,0 +1,33 @@
+{
+  "id": "05-008-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 8,
+  "verse_reference": "Deuteronomy 8:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Moses said: \"Man does not live on ___ alone but on every word that comes from the mouth of the Lord.\"",
+  "options": [
+    "bread",
+    "manna",
+    "water",
+    "meat"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Wisdom",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God fed Israel with manna to teach them that people live not by bread alone but by every word that comes from the mouth of the Lord."
+}

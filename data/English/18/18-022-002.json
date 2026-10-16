@@ -1,0 +1,32 @@
+{
+  "id": "18-022-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 22,
+  "verse_reference": "Job 22:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Eliphaz's question: \"Is not your wickedness great? Are not your sins ____?\"",
+  "options": [
+    "forgiven",
+    "small",
+    "hidden",
+    "endless"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Eliphaz",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eliphaz accused Job, saying, 'Is not your wickedness great? Are not your sins endless?'"
+}

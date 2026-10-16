@@ -1,0 +1,33 @@
+{
+  "id": "13-001-003",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 1,
+  "verse_reference": "1 Chronicles 1:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Cush was the father of Nimrod, who became a mighty ______ on earth.\"",
+  "options": [
+    "king",
+    "hunter",
+    "warrior",
+    "builder"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Leadership"
+  ],
+  "characters": [
+    "Cush",
+    "Nimrod"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 1:10 says Nimrod became a mighty warrior on earth."
+}

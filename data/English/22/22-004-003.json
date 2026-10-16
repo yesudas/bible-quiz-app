@@ -1,0 +1,29 @@
+{
+  "id": "22-004-003",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 4,
+  "verse_reference": "Song of Songs 4:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"You are altogether beautiful, my darling; there is no ____ in you.\"",
+  "options": [
+    "flaw",
+    "fear",
+    "sin",
+    "shame"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 4:7 says, \"You are altogether beautiful, my darling; there is no flaw in you.\""
+}

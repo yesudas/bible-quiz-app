@@ -1,0 +1,31 @@
+{
+  "id": "21-005-003",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 5,
+  "verse_reference": "Ecclesiastes 5:4",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What should you do when you make a vow to God?",
+  "options": [
+    "Tell everyone about it",
+    "Write it down",
+    "Make it again the next day",
+    "Fulfill it without delay"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"When you make a vow to God, do not delay to fulfill it. He has no pleasure in fools; fulfill your vow.\""
+}

@@ -1,0 +1,34 @@
+{
+  "id": "12-005-019",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 5,
+  "verse_reference": "2 Kings 5:27",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened to Gehazi because of his greed and lies?",
+  "options": [
+    "He was put in prison",
+    "He was sent back to Aram",
+    "Naaman's leprosy came upon him",
+    "He lost all his money"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Gehazi",
+    "Elisha"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha said Naaman's leprosy would cling to Gehazi, and he left leprous, white as snow."
+}

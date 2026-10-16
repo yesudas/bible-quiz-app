@@ -1,0 +1,33 @@
+{
+  "id": "11-012-006",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 12,
+  "verse_reference": "1 Kings 12:11,14",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Rehoboam said his father scourged the people with whips. What did he say he would scourge them with?",
+  "options": [
+    "Rods",
+    "Chains",
+    "Scorpions",
+    "Swords"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Sin"
+  ],
+  "characters": [
+    "Rehoboam",
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rehoboam answered harshly: \"My father scourged you with whips; I will scourge you with scorpions.\""
+}

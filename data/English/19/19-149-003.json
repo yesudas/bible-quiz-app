@@ -1,0 +1,30 @@
+{
+  "id": "19-149-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 149,
+  "verse_reference": "Psalm 149:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "With what does Psalm 149 say God's people should praise His name?",
+  "options": [
+    "With silence",
+    "With fasting",
+    "With dancing",
+    "With sacrifices only"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Let them praise his name with dancing and make music to him with timbrel and harp.\""
+}

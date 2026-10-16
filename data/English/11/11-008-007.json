@@ -1,0 +1,33 @@
+{
+  "id": "11-008-007",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 8,
+  "verse_reference": "1 Kings 8:22",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did Solomon stand as he began to pray before the altar?",
+  "options": [
+    "With his face to the ground",
+    "With his hands spread out toward heaven",
+    "Holding the ark",
+    "With his eyes covered"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon stood before the altar in front of the whole assembly and spread out his hands toward heaven."
+}

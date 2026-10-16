@@ -1,0 +1,44 @@
+{
+  "id": "23-008-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 8,
+  "verse_reference": "Isaiah 8:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Before the boy could say 'My father' or 'My mother', what would the king of Assyria carry off?",
+  "options": [
+    "The gold of the temple",
+    "The wealth of Damascus and the plunder of Samaria",
+    "The cattle of Bashan",
+    "The cedars of Lebanon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Maher-Shalal-Hash-Baz"
+  ],
+  "places": [
+    {
+      "name": "Damascus",
+      "type": "city"
+    },
+    {
+      "name": "Samaria",
+      "type": "city"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 8:4 says that before the boy knew how to say 'My father' or 'My mother', the wealth of Damascus and the plunder of Samaria would be carried off by the king of Assyria."
+}

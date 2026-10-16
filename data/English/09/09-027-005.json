@@ -1,0 +1,38 @@
+{
+  "id": "09-027-005",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 27,
+  "verse_reference": "1 Samuel 27:5-6",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Which town did Achish give to David?",
+  "options": [
+    "Ziklag",
+    "Gath",
+    "Ekron",
+    "Hebron"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David",
+    "Achish"
+  ],
+  "places": [
+    {
+      "name": "Ziklag",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David asked for a place in one of the country towns, so on that day Achish gave him Ziklag."
+}

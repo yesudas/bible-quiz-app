@@ -1,0 +1,33 @@
+{
+  "id": "19-052-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 52,
+  "verse_reference": "Psalm 52 (title)",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to the title of Psalm 52, who went to Saul and told him where David had gone?",
+  "options": [
+    "Doeg",
+    "Ahimelek",
+    "Abner",
+    "Joab"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "David",
+    "Doeg",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title says Doeg the Edomite went to Saul and reported David's movements."
+}

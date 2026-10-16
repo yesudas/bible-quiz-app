@@ -1,0 +1,33 @@
+{
+  "id": "10-024-008",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 24,
+  "verse_reference": "2 Samuel 24:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did David choose to fall into the hands of the LORD rather than human hands?",
+  "options": [
+    "Because his army was weak",
+    "Because it would be quicker",
+    "Because the LORD's mercy is great",
+    "Because Gad told him to"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mercy",
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said, \"Let us fall into the hands of the LORD, for his mercy is great; but do not let me fall into human hands.\""
+}

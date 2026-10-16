@@ -1,0 +1,32 @@
+{
+  "id": "05-011-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 11,
+  "verse_reference": "Deuteronomy 11:6",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whom did Moses recall as being swallowed by the earth for their rebellion?",
+  "options": [
+    "Dathan and Abiram",
+    "Nadab and Abihu",
+    "Korah and Aaron",
+    "Achan and Zimri"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses reminded Israel how the earth opened and swallowed Dathan and Abiram, along with their households, because of their rebellion."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "19-146-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 146,
+  "verse_reference": "Psalm 146:7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to Psalm 146:7, what does the LORD do for prisoners?",
+  "options": [
+    "He judges them",
+    "He keeps them locked up",
+    "He forgets them",
+    "He sets them free"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Justice"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD gives food to the hungry and sets prisoners free."
+}

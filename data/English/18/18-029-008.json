@@ -1,0 +1,33 @@
+{
+  "id": "18-029-008",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 29,
+  "verse_reference": "Job 29:16",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Job 29:16, what did Job say he was to the needy?",
+  "options": [
+    "A king",
+    "A father",
+    "A teacher",
+    "A judge"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Family"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'I was a father to the needy; I took up the case of the stranger.'"
+}

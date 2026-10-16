@@ -1,0 +1,34 @@
+{
+  "id": "12-005-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 5,
+  "verse_reference": "2 Kings 5:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "When the king of Israel read the letter, he tore his robes and said: \"Am I ______? Can I kill and bring back to life?\"",
+  "options": [
+    "God",
+    "a prophet",
+    "a priest",
+    "a doctor"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king tore his robes and said, 'Am I God? Can I kill and bring back to life?' He thought the king of Aram was trying to pick a quarrel."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "09-003-010",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 3,
+  "verse_reference": "1 Samuel 3:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Samuel feel about telling Eli the vision?",
+  "options": [
+    "Excited",
+    "Afraid",
+    "Proud",
+    "Angry"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Samuel",
+    "Eli"
+  ],
+  "places": [
+    {
+      "name": "House of the LORD at Shiloh",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the morning Samuel opened the doors of the house of the LORD. He was afraid to tell Eli the vision."
+}

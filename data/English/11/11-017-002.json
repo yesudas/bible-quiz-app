@@ -1,0 +1,40 @@
+{
+  "id": "11-017-002",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 17,
+  "verse_reference": "1 Kings 17:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Elijah the Tishbite was from Tishbe in which region?",
+  "options": [
+    "Galilee",
+    "Samaria",
+    "Gilead",
+    "Judah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [
+    {
+      "name": "Tishbe",
+      "type": "town"
+    },
+    {
+      "name": "Gilead",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elijah was a Tishbite, from Tishbe in Gilead."
+}

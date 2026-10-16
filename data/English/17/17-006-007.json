@@ -1,0 +1,36 @@
+{
+  "id": "17-006-007",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 6,
+  "verse_reference": "Esther 6:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "This is what is done for the man the king ___ to honor!",
+  "options": [
+    "wishes",
+    "chooses",
+    "promises",
+    "delights"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Kingdom"
+  ],
+  "characters": [
+    "Haman"
+  ],
+  "places": [
+    {
+      "name": "City streets of Susa",
+      "type": "road"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The honored man was to be led on horseback through the city streets while someone proclaimed, 'This is what is done for the man the king delights to honor!'"
+}

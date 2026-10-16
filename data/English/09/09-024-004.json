@@ -1,0 +1,36 @@
+{
+  "id": "09-024-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 24,
+  "verse_reference": "1 Samuel 24:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did David's men say when Saul came into the cave?",
+  "options": [
+    "\"Let us run away quickly.\"",
+    "\"Let us pray for the king.\"",
+    "\"Let us call out to him.\"",
+    "\"This is the day the LORD spoke of, when He would give your enemy into your hands.\""
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Temptation"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Cave near the sheep pens",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The men said, \"This is the day the LORD spoke of when he said to you, 'I will give your enemy into your hands for you to deal with as you wish.'\""
+}

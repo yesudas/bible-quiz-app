@@ -1,0 +1,33 @@
+{
+  "id": "16-006-006",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 6,
+  "verse_reference": "Nehemiah 6:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Nehemiah's prayer in 6:9: \"But I prayed, 'Now ______ my hands.'\"",
+  "options": [
+    "bless",
+    "strengthen",
+    "guide",
+    "hold"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [
+    "Nehemiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "His enemies were trying to frighten the people, so Nehemiah prayed, \"Now strengthen my hands.\""
+}

@@ -1,0 +1,41 @@
+{
+  "id": "11-008-001",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 8,
+  "verse_reference": "1 Kings 8:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "From where did Solomon have the ark of the LORD's covenant brought up to the temple?",
+  "options": [
+    "Shiloh",
+    "Gibeon",
+    "Zion, the City of David",
+    "Kiriath Jearim"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    },
+    {
+      "name": "City of David",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon summoned the elders of Israel to bring up the ark of the LORD's covenant from Zion, the City of David."
+}

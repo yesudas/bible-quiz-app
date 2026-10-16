@@ -1,0 +1,30 @@
+{
+  "id": "23-053-010",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 53,
+  "verse_reference": "Isaiah 53:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "For whom did the servant make intercession, according to Isaiah 53:12?",
+  "options": [
+    "The priests",
+    "The transgressors",
+    "The kings of the earth",
+    "His family"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 53:12 says, 'For he bore the sin of many, and made intercession for the transgressors.'"
+}

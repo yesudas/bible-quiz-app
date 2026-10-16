@@ -1,0 +1,33 @@
+{
+  "id": "09-002-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 2,
+  "verse_reference": "1 Samuel 2:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Hannah prayed, \"There is no Rock like our ___.\"",
+  "options": [
+    "God",
+    "King",
+    "Father",
+    "Lord of Israel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [
+    "Hannah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hannah praised God, saying there is no one holy like the LORD and \"there is no Rock like our God.\""
+}

@@ -1,0 +1,37 @@
+{
+  "id": "11-007-007",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 7,
+  "verse_reference": "1 Kings 7:15,21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Huram make out of bronze and set up at the portico of the temple?",
+  "options": [
+    "Two pillars",
+    "Two lions",
+    "Two altars",
+    "Two thrones"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Huram"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Huram cast two bronze pillars, each eighteen cubits high, and set them up at the portico of the temple."
+}

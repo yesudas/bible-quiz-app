@@ -1,0 +1,40 @@
+{
+  "id": "07-003-015",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 3,
+  "verse_reference": "Judges 3:26",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Ehud escaped past the stone images. Where did he escape to?",
+  "options": [
+    "Shiloh",
+    "Bokim",
+    "Seirah",
+    "Timnath Heres"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Courage"
+  ],
+  "characters": [
+    "Ehud"
+  ],
+  "places": [
+    {
+      "name": "Seirah",
+      "type": "place"
+    },
+    {
+      "name": "Gilgal",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While the servants waited, Ehud got away. He passed by the stone images and escaped to Seirah."
+}

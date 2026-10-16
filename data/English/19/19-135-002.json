@@ -1,0 +1,31 @@
+{
+  "id": "19-135-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 135,
+  "verse_reference": "Psalm 135:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"I know that the LORD is great, that our Lord is greater than all ______.\"",
+  "options": [
+    "kings",
+    "nations",
+    "gods",
+    "angels"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist declares that the LORD is great and greater than all gods."
+}

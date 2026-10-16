@@ -1,0 +1,37 @@
+{
+  "id": "07-016-017",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 16,
+  "verse_reference": "Judges 16:23",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "To which god did the Philistine rulers offer a great sacrifice after capturing Samson?",
+  "options": [
+    "Baal",
+    "Chemosh",
+    "Molek",
+    "Dagon"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [
+    {
+      "name": "Temple of Dagon",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The rulers of the Philistines gathered to offer a great sacrifice to Dagon their god, saying their god had delivered Samson to them."
+}

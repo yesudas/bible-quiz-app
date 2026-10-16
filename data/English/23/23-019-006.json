@@ -1,0 +1,35 @@
+{
+  "id": "23-019-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 19,
+  "verse_reference": "Isaiah 19:19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What would be built to the LORD in the heart of Egypt in that day?",
+  "options": [
+    "A palace",
+    "A watchtower",
+    "A great wall",
+    "An altar"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Prophecy",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 19:19 says there will be an altar to the LORD in the heart of Egypt, and a monument to the LORD at its border."
+}

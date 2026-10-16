@@ -1,0 +1,35 @@
+{
+  "id": "05-010-010",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 10,
+  "verse_reference": "Deuteronomy 10:22",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many of Israel's ancestors went down to Egypt, before God made them as many as the stars?",
+  "options": [
+    "Twelve",
+    "Forty",
+    "Seventy",
+    "One hundred"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses recalled that their ancestors went down to Egypt seventy in number, and the Lord had since made them as numerous as the stars in the sky."
+}

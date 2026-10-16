@@ -1,0 +1,38 @@
+{
+  "id": "14-029-014",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 29,
+  "verse_reference": "2 Chronicles 29:36",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Hezekiah and all the people rejoice?",
+  "options": [
+    "They had won a war",
+    "Assyria had left",
+    "God had brought it about so quickly",
+    "They had found gold"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Joy"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hezekiah and all the people rejoiced at what God had brought about for His people, because it was done so quickly."
+}

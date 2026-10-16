@@ -1,0 +1,29 @@
+{
+  "id": "22-005-001",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 5,
+  "verse_reference": "Song of Songs 5:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"I slept but my ____ was awake.\"",
+  "options": [
+    "mind",
+    "soul",
+    "heart",
+    "spirit"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 5:2 says, \"I slept but my heart was awake. Listen! My beloved is knocking.\""
+}

@@ -1,0 +1,30 @@
+{
+  "id": "23-013-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 13,
+  "verse_reference": "Isaiah 13:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What will happen to the sun, moon and stars on the day of the LORD?",
+  "options": [
+    "They will shine seven times brighter",
+    "They will fall into the sea",
+    "They will turn to blood",
+    "They will not give their light"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 13:10 says the stars will not show their light, the rising sun will be darkened and the moon will not give its light."
+}

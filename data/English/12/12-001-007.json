@@ -1,0 +1,33 @@
+{
+  "id": "12-001-007",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 1,
+  "verse_reference": "2 Kings 1:3-4",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who told Elijah to go and meet the messengers of the king?",
+  "options": [
+    "The angel of the LORD",
+    "Elisha",
+    "A captain of fifty",
+    "King Jehoshaphat"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Angels",
+    "Prophecy"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel of the LORD told Elijah the Tishbite to go up and meet the king's messengers."
+}

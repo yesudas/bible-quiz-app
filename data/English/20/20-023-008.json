@@ -1,0 +1,30 @@
+{
+  "id": "20-023-008",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 23,
+  "verse_reference": "Proverbs 23:23",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Buy the ______ and do not sell it — wisdom, instruction and insight as well.\"",
+  "options": [
+    "land",
+    "truth",
+    "bread",
+    "gold"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 23:23 says buy the truth and do not sell it, along with wisdom, instruction and insight."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "09-014-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 14,
+  "verse_reference": "1 Samuel 14:29-30",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jonathan say when he learned about Saul's oath?",
+  "options": [
+    "\"My father has made trouble for the country\"",
+    "\"I will ask my father to forgive me\"",
+    "\"The oath was from the LORD\"",
+    "\"I will not eat again\""
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Jonathan",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonathan said his father had made trouble for the country, and the victory would have been greater if the men had eaten some of the plunder."
+}

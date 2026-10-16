@@ -1,0 +1,37 @@
+{
+  "id": "14-003-013",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 3,
+  "verse_reference": "2 Chronicles 3:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were the names of the two pillars at the front of the temple?",
+  "options": [
+    "Jakin and Boaz",
+    "Ebenezer and Bethel",
+    "Gilgal and Shiloh",
+    "Mizpah and Ramah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon named the pillar on the south Jakin and the one on the north Boaz."
+}

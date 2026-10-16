@@ -1,0 +1,35 @@
+{
+  "id": "18-002-013",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 2,
+  "verse_reference": "Job 2:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the three friends do when they saw Job from a distance?",
+  "options": [
+    "They laughed at him",
+    "They turned back home",
+    "They sang psalms",
+    "They wept aloud, tore their robes and sprinkled dust on their heads"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Love"
+  ],
+  "characters": [
+    "Eliphaz",
+    "Bildad",
+    "Zophar"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They could hardly recognize him, so they wept aloud, tore their robes and sprinkled dust on their heads."
+}

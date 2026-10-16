@@ -1,0 +1,38 @@
+{
+  "id": "07-009-001",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 9,
+  "verse_reference": "Judges 9:1-2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Abimelek go to ask his mother's brothers for support?",
+  "options": [
+    "Shechem",
+    "Ophrah",
+    "Shiloh",
+    "Hebron"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Abimelek"
+  ],
+  "places": [
+    {
+      "name": "Shechem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abimelek went to his mother's brothers in Shechem and asked them to persuade the citizens to let him rule over them."
+}

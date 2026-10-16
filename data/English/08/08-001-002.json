@@ -1,0 +1,43 @@
+{
+  "id": "08-001-002",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 1,
+  "verse_reference": "Ruth 1:1-2",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did Elimelek take his family to live during the famine?",
+  "options": [
+    "Egypt",
+    "Edom",
+    "Moab",
+    "Philistia"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Suffering"
+  ],
+  "characters": [
+    "Elimelek",
+    "Naomi"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    },
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elimelek left Bethlehem in Judah and went to live for a while in the country of Moab."
+}

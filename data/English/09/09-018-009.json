@@ -1,0 +1,42 @@
+{
+  "id": "09-018-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 18,
+  "verse_reference": "1 Samuel 18:14-16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did David have great success in everything he did?",
+  "options": [
+    "He had the best weapons",
+    "The LORD was with him",
+    "Jonathan fought for him",
+    "Saul helped him"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In everything he did David had great success, because the LORD was with him. All Israel and Judah loved David."
+}

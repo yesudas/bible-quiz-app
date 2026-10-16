@@ -1,0 +1,34 @@
+{
+  "id": "19-017-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 17,
+  "verse_reference": "Psalm 17:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does David say about his steps and feet in Psalm 17:5?",
+  "options": [
+    "They are tired and weak",
+    "They have walked far from home",
+    "They have held to God's paths and not stumbled",
+    "They have run from his enemies"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience",
+    "Faith"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 17:5 says, \"My steps have held to your paths; my feet have not stumbled.\""
+}

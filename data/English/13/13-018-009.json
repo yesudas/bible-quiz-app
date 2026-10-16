@@ -1,0 +1,41 @@
+{
+  "id": "13-018-009",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 18,
+  "verse_reference": "1 Chronicles 18:12",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Abishai son of Zeruiah strike down 18,000 Edomites?",
+  "options": [
+    "The Valley of Salt",
+    "The Valley of Elah",
+    "The Jordan Valley",
+    "The Valley of Rephaim"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "War"
+  ],
+  "characters": [
+    "Abishai",
+    "Zeruiah"
+  ],
+  "places": [
+    {
+      "name": "Valley of Salt",
+      "type": "valley"
+    },
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abishai son of Zeruiah struck down eighteen thousand Edomites in the Valley of Salt."
+}

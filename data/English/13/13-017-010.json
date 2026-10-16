@@ -1,0 +1,32 @@
+{
+  "id": "13-017-010",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 17,
+  "verse_reference": "1 Chronicles 17:14",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "For how long did God promise to establish the throne of David's son?",
+  "options": [
+    "Forty years",
+    "Until the exile",
+    "For seven generations",
+    "Forever"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"I will set him over my house and my kingdom forever; his throne will be established forever.\""
+}

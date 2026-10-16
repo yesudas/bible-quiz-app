@@ -1,0 +1,42 @@
+{
+  "id": "15-002-001",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 2,
+  "verse_reference": "Ezra 2:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which king had taken the people of Judah captive to Babylon?",
+  "options": [
+    "Cyrus",
+    "Nebuchadnezzar",
+    "Darius",
+    "Ahasuerus"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Promise"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra 2 lists the people who returned from exile, whom Nebuchadnezzar king of Babylon had taken captive to Babylon."
+}

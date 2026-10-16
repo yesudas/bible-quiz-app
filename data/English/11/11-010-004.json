@@ -1,0 +1,33 @@
+{
+  "id": "11-010-004",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 10,
+  "verse_reference": "1 Kings 10:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The queen of Sheba said, \"Indeed, not even ______ was told me.\"",
+  "options": [
+    "a word",
+    "a tenth",
+    "the truth",
+    "half"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Queen of Sheba",
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The queen said she did not believe the reports until she came and saw, and that not even half had been told her."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14-003-010",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 3,
+  "verse_reference": "2 Chronicles 3:11-13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How far did the wings of the two cherubim reach altogether?",
+  "options": [
+    "Ten cubits",
+    "Fifteen cubits",
+    "Thirty cubits",
+    "Twenty cubits"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Angels"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Most Holy Place",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Each wing was five cubits long, and together the wings of the two cherubim reached twenty cubits, touching the walls and each other."
+}

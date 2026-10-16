@@ -1,0 +1,36 @@
+{
+  "id": "14-032-007",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 32,
+  "verse_reference": "2 Chronicles 32:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Sennacherib's officers boast to the people of Jerusalem?",
+  "options": [
+    "That Egypt would help Assyria",
+    "That Hezekiah had surrendered",
+    "That Assyria's army had no weapons",
+    "That no god of any nation had been able to deliver its people from Assyria"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Sin"
+  ],
+  "characters": [
+    "Sennacherib"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Assyrian officers boasted that no god of any nation or kingdom had been able to deliver its people from the king of Assyria."
+}

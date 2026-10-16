@@ -1,0 +1,38 @@
+{
+  "id": "12-023-002",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 23,
+  "verse_reference": "2 Kings 23:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Josiah promise when he renewed the covenant?",
+  "options": [
+    "To build a new temple",
+    "To follow the LORD with all his heart and all his soul",
+    "To make peace with Egypt",
+    "To destroy Babylon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Obedience"
+  ],
+  "characters": [
+    "Josiah"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Josiah stood by the pillar and renewed the covenant to follow the LORD and keep His commands with all his heart and all his soul."
+}

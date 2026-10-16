@@ -1,0 +1,30 @@
+{
+  "id": "20-013-008",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 13,
+  "verse_reference": "Proverbs 13:22",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to Proverbs 13:22, a good person leaves an inheritance for whom?",
+  "options": [
+    "The king",
+    "Their children's children",
+    "Their servants",
+    "The temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Money"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 13:22 says a good person leaves an inheritance for their children's children."
+}

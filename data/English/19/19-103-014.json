@@ -1,0 +1,32 @@
+{
+  "id": "19-103-014",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 103,
+  "verse_reference": "Psalm 103:20-22",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which of these did David NOT call on to praise the LORD at the end of Psalm 103?",
+  "options": [
+    "His angels",
+    "His heavenly hosts",
+    "All his works",
+    "The kings of Egypt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Angels"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David called on the LORD's angels, His heavenly hosts, all His works, and his own soul to praise the LORD. The kings of Egypt are not mentioned."
+}

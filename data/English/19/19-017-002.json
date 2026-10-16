@@ -1,0 +1,33 @@
+{
+  "id": "19-017-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 17,
+  "verse_reference": "Psalm 17:3",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "In Psalm 17:3, when does David say God examines him?",
+  "options": [
+    "At night",
+    "At dawn",
+    "On the Sabbath",
+    "At the feasts"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holiness",
+    "Prayer"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 17:3 says, \"Though you probe my heart, though you examine me at night and test me, you will find that I have planned no evil.\""
+}

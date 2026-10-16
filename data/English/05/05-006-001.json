@@ -1,0 +1,33 @@
+{
+  "id": "05-006-001",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 6,
+  "verse_reference": "Deuteronomy 6:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Moses said the land God promised was a land flowing with milk and ___.",
+  "options": [
+    "oil",
+    "wine",
+    "honey",
+    "grain"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses described the promised land as a land flowing with milk and honey, just as the Lord had promised their ancestors."
+}

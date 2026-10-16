@@ -1,0 +1,38 @@
+{
+  "id": "06-006-009",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 6,
+  "verse_reference": "Joshua 6:17",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who was spared, along with everyone in her house, when Jericho was destroyed?",
+  "options": [
+    "Rahab",
+    "Miriam",
+    "Deborah",
+    "Jael"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Faith"
+  ],
+  "characters": [
+    "Rahab"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Only Rahab and all who were with her in her house were spared, because she hid the spies Joshua sent."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "11-002-008",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 2,
+  "verse_reference": "1 Kings 2:13-17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Adonijah ask Bathsheba to request from King Solomon?",
+  "options": [
+    "A house in Jerusalem",
+    "That Abishag the Shunammite be given to him as his wife",
+    "That he be made commander of the army",
+    "That Solomon forgive Joab"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage",
+    "Leadership"
+  ],
+  "characters": [
+    "Adonijah",
+    "Bathsheba",
+    "Solomon",
+    "Abishag"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Adonijah asked Bathsheba to ask Solomon to give him Abishag the Shunammite as his wife."
+}

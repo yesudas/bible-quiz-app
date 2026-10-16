@@ -1,0 +1,31 @@
+{
+  "id": "19-095-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 95,
+  "verse_reference": "Psalm 95:7",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "In Psalm 95:7, God's people are called the flock under His care and the people of His what?",
+  "options": [
+    "Kingdom",
+    "City",
+    "Temple",
+    "Pasture"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm says, \"We are the people of his pasture, the flock under his care.\""
+}

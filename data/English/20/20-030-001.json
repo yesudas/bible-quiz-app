@@ -1,0 +1,33 @@
+{
+  "id": "20-030-001",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 30,
+  "verse_reference": "Proverbs 30:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 30:1, whose sayings are found in this chapter?",
+  "options": [
+    "Lemuel",
+    "Agur son of Jakeh",
+    "Solomon son of David",
+    "Hezekiah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Agur",
+    "Jakeh"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 30:1 says these are the sayings of Agur son of Jakeh."
+}

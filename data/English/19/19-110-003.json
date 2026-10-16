@@ -1,0 +1,38 @@
+{
+  "id": "19-110-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 110,
+  "verse_reference": "Psalm 110:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "From where will the LORD extend the king's mighty scepter?",
+  "options": [
+    "Egypt",
+    "Bethlehem",
+    "Zion",
+    "Sinai"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Kingdom of God",
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD will extend the king's mighty scepter from Zion, saying, \"Rule in the midst of your enemies!\""
+}

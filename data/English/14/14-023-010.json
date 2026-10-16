@@ -1,0 +1,39 @@
+{
+  "id": "14-023-010",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 23,
+  "verse_reference": "2 Chronicles 23:15",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where was Athaliah put to death?",
+  "options": [
+    "Inside the temple courtyard",
+    "At the Water Gate",
+    "At the entrance of the Horse Gate on the palace grounds",
+    "In the Kidron Valley"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Athaliah"
+  ],
+  "places": [
+    {
+      "name": "Horse Gate",
+      "type": "road"
+    },
+    {
+      "name": "Royal palace",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They seized Athaliah as she reached the entrance of the Horse Gate on the palace grounds, and there they put her to death."
+}

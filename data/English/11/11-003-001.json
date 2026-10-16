@@ -1,0 +1,42 @@
+{
+  "id": "11-003-001",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 3,
+  "verse_reference": "1 Kings 3:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Solomon made an alliance with which king and married his daughter?",
+  "options": [
+    "The king of Tyre",
+    "Pharaoh king of Egypt",
+    "The king of Moab",
+    "The king of Assyria"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage",
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon",
+    "Pharaoh"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "City of David",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon made an alliance with Pharaoh king of Egypt, married his daughter and brought her to the City of David."
+}

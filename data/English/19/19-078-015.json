@@ -1,0 +1,38 @@
+{
+  "id": "19-078-015",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 78,
+  "verse_reference": "Psalm 78:70",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "According to Psalm 78:70, from where did God take David when He chose him?",
+  "options": [
+    "From the palace",
+    "From the battlefield",
+    "From the sheep pens",
+    "From the temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Asaph",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Sheep pens",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God chose David His servant and took him from the sheep pens."
+}

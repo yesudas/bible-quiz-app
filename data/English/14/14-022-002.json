@@ -1,0 +1,35 @@
+{
+  "id": "14-022-002",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 22,
+  "verse_reference": "2 Chronicles 22:2",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How long did Ahaziah reign in Jerusalem?",
+  "options": [
+    "Eight years",
+    "Three years",
+    "One year",
+    "Six years"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Ahaziah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahaziah became king and reigned in Jerusalem one year."
+}

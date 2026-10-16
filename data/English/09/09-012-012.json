@@ -1,0 +1,33 @@
+{
+  "id": "09-012-012",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 12,
+  "verse_reference": "1 Samuel 12:23",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Samuel said, \"Far be it from me that I should sin against the LORD by failing to ___ for you.\"",
+  "options": [
+    "fight",
+    "speak",
+    "pray",
+    "care"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Leadership"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel promised to keep praying for the people and to teach them the way that is good and right."
+}

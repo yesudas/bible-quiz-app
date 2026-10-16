@@ -1,0 +1,31 @@
+{
+  "id": "05-021-007",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 21,
+  "verse_reference": "Deuteronomy 21:18-19",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where were parents to bring a stubborn and rebellious son?",
+  "options": [
+    "To the priests at the tabernacle",
+    "To the elders at the gate of his town",
+    "To the king's palace",
+    "To a city of refuge"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Justice",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Parents were to bring a stubborn, rebellious son to the elders at the gate of his town, where the matter was judged publicly."
+}

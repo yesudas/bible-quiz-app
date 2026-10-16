@@ -1,0 +1,33 @@
+{
+  "id": "19-033-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 33,
+  "verse_reference": "Psalm 33:12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 33:12, which nation is blessed?",
+  "options": [
+    "The nation with the biggest army",
+    "The nation whose God is the LORD",
+    "The nation with the most gold",
+    "The nation with the oldest king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Blessing",
+    "Covenant"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 33:12 says, \"Blessed is the nation whose God is the LORD, the people he chose for his inheritance.\""
+}

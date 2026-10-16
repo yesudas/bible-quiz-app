@@ -1,0 +1,39 @@
+{
+  "id": "15-006-003",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 6,
+  "verse_reference": "Ezra 6:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did King Darius tell Tattenai to do about the work on the temple?",
+  "options": [
+    "Stop the work at once",
+    "Stay away and not interfere",
+    "Send the builders to Persia",
+    "Tear down the new walls"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Promise"
+  ],
+  "characters": [
+    "Darius",
+    "Tattenai"
+  ],
+  "places": [
+    {
+      "name": "House of God in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Darius told Tattenai and his colleagues to stay away and not interfere with the work on the temple of God."
+}

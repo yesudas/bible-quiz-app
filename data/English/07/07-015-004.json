@@ -1,0 +1,32 @@
+{
+  "id": "07-015-004",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 15,
+  "verse_reference": "Judges 15:4-5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Samson use the foxes to do?",
+  "options": [
+    "Set fire to the Philistines' grain, vineyards and olive groves",
+    "Frighten away the Philistine army",
+    "Carry messages to the men of Judah",
+    "Guard the vineyards of Timnah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He fastened a torch to every pair of tails, lit them, and let the foxes loose in the grain. They burned the grain, vineyards and olive groves."
+}

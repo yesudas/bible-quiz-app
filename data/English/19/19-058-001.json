@@ -1,0 +1,32 @@
+{
+  "id": "19-058-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 58,
+  "verse_reference": "Psalm 58:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "In Psalm 58:1, whom does David ask, \"Do you ... speak justly?\"",
+  "options": [
+    "The priests",
+    "The rulers",
+    "The prophets",
+    "The soldiers"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Sin"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David asks the rulers whether they really speak justly and judge people fairly."
+}

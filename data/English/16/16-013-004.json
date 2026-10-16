@@ -1,0 +1,36 @@
+{
+  "id": "16-013-004",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 13,
+  "verse_reference": "Nehemiah 13:6",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Why was Nehemiah not in Jerusalem when Tobiah was given the room?",
+  "options": [
+    "He was fighting a war in Egypt",
+    "He was sick in Susa",
+    "He was visiting Ammon",
+    "He had gone back to King Artaxerxes"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Nehemiah",
+    "Artaxerxes"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the thirty-second year of Artaxerxes king of Babylon, Nehemiah had returned to the king; some time later he came back to Jerusalem."
+}

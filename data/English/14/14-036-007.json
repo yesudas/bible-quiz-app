@@ -1,0 +1,33 @@
+{
+  "id": "14-036-007",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 36,
+  "verse_reference": "2 Chronicles 36:12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Before which prophet did Zedekiah not humble himself?",
+  "options": [
+    "Jeremiah",
+    "Isaiah",
+    "Ezekiel",
+    "Huldah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Prophecy"
+  ],
+  "characters": [
+    "Zedekiah",
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zedekiah did evil and did not humble himself before Jeremiah the prophet, who spoke the word of the LORD."
+}

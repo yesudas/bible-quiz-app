@@ -1,0 +1,37 @@
+{
+  "id": "16-004-002",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 4,
+  "verse_reference": "Nehemiah 4:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Tobiah mocked the wall by saying that even what animal climbing on it would break it down?",
+  "options": [
+    "A goat",
+    "A dog",
+    "A fox",
+    "A lion"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Tobiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Tobiah the Ammonite said that even a fox climbing up on the wall would break it down."
+}

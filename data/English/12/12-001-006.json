@@ -1,0 +1,43 @@
+{
+  "id": "12-001-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 1,
+  "verse_reference": "2 Kings 1:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Elijah's message: \"Is it because there is no ______ in Israel that you are going off to consult Baal-Zebub, the god of Ekron?\"",
+  "options": [
+    "prophet",
+    "God",
+    "king",
+    "priest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Idolatry",
+    "Prophecy",
+    "Worship"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Ekron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God sent Elijah to ask if there was no God in Israel, because the king had turned to a false god instead of the LORD."
+}

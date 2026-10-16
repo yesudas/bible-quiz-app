@@ -1,0 +1,37 @@
+{
+  "id": "06-014-009",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 14,
+  "verse_reference": "Joshua 14:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was Caleb's request for the hill country a brave one?",
+  "options": [
+    "The Anakites lived there in large, fortified cities",
+    "It had no water",
+    "It was far from Israel",
+    "It had already been given to Judah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Courage"
+  ],
+  "characters": [
+    "Caleb"
+  ],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Caleb asked for the hill country even though the Anakites were there and their cities were large and fortified."
+}

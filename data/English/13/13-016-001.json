@@ -1,0 +1,37 @@
+{
+  "id": "13-016-001",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 16,
+  "verse_reference": "1 Chronicles 16:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Where was the ark of God set when it was brought in?",
+  "options": [
+    "Inside the tent David had pitched for it",
+    "Inside Solomon's temple",
+    "In David's palace",
+    "In the house of Obed-Edom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "City of David",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They brought the ark of God and set it inside the tent that David had pitched for it."
+}

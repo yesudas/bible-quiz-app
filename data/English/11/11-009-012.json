@@ -1,0 +1,48 @@
+{
+  "id": "11-009-012",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 9,
+  "verse_reference": "1 Kings 9:26",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did King Solomon build ships?",
+  "options": [
+    "At Joppa on the Great Sea",
+    "At Tyre",
+    "On the Jordan River",
+    "At Ezion Geber on the shore of the Red Sea"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Ezion Geber",
+      "type": "town"
+    },
+    {
+      "name": "Elath",
+      "type": "town"
+    },
+    {
+      "name": "Edom",
+      "type": "country"
+    },
+    {
+      "name": "Red Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "King Solomon built ships at Ezion Geber, near Elath in Edom, on the shore of the Red Sea."
+}

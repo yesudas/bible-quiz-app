@@ -1,0 +1,37 @@
+{
+  "id": "12-004-015",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 4,
+  "verse_reference": "2 Kings 4:27",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "When the woman took hold of Elisha's feet, who came to push her away?",
+  "options": [
+    "Her husband",
+    "Gehazi",
+    "A company of prophets",
+    "Her servant"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Gehazi",
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Mount Carmel",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gehazi came to push her away, but Elisha said, 'Leave her alone! She is in bitter distress.'"
+}

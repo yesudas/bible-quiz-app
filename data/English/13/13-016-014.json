@@ -1,0 +1,33 @@
+{
+  "id": "13-016-014",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 16,
+  "verse_reference": "1 Chronicles 16:43",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After the celebration, why did David return home?",
+  "options": [
+    "To rest from battle",
+    "To bless his family",
+    "To write more psalms",
+    "To meet with Hiram"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Blessing"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All the people left for their homes, and David returned home to bless his family."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13-003-005",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 3,
+  "verse_reference": "1 Chronicles 3:4",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How many years did David reign in Jerusalem?",
+  "options": [
+    "Seven",
+    "Twenty",
+    "Thirty-three",
+    "Forty"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After reigning in Hebron, David reigned in Jerusalem thirty-three years."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "14-010-007",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 10,
+  "verse_reference": "2 Chronicles 10:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the young men's advice: \"My little finger is thicker than my father's ______.\"",
+  "options": [
+    "arm",
+    "hand",
+    "waist",
+    "neck"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Rehoboam"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The young men told Rehoboam to say, \"My little finger is thicker than my father's waist.\""
+}

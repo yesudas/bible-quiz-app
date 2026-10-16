@@ -1,0 +1,33 @@
+{
+  "id": "15-008-006",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 8,
+  "verse_reference": "Ezra 8:23",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened after the people fasted and prayed about their journey?",
+  "options": [
+    "God sent them a sign in the sky",
+    "God answered their prayer",
+    "The king sent them an army",
+    "They decided not to go"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [
+    "Ezra"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra says they fasted and petitioned their God about this, and he answered their prayer."
+}

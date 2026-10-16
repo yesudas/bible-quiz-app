@@ -1,0 +1,34 @@
+{
+  "id": "19-051-011",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 51,
+  "verse_reference": "Psalm 51:12",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did David ask God to restore to him in Psalm 51:12?",
+  "options": [
+    "The joy of your salvation",
+    "The strength of my youth",
+    "The peace of my kingdom",
+    "The wealth of my house"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Hope",
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David prayed, \"Restore to me the joy of your salvation.\""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "14-028-001",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 28,
+  "verse_reference": "2 Chronicles 28:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Ahaz compare with his ancestor David?",
+  "options": [
+    "He was just like David",
+    "He did not do what was right, unlike David",
+    "He was more faithful than David",
+    "He wrote more psalms than David"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Obedience"
+  ],
+  "characters": [
+    "Ahaz",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Unlike David his father, Ahaz did not do what was right in the eyes of the LORD."
+}

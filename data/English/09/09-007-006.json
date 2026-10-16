@@ -1,0 +1,35 @@
+{
+  "id": "09-007-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 7,
+  "verse_reference": "1 Samuel 7:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "At Mizpah, what did the people do with water?",
+  "options": [
+    "They washed the altar with it",
+    "They drew water and poured it out before the LORD",
+    "They sprinkled it on the ark",
+    "They gave it to the Philistines"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mizpah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people drew water and poured it out before the LORD. That day they fasted and confessed, \"We have sinned against the LORD.\""
+}

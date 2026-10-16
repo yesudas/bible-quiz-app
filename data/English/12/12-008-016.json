@@ -1,0 +1,39 @@
+{
+  "id": "12-008-016",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 8,
+  "verse_reference": "2 Kings 8:22",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Besides Edom, which town revolted against Judah at the same time?",
+  "options": [
+    "Libnah",
+    "Hebron",
+    "Gath",
+    "Bethel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoram"
+  ],
+  "places": [
+    {
+      "name": "Libnah",
+      "type": "town"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Edom was in rebellion against Judah, and Libnah revolted at the same time."
+}

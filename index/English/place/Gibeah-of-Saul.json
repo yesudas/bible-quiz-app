@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Gibeah-of-Saul",
+    "label": "Gibeah of Saul",
+    "count": 3,
+    "paths": [
+        "English/09/09-011-004.json",
+        "English/09/09-011-005.json",
+        "English/09/09-015-016.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

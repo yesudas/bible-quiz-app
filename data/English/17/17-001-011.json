@@ -1,0 +1,34 @@
+{
+  "id": "17-001-011",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 1,
+  "verse_reference": "Esther 1:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the royal decree say about Queen Vashti?",
+  "options": [
+    "She must leave Persia forever",
+    "She was never again to enter the presence of King Xerxes",
+    "She must serve in the kitchens",
+    "She would share her position with another queen"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Marriage"
+  ],
+  "characters": [
+    "Vashti",
+    "Xerxes"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The decree said Vashti was never again to enter the king's presence, and her royal position would be given to someone better than she."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "09-015-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 15,
+  "verse_reference": "1 Samuel 15:8-9",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Saul and the army spare instead of destroying everything?",
+  "options": [
+    "Only the women",
+    "Agag and the best of the sheep and cattle",
+    "The Amalekite gods",
+    "The Amalekite cities"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Obedience"
+  ],
+  "characters": [
+    "Saul",
+    "Agag"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul and the army spared Agag, king of the Amalekites, and the best of the sheep and cattle."
+}

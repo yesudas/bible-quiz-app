@@ -1,0 +1,32 @@
+{
+  "id": "18-003-001",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 3,
+  "verse_reference": "Job 3:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "After seven days of silence, what did Job curse?",
+  "options": [
+    "His friends",
+    "God",
+    "The day of his birth",
+    "His wife"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job opened his mouth and cursed the day of his birth. He did not curse God."
+}

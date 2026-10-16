@@ -1,0 +1,32 @@
+{
+  "id": "18-032-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 32,
+  "verse_reference": "Job 32:2",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which young man began to speak after Job's three friends stopped?",
+  "options": [
+    "Eliab",
+    "Elihu",
+    "Elisha",
+    "Eliezer"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Elihu"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elihu son of Barakel the Buzite became angry and began to speak after the three friends had stopped."
+}

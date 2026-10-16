@@ -1,0 +1,38 @@
+{
+  "id": "19-087-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 87,
+  "verse_reference": "Psalm 87:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 87:2, what does the LORD love more than all the other dwellings of Jacob?",
+  "options": [
+    "The gates of Zion",
+    "The fields of Bethlehem",
+    "The walls of Jericho",
+    "The hills of Samaria"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Worship"
+  ],
+  "characters": [
+    "Sons of Korah"
+  ],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm says the LORD loves the gates of Zion more than all the other dwellings of Jacob."
+}

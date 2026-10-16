@@ -1,0 +1,31 @@
+{
+  "id": "05-031-005",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 31,
+  "verse_reference": "Deuteronomy 31:10-11",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How often was the law to be read aloud before all Israel?",
+  "options": [
+    "Every year at Passover",
+    "Every month at the new moon",
+    "Only when a new king was crowned",
+    "Every seven years, during the Festival of Tabernacles"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Worship",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Every seven years, in the year for canceling debts during the Festival of Tabernacles, the law was to be read before all Israel at the place the Lord would choose."
+}

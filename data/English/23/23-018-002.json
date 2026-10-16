@@ -1,0 +1,33 @@
+{
+  "id": "23-018-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 18,
+  "verse_reference": "Isaiah 18:2",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In what kind of boats did this land send its envoys over the water?",
+  "options": [
+    "Boats of cedar",
+    "Papyrus boats",
+    "Ships of Tarshish",
+    "Bronze boats"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Cush",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 18:2 says it sends envoys by sea in papyrus boats over the water."
+}

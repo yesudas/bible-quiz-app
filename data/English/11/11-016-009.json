@@ -1,0 +1,38 @@
+{
+  "id": "11-016-009",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 16,
+  "verse_reference": "1 Kings 16:24",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Which city did Omri build on a hill he bought from Shemer?",
+  "options": [
+    "Tirzah",
+    "Jericho",
+    "Samaria",
+    "Shechem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Omri",
+    "Shemer"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Omri bought the hill of Samaria from Shemer, built a city on it and called it Samaria, after Shemer."
+}

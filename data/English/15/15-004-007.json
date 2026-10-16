@@ -1,0 +1,37 @@
+{
+  "id": "15-004-007",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 4,
+  "verse_reference": "Ezra 4:12-13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the letter warn the king would happen if Jerusalem was rebuilt?",
+  "options": [
+    "The Jews would attack Babylon",
+    "No more taxes or tribute would be paid",
+    "The temple would be larger than the king's palace",
+    "The people would crown David's descendant king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution",
+    "Money"
+  ],
+  "characters": [
+    "Artaxerxes"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The letter warned that if the city was built and its walls restored, no more taxes, tribute or duty would be paid, and royal revenues would suffer."
+}

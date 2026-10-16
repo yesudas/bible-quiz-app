@@ -1,0 +1,34 @@
+{
+  "id": "18-032-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 32,
+  "verse_reference": "Job 32:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was Elihu angry with Job's three friends?",
+  "options": [
+    "Because they had left Job alone",
+    "Because they arrived too late",
+    "Because they spoke too softly",
+    "Because they had found no way to refute Job, yet had condemned him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Elihu",
+    "Eliphaz",
+    "Bildad",
+    "Zophar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elihu was angry with the three friends because they had found no way to refute Job, and yet had condemned him."
+}

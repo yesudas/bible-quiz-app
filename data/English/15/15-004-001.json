@@ -1,0 +1,38 @@
+{
+  "id": "15-004-001",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 4,
+  "verse_reference": "Ezra 4:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the enemies of Judah and Benjamin first offer to do?",
+  "options": [
+    "Help build the temple",
+    "Pay for the temple",
+    "Send soldiers to Jerusalem",
+    "Leave the land in peace"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Temptation"
+  ],
+  "characters": [
+    "Zerubbabel"
+  ],
+  "places": [
+    {
+      "name": "House of God in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The enemies came to Zerubbabel and the family heads and said, \"Let us help you build because, like you, we seek your God.\""
+}

@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Gedaliah",
+    "label": "Gedaliah",
+    "count": 3,
+    "paths": [
+        "English/12/12-025-011.json",
+        "English/12/12-025-012.json",
+        "English/12/12-025-013.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

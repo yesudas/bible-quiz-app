@@ -1,0 +1,33 @@
+{
+  "id": "19-141-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 141,
+  "verse_reference": "Psalm 141:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Set a guard over my ______, LORD; keep watch over the door of my lips.\"",
+  "options": [
+    "mouth",
+    "heart",
+    "eyes",
+    "house"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Honesty"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David asked God to guard his mouth so he would not speak wrongly."
+}

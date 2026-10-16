@@ -1,0 +1,31 @@
+{
+  "id": "05-020-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 20,
+  "verse_reference": "Deuteronomy 20:2-4",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was to step forward and speak to the army before the battle began?",
+  "options": [
+    "The king",
+    "The oldest soldier",
+    "The priest",
+    "The judge"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Faith",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priest was to come forward and address the army, telling them not to be fainthearted or afraid, because the Lord goes with them to fight for them."
+}

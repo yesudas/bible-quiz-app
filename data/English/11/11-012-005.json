@@ -1,0 +1,32 @@
+{
+  "id": "11-012-005",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 12,
+  "verse_reference": "1 Kings 12:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "The young men told Rehoboam to say, \"My little ______ is thicker than my father's waist.\"",
+  "options": [
+    "hand",
+    "finger",
+    "toe",
+    "arm"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Rehoboam",
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The young men told Rehoboam to answer harshly, saying, \"My little finger is thicker than my father's waist.\""
+}

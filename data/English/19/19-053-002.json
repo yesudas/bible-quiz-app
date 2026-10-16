@@ -1,0 +1,38 @@
+{
+  "id": "19-053-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 53,
+  "verse_reference": "Psalm 53:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 53:2, what was God looking for when He looked down from heaven on all mankind?",
+  "options": [
+    "Anyone who was rich",
+    "Anyone who was strong",
+    "Anyone who understood and sought God",
+    "Anyone who was a king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God looked down to see if there were any who understood and any who sought Him."
+}

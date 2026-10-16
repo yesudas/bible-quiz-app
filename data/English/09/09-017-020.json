@@ -1,0 +1,37 @@
+{
+  "id": "09-017-020",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 17,
+  "verse_reference": "1 Samuel 17:54",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did David take Goliath's head?",
+  "options": [
+    "Bethlehem",
+    "Jerusalem",
+    "Gibeah",
+    "Ramah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David",
+    "Goliath"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David took the Philistine's head and brought it to Jerusalem; he put the Philistine's weapons in his own tent."
+}

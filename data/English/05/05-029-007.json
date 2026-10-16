@@ -1,0 +1,33 @@
+{
+  "id": "05-029-007",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 29,
+  "verse_reference": "Deuteronomy 29:18-19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Moses describe a person whose heart turns away from God to worship other gods?",
+  "options": [
+    "A tree without leaves",
+    "A stone in the field",
+    "A cloud without rain",
+    "A root that produces bitter poison"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Worship",
+    "Judgment"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses warned against anyone whose heart turns away to serve other gods, calling such a person a root that produces bitter poison among them."
+}

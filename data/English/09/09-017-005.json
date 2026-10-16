@@ -1,0 +1,34 @@
+{
+  "id": "09-017-005",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 17,
+  "verse_reference": "1 Samuel 17:13",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which three sons of Jesse had followed Saul to the war?",
+  "options": [
+    "Eliab, Abinadab and Shammah",
+    "Joel, Abijah and Eliab",
+    "Jonathan, Ishvi and Malki-Shua",
+    "David, Eliab and Shammah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jesse",
+    "Eliab",
+    "Abinadab",
+    "Shammah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesse's three eldest sons had followed Saul to the war: Eliab the firstborn, Abinadab and Shammah."
+}

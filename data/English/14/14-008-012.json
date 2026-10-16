@@ -1,0 +1,38 @@
+{
+  "id": "14-008-012",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 8,
+  "verse_reference": "2 Chronicles 8:14",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to whose ordinance did Solomon appoint the divisions of the priests and Levites?",
+  "options": [
+    "Moses",
+    "Nathan",
+    "Zadok",
+    "David"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon appointed the divisions of the priests and Levites and the gatekeepers as his father David, the man of God, had ordered."
+}

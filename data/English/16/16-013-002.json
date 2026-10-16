@@ -1,0 +1,31 @@
+{
+  "id": "16-013-002",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 13,
+  "verse_reference": "Nehemiah 13:2",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "The Ammonites and Moabites had hired someone to curse Israel. Who was he?",
+  "options": [
+    "Balaam",
+    "Balak",
+    "Korah",
+    "Goliath"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [
+    "Balaam"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They had hired Balaam to call a curse down on Israel, but God turned the curse into a blessing."
+}

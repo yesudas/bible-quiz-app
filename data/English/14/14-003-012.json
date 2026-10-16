@@ -1,0 +1,36 @@
+{
+  "id": "14-003-012",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 3,
+  "verse_reference": "2 Chronicles 3:15-16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What decorations were attached to the chains on the two pillars?",
+  "options": [
+    "Golden bells",
+    "Palm branches",
+    "A hundred pomegranates",
+    "Silver flowers"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon made interwoven chains for the tops of the pillars and attached a hundred pomegranates to the chains."
+}

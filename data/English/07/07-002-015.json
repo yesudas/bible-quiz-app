@@ -1,0 +1,31 @@
+{
+  "id": "07-002-015",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 2,
+  "verse_reference": "Judges 2:11-19",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "Which order matches the pattern described in Judges 2?",
+  "options": [
+    "God raises a judge → Israel serves Baals → enemies oppress Israel → the judge dies",
+    "Enemies oppress Israel → the judge dies → Israel serves Baals → God raises a judge",
+    "Israel serves Baals → enemies oppress Israel → God raises a judge → the judge dies and Israel turns away again",
+    "The judge dies → God raises a judge → enemies oppress Israel → Israel serves Baals"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel served other gods, God gave them to their enemies, then He raised up a judge to save them. When the judge died, the people turned back to other gods."
+}

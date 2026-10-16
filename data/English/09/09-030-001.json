@@ -1,0 +1,41 @@
+{
+  "id": "09-030-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 30,
+  "verse_reference": "1 Samuel 30:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who had raided and burned Ziklag while David was away?",
+  "options": [
+    "The Philistines",
+    "The Amalekites",
+    "The Moabites",
+    "Saul's army"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Ziklag",
+      "type": "town"
+    },
+    {
+      "name": "Negev",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When David and his men reached Ziklag on the third day, the Amalekites had raided the Negev and Ziklag, attacked it and burned it."
+}

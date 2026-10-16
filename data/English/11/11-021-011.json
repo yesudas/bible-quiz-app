@@ -1,0 +1,32 @@
+{
+  "id": "11-021-011",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 21,
+  "verse_reference": "1 Kings 21:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Ahab said to Elijah, \"So you have found me, my ______!\"",
+  "options": [
+    "friend",
+    "enemy",
+    "master",
+    "servant"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Ahab",
+    "Elijah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahab said to Elijah, \"So you have found me, my enemy!\""
+}

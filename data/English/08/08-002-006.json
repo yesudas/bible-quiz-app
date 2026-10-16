@@ -1,0 +1,39 @@
+{
+  "id": "08-002-006",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 2,
+  "verse_reference": "Ruth 2:8-9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Boaz tell Ruth to do while gathering grain?",
+  "options": [
+    "Stay in his field with the women who worked for him",
+    "Go to another field after lunch",
+    "Work only at night",
+    "Pay a share of the grain to him"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kindness",
+    "Protection"
+  ],
+  "characters": [
+    "Boaz",
+    "Ruth"
+  ],
+  "places": [
+    {
+      "name": "Boaz's field",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Boaz told Ruth not to go to another field but to stay with his women workers, and he told the men not to lay a hand on her."
+}

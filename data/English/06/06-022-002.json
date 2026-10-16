@@ -1,0 +1,34 @@
+{
+  "id": "06-022-002",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 22,
+  "verse_reference": "Joshua 22:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Joshua said, \"Be very careful... to love the LORD your God... and to serve him with all your heart and with all your ____.\"",
+  "options": [
+    "strength",
+    "mind",
+    "soul",
+    "might"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Obedience",
+    "Worship"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua told them to love the LORD, obey Him, hold fast to Him and serve Him with all their heart and all their soul."
+}

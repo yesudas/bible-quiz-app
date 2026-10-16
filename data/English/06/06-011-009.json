@@ -1,0 +1,34 @@
+{
+  "id": "06-011-009",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 11,
+  "verse_reference": "Joshua 11:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How carefully did Joshua obey what the LORD had commanded Moses?",
+  "options": [
+    "He obeyed most of it",
+    "He changed some commands",
+    "He left nothing undone",
+    "He obeyed only in battle"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience",
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As the LORD commanded Moses, so Moses commanded Joshua, and Joshua did it; he left nothing undone."
+}

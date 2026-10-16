@@ -1,0 +1,35 @@
+{
+  "id": "13-001-006",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 1,
+  "verse_reference": "1 Chronicles 1:28",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who were the two sons of Abraham named in 1 Chronicles 1:28?",
+  "options": [
+    "Esau and Jacob",
+    "Shem and Ham",
+    "Isaac and Ishmael",
+    "Medan and Midian"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Promise"
+  ],
+  "characters": [
+    "Abraham",
+    "Isaac",
+    "Ishmael"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Verse 28 names the sons of Abraham as Isaac and Ishmael."
+}

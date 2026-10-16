@@ -1,0 +1,37 @@
+{
+  "id": "23-037-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 37,
+  "verse_reference": "Isaiah 37:36",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Who went out and put to death 185,000 in the Assyrian camp?",
+  "options": [
+    "The army of Judah",
+    "The army of Egypt",
+    "A great earthquake",
+    "The angel of the LORD"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Angels",
+    "Miracles",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 37:36 says the angel of the LORD went out and put to death a hundred and eighty-five thousand in the Assyrian camp."
+}

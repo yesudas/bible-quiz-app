@@ -1,0 +1,38 @@
+{
+  "id": "14-026-012",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 26,
+  "verse_reference": "2 Chronicles 26:19",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What broke out on Uzziah's forehead while he was raging at the priests?",
+  "options": [
+    "Leprosy",
+    "A wound",
+    "A crown",
+    "A mark of blood"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [
+    "Uzziah"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While Uzziah was raging at the priests with a censer in his hand, leprosy broke out on his forehead."
+}

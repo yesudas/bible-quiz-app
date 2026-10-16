@@ -1,0 +1,31 @@
+{
+  "id": "11-008-014",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 8,
+  "verse_reference": "1 Kings 8:54",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "When Solomon finished his prayer, what position was he in before the altar?",
+  "options": [
+    "Standing on the steps",
+    "Lying on the ground",
+    "Sitting on a throne",
+    "Kneeling, with his hands spread out toward heaven"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Solomon finished praying, he rose from before the altar, where he had been kneeling with his hands spread out toward heaven."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12-019-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 19,
+  "verse_reference": "2 Kings 19:29",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In the sign the LORD gave Hezekiah, when would the people sow and reap again?",
+  "options": [
+    "In the second year",
+    "After seven years",
+    "In the third year",
+    "That same year"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Prophecy"
+  ],
+  "characters": [
+    "Hezekiah",
+    "Isaiah"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "For two years they would eat what grew by itself, but in the third year they would sow and reap and plant vineyards."
+}

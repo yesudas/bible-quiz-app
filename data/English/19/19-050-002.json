@@ -1,0 +1,33 @@
+{
+  "id": "19-050-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 50,
+  "verse_reference": "Psalm 50:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 50:1, from where to where does God summon the earth?",
+  "options": [
+    "From the rising of the sun to where it sets",
+    "From the mountains to the sea",
+    "From Dan to Beersheba",
+    "From the river to the desert"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingship",
+    "Creation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 50:1 says, \"The Mighty One, God, the LORD, speaks and summons the earth from the rising of the sun to where it sets.\""
+}

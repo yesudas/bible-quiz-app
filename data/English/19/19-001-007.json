@@ -1,0 +1,31 @@
+{
+  "id": "19-001-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 1,
+  "verse_reference": "Psalm 1:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What are the wicked compared to in Psalm 1?",
+  "options": [
+    "Grass that dries up",
+    "Chaff that the wind blows away",
+    "Smoke that rises up",
+    "Sand on the seashore"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 1:4 says the wicked are like chaff that the wind blows away."
+}

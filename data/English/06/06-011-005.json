@@ -1,0 +1,38 @@
+{
+  "id": "06-011-005",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 11,
+  "verse_reference": "Joshua 11:6",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "By what time did the LORD promise to hand the enemy over to Israel?",
+  "options": [
+    "By the next new moon",
+    "By this time tomorrow",
+    "After seven days",
+    "After forty days"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Faith"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Waters of Merom",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, \"Do not be afraid of them, because by this time tomorrow I will hand all of them... over to Israel.\""
+}

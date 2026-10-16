@@ -1,0 +1,37 @@
+{
+  "id": "05-005-001",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 5,
+  "verse_reference": "Deuteronomy 5:2-4",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Moses say the Lord made the covenant with Israel?",
+  "options": [
+    "At Horeb",
+    "In Egypt",
+    "At the Jordan",
+    "In Moab"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant",
+    "Law"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Horeb",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses reminded the people that the Lord made the covenant with them at Horeb, speaking to them face to face out of the fire."
+}

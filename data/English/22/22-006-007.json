@@ -1,0 +1,29 @@
+{
+  "id": "22-006-007",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 6,
+  "verse_reference": "Song of Songs 6:13",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "By what name is the woman called when she is asked to \"come back, come back\"?",
+  "options": [
+    "The Ephraimite",
+    "The Shulammite",
+    "The Moabite",
+    "The Gileadite"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 6:13 says, \"Come back, come back, O Shulammite.\""
+}

@@ -1,0 +1,38 @@
+{
+  "id": "14-031-002",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 31,
+  "verse_reference": "2 Chronicles 31:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Where did the king get the offerings he contributed for the burnt offerings?",
+  "options": [
+    "From the people's taxes",
+    "From Assyria",
+    "From his own possessions",
+    "From the temple treasury"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Money",
+    "Leadership"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king contributed from his own possessions for the morning and evening burnt offerings and for the offerings on Sabbaths, New Moons and festivals."
+}

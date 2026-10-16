@@ -1,0 +1,43 @@
+{
+  "id": "14-025-014",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 25,
+  "verse_reference": "2 Chronicles 25:23",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Jehoash break down in Jerusalem?",
+  "options": [
+    "The temple",
+    "The royal palace",
+    "A section of the wall from the Ephraim Gate to the Corner Gate",
+    "The bronze altar"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Jehoash"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Ephraim Gate",
+      "type": "road"
+    },
+    {
+      "name": "Corner Gate",
+      "type": "road"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoash broke down the wall of Jerusalem from the Ephraim Gate to the Corner Gate, a section about four hundred cubits long."
+}

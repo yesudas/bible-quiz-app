@@ -1,0 +1,32 @@
+{
+  "id": "18-003-007",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 3,
+  "verse_reference": "Job 3:25",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Job's words: \"What I ____ has come upon me; what I dreaded has happened to me.\"",
+  "options": [
+    "feared",
+    "hoped",
+    "prayed",
+    "planned"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'What I feared has come upon me; what I dreaded has happened to me.'"
+}

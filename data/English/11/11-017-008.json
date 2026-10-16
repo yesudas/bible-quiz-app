@@ -1,0 +1,38 @@
+{
+  "id": "11-017-008",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 17,
+  "verse_reference": "1 Kings 17:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was the widow doing when Elijah met her at the town gate?",
+  "options": [
+    "Drawing water from a well",
+    "Selling bread",
+    "Gathering sticks",
+    "Washing clothes"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Elijah",
+    "Widow of Zarephath"
+  ],
+  "places": [
+    {
+      "name": "Zarephath",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Elijah came to the town gate, a widow was there gathering sticks."
+}

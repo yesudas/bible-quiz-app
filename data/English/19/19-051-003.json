@@ -1,0 +1,34 @@
+{
+  "id": "19-051-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 51,
+  "verse_reference": "Psalm 51 (title)",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "The title of Psalm 51 links it to David's sin with which woman?",
+  "options": [
+    "Abigail",
+    "Michal",
+    "Bathsheba",
+    "Tamar"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Repentance",
+    "Marriage"
+  ],
+  "characters": [
+    "David",
+    "Bathsheba"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title says Nathan came to David after David had committed adultery with Bathsheba."
+}

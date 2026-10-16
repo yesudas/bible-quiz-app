@@ -1,0 +1,35 @@
+{
+  "id": "23-013-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 13,
+  "verse_reference": "Isaiah 13:17",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which people did God say He would stir up against Babylon?",
+  "options": [
+    "The Medes",
+    "The Egyptians",
+    "The Philistines",
+    "The Edomites"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 13:17 says, 'I will stir up against them the Medes, who do not care for silver and have no delight in gold.'"
+}

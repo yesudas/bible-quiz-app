@@ -1,0 +1,34 @@
+{
+  "id": "10-014-015",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 14,
+  "verse_reference": "2 Samuel 14:33",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did King David do when Absalom finally came and bowed before him?",
+  "options": [
+    "He sent him away",
+    "He had him arrested",
+    "He kissed Absalom",
+    "He gave him a crown"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Forgiveness"
+  ],
+  "characters": [
+    "David",
+    "Absalom"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Absalom bowed down with his face to the ground before the king, and the king kissed Absalom."
+}

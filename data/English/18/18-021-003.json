@@ -1,0 +1,32 @@
+{
+  "id": "18-021-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 21,
+  "verse_reference": "Job 21:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Job's question: \"Why do the ____ live on, growing old and increasing in power?\"",
+  "options": [
+    "righteous",
+    "poor",
+    "young",
+    "wicked"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job asked, 'Why do the wicked live on, growing old and increasing in power?' He saw that the wicked often prosper."
+}

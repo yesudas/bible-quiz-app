@@ -1,0 +1,34 @@
+{
+  "id": "07-020-006",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 20,
+  "verse_reference": "Judges 20:18",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the Israelites go to inquire of God about who should fight Benjamin first?",
+  "options": [
+    "Shiloh",
+    "Bethel",
+    "Mizpah",
+    "Gilgal"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites went up to Bethel and inquired of God which tribe should go up first to fight the Benjamites."
+}

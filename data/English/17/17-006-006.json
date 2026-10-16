@@ -1,0 +1,33 @@
+{
+  "id": "17-006-006",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 6,
+  "verse_reference": "Esther 6:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Haman suggest for the man the king delighted to honor?",
+  "options": [
+    "A royal robe the king had worn and a horse the king had ridden",
+    "A new house and servants",
+    "A seat above all the nobles",
+    "A bag of silver and a gold chain"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Pride",
+    "Kingdom"
+  ],
+  "characters": [
+    "Haman"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Haman suggested bringing a royal robe the king had worn and a horse the king had ridden, with a royal crest placed on its head."
+}

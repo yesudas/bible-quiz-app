@@ -1,0 +1,36 @@
+{
+  "id": "07-009-017",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 9,
+  "verse_reference": "Judges 9:46-49",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Abimelek attack the people hiding in the stronghold of the temple of El-Berith?",
+  "options": [
+    "He piled branches against it and set it on fire",
+    "He flooded it with water",
+    "He broke down its walls with rams",
+    "He starved them for many months"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Abimelek"
+  ],
+  "places": [
+    {
+      "name": "Temple of El-Berith",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abimelek and his men cut branches, piled them against the stronghold and set it on fire. About a thousand men and women died."
+}

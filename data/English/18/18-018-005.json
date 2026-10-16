@@ -1,0 +1,31 @@
+{
+  "id": "18-018-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 18,
+  "verse_reference": "Job 18:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"He is torn from the security of his tent and marched off to the king of ____.\"",
+  "options": [
+    "darkness",
+    "death",
+    "the grave",
+    "terrors"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Bildad"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Bildad said the wicked man is torn from his tent and marched off to the king of terrors."
+}

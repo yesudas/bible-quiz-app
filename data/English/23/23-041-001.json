@@ -1,0 +1,38 @@
+{
+  "id": "23-041-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 41,
+  "verse_reference": "Isaiah 41:8",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "In Isaiah 41:8, whom does God call 'my friend'?",
+  "options": [
+    "Moses",
+    "David",
+    "Jacob",
+    "Abraham"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Love"
+  ],
+  "characters": [
+    "Abraham",
+    "Jacob"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 41:8 says, 'But you, Israel, my servant, Jacob, whom I have chosen, you descendants of Abraham my friend.'"
+}

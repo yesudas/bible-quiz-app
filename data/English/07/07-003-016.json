@@ -1,0 +1,37 @@
+{
+  "id": "07-003-016",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 3,
+  "verse_reference": "Judges 3:27",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Ehud do in the hill country of Ephraim to gather the Israelites?",
+  "options": [
+    "He lit a great fire",
+    "He sent messengers with cut-up pieces",
+    "He built an altar",
+    "He blew a trumpet"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Ehud"
+  ],
+  "places": [
+    {
+      "name": "Hill country of Ephraim",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ehud blew a trumpet in the hill country of Ephraim, and the Israelites went down with him."
+}

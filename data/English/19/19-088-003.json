@@ -1,0 +1,31 @@
+{
+  "id": "19-088-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 88,
+  "verse_reference": "Psalm 88:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 88:8, what does the psalmist say has been taken from him?",
+  "options": [
+    "His house",
+    "His land",
+    "His wealth",
+    "His closest friends"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Heman"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist says God has taken from him his closest friends."
+}

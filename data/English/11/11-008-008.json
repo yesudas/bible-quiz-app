@@ -1,0 +1,34 @@
+{
+  "id": "11-008-008",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 8,
+  "verse_reference": "1 Kings 8:23",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Solomon prayed, \"LORD, the God of Israel, there is no ______ like you in heaven above or on earth below.\"",
+  "options": [
+    "king",
+    "God",
+    "prophet",
+    "angel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon began his prayer by saying there is no God like the LORD in heaven above or on earth below, who keeps His covenant of love."
+}

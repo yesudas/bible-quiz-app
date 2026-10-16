@@ -1,0 +1,35 @@
+{
+  "id": "14-011-010",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 11,
+  "verse_reference": "2 Chronicles 11:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Who followed the Levites to Jerusalem to offer sacrifices?",
+  "options": [
+    "Only the leaders of Israel",
+    "The kings of other nations",
+    "Those from every tribe who set their hearts on seeking the LORD",
+    "Only people from Benjamin"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Those from every tribe of Israel who set their hearts on seeking the LORD followed the Levites to Jerusalem to offer sacrifices."
+}

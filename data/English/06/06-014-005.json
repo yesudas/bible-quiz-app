@@ -1,0 +1,38 @@
+{
+  "id": "06-014-005",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 14,
+  "verse_reference": "Joshua 14:7",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How old was Caleb when Moses sent him to explore the land?",
+  "options": [
+    "Forty years old",
+    "Twenty years old",
+    "Sixty years old",
+    "Eighty-five years old"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Caleb",
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Kadesh Barnea",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Caleb said he was forty years old when Moses sent him from Kadesh Barnea to explore the land."
+}

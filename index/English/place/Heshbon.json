@@ -1,0 +1,17 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Heshbon",
+    "label": "Heshbon",
+    "count": 7,
+    "paths": [
+        "English/05/05-002-008.json",
+        "English/05/05-002-009.json",
+        "English/05/05-002-011.json",
+        "English/06/06-012-002.json",
+        "English/07/07-011-010.json",
+        "English/16/16-009-014.json",
+        "English/22/22-007-002.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

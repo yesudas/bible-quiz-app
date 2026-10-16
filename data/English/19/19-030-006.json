@@ -1,0 +1,34 @@
+{
+  "id": "19-030-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 30,
+  "verse_reference": "Psalm 30:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"You turned my wailing into ____.\"",
+  "options": [
+    "singing",
+    "dancing",
+    "laughing",
+    "praying"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Joy",
+    "Thanksgiving"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 30:11 says, \"You turned my wailing into dancing; you removed my sackcloth and clothed me with joy.\""
+}

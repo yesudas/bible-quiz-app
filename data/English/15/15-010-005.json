@@ -1,0 +1,34 @@
+{
+  "id": "15-010-005",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 10,
+  "verse_reference": "Ezra 10:7-8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What would happen to anyone who did not come to Jerusalem within three days?",
+  "options": [
+    "They would lose their property and be expelled from the assembly",
+    "They would be sent back to Babylon",
+    "They would be put in prison",
+    "They would pay a fine of silver"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Anyone who failed to appear within three days would forfeit all their property and be expelled from the assembly of the exiles."
+}

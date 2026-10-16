@@ -1,0 +1,36 @@
+{
+  "id": "11-022-016",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 22,
+  "verse_reference": "1 Kings 22:39",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was Ahab's palace in Samaria decorated with?",
+  "options": [
+    "Gold",
+    "Cedar",
+    "Silver",
+    "Ivory"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Ahab"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The events of Ahab's reign, including the palace he built and adorned with ivory, are written in the annals of the kings of Israel."
+}

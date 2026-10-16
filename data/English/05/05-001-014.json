@@ -1,0 +1,42 @@
+{
+  "id": "05-001-014",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 1,
+  "verse_reference": "Deuteronomy 1:41-44",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "What happened when the people finally tried to go up and fight after God told them not to?",
+  "options": [
+    "The Amorites chased them and defeated them",
+    "They captured the hill country easily",
+    "The enemy surrendered without a fight",
+    "God gave them a great victory"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Disobedience"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Seir",
+      "type": "region"
+    },
+    {
+      "name": "Hormah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After first refusing to go, the people presumptuously went up to fight against God's command, and the Amorites chased them and defeated them, from Seir to Hormah."
+}

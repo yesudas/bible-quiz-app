@@ -1,0 +1,38 @@
+{
+  "id": "11-007-005",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 7,
+  "verse_reference": "1 Kings 7:13-14",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which skilled bronze worker from Tyre did Solomon bring to make the temple's bronze work?",
+  "options": [
+    "Hiram king of Tyre",
+    "Bezalel",
+    "Huram",
+    "Adoniram"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Wisdom"
+  ],
+  "characters": [
+    "Solomon",
+    "Huram"
+  ],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon sent to Tyre and brought Huram, a craftsman filled with wisdom and skill for all kinds of bronze work."
+}

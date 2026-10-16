@@ -1,0 +1,38 @@
+{
+  "id": "06-024-002",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 24,
+  "verse_reference": "Joshua 24:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Joshua say Israel's ancestors, including Terah, did long ago beyond the Euphrates?",
+  "options": [
+    "They built the tower of Babel",
+    "They worshiped other gods",
+    "They were slaves",
+    "They lived as shepherds in Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [
+    "Terah",
+    "Abraham"
+  ],
+  "places": [
+    {
+      "name": "Euphrates",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua said their ancestors, including Terah the father of Abraham and Nahor, lived beyond the Euphrates and worshiped other gods."
+}

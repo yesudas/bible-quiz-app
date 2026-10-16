@@ -1,0 +1,30 @@
+{
+  "id": "19-106-016",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 106,
+  "verse_reference": "Psalm 106:48",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Praise be to the LORD, the God of Israel, from everlasting to everlasting. Let all the people say, '______!'\"",
+  "options": [
+    "Hallelujah",
+    "Hosanna",
+    "Glory",
+    "Amen"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 106 ends by inviting all the people to say \"Amen!\" and praise the LORD."
+}

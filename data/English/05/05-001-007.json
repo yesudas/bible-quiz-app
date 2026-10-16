@@ -1,0 +1,32 @@
+{
+  "id": "05-001-007",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 1,
+  "verse_reference": "Deuteronomy 1:22-23",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many men were sent to explore the land, one from each tribe?",
+  "options": [
+    "Seven",
+    "Ten",
+    "Twelve",
+    "Seventy"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people asked to send men ahead to explore the land, so Moses chose twelve men, one from each tribe."
+}

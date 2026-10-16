@@ -1,0 +1,35 @@
+{
+  "id": "13-002-008",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 2,
+  "verse_reference": "1 Chronicles 2:16",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Abishai, Joab and Asahel were the three sons of which sister of David?",
+  "options": [
+    "Abigail",
+    "Zeruiah",
+    "Michal",
+    "Tamar"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Zeruiah",
+    "Abishai",
+    "Joab",
+    "Asahel",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Verse 16 says David's sisters were Zeruiah and Abigail, and Zeruiah's three sons were Abishai, Joab and Asahel."
+}

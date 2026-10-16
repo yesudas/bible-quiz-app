@@ -1,0 +1,37 @@
+{
+  "id": "16-001-007",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 1,
+  "verse_reference": "Nehemiah 1:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Nehemiah 1:11: \"I was ______ to the king.\"",
+  "options": [
+    "baker",
+    "governor",
+    "scribe",
+    "cupbearer"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Nehemiah"
+  ],
+  "places": [
+    {
+      "name": "Susa",
+      "type": "citadel"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah ends the chapter by saying he was cupbearer to the king, a trusted servant of the Persian king."
+}

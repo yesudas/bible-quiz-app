@@ -1,0 +1,29 @@
+{
+  "id": "23-024-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 24,
+  "verse_reference": "Isaiah 24:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete what is heard from the ends of the earth: 'Glory to the ______ One.'",
+  "options": [
+    "Holy",
+    "Mighty",
+    "Righteous",
+    "Faithful"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 24:16 says, 'From the ends of the earth we hear singing: Glory to the Righteous One.'"
+}

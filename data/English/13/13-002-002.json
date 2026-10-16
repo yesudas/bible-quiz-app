@@ -1,0 +1,33 @@
+{
+  "id": "13-002-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 2,
+  "verse_reference": "1 Chronicles 2:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the LORD put Er, Judah's firstborn, to death?",
+  "options": [
+    "He refused to obey his father",
+    "He was wicked in the LORD's sight",
+    "He married a foreign woman",
+    "He worshiped idols in Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Er",
+    "Judah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 2:3 says Er was wicked in the LORD's sight, so the LORD put him to death."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "19-107-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 107,
+  "verse_reference": "Psalm 107:4",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the first group in Psalm 107 wander, finding no city to settle in?",
+  "options": [
+    "Desert wastelands",
+    "Dark prisons",
+    "The open sea",
+    "Deep valleys"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Desert wastelands",
+      "type": "desert"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some wandered in desert wastelands, hungry and thirsty, finding no way to a city where they could settle."
+}

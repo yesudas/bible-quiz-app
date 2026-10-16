@@ -1,0 +1,38 @@
+{
+  "id": "19-135-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 135,
+  "verse_reference": "Psalm 135:9",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Against whom did God send signs and wonders in Egypt?",
+  "options": [
+    "The Philistines",
+    "Pharaoh and all his servants",
+    "The Amorites",
+    "The Babylonians"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Judgment"
+  ],
+  "characters": [
+    "Pharaoh"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God sent His signs and wonders into Egypt against Pharaoh and all his servants."
+}

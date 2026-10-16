@@ -1,0 +1,41 @@
+{
+  "id": "16-011-005",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 11,
+  "verse_reference": "Nehemiah 11:30",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Nehemiah 11:30 describes where the people of Judah lived. It stretched from which place to the Valley of Hinnom?",
+  "options": [
+    "Dan",
+    "Jericho",
+    "Beersheba",
+    "Bethlehem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Beersheba",
+      "type": "town"
+    },
+    {
+      "name": "Valley of Hinnom",
+      "type": "valley"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people of Judah were living all the way from Beersheba to the Valley of Hinnom."
+}

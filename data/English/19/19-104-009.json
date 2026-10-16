@@ -1,0 +1,29 @@
+{
+  "id": "19-104-009",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 104,
+  "verse_reference": "Psalm 104:18",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 104, which animal finds refuge in the rocky crags?",
+  "options": [
+    "The hyrax",
+    "The fox",
+    "The deer",
+    "The lion"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The high mountains belong to the wild goats, and the crags are a refuge for the hyrax."
+}

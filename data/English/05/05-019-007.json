@@ -1,0 +1,30 @@
+{
+  "id": "05-019-007",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 19,
+  "verse_reference": "Deuteronomy 19:17-18",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What were the judges to do when someone was accused of giving false testimony?",
+  "options": [
+    "Accept the accusation at once",
+    "Investigate the matter thoroughly",
+    "Let the town decide by vote",
+    "Dismiss the case"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Justice",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Both parties stood before the Lord, the priests, and the judges, who were to investigate thoroughly before deciding whether the witness had lied."
+}

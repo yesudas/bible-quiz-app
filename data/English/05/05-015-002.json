@@ -1,0 +1,31 @@
+{
+  "id": "05-015-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 15,
+  "verse_reference": "Deuteronomy 15:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God promise about Israel's relationship to other nations if they obeyed?",
+  "options": [
+    "They would lend to many nations but borrow from none",
+    "They would borrow from many nations",
+    "They would owe tribute to kings",
+    "They would depend on Egypt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Money",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised that if Israel obeyed, He would bless them so they would lend to many nations but borrow from none, ruling over many but ruled by none."
+}

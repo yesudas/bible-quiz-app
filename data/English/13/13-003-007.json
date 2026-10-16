@@ -1,0 +1,33 @@
+{
+  "id": "13-003-007",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 3,
+  "verse_reference": "1 Chronicles 3:9",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which daughter of David is named as the sister of his sons?",
+  "options": [
+    "Tamar",
+    "Dinah",
+    "Miriam",
+    "Michal"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Tamar",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 3:9 says Tamar was the sister of David's sons."
+}

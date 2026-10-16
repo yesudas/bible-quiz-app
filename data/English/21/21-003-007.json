@@ -1,0 +1,30 @@
+{
+  "id": "21-003-007",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 3,
+  "verse_reference": "Ecclesiastes 3:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Ecclesiastes 3:11, what has God set in the human heart?",
+  "options": [
+    "Wisdom",
+    "Love",
+    "Eternity",
+    "Fear"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God has set eternity in the human heart, yet no one can fathom what God has done from beginning to end."
+}

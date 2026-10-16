@@ -1,0 +1,33 @@
+{
+  "id": "19-049-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 49,
+  "verse_reference": "Psalm 49:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 49:15, what will God redeem the writer from?",
+  "options": [
+    "Slavery in Egypt",
+    "His debts",
+    "His enemies' hands",
+    "The realm of the dead"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Hope"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 49:15 says, \"But God will redeem me from the realm of the dead; he will surely take me to himself.\""
+}

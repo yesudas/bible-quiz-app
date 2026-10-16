@@ -1,0 +1,36 @@
+{
+  "id": "09-007-012",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 7,
+  "verse_reference": "1 Samuel 7:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened with the Philistines throughout Samuel's lifetime?",
+  "options": [
+    "They ruled over Israel",
+    "They made peace and worshiped the LORD",
+    "They took the ark again",
+    "The hand of the LORD was against them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Philistines were subdued and stopped invading Israel. Throughout Samuel's lifetime, the hand of the LORD was against them."
+}

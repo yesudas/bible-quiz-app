@@ -1,0 +1,30 @@
+{
+  "id": "16-010-004",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 10,
+  "verse_reference": "Nehemiah 10:31",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the people promise if neighboring peoples brought goods or grain to sell on the Sabbath?",
+  "options": [
+    "To buy only half of it",
+    "To sell it again the next day",
+    "To give it to the Levites",
+    "Not to buy from them on the Sabbath or any holy day"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They promised that when the neighboring peoples brought merchandise or grain to sell on the Sabbath, they would not buy from them on the Sabbath or on any holy day."
+}

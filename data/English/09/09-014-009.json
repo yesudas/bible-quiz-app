@@ -1,0 +1,31 @@
+{
+  "id": "09-014-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 14,
+  "verse_reference": "1 Samuel 14:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What oath did Saul make the people swear during the battle?",
+  "options": [
+    "That they would not take any plunder",
+    "That they would not rest until night",
+    "That anyone who ate food before evening would be cursed",
+    "That they would kill every Philistine"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul bound the people under an oath, saying, \"Cursed be anyone who eats food before evening comes, before I have avenged myself on my enemies!\""
+}

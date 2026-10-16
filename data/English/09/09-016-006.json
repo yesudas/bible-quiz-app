@@ -1,0 +1,38 @@
+{
+  "id": "09-016-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 16,
+  "verse_reference": "1 Samuel 16:8-9",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which two sons of Jesse passed before Samuel after Eliab?",
+  "options": [
+    "Abinadab and Shammah",
+    "Joel and Abijah",
+    "Hophni and Phinehas",
+    "Joab and Abishai"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jesse",
+    "Abinadab",
+    "Shammah"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After Eliab, Jesse called Abinadab and then Shammah, but Samuel said the LORD had not chosen them either."
+}

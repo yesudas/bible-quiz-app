@@ -1,0 +1,33 @@
+{
+  "id": "07-009-006",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 9,
+  "verse_reference": "Judges 9:8-9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Jotham's story, which tree did the trees ask first to be their king?",
+  "options": [
+    "The fig tree",
+    "The vine",
+    "The olive tree",
+    "The cedar"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Jotham"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The trees first asked the olive tree to be king, but it refused to give up its oil."
+}

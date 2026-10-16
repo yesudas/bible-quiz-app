@@ -1,0 +1,35 @@
+{
+  "id": "19-128-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 128,
+  "verse_reference": "Psalm 128:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What final blessing does Psalm 128 pray for the one who fears the LORD?",
+  "options": [
+    "To become a king",
+    "To build a temple",
+    "To live to see their children's children",
+    "To own many lands"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Peace"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"May you live to see your children's children—peace be on Israel.\""
+}

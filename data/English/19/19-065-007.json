@@ -1,0 +1,32 @@
+{
+  "id": "19-065-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 65,
+  "verse_reference": "Psalm 65:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"You crown the ____ with your bounty, and your carts overflow with abundance.\"",
+  "options": [
+    "king",
+    "land",
+    "year",
+    "harvest"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David praises God for crowning the year with His bounty."
+}

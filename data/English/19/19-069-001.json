@@ -1,0 +1,33 @@
+{
+  "id": "19-069-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 69,
+  "verse_reference": "Psalm 69:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Save me, O God, for the waters have come up to my ____.\"",
+  "options": [
+    "knees",
+    "waist",
+    "neck",
+    "head"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David cries out to God because he feels like he is drowning, with the waters up to his neck."
+}

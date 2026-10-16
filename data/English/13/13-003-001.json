@@ -1,0 +1,38 @@
+{
+  "id": "13-003-001",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 3,
+  "verse_reference": "1 Chronicles 3:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who was David's firstborn son?",
+  "options": [
+    "Absalom",
+    "Solomon",
+    "Amnon",
+    "Adonijah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "David",
+    "Amnon"
+  ],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 3:1 names Amnon, son of Ahinoam of Jezreel, as David's firstborn."
+}

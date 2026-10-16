@@ -1,0 +1,32 @@
+{
+  "id": "19-064-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 64,
+  "verse_reference": "Psalm 64:3",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "In Psalm 64:3, the cruel words of the wicked are compared to what?",
+  "options": [
+    "Deadly arrows",
+    "Burning coals",
+    "Falling rocks",
+    "Hidden traps"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The wicked aim cruel words like deadly arrows."
+}

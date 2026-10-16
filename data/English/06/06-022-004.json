@@ -1,0 +1,35 @@
+{
+  "id": "06-022-004",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 22,
+  "verse_reference": "Joshua 22:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the eastern tribes build near the Jordan?",
+  "options": [
+    "An imposing altar",
+    "A tall tower",
+    "A city wall",
+    "A bridge"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they came to Geliloth near the Jordan, the eastern tribes built an imposing altar there."
+}

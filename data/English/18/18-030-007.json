@@ -1,0 +1,33 @@
+{
+  "id": "18-030-007",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 30,
+  "verse_reference": "Job 30:31",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Job 30:31, what did Job say his lyre was tuned to?",
+  "options": [
+    "Mourning",
+    "Praise",
+    "Dancing",
+    "Victory"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Worship"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'My lyre is tuned to mourning, and my pipe to the sound of wailing.'"
+}

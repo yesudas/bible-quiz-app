@@ -1,0 +1,30 @@
+{
+  "id": "20-025-010",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 25,
+  "verse_reference": "Proverbs 25:28",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "According to Proverbs 25:28, a person who lacks self-control is like what?",
+  "options": [
+    "A ship without a sail",
+    "A tree without roots",
+    "A city whose walls are broken through",
+    "A lamp without oil"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Temptation",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 25:28 says like a city whose walls are broken through is a person who lacks self-control."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "12-016-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 16,
+  "verse_reference": "2 Kings 16:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which two kings besieged Ahaz in Jerusalem but could not overpower him?",
+  "options": [
+    "Rezin king of Aram and Pekah king of Israel",
+    "Tiglath-Pileser and Pul",
+    "Hazael and Jehoash",
+    "Menahem and Hoshea"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Rezin",
+    "Pekah",
+    "Ahaz"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Aram",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rezin king of Aram and Pekah son of Remaliah marched up to fight against Jerusalem and besieged Ahaz, but could not overpower him."
+}

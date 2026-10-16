@@ -1,0 +1,31 @@
+{
+  "id": "19-148-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 148,
+  "verse_reference": "Psalm 148:2",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who in heaven does Psalm 148 call to praise the LORD?",
+  "options": [
+    "Only the priests",
+    "All His angels and heavenly hosts",
+    "Only the prophets",
+    "Only the kings"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Angels"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Praise him, all his angels; praise him, all his heavenly hosts.\""
+}

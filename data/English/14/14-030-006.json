@@ -1,0 +1,43 @@
+{
+  "id": "14-030-006",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 30,
+  "verse_reference": "2 Chronicles 30:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did most people in Ephraim, Manasseh and Zebulun respond to the couriers?",
+  "options": [
+    "They welcomed them warmly",
+    "They came at once",
+    "They scorned and ridiculed them",
+    "They sent gifts"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ephraim",
+      "type": "region"
+    },
+    {
+      "name": "Manasseh",
+      "type": "region"
+    },
+    {
+      "name": "Zebulun",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The couriers went from town to town in Ephraim and Manasseh, as far as Zebulun, but people scorned and ridiculed them."
+}

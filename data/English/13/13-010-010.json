@@ -1,0 +1,35 @@
+{
+  "id": "13-010-010",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 10,
+  "verse_reference": "1 Chronicles 10:14",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "To whom did the LORD turn over the kingdom after Saul's death?",
+  "options": [
+    "Jonathan",
+    "David son of Jesse",
+    "Abner",
+    "Samuel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "David",
+    "Jesse",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD put Saul to death and turned the kingdom over to David son of Jesse."
+}

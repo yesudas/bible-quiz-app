@@ -1,0 +1,36 @@
+{
+  "id": "12-004-013",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 4,
+  "verse_reference": "2 Kings 4:25",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the Shunammite woman go to find Elisha?",
+  "options": [
+    "Samaria",
+    "The Jordan",
+    "Jericho",
+    "Mount Carmel"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Mount Carmel",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "She set out and came to the man of God at Mount Carmel."
+}

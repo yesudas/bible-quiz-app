@@ -1,0 +1,34 @@
+{
+  "id": "19-031-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 31,
+  "verse_reference": "Psalm 31:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"My ____ are in your hands.\"",
+  "options": [
+    "days",
+    "times",
+    "ways",
+    "plans"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 31:15 says, \"My times are in your hands; deliver me from the hands of my enemies.\""
+}

@@ -1,0 +1,41 @@
+{
+  "id": "23-036-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 36,
+  "verse_reference": "Isaiah 36:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which king of Assyria attacked the fortified cities of Judah in Hezekiah's time?",
+  "options": [
+    "Sennacherib",
+    "Sargon",
+    "Nebuchadnezzar",
+    "Tiglath-Pileser"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Sennacherib",
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 36:1 names Sennacherib king of Assyria as the one who attacked Judah's fortified cities."
+}

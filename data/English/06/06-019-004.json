@@ -1,0 +1,38 @@
+{
+  "id": "06-019-004",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 19,
+  "verse_reference": "Joshua 19:47",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the Danites rename the town of Leshem after they captured it?",
+  "options": [
+    "Bethel",
+    "Shiloh",
+    "Dan",
+    "Zorah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Leshem",
+      "type": "city"
+    },
+    {
+      "name": "Dan",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Danites had difficulty taking their land, so they attacked Leshem, captured it and named it Dan after their ancestor."
+}

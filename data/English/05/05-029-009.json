@@ -1,0 +1,33 @@
+{
+  "id": "05-029-009",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 29,
+  "verse_reference": "Deuteronomy 29:29",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Moses said: \"The ___ things belong to the Lord our God, but the things revealed belong to us and to our children forever.\"",
+  "options": [
+    "good",
+    "secret",
+    "holy",
+    "ancient"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Law",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The secret things belong to the Lord, but what He has revealed belongs to His people forever, so they may follow all the words of this law."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "23-023-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 23,
+  "verse_reference": "Isaiah 23:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was the revenue of Tyre, making it the marketplace of the nations?",
+  "options": [
+    "Gold from Ophir",
+    "Cedars of Lebanon",
+    "The harvest of the Nile",
+    "Horses from Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    },
+    {
+      "name": "Nile",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 23:3 says the grain of the Shihor, the harvest of the Nile, was the revenue of Tyre, and she became the marketplace of the nations."
+}

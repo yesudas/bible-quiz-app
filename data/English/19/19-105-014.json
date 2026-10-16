@@ -1,0 +1,31 @@
+{
+  "id": "19-105-014",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 105,
+  "verse_reference": "Psalm 105:40",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When the people asked, which bird did God bring them to eat?",
+  "options": [
+    "Doves",
+    "Sparrows",
+    "Quail",
+    "Ravens"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Provision"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They asked, and God brought them quail and fed them well with the bread of heaven."
+}

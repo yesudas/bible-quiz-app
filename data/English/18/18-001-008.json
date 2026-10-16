@@ -1,0 +1,32 @@
+{
+  "id": "18-001-008",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 1,
+  "verse_reference": "Job 1:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When the LORD asked Satan where he had come from, what did Satan answer?",
+  "options": [
+    "From the temple in Jerusalem",
+    "From the bottom of the sea",
+    "From the land of Egypt",
+    "From roaming throughout the earth"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Satan"
+  ],
+  "characters": [
+    "Satan"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Satan said he had come from roaming throughout the earth, going back and forth on it."
+}

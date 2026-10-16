@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "House",
+    "label": "House",
+    "count": 4,
+    "paths": [
+        "English/20/20-014-001.json",
+        "English/20/20-017-001.json",
+        "English/20/20-024-001.json",
+        "English/21/21-010-008.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

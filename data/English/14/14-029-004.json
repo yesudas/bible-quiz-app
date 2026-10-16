@@ -1,0 +1,36 @@
+{
+  "id": "14-029-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 29,
+  "verse_reference": "2 Chronicles 29:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What had their parents done that Hezekiah described as unfaithful?",
+  "options": [
+    "Shut the doors of the portico and put out the lamps",
+    "Built too many towers",
+    "Went to war with Egypt",
+    "Gave too many offerings"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hezekiah said their parents had shut the doors of the portico, put out the lamps, and stopped burning incense and offering burnt offerings."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "11-002-009",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 2,
+  "verse_reference": "1 Kings 2:19",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "When Bathsheba came to speak to Solomon, where did he have her sit?",
+  "options": [
+    "On a throne at his right hand",
+    "On a seat by the door",
+    "On the steps of the altar",
+    "In the queen's garden"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon",
+    "Bathsheba"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon stood to meet his mother, bowed down, and had a throne brought for her, and she sat at his right hand."
+}

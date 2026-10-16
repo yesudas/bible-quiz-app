@@ -1,0 +1,30 @@
+{
+  "id": "23-045-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 45,
+  "verse_reference": "Isaiah 45:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'I am the LORD, and there is no ______; apart from me there is no God.'",
+  "options": [
+    "king",
+    "savior",
+    "other",
+    "rock"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 45:5 says, 'I am the LORD, and there is no other; apart from me there is no God.'"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "13-018-007",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 18,
+  "verse_reference": "1 Chronicles 18:9-10",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which king sent his son Hadoram to greet and congratulate David?",
+  "options": [
+    "Hiram king of Tyre",
+    "Tou king of Hamath",
+    "Hadadezer king of Zobah",
+    "Pharaoh king of Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Peace"
+  ],
+  "characters": [
+    "Tou",
+    "Hadoram",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Hamath",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Tou king of Hamath heard David had defeated Hadadezer, he sent his son Hadoram to greet and congratulate him."
+}

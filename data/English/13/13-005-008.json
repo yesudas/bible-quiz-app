@@ -1,0 +1,31 @@
+{
+  "id": "13-005-008",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 5,
+  "verse_reference": "1 Chronicles 5:22",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"...and many others fell slain, because the battle was ______.\"",
+  "options": [
+    "theirs",
+    "the king's",
+    "the LORD's army's",
+    "God's"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "War",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 5:22 says many others fell slain because the battle was God's."
+}

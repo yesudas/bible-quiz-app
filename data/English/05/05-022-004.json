@@ -1,0 +1,31 @@
+{
+  "id": "05-022-004",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 22,
+  "verse_reference": "Deuteronomy 22:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was a railing to be built around the roof of a new house?",
+  "options": [
+    "To make the house look finished",
+    "To keep out the rain",
+    "To mark the property line",
+    "So no one would fall from it and bring guilt of bloodshed on the household"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Justice",
+    "Love",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A parapet was required around a flat roof so that no one would fall off and the household would not be guilty of bloodshed."
+}

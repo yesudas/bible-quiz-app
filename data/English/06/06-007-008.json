@@ -1,0 +1,32 @@
+{
+  "id": "06-007-008",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 7,
+  "verse_reference": "Joshua 7:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The LORD said to Joshua, \"Stand up! What are you doing down on your ____?\"",
+  "options": [
+    "knees",
+    "face",
+    "mat",
+    "bed"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Joshua to stand up, because Israel's sin had to be dealt with."
+}

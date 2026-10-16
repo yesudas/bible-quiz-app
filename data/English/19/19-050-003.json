@@ -1,0 +1,38 @@
+{
+  "id": "19-050-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 50,
+  "verse_reference": "Psalm 50:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 50:2, from where does God shine forth?",
+  "options": [
+    "From Sinai",
+    "From Bethel",
+    "From Zion",
+    "From Hebron"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Holiness"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 50:2 says, \"From Zion, perfect in beauty, God shines forth.\""
+}

@@ -1,0 +1,31 @@
+{
+  "id": "14-035-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 35,
+  "verse_reference": "2 Chronicles 35:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Where did Josiah get the 30,000 sheep and goats and 3,000 cattle for the Passover offerings?",
+  "options": [
+    "From the temple treasury",
+    "From Egypt",
+    "From the priests",
+    "From his own possessions"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [
+    "Josiah"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Josiah provided 30,000 sheep and goats and 3,000 cattle for the people's Passover offerings, all from the king's own possessions."
+}

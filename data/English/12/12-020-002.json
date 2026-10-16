@@ -1,0 +1,33 @@
+{
+  "id": "12-020-002",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 20,
+  "verse_reference": "2 Kings 20:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Hezekiah do after hearing he would die?",
+  "options": [
+    "He called for doctors from Egypt",
+    "He gave his throne to Manasseh",
+    "He turned his face to the wall and prayed to the LORD",
+    "He went to the temple to offer sacrifices"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Suffering"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hezekiah turned his face to the wall, prayed to the LORD, and wept bitterly."
+}

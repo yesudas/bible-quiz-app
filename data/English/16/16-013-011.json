@@ -1,0 +1,37 @@
+{
+  "id": "16-013-011",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 13,
+  "verse_reference": "Nehemiah 13:20-21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Nehemiah warn the merchants who spent the night outside Jerusalem?",
+  "options": [
+    "That he would burn their goods",
+    "That he would tell the king",
+    "That he would arrest them if they did it again",
+    "That he would charge them more tax"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Leadership"
+  ],
+  "characters": [
+    "Nehemiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah warned them, \"If you do this again, I will arrest you.\" From then on they no longer came on the Sabbath."
+}

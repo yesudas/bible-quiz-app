@@ -1,0 +1,32 @@
+{
+  "id": "14-034-007",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 34,
+  "verse_reference": "2 Chronicles 34:15-18",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who read from the Book of the Law in the presence of the king?",
+  "options": [
+    "Shaphan the secretary",
+    "Hilkiah the priest",
+    "Huldah the prophet",
+    "Josiah himself"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Shaphan",
+    "Josiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hilkiah gave the book to Shaphan the secretary, who read from it in the presence of the king."
+}

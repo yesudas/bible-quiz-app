@@ -1,0 +1,41 @@
+{
+  "id": "16-003-002",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 3,
+  "verse_reference": "Nehemiah 3:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Which gate did the priests rebuild at the start of the work?",
+  "options": [
+    "The Fish Gate",
+    "The Sheep Gate",
+    "The Valley Gate",
+    "The Water Gate"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Eliashib"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Sheep Gate",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priests, led by Eliashib the high priest, rebuilt the Sheep Gate."
+}

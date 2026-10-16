@@ -1,0 +1,32 @@
+{
+  "id": "19-110-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 110,
+  "verse_reference": "Psalm 110:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does Psalm 110:4 say about the LORD's oath?",
+  "options": [
+    "He may change it later",
+    "He has sworn and will not change His mind",
+    "He made it only for one day",
+    "He kept it secret"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD has sworn and will not change His mind, showing that His promise is sure."
+}

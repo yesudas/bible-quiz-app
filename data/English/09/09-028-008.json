@@ -1,0 +1,36 @@
+{
+  "id": "09-028-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 28,
+  "verse_reference": "1 Samuel 28:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Saul swear to the woman at Endor?",
+  "options": [
+    "That she would not be punished",
+    "That he would pay her in gold",
+    "That he would make her a queen",
+    "That he would never return"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Law"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Endor",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul swore to her by the LORD, \"As surely as the LORD lives, you will not be punished for this.\""
+}

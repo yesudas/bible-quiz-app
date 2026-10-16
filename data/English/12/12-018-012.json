@@ -1,0 +1,36 @@
+{
+  "id": "12-018-012",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 18,
+  "verse_reference": "2 Kings 18:26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Eliakim ask the field commander to speak in Aramaic?",
+  "options": [
+    "Because Eliakim did not know Hebrew",
+    "Because the king only spoke Aramaic",
+    "So the people on the wall would not understand",
+    "Because it was more polite"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Eliakim"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eliakim asked him to speak in Aramaic and not in Hebrew in the hearing of the people on the wall."
+}

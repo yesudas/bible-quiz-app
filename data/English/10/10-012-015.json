@@ -1,0 +1,35 @@
+{
+  "id": "10-012-015",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 12,
+  "verse_reference": "2 Samuel 12:24",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "What did David and Bathsheba name their next son, whom the LORD loved?",
+  "options": [
+    "Absalom",
+    "Nathan",
+    "Solomon",
+    "Adonijah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Love"
+  ],
+  "characters": [
+    "Solomon",
+    "David",
+    "Bathsheba"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Bathsheba gave birth to a son, and they named him Solomon. The LORD loved him."
+}

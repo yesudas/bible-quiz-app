@@ -1,0 +1,41 @@
+{
+  "id": "11-001-007",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 1,
+  "verse_reference": "1 Kings 1:9",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Adonijah offer sacrifices and hold a feast when he tried to make himself king?",
+  "options": [
+    "At the Stone of Zoheleth near En Rogel",
+    "At the spring of Gihon",
+    "At Bethel",
+    "At the threshing floor of Araunah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Adonijah"
+  ],
+  "places": [
+    {
+      "name": "Stone of Zoheleth",
+      "type": "other"
+    },
+    {
+      "name": "En Rogel",
+      "type": "spring"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Adonijah sacrificed sheep, cattle and fattened calves at the Stone of Zoheleth near En Rogel."
+}

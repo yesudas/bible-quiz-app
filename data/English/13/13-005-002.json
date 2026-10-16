@@ -1,0 +1,33 @@
+{
+  "id": "13-005-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 5,
+  "verse_reference": "1 Chronicles 5:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Reuben lose his rights as firstborn?",
+  "options": [
+    "He sold them for a meal",
+    "He ran away to Egypt",
+    "He defiled his father's marriage bed",
+    "He refused to go to war"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Family"
+  ],
+  "characters": [
+    "Reuben",
+    "Israel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Because Reuben defiled his father's marriage bed, his rights as firstborn were taken from him."
+}

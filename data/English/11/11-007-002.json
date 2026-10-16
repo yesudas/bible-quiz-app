@@ -1,0 +1,36 @@
+{
+  "id": "11-007-002",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 7,
+  "verse_reference": "1 Kings 7:2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which building did Solomon make 100 cubits long, named after a region famous for its cedars?",
+  "options": [
+    "The Hall of Pillars",
+    "The House of the Sea",
+    "The Palace of the Forest of Lebanon",
+    "The Tower of David"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Palace of the Forest of Lebanon",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon built the Palace of the Forest of Lebanon, a hundred cubits long, with rows of cedar columns."
+}

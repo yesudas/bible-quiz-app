@@ -1,0 +1,38 @@
+{
+  "id": "12-009-017",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 9,
+  "verse_reference": "2 Kings 9:35-36",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was there almost nothing of Jezebel left to bury?",
+  "options": [
+    "It fulfilled the word of the LORD spoken through Elijah",
+    "Her body was taken by her family",
+    "Jehu burned her body",
+    "She was buried in secret"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Jezebel",
+    "Elijah"
+  ],
+  "places": [
+    {
+      "name": "Jezreel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They found only her skull, feet and hands, fulfilling the LORD's word through Elijah that dogs would devour her flesh at Jezreel."
+}

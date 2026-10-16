@@ -1,0 +1,30 @@
+{
+  "id": "23-049-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 49,
+  "verse_reference": "Isaiah 49:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "According to Isaiah 49:1, when did the LORD call His servant?",
+  "options": [
+    "Before he was born",
+    "When he became king",
+    "When he was forty years old",
+    "After he returned from Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 49:1 says, 'Before I was born the LORD called me; from my mother's womb he has spoken my name.'"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "06-007-010",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 7,
+  "verse_reference": "Joshua 7:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which items did Achan admit he had taken?",
+  "options": [
+    "A robe, silver and a bar of gold",
+    "A sword, a shield and a spear",
+    "Cattle, sheep and donkeys",
+    "A crown, jewels and oil"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Money",
+    "Temptation"
+  ],
+  "characters": [
+    "Achan"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Achan admitted he took a beautiful robe from Babylonia, two hundred shekels of silver and a bar of gold."
+}

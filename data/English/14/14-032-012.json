@@ -1,0 +1,37 @@
+{
+  "id": "14-032-012",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 32,
+  "verse_reference": "2 Chronicles 32:25-26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the LORD's wrath not come on Jerusalem in Hezekiah's days?",
+  "options": [
+    "Hezekiah repented of the pride of his heart, as did the people",
+    "Hezekiah paid tribute to Babylon",
+    "Isaiah hid the city",
+    "Hezekiah built stronger walls"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Repentance",
+    "Sin",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hezekiah's heart was proud, but he repented of that pride, as did the people of Jerusalem, so the LORD's wrath did not come on them during his days."
+}

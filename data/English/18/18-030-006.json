@@ -1,0 +1,31 @@
+{
+  "id": "18-030-006",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 30,
+  "verse_reference": "Job 30:29",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Job said he had become a brother of jackals and a companion of what?",
+  "options": [
+    "Lions",
+    "Owls",
+    "Eagles",
+    "Wolves"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'I have become a brother of jackals, a companion of owls,' showing how alone he felt."
+}

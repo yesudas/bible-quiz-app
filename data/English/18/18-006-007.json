@@ -1,0 +1,40 @@
+{
+  "id": "18-006-007",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 6,
+  "verse_reference": "Job 6:19",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In Job's picture of travelers looking for water, which two places did the caravans and merchants come from?",
+  "options": [
+    "Egypt and Assyria",
+    "Moab and Edom",
+    "Tema and Sheba",
+    "Ur and Haran"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [
+    {
+      "name": "Tema",
+      "type": "region"
+    },
+    {
+      "name": "Sheba",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job spoke of the caravans of Tema and the traveling merchants of Sheba, who looked for water but were disappointed."
+}

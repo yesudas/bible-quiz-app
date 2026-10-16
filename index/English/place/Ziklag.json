@@ -1,0 +1,23 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Ziklag",
+    "label": "Ziklag",
+    "count": 13,
+    "paths": [
+        "English/09/09-027-005.json",
+        "English/09/09-027-006.json",
+        "English/09/09-027-008.json",
+        "English/09/09-030-001.json",
+        "English/09/09-030-002.json",
+        "English/09/09-030-003.json",
+        "English/09/09-030-004.json",
+        "English/09/09-030-005.json",
+        "English/09/09-030-016.json",
+        "English/10/10-001-001.json",
+        "English/10/10-001-002.json",
+        "English/10/10-004-008.json",
+        "English/13/13-012-001.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

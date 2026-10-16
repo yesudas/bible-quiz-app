@@ -1,0 +1,37 @@
+{
+  "id": "14-004-003",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 4,
+  "verse_reference": "2 Chronicles 4:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What animals did the Sea stand on?",
+  "options": [
+    "Twelve lions",
+    "Four horses",
+    "Twelve bulls",
+    "Seven eagles"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Sea stood on twelve bulls, with three facing north, three west, three south and three east."
+}

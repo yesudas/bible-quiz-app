@@ -1,0 +1,38 @@
+{
+  "id": "13-004-011",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 4,
+  "verse_reference": "1 Chronicles 4:42-43",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did five hundred Simeonites go to kill the remaining Amalekites who had escaped?",
+  "options": [
+    "The hill country of Seir",
+    "The land of Moab",
+    "The Negev near Beersheba",
+    "The valley of Jezreel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "War",
+    "Judgment"
+  ],
+  "characters": [
+    "Pelatiah",
+    "Simeon"
+  ],
+  "places": [
+    {
+      "name": "Seir",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Five hundred Simeonites invaded the hill country of Seir and killed the remaining Amalekites who had escaped, and they lived there."
+}

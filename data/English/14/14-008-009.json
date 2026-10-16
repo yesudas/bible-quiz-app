@@ -1,0 +1,36 @@
+{
+  "id": "14-008-009",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 8,
+  "verse_reference": "2 Chronicles 8:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Solomon say his wife must not live in the palace of David?",
+  "options": [
+    "The places the ark of the LORD had entered were holy",
+    "The palace was too small",
+    "David's family lived there",
+    "The palace was being repaired"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Marriage"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Palace of David",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon said she must not live in David's palace because the places the ark of the LORD has entered are holy."
+}

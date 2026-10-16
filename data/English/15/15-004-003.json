@@ -1,0 +1,40 @@
+{
+  "id": "15-004-003",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 4,
+  "verse_reference": "Ezra 4:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Zerubbabel, Jeshua and the family heads answer the offer of help?",
+  "options": [
+    "They accepted it gladly",
+    "They asked for money instead",
+    "They refused and said they alone would build",
+    "They asked the king to decide"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Leadership",
+    "Obedience"
+  ],
+  "characters": [
+    "Zerubbabel",
+    "Jeshua",
+    "Cyrus"
+  ],
+  "places": [
+    {
+      "name": "House of God in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They said, \"You have no part with us in building a temple to our God,\" and that they alone would build it, as King Cyrus had commanded."
+}

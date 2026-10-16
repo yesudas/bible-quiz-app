@@ -1,0 +1,31 @@
+{
+  "id": "18-024-006",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 24,
+  "verse_reference": "Job 24:25",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Job's challenge: \"If this is not so, who can prove me ____ and reduce my words to nothing?\"",
+  "options": [
+    "wise",
+    "false",
+    "guilty",
+    "right"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job ended, 'If this is not so, who can prove me false and reduce my words to nothing?'"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "10-012-013",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 12,
+  "verse_reference": "2 Samuel 12:20",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "What did David do first after he learned the child had died?",
+  "options": [
+    "He ate a meal",
+    "He sent for Nathan",
+    "He tore his clothes",
+    "He got up, washed, changed his clothes and worshipped in the house of the LORD"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Suffering"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "House of the LORD",
+      "type": "tent"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David got up, washed, put on lotions, changed his clothes and went into the house of the LORD to worship. Then he went home and ate."
+}

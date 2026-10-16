@@ -1,0 +1,33 @@
+{
+  "id": "07-004-017",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 4,
+  "verse_reference": "Judges 4:21",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jael use to kill Sisera?",
+  "options": [
+    "A sword",
+    "A spear",
+    "A tent peg and a hammer",
+    "A millstone"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Courage"
+  ],
+  "characters": [
+    "Jael",
+    "Sisera"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While Sisera was fast asleep, Jael drove a tent peg through his temple with a hammer."
+}

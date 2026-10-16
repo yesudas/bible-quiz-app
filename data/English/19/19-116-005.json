@@ -1,0 +1,31 @@
+{
+  "id": "19-116-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 116,
+  "verse_reference": "Psalm 116:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Return to your ______, my soul, for the LORD has been good to you.\"",
+  "options": [
+    "home",
+    "rest",
+    "joy",
+    "strength"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist told his soul to return to its rest because the LORD had been good to him."
+}

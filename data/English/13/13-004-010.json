@@ -1,0 +1,37 @@
+{
+  "id": "13-004-010",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 4,
+  "verse_reference": "1 Chronicles 4:41",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "During the days of which king did the Simeonites attack the Hamites and Meunites near Gedor?",
+  "options": [
+    "David",
+    "Solomon",
+    "Jehoshaphat",
+    "Hezekiah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "War"
+  ],
+  "characters": [
+    "Hezekiah",
+    "Simeon"
+  ],
+  "places": [
+    {
+      "name": "Gedor",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 4:41 says these men came in the days of Hezekiah king of Judah and attacked them."
+}

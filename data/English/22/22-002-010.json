@@ -1,0 +1,30 @@
+{
+  "id": "22-002-010",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 2,
+  "verse_reference": "Song of Songs 2:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"My beloved is ____ and I am his.\"",
+  "options": [
+    "near",
+    "mine",
+    "kind",
+    "here"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Marriage"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Song of Songs 2:16 she says, \"My beloved is mine and I am his.\""
+}

@@ -1,0 +1,34 @@
+{
+  "id": "11-021-003",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 21,
+  "verse_reference": "1 Kings 21:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Naboth refuse to give his vineyard to Ahab?",
+  "options": [
+    "Ahab did not offer enough money",
+    "He wanted to give it to his son",
+    "It was the inheritance of his ancestors",
+    "He hated the king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience",
+    "Family",
+    "Law"
+  ],
+  "characters": [
+    "Naboth",
+    "Ahab"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Naboth replied, \"The LORD forbid that I should give you the inheritance of my ancestors.\""
+}

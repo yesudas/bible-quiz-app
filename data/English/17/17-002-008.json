@@ -1,0 +1,33 @@
+{
+  "id": "17-002-008",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 2,
+  "verse_reference": "Esther 2:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Esther not reveal her nationality and family background?",
+  "options": [
+    "She had forgotten them",
+    "Hegai told her to keep them secret",
+    "She was ashamed of her family",
+    "Mordecai had forbidden her to tell"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Obedience",
+    "Family"
+  ],
+  "characters": [
+    "Esther",
+    "Mordecai"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Esther kept her nationality and family background secret because Mordecai had forbidden her to reveal them."
+}

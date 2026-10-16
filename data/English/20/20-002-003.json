@@ -1,0 +1,30 @@
+{
+  "id": "20-002-003",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 2,
+  "verse_reference": "Proverbs 2:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"For the LORD gives ______; from his mouth come knowledge and understanding.\"",
+  "options": [
+    "riches",
+    "rest",
+    "wisdom",
+    "victory"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 2:6 teaches that the LORD gives wisdom, and knowledge and understanding come from His mouth."
+}

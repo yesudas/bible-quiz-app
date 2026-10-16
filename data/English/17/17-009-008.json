@@ -1,0 +1,35 @@
+{
+  "id": "17-009-008",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 9,
+  "verse_reference": "Esther 9:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Jews living in villages do on the fourteenth day of Adar?",
+  "options": [
+    "They fasted and mourned",
+    "They went up to Susa",
+    "They rebuilt their houses",
+    "They celebrated with joy and feasting and gave presents to each other"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Feasts",
+    "Joy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Villages of Persia",
+      "type": "village"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The rural Jews observed the fourteenth of Adar as a day of joy and feasting, a day for giving presents to each other."
+}

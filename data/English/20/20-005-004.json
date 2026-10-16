@@ -1,0 +1,38 @@
+{
+  "id": "20-005-004",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 5,
+  "verse_reference": "Proverbs 5:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"Drink water from your own ______, running water from your own well.\"",
+  "options": [
+    "cup",
+    "river",
+    "spring",
+    "cistern"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Cistern",
+      "type": "well"
+    },
+    {
+      "name": "Well",
+      "type": "well"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 5:15 uses the picture of drinking from your own cistern and well to teach faithfulness in marriage."
+}

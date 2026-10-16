@@ -1,0 +1,38 @@
+{
+  "id": "23-022-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 22,
+  "verse_reference": "Isaiah 22:8-11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "While the people strengthened Jerusalem's walls and stored water, what did they fail to do?",
+  "options": [
+    "Pay their soldiers",
+    "Look to the One who made it and planned it long ago",
+    "Close the city gates",
+    "Ask Egypt for help"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Lower Pool",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 22:11 says they built a reservoir between the two walls, but they did not look to the One who made it or have regard for the One who planned it long ago."
+}

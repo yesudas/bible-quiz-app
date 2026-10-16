@@ -1,0 +1,44 @@
+{
+  "id": "11-007-010",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 7,
+  "verse_reference": "1 Kings 7:46",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the king have the bronze items cast in clay molds?",
+  "options": [
+    "In the courtyard of the temple",
+    "In Tyre",
+    "In the plain of the Jordan between Sukkoth and Zarethan",
+    "In the Kidron Valley"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Jordan",
+      "type": "region"
+    },
+    {
+      "name": "Sukkoth",
+      "type": "town"
+    },
+    {
+      "name": "Zarethan",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king had them cast in clay molds in the plain of the Jordan between Sukkoth and Zarethan."
+}

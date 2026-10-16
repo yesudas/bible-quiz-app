@@ -1,0 +1,38 @@
+{
+  "id": "07-005-018",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 5,
+  "verse_reference": "Judges 5:4",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Deborah's song says the LORD went out from Seir. From which land did He march?",
+  "options": [
+    "Egypt",
+    "Edom",
+    "Moab",
+    "Midian"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Seir",
+      "type": "region"
+    },
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The song says, \"When you, LORD, went out from Seir, when you marched from the land of Edom, the earth shook.\""
+}

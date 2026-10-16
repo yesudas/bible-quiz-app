@@ -1,0 +1,38 @@
+{
+  "id": "11-021-006",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 21,
+  "verse_reference": "1 Kings 21:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Jezebel send her orders to the elders and nobles of Naboth's city?",
+  "options": [
+    "She went there herself",
+    "She sent Elijah",
+    "She wrote letters in Ahab's name and sealed them with his seal",
+    "She sent soldiers with a spoken message"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Jezebel",
+    "Ahab"
+  ],
+  "places": [
+    {
+      "name": "Jezreel",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jezebel wrote letters in Ahab's name, placed his seal on them, and sent them to the elders and nobles who lived in Naboth's city."
+}

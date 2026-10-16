@@ -1,0 +1,30 @@
+{
+  "id": "19-104-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 104,
+  "verse_reference": "Psalm 104:9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God set for the waters so they would not cover the earth again?",
+  "options": [
+    "A great wall",
+    "A boundary they cannot cross",
+    "A covenant with the clouds",
+    "A dam of stone"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God set a boundary for the waters that they cannot cross, so they will never cover the earth again."
+}

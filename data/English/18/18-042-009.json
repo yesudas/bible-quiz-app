@@ -1,0 +1,33 @@
+{
+  "id": "18-042-009",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 42,
+  "verse_reference": "Job 42:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How much did the LORD give Job compared with what he had before?",
+  "options": [
+    "The same amount",
+    "Half as much",
+    "Twice as much",
+    "Ten times as much"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Job",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD gave Job twice as much as he had before."
+}

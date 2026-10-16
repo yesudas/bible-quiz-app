@@ -1,0 +1,37 @@
+{
+  "id": "11-016-008",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 16,
+  "verse_reference": "1 Kings 16:21-22",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Half the people of Israel followed Omri. Whom did the other half want as king?",
+  "options": [
+    "Tibni son of Ginath",
+    "Zimri",
+    "Elah",
+    "Hiel of Bethel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Tibni",
+    "Omri"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people of Israel were split: half supported Tibni son of Ginath and half supported Omri, but Omri's followers proved stronger."
+}

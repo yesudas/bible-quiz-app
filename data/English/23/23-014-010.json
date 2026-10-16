@@ -1,0 +1,35 @@
+{
+  "id": "23-014-010",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 14,
+  "verse_reference": "Isaiah 14:28",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "In what year did the prophecy against Philistia come?",
+  "options": [
+    "The year King Ahaz died",
+    "The year King Uzziah died",
+    "The year Samaria fell",
+    "The year King Hezekiah was healed"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Ahaz"
+  ],
+  "places": [
+    {
+      "name": "Philistia",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 14:28 says, 'This prophecy came in the year King Ahaz died.'"
+}

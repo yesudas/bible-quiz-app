@@ -1,0 +1,39 @@
+{
+  "id": "19-052-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 52,
+  "verse_reference": "Psalm 52 (title)",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to the title, Doeg told Saul that David had gone to whose house?",
+  "options": [
+    "Samuel's",
+    "Ahimelek's",
+    "Jesse's",
+    "Jonathan's"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "David",
+    "Doeg",
+    "Saul",
+    "Ahimelek"
+  ],
+  "places": [
+    {
+      "name": "House of Ahimelek",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Doeg told Saul, \"David has gone to the house of Ahimelek.\""
+}

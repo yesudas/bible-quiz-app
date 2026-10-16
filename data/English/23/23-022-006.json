@@ -1,0 +1,33 @@
+{
+  "id": "23-022-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 22,
+  "verse_reference": "Isaiah 22:20",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did the LORD summon to replace Shebna?",
+  "options": [
+    "Eliakim son of Hilkiah",
+    "Hezekiah son of Ahaz",
+    "Uriah the priest",
+    "Zechariah son of Jeberekiah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Eliakim",
+    "Hilkiah",
+    "Shebna"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 22:20 says, 'In that day I will summon my servant, Eliakim son of Hilkiah.'"
+}

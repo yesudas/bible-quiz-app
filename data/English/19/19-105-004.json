@@ -1,0 +1,31 @@
+{
+  "id": "19-105-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 105,
+  "verse_reference": "Psalm 105:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Do not touch my anointed ones; do my ______ no harm.\"",
+  "options": [
+    "people",
+    "servants",
+    "children",
+    "prophets"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God protected His people as they wandered, warning kings, \"Do not touch my anointed ones; do my prophets no harm.\""
+}

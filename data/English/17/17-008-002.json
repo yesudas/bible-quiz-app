@@ -1,0 +1,35 @@
+{
+  "id": "17-008-002",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 8,
+  "verse_reference": "Esther 8:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the king give to Mordecai after taking it back from Haman?",
+  "options": [
+    "His signet ring",
+    "His royal horse",
+    "His royal robe",
+    "The key to the treasury"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Providence",
+    "Leadership"
+  ],
+  "characters": [
+    "Xerxes",
+    "Mordecai",
+    "Haman"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king took off his signet ring, which he had reclaimed from Haman, and gave it to Mordecai."
+}

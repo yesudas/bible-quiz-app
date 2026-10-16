@@ -1,0 +1,34 @@
+{
+  "id": "19-009-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 9,
+  "verse_reference": "Psalm 9:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"I will give thanks to you, LORD, with all my ____.\"",
+  "options": [
+    "strength",
+    "soul",
+    "heart",
+    "voice"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Thanksgiving",
+    "Worship"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 9:1 says, \"I will give thanks to you, LORD, with all my heart; I will tell of all your wonderful deeds.\""
+}

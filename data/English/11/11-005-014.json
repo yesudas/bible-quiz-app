@@ -1,0 +1,37 @@
+{
+  "id": "11-005-014",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 5,
+  "verse_reference": "1 Kings 5:18",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Craftsmen from which place worked with Solomon's and Hiram's workers to prepare the timber and stone?",
+  "options": [
+    "Byblos",
+    "Damascus",
+    "Gaza",
+    "Nineveh"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon",
+    "Hiram"
+  ],
+  "places": [
+    {
+      "name": "Byblos",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The craftsmen of Solomon and Hiram and workers from Byblos cut and prepared the timber and stone for the temple."
+}

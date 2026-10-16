@@ -1,0 +1,32 @@
+{
+  "id": "18-003-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 3,
+  "verse_reference": "Job 3:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"There the wicked cease from turmoil, and there the ____ are at rest.\"",
+  "options": [
+    "righteous",
+    "weary",
+    "poor",
+    "children"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Hope"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job described death as a place where the wicked cease from turmoil and the weary are at rest."
+}

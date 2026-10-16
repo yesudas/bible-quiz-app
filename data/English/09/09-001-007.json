@@ -1,0 +1,33 @@
+{
+  "id": "09-001-007",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 1,
+  "verse_reference": "1 Samuel 1:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Elkanah asked Hannah, \"Don't I mean more to you than ___ sons?\"",
+  "options": [
+    "two",
+    "seven",
+    "twelve",
+    "ten"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Marriage"
+  ],
+  "characters": [
+    "Elkanah",
+    "Hannah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elkanah tried to comfort Hannah by asking, \"Don't I mean more to you than ten sons?\""
+}

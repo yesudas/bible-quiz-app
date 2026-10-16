@@ -1,0 +1,32 @@
+{
+  "id": "13-029-013",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 29,
+  "verse_reference": "1 Chronicles 29:28",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How does the Bible describe David's death?",
+  "options": [
+    "He died in battle",
+    "He died at a good old age, having enjoyed long life, wealth and honor",
+    "He died young and poor",
+    "He died in exile"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Blessing"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David died at a good old age, having enjoyed long life, wealth and honor, and Solomon succeeded him."
+}

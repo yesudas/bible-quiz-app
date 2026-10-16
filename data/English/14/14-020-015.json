@@ -1,0 +1,33 @@
+{
+  "id": "14-020-015",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 20,
+  "verse_reference": "2 Chronicles 20:26",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In which valley did the people gather to praise the LORD on the fourth day?",
+  "options": [
+    "Valley of Hinnom",
+    "Valley of Zephathah",
+    "Kidron Valley",
+    "Valley of Berakah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Valley of Berakah",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On the fourth day they assembled in the Valley of Berakah, where they praised the LORD, and it is still called that to this day."
+}

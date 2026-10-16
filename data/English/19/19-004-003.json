@@ -1,0 +1,32 @@
+{
+  "id": "19-004-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 4,
+  "verse_reference": "Psalm 4:2",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 4:2, what does David say the people love and seek?",
+  "options": [
+    "Riches and honour",
+    "Wisdom and knowledge",
+    "Delusions and false gods",
+    "Feasts and wine"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Idolatry"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 4:2 asks, \"How long will you love delusions and seek false gods?\""
+}

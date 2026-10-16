@@ -1,0 +1,30 @@
+{
+  "id": "23-026-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 26,
+  "verse_reference": "Isaiah 26:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How does Isaiah 26:7 describe the path of the righteous?",
+  "options": [
+    "Narrow",
+    "Dark",
+    "Long",
+    "Level"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 26:7 says, 'The path of the righteous is level; you, the Upright One, make the way of the righteous smooth.'"
+}

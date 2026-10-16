@@ -1,0 +1,32 @@
+{
+  "id": "18-013-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 13,
+  "verse_reference": "Job 13:4",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Job call his friends in Job 13:4?",
+  "options": [
+    "Faithful servants",
+    "Wise teachers",
+    "Worthless physicians",
+    "Brave soldiers"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job told his friends, 'You smear me with lies; you are worthless physicians, all of you!'"
+}

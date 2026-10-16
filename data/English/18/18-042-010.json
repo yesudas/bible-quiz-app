@@ -1,0 +1,37 @@
+{
+  "id": "18-042-010",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 42,
+  "verse_reference": "Job 42:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did each of Job's relatives and friends give him when they came to eat with him?",
+  "options": [
+    "A piece of silver and a gold ring",
+    "A sheep and a goat",
+    "A new robe",
+    "A jar of oil"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Love"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [
+    {
+      "name": "Job's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job's brothers, sisters and everyone who knew him ate with him, comforted him, and each gave him a piece of silver and a gold ring."
+}

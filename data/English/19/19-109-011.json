@@ -1,0 +1,33 @@
+{
+  "id": "19-109-011",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 109,
+  "verse_reference": "Psalm 109:31",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 109, where does the LORD stand to save the needy?",
+  "options": [
+    "At the city gate",
+    "Behind them",
+    "At their right hand",
+    "In the temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Hope"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm ends by saying the LORD stands at the right hand of the needy, to save their lives from those who would condemn them."
+}

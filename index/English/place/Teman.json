@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Teman",
+    "label": "Teman",
+    "count": 3,
+    "paths": [
+        "English/18/18-002-010.json",
+        "English/18/18-004-001.json",
+        "English/18/18-042-004.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

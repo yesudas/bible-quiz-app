@@ -1,0 +1,37 @@
+{
+  "id": "23-023-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 23,
+  "verse_reference": "Isaiah 23:1",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which ships were told to wail because Tyre was destroyed?",
+  "options": [
+    "The ships of Tarshish",
+    "The ships of Egypt",
+    "The ships of Ophir",
+    "The ships of Cyprus"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    },
+    {
+      "name": "Tarshish",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 23:1 says, 'Wail, you ships of Tarshish! For Tyre is destroyed and left without house or harbor.'"
+}

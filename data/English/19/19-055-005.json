@@ -1,0 +1,32 @@
+{
+  "id": "19-055-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 55,
+  "verse_reference": "Psalm 55:17",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "According to Psalm 55:17, when does David cry out to God?",
+  "options": [
+    "Only on the Sabbath",
+    "Evening, morning and noon",
+    "Only at night",
+    "Once a year at the festival"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David says, \"Evening, morning and noon I cry out in distress, and he hears my voice.\""
+}

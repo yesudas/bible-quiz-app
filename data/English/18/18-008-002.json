@@ -1,0 +1,33 @@
+{
+  "id": "18-008-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 8,
+  "verse_reference": "Job 8:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Bildad say Job's words were like?",
+  "options": [
+    "A blustering wind",
+    "A quiet stream",
+    "A sharp sword",
+    "A falling star"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Bildad",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Bildad asked how long Job would say such things, and said Job's words were a blustering wind."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "07-007-007",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 7,
+  "verse_reference": "Judges 7:10-11",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which servant went down with Gideon to the Midianite camp at night?",
+  "options": [
+    "Jether",
+    "Joash",
+    "Abinoam",
+    "Purah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Courage"
+  ],
+  "characters": [
+    "Gideon",
+    "Purah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Gideon that if he was afraid, he should go down to the camp with his servant Purah. So they went."
+}

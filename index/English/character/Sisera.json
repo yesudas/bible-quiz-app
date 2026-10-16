@@ -1,0 +1,26 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Sisera",
+    "label": "Sisera",
+    "count": 16,
+    "paths": [
+        "English/07/07-004-003.json",
+        "English/07/07-004-004.json",
+        "English/07/07-004-005.json",
+        "English/07/07-004-011.json",
+        "English/07/07-004-013.json",
+        "English/07/07-004-014.json",
+        "English/07/07-004-015.json",
+        "English/07/07-004-016.json",
+        "English/07/07-004-017.json",
+        "English/07/07-004-019.json",
+        "English/07/07-005-009.json",
+        "English/07/07-005-010.json",
+        "English/07/07-005-014.json",
+        "English/07/07-005-015.json",
+        "English/09/09-012-003.json",
+        "English/19/19-083-004.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

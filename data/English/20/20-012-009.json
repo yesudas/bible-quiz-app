@@ -1,0 +1,31 @@
+{
+  "id": "20-012-009",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 12,
+  "verse_reference": "Proverbs 12:25",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Anxiety weighs down the heart, but a ______ word cheers it up.\"",
+  "options": [
+    "kind",
+    "loud",
+    "long",
+    "wise"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 12:25 says anxiety weighs down the heart, but a kind word cheers it up."
+}

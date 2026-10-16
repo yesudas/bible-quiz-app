@@ -1,0 +1,30 @@
+{
+  "id": "20-009-007",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 9,
+  "verse_reference": "Proverbs 9:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete what Folly says in Proverbs 9:17: \"______ water is sweet; food eaten in secret is delicious!\"",
+  "options": [
+    "Fresh",
+    "Cold",
+    "Stolen",
+    "Deep"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Temptation",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Proverbs 9:17 Folly tempts people by saying stolen water is sweet and food eaten in secret is delicious."
+}

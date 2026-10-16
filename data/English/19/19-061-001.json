@@ -1,0 +1,32 @@
+{
+  "id": "19-061-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 61,
+  "verse_reference": "Psalm 61:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 61:2, from where does David call to God?",
+  "options": [
+    "From the temple",
+    "From the ends of the earth",
+    "From the top of a mountain",
+    "From a prison"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David says, \"From the ends of the earth I call to you.\""
+}

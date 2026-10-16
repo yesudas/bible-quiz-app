@@ -1,0 +1,42 @@
+{
+  "id": "11-022-001",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 22,
+  "verse_reference": "1 Kings 22:2-4",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which king of Judah went with the king of Israel to fight against Ramoth Gilead?",
+  "options": [
+    "Asa",
+    "Jehoshaphat",
+    "Rehoboam",
+    "Ahaziah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoshaphat",
+    "Ahab"
+  ],
+  "places": [
+    {
+      "name": "Ramoth Gilead",
+      "type": "city"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoshaphat king of Judah went to see the king of Israel and agreed to go with him to fight against Ramoth Gilead."
+}

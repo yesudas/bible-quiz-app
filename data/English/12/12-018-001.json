@@ -1,0 +1,38 @@
+{
+  "id": "12-018-001",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 18,
+  "verse_reference": "2 Kings 18:1-2",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which son of Ahaz became king of Judah at twenty-five and reigned twenty-nine years?",
+  "options": [
+    "Manasseh",
+    "Hezekiah",
+    "Josiah",
+    "Jotham"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Hezekiah",
+    "Ahaz"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hezekiah son of Ahaz became king at twenty-five and reigned in Jerusalem twenty-nine years."
+}

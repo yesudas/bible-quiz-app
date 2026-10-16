@@ -1,0 +1,41 @@
+{
+  "id": "16-008-002",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 8,
+  "verse_reference": "Nehemiah 8:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did all the people gather to hear the Law read?",
+  "options": [
+    "In the square before the Water Gate",
+    "In the temple courts",
+    "On the plain of Ono",
+    "By the Pool of Siloam"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Worship"
+  ],
+  "characters": [
+    "Ezra"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Water Gate",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All the people came together as one in the square before the Water Gate."
+}

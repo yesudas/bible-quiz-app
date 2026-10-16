@@ -1,0 +1,31 @@
+{
+  "id": "05-021-004",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 21,
+  "verse_reference": "Deuteronomy 21:13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How long was a captive woman allowed to mourn her father and mother before marriage?",
+  "options": [
+    "Three days",
+    "One week",
+    "A full month",
+    "One year"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mercy",
+    "Marriage",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The woman was given a full month to mourn her father and mother in the man's home before he could marry her."
+}

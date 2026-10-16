@@ -1,0 +1,36 @@
+{
+  "id": "07-009-021",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 9,
+  "verse_reference": "Judges 9:54",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Abimelek ask his armor-bearer to kill him?",
+  "options": [
+    "So no one could say, \"A woman killed him\"",
+    "He was afraid of Jotham",
+    "He wanted to die before Gaal came",
+    "He had lost the battle at Shechem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Abimelek"
+  ],
+  "places": [
+    {
+      "name": "Thebez",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abimelek called his armor-bearer to kill him with his sword so that people could not say a woman had killed him."
+}

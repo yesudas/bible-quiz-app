@@ -1,0 +1,38 @@
+{
+  "id": "20-001-001",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 1,
+  "verse_reference": "Proverbs 1:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "According to Proverbs 1, whose proverbs are these?",
+  "options": [
+    "David",
+    "Solomon",
+    "Hezekiah",
+    "Samuel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Solomon",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 1:1 says these are the proverbs of Solomon son of David, king of Israel."
+}

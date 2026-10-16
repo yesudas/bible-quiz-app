@@ -1,0 +1,38 @@
+{
+  "id": "23-015-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 15,
+  "verse_reference": "Isaiah 15:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did the speaker in Isaiah 15:5 feel about Moab's suffering?",
+  "options": [
+    "His heart cried out over Moab",
+    "He laughed at Moab",
+    "He did not care",
+    "He was glad Moab was punished"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Compassion"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    },
+    {
+      "name": "Zoar",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 15:5 says, 'My heart cries out over Moab; her fugitives flee as far as Zoar.'"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "09-031-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 31,
+  "verse_reference": "1 Samuel 31:11-12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who journeyed through the night to take down the bodies of Saul and his sons?",
+  "options": [
+    "The valiant men of Jabesh Gilead",
+    "David's men",
+    "Samuel's family",
+    "The priests of Nob"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Leadership"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Jabesh Gilead",
+      "type": "town"
+    },
+    {
+      "name": "Beth Shan",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the people of Jabesh Gilead heard what the Philistines had done, all their valiant men journeyed through the night and took down the bodies. (Saul had rescued Jabesh Gilead from Nahash in chapter 11.)"
+}

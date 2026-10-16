@@ -1,0 +1,33 @@
+{
+  "id": "13-002-010",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 2,
+  "verse_reference": "1 Chronicles 2:34-35",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Sheshan had no sons. What did he do?",
+  "options": [
+    "He adopted his nephew",
+    "He gave his land to the Levites",
+    "He gave his daughter in marriage to his Egyptian servant Jarha",
+    "He asked the priest to pray for a son"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Marriage"
+  ],
+  "characters": [
+    "Sheshan",
+    "Jarha"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sheshan had only daughters, so he gave his daughter in marriage to his Egyptian servant Jarha, and she bore him a son."
+}

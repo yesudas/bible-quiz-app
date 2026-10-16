@@ -1,0 +1,38 @@
+{
+  "id": "13-007-004",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 7,
+  "verse_reference": "1 Chronicles 7:21",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Why were Ezer and Elead, sons of Ephraim, killed by the men of Gath?",
+  "options": [
+    "They refused to pay tribute",
+    "They attacked the city walls",
+    "They went down to seize the livestock of Gath",
+    "They worshiped the gods of Gath"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Ezer",
+    "Elead",
+    "Ephraim"
+  ],
+  "places": [
+    {
+      "name": "Gath",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezer and Elead were killed by the native-born men of Gath when they went down to seize their livestock."
+}

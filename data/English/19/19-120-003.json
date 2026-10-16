@@ -1,0 +1,31 @@
+{
+  "id": "19-120-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 120,
+  "verse_reference": "Psalm 120:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "From what did the psalmist ask the LORD to save him?",
+  "options": [
+    "Sickness and pain",
+    "Hunger and thirst",
+    "Lying lips and deceitful tongues",
+    "Wild animals"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Honesty"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He prayed, \"Save me, LORD, from lying lips and from deceitful tongues.\""
+}

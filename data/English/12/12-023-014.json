@@ -1,0 +1,35 @@
+{
+  "id": "12-023-014",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 23,
+  "verse_reference": "2 Kings 23:31",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How long did Jehoahaz son of Josiah reign?",
+  "options": [
+    "Three years",
+    "Three months",
+    "Eleven years",
+    "One year"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoahaz"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoahaz was twenty-three years old when he became king, and he reigned in Jerusalem three months."
+}

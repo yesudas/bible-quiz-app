@@ -1,0 +1,32 @@
+{
+  "id": "19-090-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 90,
+  "verse_reference": "Psalm 90:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Lord, you have been our ____ place throughout all generations.\"",
+  "options": [
+    "hiding",
+    "dwelling",
+    "resting",
+    "meeting"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses says the Lord has been His people's dwelling place in every generation."
+}

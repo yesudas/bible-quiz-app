@@ -1,0 +1,34 @@
+{
+  "id": "14-032-015",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 32,
+  "verse_reference": "2 Chronicles 32:33",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who succeeded Hezekiah as king?",
+  "options": [
+    "Josiah",
+    "Amon",
+    "Jotham",
+    "Manasseh"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Hezekiah",
+    "Manasseh"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hezekiah rested with his ancestors and was honored by all Judah, and Manasseh his son succeeded him as king."
+}

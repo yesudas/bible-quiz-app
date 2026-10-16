@@ -1,0 +1,36 @@
+{
+  "id": "06-022-012",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 22,
+  "verse_reference": "Joshua 22:34",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "What name did the eastern tribes give the altar?",
+  "options": [
+    "The LORD Is My Banner",
+    "The Altar of Peace",
+    "A Witness Between Us—that the LORD is God",
+    "Stone of Help"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They named the altar \"A Witness Between Us—that the LORD is God.\""
+}

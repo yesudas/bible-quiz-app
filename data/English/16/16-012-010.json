@@ -1,0 +1,37 @@
+{
+  "id": "16-012-010",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 12,
+  "verse_reference": "Nehemiah 12:45-46",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to Nehemiah 12:45-46, the musicians and gatekeepers served according to the commands of which kings?",
+  "options": [
+    "Saul and Jonathan",
+    "Hezekiah and Josiah",
+    "Asa and Jehoshaphat",
+    "David and his son Solomon"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David",
+    "Solomon",
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "House of God",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The musicians and gatekeepers served according to the commands of David and his son Solomon; long ago, in the days of David and Asaph, there had been directors for the musicians."
+}

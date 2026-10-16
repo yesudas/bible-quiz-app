@@ -1,0 +1,34 @@
+{
+  "id": "13-002-007",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 2,
+  "verse_reference": "1 Chronicles 2:13-15",
+  "question_type": "DIRECT",
+  "difficulty": "Easy",
+  "question": "According to 1 Chronicles 2, which son of Jesse was David?",
+  "options": [
+    "The firstborn",
+    "The second",
+    "The seventh",
+    "The youngest of twelve"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesse",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesse's sons are listed from Eliab the firstborn, and David is named as the seventh."
+}

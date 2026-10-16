@@ -1,0 +1,33 @@
+{
+  "id": "15-007-002",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 7,
+  "verse_reference": "Ezra 7:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Ezra was a descendant of which chief priest?",
+  "options": [
+    "Eli",
+    "Aaron",
+    "Zadok",
+    "Jeshua"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Family"
+  ],
+  "characters": [
+    "Ezra",
+    "Aaron"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra's family line is traced back to Aaron the chief priest."
+}

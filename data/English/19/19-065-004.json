@@ -1,0 +1,37 @@
+{
+  "id": "19-065-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 65,
+  "verse_reference": "Psalm 65:4",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 65:4, who are blessed?",
+  "options": [
+    "Those who are rich",
+    "Those who rule nations",
+    "Those who have many children",
+    "Those God chooses and brings near to live in His courts"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Salvation"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "God's courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David says, \"Blessed are those you choose and bring near to live in your courts!\""
+}

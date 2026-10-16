@@ -1,0 +1,36 @@
+{
+  "id": "16-003-004",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 3,
+  "verse_reference": "Nehemiah 3:8",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Uzziel helped repair the wall. What was his trade?",
+  "options": [
+    "A carpenter",
+    "A potter",
+    "A merchant",
+    "A goldsmith"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Uzziel"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Uzziel was one of the goldsmiths, and next to him Hananiah, one of the perfume-makers, also made repairs."
+}

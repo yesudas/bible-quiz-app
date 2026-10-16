@@ -1,0 +1,34 @@
+{
+  "id": "22-008-001",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 8,
+  "verse_reference": "Song of Songs 8:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "The woman is seen coming up from the wilderness doing what?",
+  "options": [
+    "Carrying a basket of fruit",
+    "Leaning on her beloved",
+    "Singing with the daughters of Jerusalem",
+    "Leading a flock of sheep"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 8:5 asks, \"Who is this coming up from the wilderness leaning on her beloved?\""
+}

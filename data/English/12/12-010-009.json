@@ -1,0 +1,36 @@
+{
+  "id": "12-010-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 10,
+  "verse_reference": "2 Kings 10:23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jehu tell the servants of Baal to check that no servants of the LORD were among them?",
+  "options": [
+    "So the LORD's servants would not be offended",
+    "So that only servants of Baal would be there when he destroyed them",
+    "Because Baal priests asked him to",
+    "So he could count the people"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Idolatry",
+    "Judgment"
+  ],
+  "characters": [
+    "Jehu"
+  ],
+  "places": [
+    {
+      "name": "Temple of Baal",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehu wanted to make sure only the servants of Baal were inside, because he planned to destroy them."
+}

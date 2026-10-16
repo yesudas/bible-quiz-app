@@ -1,0 +1,40 @@
+{
+  "id": "17-002-014",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 2,
+  "verse_reference": "Esther 2:22",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "After Mordecai learned about the plot to kill the king, what happened next?",
+  "options": [
+    "He told the king himself at the gate",
+    "He told Queen Esther, who reported it to the king and gave Mordecai credit",
+    "He told Hegai, who arrested the men",
+    "He kept it secret until later"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faithfulness",
+    "Leadership"
+  ],
+  "characters": [
+    "Mordecai",
+    "Esther",
+    "Xerxes"
+  ],
+  "places": [
+    {
+      "name": "King's gate",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mordecai told Queen Esther, and she reported it to the king, giving credit to Mordecai."
+}

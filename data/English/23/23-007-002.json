@@ -1,0 +1,38 @@
+{
+  "id": "23-007-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 7,
+  "verse_reference": "Isaiah 7:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "The hearts of Ahaz and his people were shaken like what?",
+  "options": [
+    "A ship on the sea",
+    "Trees of the forest shaken by the wind",
+    "Grass in a fire",
+    "Sand in a storm"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Fear",
+    "Faith"
+  ],
+  "characters": [
+    "Ahaz"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 7:2 says their hearts were shaken, as the trees of the forest are shaken by the wind."
+}

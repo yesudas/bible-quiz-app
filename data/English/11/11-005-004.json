@@ -1,0 +1,34 @@
+{
+  "id": "11-005-004",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 5,
+  "verse_reference": "1 Kings 5:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Solomon planned to build the temple because the LORD had told David what?",
+  "options": [
+    "That Hiram would build it",
+    "That it should be built in Tyre",
+    "That David would build it in his old age",
+    "That David's son, whom God would put on the throne, would build the temple for His Name"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Worship",
+    "Prophecy"
+  ],
+  "characters": [
+    "Solomon",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD had told David that his son, whom He would put on the throne, would build the temple for His Name."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "07-011-011",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 11,
+  "verse_reference": "Judges 11:27",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete what Jephthah said: \"Let the LORD, the ___, decide the dispute this day between the Israelites and the Ammonites.\"",
+  "options": [
+    "King",
+    "Warrior",
+    "Shepherd",
+    "Judge"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Justice",
+    "Faith"
+  ],
+  "characters": [
+    "Jephthah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jephthah left the dispute with the LORD, calling Him \"the Judge.\""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "07-005-003",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 5,
+  "verse_reference": "Judges 5:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete what Deborah sang: \"Until I, Deborah, arose, until I arose, a ___ in Israel.\"",
+  "options": [
+    "mother",
+    "light",
+    "queen",
+    "servant"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Deborah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Deborah described herself as \"a mother in Israel\" who arose when the villagers held back from fighting."
+}

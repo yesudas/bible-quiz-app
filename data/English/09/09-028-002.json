@@ -1,0 +1,35 @@
+{
+  "id": "09-028-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 28,
+  "verse_reference": "1 Samuel 28:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What had Saul earlier done with the mediums and spiritists?",
+  "options": [
+    "He made them his advisers",
+    "He had them teach the priests",
+    "He had expelled them from the land",
+    "He sent them to the Philistines"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Ramah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel was dead and buried in Ramah, and Saul had expelled the mediums and spiritists from the land."
+}

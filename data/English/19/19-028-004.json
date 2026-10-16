@@ -1,0 +1,34 @@
+{
+  "id": "19-028-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 28,
+  "verse_reference": "Psalm 28:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 28:6, why does David say, \"Praise be to the LORD\"?",
+  "options": [
+    "Because he won a war",
+    "Because it rained",
+    "Because the temple was built",
+    "Because the LORD heard his cry for mercy"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Thanksgiving"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 28:6 says, \"Praise be to the LORD, for he has heard my cry for mercy.\""
+}

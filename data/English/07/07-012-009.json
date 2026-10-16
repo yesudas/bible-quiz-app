@@ -1,0 +1,40 @@
+{
+  "id": "07-012-009",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 12,
+  "verse_reference": "Judges 12:11-12",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Elon, who led Israel ten years, was from which tribe?",
+  "options": [
+    "Naphtali",
+    "Issachar",
+    "Asher",
+    "Zebulun"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Elon"
+  ],
+  "places": [
+    {
+      "name": "Aijalon",
+      "type": "town"
+    },
+    {
+      "name": "Zebulun",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elon the Zebulunite led Israel ten years and was buried in Aijalon in the land of Zebulun."
+}

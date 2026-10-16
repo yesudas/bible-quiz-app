@@ -1,0 +1,33 @@
+{
+  "id": "19-026-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 26,
+  "verse_reference": "Psalm 26:4",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 26:4, David does not associate with whom?",
+  "options": [
+    "Foreigners",
+    "The poor",
+    "Hypocrites",
+    "Shepherds"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holiness",
+    "Wisdom"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 26:4 says, \"I do not sit with the deceitful, nor do I associate with hypocrites.\""
+}

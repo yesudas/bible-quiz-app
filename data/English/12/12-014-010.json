@@ -1,0 +1,39 @@
+{
+  "id": "12-014-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 14,
+  "verse_reference": "2 Kings 14:19",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "To which city did Amaziah flee when a conspiracy rose against him?",
+  "options": [
+    "Lachish",
+    "Beersheba",
+    "Hebron",
+    "Gath"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Amaziah"
+  ],
+  "places": [
+    {
+      "name": "Lachish",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amaziah fled to Lachish, but they sent men after him and killed him there."
+}

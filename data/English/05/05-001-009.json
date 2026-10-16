@@ -1,0 +1,33 @@
+{
+  "id": "05-001-009",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 1,
+  "verse_reference": "Deuteronomy 1:26-28",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the people respond when they were told to go up and take the land?",
+  "options": [
+    "They obeyed at once",
+    "They asked for more time to prepare",
+    "They rebelled and were afraid to go up",
+    "They sent gifts to the enemy"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Faith",
+    "Fear"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Instead of trusting God, the people rebelled and were afraid, complaining that the people of the land were stronger and taller than they were."
+}

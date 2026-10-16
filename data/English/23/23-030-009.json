@@ -1,0 +1,33 @@
+{
+  "id": "23-030-009",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 30,
+  "verse_reference": "Isaiah 30:31",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which nation would be shattered by the voice of the LORD in Isaiah 30:31?",
+  "options": [
+    "Assyria",
+    "Egypt",
+    "Edom",
+    "Philistia"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 30:31 says, 'The voice of the LORD will shatter Assyria; with his rod he will strike them down.'"
+}

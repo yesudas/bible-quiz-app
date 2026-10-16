@@ -1,0 +1,37 @@
+{
+  "id": "08-003-012",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 3,
+  "verse_reference": "Ruth 3:14",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When did Ruth get up to leave the threshing floor?",
+  "options": [
+    "At noon",
+    "Before anyone could be recognized",
+    "After Boaz went to town",
+    "After the workers arrived"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Ruth",
+    "Boaz"
+  ],
+  "places": [
+    {
+      "name": "Threshing floor",
+      "type": "threshing floor"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ruth lay at his feet until morning but got up before anyone could be recognized."
+}

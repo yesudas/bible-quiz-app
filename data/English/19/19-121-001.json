@@ -1,0 +1,36 @@
+{
+  "id": "19-121-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 121,
+  "verse_reference": "Psalm 121:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In Psalm 121, to where does the psalmist lift up his eyes?",
+  "options": [
+    "To the sea",
+    "To the mountains",
+    "To the temple",
+    "To the stars"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mountains",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist said, \"I lift up my eyes to the mountains—where does my help come from?\""
+}

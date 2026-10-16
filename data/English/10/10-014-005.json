@@ -1,0 +1,30 @@
+{
+  "id": "10-014-005",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 14,
+  "verse_reference": "2 Samuel 14:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "The woman said her relatives would \"put out the only burning ______ I have left.\"",
+  "options": [
+    "lamp",
+    "candle",
+    "fire",
+    "coal"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "She compared her last son to the only burning coal she had left, which would leave her husband with neither name nor descendant."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "08-001-008",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 1,
+  "verse_reference": "Ruth 1:14-15",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which daughter-in-law kissed Naomi goodbye and went back to her people?",
+  "options": [
+    "Ruth",
+    "Orpah",
+    "Naomi",
+    "Rahab"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Decision"
+  ],
+  "characters": [
+    "Orpah",
+    "Naomi"
+  ],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Orpah kissed her mother-in-law goodbye and went back to her people and her gods, but Ruth stayed with Naomi."
+}

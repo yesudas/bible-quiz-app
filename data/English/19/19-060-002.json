@@ -1,0 +1,36 @@
+{
+  "id": "19-060-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 60,
+  "verse_reference": "Psalm 60 (title)",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to the title of Psalm 60, where did Joab strike down twelve thousand Edomites?",
+  "options": [
+    "The Valley of Salt",
+    "The Jordan Valley",
+    "The Valley of Elah",
+    "The Kidron Valley"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joab"
+  ],
+  "places": [
+    {
+      "name": "Valley of Salt",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title says the Edomites were struck down in the Valley of Salt."
+}

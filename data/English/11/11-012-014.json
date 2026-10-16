@@ -1,0 +1,38 @@
+{
+  "id": "11-012-014",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 12,
+  "verse_reference": "1 Kings 12:26-27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was Jeroboam afraid of the people going up to Jerusalem to offer sacrifices?",
+  "options": [
+    "He feared their hearts would turn back to Rehoboam, and they would kill him",
+    "He feared they would get lost",
+    "He feared the temple would fall",
+    "He feared Egypt would attack"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Jeroboam",
+    "Rehoboam"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeroboam feared that if the people went to Jerusalem to sacrifice, they would give their allegiance back to Rehoboam and kill him."
+}

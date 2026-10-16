@@ -1,0 +1,33 @@
+{
+  "id": "09-025-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 25,
+  "verse_reference": "1 Samuel 25:32-33",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did David bless Abigail?",
+  "options": [
+    "She gave him gold",
+    "She agreed to marry him",
+    "Her good judgment kept him from bloodshed and taking revenge",
+    "She told Saul where he was"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Forgiveness"
+  ],
+  "characters": [
+    "David",
+    "Abigail"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said, \"May you be blessed for your good judgment and for keeping me this day from bloodshed and from avenging myself with my own hands.\""
+}

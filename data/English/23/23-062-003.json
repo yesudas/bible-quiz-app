@@ -1,0 +1,34 @@
+{
+  "id": "23-062-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 62,
+  "verse_reference": "Isaiah 62:4",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Instead of 'Deserted' and 'Desolate', what new names will God's people and land be called in Isaiah 62:4?",
+  "options": [
+    "Ariel and Ephrathah",
+    "Bethel and Peniel",
+    "Jeshurun and Zion",
+    "Hephzibah and Beulah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 62:4 says, 'But you will be called Hephzibah, and your land Beulah; for the LORD will take delight in you.'"
+}

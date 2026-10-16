@@ -1,0 +1,38 @@
+{
+  "id": "12-004-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 4,
+  "verse_reference": "2 Kings 4:16-17",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Elisha promise the Shunammite woman?",
+  "options": [
+    "Her husband would become rich",
+    "Her land would never have famine",
+    "She would hold a son in her arms about that time next year",
+    "She would see the king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Family"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Shunem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha said that about that time next year she would hold a son, and the next year she had a son as he had said."
+}

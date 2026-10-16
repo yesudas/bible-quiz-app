@@ -1,0 +1,36 @@
+{
+  "id": "23-039-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 39,
+  "verse_reference": "Isaiah 39:7",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to Isaiah 39:7, who would become eunuchs in the palace of the king of Babylon?",
+  "options": [
+    "Isaiah's sons",
+    "The priests of Judah",
+    "Some of Hezekiah's descendants",
+    "The soldiers of Jerusalem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 39:7 says some of Hezekiah's descendants would be taken away, and they would become eunuchs in the palace of the king of Babylon."
+}

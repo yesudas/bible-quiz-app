@@ -1,0 +1,39 @@
+{
+  "id": "17-003-005",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 3,
+  "verse_reference": "Esther 3:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Haman plan to do after he learned who Mordecai's people were?",
+  "options": [
+    "Punish only Mordecai",
+    "Send Mordecai out of Persia",
+    "Destroy all the Jews throughout the kingdom",
+    "Ask Mordecai to apologize"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution",
+    "Pride"
+  ],
+  "characters": [
+    "Haman",
+    "Mordecai"
+  ],
+  "places": [
+    {
+      "name": "Kingdom of Xerxes",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Having learned who Mordecai's people were, Haman scorned the idea of killing only Mordecai and looked for a way to destroy all the Jews."
+}

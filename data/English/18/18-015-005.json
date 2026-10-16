@@ -1,0 +1,31 @@
+{
+  "id": "18-015-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 15,
+  "verse_reference": "Job 15:10",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did Eliphaz say were on the side of Job's friends?",
+  "options": [
+    "The kings of the East",
+    "The priests",
+    "The gray-haired and the aged",
+    "The angels"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Eliphaz"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eliphaz said, 'The gray-haired and the aged are on our side, men even older than your father.'"
+}

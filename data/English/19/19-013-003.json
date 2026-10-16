@@ -1,0 +1,33 @@
+{
+  "id": "19-013-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 13,
+  "verse_reference": "Psalm 13:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 13:3, what does David ask the LORD to give to his eyes?",
+  "options": [
+    "Tears",
+    "Light",
+    "Sleep",
+    "Healing"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Hope"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 13:3 says, \"Give light to my eyes, or I will sleep in death.\""
+}

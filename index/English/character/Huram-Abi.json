@@ -1,0 +1,12 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Huram-Abi",
+    "label": "Huram-Abi",
+    "count": 2,
+    "paths": [
+        "English/14/14-002-011.json",
+        "English/14/14-004-011.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

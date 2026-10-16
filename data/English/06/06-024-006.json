@@ -1,0 +1,39 @@
+{
+  "id": "06-024-006",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 24,
+  "verse_reference": "Joshua 24:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"But as for me and my ____, we will serve the LORD.\"",
+  "options": [
+    "household",
+    "people",
+    "sons",
+    "tribe"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Worship",
+    "Faith"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Shechem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua told Israel to choose whom they would serve, and declared, \"But as for me and my household, we will serve the LORD.\""
+}

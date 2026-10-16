@@ -1,0 +1,38 @@
+{
+  "id": "06-024-007",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 24,
+  "verse_reference": "Joshua 24:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"Then choose for yourselves this ____ whom you will serve.\"",
+  "options": [
+    "year",
+    "hour",
+    "day",
+    "week"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Worship"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Shechem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua called the people to decide that very day whether they would serve the LORD or other gods."
+}

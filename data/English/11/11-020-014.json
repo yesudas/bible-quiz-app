@@ -1,0 +1,33 @@
+{
+  "id": "11-020-014",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 20,
+  "verse_reference": "1 Kings 20:32-34",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Ahab do with Ben-Hadad?",
+  "options": [
+    "He put him to death",
+    "He called him his brother, made a treaty with him and let him go",
+    "He put him in prison",
+    "He sent him to Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Covenant"
+  ],
+  "characters": [
+    "Ahab",
+    "Ben-Hadad"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahab said, \"He is my brother,\" made a treaty with Ben-Hadad and let him go."
+}

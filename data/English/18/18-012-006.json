@@ -1,0 +1,32 @@
+{
+  "id": "18-012-006",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 12,
+  "verse_reference": "Job 12:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Job 12:12, where is wisdom found?",
+  "options": [
+    "Among the aged",
+    "Among the young",
+    "Among the rich",
+    "Among the kings"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job asked, 'Is not wisdom found among the aged? Does not long life bring understanding?'"
+}

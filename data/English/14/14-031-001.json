@@ -1,0 +1,47 @@
+{
+  "id": "14-031-001",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 31,
+  "verse_reference": "2 Chronicles 31:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Israelites do after the Passover celebration was over?",
+  "options": [
+    "They built new altars",
+    "They smashed the sacred stones and cut down the Asherah poles",
+    "They went to war with Assyria",
+    "They built a new palace"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    },
+    {
+      "name": "Benjamin",
+      "type": "region"
+    },
+    {
+      "name": "Ephraim",
+      "type": "region"
+    },
+    {
+      "name": "Manasseh",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites went out to the towns of Judah, smashed the sacred stones, cut down the Asherah poles and destroyed the high places and altars."
+}

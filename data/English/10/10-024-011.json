@@ -1,0 +1,33 @@
+{
+  "id": "10-024-011",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 24,
+  "verse_reference": "2 Samuel 24:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did David ask the LORD when he saw the angel striking the people?",
+  "options": [
+    "To save him and his family",
+    "To let His hand fall on David and his family instead of the people",
+    "To destroy the Philistines instead",
+    "To give him more time"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Leadership",
+    "Love"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said, \"I have sinned... These are but sheep. What have they done? Let your hand fall on me and my family.\""
+}

@@ -1,0 +1,34 @@
+{
+  "id": "19-105-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 105,
+  "verse_reference": "Psalm 105:8-10",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "In what order does Psalm 105 name the three men connected with God's covenant?",
+  "options": [
+    "Jacob, Isaac, Abraham",
+    "Abraham, Isaac, Jacob",
+    "Isaac, Abraham, Jacob",
+    "Abraham, Jacob, Isaac"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Abraham",
+    "Isaac",
+    "Jacob"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God made the covenant with Abraham, swore the oath to Isaac, and confirmed it to Jacob as an everlasting covenant."
+}

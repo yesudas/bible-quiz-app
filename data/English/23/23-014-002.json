@@ -1,0 +1,35 @@
+{
+  "id": "23-014-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 14,
+  "verse_reference": "Isaiah 14:4",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Against which king did Isaiah tell Israel to take up a taunt?",
+  "options": [
+    "The king of Egypt",
+    "The king of Assyria",
+    "The king of Babylon",
+    "The king of Moab"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Pride"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 14:4 says, 'You will take up this taunt against the king of Babylon: How the oppressor has come to an end!'"
+}

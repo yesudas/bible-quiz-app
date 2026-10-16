@@ -1,0 +1,32 @@
+{
+  "id": "09-018-014",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 18,
+  "verse_reference": "1 Samuel 18:27",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How many Philistines did David and his men strike down for the bride price?",
+  "options": [
+    "Fifty",
+    "One hundred",
+    "One thousand",
+    "Two hundred"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [
+    "David",
+    "Michal"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David and his men went out and killed two hundred Philistines, and then Saul gave him his daughter Michal in marriage."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "06-010-010",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 10,
+  "verse_reference": "Joshua 10:13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In which book did the Bible say the sun standing still was also written?",
+  "options": [
+    "The Book of the Law",
+    "The Book of Jashar",
+    "The Book of the Kings",
+    "The Book of the Wars of the LORD"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua 10:13 says this event is written in the Book of Jashar."
+}

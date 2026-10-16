@@ -1,0 +1,37 @@
+{
+  "id": "10-017-009",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 17,
+  "verse_reference": "2 Samuel 17:19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How did the man's wife hide the well where Jonathan and Ahimaaz were?",
+  "options": [
+    "She sat on top of it",
+    "She placed a cart over it",
+    "She filled it with water",
+    "She spread a covering over it and scattered grain on it"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faithfulness"
+  ],
+  "characters": [
+    "Jonathan",
+    "Ahimaaz"
+  ],
+  "places": [
+    {
+      "name": "Bahurim",
+      "type": "village"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "His wife took a covering, spread it over the opening of the well and scattered grain over it. No one knew anything about it."
+}

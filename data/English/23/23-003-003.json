@@ -1,0 +1,40 @@
+{
+  "id": "23-003-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 3,
+  "verse_reference": "Isaiah 3:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why were Jerusalem and Judah falling?",
+  "options": [
+    "Their words and deeds were against the LORD",
+    "Their walls were too low",
+    "They had no king",
+    "They had too few soldiers"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 3:8 says Jerusalem staggered and Judah fell because their words and deeds were against the LORD."
+}

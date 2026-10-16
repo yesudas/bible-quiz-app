@@ -1,0 +1,42 @@
+{
+  "id": "09-023-010",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 23,
+  "verse_reference": "1 Samuel 23:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Jonathan told David, \"You will be king over Israel, and I will be ___ to you.\"",
+  "options": [
+    "a servant",
+    "a brother",
+    "second",
+    "a friend"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Leadership"
+  ],
+  "characters": [
+    "Jonathan",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Horesh",
+      "type": "other"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonathan said, \"You will be king over Israel, and I will be second to you. Even my father Saul knows this.\""
+}

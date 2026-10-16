@@ -1,0 +1,38 @@
+{
+  "id": "17-008-009",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 8,
+  "verse_reference": "Esther 8:15",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Mordecai wear when he left the king's presence?",
+  "options": [
+    "Royal garments of blue and white, a large gold crown and a purple robe",
+    "Sackcloth and ashes",
+    "A soldier's armor",
+    "A priest's white linen ephod"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Providence",
+    "Joy"
+  ],
+  "characters": [
+    "Mordecai"
+  ],
+  "places": [
+    {
+      "name": "Susa",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mordecai wore royal garments of blue and white, a large crown of gold and a purple robe of fine linen."
+}

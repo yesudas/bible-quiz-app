@@ -1,0 +1,30 @@
+{
+  "id": "23-060-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 60,
+  "verse_reference": "Isaiah 60:22",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'I am the LORD; in its ______ I will do this swiftly.'",
+  "options": [
+    "place",
+    "time",
+    "way",
+    "season"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 60:22 says, 'I am the LORD; in its time I will do this swiftly.'"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "10-014-010",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 14,
+  "verse_reference": "2 Samuel 14:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What condition did David set when Absalom returned to Jerusalem?",
+  "options": [
+    "He must apologise publicly",
+    "He must live in the palace",
+    "He must lead the army",
+    "He must go to his own house and not see the king's face"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "David",
+    "Absalom"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Absalom's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king said, \"He must go to his own house; he must not see my face.\""
+}

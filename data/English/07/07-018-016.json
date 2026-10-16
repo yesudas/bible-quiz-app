@@ -1,0 +1,37 @@
+{
+  "id": "07-018-016",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 18,
+  "verse_reference": "Judges 18:31",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "The Danites used Micah's idol all the time the house of God was in which place?",
+  "options": [
+    "Jerusalem",
+    "Gilgal",
+    "Shiloh",
+    "Hebron"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [
+    "Micah"
+  ],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Danites continued to use the idol Micah had made all the time the house of God was in Shiloh."
+}

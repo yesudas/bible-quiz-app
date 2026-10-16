@@ -1,0 +1,33 @@
+{
+  "id": "06-001-005",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 1,
+  "verse_reference": "Joshua 1:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"I will give you every place where you set your ____, as I promised Moses.\"",
+  "options": [
+    "eyes",
+    "foot",
+    "tent",
+    "hand"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Joshua",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised Joshua every place where he set his foot, just as He had promised Moses."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-015-014",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 15,
+  "verse_reference": "1 Kings 15:33",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Baasha reign as king over all Israel?",
+  "options": [
+    "Samaria",
+    "Tirzah",
+    "Shechem",
+    "Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Baasha"
+  ],
+  "places": [
+    {
+      "name": "Tirzah",
+      "type": "town"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Baasha son of Ahijah became king of all Israel in Tirzah, and he reigned twenty-four years."
+}

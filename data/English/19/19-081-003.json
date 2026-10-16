@@ -1,0 +1,38 @@
+{
+  "id": "19-081-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 81,
+  "verse_reference": "Psalm 81:10",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "In Psalm 81:10, God reminds His people that He brought them up out of which land?",
+  "options": [
+    "Babylon",
+    "Canaan",
+    "Assyria",
+    "Egypt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Covenant"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God says, \"I am the LORD your God, who brought you up out of Egypt.\""
+}

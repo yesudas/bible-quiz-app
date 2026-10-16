@@ -1,0 +1,38 @@
+{
+  "id": "23-011-010",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 11,
+  "verse_reference": "Isaiah 11:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many times does Isaiah 11:11 say the Lord will reach out His hand to reclaim the remnant of His people?",
+  "options": [
+    "A first time",
+    "A second time",
+    "A third time",
+    "Seven times"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 11:11 says the Lord will reach out His hand a second time to reclaim the surviving remnant of His people."
+}

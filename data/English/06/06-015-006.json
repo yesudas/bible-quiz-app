@@ -1,0 +1,34 @@
+{
+  "id": "06-015-006",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 15,
+  "verse_reference": "Joshua 15:15",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "What was Debir formerly called?",
+  "options": [
+    "Kiriath Arba",
+    "Kiriath Jearim",
+    "Luz",
+    "Kiriath Sepher"
+  ],
+  "correct_option": 3,
+  "themes": [],
+  "characters": [
+    "Caleb"
+  ],
+  "places": [
+    {
+      "name": "Debir",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Caleb marched against the people of Debir, which was formerly called Kiriath Sepher."
+}

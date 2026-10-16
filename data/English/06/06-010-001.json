@@ -1,0 +1,40 @@
+{
+  "id": "06-010-001",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 10,
+  "verse_reference": "Joshua 10:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was the king of Jerusalem who gathered other kings against Gibeon?",
+  "options": [
+    "Adoni-Zedek",
+    "Hoham",
+    "Jabin",
+    "Og"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Adoni-Zedek"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Gibeon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Adoni-Zedek king of Jerusalem heard that Gibeon had made peace with Israel and called other kings to attack Gibeon."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "19-044-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 44,
+  "verse_reference": "Psalm 44:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 44:21, what does God know?",
+  "options": [
+    "The number of the stars",
+    "The secrets of the heart",
+    "The names of all kings",
+    "The day of every battle"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Holiness"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 44:21 says God \"knows the secrets of the heart.\""
+}

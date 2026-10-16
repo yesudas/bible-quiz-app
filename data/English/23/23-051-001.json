@@ -1,0 +1,35 @@
+{
+  "id": "23-051-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 51,
+  "verse_reference": "Isaiah 51:2",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "According to Isaiah 51:2, who were the people told to look to as their father and mother?",
+  "options": [
+    "Isaac and Rebekah",
+    "Jacob and Rachel",
+    "Abraham and Sarah",
+    "Adam and Eve"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Family",
+    "Covenant"
+  ],
+  "characters": [
+    "Abraham",
+    "Sarah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 51:2 says, 'Look to Abraham, your father, and to Sarah, who gave you birth.'"
+}

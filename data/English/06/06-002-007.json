@@ -1,0 +1,37 @@
+{
+  "id": "06-002-007",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 2,
+  "verse_reference": "Joshua 2:5-7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Where did the king's men go looking for the spies after talking to Rahab?",
+  "options": [
+    "Down to the Red Sea",
+    "Up to the hills",
+    "On the road to the fords of the Jordan",
+    "Into the city of Ai"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Rahab"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rahab said the men had left at dusk, so the king's men chased them on the road that leads to the fords of the Jordan."
+}

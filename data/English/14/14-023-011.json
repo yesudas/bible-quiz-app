@@ -1,0 +1,33 @@
+{
+  "id": "14-023-011",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 23,
+  "verse_reference": "2 Chronicles 23:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What covenant did Jehoiada make with the people and the king?",
+  "options": [
+    "That they would never go to war",
+    "That they would pay taxes to the temple",
+    "That Jehoiada would be king",
+    "That they would be the LORD's people"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Worship"
+  ],
+  "characters": [
+    "Jehoiada",
+    "Joash"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoiada made a covenant that he, the people and the king would be the LORD's people."
+}

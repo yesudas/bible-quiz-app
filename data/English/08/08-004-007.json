@@ -1,0 +1,40 @@
+{
+  "id": "08-004-007",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 4,
+  "verse_reference": "Ruth 4:9-10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Boaz say he was acquiring Ruth as his wife?",
+  "options": [
+    "To become a leader in Israel",
+    "To gain more fields",
+    "Because the elders ordered him",
+    "To keep the dead man's name with his property"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Redemption",
+    "Marriage",
+    "Family"
+  ],
+  "characters": [
+    "Boaz",
+    "Ruth",
+    "Mahlon"
+  ],
+  "places": [
+    {
+      "name": "Town gate of Bethlehem",
+      "type": "city gate"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Boaz said he acquired Ruth, Mahlon's widow, to maintain the dead man's name with his property so it would not disappear from his family."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "18-014-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 14,
+  "verse_reference": "Job 14:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Job's question: \"If someone dies, will they ____ again?\"",
+  "options": [
+    "speak",
+    "live",
+    "rise",
+    "sing"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job asked, 'If someone dies, will they live again?'"
+}

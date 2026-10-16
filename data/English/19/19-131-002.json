@@ -1,0 +1,33 @@
+{
+  "id": "19-131-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 131,
+  "verse_reference": "Psalm 131:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 131, David said he had calmed and quieted himself like what?",
+  "options": [
+    "A sleeping lamb",
+    "A bird in its nest",
+    "A weaned child with its mother",
+    "A still lake"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Humility",
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said, \"I am like a weaned child with its mother; like a weaned child I am content.\""
+}

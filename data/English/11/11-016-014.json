@@ -1,0 +1,42 @@
+{
+  "id": "11-016-014",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 16,
+  "verse_reference": "1 Kings 16:34",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which man rebuilt Jericho at the cost of his firstborn and youngest sons, as the LORD had spoken through Joshua?",
+  "options": [
+    "Shemer",
+    "Arza",
+    "Hiel of Bethel",
+    "Tibni"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Hiel",
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    },
+    {
+      "name": "Bethel",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Ahab's time Hiel of Bethel rebuilt Jericho, losing his firstborn Abiram and youngest son Segub, in keeping with the word of the LORD through Joshua son of Nun."
+}

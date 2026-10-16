@@ -1,0 +1,35 @@
+{
+  "id": "19-126-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 126,
+  "verse_reference": "Psalm 126:4",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "The psalmist asked the LORD to restore their fortunes like streams in which region?",
+  "options": [
+    "Galilee",
+    "Gilead",
+    "Bashan",
+    "The Negev"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Negev",
+      "type": "desert"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He prayed, \"Restore our fortunes, LORD, like streams in the Negev.\""
+}

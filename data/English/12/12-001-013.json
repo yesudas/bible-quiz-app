@@ -1,0 +1,33 @@
+{
+  "id": "12-001-013",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 1,
+  "verse_reference": "2 Kings 1:10-12",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened to the first two captains and their men?",
+  "options": [
+    "They were struck blind",
+    "Fire came down from heaven and consumed them",
+    "The ground opened and swallowed them",
+    "They were chased away by lions"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Miracles"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elijah said, 'If I am a man of God, may fire come down from heaven,' and fire fell and consumed both captains and their men."
+}

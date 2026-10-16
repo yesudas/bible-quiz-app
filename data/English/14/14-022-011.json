@@ -1,0 +1,36 @@
+{
+  "id": "14-022-011",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 22,
+  "verse_reference": "2 Chronicles 22:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Athaliah do when she saw that her son Ahaziah was dead?",
+  "options": [
+    "She fled to Egypt",
+    "She mourned for forty days",
+    "She made Joash king",
+    "She destroyed the whole royal family of Judah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Athaliah"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Athaliah saw that her son was dead, she proceeded to destroy the whole royal family of the house of Judah."
+}

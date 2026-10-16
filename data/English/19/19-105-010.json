@@ -1,0 +1,36 @@
+{
+  "id": "19-105-010",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 105,
+  "verse_reference": "Psalm 105:29",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did God turn the waters of Egypt into?",
+  "options": [
+    "Wine",
+    "Ice",
+    "Milk",
+    "Blood"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God turned their waters into blood, causing their fish to die."
+}

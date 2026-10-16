@@ -1,0 +1,39 @@
+{
+  "id": "12-011-007",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 11,
+  "verse_reference": "2 Kings 11:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jehoiada put on Joash when he brought him out?",
+  "options": [
+    "The crown",
+    "A priest's robe",
+    "Elijah's cloak",
+    "A golden belt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Covenant"
+  ],
+  "characters": [
+    "Jehoiada",
+    "Joash"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoiada brought out the king's son, put the crown on him and presented him with a copy of the covenant."
+}

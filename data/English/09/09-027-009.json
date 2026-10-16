@@ -1,0 +1,36 @@
+{
+  "id": "09-027-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 27,
+  "verse_reference": "1 Samuel 27:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When Achish asked where David had raided, what did David tell him?",
+  "options": [
+    "The truth, that he raided the Amalekites",
+    "Places in the south of Judah and its allies",
+    "That he had not gone out at all",
+    "The land of Moab"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "David",
+    "Achish"
+  ],
+  "places": [
+    {
+      "name": "Negev of Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Achish asked where he had raided, David would say, \"Against the Negev of Judah,\" or against other southern regions connected with Israel."
+}

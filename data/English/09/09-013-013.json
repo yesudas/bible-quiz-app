@@ -1,0 +1,33 @@
+{
+  "id": "09-013-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 13,
+  "verse_reference": "1 Samuel 13:22",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "On the day of battle, who were the only Israelites with a sword or spear?",
+  "options": [
+    "Saul and Jonathan",
+    "Saul and Samuel",
+    "Jonathan and Abner",
+    "David and Jonathan"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul",
+    "Jonathan"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On the day of the battle, not a soldier with Saul and Jonathan had a sword or spear in his hand; only Saul and his son Jonathan had them."
+}

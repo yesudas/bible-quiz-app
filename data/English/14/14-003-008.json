@@ -1,0 +1,35 @@
+{
+  "id": "14-003-008",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 3,
+  "verse_reference": "2 Chronicles 3:8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How much fine gold was used to overlay the inside of the Most Holy Place?",
+  "options": [
+    "Sixty talents",
+    "One hundred talents",
+    "Six hundred talents",
+    "Six thousand talents"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Most Holy Place",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Most Holy Place was twenty cubits long and wide, and Solomon overlaid its inside with six hundred talents of fine gold."
+}

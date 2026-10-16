@@ -1,0 +1,31 @@
+{
+  "id": "18-007-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 7,
+  "verse_reference": "Job 7:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Job's question to God: \"Am I the sea, or the ____ of the deep, that you put me under guard?\"",
+  "options": [
+    "whale",
+    "storm",
+    "monster",
+    "fish"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job asked, 'Am I the sea, or the monster of the deep, that you put me under guard?' He felt God was watching him too closely."
+}

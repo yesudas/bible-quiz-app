@@ -1,0 +1,35 @@
+{
+  "id": "20-008-007",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 8,
+  "verse_reference": "Proverbs 8:29",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 8:29, what did God give to the sea?",
+  "options": [
+    "Fish",
+    "Its boundary",
+    "Its salt",
+    "Storms"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 8:29 says God gave the sea its boundary so the waters would not overstep His command."
+}

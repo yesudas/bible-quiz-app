@@ -1,0 +1,35 @@
+{
+  "id": "06-008-007",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 8,
+  "verse_reference": "Joshua 8:19-20",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the men of Ai see when they looked back at their city?",
+  "options": [
+    "Their gates had closed",
+    "The walls had fallen",
+    "Smoke rising from the city",
+    "A flood covering it"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Victory"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ai",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The ambush set the city on fire, and the men of Ai looked back and saw smoke rising into the sky."
+}

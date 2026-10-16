@@ -1,0 +1,32 @@
+{
+  "id": "23-022-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 22,
+  "verse_reference": "Isaiah 22:22",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What would the LORD place on Eliakim's shoulder?",
+  "options": [
+    "A royal robe",
+    "A golden chain",
+    "The key to the house of David",
+    "The scroll of the law"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Prophecy"
+  ],
+  "characters": [
+    "Eliakim",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 22:22 says, 'I will place on his shoulder the key to the house of David; what he opens no one can shut, and what he shuts no one can open.'"
+}

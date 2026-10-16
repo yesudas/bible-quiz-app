@@ -1,0 +1,31 @@
+{
+  "id": "06-007-002",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 7,
+  "verse_reference": "Joshua 7:1",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which tribe was Achan from?",
+  "options": [
+    "Benjamin",
+    "Ephraim",
+    "Judah",
+    "Reuben"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Achan"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua 7:1 says Achan son of Karmi was of the tribe of Judah."
+}

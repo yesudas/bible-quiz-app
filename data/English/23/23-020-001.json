@@ -1,0 +1,39 @@
+{
+  "id": "23-020-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 20,
+  "verse_reference": "Isaiah 20:1",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which king of Assyria sent the supreme commander who captured Ashdod?",
+  "options": [
+    "Sennacherib",
+    "Tiglath-Pileser",
+    "Esarhaddon",
+    "Sargon"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Sargon"
+  ],
+  "places": [
+    {
+      "name": "Ashdod",
+      "type": "city"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 20:1 says the supreme commander was sent by Sargon king of Assyria, and he attacked and captured Ashdod."
+}

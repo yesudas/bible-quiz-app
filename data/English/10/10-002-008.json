@@ -1,0 +1,31 @@
+{
+  "id": "10-002-008",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 2,
+  "verse_reference": "2 Samuel 2:10",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How old was Ish-Bosheth when he became king, and how long did he reign?",
+  "options": [
+    "30 years old; seven years",
+    "40 years old; seven years",
+    "25 years old; four years",
+    "40 years old; two years"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Ish-Bosheth"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ish-Bosheth son of Saul was forty years old when he became king over Israel, and he reigned two years."
+}

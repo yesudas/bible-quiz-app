@@ -1,0 +1,38 @@
+{
+  "id": "14-034-006",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 34,
+  "verse_reference": "2 Chronicles 34:14",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Hilkiah the priest find in the temple?",
+  "options": [
+    "A golden crown",
+    "The ark of the covenant",
+    "A hidden treasure",
+    "The Book of the Law of the LORD given through Moses"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Hilkiah",
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While they were bringing out the money, Hilkiah found the Book of the Law of the LORD that had been given through Moses."
+}

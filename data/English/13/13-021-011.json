@@ -1,0 +1,40 @@
+{
+  "id": "13-021-011",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 21,
+  "verse_reference": "1 Chronicles 21:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the angel tell Gad that David must build on Araunah's threshing floor?",
+  "options": [
+    "A tower",
+    "A palace",
+    "A house for the ark",
+    "An altar to the LORD"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Obedience"
+  ],
+  "characters": [
+    "Gad",
+    "David",
+    "Araunah"
+  ],
+  "places": [
+    {
+      "name": "threshing floor of Araunah",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel ordered Gad to tell David to go up and build an altar to the LORD on the threshing floor of Araunah."
+}

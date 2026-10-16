@@ -1,0 +1,31 @@
+{
+  "id": "20-022-001",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 22,
+  "verse_reference": "Proverbs 22:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"A good ______ is more desirable than great riches.\"",
+  "options": [
+    "name",
+    "house",
+    "horse",
+    "field"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Money"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 22:1 says a good name is more desirable than great riches; to be esteemed is better than silver or gold."
+}

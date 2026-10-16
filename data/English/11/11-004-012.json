@@ -1,0 +1,32 @@
+{
+  "id": "11-004-012",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 4,
+  "verse_reference": "1 Kings 4:31",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Solomon was wiser than which famous wise man, who is named as an Ezrahite?",
+  "options": [
+    "Ethan",
+    "Nathan",
+    "Asaph",
+    "Ahithophel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Solomon",
+    "Ethan"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon was wiser than anyone else, including Ethan the Ezrahite, and wiser than Heman, Kalkol and Darda."
+}

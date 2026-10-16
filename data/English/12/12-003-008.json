@@ -1,0 +1,41 @@
+{
+  "id": "12-003-008",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 3,
+  "verse_reference": "2 Kings 3:8",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "By which route did the kings decide to attack Moab?",
+  "options": [
+    "Across the Jordan at Jericho",
+    "Along the Great Sea",
+    "Through the Desert of Edom",
+    "Through the Valley of Jezreel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joram",
+    "Jehoshaphat"
+  ],
+  "places": [
+    {
+      "name": "Desert of Edom",
+      "type": "desert"
+    },
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When asked which route to take, Joram said, 'Through the Desert of Edom.'"
+}

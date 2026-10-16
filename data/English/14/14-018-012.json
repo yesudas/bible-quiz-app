@@ -1,0 +1,38 @@
+{
+  "id": "14-018-012",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 18,
+  "verse_reference": "2 Chronicles 18:25-26",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Ahab order to be done to Micaiah?",
+  "options": [
+    "Send him back to Judah",
+    "Put him in prison with only bread and water",
+    "Make him the chief prophet",
+    "Take him to the battle"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution",
+    "Prophecy"
+  ],
+  "characters": [
+    "Ahab",
+    "Micaiah"
+  ],
+  "places": [
+    {
+      "name": "Prison",
+      "type": "prison"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahab ordered Micaiah to be put in prison and given nothing but bread and water until he returned safely."
+}

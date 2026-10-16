@@ -1,0 +1,37 @@
+{
+  "id": "16-008-004",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 8,
+  "verse_reference": "Nehemiah 8:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Ezra stand on while reading the Law?",
+  "options": [
+    "The steps of the temple",
+    "A large rock",
+    "The top of the city wall",
+    "A high wooden platform built for the occasion"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Ezra"
+  ],
+  "places": [
+    {
+      "name": "Water Gate",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra the teacher of the Law stood on a high wooden platform built for the occasion."
+}

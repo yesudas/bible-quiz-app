@@ -1,0 +1,41 @@
+{
+  "id": "08-001-001",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 1,
+  "verse_reference": "Ruth 1:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What problem was in the land when Elimelek's family left Bethlehem?",
+  "options": [
+    "A war",
+    "A famine",
+    "A flood",
+    "A plague of locusts"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Elimelek"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "There was a famine in the land during the time when the judges ruled, so Elimelek's family left to find food."
+}

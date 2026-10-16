@@ -1,0 +1,37 @@
+{
+  "id": "13-008-003",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 8,
+  "verse_reference": "1 Chronicles 8:29",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Jeiel, the father of Gibeon, live?",
+  "options": [
+    "Jerusalem",
+    "Gibeah",
+    "Gibeon",
+    "Ramah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jeiel",
+    "Maakah"
+  ],
+  "places": [
+    {
+      "name": "Gibeon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 8:29 says Jeiel the father of Gibeon lived in Gibeon, and his wife's name was Maakah."
+}

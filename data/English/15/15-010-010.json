@@ -1,0 +1,32 @@
+{
+  "id": "15-010-010",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 10,
+  "verse_reference": "Ezra 10:18-19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the descendants of Jeshua son of Jozadak offer for their guilt?",
+  "options": [
+    "A bull",
+    "A ram",
+    "A lamb",
+    "A pair of doves"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Forgiveness",
+    "Worship"
+  ],
+  "characters": [
+    "Jeshua"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They pledged to send away their wives, and for their guilt they each presented a ram from the flock as a guilt offering."
+}

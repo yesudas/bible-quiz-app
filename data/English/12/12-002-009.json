@@ -1,0 +1,33 @@
+{
+  "id": "12-002-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 2,
+  "verse_reference": "2 Kings 2:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Elijah, how would Elisha know his request had been granted?",
+  "options": [
+    "If he saw Elijah when he was taken away",
+    "If he could divide the Jordan by himself",
+    "If the prophets bowed to him",
+    "If fire came down from heaven"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Faith"
+  ],
+  "characters": [
+    "Elijah",
+    "Elisha"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elijah said it was a difficult request, but if Elisha saw him when he was taken, it would be his."
+}

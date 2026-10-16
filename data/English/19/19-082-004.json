@@ -1,0 +1,33 @@
+{
+  "id": "19-082-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 82,
+  "verse_reference": "Psalm 82:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Rise up, O God, judge the earth, for all the ____ are your inheritance.\"",
+  "options": [
+    "kings",
+    "people",
+    "lands",
+    "nations"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph ends by asking God to judge the earth, because all the nations belong to Him."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "05-024-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 24,
+  "verse_reference": "Deuteronomy 24:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was it forbidden to take a pair of millstones as security for a debt?",
+  "options": [
+    "Because they were too heavy to carry",
+    "Because they belonged to the priests",
+    "Because that would take away the person's means of making a living",
+    "Because they were used in worship"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mercy",
+    "Money",
+    "Justice"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Taking millstones as a pledge was forbidden because grinding grain was how a family made its food, so it would be taking their livelihood as security."
+}

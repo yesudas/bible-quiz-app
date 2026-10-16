@@ -1,0 +1,35 @@
+{
+  "id": "19-013-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 13,
+  "verse_reference": "Psalm 13:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"But I trust in your ____ love; my heart rejoices in your salvation.\"",
+  "options": [
+    "great",
+    "eternal",
+    "gentle",
+    "unfailing"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Love",
+    "Salvation"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 13:5 says, \"But I trust in your unfailing love; my heart rejoices in your salvation.\""
+}

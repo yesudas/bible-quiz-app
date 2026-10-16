@@ -1,0 +1,32 @@
+{
+  "id": "06-017-002",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 17,
+  "verse_reference": "Joshua 17:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Zelophehad had no sons. What children did he have?",
+  "options": [
+    "Only daughters",
+    "Twin sons",
+    "Adopted sons",
+    "No children at all"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Zelophehad"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zelophehad son of Hepher had no sons but only daughters."
+}

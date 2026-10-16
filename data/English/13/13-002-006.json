@@ -1,0 +1,34 @@
+{
+  "id": "13-002-006",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 2,
+  "verse_reference": "1 Chronicles 2:12",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "Which order is correct, from grandfather to grandson?",
+  "options": [
+    "Boaz, Obed, Jesse",
+    "Jesse, Obed, Boaz",
+    "Obed, Boaz, Jesse",
+    "Boaz, Jesse, Obed"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Boaz",
+    "Obed",
+    "Jesse"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Boaz was the father of Obed, and Obed was the father of Jesse."
+}

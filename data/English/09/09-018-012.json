@@ -1,0 +1,34 @@
+{
+  "id": "09-018-012",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 18,
+  "verse_reference": "1 Samuel 18:20",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which daughter of Saul was in love with David?",
+  "options": [
+    "Michal",
+    "Merab",
+    "Ahinoam",
+    "Abigail"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Marriage"
+  ],
+  "characters": [
+    "Michal",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul's daughter Michal was in love with David, and when Saul was told about it, he was pleased."
+}

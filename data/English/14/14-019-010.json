@@ -1,0 +1,36 @@
+{
+  "id": "14-019-010",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 19,
+  "verse_reference": "2 Chronicles 19:11",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was put in charge of any matter concerning the king?",
+  "options": [
+    "Amariah the chief priest",
+    "Jehu the seer",
+    "Zebadiah son of Ishmael",
+    "Amasiah son of Zikri"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Leadership"
+  ],
+  "characters": [
+    "Zebadiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zebadiah son of Ishmael, the leader of the tribe of Judah, would be over them in any matter concerning the king."
+}

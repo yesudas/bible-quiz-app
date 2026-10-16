@@ -1,0 +1,35 @@
+{
+  "id": "19-106-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 106,
+  "verse_reference": "Psalm 106:7",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the Israelites rebel, after forgetting God's many kindnesses in Egypt?",
+  "options": [
+    "At the Jordan River",
+    "By the Red Sea",
+    "At Mount Carmel",
+    "In Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Red Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people did not remember God's many kindnesses, and they rebelled by the sea, the Red Sea."
+}

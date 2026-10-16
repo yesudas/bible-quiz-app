@@ -1,0 +1,38 @@
+{
+  "id": "14-008-010",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 8,
+  "verse_reference": "2 Chronicles 8:12-13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Whose commands did Solomon follow for the offerings on Sabbaths, New Moons and festivals?",
+  "options": [
+    "David's",
+    "Moses'",
+    "Samuel's",
+    "Aaron's"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [
+    "Solomon",
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon sacrificed burnt offerings according to the daily requirement for offerings commanded by Moses."
+}

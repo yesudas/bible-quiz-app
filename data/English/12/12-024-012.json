@@ -1,0 +1,39 @@
+{
+  "id": "12-024-012",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 24,
+  "verse_reference": "2 Kings 24:17",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who did Nebuchadnezzar make king in place of Jehoiachin?",
+  "options": [
+    "Mattaniah, Jehoiachin's uncle",
+    "Jehoahaz, his brother",
+    "Eliakim, his cousin",
+    "Gedaliah, his son"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Zedekiah",
+    "Jehoiachin",
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nebuchadnezzar made Mattaniah, Jehoiachin's uncle, king in his place."
+}

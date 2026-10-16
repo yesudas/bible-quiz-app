@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Desert-of-Judah",
+    "label": "Desert of Judah",
+    "count": 2,
+    "paths": [
+        "English/07/07-001-011.json",
+        "English/19/19-063-001.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

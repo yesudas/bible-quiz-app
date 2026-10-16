@@ -1,0 +1,32 @@
+{
+  "id": "09-009-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 9,
+  "verse_reference": "1 Samuel 9:22-24",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How did Samuel honor Saul at the meal?",
+  "options": [
+    "He gave him his own robe",
+    "He seated him at the head and had a special piece of meat set before him",
+    "He washed his feet",
+    "He gave him a sword"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Samuel",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel seated Saul at the head of about thirty invited guests, and the cook set before him the thigh that had been kept for him."
+}

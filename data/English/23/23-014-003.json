@@ -1,0 +1,33 @@
+{
+  "id": "23-014-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 14,
+  "verse_reference": "Isaiah 14:8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which trees rejoiced over the fall of the king of Babylon?",
+  "options": [
+    "The olive trees of Gilead",
+    "The palm trees of Jericho",
+    "The fig trees of Judah",
+    "The junipers and the cedars of Lebanon"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Lebanon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 14:8 says the junipers and the cedars of Lebanon gloat, saying no one comes to cut them down anymore."
+}

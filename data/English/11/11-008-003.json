@@ -1,0 +1,41 @@
+{
+  "id": "11-008-003",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 8,
+  "verse_reference": "1 Kings 8:6",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did the priests place the ark of the LORD's covenant in the temple?",
+  "options": [
+    "In the inner sanctuary, the Most Holy Place, beneath the cherubim's wings",
+    "In the outer courtyard",
+    "By the bronze Sea",
+    "In the king's palace"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Covenant",
+    "Angels"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    },
+    {
+      "name": "Most Holy Place",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priests brought the ark to its place in the Most Holy Place and put it beneath the wings of the cherubim."
+}

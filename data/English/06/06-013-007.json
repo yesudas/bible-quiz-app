@@ -1,0 +1,33 @@
+{
+  "id": "06-013-007",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 13,
+  "verse_reference": "Joshua 13:33",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"To the tribe of Levi, Moses had given no inheritance; the LORD, the God of Israel, is their ____.\"",
+  "options": [
+    "king",
+    "shepherd",
+    "inheritance",
+    "strength"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Promise"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Instead of land, the Levites had the LORD Himself as their inheritance."
+}

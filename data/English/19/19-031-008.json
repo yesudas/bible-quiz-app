@@ -1,0 +1,33 @@
+{
+  "id": "19-031-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 31,
+  "verse_reference": "Psalm 31:23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 31:23, whom does the LORD preserve?",
+  "options": [
+    "Those who are rich",
+    "Those who are wise",
+    "Those who are strong",
+    "Those who are true to him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Protection",
+    "Faith"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 31:23 says, \"Love the LORD, all his faithful people! The LORD preserves those who are true to him.\""
+}

@@ -1,0 +1,37 @@
+{
+  "id": "07-011-006",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 11,
+  "verse_reference": "Judges 11:11",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Jephthah repeat all his words before the LORD after the people made him their head and commander?",
+  "options": [
+    "Shiloh",
+    "Ramah",
+    "Mizpah",
+    "Tob"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [
+    "Jephthah"
+  ],
+  "places": [
+    {
+      "name": "Mizpah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people made Jephthah head and commander, and he repeated all his words before the LORD in Mizpah."
+}

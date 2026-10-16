@@ -1,0 +1,32 @@
+{
+  "id": "23-009-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 9,
+  "verse_reference": "Isaiah 9:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: 'For to us a child is born, to us a son is given, and the ______ will be on his shoulders.'",
+  "options": [
+    "crown",
+    "burden",
+    "cross",
+    "government"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Jesus",
+    "Kingdom of God"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 9:6 says the government will be on the shoulders of the promised child."
+}

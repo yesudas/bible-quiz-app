@@ -1,0 +1,33 @@
+{
+  "id": "18-038-008",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 38,
+  "verse_reference": "Job 38:22",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "The LORD asked Job if he had entered the storehouses of what?",
+  "options": [
+    "Gold and silver",
+    "Grain and wine",
+    "The snow and the hail",
+    "The stars"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD asked, 'Have you entered the storehouses of the snow or seen the storehouses of the hail?'"
+}

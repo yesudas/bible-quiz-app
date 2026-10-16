@@ -1,0 +1,29 @@
+{
+  "id": "11-003-002",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 3,
+  "verse_reference": "1 Kings 3:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why were the people still offering sacrifices at the high places?",
+  "options": [
+    "The priests had told them to",
+    "The ark had been captured",
+    "A temple for the Name of the LORD had not yet been built",
+    "Jerusalem was too far away"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people were still sacrificing at the high places because a temple had not yet been built for the Name of the LORD."
+}

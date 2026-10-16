@@ -1,0 +1,32 @@
+{
+  "id": "19-003-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 3,
+  "verse_reference": "Psalm 3:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were many people saying about David in Psalm 3?",
+  "options": [
+    "God will not deliver him",
+    "He will soon be king again",
+    "He has many friends",
+    "He should go back home"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 3:2 says many were saying of him, \"God will not deliver him.\""
+}

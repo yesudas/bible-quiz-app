@@ -1,0 +1,33 @@
+{
+  "id": "19-029-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 29,
+  "verse_reference": "Psalm 29:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Worship the LORD in the splendor of his ____.\"",
+  "options": [
+    "power",
+    "kingdom",
+    "holiness",
+    "temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Holiness"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 29:2 says, \"Ascribe to the LORD the glory due his name; worship the LORD in the splendor of his holiness.\""
+}

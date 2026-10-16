@@ -1,0 +1,33 @@
+{
+  "id": "18-042-008",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 42,
+  "verse_reference": "Job 42:10",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When did the LORD restore Job's fortunes?",
+  "options": [
+    "As soon as Elihu finished speaking",
+    "After Job built a new altar",
+    "After Job's friends left",
+    "After Job prayed for his friends"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Job",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job 42:10 says that after Job had prayed for his friends, the LORD restored his fortunes."
+}

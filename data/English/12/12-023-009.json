@@ -1,0 +1,38 @@
+{
+  "id": "12-023-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 23,
+  "verse_reference": "2 Kings 23:21-22",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Which festival did Josiah command the people to celebrate?",
+  "options": [
+    "The Festival of Tabernacles",
+    "The Day of Atonement",
+    "The Passover",
+    "Purim"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [
+    "Josiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king commanded all the people, 'Celebrate the Passover to the LORD your God, as it is written in this Book of the Covenant.'"
+}

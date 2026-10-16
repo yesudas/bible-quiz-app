@@ -1,0 +1,32 @@
+{
+  "id": "19-084-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 84,
+  "verse_reference": "Psalm 84:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"How ____ is your dwelling place, LORD Almighty!\"",
+  "options": [
+    "lovely",
+    "great",
+    "holy",
+    "high"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Sons of Korah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm opens with delight in God's dwelling place."
+}

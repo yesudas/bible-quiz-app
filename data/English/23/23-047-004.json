@@ -1,0 +1,35 @@
+{
+  "id": "23-047-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 47,
+  "verse_reference": "Isaiah 47:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What proud words did Babylon say to herself in Isaiah 47:8?",
+  "options": [
+    "'I will serve the LORD.'",
+    "'I am, and there is none besides me.'",
+    "'I am small and weak.'",
+    "'I will help the poor.'"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Pride",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 47:8 says Babylon lounged in security, saying to herself, 'I am, and there is none besides me.'"
+}

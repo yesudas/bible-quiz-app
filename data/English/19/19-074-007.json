@@ -1,0 +1,32 @@
+{
+  "id": "19-074-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 74,
+  "verse_reference": "Psalm 74:17",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to Psalm 74:17, which two seasons did God make?",
+  "options": [
+    "Spring and autumn",
+    "Harvest and planting",
+    "Rainy and dry",
+    "Summer and winter"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph says God set the boundaries of the earth and made both summer and winter."
+}

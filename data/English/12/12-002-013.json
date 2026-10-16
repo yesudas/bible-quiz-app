@@ -1,0 +1,39 @@
+{
+  "id": "12-002-013",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 2,
+  "verse_reference": "2 Kings 2:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Elisha struck the water with Elijah's cloak and said: \"Where now is the LORD, the God of ______?\"",
+  "options": [
+    "Elijah",
+    "Abraham",
+    "Israel",
+    "Moses"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Elisha",
+    "Elijah"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha struck the water with Elijah's cloak and asked, 'Where now is the LORD, the God of Elijah?' and the water divided."
+}

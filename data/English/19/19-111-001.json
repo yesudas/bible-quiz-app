@@ -1,0 +1,30 @@
+{
+  "id": "19-111-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 111,
+  "verse_reference": "Psalm 111:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the psalmist say he would extol the LORD?",
+  "options": [
+    "With all his heart",
+    "With a loud trumpet",
+    "With a great sacrifice",
+    "With a new song only"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist said, \"I will extol the LORD with all my heart in the council of the upright and in the assembly.\""
+}

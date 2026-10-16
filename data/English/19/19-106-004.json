@@ -1,0 +1,36 @@
+{
+  "id": "19-106-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 106,
+  "verse_reference": "Psalm 106:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What happened to Israel's enemies at the Red Sea?",
+  "options": [
+    "They became Israel's servants",
+    "They returned home",
+    "They made peace with Israel",
+    "The waters covered them and not one survived"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Red Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The waters covered their adversaries, and not one of them survived."
+}

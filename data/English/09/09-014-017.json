@@ -1,0 +1,33 @@
+{
+  "id": "09-014-017",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 14,
+  "verse_reference": "1 Samuel 14:49",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "What were the names of Saul's two daughters?",
+  "options": [
+    "Merab and Michal",
+    "Rachel and Leah",
+    "Naomi and Ruth",
+    "Abigail and Ahinoam"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Saul",
+    "Merab",
+    "Michal"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul's older daughter was Merab, and the younger was Michal."
+}

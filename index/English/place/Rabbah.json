@@ -1,0 +1,19 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Rabbah",
+    "label": "Rabbah",
+    "count": 9,
+    "paths": [
+        "English/05/05-003-003.json",
+        "English/10/10-011-001.json",
+        "English/10/10-011-002.json",
+        "English/10/10-012-017.json",
+        "English/10/10-012-018.json",
+        "English/10/10-017-013.json",
+        "English/13/13-020-001.json",
+        "English/13/13-020-002.json",
+        "English/13/13-020-003.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

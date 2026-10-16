@@ -1,0 +1,39 @@
+{
+  "id": "12-005-012",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 5,
+  "verse_reference": "2 Kings 5:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "After he was healed, Naaman said: \"Now I know that there is no God in all the world except in ______.\"",
+  "options": [
+    "Aram",
+    "Israel",
+    "Samaria",
+    "heaven"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Worship",
+    "Salvation"
+  ],
+  "characters": [
+    "Naaman"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Naaman returned to Elisha and declared that there is no God in all the world except in Israel."
+}

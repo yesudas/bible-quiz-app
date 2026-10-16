@@ -1,0 +1,33 @@
+{
+  "id": "18-042-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 42,
+  "verse_reference": "Job 42:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Job say he would do after the LORD spoke to him?",
+  "options": [
+    "Repent in dust and ashes",
+    "Leave the land of Uz",
+    "Build a new house",
+    "Argue his case again"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Repentance"
+  ],
+  "characters": [
+    "Job",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'Therefore I despise myself and repent in dust and ashes.'"
+}

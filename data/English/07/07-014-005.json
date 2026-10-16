@@ -1,0 +1,32 @@
+{
+  "id": "07-014-005",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 14,
+  "verse_reference": "Judges 14:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Whom did Samson tell about killing the lion?",
+  "options": [
+    "Only his mother",
+    "Only his father",
+    "No one — not even his father or mother",
+    "The Philistine woman"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After tearing the lion apart, Samson told neither his father nor his mother what he had done."
+}

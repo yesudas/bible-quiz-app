@@ -1,0 +1,37 @@
+{
+  "id": "07-011-015",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 11,
+  "verse_reference": "Judges 11:34",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Jephthah's daughter doing when she came out to meet him?",
+  "options": [
+    "Carrying a basket of bread",
+    "Leading a flock of sheep",
+    "Waving palm branches",
+    "Dancing to the sound of timbrels"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Worship"
+  ],
+  "characters": [
+    "Jephthah"
+  ],
+  "places": [
+    {
+      "name": "Mizpah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jephthah's daughter came out to meet him, dancing to the sound of timbrels."
+}

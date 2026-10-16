@@ -1,0 +1,33 @@
+{
+  "id": "13-027-007",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 27,
+  "verse_reference": "1 Chronicles 27:32",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which relative of David was a counselor, a man of insight and a scribe?",
+  "options": [
+    "Jonathan, David's uncle",
+    "Shimea, David's brother",
+    "Joab, David's nephew",
+    "Amasa, David's nephew"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Family"
+  ],
+  "characters": [
+    "Jonathan",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 27:32 says Jonathan, David's uncle, was a counselor, a man of insight and a scribe."
+}

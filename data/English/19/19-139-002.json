@@ -1,0 +1,32 @@
+{
+  "id": "19-139-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 139,
+  "verse_reference": "Psalm 139:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 139, what does God perceive from afar?",
+  "options": [
+    "David's thoughts",
+    "David's enemies",
+    "David's house",
+    "David's army"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"You know when I sit and when I rise; you perceive my thoughts from afar.\""
+}

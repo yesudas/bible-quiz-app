@@ -1,0 +1,38 @@
+{
+  "id": "09-013-007",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 13,
+  "verse_reference": "1 Samuel 13:10",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When did Samuel arrive at Gilgal?",
+  "options": [
+    "The next morning",
+    "After the battle",
+    "Just as Saul finished offering the burnt offering",
+    "Seven days later"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [
+    "Samuel",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Gilgal",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Just as Saul finished making the offering, Samuel arrived, and Saul went out to greet him."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "19-150-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 150,
+  "verse_reference": "Psalm 150:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 150:1, where should God be praised?",
+  "options": [
+    "In His sanctuary and His mighty heavens",
+    "Only in Jerusalem",
+    "Only at home",
+    "Only on the mountains"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sanctuary",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Praise God in his sanctuary; praise him in his mighty heavens.\""
+}

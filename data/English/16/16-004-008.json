@@ -1,0 +1,36 @@
+{
+  "id": "16-004-008",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 4,
+  "verse_reference": "Nehemiah 4:17",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did those who carried building materials work while staying ready to fight?",
+  "options": [
+    "They worked only at night",
+    "They hid swords under the stones",
+    "Soldiers carried the materials for them",
+    "They worked with one hand and held a weapon in the other"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Those who carried materials did their work with one hand and held a weapon in the other."
+}

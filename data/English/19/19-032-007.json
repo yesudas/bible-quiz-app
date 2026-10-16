@@ -1,0 +1,31 @@
+{
+  "id": "19-032-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 32,
+  "verse_reference": "Psalm 32:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 32:9, which two animals should we not be like, because they have no understanding?",
+  "options": [
+    "The lion and the bear",
+    "The ox and the donkey",
+    "The horse and the mule",
+    "The goat and the sheep"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 32:9 says, \"Do not be like the horse or the mule, which have no understanding but must be controlled by bit and bridle.\""
+}

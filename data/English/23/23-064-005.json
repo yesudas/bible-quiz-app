@@ -1,0 +1,39 @@
+{
+  "id": "23-064-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 64,
+  "verse_reference": "Isaiah 64:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What had happened to the holy and glorious temple, according to Isaiah 64:11?",
+  "options": [
+    "It had been burned with fire",
+    "It had been given to Egypt",
+    "It had been made larger",
+    "It had been covered in gold"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Suffering",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 64:11 says, 'Our holy and glorious temple, where our ancestors praised you, has been burned with fire.'"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "09-015-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 15,
+  "verse_reference": "1 Samuel 15:22",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Samuel said, \"To ___ is better than sacrifice.\"",
+  "options": [
+    "obey",
+    "pray",
+    "give",
+    "sing"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience",
+    "Worship"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel said, \"To obey is better than sacrifice, and to heed is better than the fat of rams.\""
+}

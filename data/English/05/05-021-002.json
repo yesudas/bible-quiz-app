@@ -1,0 +1,31 @@
+{
+  "id": "05-021-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 21,
+  "verse_reference": "Deuteronomy 21:3-4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What kind of animal did the elders use in the ceremony for an unsolved killing?",
+  "options": [
+    "A heifer that had never been worked or worn a yoke",
+    "A ram that had been offered before",
+    "An ox used for plowing",
+    "A goat from the flock"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Justice",
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elders took a heifer that had never been worked or worn a yoke and led it to a valley with flowing water that had never been plowed."
+}

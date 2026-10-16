@@ -1,0 +1,37 @@
+{
+  "id": "11-009-002",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 9,
+  "verse_reference": "1 Kings 9:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the LORD say He had done to the temple Solomon built?",
+  "options": [
+    "He had rejected it",
+    "He had consecrated it by putting His Name there forever",
+    "He had given it to the priests to own",
+    "He had made it bigger"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Promise"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said He had consecrated the temple by putting His Name there forever, and His eyes and heart would always be there."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "07-007-008",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 7,
+  "verse_reference": "Judges 7:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Their camels could no more be counted than the ___ on the seashore.\"",
+  "options": [
+    "stones",
+    "sand",
+    "shells",
+    "waves"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Midianites and their allies were as thick as locusts, and their camels were as many as the sand on the seashore."
+}

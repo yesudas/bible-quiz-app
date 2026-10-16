@@ -1,0 +1,36 @@
+{
+  "id": "09-029-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 29,
+  "verse_reference": "1 Samuel 29:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the Philistine commanders want David sent back?",
+  "options": [
+    "He was too young",
+    "He had too few men",
+    "He refused to fight",
+    "They feared he would turn against them during the battle"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Aphek",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The commanders were angry and said David must not go into battle, or he would turn against them during the fighting to win back his master's favor."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "12-013-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 13,
+  "verse_reference": "2 Kings 13:10",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which son of Jehoahaz became king of Israel and reigned sixteen years?",
+  "options": [
+    "Jehoash",
+    "Jeroboam",
+    "Amaziah",
+    "Jehu"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Jehoash",
+    "Jehoahaz"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoash son of Jehoahaz became king of Israel in Samaria and reigned sixteen years."
+}

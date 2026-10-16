@@ -1,0 +1,36 @@
+{
+  "id": "07-010-003",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 10,
+  "verse_reference": "Judges 10:2",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How many years did Tola lead Israel?",
+  "options": [
+    "Twenty-three",
+    "Forty",
+    "Seven",
+    "Eighteen"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Tola"
+  ],
+  "places": [
+    {
+      "name": "Shamir",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Tola led Israel twenty-three years. Then he died and was buried in Shamir."
+}

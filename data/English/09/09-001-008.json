@@ -1,0 +1,38 @@
+{
+  "id": "09-001-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 1,
+  "verse_reference": "1 Samuel 1:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In her vow, what did Hannah promise would never be used on her son's head?",
+  "options": [
+    "A razor",
+    "A crown",
+    "Oil",
+    "A helmet"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Promise"
+  ],
+  "characters": [
+    "Hannah"
+  ],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hannah vowed to give her son to the LORD for all the days of his life, and that no razor would ever be used on his head."
+}

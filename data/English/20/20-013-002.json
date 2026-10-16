@@ -1,0 +1,30 @@
+{
+  "id": "20-013-002",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 13,
+  "verse_reference": "Proverbs 13:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 13:4, whose desires are fully satisfied?",
+  "options": [
+    "The sluggard's",
+    "The rich man's",
+    "The diligent's",
+    "The king's"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 13:4 says a sluggard's appetite is never filled, but the desires of the diligent are fully satisfied."
+}

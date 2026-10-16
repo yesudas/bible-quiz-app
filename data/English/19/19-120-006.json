@@ -1,0 +1,31 @@
+{
+  "id": "19-120-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 120,
+  "verse_reference": "Psalm 120:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was the problem the psalmist had with the people he lived among?",
+  "options": [
+    "They were too poor",
+    "He was for peace, but they were for war",
+    "They would not let him sing",
+    "They worshiped in Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Peace",
+    "Persecution"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist said, \"I am for peace; but when I speak, they are for war.\""
+}

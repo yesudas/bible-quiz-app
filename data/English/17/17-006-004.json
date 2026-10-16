@@ -1,0 +1,38 @@
+{
+  "id": "17-006-004",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 6,
+  "verse_reference": "Esther 6:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why had Haman come into the palace's outer court that night?",
+  "options": [
+    "To ask for Esther's help",
+    "To speak to the king about impaling Mordecai on the pole",
+    "To report a new plot",
+    "To bring a gift to the king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution",
+    "Providence"
+  ],
+  "characters": [
+    "Haman",
+    "Mordecai"
+  ],
+  "places": [
+    {
+      "name": "Palace outer court",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Haman had just entered the outer court to speak to the king about impaling Mordecai on the pole he had set up for him."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Abdon",
+    "label": "Abdon",
+    "count": 2,
+    "paths": [
+        "English/07/07-012-010.json",
+        "English/07/07-012-011.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

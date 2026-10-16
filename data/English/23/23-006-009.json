@@ -1,0 +1,34 @@
+{
+  "id": "23-006-009",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 6,
+  "verse_reference": "Isaiah 6:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "When the Lord asked, 'Whom shall I send?', Isaiah answered: 'Here am I. ______!'",
+  "options": [
+    "Use me",
+    "Help me",
+    "Send me",
+    "Choose me"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mission",
+    "Obedience",
+    "Discipleship"
+  ],
+  "characters": [
+    "Isaiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 6:8 records Isaiah's reply: 'Here am I. Send me!'"
+}

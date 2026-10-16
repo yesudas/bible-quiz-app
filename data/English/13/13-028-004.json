@@ -1,0 +1,33 @@
+{
+  "id": "13-028-004",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 28,
+  "verse_reference": "1 Chronicles 28:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Whose throne did David say Solomon would sit on?",
+  "options": [
+    "David's own throne only",
+    "Saul's throne",
+    "The throne of Egypt",
+    "The throne of the kingdom of the LORD over Israel"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Kingdom of God",
+    "Leadership"
+  ],
+  "characters": [
+    "David",
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said the LORD had chosen Solomon to sit on the throne of the kingdom of the LORD over Israel."
+}

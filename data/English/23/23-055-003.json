@@ -1,0 +1,31 @@
+{
+  "id": "23-055-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 55,
+  "verse_reference": "Isaiah 55:3",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "In Isaiah 55:3, God's everlasting covenant is linked to the faithful love He promised to whom?",
+  "options": [
+    "Moses",
+    "Abraham",
+    "Noah",
+    "David"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Love"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 55:3 says, 'I will make an everlasting covenant with you, my faithful love promised to David.'"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "06-009-013",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 9,
+  "verse_reference": "Joshua 9:24-25",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "The Gibeonites said to Joshua, \"We are now in your hands. Do to us whatever seems ____ and right to you.\"",
+  "options": [
+    "fair",
+    "wise",
+    "holy",
+    "good"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Gibeon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Gibeonites admitted they feared for their lives and placed themselves in Joshua's hands to do what seemed good and right."
+}

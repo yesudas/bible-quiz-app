@@ -1,0 +1,17 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Jael",
+    "label": "Jael",
+    "count": 7,
+    "paths": [
+        "English/07/07-004-015.json",
+        "English/07/07-004-016.json",
+        "English/07/07-004-017.json",
+        "English/07/07-004-018.json",
+        "English/07/07-005-004.json",
+        "English/07/07-005-013.json",
+        "English/07/07-005-014.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

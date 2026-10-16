@@ -1,0 +1,34 @@
+{
+  "id": "12-003-011",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 3,
+  "verse_reference": "2 Kings 3:11",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "An officer described a prophet as the man who \"used to pour water on the hands of Elijah.\" Who was he?",
+  "options": [
+    "Micaiah",
+    "Gehazi",
+    "Obadiah",
+    "Elisha"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Discipleship",
+    "Prophecy"
+  ],
+  "characters": [
+    "Elisha",
+    "Elijah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The officer said Elisha son of Shaphat was there, the one who used to pour water on the hands of Elijah."
+}

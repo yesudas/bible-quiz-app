@@ -1,0 +1,32 @@
+{
+  "id": "23-009-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 9,
+  "verse_reference": "Isaiah 9:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: 'The people walking in darkness have seen a great ______.'",
+  "options": [
+    "light",
+    "king",
+    "city",
+    "sign"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 9:2 says the people walking in darkness have seen a great light."
+}

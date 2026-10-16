@@ -1,0 +1,32 @@
+{
+  "id": "18-014-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 14,
+  "verse_reference": "Job 14:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Job 14:2, Job said people spring up and wither away like what?",
+  "options": [
+    "Trees",
+    "Grass",
+    "Rivers",
+    "Flowers"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said people spring up like flowers and wither away; like fleeting shadows, they do not endure."
+}

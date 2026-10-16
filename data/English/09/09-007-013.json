@@ -1,0 +1,44 @@
+{
+  "id": "09-007-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 7,
+  "verse_reference": "1 Samuel 7:16",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Samuel went on a yearly circuit to judge Israel at Bethel, Gilgal and which other place?",
+  "options": [
+    "Shiloh",
+    "Mizpah",
+    "Hebron",
+    "Beersheba"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "town"
+    },
+    {
+      "name": "Gilgal",
+      "type": "town"
+    },
+    {
+      "name": "Mizpah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "From year to year Samuel went on a circuit from Bethel to Gilgal to Mizpah, judging Israel in all those places."
+}

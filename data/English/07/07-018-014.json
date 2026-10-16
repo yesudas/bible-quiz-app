@@ -1,0 +1,39 @@
+{
+  "id": "07-018-014",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 18,
+  "verse_reference": "Judges 18:29",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "What new name did the Danites give to the city of Laish?",
+  "options": [
+    "Dan",
+    "Zorah",
+    "Eshtaol",
+    "Shiloh"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promised Land"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Dan",
+      "type": "city"
+    },
+    {
+      "name": "Laish",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Danites rebuilt the city and named it Dan after their ancestor Dan, though it used to be called Laish."
+}

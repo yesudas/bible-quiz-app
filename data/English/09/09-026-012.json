@@ -1,0 +1,33 @@
+{
+  "id": "09-026-012",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 26,
+  "verse_reference": "1 Samuel 26:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Saul admit after David spared his life again?",
+  "options": [
+    "\"I have sinned… Surely I have acted like a fool.\"",
+    "\"You tricked me.\"",
+    "\"Abner is to blame.\"",
+    "\"I will never forgive you.\""
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Repentance",
+    "Sin"
+  ],
+  "characters": [
+    "Saul",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul said, \"I have sinned. Come back, David my son… Surely I have acted like a fool and have been terribly wrong.\""
+}

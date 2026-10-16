@@ -1,0 +1,37 @@
+{
+  "id": "07-009-013",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 9,
+  "verse_reference": "Judges 9:26",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who moved into Shechem and won the trust of its citizens against Abimelek?",
+  "options": [
+    "Gaal son of Ebed",
+    "Zebul",
+    "Jotham",
+    "Purah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Gaal",
+    "Abimelek"
+  ],
+  "places": [
+    {
+      "name": "Shechem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gaal son of Ebed moved into Shechem with his clan, and its citizens put their confidence in him."
+}

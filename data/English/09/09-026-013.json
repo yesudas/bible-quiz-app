@@ -1,0 +1,32 @@
+{
+  "id": "09-026-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 26,
+  "verse_reference": "1 Samuel 26:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did David tell Saul to send someone to get?",
+  "options": [
+    "Saul's water jug",
+    "The king's spear",
+    "Saul's robe",
+    "David's sword"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mercy"
+  ],
+  "characters": [
+    "David",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David answered, \"Here is the king's spear. Let one of your young men come over and get it.\""
+}

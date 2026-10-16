@@ -1,0 +1,35 @@
+{
+  "id": "06-022-005",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 22,
+  "verse_reference": "Joshua 22:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the rest of Israel first react when they heard about the altar?",
+  "options": [
+    "They praised the eastern tribes",
+    "They sent them gifts",
+    "They gathered at Shiloh to go to war against them",
+    "They built an altar too"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The whole assembly of Israel gathered at Shiloh to go to war against the eastern tribes."
+}

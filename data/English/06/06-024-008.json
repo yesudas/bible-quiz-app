@@ -1,0 +1,38 @@
+{
+  "id": "06-024-008",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 24,
+  "verse_reference": "Joshua 24:16-18",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did the people answer Joshua's challenge?",
+  "options": [
+    "They chose the gods of Egypt",
+    "They asked for more time",
+    "They chose the gods of the Amorites",
+    "They said they too would serve the LORD"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Worship"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Shechem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people said, \"Far be it from us to forsake the LORD!... We too will serve the LORD, because he is our God.\""
+}

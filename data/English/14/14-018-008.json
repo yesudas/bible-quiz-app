@@ -1,0 +1,33 @@
+{
+  "id": "14-018-008",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 18,
+  "verse_reference": "2 Chronicles 18:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Micaiah's words: \"As surely as the LORD lives, I can tell him only what my ______ says.\"",
+  "options": [
+    "king",
+    "God",
+    "heart",
+    "master"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Faith"
+  ],
+  "characters": [
+    "Micaiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micaiah told the messenger he could speak only what his God said, even when others urged him to agree."
+}

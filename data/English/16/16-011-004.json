@@ -1,0 +1,40 @@
+{
+  "id": "16-011-004",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 11,
+  "verse_reference": "Nehemiah 11:22-23",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "The Levite Uzzi was chief officer in Jerusalem. From whose descendants did he come, the musicians responsible for the service of the house of God?",
+  "options": [
+    "Korah",
+    "Aaron",
+    "Levi's son Gershon",
+    "Asaph"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Uzzi",
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "House of God",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Uzzi was one of Asaph's descendants, who were the musicians responsible for the service of the house of God."
+}

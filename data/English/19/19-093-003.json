@@ -1,0 +1,34 @@
+{
+  "id": "19-093-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 93,
+  "verse_reference": "Psalm 93:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 93:5, what adorns God's house for endless days?",
+  "options": [
+    "Holiness",
+    "Gold",
+    "Music",
+    "Light"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "God's house",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm says God's statutes stand firm, and holiness adorns His house for endless days."
+}

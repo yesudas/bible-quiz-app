@@ -1,0 +1,33 @@
+{
+  "id": "07-004-018",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 4,
+  "verse_reference": "Judges 4:17",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Jael was the wife of which man?",
+  "options": [
+    "Hobab",
+    "Lappidoth",
+    "Abinoam",
+    "Heber the Kenite"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jael",
+    "Heber"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jael was the wife of Heber the Kenite."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "06-008-011",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 8,
+  "verse_reference": "Joshua 8:31",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was special about the altar Joshua built?",
+  "options": [
+    "It was made of uncut stones with no iron tool used",
+    "It was covered with gold",
+    "It was built from the stones of Jericho",
+    "It was made of bronze"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Law",
+    "Obedience"
+  ],
+  "characters": [
+    "Joshua",
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Mount Ebal",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua built the altar of uncut stones on which no iron tool had been used, just as Moses had commanded."
+}

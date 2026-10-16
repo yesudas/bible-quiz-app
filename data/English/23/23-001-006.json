@@ -1,0 +1,40 @@
+{
+  "id": "23-001-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 1,
+  "verse_reference": "Isaiah 1:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "If the LORD had not left some survivors, Judah would have become like which cities?",
+  "options": [
+    "Nineveh and Babylon",
+    "Tyre and Sidon",
+    "Sodom and Gomorrah",
+    "Samaria and Bethel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mercy",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sodom",
+      "type": "city"
+    },
+    {
+      "name": "Gomorrah",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah said that without the survivors the LORD left, they would have been destroyed like Sodom and Gomorrah."
+}

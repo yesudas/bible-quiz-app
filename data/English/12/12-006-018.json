@@ -1,0 +1,36 @@
+{
+  "id": "12-006-018",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 6,
+  "verse_reference": "2 Kings 6:32",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was sitting with Elisha in his house when the king's messenger was coming?",
+  "options": [
+    "The elders",
+    "The company of the prophets",
+    "Gehazi and his family",
+    "The Shunammite woman"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha was sitting in his house, and the elders were sitting with him."
+}

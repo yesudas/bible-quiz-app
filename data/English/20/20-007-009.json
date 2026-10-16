@@ -1,0 +1,35 @@
+{
+  "id": "20-007-009",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 7,
+  "verse_reference": "Proverbs 7:27",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 7:27, the woman's house is a highway to where?",
+  "options": [
+    "The palace",
+    "The market",
+    "The temple",
+    "The grave"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House of the adulterous woman",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 7:27 says her house is a highway to the grave, leading down to the chambers of death."
+}

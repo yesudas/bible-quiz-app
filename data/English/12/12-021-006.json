@@ -1,0 +1,31 @@
+{
+  "id": "12-021-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 21,
+  "verse_reference": "2 Kings 21:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which of these evil practices did Manasseh take part in?",
+  "options": [
+    "He refused to pay taxes",
+    "He destroyed the Asherah poles",
+    "He banned all sacrifices",
+    "He practised divination and consulted mediums and spiritists"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Idolatry"
+  ],
+  "characters": [
+    "Manasseh"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Manasseh practised divination, sought omens, and consulted mediums and spiritists, doing much evil in the eyes of the LORD."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "14-035-006",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 35,
+  "verse_reference": "2 Chronicles 35:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Josiah's Passover compare with earlier Passovers?",
+  "options": [
+    "It was smaller than Hezekiah's",
+    "None had been observed like it since the days of the prophet Samuel",
+    "It was the first Passover ever",
+    "It was the same as every year"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Josiah",
+    "Samuel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Passover had not been observed like this in Israel since the days of the prophet Samuel, and no king of Israel had celebrated such a Passover."
+}

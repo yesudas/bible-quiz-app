@@ -1,0 +1,37 @@
+{
+  "id": "23-037-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 37,
+  "verse_reference": "Isaiah 37:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When Hezekiah heard the field commander's words, what did he put on before going into the temple?",
+  "options": [
+    "His royal robe",
+    "Armor",
+    "Sackcloth",
+    "A crown"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Prayer"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 37:1 says King Hezekiah tore his clothes, put on sackcloth and went into the temple of the LORD."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "05-011-001",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 11,
+  "verse_reference": "Deuteronomy 11:2-4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What act of God against Egypt's army did Moses remind Israel they had seen?",
+  "options": [
+    "He sent fire from the sky",
+    "He turned their weapons to dust",
+    "He swept Pharaoh's army into the Red Sea as they pursued Israel",
+    "He blinded the whole army"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Salvation",
+    "Judgment"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Red Sea",
+      "type": "sea"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses reminded Israel how the Lord overwhelmed Pharaoh's army, horses, and chariots with the waters of the Red Sea as they chased Israel."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "12-011-002",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 11,
+  "verse_reference": "2 Kings 11:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who rescued the young prince Joash and hid him from Athaliah?",
+  "options": [
+    "The Shunammite woman",
+    "Jehosheba",
+    "Athaliah's servant",
+    "Jehoiada's wife"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Courage"
+  ],
+  "characters": [
+    "Jehosheba",
+    "Joash",
+    "Athaliah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehosheba, daughter of King Jehoram and sister of Ahaziah, took Joash and stole him away from the royal princes who were about to be killed."
+}

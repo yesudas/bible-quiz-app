@@ -1,0 +1,40 @@
+{
+  "id": "05-003-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 3,
+  "verse_reference": "Deuteronomy 3:4-5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many cities did Israel take from Og in the region of Argob?",
+  "options": [
+    "Twelve",
+    "Sixty",
+    "Thirty",
+    "One hundred"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Og"
+  ],
+  "places": [
+    {
+      "name": "Argob",
+      "type": "region"
+    },
+    {
+      "name": "Bashan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel captured all sixty cities of the region of Argob, Og's kingdom in Bashan, which were fortified with high walls and gates."
+}

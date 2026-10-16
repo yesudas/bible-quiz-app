@@ -1,0 +1,32 @@
+{
+  "id": "09-012-005",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 12,
+  "verse_reference": "1 Samuel 12:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What made the people ask for a king, even though the LORD was their king?",
+  "options": [
+    "Samuel had died",
+    "The Philistines took the ark",
+    "They saw Nahash king of the Ammonites moving against them",
+    "Saul asked to be king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Nahash"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel said that when they saw Nahash moving against them, they said, \"No, we want a king to rule over us,\" even though the LORD was their king."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "09-028-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 28,
+  "verse_reference": "1 Samuel 28:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Samuel say would happen the next day?",
+  "options": [
+    "Saul would defeat the Philistines",
+    "David would become king that day",
+    "Saul and his sons would be with Samuel, and Israel's army would be given to the Philistines",
+    "Saul would be taken captive"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Samuel",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel said the LORD would deliver Israel and Saul into the hands of the Philistines, and tomorrow Saul and his sons would be with him."
+}

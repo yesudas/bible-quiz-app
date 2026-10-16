@@ -1,0 +1,37 @@
+{
+  "id": "19-077-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 77,
+  "verse_reference": "Psalm 77:19",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 77:19, God's path led through what, though His footprints were not seen?",
+  "options": [
+    "The desert",
+    "The mountains",
+    "The forest",
+    "The sea"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Salvation"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "The sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph says God's path led through the sea and His way through the mighty waters, though His footprints were not seen."
+}

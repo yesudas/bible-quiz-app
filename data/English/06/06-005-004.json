@@ -1,0 +1,36 @@
+{
+  "id": "06-005-004",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 5,
+  "verse_reference": "Joshua 5:6",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How many years had the Israelites moved about in the wilderness?",
+  "options": [
+    "Forty years",
+    "Twelve years",
+    "Seven years",
+    "Four hundred years"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites moved about in the wilderness for forty years until the men who disobeyed the LORD had died."
+}

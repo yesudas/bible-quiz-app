@@ -1,0 +1,33 @@
+{
+  "id": "11-002-010",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 2,
+  "verse_reference": "1 Kings 2:25",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did King Solomon send to put Adonijah to death?",
+  "options": [
+    "Zadok the priest",
+    "Nathan the prophet",
+    "Joab son of Zeruiah",
+    "Benaiah son of Jehoiada"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon",
+    "Benaiah",
+    "Adonijah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "King Solomon gave orders to Benaiah son of Jehoiada, and he struck down Adonijah."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "07-010-013",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 10,
+  "verse_reference": "Judges 10:17",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "When the Ammonites camped in Gilead, where did the Israelites gather and camp?",
+  "options": [
+    "Shiloh",
+    "Gilgal",
+    "Mizpah",
+    "Bethel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mizpah",
+      "type": "town"
+    },
+    {
+      "name": "Gilead",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Ammonites camped in Gilead, and the Israelites assembled and camped at Mizpah."
+}

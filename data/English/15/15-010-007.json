@@ -1,0 +1,33 @@
+{
+  "id": "15-010-007",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 10,
+  "verse_reference": "Ezra 10:12",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did the whole assembly answer Ezra when he told them to confess and separate themselves?",
+  "options": [
+    "They refused to listen",
+    "They asked for more time to think",
+    "They said, \"You are right! We must do as you say.\"",
+    "They went back to their towns"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Obedience"
+  ],
+  "characters": [
+    "Ezra"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The whole assembly responded with a loud voice: \"You are right! We must do as you say.\""
+}

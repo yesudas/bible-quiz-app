@@ -1,0 +1,31 @@
+{
+  "id": "14-018-013",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 18,
+  "verse_reference": "2 Chronicles 18:27",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Micaiah's reply: \"If you ever return safely, the LORD has not ______ through me.\"",
+  "options": [
+    "worked",
+    "come",
+    "spoken",
+    "walked"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Micaiah",
+    "Ahab"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micaiah declared, \"If you ever return safely, the LORD has not spoken through me.\""
+}

@@ -77,18 +77,25 @@ The **Share Quiz** button (next to Start Quiz) generates a short signed link lik
   - **Link expires after** a chosen duration (5 minutes up to 30 days — minutes, hours, or days). Opening the link after it expires shows an error instead of starting the quiz, with a link back to the home page to start a fresh quiz.
   - **Allow only one attempt per visitor** (only available once an expiry is set) — the first time a given browser opens the link it's let through and remembered with a cookie; opening the same link again from that browser shows the same "already attempted" error. This is a lightweight, cookie-based limit meant for informal competitions — it isn't a hard security control, since clearing cookies or switching browsers resets it.
 
-## Embedding a quiz on another site
+## Embedding on another site
 
-The **Embed Quiz** button (next to Share Quiz) copies a ready-to-paste `<iframe>` snippet, e.g.:
+Two buttons next to Share Quiz copy a ready-to-paste `<iframe>` snippet, depending on whether you want visitors to pick their own quiz or jump straight into the one you've already configured on the form:
 
-```html
-<iframe src="https://wordofgod.in/bible-quiz/embed.php?lang=English" width="100%" height="1100" style="border:0;max-width:600px;" loading="lazy" title="Bible Quiz"></iframe>
-```
+- **Embed App** → points at `embed.php`, a standalone, header/footer/menu-free page containing the full quiz setup form (minus Share Quiz — only Start Quiz) and the read-only Top 10 leaderboard widget:
+  ```html
+  <iframe src="https://wordofgod.in/bible-quiz/embed.php?lang=English" width="100%" height="1100" style="border:0;max-width:600px;" loading="lazy" title="Bible Quiz"></iframe>
+  ```
+  No server round trip or signed token is needed — the iframe just points at `embed.php` with the currently selected language, and visitors pick their own quiz type/book/topic/etc. from there.
+- **Embed Quiz** → points at `embed-quiz.php` with the *exact* selection currently on the setup form (type, book/chapter/topic/character/place, difficulty, set size, timer), skipping the setup form entirely:
+  ```html
+  <iframe src="https://wordofgod.in/bible-quiz/embed-quiz.php?lang=English&type=chapter&set_size=10&books%5B%5D=01&chapters%5B%5D=01-001" width="100%" height="1100" style="border:0;max-width:600px;" loading="lazy" title="Bible Quiz"></iframe>
+  ```
+  `embed-quiz.php` re-validates and sanitizes those query params the same way `quiz.php` does (unrecognized ones, like the Settings-for-Competitions fields, are dropped — they only ever applied to Share Quiz) and 302-redirects straight into `quiz.php?...&embed=1`, so the visitor never sees a setup screen at all.
 
-- `embed.php` is a standalone, header/footer/menu-free page containing just the quiz setup form (minus Share Quiz — only Start Quiz) and the read-only Top 10 leaderboard widget, styled to drop straight into an iframe on any third-party site. Picking a quiz and clicking **Start Quiz** keeps the visitor inside the same bare-chrome experience all the way through — the whole quiz-taking flow (`quiz.php`) and the full leaderboard (`leaderboard.php`) stay header/footer-free too, via a hidden `embed=1` flag that `embed.php`'s form carries forward and that every "Change quiz"/"Back to home"/leaderboard link threads along so the visitor is never bounced out of the iframe into the full site.
-- Unlike Share Quiz, no server round trip or signed token is needed — the iframe just points at `embed.php` with the currently selected language, and visitors pick their own quiz type/book/topic/etc. from there.
-- Every `embed.php` view counts toward the regular visitor counter (same as any other page) *and* its own separate counter, stored in `counters/embeds.txt` via `includes/embed-counter.php` (`quizIncrementEmbedCount()` / `quizReadEmbedCounts()`, same locked single-counter pattern as `counters/shares.txt`). `counter.php` increments it whenever the current script is `embed.php`; the footer's "Embeds: N" (next to "Shares: N") reads it on every page via `renderQuizFooter()`'s globals.
-- Finishing a quiz set inside the embedded iframe reports to the site's quiz-activity stats (`counters/quizzes-completed.txt`, `counters/questions-answered.txt`, `counters/questions-by-book.txt`) exactly the same way as a non-embedded visit, since it's the same `quiz.php` + `assets/js/quiz.js` + `api/stats.php` flow — no embed-specific wiring needed there.
+Either way, once inside the embed, the whole quiz-taking flow (`quiz.php`) and the full leaderboard (`leaderboard.php`) stay header/footer-free — a hidden `embed=1` flag threads through every "Change quiz"/"Back to home"/leaderboard link so the visitor is never bounced out of the iframe into the full site.
+
+- Every `embed.php` or `embed-quiz.php` view counts toward the regular visitor counter (same as any other page) *and* its own separate counter, stored in `counters/embeds.txt` via `includes/embed-counter.php` (`quizIncrementEmbedCount()` / `quizReadEmbedCounts()`, same locked single-counter pattern as `counters/shares.txt`). `counter.php` increments it whenever the current script is `embed.php` or `embed-quiz.php`; the footer's "Embeds: N" (next to "Shares: N") reads it on every page via `renderQuizFooter()`'s globals.
+- Finishing a quiz set inside either embed reports to the site's quiz-activity stats (`counters/quizzes-completed.txt`, `counters/questions-answered.txt`, `counters/questions-by-book.txt`) exactly the same way as a non-embedded visit, since it's the same `quiz.php` + `assets/js/quiz.js` + `api/stats.php` flow — no embed-specific wiring needed there.
 
 ## Leaderboard
 

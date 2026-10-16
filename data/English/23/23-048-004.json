@@ -1,0 +1,30 @@
+{
+  "id": "23-048-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 48,
+  "verse_reference": "Isaiah 48:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'If only you had paid attention to my commands, your peace would have been like a ______.'",
+  "options": [
+    "mountain",
+    "garden",
+    "fortress",
+    "river"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Obedience",
+    "Peace"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 48:18 says, 'If only you had paid attention to my commands, your peace would have been like a river, your well-being like the waves of the sea.'"
+}

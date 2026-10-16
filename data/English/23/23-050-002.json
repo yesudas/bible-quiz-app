@@ -1,0 +1,30 @@
+{
+  "id": "23-050-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 50,
+  "verse_reference": "Isaiah 50:4",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "According to Isaiah 50:4, how often does the LORD wake His servant to listen?",
+  "options": [
+    "Once a year",
+    "Every Sabbath",
+    "Morning by morning",
+    "Only at night"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 50:4 says, 'He wakens me morning by morning, wakens my ear to listen like one being instructed.'"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "10-007-005",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 7,
+  "verse_reference": "2 Samuel 7:8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "From where did the LORD say He took David to make him ruler over Israel?",
+  "options": [
+    "From the army camp",
+    "From the palace of Saul",
+    "From the pasture, tending the flock",
+    "From the house of the priest"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Promise"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "The pasture",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, \"I took you from the pasture, from tending the flock, and appointed you ruler over my people Israel.\""
+}

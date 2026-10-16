@@ -1,0 +1,35 @@
+{
+  "id": "12-025-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 25,
+  "verse_reference": "2 Kings 25:8",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which commander of the imperial guard came to Jerusalem to destroy it?",
+  "options": [
+    "Nebuzaradan",
+    "Gedaliah",
+    "Ishmael",
+    "Awel-Marduk"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Nebuzaradan"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nebuzaradan commander of the imperial guard, an official of the king of Babylon, came to Jerusalem."
+}

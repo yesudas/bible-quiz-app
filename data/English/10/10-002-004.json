@@ -1,0 +1,38 @@
+{
+  "id": "10-002-004",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 2,
+  "verse_reference": "2 Samuel 2:4",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the men of Judah do for David at Hebron?",
+  "options": [
+    "They built him a palace",
+    "They made him commander of the army",
+    "They gave him Saul's sword",
+    "They anointed him king over the tribe of Judah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Covenant"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The men of Judah came to Hebron and anointed David king over the tribe of Judah."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "19-124-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 124,
+  "verse_reference": "Psalm 124:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 124, what would have engulfed Israel without the LORD?",
+  "options": [
+    "A fire",
+    "A famine",
+    "The flood",
+    "A plague"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Without the LORD, the flood would have engulfed them and the torrent would have swept over them."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "23-016-008",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 16,
+  "verse_reference": "Isaiah 16:14",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "Within how many years would Moab's splendor be despised?",
+  "options": [
+    "One year",
+    "Seven years",
+    "Three years",
+    "Forty years"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 16:14 says, 'Within three years, as a servant bound by contract would count them, Moab's splendor... will be despised.'"
+}

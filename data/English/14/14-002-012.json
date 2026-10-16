@@ -1,0 +1,44 @@
+{
+  "id": "14-002-012",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 2,
+  "verse_reference": "2 Chronicles 2:16",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "To which place would Hiram float the logs by sea in rafts?",
+  "options": [
+    "Joppa",
+    "Tyre",
+    "Gaza",
+    "Ashkelon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Hiram"
+  ],
+  "places": [
+    {
+      "name": "Joppa",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Mediterranean Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hiram said he would float the logs by sea in rafts to Joppa, and Solomon could take them up to Jerusalem."
+}

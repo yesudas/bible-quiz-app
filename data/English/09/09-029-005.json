@@ -1,0 +1,38 @@
+{
+  "id": "09-029-005",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 29,
+  "verse_reference": "1 Samuel 29:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "The commanders asked, \"Isn't this the David they sang about… 'Saul has slain his thousands, and David his ___'?\"",
+  "options": [
+    "tens of thousands",
+    "hundreds",
+    "enemies",
+    "giants"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Aphek",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Philistine commanders remembered the song: \"Saul has slain his thousands, and David his tens of thousands.\""
+}

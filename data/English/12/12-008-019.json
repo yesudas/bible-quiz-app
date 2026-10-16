@@ -1,0 +1,41 @@
+{
+  "id": "12-008-019",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 8,
+  "verse_reference": "2 Kings 8:28-29",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did King Joram of Israel go to recover from wounds he received at Ramoth Gilead?",
+  "options": [
+    "Samaria",
+    "Jezreel",
+    "Jerusalem",
+    "Bethel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Joram",
+    "Ahaziah",
+    "Hazael"
+  ],
+  "places": [
+    {
+      "name": "Ramoth Gilead",
+      "type": "city"
+    },
+    {
+      "name": "Jezreel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joram was wounded fighting Hazael at Ramoth Gilead and returned to Jezreel to recover, where Ahaziah went to see him."
+}

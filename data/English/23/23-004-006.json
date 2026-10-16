@@ -1,0 +1,36 @@
+{
+  "id": "23-004-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 4,
+  "verse_reference": "Isaiah 4:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "What would the LORD's covering over Zion be for His people?",
+  "options": [
+    "A wall against enemies",
+    "A place to store food",
+    "A tower for watchmen",
+    "A shelter and shade from the heat, and a refuge from the storm and rain"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 4:6 says it will be a shelter and shade from the heat of the day and a refuge and hiding place from the storm and rain."
+}

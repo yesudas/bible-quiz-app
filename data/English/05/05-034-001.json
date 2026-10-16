@@ -1,0 +1,46 @@
+{
+  "id": "05-034-001",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 34,
+  "verse_reference": "Deuteronomy 34:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Which mountain did Moses climb to view the promised land?",
+  "options": [
+    "Mount Nebo",
+    "Mount Sinai",
+    "Mount Ebal",
+    "Mount Hor"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Mount Nebo",
+      "type": "mountain"
+    },
+    {
+      "name": "Pisgah",
+      "type": "mountain"
+    },
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses climbed Mount Nebo to the top of Pisgah, across from Jericho, and the Lord showed him the whole land."
+}

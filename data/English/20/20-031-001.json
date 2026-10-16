@@ -1,0 +1,33 @@
+{
+  "id": "20-031-001",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 31,
+  "verse_reference": "Proverbs 31:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 31:1, who taught King Lemuel these sayings?",
+  "options": [
+    "His father",
+    "His mother",
+    "A prophet",
+    "His teacher"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Wisdom"
+  ],
+  "characters": [
+    "Lemuel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 31:1 says these are the sayings of King Lemuel, an inspired utterance his mother taught him."
+}

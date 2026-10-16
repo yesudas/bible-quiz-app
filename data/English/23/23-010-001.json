@@ -1,0 +1,30 @@
+{
+  "id": "23-010-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 10,
+  "verse_reference": "Isaiah 10:1-2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who were the people that unjust lawmakers made their prey, according to Isaiah 10:2?",
+  "options": [
+    "Priests",
+    "Soldiers",
+    "Widows",
+    "Merchants"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Justice",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 10:2 says the unjust lawmakers deprived the poor of their rights, made widows their prey and robbed the fatherless."
+}

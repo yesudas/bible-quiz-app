@@ -1,0 +1,34 @@
+{
+  "id": "12-020-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 20,
+  "verse_reference": "2 Kings 20:6",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How many years did the LORD add to Hezekiah's life?",
+  "options": [
+    "Ten years",
+    "Seven years",
+    "Twenty years",
+    "Fifteen years"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Promise",
+    "Miracles"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, 'I will add fifteen years to your life.'"
+}

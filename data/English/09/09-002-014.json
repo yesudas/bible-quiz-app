@@ -1,0 +1,33 @@
+{
+  "id": "09-002-014",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 2,
+  "verse_reference": "1 Samuel 2:30",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The LORD said, \"Those who honor me I will ___.\"",
+  "options": [
+    "bless",
+    "save",
+    "honor",
+    "reward"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Eli"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, \"Those who honor me I will honor, but those who despise me will be disdained.\""
+}

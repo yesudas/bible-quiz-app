@@ -1,0 +1,34 @@
+{
+  "id": "13-024-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 24,
+  "verse_reference": "1 Chronicles 24:3",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two priests helped David separate the priests into divisions?",
+  "options": [
+    "Eli and Samuel",
+    "Zadok and Ahimelek",
+    "Abiathar and Nathan",
+    "Hilkiah and Jehoiada"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Priesthood",
+    "Leadership"
+  ],
+  "characters": [
+    "Zadok",
+    "Ahimelek",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "With the help of Zadok, a descendant of Eleazar, and Ahimelek, a descendant of Ithamar, David separated the priests into divisions."
+}

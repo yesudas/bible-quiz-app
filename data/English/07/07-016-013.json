@@ -1,0 +1,32 @@
+{
+  "id": "07-016-013",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 16,
+  "verse_reference": "Judges 16:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"But he did not know that the ___ had left him.\"",
+  "options": [
+    "Philistines",
+    "servants",
+    "guards",
+    "LORD"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samson woke up thinking he would shake himself free as before, but he did not know that the LORD had left him."
+}

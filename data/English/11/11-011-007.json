@@ -1,0 +1,33 @@
+{
+  "id": "11-011-007",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 11,
+  "verse_reference": "1 Kings 11:11-12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did God say He would not tear the kingdom away during Solomon's lifetime?",
+  "options": [
+    "For the sake of David, Solomon's father",
+    "Because Solomon repented",
+    "Because Hiram asked Him not to",
+    "Because the temple was finished"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Promise"
+  ],
+  "characters": [
+    "Solomon",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would not do it in Solomon's lifetime for the sake of David his father, but would tear it out of the hand of Solomon's son."
+}

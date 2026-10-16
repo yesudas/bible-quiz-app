@@ -1,0 +1,39 @@
+{
+  "id": "14-014-009",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 14,
+  "verse_reference": "2 Chronicles 14:10",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In which valley did Asa take up battle positions?",
+  "options": [
+    "Valley of Elah",
+    "Valley of Zephathah",
+    "Valley of Jezreel",
+    "Valley of Aijalon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Asa"
+  ],
+  "places": [
+    {
+      "name": "Valley of Zephathah",
+      "type": "valley"
+    },
+    {
+      "name": "Mareshah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asa went out to meet Zerah and took up battle positions in the Valley of Zephathah near Mareshah."
+}

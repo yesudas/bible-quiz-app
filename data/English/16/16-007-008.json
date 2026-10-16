@@ -1,0 +1,29 @@
+{
+  "id": "16-007-008",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 7,
+  "verse_reference": "Nehemiah 7:65",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "The governor told these priests not to eat the most sacred food until a priest was ministering with what?",
+  "options": [
+    "The ark of the covenant",
+    "The golden lampstand",
+    "The bronze altar",
+    "The Urim and Thummim"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The governor ordered them not to eat any of the most sacred food until there was a priest ministering with the Urim and Thummim."
+}

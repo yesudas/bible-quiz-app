@@ -1,0 +1,30 @@
+{
+  "id": "19-146-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 146,
+  "verse_reference": "Psalm 146:9",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which group is NOT named in Psalm 146:9 as those the LORD watches over or sustains?",
+  "options": [
+    "The foreigner",
+    "The rich",
+    "The fatherless",
+    "The widow"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Justice"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD watches over the foreigner and sustains the fatherless and the widow. The rich are not mentioned."
+}

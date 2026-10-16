@@ -1,0 +1,34 @@
+{
+  "id": "19-016-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 16,
+  "verse_reference": "Psalm 16:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"I say to the LORD, 'You are my Lord; apart from you I have no ____ thing.'\"",
+  "options": [
+    "good",
+    "other",
+    "great",
+    "holy"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Worship"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 16:2 says, \"I say to the LORD, 'You are my Lord; apart from you I have no good thing.'\""
+}

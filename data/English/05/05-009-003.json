@@ -1,0 +1,38 @@
+{
+  "id": "05-009-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 9,
+  "verse_reference": "Deuteronomy 9:4-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Moses say was NOT the reason God was giving Israel the land?",
+  "options": [
+    "Because of Israel's own righteousness",
+    "Because of the wickedness of the nations",
+    "Because of the oath to their ancestors",
+    "Because God is faithful"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Canaan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses stressed that Israel was not given the land because of their own righteousness, but because of the wickedness of the nations and God's oath to Abraham, Isaac, and Jacob."
+}

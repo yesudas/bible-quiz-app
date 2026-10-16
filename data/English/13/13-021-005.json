@@ -1,0 +1,33 @@
+{
+  "id": "13-021-005",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 21,
+  "verse_reference": "1 Chronicles 21:9",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which seer did the LORD use to give David three choices of punishment?",
+  "options": [
+    "Nathan",
+    "Samuel",
+    "Gad",
+    "Asaph"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Gad",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said to Gad, David's seer, to go and give David three options."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "15-009-008",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 9,
+  "verse_reference": "Ezra 9:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Ezra say God had not done, even though the people were slaves?",
+  "options": [
+    "Given them a land",
+    "Sent them prophets",
+    "Heard their prayers",
+    "Forsaken them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Hope",
+    "Love"
+  ],
+  "characters": [
+    "Ezra"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra said, \"Though we are slaves, our God has not forsaken us in our bondage.\""
+}

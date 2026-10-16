@@ -1,0 +1,36 @@
+{
+  "id": "07-009-016",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 9,
+  "verse_reference": "Judges 9:45",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After Abimelek captured Shechem and destroyed it, what did he scatter over it?",
+  "options": [
+    "Ashes",
+    "Seeds",
+    "Stones",
+    "Salt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Abimelek"
+  ],
+  "places": [
+    {
+      "name": "Shechem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abimelek attacked Shechem all day, captured it, killed its people, destroyed the city and scattered salt over it."
+}

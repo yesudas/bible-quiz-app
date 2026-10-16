@@ -1,0 +1,32 @@
+{
+  "id": "12-002-011",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 2,
+  "verse_reference": "2 Kings 2:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "As Elijah went up, Elisha cried out: \"My father! My father! The chariots and ______ of Israel!\"",
+  "options": [
+    "soldiers",
+    "kings",
+    "horsemen",
+    "prophets"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Elisha",
+    "Elijah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha saw Elijah taken up and cried out, 'My father! My father! The chariots and horsemen of Israel!'"
+}

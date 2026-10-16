@@ -1,0 +1,32 @@
+{
+  "id": "19-004-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 4,
+  "verse_reference": "Psalm 4 (title)",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to its title, Psalm 4 was to be played with what kind of instruments?",
+  "options": [
+    "Trumpets",
+    "Stringed instruments",
+    "Cymbals",
+    "Flutes"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Music"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title of Psalm 4 says it is for the director of music, with stringed instruments, and is a psalm of David."
+}

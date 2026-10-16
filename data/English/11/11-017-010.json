@@ -1,0 +1,33 @@
+{
+  "id": "11-017-010",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 17,
+  "verse_reference": "1 Kings 17:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Elijah said to the widow, \"Don't be ______. Go home and do as you have said.\"",
+  "options": [
+    "afraid",
+    "sad",
+    "angry",
+    "tired"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Elijah",
+    "Widow of Zarephath"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elijah said, \"Don't be afraid,\" and asked her first to make a small loaf of bread for him from what she had."
+}

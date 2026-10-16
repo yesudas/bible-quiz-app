@@ -1,0 +1,33 @@
+{
+  "id": "19-032-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 32,
+  "verse_reference": "Psalm 32:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 32:4, David says his strength was sapped as in the heat of what?",
+  "options": [
+    "A fire",
+    "The desert",
+    "Summer",
+    "Battle"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Suffering"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 32:4 says, \"For day and night your hand was heavy on me; my strength was sapped as in the heat of summer.\""
+}

@@ -1,0 +1,37 @@
+{
+  "id": "23-030-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 30,
+  "verse_reference": "Isaiah 30:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the LORD call His people 'obstinate children' in Isaiah 30?",
+  "options": [
+    "They went down to Egypt for help without asking Him",
+    "They refused to plant crops",
+    "They built too many houses",
+    "They traveled to Babylon to trade"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Sin"
+  ],
+  "characters": [
+    "Pharaoh"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 30:1-2 says they went down to Egypt without consulting the LORD, looking for help from Pharaoh's protection."
+}

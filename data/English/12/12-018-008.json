@@ -1,0 +1,41 @@
+{
+  "id": "12-018-008",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 18,
+  "verse_reference": "2 Kings 18:14-16",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Hezekiah strip from the doors of the temple to pay Sennacherib?",
+  "options": [
+    "Bronze",
+    "Silver",
+    "Gold",
+    "Cedar wood"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Worship"
+  ],
+  "characters": [
+    "Hezekiah",
+    "Sennacherib"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    },
+    {
+      "name": "Lachish",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hezekiah gave all the silver found in the temple and treasuries and stripped off the gold that covered the doors and doorposts of the temple."
+}

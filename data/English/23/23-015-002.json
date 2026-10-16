@@ -1,0 +1,41 @@
+{
+  "id": "23-015-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 15,
+  "verse_reference": "Isaiah 15:1",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How quickly were Ar and Kir in Moab destroyed?",
+  "options": [
+    "Over seven days",
+    "In a single night",
+    "Over forty days",
+    "In one year"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    },
+    {
+      "name": "Ar",
+      "type": "city"
+    },
+    {
+      "name": "Kir",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 15:1 says both Ar and Kir in Moab were ruined, destroyed in a night."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "18-001-007",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 1,
+  "verse_reference": "Job 1:6",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who came with the angels when they presented themselves before the LORD?",
+  "options": [
+    "Michael",
+    "Gabriel",
+    "Satan",
+    "Elijah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Satan",
+    "Angels"
+  ],
+  "characters": [
+    "Satan"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the angels came before the LORD, Satan also came with them."
+}

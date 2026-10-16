@@ -1,0 +1,32 @@
+{
+  "id": "19-103-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 103,
+  "verse_reference": "Psalm 103:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Psalm 103 says God's love for those who fear Him is as great as what?",
+  "options": [
+    "As deep as the sea",
+    "As wide as the desert",
+    "As high as the heavens are above the earth",
+    "As long as the river Jordan"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As high as the heavens are above the earth, so great is God's love for those who fear Him."
+}

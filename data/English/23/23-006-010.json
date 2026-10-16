@@ -1,0 +1,31 @@
+{
+  "id": "23-006-010",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 6,
+  "verse_reference": "Isaiah 6:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "When Isaiah asked, 'For how long, Lord?', what was the answer?",
+  "options": [
+    "Until the cities lie ruined and the land is utterly forsaken",
+    "Until the temple is rebuilt",
+    "Until a new king is born",
+    "Until forty years have passed"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Isaiah"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 6:11 says it would be until the cities lie ruined and without inhabitant, and the fields are ruined and ravaged."
+}

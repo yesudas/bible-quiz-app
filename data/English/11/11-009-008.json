@@ -1,0 +1,48 @@
+{
+  "id": "11-009-008",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 9,
+  "verse_reference": "1 Kings 9:15",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Besides Jerusalem, which of these cities did Solomon build using forced labor?",
+  "options": [
+    "Babylon",
+    "Nineveh",
+    "Damascus",
+    "Megiddo"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Hazor",
+      "type": "city"
+    },
+    {
+      "name": "Megiddo",
+      "type": "city"
+    },
+    {
+      "name": "Gezer",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon used forced labor to build the LORD's temple, his palace, the wall of Jerusalem, and Hazor, Megiddo and Gezer."
+}

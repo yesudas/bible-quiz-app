@@ -1,0 +1,37 @@
+{
+  "id": "23-056-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 56,
+  "verse_reference": "Isaiah 56:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: 'For my house will be called a house of ______ for all nations.'",
+  "options": [
+    "praise",
+    "worship",
+    "peace",
+    "prayer"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Mission",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 56:7 says, 'For my house will be called a house of prayer for all nations.'"
+}

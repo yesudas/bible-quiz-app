@@ -1,0 +1,31 @@
+{
+  "id": "19-024-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 24,
+  "verse_reference": "Psalm 24:2",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 24:2, on what did the LORD found the earth?",
+  "options": [
+    "On the mountains",
+    "On the seas",
+    "On pillars of stone",
+    "On the clouds"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 24:2 says, \"For he founded it on the seas and established it on the waters.\""
+}

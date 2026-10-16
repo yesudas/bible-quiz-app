@@ -1,0 +1,35 @@
+{
+  "id": "11-002-014",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 2,
+  "verse_reference": "1 Kings 2:35",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whom did Solomon put in charge of the army in Joab's place, and whom did he put in Abiathar's place?",
+  "options": [
+    "Benaiah over the army and Zadok as priest",
+    "Zadok over the army and Benaiah as priest",
+    "Nathan over the army and Zadok as priest",
+    "Benaiah over the army and Nathan as priest"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon",
+    "Benaiah",
+    "Zadok",
+    "Joab",
+    "Abiathar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon put Benaiah son of Jehoiada over the army in Joab's place and replaced Abiathar with Zadok the priest."
+}

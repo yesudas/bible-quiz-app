@@ -1,0 +1,29 @@
+{
+  "id": "19-107-010",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 107,
+  "verse_reference": "Psalm 107:27",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What does Psalm 107 say the sailors were like during the storm?",
+  "options": [
+    "Like sheep without a shepherd",
+    "Like children afraid of the dark",
+    "Like drunkards who reeled and staggered",
+    "Like birds caught in a trap"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The sailors reeled and staggered like drunkards; they were at their wits' end."
+}

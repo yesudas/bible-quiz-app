@@ -1,0 +1,35 @@
+{
+  "id": "15-004-008",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 4,
+  "verse_reference": "Ezra 4:15,19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the king say the search of the records showed about Jerusalem?",
+  "options": [
+    "It had always paid its taxes",
+    "It had been built by Cyrus",
+    "It had never had a king",
+    "It had a long history of revolt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Artaxerxes"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king ordered a search, and it was found that the city had a long history of revolt against kings."
+}

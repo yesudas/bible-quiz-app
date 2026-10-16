@@ -1,0 +1,39 @@
+{
+  "id": "14-030-003",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 30,
+  "verse_reference": "2 Chronicles 30:5",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "From where to where did they send the proclamation throughout Israel?",
+  "options": [
+    "From Jericho to Samaria",
+    "From Egypt to Assyria",
+    "From Jerusalem to Bethel",
+    "From Beersheba to Dan"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Beersheba",
+      "type": "town"
+    },
+    {
+      "name": "Dan",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They decided to send a proclamation throughout Israel, from Beersheba to Dan, calling the people to come to Jerusalem."
+}

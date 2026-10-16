@@ -1,0 +1,33 @@
+{
+  "id": "19-060-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 60,
+  "verse_reference": "Psalm 60:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"With ____ we will gain the victory, and he will trample down our enemies.\"",
+  "options": [
+    "God",
+    "swords",
+    "horses",
+    "kings"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David declares that victory comes with God, who will trample down the enemies."
+}

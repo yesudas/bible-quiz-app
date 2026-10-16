@@ -1,0 +1,37 @@
+{
+  "id": "12-010-011",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 10,
+  "verse_reference": "2 Kings 10:28",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What false worship did Jehu destroy in Israel?",
+  "options": [
+    "The worship of the LORD",
+    "The worship of Dagon",
+    "The worship of Molek",
+    "The worship of Baal"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Idolatry"
+  ],
+  "characters": [
+    "Jehu"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Bible says Jehu destroyed Baal worship in Israel."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "12-022-008",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 22,
+  "verse_reference": "2 Kings 22:8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What important book was found in the temple during Josiah's reign?",
+  "options": [
+    "The Book of Psalms",
+    "The Book of Kings",
+    "The Book of the Law",
+    "The Book of Isaiah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Hilkiah",
+    "Josiah"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While the temple was being repaired, the Book of the Law was found."
+}

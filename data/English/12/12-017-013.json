@@ -1,0 +1,35 @@
+{
+  "id": "12-017-013",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 17,
+  "verse_reference": "2 Kings 17:25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the LORD send among the new settlers because they did not worship Him?",
+  "options": [
+    "Lions",
+    "Bears",
+    "Locusts",
+    "Snakes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they first lived there, they did not worship the LORD, so He sent lions among them."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "14-032-013",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 32,
+  "verse_reference": "2 Chronicles 32:30",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Hezekiah block and channel down to the west side of the City of David?",
+  "options": [
+    "The Jordan River",
+    "The upper outlet of the Gihon spring",
+    "The Pool of Siloam",
+    "The Kidron brook"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Wisdom"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "City of David",
+      "type": "city"
+    },
+    {
+      "name": "Gihon spring",
+      "type": "well"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hezekiah blocked the upper outlet of the Gihon spring and channeled the water down to the west side of the City of David."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "19-072-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 72,
+  "verse_reference": "Psalm 72:12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 72:12, whom will the king deliver when they cry out?",
+  "options": [
+    "The rich",
+    "The needy",
+    "The soldiers",
+    "The priests"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Love"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king will deliver the needy who cry out and the afflicted who have no one to help."
+}

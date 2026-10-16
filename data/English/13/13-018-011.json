@@ -1,0 +1,33 @@
+{
+  "id": "13-018-011",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 18,
+  "verse_reference": "1 Chronicles 18:15",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who was over David's army?",
+  "options": [
+    "Benaiah",
+    "Abner",
+    "Abishai",
+    "Joab son of Zeruiah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joab",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 18:15 says Joab son of Zeruiah was over the army."
+}

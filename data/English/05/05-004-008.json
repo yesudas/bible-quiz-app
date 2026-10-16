@@ -1,0 +1,32 @@
+{
+  "id": "05-004-008",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 4,
+  "verse_reference": "Deuteronomy 4:19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Moses warned the people not to bow down to and worship which things in the sky?",
+  "options": [
+    "Clouds and rain",
+    "Birds flying overhead",
+    "The sun, moon, and stars",
+    "Lightning and thunder"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses warned Israel not to be enticed into worshiping the sun, moon, and stars, which God had given to all the nations."
+}

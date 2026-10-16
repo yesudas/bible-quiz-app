@@ -1,0 +1,40 @@
+{
+  "id": "06-011-012",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 11,
+  "verse_reference": "Joshua 11:21",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which people did Joshua destroy from the hill country of Hebron and Debir?",
+  "options": [
+    "The Philistines",
+    "The Moabites",
+    "The Edomites",
+    "The Anakites"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Victory"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    },
+    {
+      "name": "Debir",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua destroyed the Anakites from the hill country, from Hebron, Debir, Anab and all the hill country."
+}

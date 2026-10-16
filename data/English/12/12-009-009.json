@@ -1,0 +1,39 @@
+{
+  "id": "12-009-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 9,
+  "verse_reference": "2 Kings 9:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When Joram asked, \"Have you come in peace?\", what did Jehu say stopped peace?",
+  "options": [
+    "The idolatry and witchcraft of Jezebel",
+    "The war with Aram",
+    "The famine in Samaria",
+    "Joram's harsh taxes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Idolatry",
+    "Sin"
+  ],
+  "characters": [
+    "Jehu",
+    "Joram",
+    "Jezebel"
+  ],
+  "places": [
+    {
+      "name": "Jezreel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehu said there could be no peace while all the idolatry and witchcraft of Joram's mother Jezebel abounded."
+}

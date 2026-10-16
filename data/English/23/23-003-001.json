@@ -1,0 +1,39 @@
+{
+  "id": "23-003-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 3,
+  "verse_reference": "Isaiah 3:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What supplies did the LORD say He would take away from Jerusalem and Judah?",
+  "options": [
+    "Gold and silver",
+    "Food and water",
+    "Horses and chariots",
+    "Wool and linen"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 3:1 says the LORD would take away all supplies of food and all supplies of water from Jerusalem and Judah."
+}

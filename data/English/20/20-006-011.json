@@ -1,0 +1,30 @@
+{
+  "id": "20-006-011",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 6,
+  "verse_reference": "Proverbs 6:30-31",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Proverbs 6:31, if a thief is caught, how much must he pay back?",
+  "options": [
+    "Twice",
+    "Fourfold",
+    "Sevenfold",
+    "Tenfold"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 6:31 says that if a thief is caught, he must pay sevenfold, even if it costs all the wealth of his house."
+}

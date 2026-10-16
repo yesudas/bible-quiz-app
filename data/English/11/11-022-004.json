@@ -1,0 +1,36 @@
+{
+  "id": "11-022-004",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 22,
+  "verse_reference": "1 Kings 22:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "About how many prophets told the king of Israel to go and attack Ramoth Gilead?",
+  "options": [
+    "Seven",
+    "Seventy",
+    "Four hundred and fifty",
+    "About four hundred"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Ahab"
+  ],
+  "places": [
+    {
+      "name": "Ramoth Gilead",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king of Israel brought together the prophets, about four hundred men, and they said, \"Go, for the Lord will give it into the king's hand.\""
+}

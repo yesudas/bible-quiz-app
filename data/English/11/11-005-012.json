@@ -1,0 +1,36 @@
+{
+  "id": "11-005-012",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 5,
+  "verse_reference": "1 Kings 5:14",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was in charge of the forced labor sent to Lebanon?",
+  "options": [
+    "Benaiah",
+    "Adoniram",
+    "Zadok",
+    "Jehoshaphat"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Adoniram"
+  ],
+  "places": [
+    {
+      "name": "Lebanon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Adoniram was in charge of the forced labor that Solomon sent to Lebanon."
+}

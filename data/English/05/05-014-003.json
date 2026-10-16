@@ -1,0 +1,29 @@
+{
+  "id": "05-014-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 14,
+  "verse_reference": "Deuteronomy 14:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which animal was declared unclean because it has a split hoof but does not chew the cud?",
+  "options": [
+    "The ox",
+    "The sheep",
+    "The pig",
+    "The deer"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The pig was unclean because, although it has a split hoof, it does not chew the cud, so Israel was not to eat it."
+}

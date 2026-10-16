@@ -1,0 +1,38 @@
+{
+  "id": "16-013-007",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 13,
+  "verse_reference": "Nehemiah 13:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Nehemiah's rebuke in 13:11: \"Why is the house of God ______?\"",
+  "options": [
+    "closed",
+    "empty",
+    "neglected",
+    "dirty"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Nehemiah"
+  ],
+  "places": [
+    {
+      "name": "House of God",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah rebuked the officials and asked, \"Why is the house of God neglected?\" Then he called the Levites back to their posts."
+}

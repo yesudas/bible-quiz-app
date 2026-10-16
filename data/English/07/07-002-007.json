@@ -1,0 +1,44 @@
+{
+  "id": "07-002-007",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 2,
+  "verse_reference": "Judges 2:9",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where was Joshua buried?",
+  "options": [
+    "Shiloh",
+    "Gilgal",
+    "Shechem",
+    "Timnath Heres"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Timnath Heres",
+      "type": "town"
+    },
+    {
+      "name": "Hill country of Ephraim",
+      "type": "region"
+    },
+    {
+      "name": "Mount Gaash",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua was buried in the land of his inheritance at Timnath Heres, in the hill country of Ephraim, north of Mount Gaash."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "22-002-008",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 2,
+  "verse_reference": "Song of Songs 2:14",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "The beloved calls the woman \"my dove\" in which place?",
+  "options": [
+    "In the cedars of Lebanon",
+    "In the vineyards of En Gedi",
+    "Beside the pools of Heshbon",
+    "In the clefts of the rock"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 2:14 speaks of \"my dove in the clefts of the rock.\""
+}

@@ -1,0 +1,38 @@
+{
+  "id": "16-002-004",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 2,
+  "verse_reference": "Nehemiah 2:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Nehemiah ask the king to let him do?",
+  "options": [
+    "Take his family to Babylon",
+    "Go to Judah and rebuild the city",
+    "Become governor of Egypt",
+    "Bring back the temple treasures"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Nehemiah",
+    "Artaxerxes"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah asked the king to send him to the city in Judah where his ancestors were buried so that he could rebuild it."
+}

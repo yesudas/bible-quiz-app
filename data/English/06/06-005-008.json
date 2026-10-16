@@ -1,0 +1,35 @@
+{
+  "id": "06-005-008",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 5,
+  "verse_reference": "Joshua 5:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Israelites eat the day after the Passover?",
+  "options": [
+    "Unleavened bread and roasted grain from the land",
+    "Manna and quail",
+    "Figs and grapes",
+    "Fish from the Jordan"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Canaan",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The day after the Passover they ate some of the produce of the land: unleavened bread and roasted grain."
+}

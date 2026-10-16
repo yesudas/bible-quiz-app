@@ -1,0 +1,32 @@
+{
+  "id": "06-006-015",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 6,
+  "verse_reference": "Joshua 6:27",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What spread throughout the land at the end of this chapter?",
+  "options": [
+    "Joshua's fame",
+    "A great sickness",
+    "The Book of the Law",
+    "News of Rahab's wealth"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD was with Joshua, and his fame spread throughout the land."
+}

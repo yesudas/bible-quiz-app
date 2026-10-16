@@ -1,0 +1,38 @@
+{
+  "id": "12-016-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 16,
+  "verse_reference": "2 Kings 16:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Ahaz sent messengers to the king of Assyria to say: \"I am your servant and vassal. Come up and ______ me.\"",
+  "options": [
+    "help",
+    "protect",
+    "save",
+    "defend"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Faith"
+  ],
+  "characters": [
+    "Ahaz",
+    "Tiglath-Pileser"
+  ],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Instead of trusting the LORD, Ahaz asked Tiglath-Pileser king of Assyria to come and save him from Aram and Israel."
+}

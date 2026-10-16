@@ -1,0 +1,36 @@
+{
+  "id": "13-010-005",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 10,
+  "verse_reference": "1 Chronicles 10:10",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In the temple of which god did the Philistines hang up Saul's head?",
+  "options": [
+    "Baal",
+    "Dagon",
+    "Molek",
+    "Ashtoreth"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Idolatry"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "temple of Dagon",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Philistines put Saul's armor in the temple of their gods and hung up his head in the temple of Dagon."
+}

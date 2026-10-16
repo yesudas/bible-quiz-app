@@ -1,0 +1,30 @@
+{
+  "id": "20-021-008",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 21,
+  "verse_reference": "Proverbs 21:31",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"The horse is made ready for the day of battle, but ______ rests with the LORD.\"",
+  "options": [
+    "peace",
+    "strength",
+    "the sword",
+    "victory"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 21:31 says the horse is made ready for battle, but victory rests with the LORD."
+}

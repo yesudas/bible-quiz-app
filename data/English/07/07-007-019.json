@@ -1,0 +1,40 @@
+{
+  "id": "07-007-019",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 7,
+  "verse_reference": "Judges 7:25",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where was the Midianite leader Oreb killed?",
+  "options": [
+    "At the spring of Harod",
+    "At the hill of Moreh",
+    "At Beth Barah",
+    "At the rock of Oreb"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Oreb"
+  ],
+  "places": [
+    {
+      "name": "Rock of Oreb",
+      "type": "landmark"
+    },
+    {
+      "name": "Winepress of Zeeb",
+      "type": "landmark"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Oreb was killed at the rock of Oreb, and Zeeb was killed at the winepress of Zeeb."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "19-102-012",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 102,
+  "verse_reference": "Psalm 102:28",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to the last verse of Psalm 102, who will live in God's presence?",
+  "options": [
+    "The kings of the earth",
+    "The children of God's servants",
+    "The priests of the temple",
+    "The prisoners who were freed"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Family",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm ends with the promise that the children of God's servants will live in His presence and their descendants will be established before Him."
+}

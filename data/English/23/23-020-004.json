@@ -1,0 +1,44 @@
+{
+  "id": "23-020-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 20,
+  "verse_reference": "Isaiah 20:3-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was Isaiah going stripped and barefoot a sign of?",
+  "options": [
+    "That Judah would win a great battle",
+    "That a famine was coming",
+    "That the king of Assyria would lead Egyptian and Cushite captives away stripped and barefoot",
+    "That Isaiah had become poor"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Isaiah"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Cush",
+      "type": "country"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 20:4 says the king of Assyria would lead away the Egyptian captives and Cushite exiles stripped and barefoot, just as Isaiah had gone."
+}

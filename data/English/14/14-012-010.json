@@ -1,0 +1,37 @@
+{
+  "id": "14-012-010",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 12,
+  "verse_reference": "2 Chronicles 12:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Rehoboam make to replace the gold shields?",
+  "options": [
+    "Silver shields",
+    "Wooden shields",
+    "Bronze shields",
+    "Iron shields"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Rehoboam"
+  ],
+  "places": [
+    {
+      "name": "Royal palace",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "King Rehoboam made bronze shields to replace them and gave them to the commanders of the guard at the palace entrance."
+}

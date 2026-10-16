@@ -1,0 +1,38 @@
+{
+  "id": "07-011-008",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 11,
+  "verse_reference": "Judges 11:19-21",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "In Jephthah's message, which Amorite king did the LORD give into Israel's hands when he refused to let Israel pass?",
+  "options": [
+    "Sihon",
+    "Og",
+    "Balak",
+    "Eglon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promised Land",
+    "Salvation"
+  ],
+  "characters": [
+    "Jephthah",
+    "Sihon"
+  ],
+  "places": [
+    {
+      "name": "Jahaz",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jephthah reminded the king that Sihon king of the Amorites attacked Israel at Jahaz, and the LORD gave Sihon and his army into Israel's hands."
+}

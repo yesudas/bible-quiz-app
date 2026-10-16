@@ -1,0 +1,33 @@
+{
+  "id": "19-008-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 8,
+  "verse_reference": "Psalm 8:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 8:6, over what did God make human beings rulers?",
+  "options": [
+    "The other nations",
+    "The works of his hands",
+    "The angels",
+    "The heavens"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation",
+    "Leadership"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 8:6 says, \"You made them rulers over the works of your hands; you put everything under their feet.\""
+}

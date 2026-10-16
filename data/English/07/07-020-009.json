@@ -1,0 +1,36 @@
+{
+  "id": "07-020-009",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 20,
+  "verse_reference": "Judges 20:26",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After losing the second battle, what did all the Israelites do at Bethel?",
+  "options": [
+    "They made a new idol",
+    "They went back to their homes",
+    "They asked the Philistines for help",
+    "They wept, fasted until evening, and offered burnt offerings and fellowship offerings"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Worship",
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All Israel went up to Bethel, sat weeping before the LORD, fasted until evening, and presented burnt offerings and fellowship offerings."
+}

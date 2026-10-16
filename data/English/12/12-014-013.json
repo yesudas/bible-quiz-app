@@ -1,0 +1,46 @@
+{
+  "id": "12-014-013",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 14,
+  "verse_reference": "2 Kings 14:25",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Through which prophet had the LORD said Jeroboam would restore Israel's borders?",
+  "options": [
+    "Elisha",
+    "Jonah son of Amittai",
+    "Isaiah",
+    "Amos"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jeroboam",
+    "Jonah"
+  ],
+  "places": [
+    {
+      "name": "Gath Hepher",
+      "type": "town"
+    },
+    {
+      "name": "Lebo Hamath",
+      "type": "region"
+    },
+    {
+      "name": "Dead Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeroboam restored Israel's boundaries according to the word of the LORD spoken through Jonah son of Amittai, the prophet from Gath Hepher."
+}

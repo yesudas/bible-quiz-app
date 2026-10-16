@@ -1,0 +1,41 @@
+{
+  "id": "11-005-008",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 5,
+  "verse_reference": "1 Kings 5:9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How did Hiram say he would send the logs to Solomon?",
+  "options": [
+    "On camels across the desert",
+    "In carts pulled by oxen",
+    "Floated in rafts by sea",
+    "Carried by Israelite workers over the mountains"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Hiram",
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Lebanon",
+      "type": "region"
+    },
+    {
+      "name": "Mediterranean Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hiram said his men would haul the logs down to the sea and float them in rafts to the place Solomon specified."
+}

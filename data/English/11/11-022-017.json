@@ -1,0 +1,39 @@
+{
+  "id": "11-022-017",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 22,
+  "verse_reference": "1 Kings 22:43",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In whose ways did Jehoshaphat, king of Judah, walk?",
+  "options": [
+    "The ways of his father Asa, doing right in the LORD's eyes",
+    "The ways of Jeroboam",
+    "The ways of Ahab",
+    "The ways of Rehoboam"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience",
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoshaphat",
+    "Asa"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoshaphat followed the ways of his father Asa and did not stray from them; he did what was right in the eyes of the LORD."
+}

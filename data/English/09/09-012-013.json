@@ -1,0 +1,32 @@
+{
+  "id": "09-012-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 12,
+  "verse_reference": "1 Samuel 12:25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Samuel warn would happen if the people kept doing evil?",
+  "options": [
+    "They would lose the ark again",
+    "They would return to Egypt",
+    "They would have no rain",
+    "Both they and their king would perish"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel warned, \"If you persist in doing evil, both you and your king will perish.\""
+}

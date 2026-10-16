@@ -1,0 +1,34 @@
+{
+  "id": "19-033-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 33,
+  "verse_reference": "Psalm 33:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Sing to him a ____ song; play skillfully, and shout for joy.\"",
+  "options": [
+    "new",
+    "happy",
+    "holy",
+    "loud"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Music",
+    "Joy"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 33:3 says, \"Sing to him a new song; play skillfully, and shout for joy.\""
+}

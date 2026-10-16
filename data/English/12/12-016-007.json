@@ -1,0 +1,42 @@
+{
+  "id": "12-016-007",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 16,
+  "verse_reference": "2 Kings 16:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Ahaz send to the king of Assyria as a gift?",
+  "options": [
+    "His own crown",
+    "Silver and gold from the temple and palace treasuries",
+    "Horses and chariots",
+    "The ark of the covenant"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Worship"
+  ],
+  "characters": [
+    "Ahaz",
+    "Tiglath-Pileser"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahaz took the silver and gold found in the temple of the LORD and in the royal palace and sent it as a gift to the king of Assyria."
+}

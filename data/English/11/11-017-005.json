@@ -1,0 +1,32 @@
+{
+  "id": "11-017-005",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 17,
+  "verse_reference": "1 Kings 17:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the ravens bring Elijah each morning and evening?",
+  "options": [
+    "Bread and meat",
+    "Fish and honey",
+    "Figs and grapes",
+    "Water and oil"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The ravens brought Elijah bread and meat in the morning and bread and meat in the evening, and he drank from the brook."
+}

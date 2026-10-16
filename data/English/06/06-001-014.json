@@ -1,0 +1,38 @@
+{
+  "id": "06-001-014",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 1,
+  "verse_reference": "Joshua 1:12",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which tribes did Joshua remind of the command Moses had given them about helping their brothers?",
+  "options": [
+    "Judah, Benjamin and Levi",
+    "Reubenites, Gadites and the half-tribe of Manasseh",
+    "Ephraim, Dan and Asher",
+    "Simeon, Issachar and Zebulun"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Joshua",
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua spoke to the Reubenites, the Gadites and the half-tribe of Manasseh, reminding them of what Moses had commanded."
+}

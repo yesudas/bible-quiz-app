@@ -1,0 +1,38 @@
+{
+  "id": "15-007-009",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 7,
+  "verse_reference": "Ezra 7:25",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Artaxerxes tell Ezra to appoint for the people of Trans-Euphrates?",
+  "options": [
+    "Priests and prophets",
+    "Magistrates and judges",
+    "Soldiers and captains",
+    "Builders and carpenters"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Leadership",
+    "Wisdom"
+  ],
+  "characters": [
+    "Ezra",
+    "Artaxerxes"
+  ],
+  "places": [
+    {
+      "name": "Trans-Euphrates",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Using the wisdom of his God, Ezra was to appoint magistrates and judges to administer justice to the people who knew the laws of his God."
+}

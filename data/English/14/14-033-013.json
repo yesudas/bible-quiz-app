@@ -1,0 +1,34 @@
+{
+  "id": "14-033-013",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 33,
+  "verse_reference": "2 Chronicles 33:20",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who succeeded Manasseh as king?",
+  "options": [
+    "Josiah",
+    "Hezekiah",
+    "Amon",
+    "Jehoahaz"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Manasseh",
+    "Amon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Manasseh rested with his ancestors and was buried in his palace, and Amon his son succeeded him as king."
+}

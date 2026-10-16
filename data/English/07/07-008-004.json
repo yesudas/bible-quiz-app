@@ -1,0 +1,39 @@
+{
+  "id": "07-008-004",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 8,
+  "verse_reference": "Judges 8:5",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which two Midianite kings was Gideon chasing when he crossed the Jordan?",
+  "options": [
+    "Zebah and Zalmunna",
+    "Oreb and Zeeb",
+    "Sisera and Jabin",
+    "Og and Sihon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Courage"
+  ],
+  "characters": [
+    "Gideon",
+    "Zebah",
+    "Zalmunna"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon told the men of Sukkoth he was still pursuing Zebah and Zalmunna, the kings of Midian."
+}

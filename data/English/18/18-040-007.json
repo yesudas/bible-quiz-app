@@ -1,0 +1,32 @@
+{
+  "id": "18-040-007",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 40,
+  "verse_reference": "Job 40:15",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "Which great animal did the LORD say feeds on grass like an ox?",
+  "options": [
+    "Leviathan",
+    "Behemoth",
+    "The wild donkey",
+    "The lion"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, 'Look at Behemoth, which I made along with you and which feeds on grass like an ox.'"
+}

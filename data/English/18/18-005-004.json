@@ -1,0 +1,32 @@
+{
+  "id": "18-005-004",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 5,
+  "verse_reference": "Job 5:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to Eliphaz, what does God provide for the earth?",
+  "options": [
+    "Gold",
+    "Light from the moon",
+    "Wild animals",
+    "Rain"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "Eliphaz"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eliphaz said God provides rain for the earth and sends water on the countryside."
+}

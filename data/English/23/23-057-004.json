@@ -1,0 +1,30 @@
+{
+  "id": "23-057-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 57,
+  "verse_reference": "Isaiah 57:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'Peace, peace, to those far and ______,' says the LORD.",
+  "options": [
+    "wide",
+    "high",
+    "low",
+    "near"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Peace",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 57:19 says, 'Peace, peace, to those far and near, says the LORD. And I will heal them.'"
+}

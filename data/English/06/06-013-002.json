@@ -1,0 +1,48 @@
+{
+  "id": "06-013-002",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 13,
+  "verse_reference": "Joshua 13:2-3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whose five rulers were in Gaza, Ashdod, Ashkelon, Gath and Ekron?",
+  "options": [
+    "The Amorites",
+    "The Moabites",
+    "The Philistines",
+    "The Hittites"
+  ],
+  "correct_option": 2,
+  "themes": [],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gaza",
+      "type": "city"
+    },
+    {
+      "name": "Ashdod",
+      "type": "city"
+    },
+    {
+      "name": "Ashkelon",
+      "type": "city"
+    },
+    {
+      "name": "Gath",
+      "type": "city"
+    },
+    {
+      "name": "Ekron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The land still to be taken included the territory of the five Philistine rulers in Gaza, Ashdod, Ashkelon, Gath and Ekron."
+}

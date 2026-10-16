@@ -1,0 +1,31 @@
+{
+  "id": "19-126-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 126,
+  "verse_reference": "Psalm 126:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Those who sow with tears will reap with songs of ______.\"",
+  "options": [
+    "joy",
+    "praise",
+    "peace",
+    "thanks"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 126 promises that those who sow with tears will reap with songs of joy."
+}

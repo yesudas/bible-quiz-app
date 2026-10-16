@@ -1,0 +1,39 @@
+{
+  "id": "11-010-005",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 10,
+  "verse_reference": "1 Kings 10:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to the queen of Sheba, why had the LORD made Solomon king?",
+  "options": [
+    "To make Israel richer than Egypt",
+    "To maintain justice and righteousness, because of His eternal love for Israel",
+    "To build many cities",
+    "To defeat the Philistines"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [
+    "Queen of Sheba",
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The queen praised the LORD, saying that because of His eternal love for Israel He made Solomon king to maintain justice and righteousness."
+}

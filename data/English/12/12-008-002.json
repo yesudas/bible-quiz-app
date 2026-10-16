@@ -1,0 +1,37 @@
+{
+  "id": "12-008-002",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 8,
+  "verse_reference": "2 Kings 8:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the Shunammite woman go to live during the famine?",
+  "options": [
+    "Egypt",
+    "Moab",
+    "The land of the Philistines",
+    "Aram"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Obedience"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Land of the Philistines",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "She did as Elisha said and stayed in the land of the Philistines for seven years."
+}

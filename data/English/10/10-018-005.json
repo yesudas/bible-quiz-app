@@ -1,0 +1,35 @@
+{
+  "id": "10-018-005",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 18,
+  "verse_reference": "2 Samuel 18:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What claimed more lives that day than the sword?",
+  "options": [
+    "The river",
+    "Wild animals in the camp",
+    "Hunger",
+    "The forest"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Forest of Ephraim",
+      "type": "forest"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The battle spread across the countryside, and the forest swallowed up more men that day than the sword."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "12-021-011",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 21,
+  "verse_reference": "2 Kings 21:18",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where was Manasseh buried?",
+  "options": [
+    "In the City of David",
+    "In the temple courts",
+    "In his palace garden, the garden of Uzza",
+    "In Samaria"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Manasseh"
+  ],
+  "places": [
+    {
+      "name": "Garden of Uzza",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Manasseh rested with his ancestors and was buried in his palace garden, the garden of Uzza."
+}

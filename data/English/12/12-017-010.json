@@ -1,0 +1,35 @@
+{
+  "id": "12-017-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 17,
+  "verse_reference": "2 Kings 17:18",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "After Israel was removed, which tribe was left?",
+  "options": [
+    "Benjamin",
+    "Levi",
+    "Ephraim",
+    "Judah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD removed Israel from His presence, and only the tribe of Judah was left."
+}

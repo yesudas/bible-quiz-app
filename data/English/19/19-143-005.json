@@ -1,0 +1,33 @@
+{
+  "id": "19-143-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 143,
+  "verse_reference": "Psalm 143:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Show me the ______ I should go, for to you I entrust my life.\"",
+  "options": [
+    "city",
+    "way",
+    "house",
+    "land"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David asked God to show him the way he should go, because he trusted his life to God."
+}

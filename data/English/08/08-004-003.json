@@ -1,0 +1,33 @@
+{
+  "id": "08-004-003",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 4,
+  "verse_reference": "Ruth 4:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Naomi selling?",
+  "options": [
+    "Her house in Moab",
+    "A flock of sheep",
+    "Her husband's tools",
+    "The piece of land that belonged to Elimelek"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Redemption",
+    "Family"
+  ],
+  "characters": [
+    "Naomi",
+    "Elimelek"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Boaz told the guardian-redeemer that Naomi was selling the piece of land that belonged to their relative Elimelek."
+}

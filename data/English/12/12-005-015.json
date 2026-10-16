@@ -1,0 +1,36 @@
+{
+  "id": "12-005-015",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 5,
+  "verse_reference": "2 Kings 5:18",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In which temple did Naaman ask the LORD to forgive him for bowing with his master?",
+  "options": [
+    "The temple of Dagon",
+    "The temple of Baal",
+    "The temple of Rimmon",
+    "The temple of Molek"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Forgiveness",
+    "Worship"
+  ],
+  "characters": [
+    "Naaman"
+  ],
+  "places": [
+    {
+      "name": "Temple of Rimmon",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Naaman asked the LORD to forgive him when his master went into the temple of Rimmon and he had to bow there."
+}

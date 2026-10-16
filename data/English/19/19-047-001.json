@@ -1,0 +1,33 @@
+{
+  "id": "19-047-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 47,
+  "verse_reference": "Psalm 47:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"____ your hands, all you nations; shout to God with cries of joy.\"",
+  "options": [
+    "Lift",
+    "Raise",
+    "Clap",
+    "Fold"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Joy"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 47:1 says, \"Clap your hands, all you nations; shout to God with cries of joy.\""
+}

@@ -1,0 +1,37 @@
+{
+  "id": "06-009-005",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 9,
+  "verse_reference": "Joshua 9:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Where did the Gibeonites say they had come from?",
+  "options": [
+    "From Egypt",
+    "From across the Jordan",
+    "From the city of Ai",
+    "From a distant country"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Gilgal",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Gibeonites lied, saying, \"We have come from a distant country; make a treaty with us.\""
+}

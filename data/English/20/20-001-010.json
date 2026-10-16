@@ -1,0 +1,39 @@
+{
+  "id": "20-001-010",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 1,
+  "verse_reference": "Proverbs 1:20-21",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 1, where does Wisdom call aloud?",
+  "options": [
+    "In a hidden cave",
+    "In the public square and at the city gate",
+    "Only inside the temple",
+    "On a ship at sea"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Public square",
+      "type": "other"
+    },
+    {
+      "name": "City gate",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 1:20-21 pictures Wisdom calling out in the public square and making her speech at the city gate."
+}

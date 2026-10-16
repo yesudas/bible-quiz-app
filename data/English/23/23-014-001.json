@@ -1,0 +1,38 @@
+{
+  "id": "23-014-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 14,
+  "verse_reference": "Isaiah 14:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the LORD promise to do for Jacob and Israel in Isaiah 14:1?",
+  "options": [
+    "Send them to Babylon forever",
+    "Have compassion on them and settle them in their own land",
+    "Give them a new language",
+    "Make them rulers of Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Hope",
+    "Mercy"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 14:1 says the LORD will have compassion on Jacob, once again choose Israel and settle them in their own land."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "16-003-008",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 3,
+  "verse_reference": "Nehemiah 3:23,28",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Where did several people, including the priests above the Horse Gate, repair the wall?",
+  "options": [
+    "Next to the temple treasury",
+    "Beside the king's palace",
+    "Outside the city",
+    "In front of their own houses"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Leadership"
+  ],
+  "characters": [
+    "Benjamin",
+    "Hasshub",
+    "Azariah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Horse Gate",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Many builders, such as Benjamin, Hasshub, Azariah and the priests above the Horse Gate, repaired the wall in front of their own houses."
+}

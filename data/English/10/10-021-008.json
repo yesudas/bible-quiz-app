@@ -1,0 +1,32 @@
+{
+  "id": "10-021-008",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 21,
+  "verse_reference": "2 Samuel 21:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What happened after the bones of Saul and Jonathan were buried as the king commanded?",
+  "options": [
+    "The Philistines attacked",
+    "God answered prayer on behalf of the land",
+    "David fell ill",
+    "The Gibeonites left Israel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After they did everything the king commanded, God answered prayer on behalf of the land."
+}

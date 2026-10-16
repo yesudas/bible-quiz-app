@@ -1,0 +1,33 @@
+{
+  "id": "18-015-004",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 15,
+  "verse_reference": "Job 15:7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Eliphaz asked Job, \"Are you the first man ever ____?\"",
+  "options": [
+    "chosen",
+    "born",
+    "blessed",
+    "called"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Eliphaz",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eliphaz asked, 'Are you the first man ever born? Were you brought forth before the hills?' He was saying Job was not as wise as he thought."
+}

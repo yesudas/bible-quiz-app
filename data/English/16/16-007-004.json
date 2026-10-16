@@ -1,0 +1,36 @@
+{
+  "id": "16-007-004",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 7,
+  "verse_reference": "Nehemiah 7:3",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When did Nehemiah say the gates of Jerusalem could be opened?",
+  "options": [
+    "At midnight",
+    "At first light",
+    "Only on the Sabbath",
+    "Not until the sun was hot"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Nehemiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah said the gates of Jerusalem were not to be opened until the sun was hot."
+}

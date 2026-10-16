@@ -1,0 +1,41 @@
+{
+  "id": "12-019-015",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 19,
+  "verse_reference": "2 Kings 19:37",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How did Sennacherib die?",
+  "options": [
+    "His sons killed him while he worshipped in the temple of Nisrok",
+    "He died of a plague",
+    "He fell in battle against Cush",
+    "He was struck by the angel of the LORD"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Idolatry",
+    "Prophecy"
+  ],
+  "characters": [
+    "Sennacherib"
+  ],
+  "places": [
+    {
+      "name": "Temple of Nisrok",
+      "type": "temple"
+    },
+    {
+      "name": "Ararat",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While he was worshipping in the temple of Nisrok, his sons Adrammelek and Sharezer killed him with the sword and escaped to Ararat."
+}

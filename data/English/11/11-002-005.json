@@ -1,0 +1,41 @@
+{
+  "id": "11-002-005",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 2,
+  "verse_reference": "1 Kings 2:8",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which man from Bahurim had cursed David on the day David went to Mahanaim?",
+  "options": [
+    "Shimei son of Gera",
+    "Joab son of Zeruiah",
+    "Sheba son of Bikri",
+    "Ahithophel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "David",
+    "Shimei"
+  ],
+  "places": [
+    {
+      "name": "Bahurim",
+      "type": "village"
+    },
+    {
+      "name": "Mahanaim",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Shimei son of Gera, the Benjamite from Bahurim, had called down bitter curses on David when he went to Mahanaim."
+}

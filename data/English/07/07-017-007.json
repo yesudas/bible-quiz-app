@@ -1,0 +1,41 @@
+{
+  "id": "07-017-007",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 17,
+  "verse_reference": "Judges 17:7-9",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who came to Micah's house looking for a place to stay?",
+  "options": [
+    "A prophet from Shiloh",
+    "A young Levite from Bethlehem in Judah",
+    "A Philistine from Gaza",
+    "A Danite from Zorah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Micah"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A young Levite from Bethlehem in Judah left his town to find another place to stay and came to Micah's house."
+}

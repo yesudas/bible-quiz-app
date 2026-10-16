@@ -1,0 +1,30 @@
+{
+  "id": "05-017-005",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 17,
+  "verse_reference": "Deuteronomy 17:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What rule did God give about who could be appointed king over Israel?",
+  "options": [
+    "He must be a foreigner",
+    "He must be the strongest warrior",
+    "He must be the wealthiest man",
+    "He must be one the Lord chooses, from among their own people, not a foreigner"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "If Israel appointed a king, he had to be one the Lord chose, from among their own people, and never a foreigner."
+}

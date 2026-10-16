@@ -1,0 +1,46 @@
+{
+  "id": "23-007-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 7,
+  "verse_reference": "Isaiah 7:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which two kings marched up to fight against Jerusalem in the days of Ahaz?",
+  "options": [
+    "Rezin king of Aram and Pekah king of Israel",
+    "Sennacherib and Nebuchadnezzar",
+    "Hiram king of Tyre and Ben-Hadad",
+    "Jehu and Omri"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Ahaz",
+    "Rezin",
+    "Pekah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Aram",
+      "type": "country"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 7:1 says King Rezin of Aram and Pekah son of Remaliah king of Israel marched up to fight against Jerusalem, but they could not overpower it."
+}

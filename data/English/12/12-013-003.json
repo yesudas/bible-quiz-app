@@ -1,0 +1,37 @@
+{
+  "id": "12-013-003",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 13,
+  "verse_reference": "2 Kings 13:4-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened when Jehoahaz sought the LORD's favour?",
+  "options": [
+    "The LORD refused to listen",
+    "Hazael died that same day",
+    "The LORD listened and gave Israel a deliverer",
+    "Elisha was sent to anoint a new king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Salvation"
+  ],
+  "characters": [
+    "Jehoahaz"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoahaz sought the LORD's favour, and the LORD listened because He saw how Aram was oppressing Israel, and He provided a deliverer."
+}

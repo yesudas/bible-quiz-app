@@ -1,0 +1,39 @@
+{
+  "id": "16-002-003",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 2,
+  "verse_reference": "Nehemiah 2:4",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "When the king asked, \"What is it you want?\", what did Nehemiah do before he answered?",
+  "options": [
+    "He bowed three times",
+    "He asked the queen for help",
+    "He prayed to the God of heaven",
+    "He asked for time to think"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [
+    "Nehemiah",
+    "Artaxerxes"
+  ],
+  "places": [
+    {
+      "name": "Susa",
+      "type": "citadel"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah prayed to the God of heaven and then answered the king."
+}

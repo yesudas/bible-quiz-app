@@ -1,0 +1,35 @@
+{
+  "id": "09-028-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 28,
+  "verse_reference": "1 Samuel 28:7",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In which town did Saul's attendants say there was a medium?",
+  "options": [
+    "Shunem",
+    "Ziklag",
+    "Endor",
+    "Bethel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Endor",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul told his attendants to find him a woman who was a medium, and they said, \"There is one in Endor.\""
+}

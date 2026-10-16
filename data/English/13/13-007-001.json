@@ -1,0 +1,33 @@
+{
+  "id": "13-007-001",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 7,
+  "verse_reference": "1 Chronicles 7:2",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "During whose reign were the descendants of Tola listed as fighting men numbering 22,600?",
+  "options": [
+    "Saul's",
+    "David's",
+    "Solomon's",
+    "Hezekiah's"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "War",
+    "Leadership"
+  ],
+  "characters": [
+    "Tola",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 7:2 says that during the reign of David, the descendants of Tola numbered 22,600 fighting men."
+}

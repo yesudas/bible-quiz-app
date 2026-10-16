@@ -1,0 +1,39 @@
+{
+  "id": "10-015-008",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 15,
+  "verse_reference": "2 Samuel 15:14",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did David decide to do when he heard the hearts of Israel were with Absalom?",
+  "options": [
+    "Fight Absalom in Jerusalem",
+    "Flee from Jerusalem",
+    "Hide in the palace",
+    "Surrender the throne"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Suffering"
+  ],
+  "characters": [
+    "David",
+    "Absalom"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said to his officials, \"Come! We must flee, or none of us will escape from Absalom.\""
+}

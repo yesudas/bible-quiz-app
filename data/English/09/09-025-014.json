@@ -1,0 +1,33 @@
+{
+  "id": "09-025-014",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 25,
+  "verse_reference": "1 Samuel 25:39-40",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "After Nabal died, what did David ask Abigail?",
+  "options": [
+    "To become his servant",
+    "To become his wife",
+    "To go back to her father",
+    "To bring more food"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [
+    "David",
+    "Abigail"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David sent word to Abigail, asking her to become his wife."
+}

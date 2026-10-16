@@ -1,0 +1,32 @@
+{
+  "id": "19-051-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 51,
+  "verse_reference": "Psalm 51:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 51:4, against whom does David say he has sinned, \"you only\"?",
+  "options": [
+    "His people",
+    "Nathan",
+    "Bathsheba",
+    "God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Repentance"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David told God, \"Against you, you only, have I sinned.\""
+}

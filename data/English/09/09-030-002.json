@@ -1,0 +1,36 @@
+{
+  "id": "09-030-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 30,
+  "verse_reference": "1 Samuel 30:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What had the Amalekites done with the women and everyone in Ziklag?",
+  "options": [
+    "They had killed them all",
+    "They had left them in the town",
+    "They had taken them captive without killing anyone",
+    "They had sold them to Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Family"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ziklag",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Amalekites had taken captive the women and everyone else in Ziklag, both young and old. They killed none of them, but carried them off."
+}

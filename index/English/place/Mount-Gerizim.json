@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Mount-Gerizim",
+    "label": "Mount Gerizim",
+    "count": 4,
+    "paths": [
+        "English/05/05-011-009.json",
+        "English/05/05-027-004.json",
+        "English/06/06-008-013.json",
+        "English/07/07-009-005.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

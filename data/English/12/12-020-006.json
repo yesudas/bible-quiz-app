@@ -1,0 +1,33 @@
+{
+  "id": "12-020-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 20,
+  "verse_reference": "2 Kings 20:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Isaiah tell them to put on Hezekiah's boil?",
+  "options": [
+    "Olive oil",
+    "Salt",
+    "A poultice of figs",
+    "A cloth soaked in water"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Isaiah",
+    "Hezekiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah said, 'Prepare a poultice of figs.' They applied it to the boil, and Hezekiah recovered."
+}

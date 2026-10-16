@@ -1,0 +1,31 @@
+{
+  "id": "18-027-007",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 27,
+  "verse_reference": "Job 27:20-21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Job said which wind carries the wicked man off?",
+  "options": [
+    "The west wind",
+    "The north wind",
+    "The south wind",
+    "The east wind"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said terrors overtake the wicked like a flood, and the east wind carries him off."
+}

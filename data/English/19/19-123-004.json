@@ -1,0 +1,30 @@
+{
+  "id": "19-123-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 123,
+  "verse_reference": "Psalm 123:4",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 123, from whom had God's people endured ridicule and contempt?",
+  "options": [
+    "Their own children",
+    "The priests",
+    "The prophets",
+    "The arrogant and the proud"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They had endured much ridicule from the arrogant and much contempt from the proud."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12-014-012",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 14,
+  "verse_reference": "2 Kings 14:23",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which son of Jehoash became king of Israel in Samaria and reigned forty-one years?",
+  "options": [
+    "Zechariah",
+    "Jehoahaz",
+    "Jeroboam",
+    "Jehu"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jeroboam",
+    "Jehoash"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeroboam son of Jehoash became king of Israel in Samaria and reigned forty-one years."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "14-012-002",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 12,
+  "verse_reference": "2 Chronicles 12:2",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which king of Egypt attacked Jerusalem in Rehoboam's fifth year?",
+  "options": [
+    "Pharaoh Neco",
+    "So",
+    "Shishak",
+    "Tirhakah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Shishak",
+    "Rehoboam"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the fifth year of King Rehoboam, Shishak king of Egypt attacked Jerusalem."
+}

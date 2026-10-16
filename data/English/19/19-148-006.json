@@ -1,0 +1,31 @@
+{
+  "id": "19-148-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 148,
+  "verse_reference": "Psalm 148:12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which people does Psalm 148:12 call to praise the LORD?",
+  "options": [
+    "Only the priests",
+    "Young men and women, old men and children",
+    "Only kings and princes",
+    "Only the people of Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Young men and women, old men and children are all called to praise the name of the LORD."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "21-012-005",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 12,
+  "verse_reference": "Ecclesiastes 12:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What does the Teacher compare the words of the wise to?",
+  "options": [
+    "Lamps and candles",
+    "Swords and spears",
+    "Rain and dew",
+    "Goads and firmly embedded nails"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"The words of the wise are like goads, their collected sayings like firmly embedded nails — given by one shepherd.\""
+}

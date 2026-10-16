@@ -1,0 +1,32 @@
+{
+  "id": "09-008-012",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 8,
+  "verse_reference": "1 Samuel 8:22",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was the LORD's final answer to Samuel about the people's request?",
+  "options": [
+    "\"Send them away.\"",
+    "\"Wait forty years.\"",
+    "\"Choose one of your sons.\"",
+    "\"Listen to them and give them a king.\""
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD answered, \"Listen to them and give them a king.\" Then Samuel told the Israelites to go back to their own towns."
+}

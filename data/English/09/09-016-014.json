@@ -1,0 +1,32 @@
+{
+  "id": "09-016-014",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 16,
+  "verse_reference": "1 Samuel 16:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What job did David receive when he came to serve Saul?",
+  "options": [
+    "Commander of the army",
+    "One of Saul's armor-bearers",
+    "Keeper of the ark",
+    "Captain of the guards"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul liked David very much, and David became one of his armor-bearers."
+}

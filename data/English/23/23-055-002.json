@@ -1,0 +1,30 @@
+{
+  "id": "23-055-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 55,
+  "verse_reference": "Isaiah 55:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Isaiah 55:1, how can people buy wine and milk?",
+  "options": [
+    "With silver",
+    "By working in the fields",
+    "Without money and without cost",
+    "By trading sheep"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Mercy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 55:1 says, 'Come, buy wine and milk without money and without cost.'"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12-023-015",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 23,
+  "verse_reference": "2 Kings 23:34",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What new name did Pharaoh Necho give to Eliakim son of Josiah?",
+  "options": [
+    "Jehoiakim",
+    "Jehoiachin",
+    "Zedekiah",
+    "Jehoahaz"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Necho",
+    "Jehoiakim"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh Necho made Eliakim son of Josiah king and changed his name to Jehoiakim."
+}

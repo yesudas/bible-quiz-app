@@ -1,0 +1,34 @@
+{
+  "id": "11-003-003",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 3,
+  "verse_reference": "1 Kings 3:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Solomon showed his ______ for the LORD by walking according to the instructions given him by his father David.",
+  "options": [
+    "fear",
+    "love",
+    "hope",
+    "anger"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Obedience"
+  ],
+  "characters": [
+    "Solomon",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Bible says Solomon showed his love for the LORD by walking according to the instructions of his father David."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14-005-010",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 5,
+  "verse_reference": "2 Chronicles 5:12",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which Levite musicians are named as leading the music with their sons and relatives?",
+  "options": [
+    "Zadok, Abiathar and Nathan",
+    "Asaph, Heman and Jeduthun",
+    "Aaron, Eleazar and Phinehas",
+    "Korah, Dathan and Abiram"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Asaph",
+    "Heman",
+    "Jeduthun"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Levite musicians Asaph, Heman and Jeduthun, with their sons and relatives, played cymbals, harps and lyres."
+}

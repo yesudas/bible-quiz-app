@@ -1,0 +1,33 @@
+{
+  "id": "15-008-007",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 8,
+  "verse_reference": "Ezra 8:24-25",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "To whom did Ezra give the silver, gold and articles to carry?",
+  "options": [
+    "Soldiers from the king",
+    "The temple servants",
+    "Twelve leading priests",
+    "Merchants from Babylon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Leadership",
+    "Money"
+  ],
+  "characters": [
+    "Ezra"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra set apart twelve of the leading priests and weighed out to them the silver, gold and articles given for the house of God."
+}

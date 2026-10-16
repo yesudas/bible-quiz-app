@@ -1,0 +1,32 @@
+{
+  "id": "11-021-007",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 21,
+  "verse_reference": "1 Kings 21:10,13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What false charge did the two scoundrels bring against Naboth?",
+  "options": [
+    "That he stole from the king",
+    "That he cursed both God and the king",
+    "That he worshiped Baal",
+    "That he broke the Sabbath"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Law"
+  ],
+  "characters": [
+    "Naboth"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Two scoundrels falsely accused Naboth of cursing both God and the king, and he was taken outside the city and stoned to death."
+}

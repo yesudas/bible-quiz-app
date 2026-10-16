@@ -1,0 +1,31 @@
+{
+  "id": "19-105-013",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 105,
+  "verse_reference": "Psalm 105:39",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God give to provide light for His people at night?",
+  "options": [
+    "A cloud",
+    "A fire",
+    "The moon",
+    "A lamp"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Provision"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God spread out a cloud as a covering and a fire to give light at night."
+}

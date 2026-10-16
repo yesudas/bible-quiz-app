@@ -1,0 +1,44 @@
+{
+  "id": "14-015-007",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 15,
+  "verse_reference": "2 Chronicles 15:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did large numbers of people from Israel come over to Asa?",
+  "options": [
+    "They were afraid of war",
+    "They saw that the LORD his God was with him",
+    "Asa paid them silver",
+    "There was a famine in Israel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Leadership"
+  ],
+  "characters": [
+    "Asa"
+  ],
+  "places": [
+    {
+      "name": "Ephraim",
+      "type": "region"
+    },
+    {
+      "name": "Manasseh",
+      "type": "region"
+    },
+    {
+      "name": "Simeon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Large numbers from Ephraim, Manasseh and Simeon came over to Asa when they saw that the LORD his God was with him."
+}

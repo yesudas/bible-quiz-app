@@ -1,0 +1,29 @@
+{
+  "id": "19-042-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 42,
+  "verse_reference": "Psalm 42:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 42:3, what does the writer say have been his food day and night?",
+  "options": [
+    "Bread and water",
+    "Bitter herbs",
+    "Ashes",
+    "His tears"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 42:3 says, \"My tears have been my food day and night, while people say to me all day long, 'Where is your God?'\""
+}

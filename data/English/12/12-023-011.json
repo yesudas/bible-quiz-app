@@ -1,0 +1,34 @@
+{
+  "id": "12-023-011",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 23,
+  "verse_reference": "2 Kings 23:25",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "No king was like Josiah, who turned to the LORD \"with all his heart and with all his soul and with all his ______.\"",
+  "options": [
+    "strength",
+    "mind",
+    "wealth",
+    "family"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Obedience",
+    "Law"
+  ],
+  "characters": [
+    "Josiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "There was no king like Josiah, who turned to the LORD with all his heart, soul and strength, in keeping with the Law of Moses."
+}

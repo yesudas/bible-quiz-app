@@ -1,0 +1,39 @@
+{
+  "id": "07-008-010",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 8,
+  "verse_reference": "Judges 8:18-19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Gideon say he would not spare Zebah and Zalmunna?",
+  "options": [
+    "They had stolen his gold",
+    "They had killed his brothers, the sons of his own mother, at Tabor",
+    "They had insulted his father",
+    "They had burned Ophrah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Family"
+  ],
+  "characters": [
+    "Gideon",
+    "Zebah",
+    "Zalmunna"
+  ],
+  "places": [
+    {
+      "name": "Tabor",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zebah and Zalmunna had killed men at Tabor who were Gideon's own brothers. Gideon said if they had spared them, he would not kill them."
+}

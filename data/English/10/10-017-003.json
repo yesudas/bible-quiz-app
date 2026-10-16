@@ -1,0 +1,32 @@
+{
+  "id": "10-017-003",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 17,
+  "verse_reference": "2 Samuel 17:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Hushai said: \"The advice Ahithophel has given is not ______ this time.\"",
+  "options": [
+    "wise",
+    "safe",
+    "true",
+    "good"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Hushai",
+    "Ahithophel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hushai told Absalom that Ahithophel's advice was not good this time, and then gave his own advice."
+}

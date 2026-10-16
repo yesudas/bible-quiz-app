@@ -1,0 +1,39 @@
+{
+  "id": "14-036-010",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 36,
+  "verse_reference": "2 Chronicles 36:19",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the Babylonians do to God's temple?",
+  "options": [
+    "They repaired it",
+    "They worshiped in it",
+    "They locked it",
+    "They set fire to it"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They set fire to God's temple, broke down the wall of Jerusalem and burned all the palaces."
+}

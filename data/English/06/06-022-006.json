@@ -1,0 +1,36 @@
+{
+  "id": "06-022-006",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 22,
+  "verse_reference": "Joshua 22:13",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which priest was sent to speak to the eastern tribes about the altar?",
+  "options": [
+    "Phinehas son of Eleazar",
+    "Eleazar son of Aaron",
+    "Eli",
+    "Ithamar"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Phinehas"
+  ],
+  "places": [
+    {
+      "name": "Gilead",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites sent Phinehas son of Eleazar, the priest, to the eastern tribes in Gilead."
+}

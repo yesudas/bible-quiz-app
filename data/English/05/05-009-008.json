@@ -1,0 +1,34 @@
+{
+  "id": "05-009-008",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 9,
+  "verse_reference": "Deuteronomy 9:20",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "For whom did Moses say he also prayed, because the Lord was angry enough to destroy him?",
+  "options": [
+    "Joshua",
+    "Caleb",
+    "Aaron",
+    "Miriam"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Forgiveness",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord was angry enough with Aaron to destroy him, but Moses interceded for Aaron at that time as well."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "23-036-009",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 36,
+  "verse_reference": "Isaiah 36:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Eliakim, Shebna and Joah do before going to Hezekiah?",
+  "options": [
+    "They wrote a letter",
+    "They hid in the temple",
+    "They tore their clothes",
+    "They put on armor"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Eliakim",
+    "Shebna",
+    "Joah",
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 36:22 says they went to Hezekiah with their clothes torn and told him what the field commander had said."
+}

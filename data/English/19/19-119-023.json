@@ -1,0 +1,31 @@
+{
+  "id": "19-119-023",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 119,
+  "verse_reference": "Psalm 119:176",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "At the end of Psalm 119, the psalmist said he had strayed like what?",
+  "options": [
+    "A lost coin",
+    "A wandering bird",
+    "A lost sheep",
+    "A child"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 119 ends, \"I have strayed like a lost sheep. Seek your servant, for I have not forgotten your commands.\""
+}

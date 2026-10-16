@@ -1,0 +1,34 @@
+{
+  "id": "20-007-004",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 7,
+  "verse_reference": "Proverbs 7:6-7",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In Proverbs 7, where was the speaker when he saw the young man who had no sense?",
+  "options": [
+    "At the city gate",
+    "At the window of his house",
+    "In the temple courts",
+    "In a field"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Window of the speaker's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 7:6-7 says he looked down through the lattice at the window of his house and saw a youth who had no sense."
+}

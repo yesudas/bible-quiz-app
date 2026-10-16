@@ -1,0 +1,37 @@
+{
+  "id": "11-004-014",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 4,
+  "verse_reference": "1 Kings 4:33",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What subjects did Solomon speak about?",
+  "options": [
+    "Only the law of Moses",
+    "Plants, animals, birds, reptiles and fish",
+    "The stars and the moon only",
+    "The history of Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Creation"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Lebanon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon spoke about plant life, from the cedar of Lebanon to the hyssop, and also taught about animals, birds, reptiles and fish."
+}

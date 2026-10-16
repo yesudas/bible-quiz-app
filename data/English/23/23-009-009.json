@@ -1,0 +1,29 @@
+{
+  "id": "23-009-009",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 9,
+  "verse_reference": "Isaiah 9:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the repeated warning: 'Yet for all this, his anger is not turned away, his hand is still ______.'",
+  "options": [
+    "upraised",
+    "open",
+    "strong",
+    "near"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "This warning is repeated in Isaiah 9:12, 17 and 21: 'his anger is not turned away, his hand is still upraised.'"
+}

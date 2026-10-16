@@ -1,0 +1,31 @@
+{
+  "id": "19-090-009",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 90,
+  "verse_reference": "Psalm 90:17",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "At the end of Psalm 90, what does Moses ask God to establish?",
+  "options": [
+    "The temple",
+    "The work of our hands",
+    "The walls of the city",
+    "The throne of the king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses ends by praying that God will establish the work of our hands."
+}

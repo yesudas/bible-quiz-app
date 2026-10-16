@@ -1,0 +1,33 @@
+{
+  "id": "13-021-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 21,
+  "verse_reference": "1 Chronicles 21:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who questioned David's command to count the people, asking why he should bring guilt on Israel?",
+  "options": [
+    "Nathan",
+    "Abishai",
+    "Joab",
+    "Zadok"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Wisdom"
+  ],
+  "characters": [
+    "Joab",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joab asked why the king wanted to do this and why he should bring guilt on Israel."
+}

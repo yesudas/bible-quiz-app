@@ -1,0 +1,33 @@
+{
+  "id": "12-018-011",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 18,
+  "verse_reference": "2 Kings 18:21",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "The field commander called which nation \"that splintered reed of a staff\"?",
+  "options": [
+    "Aram",
+    "Babylon",
+    "Moab",
+    "Egypt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The field commander mocked Judah for depending on Egypt, calling it a splintered reed that pierces the hand of anyone who leans on it."
+}

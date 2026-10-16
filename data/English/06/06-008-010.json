@@ -1,0 +1,38 @@
+{
+  "id": "06-008-010",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 8,
+  "verse_reference": "Joshua 8:30",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "On which mountain did Joshua build an altar to the LORD?",
+  "options": [
+    "Mount Sinai",
+    "Mount Carmel",
+    "Mount Ebal",
+    "Mount Nebo"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Mount Ebal",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua built an altar to the LORD, the God of Israel, on Mount Ebal."
+}

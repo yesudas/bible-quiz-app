@@ -1,0 +1,33 @@
+{
+  "id": "12-006-015",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 6,
+  "verse_reference": "2 Kings 6:25",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "During the siege of Samaria, how much did a donkey's head sell for?",
+  "options": [
+    "Ten shekels of silver",
+    "Thirty shekels of silver",
+    "One talent of gold",
+    "Eighty shekels of silver"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The famine was so great that a donkey's head sold for eighty shekels of silver."
+}

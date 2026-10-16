@@ -1,0 +1,34 @@
+{
+  "id": "12-017-014",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 17,
+  "verse_reference": "2 Kings 17:27-28",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the Israelite priest sent back from exile live and teach the people?",
+  "options": [
+    "Jerusalem",
+    "Samaria",
+    "Dan",
+    "Bethel"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "One of the exiled priests came to live in Bethel and taught them how to worship the LORD."
+}

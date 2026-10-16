@@ -1,0 +1,33 @@
+{
+  "id": "13-003-011",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 3,
+  "verse_reference": "1 Chronicles 3:19",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which well-known descendant of David is listed as a son of Pedaiah?",
+  "options": [
+    "Zerubbabel",
+    "Nehemiah",
+    "Ezra",
+    "Daniel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Hope"
+  ],
+  "characters": [
+    "Pedaiah",
+    "Zerubbabel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 3:19 names Zerubbabel and Shimei as the sons of Pedaiah."
+}

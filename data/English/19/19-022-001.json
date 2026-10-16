@@ -1,0 +1,32 @@
+{
+  "id": "19-022-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 22,
+  "verse_reference": "Psalm 22 (title)",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to its title, Psalm 22 was sung to which tune?",
+  "options": [
+    "\"The Death of the Son\"",
+    "\"The Doe of the Morning\"",
+    "\"Lilies\"",
+    "\"The Dove on Distant Oaks\""
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Music",
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title of Psalm 22 says it is to the tune of \"The Doe of the Morning\" and is a psalm of David."
+}

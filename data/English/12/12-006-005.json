@@ -1,0 +1,41 @@
+{
+  "id": "12-006-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 6,
+  "verse_reference": "2 Kings 6:8-10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Elisha help the king of Israel during the war with Aram?",
+  "options": [
+    "He led the army into battle",
+    "He warned him where the Arameans were setting up camp",
+    "He called down fire on Aram",
+    "He made peace with the king of Aram"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Aram",
+      "type": "country"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha kept warning the king of Israel where the Arameans were camping, so the king was on his guard."
+}

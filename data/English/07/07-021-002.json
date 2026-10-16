@@ -1,0 +1,36 @@
+{
+  "id": "07-021-002",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 21,
+  "verse_reference": "Judges 21:2-3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When the Israelites wept bitterly before God at Bethel, what was troubling them?",
+  "options": [
+    "They had lost a battle to the Philistines",
+    "The ark had been taken away",
+    "One tribe was missing from Israel",
+    "There was a famine in the land"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Unity",
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people wept and asked the LORD why one tribe should be missing from Israel."
+}

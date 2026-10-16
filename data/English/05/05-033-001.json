@@ -1,0 +1,32 @@
+{
+  "id": "05-033-001",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 33,
+  "verse_reference": "Deuteronomy 33:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When did Moses, the man of God, pronounce this blessing on the Israelites?",
+  "options": [
+    "Before crossing the Red Sea",
+    "On the day the law was given",
+    "Before his death",
+    "After the walls of Jericho fell"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Promise"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses, the man of God, pronounced this blessing on the Israelites before his death."
+}

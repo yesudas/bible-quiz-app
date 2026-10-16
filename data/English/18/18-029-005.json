@@ -1,0 +1,33 @@
+{
+  "id": "18-029-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 29,
+  "verse_reference": "Job 29:12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Job 29:12, whom did Job rescue?",
+  "options": [
+    "The poor who cried for help and the fatherless",
+    "His enemies in battle",
+    "The kings of the East",
+    "The merchants of Sheba"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Money"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'I rescued the poor who cried for help, and the fatherless who had none to assist them.'"
+}

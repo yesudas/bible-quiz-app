@@ -1,0 +1,34 @@
+{
+  "id": "11-006-012",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 6,
+  "verse_reference": "1 Kings 6:29",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was carved on the walls all around the temple?",
+  "options": [
+    "Lions and oxen",
+    "Cherubim, palm trees and open flowers",
+    "Stars and moons",
+    "Grapes and vines only"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On the walls all around the temple, Solomon carved cherubim, palm trees and open flowers."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "06-009-010",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 9,
+  "verse_reference": "Joshua 9:18-19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the Israelites not attack the Gibeonites after learning the truth?",
+  "options": [
+    "The Gibeonites were too strong",
+    "Joshua was away",
+    "The Gibeonites paid them gold",
+    "The leaders had sworn an oath by the LORD"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Gibeon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel did not attack because the leaders of the assembly had sworn an oath to them by the LORD, the God of Israel."
+}

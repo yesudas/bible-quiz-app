@@ -1,0 +1,41 @@
+{
+  "id": "14-001-002",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 1,
+  "verse_reference": "2 Chronicles 1:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who had made God's tent of meeting in the wilderness, which was at Gibeon?",
+  "options": [
+    "Aaron",
+    "Joshua",
+    "Moses",
+    "David"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Gibeon",
+      "type": "town"
+    },
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The tent of meeting at Gibeon was the one Moses, the LORD's servant, had made in the wilderness."
+}

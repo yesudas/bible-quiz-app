@@ -1,0 +1,36 @@
+{
+  "id": "07-009-019",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 9,
+  "verse_reference": "Judges 9:50",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which town was Abimelek attacking when he was fatally wounded?",
+  "options": [
+    "Shechem",
+    "Thebez",
+    "Ophrah",
+    "Beer"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Abimelek"
+  ],
+  "places": [
+    {
+      "name": "Thebez",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abimelek went to Thebez, surrounded it and captured it. The people fled into a strong tower, where he was struck down."
+}

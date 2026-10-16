@@ -1,0 +1,29 @@
+{
+  "id": "19-036-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 36,
+  "verse_reference": "Psalm 36:4",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 36:4, where do the wicked plot evil?",
+  "options": [
+    "Even on their beds",
+    "In the temple",
+    "At the city gate",
+    "In the fields"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 36:4 says, \"Even on their beds they plot evil; they commit themselves to a sinful course.\""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13-010-003",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 10,
+  "verse_reference": "1 Chronicles 10:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who wounded Saul in the battle?",
+  "options": [
+    "Philistine archers",
+    "A Philistine giant",
+    "An Amalekite",
+    "His own armor-bearer"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "War"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Mount Gilboa",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The fighting grew fierce around Saul, and when the archers overtook him, they wounded him."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "12-021-012",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 21,
+  "verse_reference": "2 Kings 21:19",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which son of Manasseh became king and reigned only two years?",
+  "options": [
+    "Josiah",
+    "Amon",
+    "Jehoahaz",
+    "Hezekiah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Amon",
+    "Manasseh"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amon was twenty-two when he became king, and he reigned in Jerusalem two years."
+}

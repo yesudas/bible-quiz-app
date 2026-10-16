@@ -1,0 +1,36 @@
+{
+  "id": "19-092-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 92,
+  "verse_reference": "Psalm 92:12",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "According to Psalm 92:12, the righteous will flourish like what kind of tree?",
+  "options": [
+    "An olive tree",
+    "An oak tree",
+    "A fig tree",
+    "A palm tree"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Lebanon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The righteous will flourish like a palm tree and grow like a cedar of Lebanon."
+}

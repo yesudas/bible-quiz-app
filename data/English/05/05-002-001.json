@@ -1,0 +1,36 @@
+{
+  "id": "05-002-001",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 2,
+  "verse_reference": "Deuteronomy 2:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "For many days Israel traveled around the hill country of which region?",
+  "options": [
+    "Seir",
+    "Moab",
+    "Gilead",
+    "Bashan"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Seir",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After turning back toward the Red Sea, Israel traveled around the hill country of Seir for a long time."
+}

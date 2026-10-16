@@ -1,0 +1,35 @@
+{
+  "id": "07-021-003",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 21,
+  "verse_reference": "Judges 21:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What second oath had Israel taken about anyone who did not come to the assembly at Mizpah?",
+  "options": [
+    "They would lose their land",
+    "They would pay a fine of silver",
+    "They would be sent to Moab",
+    "They would certainly be put to death"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Unity",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mizpah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel had taken a solemn oath that anyone who failed to assemble before the LORD at Mizpah would certainly be put to death."
+}

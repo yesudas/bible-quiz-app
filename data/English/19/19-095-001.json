@@ -1,0 +1,31 @@
+{
+  "id": "19-095-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 95,
+  "verse_reference": "Psalm 95:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Come, let us sing for joy to the LORD; let us shout aloud to the ____ of our salvation.\"",
+  "options": [
+    "King",
+    "Rock",
+    "Lord",
+    "Light"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm calls God's people to sing and shout to the Rock of their salvation."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "09-010-015",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 10,
+  "verse_reference": "1 Samuel 10:26-27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Saul respond when some scoundrels despised him and brought him no gifts?",
+  "options": [
+    "He punished them",
+    "He kept silent",
+    "He gave up the kingship",
+    "He asked Samuel to curse them"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Gibeah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some scoundrels said, \"How can this fellow save us?\" They despised him and brought him no gifts. But Saul kept silent."
+}

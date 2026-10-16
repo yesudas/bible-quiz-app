@@ -1,0 +1,39 @@
+{
+  "id": "14-016-014",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 16,
+  "verse_reference": "2 Chronicles 16:14",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where was Asa buried?",
+  "options": [
+    "In the tomb he had cut out for himself in the City of David",
+    "In the temple courtyard",
+    "At Ramah",
+    "In the Kidron Valley"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Asa"
+  ],
+  "places": [
+    {
+      "name": "City of David",
+      "type": "city"
+    },
+    {
+      "name": "Tomb of Asa",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They buried Asa in the tomb he had cut out for himself in the City of David, and made a huge fire in his honor."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "05-034-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 34,
+  "verse_reference": "Deuteronomy 34:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What is said about the place where Moses was buried?",
+  "options": [
+    "It was marked with a great stone",
+    "It was inside the promised land",
+    "It became a place of yearly festivals",
+    "To this day no one knows where it is"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "region"
+    },
+    {
+      "name": "Beth Peor",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses was buried in a valley in Moab opposite Beth Peor, but to this day no one knows where his grave is."
+}

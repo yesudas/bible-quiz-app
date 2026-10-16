@@ -1,0 +1,38 @@
+{
+  "id": "13-021-014",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 21,
+  "verse_reference": "1 Chronicles 21:25",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How much did David pay Araunah for the site?",
+  "options": [
+    "Four hundred shekels of silver",
+    "Six hundred shekels of gold",
+    "A thousand talents of silver",
+    "Twenty oxen"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [
+    "David",
+    "Araunah"
+  ],
+  "places": [
+    {
+      "name": "threshing floor of Araunah",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David paid Araunah six hundred shekels of gold for the site."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "19-015-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 15,
+  "verse_reference": "Psalm 15:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 15:5, how does the righteous person lend money to the poor?",
+  "options": [
+    "Without interest",
+    "Only for one year",
+    "With a small fee",
+    "Only to family members"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Justice",
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 15:5 says the righteous person lends money to the poor without interest."
+}

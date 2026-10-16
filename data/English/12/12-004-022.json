@@ -1,0 +1,33 @@
+{
+  "id": "12-004-022",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 4,
+  "verse_reference": "2 Kings 4:42-44",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened when twenty loaves were set before a hundred men?",
+  "options": [
+    "There was only enough for half of them",
+    "The bread turned into fish",
+    "They ate and had some left over, as the LORD said",
+    "The men refused to eat"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Promise"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said they would eat and have some left over, and that is exactly what happened."
+}

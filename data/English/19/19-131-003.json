@@ -1,0 +1,38 @@
+{
+  "id": "19-131-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 131,
+  "verse_reference": "Psalm 131:3",
+  "question_type": "WHEN",
+  "difficulty": "Easy",
+  "question": "According to Psalm 131, for how long should Israel put its hope in the LORD?",
+  "options": [
+    "Both now and forevermore",
+    "Only in times of war",
+    "Only on feast days",
+    "Until the king returns"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David ends the psalm, \"Israel, put your hope in the LORD both now and forevermore.\""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "06-010-007",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 10,
+  "verse_reference": "Joshua 10:11",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the LORD throw down from the sky on the fleeing Amorites?",
+  "options": [
+    "Fire",
+    "Large hailstones",
+    "Frogs",
+    "Lightning only"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "road to Beth Horon",
+      "type": "road"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD hurled large hailstones on them, and more died from the hail than from the swords of Israel."
+}

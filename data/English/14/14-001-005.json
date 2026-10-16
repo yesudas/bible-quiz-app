@@ -1,0 +1,37 @@
+{
+  "id": "14-001-005",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 1,
+  "verse_reference": "2 Chronicles 1:6",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How many burnt offerings did Solomon offer on the bronze altar at Gibeon?",
+  "options": [
+    "One hundred",
+    "Seven",
+    "A thousand",
+    "Forty"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Gibeon",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon went up to the bronze altar before the LORD and offered a thousand burnt offerings on it."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "06-005-007",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 5,
+  "verse_reference": "Joshua 5:10",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "On what evening of the month did Israel celebrate the Passover at Gilgal?",
+  "options": [
+    "The tenth",
+    "The first",
+    "The seventh",
+    "The fourteenth"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gilgal",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites celebrated the Passover on the evening of the fourteenth day of the month."
+}

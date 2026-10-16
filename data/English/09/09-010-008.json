@@ -1,0 +1,38 @@
+{
+  "id": "09-010-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 10,
+  "verse_reference": "1 Samuel 10:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "People who knew Saul asked, \"Is Saul also among the ___?\"",
+  "options": [
+    "priests",
+    "prophets",
+    "kings",
+    "judges"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Gibeah of God",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When people saw Saul prophesying, they asked each other, \"Is Saul also among the prophets?\""
+}

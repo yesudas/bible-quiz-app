@@ -1,0 +1,32 @@
+{
+  "id": "14-025-002",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 25,
+  "verse_reference": "2 Chronicles 25:3-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Amaziah not put to death the children of the officials who murdered his father?",
+  "options": [
+    "The people begged for mercy",
+    "He obeyed the Law of Moses: each will die for their own sin",
+    "They ran away to Egypt",
+    "They were too young"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Obedience"
+  ],
+  "characters": [
+    "Amaziah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amaziah followed the Law of Moses, which says parents shall not die for their children, nor children for their parents; each will die for their own sin."
+}

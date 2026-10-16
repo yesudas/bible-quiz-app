@@ -1,0 +1,33 @@
+{
+  "id": "18-033-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 33,
+  "verse_reference": "Job 33:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Elihu's words: \"God is ____ than any mortal.\"",
+  "options": [
+    "older",
+    "stronger",
+    "wiser",
+    "greater"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom",
+    "Worship"
+  ],
+  "characters": [
+    "Elihu"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elihu told Job, 'You are not right, for God is greater than any mortal.'"
+}

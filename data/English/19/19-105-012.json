@@ -1,0 +1,35 @@
+{
+  "id": "19-105-012",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 105,
+  "verse_reference": "Psalm 105:37",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were the Israelites carrying when God brought them out of Egypt?",
+  "options": [
+    "Silver and gold",
+    "Swords and shields",
+    "Sheep and goats",
+    "Bread and wine"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God brought out Israel laden with silver and gold, and no one among their tribes faltered."
+}

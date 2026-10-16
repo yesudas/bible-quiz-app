@@ -1,0 +1,37 @@
+{
+  "id": "06-007-014",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 7,
+  "verse_reference": "Joshua 7:26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened after Achan's sin had been dealt with?",
+  "options": [
+    "Israel returned to Egypt",
+    "The men of Ai asked for peace",
+    "The LORD turned from His fierce anger",
+    "Joshua stepped down as leader"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Achan"
+  ],
+  "places": [
+    {
+      "name": "Valley of Achor",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After the heap of rocks was raised over Achan, the LORD turned from His fierce anger."
+}

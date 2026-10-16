@@ -1,0 +1,32 @@
+{
+  "id": "18-029-007",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 29,
+  "verse_reference": "Job 29:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Job's words: \"I was eyes to the blind and ____ to the lame.\"",
+  "options": [
+    "hands",
+    "a friend",
+    "help",
+    "feet"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'I was eyes to the blind and feet to the lame.'"
+}

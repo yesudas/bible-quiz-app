@@ -1,0 +1,33 @@
+{
+  "id": "19-088-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 88,
+  "verse_reference": "Psalm 88:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"LORD, you are the God who saves me; day and ____ I cry out to you.\"",
+  "options": [
+    "morning",
+    "noon",
+    "night",
+    "evening"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Salvation"
+  ],
+  "characters": [
+    "Heman"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Even in deep trouble, the psalmist calls the LORD the God who saves him and cries out day and night."
+}

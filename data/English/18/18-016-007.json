@@ -1,0 +1,38 @@
+{
+  "id": "18-016-007",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 16,
+  "verse_reference": "Job 16:19",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Job say his witness was?",
+  "options": [
+    "In heaven",
+    "In the city gate",
+    "In the land of Uz",
+    "Among his friends"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Faith"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'Even now my witness is in heaven; my advocate is on high.'"
+}

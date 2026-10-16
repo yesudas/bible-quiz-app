@@ -1,0 +1,37 @@
+{
+  "id": "15-005-003",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 5,
+  "verse_reference": "Ezra 5:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was the governor of Trans-Euphrates who questioned the Jews about the building?",
+  "options": [
+    "Tattenai",
+    "Rehum",
+    "Sanballat",
+    "Mithredath"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Tattenai",
+    "Shethar-Bozenai"
+  ],
+  "places": [
+    {
+      "name": "Trans-Euphrates",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Tattenai, governor of Trans-Euphrates, and Shethar-Bozenai went to the Jews and asked who authorized them to rebuild the temple."
+}

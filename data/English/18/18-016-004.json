@@ -1,0 +1,32 @@
+{
+  "id": "18-016-004",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 16,
+  "verse_reference": "Job 16:16",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Job 16:16, why was Job's face red?",
+  "options": [
+    "From the hot sun",
+    "From anger",
+    "From weeping",
+    "From sickness in his eyes"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'My face is red with weeping, dark shadows ring my eyes.'"
+}

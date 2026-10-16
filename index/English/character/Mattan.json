@@ -1,0 +1,12 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Mattan",
+    "label": "Mattan",
+    "count": 2,
+    "paths": [
+        "English/12/12-011-013.json",
+        "English/14/14-023-012.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

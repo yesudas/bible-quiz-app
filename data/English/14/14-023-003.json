@@ -1,0 +1,38 @@
+{
+  "id": "14-023-003",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 23,
+  "verse_reference": "2 Chronicles 23:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jehoiada's words: \"The king's son shall reign, as the LORD promised concerning the descendants of ______.\"",
+  "options": [
+    "Abraham",
+    "Moses",
+    "Solomon",
+    "David"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [
+    "Jehoiada",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoiada said, \"The king's son shall reign, as the LORD promised concerning the descendants of David.\""
+}

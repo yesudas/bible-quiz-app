@@ -1,0 +1,33 @@
+{
+  "id": "19-145-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 145,
+  "verse_reference": "Psalm 145:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"The LORD is ______ to all who call on him, to all who call on him in truth.\"",
+  "options": [
+    "kind",
+    "great",
+    "known",
+    "near"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD is near to everyone who calls on Him in truth."
+}

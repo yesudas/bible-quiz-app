@@ -1,0 +1,38 @@
+{
+  "id": "08-001-006",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 1,
+  "verse_reference": "Ruth 1:3-5",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "Which happened first to Naomi in Moab?",
+  "options": [
+    "Mahlon and Kilion died",
+    "Her sons married Moabite women",
+    "Her husband Elimelek died",
+    "She heard the Lord had given His people food"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Family"
+  ],
+  "characters": [
+    "Naomi",
+    "Elimelek"
+  ],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elimelek died first. Later his sons married, and after about ten years both sons also died."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "19-041-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 41,
+  "verse_reference": "Psalm 41:9",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 41:9, who has turned against David?",
+  "options": [
+    "His close friend who shared his bread",
+    "His own son",
+    "A foreign king",
+    "A prophet of the LORD"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Prophecy"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 41:9 says, \"Even my close friend, someone I trusted, one who shared my bread, has turned against me.\""
+}

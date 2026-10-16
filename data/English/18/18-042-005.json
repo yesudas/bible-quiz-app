@@ -1,0 +1,36 @@
+{
+  "id": "18-042-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 42,
+  "verse_reference": "Job 42:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was the LORD angry with Eliphaz and his two friends?",
+  "options": [
+    "They had left Job too soon",
+    "They had stolen Job's flocks",
+    "They had not spoken the truth about Him, as Job had",
+    "They had refused to visit Job"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Wisdom"
+  ],
+  "characters": [
+    "God",
+    "Job",
+    "Eliphaz",
+    "Bildad",
+    "Zophar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, 'You have not spoken the truth about me, as my servant Job has.'"
+}

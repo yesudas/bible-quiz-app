@@ -1,0 +1,38 @@
+{
+  "id": "09-018-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 18,
+  "verse_reference": "1 Samuel 18:6-7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "The women sang, \"Saul has slain his thousands, and David his ___.\"",
+  "options": [
+    "hundreds",
+    "millions",
+    "enemies",
+    "tens of thousands"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The women came out from all the towns of Israel singing, \"Saul has slain his thousands, and David his tens of thousands.\""
+}

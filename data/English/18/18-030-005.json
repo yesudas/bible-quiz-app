@@ -1,0 +1,33 @@
+{
+  "id": "18-030-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 30,
+  "verse_reference": "Job 30:26",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Job's words: \"When I looked for light, then came ____.\"",
+  "options": [
+    "rain",
+    "joy",
+    "help",
+    "darkness"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Hope"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'Yet when I hoped for good, evil came; when I looked for light, then came darkness.'"
+}

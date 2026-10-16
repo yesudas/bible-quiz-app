@@ -1,0 +1,37 @@
+{
+  "id": "13-013-007",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 13,
+  "verse_reference": "1 Chronicles 13:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Uzzah reach out his hand to the ark?",
+  "options": [
+    "The oxen stumbled",
+    "He wanted to open it",
+    "The cart caught fire",
+    "Someone tried to steal it"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [
+    "Uzzah"
+  ],
+  "places": [
+    {
+      "name": "threshing floor of Kidon",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they came to the threshing floor of Kidon, Uzzah reached out his hand to steady the ark because the oxen stumbled."
+}

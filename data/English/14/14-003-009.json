@@ -1,0 +1,38 @@
+{
+  "id": "14-003-009",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 3,
+  "verse_reference": "2 Chronicles 3:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What pair of figures did Solomon make for the Most Holy Place and overlay with gold?",
+  "options": [
+    "Two lions",
+    "Two cherubim",
+    "Two bulls",
+    "Two eagles"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Angels"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Most Holy Place",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon made a pair of sculptured cherubim for the Most Holy Place and overlaid them with gold."
+}

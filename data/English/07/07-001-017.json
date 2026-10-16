@@ -1,0 +1,35 @@
+{
+  "id": "07-001-017",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 1,
+  "verse_reference": "Judges 1:23-25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When the tribes of Joseph attacked Bethel, what happened to the man who showed their spies how to get into the city?",
+  "options": [
+    "He was made king of Bethel",
+    "He and his whole family were spared",
+    "He was taken as a prisoner to Shiloh",
+    "He joined the tribe of Ephraim"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The spies promised to treat the man well if he showed them the way in. They kept their word and spared him and his whole family."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "19-015-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 15,
+  "verse_reference": "Psalm 15:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 15:4, what does the righteous person do with an oath?",
+  "options": [
+    "Breaks it if it costs too much",
+    "Makes it only to kings",
+    "Never makes one at all",
+    "Keeps it even when it hurts"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Truth",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 15:4 says the righteous person keeps an oath even when it hurts, and does not change their mind."
+}

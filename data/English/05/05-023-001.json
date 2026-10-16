@@ -1,0 +1,37 @@
+{
+  "id": "05-023-001",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 23,
+  "verse_reference": "Deuteronomy 23:3-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why were the Ammonites and Moabites excluded from the assembly of the Lord?",
+  "options": [
+    "They did not meet Israel with food and water, and hired Balaam to curse them",
+    "They lived too far away",
+    "They refused to pay tribute",
+    "They spoke a different language"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Covenant"
+  ],
+  "characters": [
+    "Balaam"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Ammonites and Moabites did not come to meet Israel with bread and water on their journey from Egypt, and they hired Balaam to curse them."
+}

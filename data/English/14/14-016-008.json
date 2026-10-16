@@ -1,0 +1,39 @@
+{
+  "id": "14-016-008",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 16,
+  "verse_reference": "2 Chronicles 16:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Hanani say Asa had done wrong?",
+  "options": [
+    "He built too many cities",
+    "He had too many wives",
+    "He relied on the king of Aram and not on the LORD",
+    "He did not pay his soldiers"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Sin"
+  ],
+  "characters": [
+    "Hanani",
+    "Asa"
+  ],
+  "places": [
+    {
+      "name": "Aram",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hanani said, \"Because you relied on the king of Aram and not on the LORD your God, the army of the king of Aram has escaped from your hand.\""
+}

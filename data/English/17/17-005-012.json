@@ -1,0 +1,33 @@
+{
+  "id": "17-005-012",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 5,
+  "verse_reference": "Esther 5:14",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "How high was the pole that Haman had set up for Mordecai?",
+  "options": [
+    "Ten cubits",
+    "Thirty cubits",
+    "Seventy cubits",
+    "Fifty cubits"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution",
+    "Pride"
+  ],
+  "characters": [
+    "Haman",
+    "Mordecai"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zeresh and Haman's friends told him to set up a pole reaching a height of fifty cubits, and the suggestion delighted Haman."
+}

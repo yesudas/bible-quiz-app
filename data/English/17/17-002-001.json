@@ -1,0 +1,37 @@
+{
+  "id": "17-002-001",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 2,
+  "verse_reference": "Esther 2:2-4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the king's attendants suggest to find a new queen instead of Vashti?",
+  "options": [
+    "Choose a princess from a nearby kingdom",
+    "Search for beautiful young virgins across the provinces",
+    "Ask the wise men to pick a noble's daughter",
+    "Hold a contest of wisdom"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Marriage"
+  ],
+  "characters": [
+    "Xerxes"
+  ],
+  "places": [
+    {
+      "name": "Susa",
+      "type": "citadel"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The attendants suggested a search for beautiful young virgins, and the girl who pleased the king would become queen instead of Vashti."
+}

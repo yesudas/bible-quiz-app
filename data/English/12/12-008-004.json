@@ -1,0 +1,33 @@
+{
+  "id": "12-008-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 8,
+  "verse_reference": "2 Kings 8:4-5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was telling the king about Elisha's great deeds when the Shunammite woman arrived?",
+  "options": [
+    "Gehazi",
+    "Hazael",
+    "Naaman",
+    "The captain of fifty"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Gehazi",
+    "Elisha"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king was asking Gehazi about Elisha's great deeds, and just as Gehazi told how Elisha raised the boy, the woman came in."
+}

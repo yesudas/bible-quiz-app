@@ -1,0 +1,37 @@
+{
+  "id": "23-036-008",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 36,
+  "verse_reference": "Isaiah 36:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the people respond to the field commander's words?",
+  "options": [
+    "They remained silent, because the king had commanded them not to answer",
+    "They shouted back at him",
+    "They opened the gates",
+    "They ran away to the hills"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience",
+    "Faith"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 36:21 says the people remained silent and said nothing in reply, because the king had commanded, 'Do not answer him.'"
+}

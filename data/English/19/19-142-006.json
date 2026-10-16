@@ -1,0 +1,33 @@
+{
+  "id": "19-142-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 142,
+  "verse_reference": "Psalm 142:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did David ask God to rescue him from those who pursued him?",
+  "options": [
+    "Because they were his family",
+    "Because they were too strong for him",
+    "Because they were lost",
+    "Because they were hungry"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Persecution"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Rescue me from those who pursue me, for they are too strong for me.\""
+}

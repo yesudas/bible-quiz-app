@@ -1,0 +1,30 @@
+{
+  "id": "19-123-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 123,
+  "verse_reference": "Psalm 123:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In Psalm 123, God's people look to the LORD the way slaves look to what?",
+  "options": [
+    "The hand of their master",
+    "The road home",
+    "The face of the king",
+    "The sky for rain"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As the eyes of slaves look to the hand of their master, so our eyes look to the LORD our God till He shows us His mercy."
+}

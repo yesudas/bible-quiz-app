@@ -1,0 +1,33 @@
+{
+  "id": "06-013-003",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 13,
+  "verse_reference": "Joshua 13:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The LORD said about the remaining peoples, \"I ____ will drive them out before the Israelites.\"",
+  "options": [
+    "myself",
+    "soon",
+    "always",
+    "quickly"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Faith"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD promised He Himself would drive out the remaining peoples, and told Joshua to divide the land to Israel as an inheritance."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "06-017-005",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 17,
+  "verse_reference": "Joshua 17:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Zelophehad's daughters remind Eleazar and Joshua about?",
+  "options": [
+    "That their father had been a great soldier",
+    "That the LORD had commanded Moses to give them an inheritance",
+    "That they wanted to marry into Judah",
+    "That Caleb had promised them springs"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Family",
+    "Law"
+  ],
+  "characters": [
+    "Zelophehad",
+    "Eleazar",
+    "Joshua",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They said, \"The LORD commanded Moses to give us an inheritance among our relatives,\" and Joshua gave them one."
+}

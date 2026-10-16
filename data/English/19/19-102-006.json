@@ -1,0 +1,35 @@
+{
+  "id": "19-102-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 102,
+  "verse_reference": "Psalm 102:14",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 102, what were dear to God's servants even though Zion was in ruins?",
+  "options": [
+    "Her stones",
+    "Her gold",
+    "Her gates",
+    "Her palaces"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist said Zion's very stones were dear to God's servants, and even her dust moved them to pity."
+}

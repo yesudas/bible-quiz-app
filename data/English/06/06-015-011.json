@@ -1,0 +1,34 @@
+{
+  "id": "06-015-011",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 15,
+  "verse_reference": "Joshua 15:63",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Which people could Judah not drive out of Jerusalem?",
+  "options": [
+    "The Jebusites",
+    "The Philistines",
+    "The Anakites",
+    "The Gibeonites"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Judah could not dislodge the Jebusites living in Jerusalem, so the Jebusites lived there with the people of Judah."
+}

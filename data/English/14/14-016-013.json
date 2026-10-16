@@ -1,0 +1,30 @@
+{
+  "id": "14-016-013",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 16,
+  "verse_reference": "2 Chronicles 16:13",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "In which year of his reign did Asa die?",
+  "options": [
+    "The thirty-sixth",
+    "The thirty-ninth",
+    "The fifteenth",
+    "The forty-first"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Asa"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asa rested with his ancestors in the forty-first year of his reign."
+}

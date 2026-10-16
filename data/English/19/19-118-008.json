@@ -1,0 +1,29 @@
+{
+  "id": "19-118-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 118,
+  "verse_reference": "Psalm 118:19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 118, which gates did the psalmist ask to be opened for him?",
+  "options": [
+    "The gates of the city",
+    "The gates of the palace",
+    "The gates of heaven",
+    "The gates of the righteous"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He said, \"Open for me the gates of the righteous; I will enter and give thanks to the LORD.\""
+}

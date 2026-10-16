@@ -1,0 +1,39 @@
+{
+  "id": "09-017-021",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 17,
+  "verse_reference": "1 Samuel 17:58",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "David told Saul, \"I am the son of your servant ___ of Bethlehem.\"",
+  "options": [
+    "Samuel",
+    "Kish",
+    "Boaz",
+    "Jesse"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "David",
+    "Saul",
+    "Jesse"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Saul asked whose son he was, David said, \"I am the son of your servant Jesse of Bethlehem.\""
+}

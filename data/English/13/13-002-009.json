@@ -1,0 +1,33 @@
+{
+  "id": "13-002-009",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 2,
+  "verse_reference": "1 Chronicles 2:20",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was the son of Uri and grandson of Hur?",
+  "options": [
+    "Bezalel",
+    "Caleb",
+    "Oholiab",
+    "Nahshon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Hur",
+    "Uri",
+    "Bezalel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 2:20 says Hur was the father of Uri, and Uri was the father of Bezalel."
+}

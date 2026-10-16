@@ -1,0 +1,31 @@
+{
+  "id": "19-136-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 136,
+  "verse_reference": "Psalm 136:1-26",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "Which phrase is repeated in every verse of Psalm 136?",
+  "options": [
+    "\"Praise the LORD\"",
+    "\"His love endures forever\"",
+    "\"Holy is his name\"",
+    "\"The LORD is my shepherd\""
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Every one of the 26 verses of Psalm 136 ends with \"His love endures forever.\""
+}

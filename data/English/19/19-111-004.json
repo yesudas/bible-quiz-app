@@ -1,0 +1,31 @@
+{
+  "id": "19-111-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 111,
+  "verse_reference": "Psalm 111:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 111, for whom does the LORD provide food?",
+  "options": [
+    "Those who are rich",
+    "Those who work hard",
+    "Those who live in Zion",
+    "Those who fear Him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Provision",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He provides food for those who fear Him; He remembers His covenant forever."
+}

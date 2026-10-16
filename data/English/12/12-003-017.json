@@ -1,0 +1,37 @@
+{
+  "id": "12-003-017",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 3,
+  "verse_reference": "2 Kings 3:25",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which Moabite city was left with only its stones in place, surrounded by slingers?",
+  "options": [
+    "Dibon",
+    "Kir Hareseth",
+    "Ar",
+    "Heshbon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Kir Hareseth",
+      "type": "city"
+    },
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Only Kir Hareseth was left with its stones in place, but men armed with slings surrounded it and attacked it."
+}

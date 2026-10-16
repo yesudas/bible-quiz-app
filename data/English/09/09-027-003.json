@@ -1,0 +1,47 @@
+{
+  "id": "09-027-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 27,
+  "verse_reference": "1 Samuel 27:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which two wives were with David in Gath?",
+  "options": [
+    "Michal and Merab",
+    "Ahinoam of Jezreel and Abigail of Carmel",
+    "Abigail and Michal",
+    "Bathsheba and Ahinoam"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage",
+    "Family"
+  ],
+  "characters": [
+    "David",
+    "Ahinoam",
+    "Abigail"
+  ],
+  "places": [
+    {
+      "name": "Gath",
+      "type": "city"
+    },
+    {
+      "name": "Jezreel",
+      "type": "town"
+    },
+    {
+      "name": "Carmel",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David had his two wives with him: Ahinoam of Jezreel and Abigail of Carmel, the widow of Nabal."
+}

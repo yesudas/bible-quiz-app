@@ -1,0 +1,31 @@
+{
+  "id": "10-019-013",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 19,
+  "verse_reference": "2 Samuel 19:35",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How old was Barzillai when he declined to go with David to Jerusalem?",
+  "options": [
+    "Seventy",
+    "One hundred",
+    "Ninety",
+    "Eighty"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Barzillai"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Barzillai said, \"I am now eighty years old,\" and asked why he should become a burden to the king."
+}

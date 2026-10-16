@@ -1,0 +1,38 @@
+{
+  "id": "05-007-009",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 7,
+  "verse_reference": "Deuteronomy 7:18-19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Moses tell Israel to overcome their fear of the nations they faced?",
+  "options": [
+    "By counting their own soldiers",
+    "By remembering what the Lord did to Pharaoh and all Egypt",
+    "By making treaties with the nations",
+    "By hiding in the mountains"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Hope",
+    "Fear"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses told Israel not to fear but to remember the mighty signs and wonders the Lord used to bring them out of Egypt, trusting He would do the same again."
+}

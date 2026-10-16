@@ -1,0 +1,37 @@
+{
+  "id": "12-006-007",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 6,
+  "verse_reference": "2 Kings 6:13-14",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In which town was Elisha when the army of Aram surrounded it?",
+  "options": [
+    "Samaria",
+    "Jericho",
+    "Shunem",
+    "Dothan"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Dothan",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king of Aram was told Elisha was in Dothan, so he sent a strong force by night to surround the city."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "23-010-009",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 10,
+  "verse_reference": "Isaiah 10:32",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "At which town would the invading army halt and shake its fist at Daughter Zion?",
+  "options": [
+    "Gibeah",
+    "Ramah",
+    "Nob",
+    "Anathoth"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Nob",
+      "type": "town"
+    },
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 10:32 says, 'This day they will halt at Nob; they will shake their fist at the mount of Daughter Zion.'"
+}

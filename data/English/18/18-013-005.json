@@ -1,0 +1,34 @@
+{
+  "id": "18-013-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 13,
+  "verse_reference": "Job 13:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Job's words: \"Though he slay me, yet will I ____ in him.\"",
+  "options": [
+    "hope",
+    "sing",
+    "walk",
+    "rest"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Hope",
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'Though he slay me, yet will I hope in him; I will surely defend my ways to his face.'"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14-035-003",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 35,
+  "verse_reference": "2 Chronicles 35:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Josiah tell the Levites about the sacred ark?",
+  "options": [
+    "To carry it into battle",
+    "To send it to Babylon",
+    "To put it in the temple Solomon built and not carry it about on their shoulders",
+    "To cover it with new gold"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Josiah",
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Josiah told the Levites to put the sacred ark in the temple Solomon built, saying, \"It is not to be carried about on your shoulders.\""
+}

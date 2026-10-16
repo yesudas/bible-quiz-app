@@ -1,0 +1,40 @@
+{
+  "id": "12-014-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 14,
+  "verse_reference": "2 Kings 14:7",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Amaziah defeat ten thousand Edomites?",
+  "options": [
+    "The Valley of Jezreel",
+    "The Desert of Edom",
+    "The Valley of Salt",
+    "Beth Shemesh"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Amaziah"
+  ],
+  "places": [
+    {
+      "name": "Valley of Salt",
+      "type": "valley"
+    },
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amaziah defeated ten thousand Edomites in the Valley of Salt."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "14-033-006",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 33,
+  "verse_reference": "2 Chronicles 33:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How much evil did Manasseh lead Judah to do?",
+  "options": [
+    "Less than the kings before him",
+    "Only a little evil",
+    "The same as Hezekiah",
+    "More evil than the nations the LORD had destroyed"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Manasseh"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Manasseh led Judah astray, so that they did more evil than the nations the LORD had destroyed before the Israelites."
+}

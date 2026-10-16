@@ -1,0 +1,33 @@
+{
+  "id": "18-006-008",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 6,
+  "verse_reference": "Job 6:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Job's words: \"Teach me, and I will be ____; show me where I have been wrong.\"",
+  "options": [
+    "happy",
+    "strong",
+    "thankful",
+    "quiet"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom",
+    "Repentance"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job asked his friends, 'Teach me, and I will be quiet; show me where I have been wrong.'"
+}

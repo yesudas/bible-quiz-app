@@ -1,0 +1,32 @@
+{
+  "id": "07-005-009",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 5,
+  "verse_reference": "Judges 5:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"From the heavens the ___ fought, from their courses they fought against Sisera.\"",
+  "options": [
+    "angels",
+    "stars",
+    "clouds",
+    "winds"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "Sisera"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Deborah's song says that even the stars fought against Sisera from the heavens."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "23-026-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 26,
+  "verse_reference": "Isaiah 26:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: 'You will keep in perfect ______ those whose minds are steadfast, because they trust in you.'",
+  "options": [
+    "joy",
+    "safety",
+    "peace",
+    "health"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 26:3 says, 'You will keep in perfect peace those whose minds are steadfast, because they trust in you.'"
+}

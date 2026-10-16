@@ -1,0 +1,37 @@
+{
+  "id": "11-002-007",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 2,
+  "verse_reference": "1 Kings 2:10",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where was David buried?",
+  "options": [
+    "In Bethlehem",
+    "In Hebron",
+    "In the City of David",
+    "In Gibeah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "City of David",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David rested with his ancestors and was buried in the City of David."
+}

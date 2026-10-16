@@ -1,0 +1,36 @@
+{
+  "id": "05-003-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 3,
+  "verse_reference": "Deuteronomy 3:11",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Og was described as the last survivor of which group of people, and was known for his huge iron bed?",
+  "options": [
+    "The Rephaites",
+    "The Amalekites",
+    "The Hittites",
+    "The Philistines"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Og"
+  ],
+  "places": [
+    {
+      "name": "Rabbah",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Og was the last of the Rephaites, and his enormous iron bed was kept in Rabbah of the Ammonites."
+}

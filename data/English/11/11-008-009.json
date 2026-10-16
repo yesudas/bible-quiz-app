@@ -1,0 +1,37 @@
+{
+  "id": "11-008-009",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 8,
+  "verse_reference": "1 Kings 8:27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In his prayer, what did Solomon say even the highest heaven cannot do?",
+  "options": [
+    "Hear God's voice",
+    "Be measured by people",
+    "Hide from God",
+    "Contain God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Prayer"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon asked, \"Will God really dwell on earth?\" and said even the highest heaven cannot contain Him, much less the temple he had built."
+}

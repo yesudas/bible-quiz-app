@@ -1,0 +1,30 @@
+{
+  "id": "23-042-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 42,
+  "verse_reference": "Isaiah 42:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'I am the LORD; that is my name! I will not yield my ______ to another.'",
+  "options": [
+    "throne",
+    "glory",
+    "people",
+    "land"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Holiness"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 42:8 says, 'I am the LORD; that is my name! I will not yield my glory to another or my praise to idols.'"
+}

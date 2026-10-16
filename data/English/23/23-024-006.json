@@ -1,0 +1,29 @@
+{
+  "id": "23-024-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 24,
+  "verse_reference": "Isaiah 24:20",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How does Isaiah describe the earth reeling under judgment?",
+  "options": [
+    "Like a ship on the sea",
+    "Like a drunkard, swaying like a hut in the wind",
+    "Like a tree in a storm",
+    "Like a city on fire"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 24:20 says the earth reels like a drunkard and sways like a hut in the wind."
+}

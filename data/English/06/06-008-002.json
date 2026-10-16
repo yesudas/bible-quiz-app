@@ -1,0 +1,41 @@
+{
+  "id": "06-008-002",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 8,
+  "verse_reference": "Joshua 8:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How was the LORD's command about the plunder of Ai different from His command about Jericho?",
+  "options": [
+    "At Ai nothing could be touched",
+    "At Ai all the gold went to the priests",
+    "At Ai Israel could keep the plunder and livestock",
+    "At Ai everything had to be burned"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience",
+    "Law"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Ai",
+      "type": "city"
+    },
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At Jericho everything was devoted to the LORD, but at Ai the LORD allowed Israel to carry off the plunder and livestock for themselves."
+}

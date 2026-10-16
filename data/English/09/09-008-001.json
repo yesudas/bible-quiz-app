@@ -1,0 +1,34 @@
+{
+  "id": "09-008-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 8,
+  "verse_reference": "1 Samuel 8:1-2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "What were the names of Samuel's two sons?",
+  "options": [
+    "Hophni and Phinehas",
+    "Joel and Abijah",
+    "Nadab and Abihu",
+    "Jonathan and Abinadab"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Leadership"
+  ],
+  "characters": [
+    "Samuel",
+    "Joel",
+    "Abijah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel's firstborn was named Joel and his second son was named Abijah."
+}

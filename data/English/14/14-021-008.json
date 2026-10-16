@@ -1,0 +1,36 @@
+{
+  "id": "14-021-008",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 21,
+  "verse_reference": "2 Chronicles 21:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Libnah revolt at the same time?",
+  "options": [
+    "Because Jehoram had forsaken the LORD",
+    "Because of heavy taxes",
+    "Because of a famine",
+    "Because Edom forced them"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Jehoram"
+  ],
+  "places": [
+    {
+      "name": "Libnah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Libnah revolted at the same time, because Jehoram had forsaken the LORD, the God of his ancestors."
+}

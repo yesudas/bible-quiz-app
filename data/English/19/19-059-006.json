@@ -1,0 +1,33 @@
+{
+  "id": "19-059-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 59,
+  "verse_reference": "Psalm 59:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 59:16, what does David call God in times of trouble?",
+  "options": [
+    "His refuge",
+    "His judge",
+    "His king",
+    "His teacher"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Suffering"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David calls God his fortress and his refuge in times of trouble."
+}

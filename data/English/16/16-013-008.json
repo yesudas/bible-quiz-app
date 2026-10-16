@@ -1,0 +1,35 @@
+{
+  "id": "16-013-008",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 13,
+  "verse_reference": "Nehemiah 13:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Nehemiah put Shelemiah, Zadok and Pedaiah in charge of the storerooms?",
+  "options": [
+    "They were his brothers",
+    "They were the oldest priests",
+    "They were rich",
+    "They were considered trustworthy"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Nehemiah"
+  ],
+  "places": [
+    {
+      "name": "House of God",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah put these men in charge of the storerooms because they were considered trustworthy, and they were to distribute supplies to their fellow Levites."
+}

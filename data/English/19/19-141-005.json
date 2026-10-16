@@ -1,0 +1,32 @@
+{
+  "id": "19-141-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 141,
+  "verse_reference": "Psalm 141:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 141, what is it like when a righteous man rebukes you?",
+  "options": [
+    "A heavy burden",
+    "Oil on your head",
+    "A sharp sword",
+    "A storm"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Humility"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Let a righteous man strike me—that is a kindness; let him rebuke me—that is oil on my head.\""
+}

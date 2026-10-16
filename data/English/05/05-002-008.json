@@ -1,0 +1,37 @@
+{
+  "id": "05-002-008",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 2,
+  "verse_reference": "Deuteronomy 2:24",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which king of Heshbon did God command Israel to begin to take possession of?",
+  "options": [
+    "Og",
+    "Balak",
+    "Sihon",
+    "Arad"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Promise"
+  ],
+  "characters": [
+    "Sihon"
+  ],
+  "places": [
+    {
+      "name": "Heshbon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Israel to cross the Arnon Gorge and begin to take possession of the land of Sihon, the Amorite king of Heshbon."
+}

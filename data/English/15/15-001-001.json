@@ -1,0 +1,39 @@
+{
+  "id": "15-001-001",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 1,
+  "verse_reference": "Ezra 1:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which king of Persia made a decree allowing the Jews to return and rebuild the temple?",
+  "options": [
+    "Darius",
+    "Cyrus",
+    "Xerxes",
+    "Artaxerxes"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Cyrus"
+  ],
+  "places": [
+    {
+      "name": "Persia",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD moved the heart of Cyrus king of Persia to make a proclamation throughout his kingdom about rebuilding the temple."
+}

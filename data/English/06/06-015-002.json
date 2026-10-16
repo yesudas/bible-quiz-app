@@ -1,0 +1,38 @@
+{
+  "id": "06-015-002",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 15,
+  "verse_reference": "Joshua 15:5",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which sea formed the eastern boundary of Judah's land?",
+  "options": [
+    "The Dead Sea",
+    "The Red Sea",
+    "The Sea of Galilee",
+    "The Mediterranean Sea"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Dead Sea",
+      "type": "sea"
+    },
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The eastern boundary of Judah was the Dead Sea, as far as the mouth of the Jordan."
+}

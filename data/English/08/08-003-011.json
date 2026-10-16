@@ -1,0 +1,33 @@
+{
+  "id": "08-003-011",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 3,
+  "verse_reference": "Ruth 3:12-13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why could Boaz not promise at once to redeem Ruth?",
+  "options": [
+    "There was a guardian-redeemer more closely related than he was",
+    "He was already married",
+    "The elders had forbidden it",
+    "He was too poor"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Redemption",
+    "Law"
+  ],
+  "characters": [
+    "Boaz",
+    "Ruth"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Boaz said there was another guardian-redeemer nearer than he was; if that man would not redeem her, Boaz would."
+}

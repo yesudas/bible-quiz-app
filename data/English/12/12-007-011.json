@@ -1,0 +1,34 @@
+{
+  "id": "12-007-011",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 7,
+  "verse_reference": "2 Kings 7:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the king of Israel first think when he heard the Arameans had left?",
+  "options": [
+    "That it was a trap to lure the people out of the city",
+    "That God had answered Elisha's prayer",
+    "That the Arameans had made peace",
+    "That the lepers were lying"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king thought the Arameans had left the camp to hide in the countryside and trap the people when they came out."
+}

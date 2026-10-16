@@ -1,0 +1,41 @@
+{
+  "id": "12-008-012",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 8,
+  "verse_reference": "2 Kings 8:16-17",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which son of Jehoshaphat became king of Judah and reigned eight years in Jerusalem?",
+  "options": [
+    "Jehoram",
+    "Ahaziah",
+    "Joash",
+    "Amaziah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoram",
+    "Jehoshaphat"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoram son of Jehoshaphat became king of Judah at thirty-two and reigned in Jerusalem eight years."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12-010-003",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 10,
+  "verse_reference": "2 Kings 10:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The leaders of Samaria were terrified and said: \"If two ______ could not resist him, how can we?\"",
+  "options": [
+    "armies",
+    "prophets",
+    "cities",
+    "kings"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jehu"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They were terrified because two kings, Joram and Ahaziah, had not been able to stand against Jehu."
+}

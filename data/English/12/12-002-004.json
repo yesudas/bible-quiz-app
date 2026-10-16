@@ -1,0 +1,39 @@
+{
+  "id": "12-002-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 2,
+  "verse_reference": "2 Kings 2:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Elisha's words to Elijah: \"As surely as the LORD lives and as you live, I will not ______ you.\"",
+  "options": [
+    "forget",
+    "leave",
+    "fail",
+    "doubt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship",
+    "Faith"
+  ],
+  "characters": [
+    "Elisha",
+    "Elijah"
+  ],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Each time Elijah told him to stay behind, Elisha promised he would not leave him."
+}

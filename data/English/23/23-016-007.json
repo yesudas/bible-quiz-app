@@ -1,0 +1,34 @@
+{
+  "id": "23-016-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 16,
+  "verse_reference": "Isaiah 16:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened when Moab went to her shrine to pray?",
+  "options": [
+    "Her prayers were of no use",
+    "Her god answered with fire",
+    "Her enemies ran away",
+    "The rain came"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 16:12 says when Moab goes to her shrine to pray, it is to no avail."
+}

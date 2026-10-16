@@ -1,0 +1,32 @@
+{
+  "id": "06-011-010",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 11,
+  "verse_reference": "Joshua 11:18",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How long did Joshua wage war against all these kings?",
+  "options": [
+    "Seven days",
+    "One year",
+    "For a long time",
+    "Forty days"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua 11:18 says Joshua waged war against all these kings for a long time."
+}

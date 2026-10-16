@@ -1,0 +1,33 @@
+{
+  "id": "19-032-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 32,
+  "verse_reference": "Psalm 32:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Blessed is the one whose transgressions are ____, whose sins are covered.\"",
+  "options": [
+    "forgotten",
+    "forgiven",
+    "washed",
+    "removed"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Forgiveness",
+    "Salvation"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 32:1 says, \"Blessed is the one whose transgressions are forgiven, whose sins are covered.\""
+}

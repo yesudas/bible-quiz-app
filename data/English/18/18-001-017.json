@@ -1,0 +1,34 @@
+{
+  "id": "18-001-017",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 1,
+  "verse_reference": "Job 1:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does Job 1:22 say about Job after all these troubles?",
+  "options": [
+    "He sinned by blaming God",
+    "He did not sin by charging God with wrongdoing",
+    "He stopped praying",
+    "He asked his friends to curse God"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Suffering",
+    "Sin"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In all this, Job did not sin by charging God with wrongdoing."
+}

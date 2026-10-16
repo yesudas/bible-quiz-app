@@ -1,0 +1,32 @@
+{
+  "id": "06-013-004",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 13,
+  "verse_reference": "Joshua 13:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Among whom was Joshua to divide the land west of the Jordan?",
+  "options": [
+    "All twelve tribes",
+    "The two and a half eastern tribes",
+    "The priests and Levites",
+    "The nine tribes and half of the tribe of Manasseh"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Family"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Joshua to divide the land as an inheritance among the nine tribes and half of the tribe of Manasseh."
+}

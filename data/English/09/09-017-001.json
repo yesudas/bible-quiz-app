@@ -1,0 +1,49 @@
+{
+  "id": "09-017-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 17,
+  "verse_reference": "1 Samuel 17:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In which valley were the Israelites camped when they faced the Philistines?",
+  "options": [
+    "Valley of Jezreel",
+    "Valley of Elah",
+    "Valley of Hinnom",
+    "Valley of Kidron"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Valley of Elah",
+      "type": "valley"
+    },
+    {
+      "name": "Sokoh",
+      "type": "town"
+    },
+    {
+      "name": "Azekah",
+      "type": "town"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul and the Israelites camped in the Valley of Elah and drew up their battle line to meet the Philistines."
+}

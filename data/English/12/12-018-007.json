@@ -1,0 +1,41 @@
+{
+  "id": "12-018-007",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 18,
+  "verse_reference": "2 Kings 18:13",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which king of Assyria attacked the fortified cities of Judah in Hezekiah's fourteenth year?",
+  "options": [
+    "Shalmaneser",
+    "Tiglath-Pileser",
+    "Pul",
+    "Sennacherib"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Sennacherib",
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the fourteenth year of Hezekiah, Sennacherib king of Assyria attacked all the fortified cities of Judah and captured them."
+}

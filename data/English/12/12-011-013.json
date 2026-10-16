@@ -1,0 +1,36 @@
+{
+  "id": "12-011-013",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 11,
+  "verse_reference": "2 Kings 11:18",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which priest of Baal was killed in front of the altars?",
+  "options": [
+    "Jehoiada",
+    "Zechariah",
+    "Mattan",
+    "Hilkiah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Idolatry",
+    "Judgment"
+  ],
+  "characters": [
+    "Mattan"
+  ],
+  "places": [
+    {
+      "name": "Temple of Baal",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people killed Mattan the priest of Baal in front of the altars."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "12-020-003",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 20,
+  "verse_reference": "2 Kings 20:4-5",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When did the LORD's word come to Isaiah telling him to go back to Hezekiah?",
+  "options": [
+    "The next morning",
+    "Before Isaiah had left the middle court",
+    "After three days",
+    "When Hezekiah went up to the temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Prophecy"
+  ],
+  "characters": [
+    "Isaiah",
+    "Hezekiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Before Isaiah had left the middle court, the word of the LORD came to him to go back and tell Hezekiah that God had heard his prayer."
+}

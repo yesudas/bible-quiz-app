@@ -1,0 +1,40 @@
+{
+  "id": "13-022-003",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 22,
+  "verse_reference": "1 Chronicles 22:4",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which peoples brought large numbers of cedar logs to David?",
+  "options": [
+    "The Egyptians and Moabites",
+    "The Philistines and Edomites",
+    "The Sidonians and Tyrians",
+    "The Ammonites and Arameans"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Work"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Sidon",
+      "type": "city"
+    },
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David provided more cedar logs than could be counted, for the Sidonians and Tyrians had brought large numbers of them."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "19-136-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 136,
+  "verse_reference": "Psalm 136:15",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 136, whom did God sweep into the Red Sea with his army?",
+  "options": [
+    "Sihon",
+    "Og",
+    "Pharaoh",
+    "Goliath"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Salvation"
+  ],
+  "characters": [
+    "Pharaoh"
+  ],
+  "places": [
+    {
+      "name": "Red Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God swept Pharaoh and his army into the Red Sea."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "21-009-007",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 9,
+  "verse_reference": "Ecclesiastes 9:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What does the Teacher compare people trapped by evil times to?",
+  "options": [
+    "Sheep without a shepherd",
+    "Fish taken in a cruel net and birds taken in a snare",
+    "Leaves blown by the wind",
+    "A house built on sand"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Like fish taken in a cruel net, or birds taken in a snare, so people are trapped by evil times that fall unexpectedly upon them.\""
+}

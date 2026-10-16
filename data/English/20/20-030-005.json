@@ -1,0 +1,30 @@
+{
+  "id": "20-030-005",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 30,
+  "verse_reference": "Proverbs 30:15",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "In Proverbs 30:15, which creature has two daughters who cry, \"Give! Give!\"?",
+  "options": [
+    "The locust",
+    "The ant",
+    "The leech",
+    "The lizard"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Temptation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 30:15 says the leech has two daughters. \"Give! Give!\" they cry."
+}

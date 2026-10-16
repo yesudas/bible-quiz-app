@@ -1,0 +1,32 @@
+{
+  "id": "16-002-005",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 2,
+  "verse_reference": "Nehemiah 2:7-8",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "To whom did Nehemiah ask for a letter so he could get timber for the gates and wall?",
+  "options": [
+    "Hanani, his brother",
+    "Sanballat the Horonite",
+    "Ezra the scribe",
+    "Asaph, keeper of the royal park"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Nehemiah",
+    "Asaph"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah asked for a letter to Asaph, keeper of the king's park, so he would give him timber for the gates, the city wall and Nehemiah's residence."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "15-009-003",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 9,
+  "verse_reference": "Ezra 9:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Ezra do when he heard this report?",
+  "options": [
+    "He called for a great feast",
+    "He left Jerusalem at once",
+    "He tore his clothes and pulled hair from his head and beard",
+    "He wrote a letter to the king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Sin"
+  ],
+  "characters": [
+    "Ezra"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Ezra heard this, he tore his tunic and cloak, pulled hair from his head and beard, and sat down appalled."
+}

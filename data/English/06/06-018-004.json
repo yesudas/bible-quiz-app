@@ -1,0 +1,31 @@
+{
+  "id": "06-018-004",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 18,
+  "verse_reference": "Joshua 18:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many men from each tribe did Joshua tell the people to appoint to survey the land?",
+  "options": [
+    "One",
+    "Two",
+    "Twelve",
+    "Three"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua told them to appoint three men from each tribe to survey the land and write a description of it."
+}

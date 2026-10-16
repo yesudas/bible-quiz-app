@@ -1,0 +1,35 @@
+{
+  "id": "12-015-013",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 15,
+  "verse_reference": "2 Kings 15:35",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What part of the temple did King Jotham rebuild?",
+  "options": [
+    "The altar",
+    "The Most Holy Place",
+    "The Upper Gate",
+    "The bronze Sea"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Jotham"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jotham rebuilt the Upper Gate of the temple of the LORD."
+}

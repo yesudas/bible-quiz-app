@@ -1,0 +1,30 @@
+{
+  "id": "19-104-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 104,
+  "verse_reference": "Psalm 104:15",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which of these is NOT listed in Psalm 104:15 as something God gives people?",
+  "options": [
+    "Wine that gladdens the heart",
+    "Oil to make the face shine",
+    "Bread that sustains the heart",
+    "Honey from the rock"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation",
+    "Provision"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 104:15 mentions wine, oil and bread as God's gifts to people. Honey from the rock is not mentioned in this verse."
+}

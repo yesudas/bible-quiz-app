@@ -1,0 +1,33 @@
+{
+  "id": "19-140-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 140,
+  "verse_reference": "Psalm 140:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 140, where will the upright live?",
+  "options": [
+    "In God's presence",
+    "In a strong city",
+    "In Egypt",
+    "In the king's house"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Surely the righteous will praise God's name, and the upright will live in His presence."
+}

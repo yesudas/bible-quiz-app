@@ -1,0 +1,37 @@
+{
+  "id": "23-036-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 36,
+  "verse_reference": "Isaiah 36:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In which language did Hezekiah's officials ask the field commander to speak to them?",
+  "options": [
+    "Hebrew",
+    "Egyptian",
+    "Greek",
+    "Aramaic"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Eliakim",
+    "Shebna",
+    "Joah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 36:11 says they asked, 'Please speak to your servants in Aramaic, since we understand it. Don't speak to us in Hebrew in the hearing of the people on the wall.'"
+}

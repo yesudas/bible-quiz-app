@@ -1,0 +1,33 @@
+{
+  "id": "10-017-001",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 17,
+  "verse_reference": "2 Samuel 17:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Ahithophel advise Absalom to do?",
+  "options": [
+    "Wait and gather all Israel",
+    "Make peace with David",
+    "Choose twelve thousand men and pursue David that night",
+    "Go back to Hebron"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Ahithophel",
+    "Absalom"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahithophel said he would choose twelve thousand men and set out that night to attack David while he was weary."
+}

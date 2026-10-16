@@ -1,0 +1,33 @@
+{
+  "id": "16-002-012",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 2,
+  "verse_reference": "Nehemiah 2:19",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Besides Sanballat and Tobiah, who mocked the Jews for planning to rebuild the wall?",
+  "options": [
+    "Rehum the commanding officer",
+    "Asaph the keeper",
+    "Geshem the Arab",
+    "Tattenai the governor"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Geshem",
+    "Sanballat",
+    "Tobiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sanballat, Tobiah and Geshem the Arab mocked and ridiculed the Jews and asked if they were rebelling against the king."
+}

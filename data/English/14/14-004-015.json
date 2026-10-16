@@ -1,0 +1,39 @@
+{
+  "id": "14-004-015",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 4,
+  "verse_reference": "2 Chronicles 4:20",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where were the pure gold lampstands to burn their lamps?",
+  "options": [
+    "At the city gate",
+    "In the king's palace",
+    "In front of the inner sanctuary",
+    "Beside the bronze altar in the court"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    },
+    {
+      "name": "Most Holy Place",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The lampstands of pure gold were made to burn in front of the inner sanctuary, as prescribed."
+}

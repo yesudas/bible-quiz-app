@@ -1,0 +1,30 @@
+{
+  "id": "20-010-008",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 10,
+  "verse_reference": "Proverbs 10:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 10:22, what brings wealth without painful toil?",
+  "options": [
+    "Hard work alone",
+    "Good luck",
+    "Gifts from kings",
+    "The blessing of the LORD"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 10:22 says the blessing of the LORD brings wealth, without painful toil for it."
+}

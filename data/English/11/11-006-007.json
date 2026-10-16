@@ -1,0 +1,38 @@
+{
+  "id": "11-006-007",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 6,
+  "verse_reference": "1 Kings 6:19",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Why did Solomon prepare the inner sanctuary?",
+  "options": [
+    "To store gold and silver",
+    "To be the king's throne room",
+    "To set the ark of the covenant of the LORD there",
+    "To hold the priests' clothes"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon prepared the inner sanctuary within the temple to set the ark of the covenant of the LORD there."
+}

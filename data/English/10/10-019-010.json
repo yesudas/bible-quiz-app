@@ -1,0 +1,33 @@
+{
+  "id": "10-019-010",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 19,
+  "verse_reference": "2 Samuel 19:26-27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Mephibosheth say Ziba had done to him?",
+  "options": [
+    "Stolen his money",
+    "Protected him from Absalom",
+    "Betrayed him and slandered him to the king",
+    "Carried him to safety"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Mephibosheth",
+    "Ziba",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mephibosheth said his servant betrayed him because he was lame, and slandered him to the king."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "19-030-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 30,
+  "verse_reference": "Psalm 30 (title)",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to its title, Psalm 30 was written for what occasion?",
+  "options": [
+    "The crowning of a king",
+    "The dedication of the temple",
+    "The Passover feast",
+    "The return from exile"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "The temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title of Psalm 30 says it is a psalm and a song for the dedication of the temple, of David."
+}

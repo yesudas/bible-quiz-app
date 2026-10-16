@@ -1,0 +1,38 @@
+{
+  "id": "09-010-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 10,
+  "verse_reference": "1 Samuel 10:8",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How long did Samuel tell Saul to wait for him at Gilgal?",
+  "options": [
+    "Three days",
+    "Forty days",
+    "Seven days",
+    "One month"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience",
+    "Worship"
+  ],
+  "characters": [
+    "Samuel",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Gilgal",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel told Saul to go down to Gilgal and wait seven days until he came to offer sacrifices and tell him what to do."
+}

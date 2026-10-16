@@ -1,0 +1,31 @@
+{
+  "id": "23-040-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 40,
+  "verse_reference": "Isaiah 40:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: '______, ______ my people, says your God.'",
+  "options": [
+    "Comfort, comfort",
+    "Listen, listen",
+    "Arise, arise",
+    "Rejoice, rejoice"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Mercy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 40:1 begins, 'Comfort, comfort my people, says your God.'"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "07-001-002",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 1,
+  "verse_reference": "Judges 1:1-2",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which tribe did the LORD say should go up first to fight against the Canaanites?",
+  "options": [
+    "Judah",
+    "Benjamin",
+    "Ephraim",
+    "Dan"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Canaan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD answered, \"Judah shall go up,\" and said He had given the land into their hands."
+}

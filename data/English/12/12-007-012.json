@@ -1,0 +1,32 @@
+{
+  "id": "12-007-012",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 7,
+  "verse_reference": "2 Kings 7:15",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "How far did the king's scouts follow the path of the fleeing Arameans?",
+  "options": [
+    "As far as Damascus",
+    "As far as Dothan",
+    "As far as the sea",
+    "As far as the Jordan"
+  ],
+  "correct_option": 3,
+  "themes": [],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The scouts followed them as far as the Jordan and found the road full of clothing and equipment the Arameans had thrown away."
+}

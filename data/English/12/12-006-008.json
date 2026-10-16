@@ -1,0 +1,38 @@
+{
+  "id": "12-006-008",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 6,
+  "verse_reference": "2 Kings 6:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Elisha told his frightened servant: \"Don't be afraid. Those who are with us are ______ than those who are with them.\"",
+  "options": [
+    "stronger",
+    "braver",
+    "more",
+    "wiser"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Dothan",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha comforted his servant by saying that those with them were more than those with the enemy."
+}

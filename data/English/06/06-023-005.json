@@ -1,0 +1,33 @@
+{
+  "id": "06-023-005",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 23,
+  "verse_reference": "Joshua 23:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Joshua, how many enemies could one Israelite rout because the LORD fought for them?",
+  "options": [
+    "A thousand",
+    "Ten",
+    "A hundred",
+    "Ten thousand"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Victory"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua said, \"One of you routs a thousand, because the LORD your God fights for you.\""
+}

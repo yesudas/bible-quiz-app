@@ -1,0 +1,33 @@
+{
+  "id": "19-040-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 40,
+  "verse_reference": "Psalm 40:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "At the end of Psalm 40, how does David describe himself?",
+  "options": [
+    "Rich and strong",
+    "Wise and old",
+    "Young and brave",
+    "Poor and needy"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Humility",
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 40:17 says, \"But as for me, I am poor and needy; may the Lord think of me.\""
+}

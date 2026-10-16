@@ -1,0 +1,33 @@
+{
+  "id": "19-002-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 2,
+  "verse_reference": "Psalm 2:4",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What does the One enthroned in heaven do when the nations plot against him?",
+  "options": [
+    "He weeps",
+    "He hides",
+    "He sleeps",
+    "He laughs"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Kingship",
+    "Judgment"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 2:4 says the One enthroned in heaven laughs and the Lord scoffs at them."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16-004-009",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 4,
+  "verse_reference": "Nehemiah 4:18-20",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who stayed with Nehemiah so the people could be called together if the enemy attacked?",
+  "options": [
+    "A man who sounded the trumpet",
+    "The high priest",
+    "A messenger on a horse",
+    "The captain of the king's guard"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Nehemiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man who sounded the trumpet stayed with Nehemiah; wherever people heard the trumpet, they were to join them there."
+}

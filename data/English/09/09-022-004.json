@@ -1,0 +1,42 @@
+{
+  "id": "09-022-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 22,
+  "verse_reference": "1 Samuel 22:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which prophet told David to leave the stronghold and go into Judah?",
+  "options": [
+    "Samuel",
+    "Nathan",
+    "Ahijah",
+    "Gad"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Obedience"
+  ],
+  "characters": [
+    "Gad",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    },
+    {
+      "name": "Forest of Hereth",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The prophet Gad said to David, \"Do not stay in the stronghold. Go into the land of Judah.\" So David went to the forest of Hereth."
+}

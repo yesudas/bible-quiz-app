@@ -1,0 +1,32 @@
+{
+  "id": "06-013-008",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 13,
+  "verse_reference": "Joshua 13:22",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which man who practiced divination did the Israelites put to death along with others?",
+  "options": [
+    "Balak",
+    "Sihon",
+    "Og",
+    "Balaam son of Beor"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [
+    "Balaam"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites put to the sword Balaam son of Beor, who practiced divination."
+}

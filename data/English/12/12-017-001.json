@@ -1,0 +1,40 @@
+{
+  "id": "12-017-001",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 17,
+  "verse_reference": "2 Kings 17:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was the last king of Israel, who reigned nine years in Samaria?",
+  "options": [
+    "Hoshea",
+    "Pekah",
+    "Menahem",
+    "Jeroboam"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Hoshea"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hoshea son of Elah became king of Israel in Samaria and reigned nine years; during his reign Samaria fell."
+}

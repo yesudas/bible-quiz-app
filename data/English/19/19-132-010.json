@@ -1,0 +1,38 @@
+{
+  "id": "19-132-010",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 132,
+  "verse_reference": "Psalm 132:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 132, whom will the LORD satisfy with food in Zion?",
+  "options": [
+    "The kings",
+    "Her poor",
+    "The priests",
+    "The soldiers"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Provision",
+    "Promise"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"I will bless her with abundant provisions; her poor I will satisfy with food.\""
+}

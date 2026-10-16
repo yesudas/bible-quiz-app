@@ -1,0 +1,36 @@
+{
+  "id": "11-007-009",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 7,
+  "verse_reference": "1 Kings 7:23-25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "The large round bronze water basin called \"the Sea\" stood on the backs of what?",
+  "options": [
+    "Twelve lions",
+    "Twelve bulls",
+    "Four cherubim",
+    "Seven pillars"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Huram"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Sea of cast metal stood on twelve bulls, with three facing each direction."
+}

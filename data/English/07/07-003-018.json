@@ -1,0 +1,38 @@
+{
+  "id": "07-003-018",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 3,
+  "verse_reference": "Judges 3:30",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "After Moab was made subject to Israel, how long did the land have peace?",
+  "options": [
+    "Forty years",
+    "Eighty years",
+    "Eighteen years",
+    "Twenty years"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Peace",
+    "Salvation"
+  ],
+  "characters": [
+    "Ehud"
+  ],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "That day Moab was made subject to Israel, and the land had peace for eighty years."
+}

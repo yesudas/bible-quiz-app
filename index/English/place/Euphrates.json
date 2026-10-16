@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Euphrates",
+    "label": "Euphrates",
+    "count": 3,
+    "paths": [
+        "English/05/05-011-007.json",
+        "English/06/06-001-006.json",
+        "English/06/06-024-002.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

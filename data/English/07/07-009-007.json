@@ -1,0 +1,33 @@
+{
+  "id": "07-009-007",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 9,
+  "verse_reference": "Judges 9:14-15",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "In Jotham's story, which plant finally agreed to be king over the trees?",
+  "options": [
+    "The olive tree",
+    "The thornbush",
+    "The fig tree",
+    "The vine"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Jotham"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The olive tree, fig tree and vine all refused, but the thornbush agreed and invited the trees to take refuge in its shade."
+}

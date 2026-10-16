@@ -1,0 +1,41 @@
+{
+  "id": "09-015-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 15,
+  "verse_reference": "1 Samuel 15:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Saul set up at Carmel?",
+  "options": [
+    "An altar to the LORD",
+    "A tent for the ark",
+    "A monument in his own honor",
+    "A wall around the city"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Carmel",
+      "type": "town"
+    },
+    {
+      "name": "Gilgal",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel was told that Saul had gone to Carmel, where he set up a monument in his own honor, and then went on to Gilgal."
+}

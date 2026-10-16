@@ -1,0 +1,36 @@
+{
+  "id": "06-006-013",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 6,
+  "verse_reference": "Joshua 6:23",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the spies put Rahab and her family after bringing them out?",
+  "options": [
+    "Outside the camp of Israel",
+    "In Joshua's tent",
+    "In the city of Gilgal's tabernacle",
+    "Across the Jordan"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "Rahab"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The spies brought out Rahab and her family and put them in a place outside the camp of Israel."
+}

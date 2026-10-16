@@ -1,0 +1,31 @@
+{
+  "id": "19-030-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 30,
+  "verse_reference": "Psalm 30:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Weeping may stay for the night, but rejoicing comes in the ____.\"",
+  "options": [
+    "evening",
+    "spring",
+    "end",
+    "morning"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Joy",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 30:5 says, \"Weeping may stay for the night, but rejoicing comes in the morning.\""
+}

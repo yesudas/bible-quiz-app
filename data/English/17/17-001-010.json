@@ -1,0 +1,43 @@
+{
+  "id": "17-001-010",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 1,
+  "verse_reference": "Esther 1:16-18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Memukan say that Vashti's refusal was a wrong against more than just the king?",
+  "options": [
+    "She had broken a law of the temple",
+    "She had insulted a foreign guest",
+    "Her conduct would become known to all women and cause them to despise their husbands",
+    "She had stolen from the royal treasury"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Marriage",
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Memukan",
+    "Vashti"
+  ],
+  "places": [
+    {
+      "name": "Persia",
+      "type": "kingdom"
+    },
+    {
+      "name": "Media",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Memukan said the queen's conduct would become known to all the women, who would then despise their own husbands."
+}

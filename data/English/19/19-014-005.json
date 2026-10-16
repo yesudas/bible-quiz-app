@@ -1,0 +1,33 @@
+{
+  "id": "19-014-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 14,
+  "verse_reference": "Psalm 14:6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 14:6, the LORD is the refuge of whom?",
+  "options": [
+    "The poor",
+    "The kings",
+    "The soldiers",
+    "The priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Protection",
+    "Justice"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 14:6 says, \"You evildoers frustrate the plans of the poor, but the LORD is their refuge.\""
+}

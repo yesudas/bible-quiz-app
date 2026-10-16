@@ -1,0 +1,36 @@
+{
+  "id": "11-004-005",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 4,
+  "verse_reference": "1 Kings 4:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was the job of Solomon's twelve district governors?",
+  "options": [
+    "To lead the army in battle",
+    "To build the temple",
+    "To supply food for the king and his household, each for one month of the year",
+    "To teach the law in the towns"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon had twelve district governors, and each one provided supplies for the king and the royal household for one month of the year."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14-024-013",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 24,
+  "verse_reference": "2 Chronicles 24:21",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where was Zechariah stoned to death?",
+  "options": [
+    "In the courtyard of the LORD's temple",
+    "At the city gate",
+    "In the Kidron Valley",
+    "At the palace"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution",
+    "Sin"
+  ],
+  "characters": [
+    "Zechariah",
+    "Joash"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "By order of the king, they stoned Zechariah to death in the courtyard of the LORD's temple."
+}

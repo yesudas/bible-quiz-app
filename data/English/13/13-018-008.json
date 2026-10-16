@@ -1,0 +1,33 @@
+{
+  "id": "13-018-008",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 18,
+  "verse_reference": "1 Chronicles 18:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did David do with the gold, silver and bronze articles he received?",
+  "options": [
+    "He kept them in his palace",
+    "He gave them to his soldiers",
+    "He dedicated them to the LORD",
+    "He sent them back to the nations"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "King David dedicated these articles to the LORD, as he had done with the silver and gold taken from the nations."
+}

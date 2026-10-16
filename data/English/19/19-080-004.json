@@ -1,0 +1,31 @@
+{
+  "id": "19-080-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 80,
+  "verse_reference": "Psalm 80:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 80:5, what does Asaph say God has fed His people with?",
+  "options": [
+    "Manna from heaven",
+    "Milk and honey",
+    "Fruit of the land",
+    "The bread of tears"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph says God has fed them with the bread of tears."
+}

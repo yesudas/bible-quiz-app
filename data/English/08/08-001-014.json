@@ -1,0 +1,41 @@
+{
+  "id": "08-001-014",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 1,
+  "verse_reference": "Ruth 1:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Naomi mean when she said she went away full but came back empty?",
+  "options": [
+    "She left with food and returned hungry",
+    "She left with her husband and sons but returned without them",
+    "She left rich and was robbed on the way",
+    "She left happy but lost her faith in Moab"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Family"
+  ],
+  "characters": [
+    "Naomi"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    },
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Naomi had left with her husband and two sons, but all three died in Moab, so she returned without them."
+}

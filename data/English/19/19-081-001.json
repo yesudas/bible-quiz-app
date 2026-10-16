@@ -1,0 +1,32 @@
+{
+  "id": "19-081-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 81,
+  "verse_reference": "Psalm 81:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 81:3, what should be sounded at the New Moon?",
+  "options": [
+    "The ram's horn",
+    "The silver bell",
+    "The large drum",
+    "The temple gong"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph says to sound the ram's horn at the New Moon and when the moon is full, on the day of the festival."
+}

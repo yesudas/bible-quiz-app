@@ -1,0 +1,38 @@
+{
+  "id": "13-011-006",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 11,
+  "verse_reference": "1 Chronicles 11:6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who led the attack on the Jebusites and so became commander-in-chief?",
+  "options": [
+    "Abishai",
+    "Joab son of Zeruiah",
+    "Benaiah",
+    "Abner"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "War"
+  ],
+  "characters": [
+    "Joab",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David promised the command to whoever led the attack. Joab son of Zeruiah went up first, so he received the command."
+}

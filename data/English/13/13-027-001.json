@@ -1,0 +1,32 @@
+{
+  "id": "13-027-001",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 27,
+  "verse_reference": "1 Chronicles 27:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did David's army divisions serve the king?",
+  "options": [
+    "All at once during wartime only",
+    "Each division was on duty for one month of the year",
+    "Each division served for one full year",
+    "They served only on the Sabbath"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Work"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The divisions of 24,000 men each were on duty month by month throughout the year."
+}

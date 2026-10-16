@@ -1,0 +1,34 @@
+{
+  "id": "17-008-001",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 8,
+  "verse_reference": "Esther 8:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did King Xerxes give to Queen Esther on the day Haman died?",
+  "options": [
+    "A new crown",
+    "Haman's estate",
+    "A province to rule",
+    "The gold scepter"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Justice",
+    "Providence"
+  ],
+  "characters": [
+    "Xerxes",
+    "Esther",
+    "Haman"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "That same day King Xerxes gave Queen Esther the estate of Haman, the enemy of the Jews."
+}

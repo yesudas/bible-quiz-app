@@ -1,0 +1,40 @@
+{
+  "id": "06-015-008",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 15,
+  "verse_reference": "Joshua 15:17",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who captured Kiriath Sepher and married Caleb's daughter Aksah?",
+  "options": [
+    "Joshua",
+    "Othniel son of Kenaz",
+    "Eleazar",
+    "Achan"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage",
+    "Victory"
+  ],
+  "characters": [
+    "Othniel",
+    "Caleb",
+    "Aksah"
+  ],
+  "places": [
+    {
+      "name": "Debir",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Othniel son of Kenaz, Caleb's brother, took the city, so Caleb gave his daughter Aksah to him in marriage."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "19-055-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 55,
+  "verse_reference": "Psalm 55:9-11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did David see in the city in Psalm 55:9?",
+  "options": [
+    "Joy and celebration",
+    "Violence and strife",
+    "Peace and safety",
+    "Feasting and dancing"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said he saw violence and strife in the city."
+}

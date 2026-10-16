@@ -1,0 +1,36 @@
+{
+  "id": "08-003-006",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 3,
+  "verse_reference": "Ruth 3:7",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Boaz lie down after eating and drinking?",
+  "options": [
+    "At the far end of the grain pile",
+    "Inside his house",
+    "Under a tree by the well",
+    "In the city gate"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Boaz"
+  ],
+  "places": [
+    {
+      "name": "Threshing floor",
+      "type": "threshing floor"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Boaz was in good spirits and went to lie down at the far end of the grain pile."
+}

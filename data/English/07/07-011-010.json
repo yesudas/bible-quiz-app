@@ -1,0 +1,40 @@
+{
+  "id": "07-011-010",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 11,
+  "verse_reference": "Judges 11:26",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "According to Jephthah, for how long had Israel occupied Heshbon, Aroer and the surrounding land?",
+  "options": [
+    "Forty years",
+    "Four hundred eighty years",
+    "Three hundred years",
+    "Seventy years"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promised Land"
+  ],
+  "characters": [
+    "Jephthah"
+  ],
+  "places": [
+    {
+      "name": "Heshbon",
+      "type": "city"
+    },
+    {
+      "name": "Aroer",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jephthah said Israel had occupied Heshbon, Aroer and the land along the Arnon for three hundred years."
+}

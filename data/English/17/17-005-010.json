@@ -1,0 +1,38 @@
+{
+  "id": "17-005-010",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 5,
+  "verse_reference": "Esther 5:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Haman say that all his honor gave him no satisfaction?",
+  "options": [
+    "The king had not given him a province",
+    "He still saw Mordecai the Jew sitting at the king's gate",
+    "His sons did not respect him",
+    "Esther had not invited his wife"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Pride",
+    "Anger"
+  ],
+  "characters": [
+    "Haman",
+    "Mordecai"
+  ],
+  "places": [
+    {
+      "name": "King's gate",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Haman said none of it satisfied him as long as he saw that Jew Mordecai sitting at the king's gate."
+}

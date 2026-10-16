@@ -1,0 +1,32 @@
+{
+  "id": "18-010-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 10,
+  "verse_reference": "Job 10:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Job's words to God: \"Your ____ shaped me and made me.\"",
+  "options": [
+    "hands",
+    "words",
+    "eyes",
+    "angels"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'Your hands shaped me and made me. Will you now turn and destroy me?'"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "15-002-004",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 2,
+  "verse_reference": "Ezra 2:41",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "The temple musicians listed in Ezra 2 were descendants of whom?",
+  "options": [
+    "Korah",
+    "Aaron",
+    "Levi",
+    "Asaph"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra lists the musicians as the descendants of Asaph, 128 in number."
+}

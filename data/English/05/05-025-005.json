@@ -1,0 +1,31 @@
+{
+  "id": "05-025-005",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 25,
+  "verse_reference": "Deuteronomy 25:7-9",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did a widow go if her husband's brother refused to carry on the family line?",
+  "options": [
+    "To the priests at the tabernacle",
+    "To the king's court",
+    "To her own father's house",
+    "To the elders at the town gate"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Justice",
+    "Family",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The widow went to the elders at the town gate, who summoned the man and heard his refusal publicly."
+}

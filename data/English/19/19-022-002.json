@@ -1,0 +1,35 @@
+{
+  "id": "19-022-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 22,
+  "verse_reference": "Psalm 22:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"My God, my God, why have you ____ me?\"",
+  "options": [
+    "forsaken",
+    "forgotten",
+    "rejected",
+    "punished"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Prayer",
+    "Prophecy"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 22:1 begins, \"My God, my God, why have you forsaken me? Why are you so far from saving me?\""
+}

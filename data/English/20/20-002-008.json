@@ -1,0 +1,35 @@
+{
+  "id": "20-002-008",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 2,
+  "verse_reference": "Proverbs 2:21-22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Proverbs 2:21-22, what is the difference between the upright and the wicked?",
+  "options": [
+    "The upright will be poor; the wicked will be rich",
+    "The upright will live in the land; the wicked will be cut off from it",
+    "The upright will travel; the wicked will stay home",
+    "There is no difference"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "The land",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 2:21-22 says the upright will live in the land, but the wicked will be cut off from the land."
+}

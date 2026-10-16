@@ -1,0 +1,37 @@
+{
+  "id": "19-055-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 55,
+  "verse_reference": "Psalm 55:7",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 55:7, where did David say he would flee and stay?",
+  "options": [
+    "In the desert",
+    "In the temple",
+    "By the sea",
+    "On a high mountain"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Desert",
+      "type": "desert"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said he would flee far away and stay in the desert."
+}

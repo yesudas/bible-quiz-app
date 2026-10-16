@@ -1,0 +1,34 @@
+{
+  "id": "19-133-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 133,
+  "verse_reference": "Psalm 133:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 133, what blessing does the LORD bestow where His people live in unity?",
+  "options": [
+    "Great riches",
+    "Victory in battle",
+    "Many children",
+    "Life forevermore"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Hope",
+    "Love"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "For there the LORD bestows His blessing, even life forevermore."
+}

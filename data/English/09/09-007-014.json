@@ -1,0 +1,38 @@
+{
+  "id": "09-007-014",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 7,
+  "verse_reference": "1 Samuel 7:17",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where was Samuel's home, where he also built an altar to the LORD?",
+  "options": [
+    "Ramah",
+    "Shiloh",
+    "Mizpah",
+    "Bethel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "Ramah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel always went back to Ramah, where his home was. There he judged Israel and built an altar to the LORD."
+}

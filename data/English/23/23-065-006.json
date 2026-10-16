@@ -1,0 +1,31 @@
+{
+  "id": "23-065-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 65,
+  "verse_reference": "Isaiah 65:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'Before they ______ I will answer; while they are still speaking I will hear.'",
+  "options": [
+    "call",
+    "sleep",
+    "sin",
+    "wake"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 65:24 says, 'Before they call I will answer; while they are still speaking I will hear.'"
+}

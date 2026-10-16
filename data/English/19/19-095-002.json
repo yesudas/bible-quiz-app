@@ -1,0 +1,35 @@
+{
+  "id": "19-095-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 95,
+  "verse_reference": "Psalm 95:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to Psalm 95:5, why does the sea belong to the LORD?",
+  "options": [
+    "Because He made it",
+    "Because He bought it",
+    "Because He lives in it",
+    "Because He won it in battle"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "The sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm says, \"The sea is his, for he made it, and his hands formed the dry land.\""
+}

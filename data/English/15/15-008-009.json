@@ -1,0 +1,37 @@
+{
+  "id": "15-008-009",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 8,
+  "verse_reference": "Ezra 8:31",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the travellers stay safe from enemies and bandits on the way?",
+  "options": [
+    "The hand of their God was on them and protected them",
+    "They travelled only at night",
+    "The king's army guarded them",
+    "They hid the gold in the ground"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [
+    "Ezra"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra says the hand of their God was on them, and he protected them from enemies and bandits along the way."
+}

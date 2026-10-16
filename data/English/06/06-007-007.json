@@ -1,0 +1,38 @@
+{
+  "id": "06-007-007",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 7,
+  "verse_reference": "Joshua 7:10-11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What reason did the LORD give Joshua for Israel's defeat at Ai?",
+  "options": [
+    "Israel had sinned by taking devoted things",
+    "The army was too small",
+    "Joshua had not prayed first",
+    "The men of Ai were too strong"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Ai",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Joshua that Israel had sinned: they had taken devoted things, stolen, lied and hidden them."
+}

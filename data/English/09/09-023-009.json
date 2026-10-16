@@ -1,0 +1,43 @@
+{
+  "id": "09-023-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 23,
+  "verse_reference": "1 Samuel 23:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jonathan do when he went to see David at Horesh?",
+  "options": [
+    "He brought him food and weapons",
+    "He helped him find strength in God",
+    "He told him to surrender",
+    "He brought Saul's apology"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Love"
+  ],
+  "characters": [
+    "Jonathan",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Horesh",
+      "type": "other"
+    },
+    {
+      "name": "Desert of Ziph",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul's son Jonathan went to David at Horesh and helped him find strength in God."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "06-008-001",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 8,
+  "verse_reference": "Joshua 8:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "The LORD said to Joshua, \"Do not be afraid; do not be ____.\"",
+  "options": [
+    "discouraged",
+    "silent",
+    "late",
+    "proud"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Ai",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Before the second attack on Ai, the LORD encouraged Joshua not to be afraid or discouraged."
+}

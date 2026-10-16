@@ -1,0 +1,42 @@
+{
+  "id": "19-069-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 69,
+  "verse_reference": "Psalm 69:35",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 69:35, which place will God save?",
+  "options": [
+    "Zion",
+    "Egypt",
+    "Moab",
+    "Edom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Hope"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David says God will save Zion and rebuild the cities of Judah."
+}

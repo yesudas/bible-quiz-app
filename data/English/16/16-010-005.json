@@ -1,0 +1,30 @@
+{
+  "id": "16-010-005",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 10,
+  "verse_reference": "Nehemiah 10:31",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the people promise to do every seventh year?",
+  "options": [
+    "Let the land rest and cancel all debts",
+    "Travel to Jerusalem three times",
+    "Rebuild the wall",
+    "Count all the people"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Money",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They promised that every seventh year they would forgo working the land and would cancel all debts."
+}

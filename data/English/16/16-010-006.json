@@ -1,0 +1,34 @@
+{
+  "id": "16-010-006",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 10,
+  "verse_reference": "Nehemiah 10:32",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "How much did the people promise to give each year for the service of the house of God?",
+  "options": [
+    "A tenth of a shekel",
+    "A third of a shekel",
+    "One shekel",
+    "Five shekels"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House of God",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They took on the obligation to give a third of a shekel each year for the service of the house of their God."
+}

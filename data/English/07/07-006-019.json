@@ -1,0 +1,37 @@
+{
+  "id": "07-006-019",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 6,
+  "verse_reference": "Judges 6:35",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "To which tribes did Gideon send messengers, calling them to battle?",
+  "options": [
+    "Manasseh, Asher, Zebulun and Naphtali",
+    "Judah, Simeon, Benjamin and Dan",
+    "Reuben, Gad, Levi and Issachar",
+    "Ephraim, Benjamin, Judah and Dan"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Unity"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [
+    {
+      "name": "Manasseh",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon sent messengers throughout Manasseh, Asher, Zebulun and Naphtali, and they went up to meet him."
+}

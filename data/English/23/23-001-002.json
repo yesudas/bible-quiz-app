@@ -1,0 +1,45 @@
+{
+  "id": "23-001-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 1,
+  "verse_reference": "Isaiah 1:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which group of kings ruled Judah during the time of Isaiah's vision?",
+  "options": [
+    "Saul, David, Solomon and Rehoboam",
+    "Uzziah, Jotham, Ahaz and Hezekiah",
+    "Asa, Jehoshaphat, Joash and Amaziah",
+    "Manasseh, Amon, Josiah and Jehoiakim"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Isaiah",
+    "Uzziah",
+    "Jotham",
+    "Ahaz",
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah saw his vision concerning Judah and Jerusalem during the reigns of Uzziah, Jotham, Ahaz and Hezekiah."
+}

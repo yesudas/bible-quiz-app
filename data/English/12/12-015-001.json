@@ -1,0 +1,36 @@
+{
+  "id": "12-015-001",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 15,
+  "verse_reference": "2 Kings 15:1-2",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How long did Azariah reign in Jerusalem?",
+  "options": [
+    "Sixteen years",
+    "Forty-one years",
+    "Fifty-two years",
+    "Twenty-nine years"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Azariah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Azariah became king at sixteen and reigned in Jerusalem fifty-two years."
+}

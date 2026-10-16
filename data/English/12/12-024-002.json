@@ -1,0 +1,36 @@
+{
+  "id": "12-024-002",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 24,
+  "verse_reference": "2 Kings 24:1",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How long was Jehoiakim Nebuchadnezzar's vassal before he rebelled?",
+  "options": [
+    "Eleven years",
+    "Seven years",
+    "Three years",
+    "Three months"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoiakim",
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoiakim became Nebuchadnezzar's vassal for three years, but then he turned against Nebuchadnezzar and rebelled."
+}

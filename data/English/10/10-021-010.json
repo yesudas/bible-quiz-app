@@ -1,0 +1,31 @@
+{
+  "id": "10-021-010",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 21,
+  "verse_reference": "2 Samuel 21:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "David's men said he must never again go out to battle, \"so that the ______ of Israel will not be extinguished.\"",
+  "options": [
+    "glory",
+    "crown",
+    "lamp",
+    "hope"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After Abishai rescued David, his men swore that David would never again go out to battle, so that the lamp of Israel would not be put out."
+}

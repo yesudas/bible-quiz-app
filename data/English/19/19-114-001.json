@@ -1,0 +1,35 @@
+{
+  "id": "19-114-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 114,
+  "verse_reference": "Psalm 114:1",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Psalm 114 begins by remembering when Israel came out of which land?",
+  "options": [
+    "Babylon",
+    "Egypt",
+    "Assyria",
+    "Canaan"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 114 begins, \"When Israel came out of Egypt, Jacob from a people of foreign tongue.\""
+}

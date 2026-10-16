@@ -1,0 +1,33 @@
+{
+  "id": "19-089-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 89,
+  "verse_reference": "Psalm 89:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"I will sing of the LORD's great ____ forever.\"",
+  "options": [
+    "love",
+    "power",
+    "name",
+    "works"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Worship"
+  ],
+  "characters": [
+    "Ethan"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm begins with a promise to sing forever about the LORD's great love."
+}

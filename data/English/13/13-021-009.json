@@ -1,0 +1,38 @@
+{
+  "id": "13-021-009",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 21,
+  "verse_reference": "1 Chronicles 21:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did David see standing between heaven and earth over Jerusalem?",
+  "options": [
+    "A pillar of fire",
+    "A great cloud",
+    "The angel of the LORD with a drawn sword",
+    "A rainbow"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Angels",
+    "Judgment"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David saw the angel of the LORD standing between heaven and earth, with a drawn sword in his hand extended over Jerusalem."
+}

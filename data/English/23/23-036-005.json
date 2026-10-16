@@ -1,0 +1,36 @@
+{
+  "id": "23-036-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 36,
+  "verse_reference": "Isaiah 36:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the field commander call Egypt, warning Judah not to depend on it?",
+  "options": [
+    "A broken wall",
+    "A splintered reed of a staff",
+    "A dry well",
+    "A sleeping lion"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 36:6 says, 'Look, I know you are depending on Egypt, that splintered reed of a staff, which pierces the hand of anyone who leans on it.'"
+}

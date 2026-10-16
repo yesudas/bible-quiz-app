@@ -1,0 +1,38 @@
+{
+  "id": "14-014-005",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 14,
+  "verse_reference": "2 Chronicles 14:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Asa command the people of Judah to do?",
+  "options": [
+    "Pay more taxes",
+    "Seek the LORD and obey His laws and commands",
+    "Build him a palace",
+    "Go to war against Israel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Obedience",
+    "Law"
+  ],
+  "characters": [
+    "Asa"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asa commanded Judah to seek the LORD, the God of their ancestors, and to obey His laws and commands."
+}

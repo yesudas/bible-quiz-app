@@ -1,0 +1,35 @@
+{
+  "id": "19-027-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 27,
+  "verse_reference": "Psalm 27:10",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 27:10, even if who forsakes David, the LORD will receive him?",
+  "options": [
+    "His brothers",
+    "His father and mother",
+    "His friends",
+    "His people"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Love",
+    "Hope"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 27:10 says, \"Though my father and mother forsake me, the LORD will receive me.\""
+}

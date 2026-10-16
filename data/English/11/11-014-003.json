@@ -1,0 +1,32 @@
+{
+  "id": "11-014-003",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 14,
+  "verse_reference": "1 Kings 14:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jeroboam's wife take with her as a gift for the prophet?",
+  "options": [
+    "Gold and silver",
+    "A young goat",
+    "Ten loaves of bread, some cakes and a jar of honey",
+    "A new cloak"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jeroboam's wife",
+    "Ahijah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeroboam told her to take ten loaves of bread, some cakes and a jar of honey to the prophet."
+}

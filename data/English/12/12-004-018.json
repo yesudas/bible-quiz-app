@@ -1,0 +1,37 @@
+{
+  "id": "12-004-018",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 4,
+  "verse_reference": "2 Kings 4:35",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the boy do before he opened his eyes?",
+  "options": [
+    "He cried out loud",
+    "He asked for water",
+    "He sneezed seven times",
+    "He called for his mother"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Shunem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The boy sneezed seven times and opened his eyes."
+}

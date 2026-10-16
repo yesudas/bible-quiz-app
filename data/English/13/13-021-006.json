@@ -1,0 +1,32 @@
+{
+  "id": "13-021-006",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 21,
+  "verse_reference": "1 Chronicles 21:12",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which of these was NOT one of the three punishments offered to David?",
+  "options": [
+    "Three years of famine",
+    "Three months of being swept away before enemies",
+    "Three days of plague",
+    "Three years of exile"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "David",
+    "Gad"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The three options were three years of famine, three months of being swept away before enemies, or three days of the sword of the LORD, which meant plague."
+}

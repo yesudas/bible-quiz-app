@@ -1,0 +1,33 @@
+{
+  "id": "19-108-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 108,
+  "verse_reference": "Psalm 108:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"My heart, O God, is ______; I will sing and make music with all my soul.\"",
+  "options": [
+    "steadfast",
+    "broken",
+    "glad",
+    "humble"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said his heart was steadfast toward God, so he would sing and make music with all his soul."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "05-007-010",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 7,
+  "verse_reference": "Deuteronomy 7:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In what manner did God say He would drive out the nations before Israel?",
+  "options": [
+    "All at once in a single day",
+    "Little by little, not all at once",
+    "Only after seven years",
+    "Only if Israel paid tribute"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would drive out the nations little by little, so that the wild animals would not multiply and overwhelm the land while Israel was still few."
+}

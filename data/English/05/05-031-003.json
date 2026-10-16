@@ -1,0 +1,34 @@
+{
+  "id": "05-031-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 31,
+  "verse_reference": "Deuteronomy 31:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Moses said: \"Be strong and courageous... for the Lord your God goes with you; he will never leave you nor ___ you.\"",
+  "options": [
+    "forsake",
+    "forget",
+    "judge",
+    "hinder"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Hope",
+    "Promise"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses encouraged Israel to be strong and courageous and not afraid, because the Lord their God would go with them and never leave nor forsake them."
+}

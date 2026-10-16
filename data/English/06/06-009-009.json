@@ -1,0 +1,44 @@
+{
+  "id": "06-009-009",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 9,
+  "verse_reference": "Joshua 9:17",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which of these was one of the Gibeonite cities?",
+  "options": [
+    "Kiriath Jearim",
+    "Hebron",
+    "Lachish",
+    "Shechem"
+  ],
+  "correct_option": 0,
+  "themes": [],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gibeon",
+      "type": "city"
+    },
+    {
+      "name": "Kephirah",
+      "type": "city"
+    },
+    {
+      "name": "Beeroth",
+      "type": "city"
+    },
+    {
+      "name": "Kiriath Jearim",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Gibeonite cities were Gibeon, Kephirah, Beeroth and Kiriath Jearim."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14-029-009",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 29,
+  "verse_reference": "2 Chronicles 29:21",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many of each animal did they bring as a sin offering for the kingdom, the sanctuary and Judah?",
+  "options": [
+    "Twelve",
+    "Seven",
+    "Three",
+    "Ten"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Sin",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They brought seven bulls, seven rams, seven male lambs and seven male goats as a sin offering for the kingdom, the sanctuary and Judah."
+}

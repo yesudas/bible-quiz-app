@@ -1,0 +1,39 @@
+{
+  "id": "12-019-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 19,
+  "verse_reference": "2 Kings 19:14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Hezekiah do with Sennacherib's letter?",
+  "options": [
+    "He burned it",
+    "He sent it to Egypt",
+    "He spread it out before the LORD in the temple",
+    "He read it to the people on the wall"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [
+    "Hezekiah",
+    "Sennacherib"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hezekiah read the letter, went up to the temple of the LORD and spread it out before the LORD."
+}

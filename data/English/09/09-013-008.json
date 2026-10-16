@@ -1,0 +1,42 @@
+{
+  "id": "09-013-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 13,
+  "verse_reference": "1 Samuel 13:11-12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What reason did Saul give for offering the sacrifice himself?",
+  "options": [
+    "God told him to do it",
+    "Jonathan asked him to",
+    "Samuel had died",
+    "His men were scattering, Samuel had not come, and the Philistines were gathering"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Obedience"
+  ],
+  "characters": [
+    "Saul",
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "Gilgal",
+      "type": "town"
+    },
+    {
+      "name": "Mikmash",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul said his men were scattering, Samuel had not come at the set time, and the Philistines were assembling, so he felt compelled to offer the burnt offering."
+}

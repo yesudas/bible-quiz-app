@@ -1,0 +1,31 @@
+{
+  "id": "14-021-013",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 21,
+  "verse_reference": "2 Chronicles 21:18-19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Jehoram die?",
+  "options": [
+    "In battle against Edom",
+    "From an incurable disease of the bowels",
+    "From a fall in his palace",
+    "By the sword of his servants"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [
+    "Jehoram"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD afflicted Jehoram with an incurable disease of the bowels, and after two years he died in great pain."
+}

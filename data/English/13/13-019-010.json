@@ -1,0 +1,37 @@
+{
+  "id": "13-019-010",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 19,
+  "verse_reference": "1 Chronicles 19:16",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was the commander of Hadadezer's army who led the Arameans from beyond the Euphrates?",
+  "options": [
+    "Hadoram",
+    "Shophak",
+    "Hanun",
+    "Tou"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "War"
+  ],
+  "characters": [
+    "Shophak",
+    "Hadadezer"
+  ],
+  "places": [
+    {
+      "name": "Euphrates River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Arameans sent for help from beyond the Euphrates River, led by Shophak the commander of Hadadezer's army."
+}

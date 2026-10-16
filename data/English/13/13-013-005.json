@@ -1,0 +1,32 @@
+{
+  "id": "13-013-005",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 13,
+  "verse_reference": "1 Chronicles 13:7",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which two men guided the cart carrying the ark?",
+  "options": [
+    "Uzzah and Ahio",
+    "Nadab and Abihu",
+    "Hophni and Phinehas",
+    "Joab and Abishai"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Uzzah",
+    "Ahio"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 13:7 says Uzzah and Ahio were guiding the cart."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "14-016-006",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 16,
+  "verse_reference": "2 Chronicles 16:6",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which towns did Asa build with the stones and timber taken from Ramah?",
+  "options": [
+    "Bethel and Jericho",
+    "Hebron and Lachish",
+    "Dan and Beersheba",
+    "Geba and Mizpah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Asa"
+  ],
+  "places": [
+    {
+      "name": "Ramah",
+      "type": "town"
+    },
+    {
+      "name": "Geba",
+      "type": "town"
+    },
+    {
+      "name": "Mizpah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asa carried away the stones and timber from Ramah and used them to build up Geba and Mizpah."
+}

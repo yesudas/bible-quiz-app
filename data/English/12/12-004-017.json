@@ -1,0 +1,38 @@
+{
+  "id": "12-004-017",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 4,
+  "verse_reference": "2 Kings 4:33",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Elisha do first when he entered the room with the dead boy?",
+  "options": [
+    "He called the boy's name",
+    "He anointed him with oil",
+    "He sent for the boy's father",
+    "He shut the door and prayed to the LORD"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Miracles"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Shunem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha went in, shut the door on the two of them and prayed to the LORD."
+}

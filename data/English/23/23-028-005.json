@@ -1,0 +1,35 @@
+{
+  "id": "23-028-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 28,
+  "verse_reference": "Isaiah 28:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What is promised to the one who relies on the stone God lays in Zion?",
+  "options": [
+    "They will become rich",
+    "They will never be stricken with panic",
+    "They will rule over nations",
+    "They will never grow old"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 28:16 says, 'The one who relies on it will never be stricken with panic.'"
+}

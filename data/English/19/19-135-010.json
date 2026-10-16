@@ -1,0 +1,32 @@
+{
+  "id": "19-135-010",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 135,
+  "verse_reference": "Psalm 135:19-20",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which of these houses is NOT called on to praise the LORD at the end of Psalm 135?",
+  "options": [
+    "House of Israel",
+    "House of Aaron",
+    "House of David",
+    "House of Levi"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Aaron",
+    "Levi"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm calls on the house of Israel, the house of Aaron, the house of Levi and all who fear the LORD to praise Him. The house of David is not named."
+}

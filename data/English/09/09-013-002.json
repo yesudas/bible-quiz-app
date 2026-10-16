@@ -1,0 +1,36 @@
+{
+  "id": "09-013-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 13,
+  "verse_reference": "1 Samuel 13:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jonathan attack that made the Philistines gather for war?",
+  "options": [
+    "The Philistine outpost at Geba",
+    "The city of Gath",
+    "The temple of Dagon",
+    "The Philistine king's palace"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jonathan"
+  ],
+  "places": [
+    {
+      "name": "Geba",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonathan attacked the Philistine outpost at Geba, and the Philistines heard about it."
+}

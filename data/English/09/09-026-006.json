@@ -1,0 +1,38 @@
+{
+  "id": "09-026-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 26,
+  "verse_reference": "1 Samuel 26:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "David said, \"Who can lay a hand on the LORD's ___ and be guiltless?\"",
+  "options": [
+    "servant",
+    "prophet",
+    "anointed",
+    "people"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience",
+    "Leadership"
+  ],
+  "characters": [
+    "David",
+    "Abishai"
+  ],
+  "places": [
+    {
+      "name": "Saul's camp",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said to Abishai, \"Don't destroy him! Who can lay a hand on the LORD's anointed and be guiltless?\""
+}

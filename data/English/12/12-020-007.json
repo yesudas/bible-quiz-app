@@ -1,0 +1,38 @@
+{
+  "id": "12-020-007",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 20,
+  "verse_reference": "2 Kings 20:9-10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Hezekiah choose for the shadow to go back ten steps as his sign?",
+  "options": [
+    "Going back meant he would live longer",
+    "It is easy for a shadow to go forward, so going back would be a true sign",
+    "Isaiah told him to choose that",
+    "Going forward would bring bad luck"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Faith"
+  ],
+  "characters": [
+    "Hezekiah",
+    "Isaiah"
+  ],
+  "places": [
+    {
+      "name": "Stairway of Ahaz",
+      "type": "stairway"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hezekiah said it was a simple matter for the shadow to go forward ten steps, so he asked for it to go back ten steps."
+}

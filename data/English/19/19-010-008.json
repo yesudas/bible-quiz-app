@@ -1,0 +1,34 @@
+{
+  "id": "19-010-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 10,
+  "verse_reference": "Psalm 10:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 10:17, what does the LORD do for the afflicted?",
+  "options": [
+    "He makes them rich",
+    "He sends them away",
+    "He gives them land",
+    "He hears their desire and listens to their cry"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Hope",
+    "Justice"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 10:17 says, \"You, LORD, hear the desire of the afflicted; you encourage them, and you listen to their cry.\""
+}

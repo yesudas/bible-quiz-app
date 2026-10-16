@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Valley-of-Achor",
+    "label": "Valley of Achor",
+    "count": 2,
+    "paths": [
+        "English/06/06-007-013.json",
+        "English/06/06-007-014.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

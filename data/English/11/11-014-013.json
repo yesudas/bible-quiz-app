@@ -1,0 +1,34 @@
+{
+  "id": "11-014-013",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 14,
+  "verse_reference": "1 Kings 14:26-27",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Shishak carried off the gold shields Solomon had made. What did Rehoboam make to replace them?",
+  "options": [
+    "Bronze shields",
+    "Silver shields",
+    "Wooden shields",
+    "Iron shields"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Money"
+  ],
+  "characters": [
+    "Rehoboam",
+    "Solomon",
+    "Shishak"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Shishak took the gold shields Solomon had made, so King Rehoboam made bronze shields to replace them."
+}

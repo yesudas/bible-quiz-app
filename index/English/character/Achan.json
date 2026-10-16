@@ -1,0 +1,19 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Achan",
+    "label": "Achan",
+    "count": 9,
+    "paths": [
+        "English/06/06-007-001.json",
+        "English/06/06-007-002.json",
+        "English/06/06-007-009.json",
+        "English/06/06-007-010.json",
+        "English/06/06-007-011.json",
+        "English/06/06-007-012.json",
+        "English/06/06-007-013.json",
+        "English/06/06-007-014.json",
+        "English/06/06-022-008.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

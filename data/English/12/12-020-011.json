@@ -1,0 +1,38 @@
+{
+  "id": "12-020-011",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 20,
+  "verse_reference": "2 Kings 20:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Isaiah say would one day happen to everything in Hezekiah's palace?",
+  "options": [
+    "It would be burned by Assyria",
+    "It would be carried off to Babylon",
+    "It would be given to Egypt",
+    "It would be kept safe forever"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Isaiah",
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah said the time would come when everything in the palace would be carried off to Babylon, and nothing would be left."
+}

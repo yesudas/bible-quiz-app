@@ -1,0 +1,31 @@
+{
+  "id": "05-026-005",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 26,
+  "verse_reference": "Deuteronomy 26:12",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "In the third year, who was to receive the tithe so they could eat in the towns and be satisfied?",
+  "options": [
+    "The judges and officials",
+    "The soldiers of Israel",
+    "The elders of each tribe",
+    "The Levite, the foreigner, the fatherless, and the widow"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money",
+    "Mercy",
+    "Justice"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the third year, the year of the tithe, the tithe was given to the Levite, the foreigner, the fatherless, and the widow so they could eat in the towns and be satisfied."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "20-005-003",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 5,
+  "verse_reference": "Proverbs 5:8",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 5:8, what should a young man not go near?",
+  "options": [
+    "The city gate",
+    "The temple",
+    "The door of her house",
+    "The market"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Temptation",
+    "Marriage"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House of the adulterous woman",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 5:8 says to keep to a path far from her and not go near the door of her house."
+}

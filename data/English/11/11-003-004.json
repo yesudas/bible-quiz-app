@@ -1,0 +1,36 @@
+{
+  "id": "11-003-004",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 3,
+  "verse_reference": "1 Kings 3:4",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where was the most important high place, where Solomon offered a thousand burnt offerings?",
+  "options": [
+    "Gibeon",
+    "Bethel",
+    "Shiloh",
+    "Hebron"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Gibeon",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon went to Gibeon, the most important high place, and offered a thousand burnt offerings on the altar."
+}

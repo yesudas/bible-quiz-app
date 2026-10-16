@@ -1,0 +1,33 @@
+{
+  "id": "19-027-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 27,
+  "verse_reference": "Psalm 27:13",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 27:13, where is David confident he will see the goodness of the LORD?",
+  "options": [
+    "In heaven",
+    "In the temple",
+    "In the land of the living",
+    "In Jerusalem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Faith"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 27:13 says, \"I remain confident of this: I will see the goodness of the LORD in the land of the living.\""
+}

@@ -1,0 +1,38 @@
+{
+  "id": "19-074-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 74,
+  "verse_reference": "Psalm 74:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 74:13, what does Asaph say God split open by His power?",
+  "options": [
+    "The sea",
+    "A mountain",
+    "The sky",
+    "A rock"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Creation"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "The sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph remembers that God split open the sea by His power."
+}

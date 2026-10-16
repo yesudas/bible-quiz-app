@@ -1,0 +1,38 @@
+{
+  "id": "13-014-006",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 14,
+  "verse_reference": "1 Chronicles 14:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did David order to be done with the gods the Philistines left behind?",
+  "options": [
+    "Carry them to Jerusalem",
+    "Burn them in the fire",
+    "Bury them in the ground",
+    "Send them back to Philistia"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Idolatry",
+    "Obedience"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Baal Perazim",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Philistines abandoned their gods there, and David gave orders to burn them in the fire."
+}

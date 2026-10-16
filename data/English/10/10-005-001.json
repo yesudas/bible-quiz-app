@@ -1,0 +1,38 @@
+{
+  "id": "10-005-001",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 5,
+  "verse_reference": "2 Samuel 5:1-3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the elders of Israel do for David at Hebron?",
+  "options": [
+    "They sent him back to Bethlehem",
+    "They gave him Saul's palace",
+    "They made him high priest",
+    "They anointed him king over Israel"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Covenant"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All the elders of Israel came to King David at Hebron, made a covenant with him before the LORD, and anointed him king over Israel."
+}

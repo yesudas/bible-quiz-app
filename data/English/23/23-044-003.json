@@ -1,0 +1,30 @@
+{
+  "id": "23-044-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 44,
+  "verse_reference": "Isaiah 44:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'I am the first and I am the ______; apart from me there is no God.'",
+  "options": [
+    "last",
+    "only",
+    "highest",
+    "greatest"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 44:6 says, 'I am the first and I am the last; apart from me there is no God.'"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "19-092-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 92,
+  "verse_reference": "Psalm 92 (title)",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "According to the title of Psalm 92, for which day was this song written?",
+  "options": [
+    "The Day of Atonement",
+    "The Passover",
+    "The Sabbath day",
+    "The New Moon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title says Psalm 92 is a psalm and a song for the Sabbath day."
+}

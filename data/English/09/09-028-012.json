@@ -1,0 +1,32 @@
+{
+  "id": "09-028-012",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 28,
+  "verse_reference": "1 Samuel 28:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What reason did Samuel give for the LORD's judgment on Saul?",
+  "options": [
+    "Saul had killed the priests of Nob",
+    "Saul did not obey the LORD or carry out His fierce wrath against the Amalekites",
+    "Saul had married foreign women",
+    "Saul had built a monument to himself"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Obedience",
+    "Judgment"
+  ],
+  "characters": [
+    "Samuel",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel said, \"Because you did not obey the LORD or carry out his fierce wrath against the Amalekites, the LORD has done this to you today.\""
+}

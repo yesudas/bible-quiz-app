@@ -1,0 +1,36 @@
+{
+  "id": "12-019-008",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 19,
+  "verse_reference": "2 Kings 19:28",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "The LORD said He would put His hook in Sennacherib's nose and His bit in his mouth. What would He then do?",
+  "options": [
+    "Make him bow before Hezekiah",
+    "Make him a servant in the temple",
+    "Make him king of Judah",
+    "Make him return by the way he came"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Sennacherib"
+  ],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said He would put His hook in Sennacherib's nose and His bit in his mouth and make him return by the way he came."
+}

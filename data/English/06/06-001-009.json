@@ -1,0 +1,33 @@
+{
+  "id": "06-001-009",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 1,
+  "verse_reference": "Joshua 1:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God mean when He told Joshua not to turn \"to the right or to the left\" from the law?",
+  "options": [
+    "He should march only straight ahead in battle",
+    "He should never leave the camp",
+    "He should obey all the law carefully",
+    "He should not look at the enemy"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Obedience"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Joshua to be careful to obey all the law Moses gave, not turning away from it in any direction."
+}

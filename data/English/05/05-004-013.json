@@ -1,0 +1,33 @@
+{
+  "id": "05-004-013",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 4,
+  "verse_reference": "Deuteronomy 4:35",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Moses declared: \"The Lord is God; besides him there is ___.\"",
+  "options": [
+    "no other",
+    "great power",
+    "one king",
+    "no rest"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses declared that the Lord alone is God and there is no other besides Him."
+}

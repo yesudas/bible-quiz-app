@@ -1,0 +1,30 @@
+{
+  "id": "23-005-008",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 5,
+  "verse_reference": "Isaiah 5:11",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who did Isaiah say rise early in the morning to run after their drinks?",
+  "options": [
+    "The priests at the temple",
+    "The shepherds in the fields",
+    "The soldiers at the gates",
+    "Those on whom Isaiah pronounced woe"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Temptation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 5:11 pronounces woe on those who rise early in the morning to run after their drinks and stay up late at night."
+}

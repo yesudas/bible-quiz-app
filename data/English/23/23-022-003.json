@@ -1,0 +1,35 @@
+{
+  "id": "23-022-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 22,
+  "verse_reference": "Isaiah 22:12-13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When the Lord called for weeping and sackcloth, what did the people do instead?",
+  "options": [
+    "They fasted and prayed",
+    "They ran to the temple",
+    "They feasted and said, 'Let us eat and drink, for tomorrow we die!'",
+    "They sent gifts to the king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 22:12-13 says the Lord called for weeping, but instead there was joy and revelry, as they said, 'Let us eat and drink, for tomorrow we die!'"
+}

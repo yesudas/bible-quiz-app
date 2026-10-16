@@ -1,0 +1,34 @@
+{
+  "id": "11-022-005",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 22,
+  "verse_reference": "1 Kings 22:7-8",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which prophet did the king of Israel say he hated because he never prophesied anything good about him?",
+  "options": [
+    "Micaiah son of Imlah",
+    "Elijah",
+    "Zedekiah son of Kenaanah",
+    "Jehu son of Hanani"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Micaiah",
+    "Ahab",
+    "Jehoshaphat"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king of Israel said there was still one prophet, Micaiah son of Imlah, but he hated him because he never prophesied anything good about him."
+}

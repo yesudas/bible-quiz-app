@@ -1,0 +1,38 @@
+{
+  "id": "09-007-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 7,
+  "verse_reference": "1 Samuel 7:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Samuel said, \"Thus far the LORD has ___ us.\"",
+  "options": [
+    "saved",
+    "led",
+    "helped",
+    "blessed"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Worship"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "Ebenezer",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When he set up the stone called Ebenezer, Samuel said, \"Thus far the LORD has helped us.\""
+}

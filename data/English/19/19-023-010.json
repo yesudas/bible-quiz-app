@@ -1,0 +1,40 @@
+{
+  "id": "19-023-010",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 23,
+  "verse_reference": "Psalm 23:6",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "At the end of Psalm 23, where does David say he will dwell forever?",
+  "options": [
+    "In Jerusalem",
+    "In the house of the LORD",
+    "In a royal palace",
+    "In the promised land"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Worship",
+    "Promise"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [
+    {
+      "name": "The house of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 23:6 says, \"Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the LORD forever.\""
+}

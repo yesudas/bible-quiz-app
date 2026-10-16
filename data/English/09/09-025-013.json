@@ -1,0 +1,31 @@
+{
+  "id": "09-025-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 25,
+  "verse_reference": "1 Samuel 25:38",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "About how long after this did the LORD strike Nabal so that he died?",
+  "options": [
+    "About ten days",
+    "The same day",
+    "About a year",
+    "Forty days"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Nabal"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "About ten days later, the LORD struck Nabal and he died."
+}

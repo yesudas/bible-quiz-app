@@ -1,0 +1,32 @@
+{
+  "id": "08-004-014",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 4,
+  "verse_reference": "Ruth 4:21",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to the family line, who was the father of Boaz?",
+  "options": [
+    "Nahshon",
+    "Ram",
+    "Salmon",
+    "Perez"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Boaz",
+    "Salmon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The genealogy says Salmon was the father of Boaz, and Boaz was the father of Obed."
+}

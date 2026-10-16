@@ -1,0 +1,32 @@
+{
+  "id": "18-021-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 21,
+  "verse_reference": "Job 21:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Job tell his friends to clap over their mouths?",
+  "options": [
+    "Their hands",
+    "Their robes",
+    "Dust",
+    "Their scrolls"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'Look at me and be appalled; clap your hand over your mouth.'"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "19-089-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 89,
+  "verse_reference": "Psalm 89:12",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 89:12, which two mountains sing for joy at God's name?",
+  "options": [
+    "Tabor and Hermon",
+    "Sinai and Horeb",
+    "Zion and Moriah",
+    "Ebal and Gerizim"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [
+    "Ethan"
+  ],
+  "places": [
+    {
+      "name": "Mount Tabor",
+      "type": "mountain"
+    },
+    {
+      "name": "Mount Hermon",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God created the north and the south; Tabor and Hermon sing for joy at His name."
+}

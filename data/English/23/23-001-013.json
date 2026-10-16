@@ -1,0 +1,35 @@
+{
+  "id": "23-001-013",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 1,
+  "verse_reference": "Isaiah 1:26",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "After God restored His city, what would it be called?",
+  "options": [
+    "The City of David and the Holy Mountain",
+    "The City of Righteousness, the Faithful City",
+    "The City of Peace and the Joyful City",
+    "The City of the Great King"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised to restore its judges and counselors, and then it would be called the City of Righteousness, the Faithful City."
+}

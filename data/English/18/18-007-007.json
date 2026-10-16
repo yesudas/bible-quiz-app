@@ -1,0 +1,32 @@
+{
+  "id": "18-007-007",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 7,
+  "verse_reference": "Job 7:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Job's question: \"What is ____ that you make so much of them, that you give them so much attention?\"",
+  "options": [
+    "mankind",
+    "the earth",
+    "the sea",
+    "the sky"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Creation"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job asked, 'What is mankind that you make so much of them?' He wondered why God paid such close attention to a weak human being."
+}

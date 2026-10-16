@@ -1,0 +1,36 @@
+{
+  "id": "18-029-004",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 29,
+  "verse_reference": "Job 29:8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Job 29:8, what did the old men do when they saw Job?",
+  "options": [
+    "They turned away",
+    "They rose to their feet",
+    "They laughed at him",
+    "They bowed to the ground"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [
+    {
+      "name": "City gate",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said the young men saw him and stepped aside, and the old men rose to their feet."
+}

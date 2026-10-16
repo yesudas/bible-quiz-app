@@ -1,0 +1,37 @@
+{
+  "id": "14-005-007",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 5,
+  "verse_reference": "2 Chronicles 5:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was special about the poles used to carry the ark?",
+  "options": [
+    "They were made of pure silver",
+    "They were cut short to fit the room",
+    "They were so long their ends could be seen from the Holy Place",
+    "They were kept outside the temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Most Holy Place",
+      "type": "temple"
+    },
+    {
+      "name": "Holy Place",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The poles were so long that their ends could be seen from the Holy Place, but not from outside."
+}

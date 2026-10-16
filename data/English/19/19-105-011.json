@@ -1,0 +1,35 @@
+{
+  "id": "19-105-011",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 105,
+  "verse_reference": "Psalm 105:28-36",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which of these plagues is NOT mentioned in Psalm 105?",
+  "options": [
+    "Frogs",
+    "Locusts",
+    "Boils",
+    "Hail"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 105 mentions darkness, blood, frogs, flies, gnats, hail, locusts and the death of the firstborn, but it does not mention boils."
+}

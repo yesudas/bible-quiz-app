@@ -1,0 +1,31 @@
+{
+  "id": "19-115-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 115,
+  "verse_reference": "Psalm 115:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does Psalm 115 say the idols of the nations are made of?",
+  "options": [
+    "Wood and stone",
+    "Bronze and iron",
+    "Clay and straw",
+    "Silver and gold"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Their idols are silver and gold, made by human hands."
+}

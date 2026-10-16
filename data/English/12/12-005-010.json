@@ -1,0 +1,33 @@
+{
+  "id": "12-005-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 5,
+  "verse_reference": "2 Kings 5:13",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who persuaded Naaman to do what Elisha said?",
+  "options": [
+    "His wife",
+    "The captive girl",
+    "The king of Aram",
+    "His servants"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Obedience",
+    "Wisdom"
+  ],
+  "characters": [
+    "Naaman"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Naaman's servants said that if the prophet had asked something great he would have done it, so how much more should he 'wash and be cleansed.'"
+}

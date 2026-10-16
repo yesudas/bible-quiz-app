@@ -1,0 +1,15 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Eglon",
+    "label": "Eglon",
+    "count": 5,
+    "paths": [
+        "English/07/07-003-008.json",
+        "English/07/07-003-009.json",
+        "English/07/07-003-010.json",
+        "English/07/07-003-013.json",
+        "English/07/07-003-014.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

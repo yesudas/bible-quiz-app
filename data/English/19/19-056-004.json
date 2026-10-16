@@ -1,0 +1,33 @@
+{
+  "id": "19-056-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 56,
+  "verse_reference": "Psalm 56:8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 56:8, what did David ask God to list on His scroll?",
+  "options": [
+    "His tears",
+    "His victories",
+    "His enemies",
+    "His sins"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Prayer",
+    "Hope"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David asked God to record his misery and list his tears on His scroll."
+}

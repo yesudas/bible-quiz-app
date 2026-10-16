@@ -1,0 +1,34 @@
+{
+  "id": "18-022-006",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 22,
+  "verse_reference": "Job 22:21",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Eliphaz's words: \"Submit to God and be at ____ with him.\"",
+  "options": [
+    "rest",
+    "war",
+    "home",
+    "peace"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Repentance",
+    "Faith"
+  ],
+  "characters": [
+    "Eliphaz",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eliphaz said, 'Submit to God and be at peace with him; in this way prosperity will come to you.'"
+}

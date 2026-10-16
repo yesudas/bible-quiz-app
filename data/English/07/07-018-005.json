@@ -1,0 +1,35 @@
+{
+  "id": "07-018-005",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 18,
+  "verse_reference": "Judges 18:7",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Which city did the five Danite spies find living in peace and safety?",
+  "options": [
+    "Gaza",
+    "Laish",
+    "Hebron",
+    "Shechem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promised Land"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Laish",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The five men came to Laish, where they saw the people living in safety, at peace and secure."
+}

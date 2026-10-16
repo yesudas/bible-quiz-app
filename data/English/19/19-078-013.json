@@ -1,0 +1,37 @@
+{
+  "id": "19-078-013",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 78,
+  "verse_reference": "Psalm 78:60",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 78:60, God abandoned the tabernacle at which place?",
+  "options": [
+    "Bethel",
+    "Gilgal",
+    "Hebron",
+    "Shiloh"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Because of the people's sin, God abandoned the tabernacle of Shiloh."
+}

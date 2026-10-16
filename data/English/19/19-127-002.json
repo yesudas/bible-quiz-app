@@ -1,0 +1,33 @@
+{
+  "id": "19-127-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 127,
+  "verse_reference": "Psalm 127:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Unless the LORD builds the house, the builders labor in ______.\"",
+  "options": [
+    "vain",
+    "joy",
+    "peace",
+    "fear"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Wisdom"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 127 teaches that if the LORD does not build the house, the builders' work is useless."
+}

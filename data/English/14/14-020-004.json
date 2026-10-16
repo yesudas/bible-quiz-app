@@ -1,0 +1,38 @@
+{
+  "id": "14-020-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 20,
+  "verse_reference": "2 Chronicles 20:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jehoshaphat's prayer: \"We do not know what to do, but our eyes are on ______.\"",
+  "options": [
+    "you",
+    "the hills",
+    "the army",
+    "the temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [
+    "Jehoshaphat"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoshaphat prayed that they had no power to face the vast army, saying, \"We do not know what to do, but our eyes are on you.\""
+}

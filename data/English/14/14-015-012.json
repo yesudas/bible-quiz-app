@@ -1,0 +1,37 @@
+{
+  "id": "14-015-012",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 15,
+  "verse_reference": "2 Chronicles 15:16",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Asa burn Maakah's repulsive Asherah image?",
+  "options": [
+    "In the temple courtyard",
+    "At Bethel",
+    "In the Kidron Valley",
+    "At the Jordan River"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [
+    "Asa",
+    "Maakah"
+  ],
+  "places": [
+    {
+      "name": "Kidron Valley",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asa cut the image down, broke it up and burned it in the Kidron Valley."
+}

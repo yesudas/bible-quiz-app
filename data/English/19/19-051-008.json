@@ -1,0 +1,32 @@
+{
+  "id": "19-051-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 51,
+  "verse_reference": "Psalm 51:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Wash me, and I will be whiter than ____.\"",
+  "options": [
+    "wool",
+    "milk",
+    "snow",
+    "light"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Forgiveness"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said that if God washed him, he would be whiter than snow."
+}

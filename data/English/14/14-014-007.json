@@ -1,0 +1,35 @@
+{
+  "id": "14-014-007",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 14,
+  "verse_reference": "2 Chronicles 14:8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How were the 280,000 men from Benjamin armed?",
+  "options": [
+    "With swords and spears",
+    "With large shields and spears",
+    "With chariots and horses",
+    "With small shields and bows"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Asa"
+  ],
+  "places": [
+    {
+      "name": "Benjamin",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asa had 300,000 men from Judah with large shields and spears, and 280,000 from Benjamin with small shields and bows."
+}

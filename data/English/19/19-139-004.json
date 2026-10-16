@@ -1,0 +1,33 @@
+{
+  "id": "19-139-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 139,
+  "verse_reference": "Psalm 139:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Psalm 139 asks, \"Where can I go from your\" what?",
+  "options": [
+    "Law",
+    "Temple",
+    "Hand",
+    "Spirit"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Holy Spirit",
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David asked, \"Where can I go from your Spirit? Where can I flee from your presence?\""
+}

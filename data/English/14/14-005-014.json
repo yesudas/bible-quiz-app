@@ -1,0 +1,34 @@
+{
+  "id": "14-005-014",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 5,
+  "verse_reference": "2 Chronicles 5:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why could the priests not perform their service?",
+  "options": [
+    "The ark was too heavy",
+    "The glory of the LORD filled the temple in a cloud",
+    "The king told them to stop",
+    "The doors of the temple were locked"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priests could not perform their service because of the cloud, for the glory of the LORD filled the temple of God."
+}

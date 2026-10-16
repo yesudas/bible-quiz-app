@@ -1,0 +1,36 @@
+{
+  "id": "05-006-009",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 6,
+  "verse_reference": "Deuteronomy 6:20-23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When a child asks the meaning of God's commands, what were parents told to explain?",
+  "options": [
+    "The names of all the tribes",
+    "How the Lord brought them out of slavery in Egypt with a mighty hand",
+    "The measurements of the tabernacle",
+    "The list of clean and unclean foods"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Salvation",
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Parents were to answer their children by telling how they were slaves in Egypt and the Lord brought them out with a mighty hand to give them the promised land."
+}

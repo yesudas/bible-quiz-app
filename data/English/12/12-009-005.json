@@ -1,0 +1,37 @@
+{
+  "id": "12-009-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 9,
+  "verse_reference": "2 Kings 9:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the prophet say would happen to Jezebel?",
+  "options": [
+    "Dogs would devour her at Jezreel and no one would bury her",
+    "She would be taken captive to Aram",
+    "She would be healed and repent",
+    "She would rule Israel after Joram"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Jezebel"
+  ],
+  "places": [
+    {
+      "name": "Jezreel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The prophet said dogs would devour Jezebel on the plot of ground at Jezreel and no one would bury her."
+}

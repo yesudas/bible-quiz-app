@@ -1,0 +1,29 @@
+{
+  "id": "22-005-006",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 5,
+  "verse_reference": "Song of Songs 5:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"My beloved is radiant and ruddy, outstanding among ten ____.\"",
+  "options": [
+    "thousand",
+    "kings",
+    "cities",
+    "tribes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 5:10 says her beloved is radiant and ruddy, outstanding among ten thousand."
+}

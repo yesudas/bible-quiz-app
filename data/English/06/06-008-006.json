@@ -1,0 +1,38 @@
+{
+  "id": "06-008-006",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 8,
+  "verse_reference": "Joshua 8:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the LORD tell Joshua to hold out toward Ai?",
+  "options": [
+    "His javelin",
+    "The ark of the covenant",
+    "His staff",
+    "A trumpet"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience",
+    "Victory"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Ai",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Joshua to hold out the javelin in his hand toward Ai, and the ambush rushed into the city."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "23-001-009",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 1,
+  "verse_reference": "Isaiah 1:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: 'Though your sins are like scarlet, they shall be as white as ______.'",
+  "options": [
+    "wool",
+    "milk",
+    "snow",
+    "linen"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Forgiveness",
+    "Salvation",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Isaiah 1:18 God promised that sins like scarlet can be made as white as snow."
+}

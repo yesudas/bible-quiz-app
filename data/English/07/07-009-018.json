@@ -1,0 +1,36 @@
+{
+  "id": "07-009-018",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 9,
+  "verse_reference": "Judges 9:48",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "From which mountain did Abimelek and his men cut branches to burn the stronghold?",
+  "options": [
+    "Mount Gerizim",
+    "Mount Tabor",
+    "Mount Zalmon",
+    "Mount Carmel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Abimelek"
+  ],
+  "places": [
+    {
+      "name": "Mount Zalmon",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abimelek went up Mount Zalmon, cut off some branches with an axe, and told his men to do the same."
+}

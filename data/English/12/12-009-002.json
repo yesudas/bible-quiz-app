@@ -1,0 +1,38 @@
+{
+  "id": "12-009-002",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 9,
+  "verse_reference": "2 Kings 9:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the young prophet pour on Jehu's head?",
+  "options": [
+    "Water",
+    "Wine",
+    "Ashes",
+    "Olive oil"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jehu"
+  ],
+  "places": [
+    {
+      "name": "Ramoth Gilead",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The prophet poured olive oil on Jehu's head and said the LORD anointed him king over Israel."
+}

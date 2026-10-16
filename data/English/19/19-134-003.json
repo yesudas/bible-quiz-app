@@ -1,0 +1,29 @@
+{
+  "id": "19-134-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 134,
+  "verse_reference": "Psalm 134:1-3",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Psalm 134 is the last psalm in which group of psalms?",
+  "options": [
+    "The psalms of Asaph",
+    "The psalms of the Sons of Korah",
+    "The songs of ascents",
+    "The psalms of Moses"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 134 is titled \"A song of ascents\" and is the last in the group that began with Psalm 120."
+}

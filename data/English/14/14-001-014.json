@@ -1,0 +1,31 @@
+{
+  "id": "14-001-014",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 1,
+  "verse_reference": "2 Chronicles 1:17",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "To which kings were Solomon's chariots and horses exported?",
+  "options": [
+    "The kings of the Philistines and Edomites",
+    "The kings of Tyre and Sidon",
+    "The kings of the Hittites and Arameans",
+    "The kings of Moab and Ammon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The merchants also exported chariots and horses to all the kings of the Hittites and of the Arameans."
+}

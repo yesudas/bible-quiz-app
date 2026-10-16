@@ -1,0 +1,29 @@
+{
+  "id": "21-004-001",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 4,
+  "verse_reference": "Ecclesiastes 4:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When the Teacher saw the tears of the oppressed, what did he say they did not have?",
+  "options": [
+    "Food",
+    "A home",
+    "Money",
+    "A comforter"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Teacher saw the tears of the oppressed, and they had no comforter. Power was on the side of their oppressors."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "13-009-010",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 9,
+  "verse_reference": "1 Chronicles 9:32",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How often did some Kohathites prepare the bread set out on the table?",
+  "options": [
+    "Every day",
+    "Every new moon",
+    "Every Sabbath",
+    "Once a year"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [
+    "Kohath"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some of the Kohathites were in charge of preparing for every Sabbath the bread set out on the table."
+}

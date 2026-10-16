@@ -1,0 +1,38 @@
+{
+  "id": "05-010-009",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 10,
+  "verse_reference": "Deuteronomy 10:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Moses tell Israel to love the foreigner living among them?",
+  "options": [
+    "Because foreigners were wealthy",
+    "Because Israel themselves were once foreigners in Egypt",
+    "Because it was a new tradition",
+    "Because foreigners owned the land"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Mercy",
+    "Law"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses told Israel to love foreigners because they themselves had been foreigners in the land of Egypt."
+}

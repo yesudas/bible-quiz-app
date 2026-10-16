@@ -1,0 +1,41 @@
+{
+  "id": "14-030-001",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 30,
+  "verse_reference": "2 Chronicles 30:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Which festival did Hezekiah invite all Israel and Judah to celebrate in Jerusalem?",
+  "options": [
+    "The Festival of Tabernacles",
+    "The Passover",
+    "The Festival of Weeks",
+    "The New Moon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hezekiah sent word to all Israel and Judah to come to the temple in Jerusalem and celebrate the Passover to the LORD."
+}

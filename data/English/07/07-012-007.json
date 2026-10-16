@@ -1,0 +1,36 @@
+{
+  "id": "07-012-007",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 12,
+  "verse_reference": "Judges 12:7",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How many years did Jephthah lead Israel?",
+  "options": [
+    "Seven",
+    "Ten",
+    "Six",
+    "Eight"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jephthah"
+  ],
+  "places": [
+    {
+      "name": "Gilead",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jephthah led Israel six years. Then he died and was buried in a town in Gilead."
+}

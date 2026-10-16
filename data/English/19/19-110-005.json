@@ -1,0 +1,34 @@
+{
+  "id": "19-110-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 110,
+  "verse_reference": "Psalm 110:4",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "In Psalm 110, the LORD says, \"You are a priest forever, in the order of\" whom?",
+  "options": [
+    "Aaron",
+    "Levi",
+    "Melchizedek",
+    "Zadok"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Prophecy",
+    "Covenant"
+  ],
+  "characters": [
+    "David",
+    "Melchizedek"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD has sworn and will not change His mind: \"You are a priest forever, in the order of Melchizedek.\""
+}

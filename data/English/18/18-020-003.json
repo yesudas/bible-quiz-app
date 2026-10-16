@@ -1,0 +1,33 @@
+{
+  "id": "18-020-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 20,
+  "verse_reference": "Job 20:8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Zophar said the wicked man flies away like what?",
+  "options": [
+    "A dream",
+    "A bird",
+    "A cloud",
+    "An arrow"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Zophar"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zophar said, 'Like a dream he flies away, no more to be found, banished like a vision of the night.'"
+}

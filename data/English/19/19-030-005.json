@@ -1,0 +1,32 @@
+{
+  "id": "19-030-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 30,
+  "verse_reference": "Psalm 30:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 30:6, what did David say when he felt secure?",
+  "options": [
+    "\"I will never be shaken\"",
+    "\"I need no help\"",
+    "\"I am the greatest king\"",
+    "\"My enemies are gone\""
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Pride",
+    "Humility"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 30:6 says, \"When I felt secure, I said, 'I will never be shaken.'\""
+}

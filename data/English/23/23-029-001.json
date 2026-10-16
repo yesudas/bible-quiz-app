@@ -1,0 +1,36 @@
+{
+  "id": "23-029-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 29,
+  "verse_reference": "Isaiah 29:1",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "In Isaiah 29:1, the city called 'Ariel' is described as the city where who settled?",
+  "options": [
+    "Solomon",
+    "David",
+    "Abraham",
+    "Hezekiah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Ariel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 29:1 says, 'Woe to you, Ariel, Ariel, the city where David settled!'"
+}

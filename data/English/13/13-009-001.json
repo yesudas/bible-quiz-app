@@ -1,0 +1,36 @@
+{
+  "id": "13-009-001",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 9,
+  "verse_reference": "1 Chronicles 9:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why were the people of Judah taken captive to Babylon?",
+  "options": [
+    "Because of their unfaithfulness",
+    "Because they lost a war with Egypt",
+    "Because they could not pay tribute",
+    "Because of a famine in the land"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 9:1 says the people of Judah were taken captive to Babylon because of their unfaithfulness."
+}

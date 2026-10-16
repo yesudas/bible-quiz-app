@@ -1,0 +1,34 @@
+{
+  "id": "12-022-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 22,
+  "verse_reference": "2 Kings 22:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the supervisors not need to give an account of the money?",
+  "options": [
+    "They were honest in their dealings",
+    "The king paid them himself",
+    "There was very little money",
+    "Hilkiah kept the records"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They did not need to account for the money entrusted to them, because they were honest in their dealings."
+}

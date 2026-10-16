@@ -1,0 +1,35 @@
+{
+  "id": "12-007-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 7,
+  "verse_reference": "2 Kings 7:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the men with leprosy find when they reached the Aramean camp?",
+  "options": [
+    "The soldiers were asleep",
+    "No one was there",
+    "The camp was on fire",
+    "The king of Aram was waiting"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Aramean camp",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they reached the edge of the camp at dusk, no one was there."
+}

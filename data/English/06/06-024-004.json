@@ -1,0 +1,30 @@
+{
+  "id": "06-024-004",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 24,
+  "verse_reference": "Joshua 24:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the LORD say He sent ahead of Israel to drive out their enemies?",
+  "options": [
+    "A plague of locusts",
+    "A great fire",
+    "The hornet",
+    "A strong wind"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Victory",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, \"I sent the hornet ahead of you,\" which drove out the enemies; it was not by Israel's sword or bow."
+}

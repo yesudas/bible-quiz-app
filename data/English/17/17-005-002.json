@@ -1,0 +1,39 @@
+{
+  "id": "17-005-002",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 5,
+  "verse_reference": "Esther 5:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did King Xerxes hold out to Esther when he saw her standing in the court?",
+  "options": [
+    "His signet ring",
+    "His royal crown",
+    "The gold scepter",
+    "A cup of wine"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Courage",
+    "Providence"
+  ],
+  "characters": [
+    "Xerxes",
+    "Esther"
+  ],
+  "places": [
+    {
+      "name": "King's inner court",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king was pleased with Esther and held out to her the gold scepter that was in his hand."
+}

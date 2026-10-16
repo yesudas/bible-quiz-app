@@ -1,0 +1,45 @@
+{
+  "id": "07-016-022",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 16,
+  "verse_reference": "Judges 16:31",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where was Samson buried?",
+  "options": [
+    "In Gaza",
+    "In Timnah",
+    "Between Zorah and Eshtaol in the tomb of his father Manoah",
+    "At Lehi"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Samson",
+    "Manoah"
+  ],
+  "places": [
+    {
+      "name": "Zorah",
+      "type": "town"
+    },
+    {
+      "name": "Eshtaol",
+      "type": "town"
+    },
+    {
+      "name": "Tomb of Manoah",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "His brothers and his father's family brought Samson back and buried him between Zorah and Eshtaol in the tomb of Manoah his father."
+}

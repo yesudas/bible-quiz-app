@@ -1,0 +1,36 @@
+{
+  "id": "19-137-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 137,
+  "verse_reference": "Psalm 137:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the people weep by the rivers of Babylon?",
+  "options": [
+    "Because they remembered Zion",
+    "Because they were hungry",
+    "Because the river flooded",
+    "Because their king died"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They sat and wept when they remembered Zion, far away from their home."
+}

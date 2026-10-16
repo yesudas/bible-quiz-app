@@ -1,0 +1,39 @@
+{
+  "id": "09-001-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 1,
+  "verse_reference": "1 Samuel 1:1-2",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who was Hannah's husband?",
+  "options": [
+    "Eli",
+    "Jeroham",
+    "Elkanah",
+    "Phinehas"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Marriage"
+  ],
+  "characters": [
+    "Elkanah",
+    "Hannah"
+  ],
+  "places": [
+    {
+      "name": "Hill country of Ephraim",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hannah was one of the two wives of Elkanah, a man from the hill country of Ephraim."
+}

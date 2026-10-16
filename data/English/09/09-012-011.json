@@ -1,0 +1,37 @@
+{
+  "id": "09-012-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 12,
+  "verse_reference": "1 Samuel 12:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Samuel say the LORD would not reject His people?",
+  "options": [
+    "Because they were stronger than other nations",
+    "For the sake of His great name",
+    "Because Saul was a good king",
+    "Because they offered many sacrifices"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel said, \"For the sake of his great name the LORD will not reject his people, because the LORD was pleased to make you his own.\""
+}

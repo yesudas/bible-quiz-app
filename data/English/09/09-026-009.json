@@ -1,0 +1,38 @@
+{
+  "id": "09-026-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 26,
+  "verse_reference": "1 Samuel 26:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did no one in Saul's camp wake up?",
+  "options": [
+    "They were drunk",
+    "The LORD had put them into a deep sleep",
+    "David was very quiet",
+    "It was very dark"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "David",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Saul's camp",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "No one saw or knew about it, nor did anyone wake up. They were all sleeping, because the LORD had put them into a deep sleep."
+}

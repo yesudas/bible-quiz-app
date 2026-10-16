@@ -1,0 +1,36 @@
+{
+  "id": "12-004-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 4,
+  "verse_reference": "2 Kings 4:8",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In which town did a well-to-do woman often give Elisha a meal?",
+  "options": [
+    "Jericho",
+    "Bethel",
+    "Shunem",
+    "Gilgal"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Shunem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha went to Shunem, where a well-to-do woman urged him to stay for a meal."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "23-017-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 17,
+  "verse_reference": "Isaiah 17:5",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "The harvest picture in Isaiah 17:5 mentions gathering grain in which valley?",
+  "options": [
+    "The Valley of Rephaim",
+    "The Valley of Elah",
+    "The Valley of Hinnom",
+    "The Valley of Jezreel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Valley of Rephaim",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 17:5 compares the judgment to a reaper gleaning heads of grain in the Valley of Rephaim."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "09-020-005",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 20,
+  "verse_reference": "1 Samuel 20:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jonathan ask David to promise him?",
+  "options": [
+    "To make him king one day",
+    "To never fight the Philistines again",
+    "To marry his sister",
+    "To never cut off his kindness from Jonathan's family"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Love",
+    "Family"
+  ],
+  "characters": [
+    "Jonathan",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonathan asked David to show him unfailing kindness like the LORD's, and not to ever cut off his kindness from Jonathan's family."
+}

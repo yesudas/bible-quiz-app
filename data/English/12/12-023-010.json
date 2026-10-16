@@ -1,0 +1,36 @@
+{
+  "id": "12-023-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 23,
+  "verse_reference": "2 Kings 23:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How special was Josiah's Passover?",
+  "options": [
+    "It was the first Passover ever held",
+    "No such Passover had been held since the days of the judges",
+    "It lasted forty days",
+    "Only priests took part"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Josiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Neither in the days of the judges nor in the times of the kings had any such Passover been observed."
+}

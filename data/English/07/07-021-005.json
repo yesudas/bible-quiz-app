@@ -1,0 +1,34 @@
+{
+  "id": "07-021-005",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 21,
+  "verse_reference": "Judges 21:10",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many fighting men did the assembly send to Jabesh Gilead?",
+  "options": [
+    "Four hundred thousand",
+    "Six hundred",
+    "Twelve thousand",
+    "Three thousand"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jabesh Gilead",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The assembly sent twelve thousand fighting men to Jabesh Gilead."
+}

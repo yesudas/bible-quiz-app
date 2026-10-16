@@ -1,0 +1,36 @@
+{
+  "id": "08-002-008",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 2,
+  "verse_reference": "Ruth 2:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What had Boaz heard about Ruth?",
+  "options": [
+    "That she was rich in Moab",
+    "All she had done for her mother-in-law since her husband died",
+    "That she was a skilled harvester",
+    "That she had a brother in Bethlehem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faithfulness",
+    "Family",
+    "Love"
+  ],
+  "characters": [
+    "Boaz",
+    "Ruth",
+    "Naomi"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Boaz had been told how Ruth had cared for Naomi and had left her parents and homeland to live among a people she did not know."
+}

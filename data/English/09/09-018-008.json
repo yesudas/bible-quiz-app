@@ -1,0 +1,32 @@
+{
+  "id": "09-018-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 18,
+  "verse_reference": "1 Samuel 18:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What position did Saul give David when he sent him away?",
+  "options": [
+    "Commander over a thousand men",
+    "Keeper of the royal treasure",
+    "Priest at Nob",
+    "Governor of Bethlehem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul sent David away from him and gave him command over a thousand men."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "12-003-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 3,
+  "verse_reference": "2 Kings 3:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What problem did the three armies face after marching seven days?",
+  "options": [
+    "Their horses died of sickness",
+    "There was no water",
+    "The Moabites surrounded them",
+    "Their supplies were stolen"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Joram",
+    "Jehoshaphat"
+  ],
+  "places": [
+    {
+      "name": "Desert of Edom",
+      "type": "desert"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After a roundabout march of seven days, there was no water left for the army or their animals."
+}

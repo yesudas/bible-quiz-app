@@ -282,8 +282,10 @@ renderQuizHeader($pageTitle, $metaDescription, $version, [
         <div class="form-actions">
             <button type="submit" class="btn btn-primary btn-lg">Start Quiz</button>
             <button type="button" id="shareQuizBtn" class="btn btn-outline-primary btn-lg">Share Quiz</button>
+            <button type="button" id="embedAppBtn" class="btn btn-outline-primary btn-lg">Embed App</button>
             <button type="button" id="embedQuizBtn" class="btn btn-outline-primary btn-lg">Embed Quiz</button>
         </div>
+        <p class="field-hint">"Embed App" drops the full quiz setup form into your site. "Embed Quiz" skips straight to the quiz you've configured above.</p>
 
         <div class="share-result" id="shareResult" hidden>
             <label for="shareUrlInput" class="field-label">Shareable link</label>
@@ -294,13 +296,24 @@ renderQuizHeader($pageTitle, $metaDescription, $version, [
             <p class="share-result-msg" id="shareResultMsg" aria-live="polite"></p>
         </div>
 
-        <div class="share-result" id="embedResult" hidden>
-            <label for="embedCodeInput" class="field-label">Embed code</label>
+        <div class="share-result" id="embedAppResult" hidden>
+            <label for="embedAppCodeInput" class="field-label">Embed App code</label>
+            <p class="field-hint">Use this code to embed the full Bible Quiz app — setup form, leaderboard, and all — on your own website.</p>
             <div class="share-result-row">
-                <textarea id="embedCodeInput" class="share-url-input embed-code-input" rows="2" readonly></textarea>
-                <button type="button" class="btn btn-outline-primary" id="embedCopyBtn">Copy</button>
+                <textarea id="embedAppCodeInput" class="share-url-input embed-code-input" rows="2" readonly></textarea>
+                <button type="button" class="btn btn-outline-primary" id="embedAppCopyBtn">Copy</button>
             </div>
-            <p class="share-result-msg" id="embedResultMsg" aria-live="polite"></p>
+            <p class="share-result-msg" id="embedAppResultMsg" aria-live="polite"></p>
+        </div>
+
+        <div class="share-result" id="embedQuizResult" hidden>
+            <label for="embedQuizCodeInput" class="field-label">Embed Quiz code</label>
+            <p class="field-hint">Use this code to embed just the quiz you've configured above — visitors go straight into it, skipping the setup form.</p>
+            <div class="share-result-row">
+                <textarea id="embedQuizCodeInput" class="share-url-input embed-code-input" rows="2" readonly></textarea>
+                <button type="button" class="btn btn-outline-primary" id="embedQuizCopyBtn">Copy</button>
+            </div>
+            <p class="share-result-msg" id="embedQuizResultMsg" aria-live="polite"></p>
         </div>
     </form>
 </section>
@@ -395,6 +408,7 @@ renderQuizHeader($pageTitle, $metaDescription, $version, [
 
 <script>
     window.QUIZ_I18N = <?= json_encode(['chapterWord' => quizDetailLabels($selectedLanguage)['chapter']], JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) ?>;
+    window.QUIZ_VERSION = <?= json_encode($version) ?>;
 </script>
 <script src="assets/js/home.js?v=<?= htmlspecialchars($version) ?>" defer></script>
 

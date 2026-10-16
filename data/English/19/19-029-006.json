@@ -1,0 +1,37 @@
+{
+  "id": "19-029-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 29,
+  "verse_reference": "Psalm 29:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 29:9, what does everyone in the LORD's temple cry?",
+  "options": [
+    "\"Holy!\"",
+    "\"Amen!\"",
+    "\"Glory!\"",
+    "\"Hosanna!\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "His temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 29:9 says, \"And in his temple all cry, 'Glory!'\""
+}

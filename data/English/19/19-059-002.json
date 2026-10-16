@@ -1,0 +1,32 @@
+{
+  "id": "19-059-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 59,
+  "verse_reference": "Psalm 59:6, 14",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "In Psalm 59, David's enemies return at evening, snarling like which animals?",
+  "options": [
+    "Dogs",
+    "Lions",
+    "Wolves",
+    "Jackals"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David says his enemies return at evening, snarling like dogs and prowling about the city."
+}

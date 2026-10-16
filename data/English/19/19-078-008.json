@@ -1,0 +1,37 @@
+{
+  "id": "19-078-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 78,
+  "verse_reference": "Psalm 78:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In Psalm 78:19, what doubting question did the people ask?",
+  "options": [
+    "Can God really spread a table in the wilderness?",
+    "Can God really part the sea?",
+    "Can God really give us a king?",
+    "Can God really defeat Egypt?"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Faith"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people spoke against God, asking, \"Can God really spread a table in the wilderness?\""
+}

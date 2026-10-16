@@ -1,0 +1,37 @@
+{
+  "id": "14-016-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 16,
+  "verse_reference": "2 Chronicles 16:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Where did Asa get the silver and gold he sent to Ben-Hadad?",
+  "options": [
+    "From a war against Egypt",
+    "From the people's taxes",
+    "From the treasuries of the LORD's temple and his palace",
+    "From the queen of Sheba"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Sin"
+  ],
+  "characters": [
+    "Asa"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asa took silver and gold out of the treasuries of the LORD's temple and of his own palace and sent it to Ben-Hadad."
+}

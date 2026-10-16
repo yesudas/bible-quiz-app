@@ -1,0 +1,35 @@
+{
+  "id": "20-003-006",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 3,
+  "verse_reference": "Proverbs 3:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 3:10, what will happen to the barns of those who honor the LORD with their wealth?",
+  "options": [
+    "They will be burned",
+    "They will be filled to overflowing",
+    "They will be taken by enemies",
+    "They will be empty"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Barns",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 3:10 says their barns will be filled to overflowing and their vats will brim over with new wine."
+}

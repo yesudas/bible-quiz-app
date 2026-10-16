@@ -1,0 +1,35 @@
+{
+  "id": "07-021-001",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 21,
+  "verse_reference": "Judges 21:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What oath had the men of Israel taken at Mizpah?",
+  "options": [
+    "Not one of them would give his daughter in marriage to a Benjamite",
+    "They would never enter Gibeah again",
+    "They would never fight another war",
+    "They would not eat with any Benjamite"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Marriage",
+    "Family"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mizpah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The men of Israel had sworn at Mizpah that none of them would give a daughter in marriage to a Benjamite."
+}

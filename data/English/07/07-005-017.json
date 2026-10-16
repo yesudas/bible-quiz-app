@@ -1,0 +1,31 @@
+{
+  "id": "07-005-017",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 5,
+  "verse_reference": "Judges 5:31",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How long did the land have peace after the victory over Sisera?",
+  "options": [
+    "Forty years",
+    "Eighty years",
+    "Twenty years",
+    "Seven years"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Peace",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After Deborah and Barak's victory, the land had peace forty years."
+}

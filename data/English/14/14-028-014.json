@@ -1,0 +1,39 @@
+{
+  "id": "14-028-014",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 28,
+  "verse_reference": "2 Chronicles 28:27",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who succeeded Ahaz as king?",
+  "options": [
+    "Jotham",
+    "Manasseh",
+    "Hezekiah",
+    "Josiah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Ahaz",
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahaz rested with his ancestors and was buried in Jerusalem, and Hezekiah his son succeeded him as king."
+}

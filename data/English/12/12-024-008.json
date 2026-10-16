@@ -1,0 +1,39 @@
+{
+  "id": "12-024-008",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 24,
+  "verse_reference": "2 Kings 24:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Nebuchadnezzar do with the gold articles Solomon had made for the temple?",
+  "options": [
+    "He cut them up",
+    "He melted them into an idol",
+    "He returned them later",
+    "He left them in Jerusalem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Nebuchadnezzar",
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nebuchadnezzar removed the treasures and cut up the gold articles Solomon had made for the temple, as the LORD had declared."
+}

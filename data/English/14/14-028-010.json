@@ -1,0 +1,36 @@
+{
+  "id": "14-028-010",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 28,
+  "verse_reference": "2 Chronicles 28:20-21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Tiglath-Pileser king of Assyria give Ahaz after Ahaz paid him?",
+  "options": [
+    "Great help against his enemies",
+    "A new army",
+    "Trouble instead of help",
+    "A peace treaty"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Ahaz",
+    "Tiglath-Pileser"
+  ],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Tiglath-Pileser came to him, but he gave him trouble instead of help, even though Ahaz gave him treasures from the temple and palace."
+}

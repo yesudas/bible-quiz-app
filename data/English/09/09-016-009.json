@@ -1,0 +1,39 @@
+{
+  "id": "09-016-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 16,
+  "verse_reference": "1 Samuel 16:12-13",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Samuel do when David arrived?",
+  "options": [
+    "He sent him back to the sheep",
+    "He anointed him in the presence of his brothers",
+    "He gave him a sword",
+    "He took him to Saul"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Samuel",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, \"Rise and anoint him; this is the one.\" So Samuel anointed David in the presence of his brothers."
+}

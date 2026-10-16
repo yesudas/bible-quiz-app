@@ -1,0 +1,33 @@
+{
+  "id": "19-005-009",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 5,
+  "verse_reference": "Psalm 5:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"You surround them with your favor as with a ____.\"",
+  "options": [
+    "shield",
+    "wall",
+    "cloud",
+    "robe"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Protection",
+    "Promise"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 5:12 says the LORD blesses the righteous and surrounds them with his favor as with a shield."
+}

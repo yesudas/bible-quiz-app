@@ -1,0 +1,33 @@
+{
+  "id": "19-033-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 33,
+  "verse_reference": "Psalm 33:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 33:2, on what instrument with ten strings should people make music to the LORD?",
+  "options": [
+    "The cymbals",
+    "The lyre",
+    "The flute",
+    "The trumpet"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Music"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 33:2 says, \"Praise the LORD with the harp; make music to him on the ten-stringed lyre.\""
+}

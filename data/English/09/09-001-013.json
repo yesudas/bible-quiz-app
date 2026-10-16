@@ -1,0 +1,43 @@
+{
+  "id": "09-001-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 1,
+  "verse_reference": "1 Samuel 1:22-24",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When did Hannah take Samuel to the house of the LORD at Shiloh?",
+  "options": [
+    "On the day he was born",
+    "When he was twelve years old",
+    "After he was weaned",
+    "After Eli died"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Family"
+  ],
+  "characters": [
+    "Hannah",
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "town"
+    },
+    {
+      "name": "House of the LORD at Shiloh",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hannah stayed home until Samuel was weaned. Then she took him to the house of the LORD at Shiloh."
+}

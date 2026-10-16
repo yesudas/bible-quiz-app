@@ -1,0 +1,31 @@
+{
+  "id": "18-001-012",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 1,
+  "verse_reference": "Job 1:17",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which people formed three raiding parties and took Job's camels?",
+  "options": [
+    "The Sabeans",
+    "The Egyptians",
+    "The Moabites",
+    "The Chaldeans"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Chaldeans formed three raiding parties, swept down on the camels and carried them off."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "05-010-001",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 10,
+  "verse_reference": "Deuteronomy 10:1-3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God tell Moses to make to hold the two new stone tablets?",
+  "options": [
+    "A golden box",
+    "A stone chamber",
+    "A leather bag",
+    "A wooden ark (chest)"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Law",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Moses to chisel out two new stone tablets and make a wooden ark to hold them."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12-006-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 6,
+  "verse_reference": "2 Kings 6:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to one of his officers, how did the king of Israel know the plans of the king of Aram?",
+  "options": [
+    "Elisha told him the very words the king of Aram spoke in his bedroom",
+    "A spy in Aram's army sent him messages",
+    "He captured Aram's letters",
+    "An angel appeared to him"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Aram",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The officer said Elisha the prophet told the king of Israel the very words the king of Aram spoke in his bedroom."
+}

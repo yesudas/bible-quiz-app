@@ -1,0 +1,32 @@
+{
+  "id": "18-024-001",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 24,
+  "verse_reference": "Job 24:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Job ask about God in Job 24:1?",
+  "options": [
+    "Why He made the stars",
+    "Why He chose Abraham",
+    "Why He gave the law",
+    "Why He does not set times for judgment"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job asked, 'Why does the Almighty not set times for judgment? Why must those who know him look in vain for such days?'"
+}

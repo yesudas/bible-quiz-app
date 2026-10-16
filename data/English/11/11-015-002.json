@@ -1,0 +1,38 @@
+{
+  "id": "11-015-002",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 15,
+  "verse_reference": "1 Kings 15:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Even though Abijah sinned, why did the LORD give him a lamp in Jerusalem?",
+  "options": [
+    "Because Abijah repented at the end",
+    "For David's sake",
+    "Because the temple was there",
+    "Because Asa prayed for him"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [
+    "Abijah son of Rehoboam",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "For David's sake the LORD his God gave Abijah a lamp in Jerusalem by raising up a son to succeed him."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "23-005-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 5,
+  "verse_reference": "Isaiah 5:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "The LORD looked for justice in His people. What did He see instead?",
+  "options": [
+    "Bloodshed",
+    "Idols",
+    "Famine",
+    "Laziness"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Justice",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 5:7 says He looked for justice but saw bloodshed, and for righteousness but heard cries of distress."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "13-026-003",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 26,
+  "verse_reference": "1 Chronicles 26:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How were the gates assigned to the gatekeepers' families?",
+  "options": [
+    "By the king's choice",
+    "By the size of each family",
+    "Lots were cast for each gate, young and old alike",
+    "By their skill in battle"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Justice",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Lots were cast for each gate, according to their families, young and old alike."
+}

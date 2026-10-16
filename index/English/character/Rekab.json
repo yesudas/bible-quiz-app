@@ -1,0 +1,14 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Rekab",
+    "label": "Rekab",
+    "count": 4,
+    "paths": [
+        "English/10/10-004-002.json",
+        "English/10/10-004-006.json",
+        "English/10/10-004-007.json",
+        "English/10/10-004-008.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

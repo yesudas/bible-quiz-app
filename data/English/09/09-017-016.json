@@ -1,0 +1,32 @@
+{
+  "id": "09-017-016",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 17,
+  "verse_reference": "1 Samuel 17:47",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "David said, \"The battle is the ___'s.\"",
+  "options": [
+    "king",
+    "army",
+    "LORD",
+    "people"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said everyone would know it is not by sword or spear that the LORD saves, for the battle is the LORD's."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "11-016-011",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 16,
+  "verse_reference": "1 Kings 16:29",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which son of Omri became king of Israel and reigned in Samaria?",
+  "options": [
+    "Ahab",
+    "Elah",
+    "Zimri",
+    "Jehu"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Ahab",
+    "Omri"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahab son of Omri became king of Israel and reigned in Samaria for twenty-two years."
+}

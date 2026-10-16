@@ -1,0 +1,35 @@
+{
+  "id": "23-015-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 15,
+  "verse_reference": "Isaiah 15:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Isaiah 15 is a prophecy against which nation?",
+  "options": [
+    "Edom",
+    "Ammon",
+    "Moab",
+    "Philistia"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 15:1 begins, 'A prophecy against Moab: Ar in Moab is ruined, destroyed in a night!'"
+}

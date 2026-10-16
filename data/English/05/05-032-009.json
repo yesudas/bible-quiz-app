@@ -1,0 +1,30 @@
+{
+  "id": "05-032-009",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 32,
+  "verse_reference": "Deuteronomy 32:35",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "The song says: \"It is mine to avenge; I will ___.\"",
+  "options": [
+    "forgive",
+    "forget",
+    "wait",
+    "repay"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Justice"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God declares that vengeance belongs to Him and He will repay, in due time bringing justice on those who deserve it."
+}

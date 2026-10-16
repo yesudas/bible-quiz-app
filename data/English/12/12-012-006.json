@@ -1,0 +1,36 @@
+{
+  "id": "12-012-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 12,
+  "verse_reference": "2 Kings 12:6",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "By what year of Joash's reign had the priests still not repaired the temple?",
+  "options": [
+    "The seventh year",
+    "The fortieth year",
+    "The twenty-third year",
+    "The tenth year"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Joash"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "By the twenty-third year of King Joash the priests still had not repaired the temple."
+}

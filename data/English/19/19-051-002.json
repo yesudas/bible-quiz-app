@@ -1,0 +1,35 @@
+{
+  "id": "19-051-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 51,
+  "verse_reference": "Psalm 51 (title)",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to the title, which prophet came to David before he wrote Psalm 51?",
+  "options": [
+    "Nathan",
+    "Samuel",
+    "Elijah",
+    "Gad"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Repentance",
+    "Prophecy"
+  ],
+  "characters": [
+    "David",
+    "Nathan"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title says David wrote this psalm when the prophet Nathan came to him."
+}

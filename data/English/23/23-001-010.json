@@ -1,0 +1,31 @@
+{
+  "id": "23-001-010",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 1,
+  "verse_reference": "Isaiah 1:19-20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God say would happen to the people if they resisted and rebelled?",
+  "options": [
+    "They would eat the good things of the land",
+    "They would be devoured by the sword",
+    "They would be taken to Egypt",
+    "They would lose their temple only"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Obedience",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said the willing and obedient would eat the good things of the land, but those who rebel would be devoured by the sword."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "11-020-015",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 20,
+  "verse_reference": "1 Kings 20:35-36",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened to the man who refused a prophet's request, given by the word of the LORD, to strike him?",
+  "options": [
+    "He became a prophet",
+    "He was made blind",
+    "A lion killed him",
+    "He was taken to Aram"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Because the man did not obey the LORD, the prophet told him a lion would kill him, and after he left, a lion found him and killed him."
+}

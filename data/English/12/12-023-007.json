@@ -1,0 +1,35 @@
+{
+  "id": "12-023-007",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 23,
+  "verse_reference": "2 Kings 23:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Josiah burn bones from the tombs on the altar at Bethel?",
+  "options": [
+    "It fulfilled the word of the LORD proclaimed by the man of God",
+    "He wanted to honour the dead",
+    "The priests asked him to",
+    "It was a Passover custom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Josiah"
+  ],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Josiah burned bones on the altar to defile it, in keeping with the word of the LORD proclaimed by the man of God."
+}

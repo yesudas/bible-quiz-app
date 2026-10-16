@@ -1,0 +1,36 @@
+{
+  "id": "19-069-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 69,
+  "verse_reference": "Psalm 69:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"For zeal for your ____ consumes me.\"",
+  "options": [
+    "law",
+    "name",
+    "people",
+    "house"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "God's house",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David says that zeal for God's house consumes him."
+}

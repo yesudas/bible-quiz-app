@@ -1,0 +1,42 @@
+{
+  "id": "19-083-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 83,
+  "verse_reference": "Psalm 83:9",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In Psalm 83:9, at which river did God defeat Sisera and Jabin?",
+  "options": [
+    "The Jordan",
+    "The Kishon",
+    "The Nile",
+    "The Euphrates"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Asaph",
+    "Sisera",
+    "Jabin"
+  ],
+  "places": [
+    {
+      "name": "Kishon River",
+      "type": "river"
+    },
+    {
+      "name": "Midian",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph asks God to do to the enemies as He did to Sisera and Jabin at the river Kishon."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "12-017-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 17,
+  "verse_reference": "2 Kings 17:5",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How long did the king of Assyria besiege Samaria?",
+  "options": [
+    "Seven years",
+    "Three years",
+    "Forty days",
+    "One year"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king of Assyria invaded the entire land, marched against Samaria and laid siege to it for three years."
+}

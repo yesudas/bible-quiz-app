@@ -1,0 +1,39 @@
+{
+  "id": "17-006-009",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 6,
+  "verse_reference": "Esther 6:11",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Who led Mordecai on horseback through the city streets, proclaiming honor before him?",
+  "options": [
+    "Haman",
+    "King Xerxes",
+    "Hathak",
+    "Hegai"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Providence",
+    "Humility"
+  ],
+  "characters": [
+    "Haman",
+    "Mordecai"
+  ],
+  "places": [
+    {
+      "name": "City streets of Susa",
+      "type": "road"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Haman got the robe and the horse, robed Mordecai and led him through the city streets, proclaiming honor before him."
+}

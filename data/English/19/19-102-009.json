@@ -1,0 +1,30 @@
+{
+  "id": "19-102-009",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 102,
+  "verse_reference": "Psalm 102:25",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"In the beginning you laid the foundations of the earth, and the heavens are the work of your ______.\"",
+  "options": [
+    "words",
+    "hands",
+    "Spirit",
+    "angels"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist praised God as Creator, saying the heavens are the work of His hands."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "11-003-007",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 3,
+  "verse_reference": "1 Kings 3:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did God say to Solomon in the dream?",
+  "options": [
+    "\"Build me a temple.\"",
+    "\"Go to war against the Philistines.\"",
+    "\"Ask for whatever you want me to give you.\"",
+    "\"Leave Jerusalem.\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Prayer"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said to Solomon, \"Ask for whatever you want me to give you.\""
+}

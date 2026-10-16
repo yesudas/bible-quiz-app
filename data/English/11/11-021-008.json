@@ -1,0 +1,32 @@
+{
+  "id": "11-021-008",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 21,
+  "verse_reference": "1 Kings 21:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How was Naboth put to death?",
+  "options": [
+    "By the sword",
+    "By a lion",
+    "In a fire",
+    "By stoning outside the city"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Sin"
+  ],
+  "characters": [
+    "Naboth"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They took Naboth outside the city and stoned him to death."
+}

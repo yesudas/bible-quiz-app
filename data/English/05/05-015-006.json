@@ -1,0 +1,36 @@
+{
+  "id": "05-015-006",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 15,
+  "verse_reference": "Deuteronomy 15:13-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How were the Israelites to treat a servant they set free, and why?",
+  "options": [
+    "Send them away empty; because they were poor",
+    "Charge them a fee; because of the law",
+    "Keep their belongings; because they had served",
+    "Supply them generously from their flock and produce; because Israel had been slaves in Egypt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Mercy",
+    "Salvation",
+    "Money"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A freed servant was not to be sent away empty-handed but supplied liberally from the flock, threshing floor, and winepress, because Israel remembered they had been slaves in Egypt and the Lord redeemed them."
+}

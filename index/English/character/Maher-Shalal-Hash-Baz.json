@@ -1,0 +1,12 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Maher-Shalal-Hash-Baz",
+    "label": "Maher-Shalal-Hash-Baz",
+    "count": 2,
+    "paths": [
+        "English/23/23-008-001.json",
+        "English/23/23-008-003.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "13-027-009",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 27,
+  "verse_reference": "1 Chronicles 27:18",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was the officer over the tribe of Judah?",
+  "options": [
+    "Nahshon, a leader of Judah",
+    "Caleb son of Jephunneh",
+    "Joab son of Zeruiah",
+    "Elihu, a brother of David"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Elihu",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the list of officers over the tribes of Israel, the officer over Judah was Elihu, a brother of David."
+}

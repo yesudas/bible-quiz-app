@@ -1,0 +1,33 @@
+{
+  "id": "19-041-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 41,
+  "verse_reference": "Psalm 41:3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 41:3, where does the LORD sustain those who care for the weak?",
+  "options": [
+    "On the battlefield",
+    "On their sickbed",
+    "In the desert",
+    "On a long journey"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Healing",
+    "Protection"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 41:3 says, \"The LORD sustains them on their sickbed and restores them from their bed of illness.\""
+}

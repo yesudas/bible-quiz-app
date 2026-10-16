@@ -1,0 +1,33 @@
+{
+  "id": "12-003-014",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 3,
+  "verse_reference": "2 Kings 3:16-17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the LORD promise to do for the thirsty armies?",
+  "options": [
+    "Fill the valley with pools of water without wind or rain",
+    "Send a heavy storm of rain",
+    "Open a spring from a rock",
+    "Lead them to a river in Moab"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Promise"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said they would see neither wind nor rain, yet the valley would be filled with water for them and their animals."
+}

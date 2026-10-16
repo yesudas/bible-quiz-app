@@ -1,0 +1,36 @@
+{
+  "id": "14-003-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 3,
+  "verse_reference": "2 Chronicles 3:2",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "In which year of his reign did Solomon begin building the temple?",
+  "options": [
+    "First year",
+    "Second year",
+    "Tenth year",
+    "Fourth year"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon began building on the second day of the second month in the fourth year of his reign."
+}

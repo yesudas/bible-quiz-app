@@ -1,0 +1,31 @@
+{
+  "id": "09-008-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 8,
+  "verse_reference": "1 Samuel 8:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Samuel warned, \"You yourselves will become his ___.\"",
+  "options": [
+    "soldiers",
+    "servants",
+    "slaves",
+    "subjects"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel said the king would take a tenth of their flocks, \"and you yourselves will become his slaves.\""
+}

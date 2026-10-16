@@ -1,0 +1,42 @@
+{
+  "id": "07-001-018",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 1,
+  "verse_reference": "Judges 1:23-26",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "The man from Bethel went to the land of the Hittites and built a city. What did he name it?",
+  "options": [
+    "Luz",
+    "Bethel",
+    "Zoar",
+    "Hormah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promised Land"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    },
+    {
+      "name": "Land of the Hittites",
+      "type": "region"
+    },
+    {
+      "name": "Luz",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He named the new city Luz, which was the old name of Bethel, the city he came from."
+}

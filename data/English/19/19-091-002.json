@@ -1,0 +1,30 @@
+{
+  "id": "19-091-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 91,
+  "verse_reference": "Psalm 91:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 91:2, what does the psalmist call the LORD?",
+  "options": [
+    "My king and my judge",
+    "My refuge and my fortress",
+    "My shepherd and my guide",
+    "My light and my song"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist says of the LORD, \"He is my refuge and my fortress, my God, in whom I trust.\""
+}

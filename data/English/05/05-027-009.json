@@ -1,0 +1,30 @@
+{
+  "id": "05-027-009",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 27,
+  "verse_reference": "Deuteronomy 27:19",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "A curse was pronounced on anyone who withheld justice from which people?",
+  "options": [
+    "Soldiers and officials",
+    "The foreigner, the fatherless, and the widow",
+    "Priests and Levites",
+    "Merchants and traders"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Justice",
+    "Mercy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A curse fell on anyone who withheld justice from the foreigner, the fatherless, or the widow, the most vulnerable people in the land."
+}

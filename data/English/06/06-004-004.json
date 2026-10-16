@@ -1,0 +1,31 @@
+{
+  "id": "06-004-004",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 4,
+  "verse_reference": "Joshua 4:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"In the future, when your children ask you, 'What do these ____ mean?'\"",
+  "options": [
+    "stones",
+    "words",
+    "signs",
+    "days"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Remembrance"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua said that one day children would ask, \"What do these stones mean?\" and their parents would tell them what God did."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "19-012-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 12,
+  "verse_reference": "Psalm 12:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 12:7, whom will the LORD keep safe?",
+  "options": [
+    "The kings",
+    "The priests",
+    "The needy",
+    "The strong"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Protection",
+    "Promise"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 12:7 says, \"You, LORD, will keep the needy safe and will protect us forever from the wicked.\""
+}

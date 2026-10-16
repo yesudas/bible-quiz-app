@@ -1,0 +1,33 @@
+{
+  "id": "23-029-008",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 29,
+  "verse_reference": "Isaiah 29:22",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Isaiah 29:22 speaks of the LORD who redeemed which person?",
+  "options": [
+    "Moses",
+    "Noah",
+    "Abraham",
+    "Joseph"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Promise"
+  ],
+  "characters": [
+    "Abraham",
+    "Jacob"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 29:22 says this is what the LORD, who redeemed Abraham, says to the descendants of Jacob: 'No longer will Jacob be ashamed.'"
+}

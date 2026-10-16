@@ -1,0 +1,34 @@
+{
+  "id": "09-028-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 28,
+  "verse_reference": "1 Samuel 28:17",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Samuel, to whom had the LORD given Saul's kingdom?",
+  "options": [
+    "David",
+    "Jonathan",
+    "Abner",
+    "Achish"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Samuel",
+    "Saul",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel said the LORD had torn the kingdom out of Saul's hands and given it to one of his neighbors—to David."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20-009-004",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 9,
+  "verse_reference": "Proverbs 9:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 9:9, what happens when you instruct a wise person?",
+  "options": [
+    "They become proud",
+    "They will be wiser still",
+    "They will forget it",
+    "They will become angry"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 9:9 says, \"Instruct the wise and they will be wiser still.\""
+}

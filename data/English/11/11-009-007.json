@@ -1,0 +1,41 @@
+{
+  "id": "11-009-007",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 9,
+  "verse_reference": "1 Kings 9:12-13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Hiram feel about the towns Solomon gave him?",
+  "options": [
+    "He was very pleased",
+    "He gave them back as a gift",
+    "He was not pleased with them",
+    "He built a temple in them"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Hiram",
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Galilee",
+      "type": "region"
+    },
+    {
+      "name": "Kabul",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Hiram saw the towns he was not pleased and asked what kind of towns these were, calling them the Land of Kabul."
+}

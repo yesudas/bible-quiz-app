@@ -1,0 +1,36 @@
+{
+  "id": "09-007-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 7,
+  "verse_reference": "1 Samuel 7:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did the LORD defeat the Philistines at Mizpah?",
+  "options": [
+    "He sent hail",
+    "He opened the ground",
+    "He sent an angel",
+    "He thundered with loud thunder and threw them into panic"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mizpah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD thundered with loud thunder against the Philistines and threw them into such a panic that they were routed before Israel."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "23-056-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 56,
+  "verse_reference": "Isaiah 56:6-7",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Isaiah 56:6-7, whom will God bring to His holy mountain and accept their offerings?",
+  "options": [
+    "Only the priests",
+    "Foreigners who bind themselves to the LORD",
+    "Only the kings of Judah",
+    "Only the people of Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mission",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Holy mountain",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 56:6-7 says foreigners who bind themselves to the LORD and love His name will be brought to His holy mountain, and their offerings will be accepted on His altar."
+}

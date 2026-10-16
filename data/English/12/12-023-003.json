@@ -1,0 +1,39 @@
+{
+  "id": "12-023-003",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 23,
+  "verse_reference": "2 Kings 23:4",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Josiah burn the objects made for Baal and Asherah?",
+  "options": [
+    "In the fields of the Kidron Valley outside Jerusalem",
+    "In the temple courts",
+    "On Mount Carmel",
+    "In Samaria"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Idolatry"
+  ],
+  "characters": [
+    "Josiah"
+  ],
+  "places": [
+    {
+      "name": "Kidron Valley",
+      "type": "valley"
+    },
+    {
+      "name": "Bethel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He burned them outside Jerusalem in the fields of the Kidron Valley and took the ashes to Bethel."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "09-009-012",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 9,
+  "verse_reference": "1 Samuel 9:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Saul describe his tribe and clan when Samuel spoke highly of him?",
+  "options": [
+    "The richest in Israel",
+    "The bravest in Israel",
+    "The smallest tribe and the least clan",
+    "The tribe of the priests"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Benjamin",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul said, \"Am I not a Benjamite, from the smallest tribe of Israel, and is not my clan the least of all the clans of the tribe of Benjamin?\""
+}

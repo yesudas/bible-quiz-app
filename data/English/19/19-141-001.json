@@ -1,0 +1,33 @@
+{
+  "id": "19-141-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 141,
+  "verse_reference": "Psalm 141:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 141, David asked that his prayer be set before God like what?",
+  "options": [
+    "A burnt offering",
+    "Incense",
+    "A song",
+    "A lamp"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"May my prayer be set before you like incense; may the lifting up of my hands be like the evening sacrifice.\""
+}

@@ -1,0 +1,30 @@
+{
+  "id": "19-104-010",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 104,
+  "verse_reference": "Psalm 104:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did God make the moon, according to Psalm 104?",
+  "options": [
+    "To light the sea",
+    "To mark the seasons",
+    "To guide the ships",
+    "To rule the stars"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God made the moon to mark the seasons, and the sun knows when to go down."
+}

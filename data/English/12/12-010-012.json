@@ -1,0 +1,42 @@
+{
+  "id": "12-010-012",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 10,
+  "verse_reference": "2 Kings 10:29",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Which sin did Jehu NOT turn away from?",
+  "options": [
+    "The worship of Baal",
+    "Killing the prophets",
+    "The worship of the golden calves at Bethel and Dan",
+    "Marrying foreign wives"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Idolatry",
+    "Sin"
+  ],
+  "characters": [
+    "Jehu",
+    "Jeroboam"
+  ],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    },
+    {
+      "name": "Dan",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehu did not turn away from the sins of Jeroboam, the worship of the golden calves at Bethel and Dan."
+}

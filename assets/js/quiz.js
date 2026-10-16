@@ -147,6 +147,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (state.type === 'character' && state.character) params.set('character', state.character);
         if (state.type === 'place' && state.place) params.set('place', state.place);
         state.difficulty.forEach((d) => params.append('difficulty[]', d));
+        params.set('v', window.QUIZ_VERSION || '');
         return `api/index.php?${params.toString()}`;
     }
 

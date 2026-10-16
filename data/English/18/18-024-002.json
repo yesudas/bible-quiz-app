@@ -1,0 +1,32 @@
+{
+  "id": "18-024-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 24,
+  "verse_reference": "Job 24:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Job 24:2, what do some wicked people move?",
+  "options": [
+    "Mountains",
+    "Boundary stones",
+    "Tents",
+    "Altars"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Law"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said, 'There are those who move boundary stones; they pasture flocks they have stolen.'"
+}

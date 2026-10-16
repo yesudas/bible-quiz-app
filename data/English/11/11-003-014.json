@@ -1,0 +1,32 @@
+{
+  "id": "11-003-014",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 3,
+  "verse_reference": "1 Kings 3:24-25",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did King Solomon ask for to solve the problem between the two women?",
+  "options": [
+    "A scroll",
+    "A sword",
+    "A scale",
+    "A crown"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon said, \"Bring me a sword,\" and ordered that the living child be cut in two, with half given to each woman."
+}

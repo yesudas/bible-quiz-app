@@ -1,0 +1,42 @@
+{
+  "id": "06-024-014",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 24,
+  "verse_reference": "Joshua 24:32",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whose bones, brought up from Egypt, were buried at Shechem?",
+  "options": [
+    "Jacob's",
+    "Joseph's",
+    "Moses'",
+    "Aaron's"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Family"
+  ],
+  "characters": [
+    "Joseph",
+    "Jacob"
+  ],
+  "places": [
+    {
+      "name": "Shechem",
+      "type": "city"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The bones of Joseph, which Israel brought up from Egypt, were buried at Shechem in land Jacob had bought."
+}

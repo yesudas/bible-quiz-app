@@ -1,0 +1,38 @@
+{
+  "id": "12-014-008",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 14,
+  "verse_reference": "2 Kings 14:11-12",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Israel and Judah fight, and Judah was routed?",
+  "options": [
+    "Lachish",
+    "Megiddo",
+    "Beth Shemesh",
+    "Ramoth Gilead"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Pride",
+    "Judgment"
+  ],
+  "characters": [
+    "Amaziah",
+    "Jehoash"
+  ],
+  "places": [
+    {
+      "name": "Beth Shemesh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoash and Amaziah faced each other at Beth Shemesh, and Judah was routed by Israel."
+}

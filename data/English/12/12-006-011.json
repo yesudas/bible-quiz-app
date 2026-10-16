@@ -1,0 +1,38 @@
+{
+  "id": "12-006-011",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 6,
+  "verse_reference": "2 Kings 6:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the LORD do to the Aramean soldiers when Elisha prayed?",
+  "options": [
+    "He sent fire on them",
+    "He made them fall asleep",
+    "He scattered them with a storm",
+    "He struck them with blindness"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Prayer"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Dothan",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha prayed, and the LORD struck the Aramean army with blindness."
+}

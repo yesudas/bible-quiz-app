@@ -1,0 +1,42 @@
+{
+  "id": "23-043-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 43,
+  "verse_reference": "Isaiah 43:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God say He gave as His people's ransom in Isaiah 43:3?",
+  "options": [
+    "Egypt",
+    "Babylon",
+    "Assyria",
+    "Moab"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Love"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Cush",
+      "type": "country"
+    },
+    {
+      "name": "Seba",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 43:3 says, 'I give Egypt for your ransom, Cush and Seba in your stead.'"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "05-006-006",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 6,
+  "verse_reference": "Deuteronomy 6:10-12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What danger did Moses warn about once Israel enjoyed the good things of the land?",
+  "options": [
+    "That they might run out of food",
+    "That the land would become barren",
+    "That they would lose their language",
+    "That they might forget the Lord who brought them out of Egypt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses warned that when Israel enjoyed houses, wells, and vineyards they did not build, they must be careful not to forget the Lord who rescued them from slavery in Egypt."
+}

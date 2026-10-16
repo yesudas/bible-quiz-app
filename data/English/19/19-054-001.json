@@ -1,0 +1,32 @@
+{
+  "id": "19-054-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 54,
+  "verse_reference": "Psalm 54 (title)",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to the title of Psalm 54, which people went to Saul and told him David was hiding among them?",
+  "options": [
+    "The Philistines",
+    "The Ziphites",
+    "The Amalekites",
+    "The Moabites"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "David",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title says the Ziphites went to Saul and said, \"Is not David hiding among us?\""
+}

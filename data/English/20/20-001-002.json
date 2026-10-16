@@ -1,0 +1,29 @@
+{
+  "id": "20-001-002",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 1,
+  "verse_reference": "Proverbs 1:2-4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which is one purpose of the proverbs given in Proverbs 1?",
+  "options": [
+    "To record the history of Israel's kings",
+    "To give prudence to those who are simple",
+    "To list the laws for temple sacrifices",
+    "To describe the creation of the world"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 1:4 says the proverbs are for giving prudence to those who are simple, and knowledge and discretion to the young."
+}

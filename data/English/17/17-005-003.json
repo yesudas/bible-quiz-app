@@ -1,0 +1,38 @@
+{
+  "id": "17-005-003",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 5,
+  "verse_reference": "Esther 5:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Esther do after the king held out the gold scepter to her?",
+  "options": [
+    "She approached and touched the tip of the scepter",
+    "She bowed and left the court",
+    "She knelt and kissed the king's feet",
+    "She handed him a letter"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Courage"
+  ],
+  "characters": [
+    "Esther",
+    "Xerxes"
+  ],
+  "places": [
+    {
+      "name": "King's inner court",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Esther approached and touched the tip of the scepter."
+}

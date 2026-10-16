@@ -1,0 +1,38 @@
+{
+  "id": "15-001-009",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 1,
+  "verse_reference": "Ezra 1:8",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "The temple articles were counted out to which prince of Judah?",
+  "options": [
+    "Ezra",
+    "Nehemiah",
+    "Jeshua",
+    "Sheshbazzar"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Sheshbazzar",
+    "Mithredath"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mithredath counted the articles out to Sheshbazzar the prince of Judah."
+}

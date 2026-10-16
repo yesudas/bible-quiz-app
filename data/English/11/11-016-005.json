@@ -1,0 +1,37 @@
+{
+  "id": "11-016-005",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 16,
+  "verse_reference": "1 Kings 16:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How long did Zimri reign as king in Tirzah?",
+  "options": [
+    "Seven days",
+    "Seven months",
+    "Seven years",
+    "Two years"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Zimri"
+  ],
+  "places": [
+    {
+      "name": "Tirzah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zimri reigned in Tirzah only seven days."
+}

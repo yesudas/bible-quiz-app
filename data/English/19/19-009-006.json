@@ -1,0 +1,38 @@
+{
+  "id": "19-009-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 9,
+  "verse_reference": "Psalm 9:11",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In Psalm 9:11, where is the LORD described as being enthroned?",
+  "options": [
+    "In Bethel",
+    "In Zion",
+    "On Mount Sinai",
+    "In Hebron"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Kingship"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 9:11 says, \"Sing the praises of the LORD, enthroned in Zion; proclaim among the nations what he has done.\""
+}

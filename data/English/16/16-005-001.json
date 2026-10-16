@@ -1,0 +1,35 @@
+{
+  "id": "16-005-001",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 5,
+  "verse_reference": "Nehemiah 5:1-3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did some people say they had to mortgage their fields, vineyards and homes?",
+  "options": [
+    "To pay for the wall",
+    "To get grain during a famine",
+    "To buy weapons",
+    "To travel back to Babylon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some people said they were mortgaging their fields, vineyards and homes to get grain during the famine."
+}

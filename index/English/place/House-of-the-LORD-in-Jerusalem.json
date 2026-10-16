@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "House-of-the-LORD-in-Jerusalem",
+    "label": "House of the LORD in Jerusalem",
+    "count": 2,
+    "paths": [
+        "English/15/15-007-008.json",
+        "English/15/15-007-010.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

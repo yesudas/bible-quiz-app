@@ -1,0 +1,41 @@
+{
+  "id": "07-011-004",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 11,
+  "verse_reference": "Judges 11:5-6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "When the Ammonites attacked Israel, who went to bring Jephthah back to be their commander?",
+  "options": [
+    "The elders of Gilead",
+    "His brothers",
+    "The king of Ammon",
+    "The priests of Shiloh"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jephthah"
+  ],
+  "places": [
+    {
+      "name": "Tob",
+      "type": "region"
+    },
+    {
+      "name": "Gilead",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elders of Gilead went to get Jephthah from the land of Tob and asked him to be their commander."
+}

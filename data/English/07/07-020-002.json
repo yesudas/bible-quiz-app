@@ -1,0 +1,42 @@
+{
+  "id": "07-020-002",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 20,
+  "verse_reference": "Judges 20:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"All Israel from ___ to Beersheba and from the land of Gilead came together as one.\"",
+  "options": [
+    "Judah",
+    "Dan",
+    "Jericho",
+    "Shiloh"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Unity"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Dan",
+      "type": "city"
+    },
+    {
+      "name": "Beersheba",
+      "type": "town"
+    },
+    {
+      "name": "Gilead",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "People came from Dan in the far north to Beersheba in the south, and from Gilead, showing that the whole nation gathered."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "23-052-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 52,
+  "verse_reference": "Isaiah 52:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: 'How beautiful on the mountains are the ______ of those who bring good news.'",
+  "options": [
+    "voices",
+    "hands",
+    "feet",
+    "faces"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Evangelism",
+    "Mission",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 52:7 says, 'How beautiful on the mountains are the feet of those who bring good news, who proclaim peace.'"
+}

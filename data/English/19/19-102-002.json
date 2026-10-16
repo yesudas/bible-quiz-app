@@ -1,0 +1,30 @@
+{
+  "id": "19-102-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 102,
+  "verse_reference": "Psalm 102:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "To which bird did the psalmist compare himself in his loneliness?",
+  "options": [
+    "An eagle",
+    "A dove",
+    "A desert owl",
+    "A sparrow in a nest"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist said he was like a desert owl, like an owl among the ruins, and like a bird alone on a roof."
+}

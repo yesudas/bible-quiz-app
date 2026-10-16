@@ -1,0 +1,32 @@
+{
+  "id": "18-029-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 29,
+  "verse_reference": "Job 29:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Job's words: \"When his ____ shone on my head and by his light I walked through darkness.\"",
+  "options": [
+    "sun",
+    "star",
+    "lamp",
+    "face"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job remembered the days when God's lamp shone on his head and by His light he walked through darkness."
+}

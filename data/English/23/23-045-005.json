@@ -1,0 +1,32 @@
+{
+  "id": "23-045-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 45,
+  "verse_reference": "Isaiah 45:22",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: 'Turn to me and be ______, all you ends of the earth; for I am God, and there is no other.'",
+  "options": [
+    "saved",
+    "blessed",
+    "healed",
+    "free"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Mission",
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 45:22 says, 'Turn to me and be saved, all you ends of the earth; for I am God, and there is no other.'"
+}

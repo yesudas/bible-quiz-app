@@ -1,0 +1,34 @@
+{
+  "id": "23-014-008",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 14,
+  "verse_reference": "Isaiah 14:24-25",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whom did the LORD swear He would crush in His land and trample on His mountains?",
+  "options": [
+    "The Philistine",
+    "The Egyptian",
+    "The Babylonian",
+    "The Assyrian"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 14:24-25 says the LORD swore, 'I will crush the Assyrian in my land; on my mountains I will trample him down.'"
+}

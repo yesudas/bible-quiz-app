@@ -1,0 +1,33 @@
+{
+  "id": "06-001-010",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 1,
+  "verse_reference": "Joshua 1:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How often did God tell Joshua to meditate on the Book of the Law?",
+  "options": [
+    "Once a week",
+    "On the Sabbath only",
+    "Day and night",
+    "At every new moon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Wisdom"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Joshua to keep the Book of the Law on his lips and meditate on it day and night."
+}

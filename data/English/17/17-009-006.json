@@ -1,0 +1,38 @@
+{
+  "id": "17-009-006",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 9,
+  "verse_reference": "Esther 9:13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Esther ask the king for after the first day of fighting?",
+  "options": [
+    "Mercy for Haman's family",
+    "A new palace in Susa",
+    "Another day in Susa for the Jews and Haman's ten sons impaled on poles",
+    "Freedom for all the Jews to return to Jerusalem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Justice"
+  ],
+  "characters": [
+    "Esther",
+    "Xerxes",
+    "Haman"
+  ],
+  "places": [
+    {
+      "name": "Susa",
+      "type": "citadel"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Esther asked that the Jews in Susa be allowed to carry out the edict the next day too, and that Haman's ten sons be impaled on poles."
+}

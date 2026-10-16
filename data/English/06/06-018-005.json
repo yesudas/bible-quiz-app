@@ -1,0 +1,38 @@
+{
+  "id": "06-018-005",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 18,
+  "verse_reference": "Joshua 18:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Joshua decide which tribe received each part of the land?",
+  "options": [
+    "He cast lots in the presence of the LORD",
+    "He asked the oldest men",
+    "He gave the best land to the strongest tribe",
+    "He let each tribe choose"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Promise"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua cast lots for the tribes in the presence of the LORD at Shiloh."
+}

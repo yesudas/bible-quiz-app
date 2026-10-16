@@ -1,0 +1,45 @@
+{
+  "id": "14-026-005",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 26,
+  "verse_reference": "2 Chronicles 26:6-7",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which people did God help Uzziah fight against, breaking down the walls of Gath, Jabneh and Ashdod?",
+  "options": [
+    "The Moabites",
+    "The Philistines",
+    "The Egyptians",
+    "The Arameans"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Faith"
+  ],
+  "characters": [
+    "Uzziah"
+  ],
+  "places": [
+    {
+      "name": "Gath",
+      "type": "city"
+    },
+    {
+      "name": "Jabneh",
+      "type": "city"
+    },
+    {
+      "name": "Ashdod",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Uzziah went to war against the Philistines and broke down the walls of Gath, Jabneh and Ashdod, and God helped him."
+}

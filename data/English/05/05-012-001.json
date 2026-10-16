@@ -1,0 +1,31 @@
+{
+  "id": "05-012-001",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 12,
+  "verse_reference": "Deuteronomy 12:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God command Israel to do to the places and objects the nations used to worship their gods?",
+  "options": [
+    "Leave them for later use",
+    "Turn them into storehouses",
+    "Destroy them completely, tearing down altars and burning the idols",
+    "Give them to the Levites"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Sin",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God commanded Israel to completely destroy the pagan worship sites, tearing down their altars, smashing sacred stones, burning Asherah poles, and wiping out the idols and their names."
+}

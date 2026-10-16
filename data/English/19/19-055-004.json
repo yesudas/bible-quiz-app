@@ -1,0 +1,37 @@
+{
+  "id": "19-055-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 55,
+  "verse_reference": "Psalm 55:12-14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In Psalm 55:12-14, why was the insult harder for David to bear?",
+  "options": [
+    "It came from a foreign king",
+    "It came from his own son",
+    "It was said in front of the whole army",
+    "It came from his close friend and companion"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Love"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "House of God",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said he could endure an enemy's insults, but this came from his close friend, with whom he had worshiped at the house of God."
+}

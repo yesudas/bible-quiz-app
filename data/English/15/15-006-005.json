@@ -1,0 +1,31 @@
+{
+  "id": "15-006-005",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 6,
+  "verse_reference": "Ezra 6:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Darius say would happen to anyone who changed his edict?",
+  "options": [
+    "They would be sent to Babylon",
+    "They would lose all their money",
+    "A beam would be pulled from their house and they would be impaled on it",
+    "They would be thrown into a lions' den"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Law"
+  ],
+  "characters": [
+    "Darius"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Darius decreed that if anyone changed the edict, a beam was to be pulled from their house and they were to be impaled on it, and their house made a pile of rubble."
+}

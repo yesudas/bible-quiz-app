@@ -1,0 +1,33 @@
+{
+  "id": "15-008-010",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 8,
+  "verse_reference": "Ezra 8:35",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the returning exiles offer twelve bulls as burnt offerings?",
+  "options": [
+    "One for each priest who carried the gold",
+    "They were for all Israel",
+    "One for each month of the journey",
+    "They were a gift for the king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House of God in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The exiles offered burnt offerings to the God of Israel, including twelve bulls for all Israel."
+}

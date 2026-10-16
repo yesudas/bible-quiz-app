@@ -1,0 +1,38 @@
+{
+  "id": "05-009-005",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 9,
+  "verse_reference": "Deuteronomy 9:9-11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How long was Moses on the mountain receiving the stone tablets, without eating bread or drinking water?",
+  "options": [
+    "Seven days and nights",
+    "Ten days and nights",
+    "Forty days and nights",
+    "Fifty days and nights"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Law",
+    "Prayer"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Horeb",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses stayed on the mountain forty days and forty nights, eating no bread and drinking no water, before receiving the two stone tablets."
+}

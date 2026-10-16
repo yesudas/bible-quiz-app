@@ -1,0 +1,35 @@
+{
+  "id": "11-018-011",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 18,
+  "verse_reference": "1 Kings 18:26,29",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened when the prophets of Baal shouted to Baal from morning until evening?",
+  "options": [
+    "Fire fell on their altar",
+    "Rain began to fall",
+    "No one answered and no one paid attention",
+    "The altar broke in two"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mount Carmel",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The prophets of Baal shouted and danced, but there was no response, no one answered, no one paid attention."
+}

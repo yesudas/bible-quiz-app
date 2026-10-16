@@ -1,0 +1,32 @@
+{
+  "id": "18-005-008",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 5,
+  "verse_reference": "Job 5:19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Eliphaz, from how many calamities would God rescue a person, so that in seven no harm would touch him?",
+  "options": [
+    "Three",
+    "Five",
+    "Ten",
+    "Six"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Faith"
+  ],
+  "characters": [
+    "Eliphaz"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eliphaz said, 'From six calamities he will rescue you; in seven no harm will touch you.'"
+}

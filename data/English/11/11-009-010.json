@@ -1,0 +1,36 @@
+{
+  "id": "11-009-010",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 9,
+  "verse_reference": "1 Kings 9:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does the Bible say Solomon did NOT do to the Israelites?",
+  "options": [
+    "Make them pay taxes",
+    "Make them slaves",
+    "Let them serve in the army",
+    "Let them be officials"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon did not make slaves of any of the Israelites; they were his fighting men, officials and commanders."
+}

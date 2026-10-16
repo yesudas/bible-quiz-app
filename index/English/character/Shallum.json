@@ -1,0 +1,14 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Shallum",
+    "label": "Shallum",
+    "count": 4,
+    "paths": [
+        "English/12/12-015-006.json",
+        "English/12/12-015-007.json",
+        "English/13/13-009-009.json",
+        "English/16/16-003-005.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

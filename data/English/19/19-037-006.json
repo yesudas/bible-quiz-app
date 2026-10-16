@@ -1,0 +1,31 @@
+{
+  "id": "19-037-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 37,
+  "verse_reference": "Psalm 37:11",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "According to Psalm 37:11, who will inherit the land?",
+  "options": [
+    "The strong",
+    "The meek",
+    "The rich",
+    "The wise"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Humility",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 37:11 says, \"But the meek will inherit the land and enjoy peace and prosperity.\""
+}

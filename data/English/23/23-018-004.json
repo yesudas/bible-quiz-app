@@ -1,0 +1,38 @@
+{
+  "id": "23-018-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 18,
+  "verse_reference": "Isaiah 18:7",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "To which place would gifts be brought to the LORD Almighty from the people of Cush?",
+  "options": [
+    "Mount Zion",
+    "Mount Sinai",
+    "Mount Carmel",
+    "Mount Hermon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Cush",
+      "type": "country"
+    },
+    {
+      "name": "Mount Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 18:7 says gifts will be brought to Mount Zion, the place of the Name of the LORD Almighty."
+}

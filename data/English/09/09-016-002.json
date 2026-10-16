@@ -1,0 +1,32 @@
+{
+  "id": "09-016-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 16,
+  "verse_reference": "1 Samuel 16:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why was Samuel afraid to go and anoint a new king?",
+  "options": [
+    "He was too old to travel",
+    "He did not know the way",
+    "He was afraid Saul would hear about it and kill him",
+    "He did not know Jesse"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Samuel",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel said, \"How can I go? If Saul hears about it, he will kill me.\" The LORD told him to take a heifer and say he had come to sacrifice."
+}

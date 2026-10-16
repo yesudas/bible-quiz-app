@@ -1,0 +1,32 @@
+{
+  "id": "19-063-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 63,
+  "verse_reference": "Psalm 63:11",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "At the end of Psalm 63, who does David say will rejoice in God?",
+  "options": [
+    "The priests",
+    "The king",
+    "The prophets",
+    "The elders"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm ends by saying that the king will rejoice in God."
+}

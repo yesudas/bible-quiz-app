@@ -1,0 +1,38 @@
+{
+  "id": "06-024-010",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 24,
+  "verse_reference": "Joshua 24:26-27",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Joshua set up under the oak near the holy place as a witness?",
+  "options": [
+    "An altar of bronze",
+    "A large stone",
+    "A tall pillar of wood",
+    "The ark of the covenant"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Remembrance"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Shechem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua took a large stone and set it up under the oak, saying the stone would be a witness against them."
+}

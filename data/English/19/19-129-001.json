@@ -1,0 +1,36 @@
+{
+  "id": "19-129-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 129,
+  "verse_reference": "Psalm 129:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Israel had been greatly oppressed since its youth. What does Psalm 129 say about its enemies?",
+  "options": [
+    "They destroyed Israel",
+    "They made peace with Israel",
+    "They have not gained the victory over Israel",
+    "They became Israel's friends"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel says, \"They have greatly oppressed me from my youth, but they have not gained the victory over me.\""
+}

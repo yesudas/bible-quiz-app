@@ -1,0 +1,33 @@
+{
+  "id": "19-057-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 57,
+  "verse_reference": "Psalm 57:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 57:4, David says he is in the midst of which animals?",
+  "options": [
+    "Lions",
+    "Wolves",
+    "Bears",
+    "Snakes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution",
+    "Suffering"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David says, \"I am in the midst of lions,\" describing his enemies as ravenous beasts."
+}

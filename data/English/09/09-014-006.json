@@ -1,0 +1,32 @@
+{
+  "id": "09-014-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 14,
+  "verse_reference": "1 Samuel 14:13-14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Jonathan climb up to the Philistine outpost?",
+  "options": [
+    "Using a rope",
+    "Riding a donkey",
+    "By a hidden staircase",
+    "Using his hands and feet"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jonathan"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonathan climbed up using his hands and feet, with his armor-bearer right behind him. In that first attack they killed some twenty men."
+}

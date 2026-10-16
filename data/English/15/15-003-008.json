@@ -1,0 +1,37 @@
+{
+  "id": "15-003-008",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 3,
+  "verse_reference": "Ezra 3:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the people do when the builders laid the foundation of the temple?",
+  "options": [
+    "They left Jerusalem",
+    "They held a great feast for the king",
+    "They praised the LORD with trumpets and cymbals",
+    "They stopped the work to rest"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priests with trumpets and the Levites, the sons of Asaph, with cymbals took their places to praise the LORD."
+}

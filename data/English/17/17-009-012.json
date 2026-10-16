@@ -1,0 +1,32 @@
+{
+  "id": "17-009-012",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 9,
+  "verse_reference": "Esther 9:24-26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why were these days called Purim?",
+  "options": [
+    "Because Esther named them after her home",
+    "Because the Jews were purified",
+    "Because the king chose the name",
+    "Because of the word pur, the lot Haman had cast"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Feasts",
+    "Providence"
+  ],
+  "characters": [
+    "Haman"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Haman had cast the pur, that is, the lot, for the Jews' ruin, so the days were called Purim, from the word pur."
+}

@@ -1,0 +1,18 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Doeg",
+    "label": "Doeg",
+    "count": 8,
+    "paths": [
+        "English/09/09-021-004.json",
+        "English/09/09-022-007.json",
+        "English/09/09-022-010.json",
+        "English/09/09-022-011.json",
+        "English/09/09-022-013.json",
+        "English/19/19-052-001.json",
+        "English/19/19-052-002.json",
+        "English/19/19-052-003.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

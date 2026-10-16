@@ -1,0 +1,36 @@
+{
+  "id": "13-006-008",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 6,
+  "verse_reference": "1 Chronicles 6:32",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "Until when did these musicians minister before the tabernacle?",
+  "options": [
+    "Until the exile to Babylon",
+    "Until Solomon built the temple",
+    "Until David died",
+    "Until the ark was captured"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They ministered with music before the tabernacle until Solomon built the temple of the LORD in Jerusalem."
+}

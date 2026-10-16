@@ -1,0 +1,32 @@
+{
+  "id": "19-062-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 62,
+  "verse_reference": "Psalm 62 (title)",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to the title of Psalm 62, for whom was this psalm written?",
+  "options": [
+    "Asaph",
+    "Heman",
+    "Jeduthun",
+    "Ethan"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David",
+    "Jeduthun"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title says Psalm 62 is a psalm of David, for Jeduthun."
+}

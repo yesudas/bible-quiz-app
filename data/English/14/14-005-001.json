@@ -1,0 +1,38 @@
+{
+  "id": "14-005-001",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 5,
+  "verse_reference": "2 Chronicles 5:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Solomon bring into the temple treasuries after the work was finished?",
+  "options": [
+    "Weapons captured in war",
+    "The things his father David had dedicated",
+    "Gifts from the queen of Sheba",
+    "Tribute from Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Family"
+  ],
+  "characters": [
+    "Solomon",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the work was finished, Solomon brought in the silver, gold and furnishings his father David had dedicated and placed them in the treasuries."
+}

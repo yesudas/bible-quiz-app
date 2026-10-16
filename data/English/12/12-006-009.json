@@ -1,0 +1,39 @@
+{
+  "id": "12-006-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 6,
+  "verse_reference": "2 Kings 6:17",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "After Elisha prayed, what did his servant see on the hills?",
+  "options": [
+    "An army of angels with swords",
+    "Horses and chariots of fire",
+    "A pillar of cloud",
+    "A great flood"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels",
+    "Prayer",
+    "Miracles"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Dothan",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD opened the servant's eyes, and he saw the hills full of horses and chariots of fire all around Elisha."
+}

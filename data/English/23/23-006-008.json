@@ -1,0 +1,38 @@
+{
+  "id": "23-006-008",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 6,
+  "verse_reference": "Isaiah 6:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "After the coal touched Isaiah's lips, what did the seraph say had happened?",
+  "options": [
+    "His enemies were defeated",
+    "His guilt was taken away and his sin atoned for",
+    "He would become king",
+    "He would live forever"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Forgiveness",
+    "Salvation"
+  ],
+  "characters": [
+    "Isaiah"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 6:7 says, 'See, this has touched your lips; your guilt is taken away and your sin atoned for.'"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "10-003-012",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 3,
+  "verse_reference": "2 Samuel 3:27,30",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Joab kill Abner?",
+  "options": [
+    "Abner had insulted David",
+    "Abner had killed Joab's brother Asahel",
+    "Abner had stolen from Joab",
+    "David ordered him to"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Family"
+  ],
+  "characters": [
+    "Joab",
+    "Abner",
+    "Asahel"
+  ],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joab and his brother Abishai murdered Abner because he had killed their brother Asahel in the battle at Gibeon."
+}

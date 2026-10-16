@@ -1,0 +1,38 @@
+{
+  "id": "10-003-009",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 3,
+  "verse_reference": "2 Samuel 3:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did David prepare when Abner came to him at Hebron with twenty men?",
+  "options": [
+    "A feast",
+    "A trap",
+    "A sacrifice",
+    "A battle line"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "David",
+    "Abner"
+  ],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Abner and twenty men came to David at Hebron, David prepared a feast for them."
+}

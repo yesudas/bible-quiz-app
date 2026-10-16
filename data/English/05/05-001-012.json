@@ -1,0 +1,31 @@
+{
+  "id": "05-001-012",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 1,
+  "verse_reference": "Deuteronomy 1:35",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God declare about the people of that rebellious generation?",
+  "options": [
+    "They would wander for only one more year",
+    "They would enter the land after defeating the Amorites",
+    "Not one of them would see the good land He had promised",
+    "They would return to Egypt as slaves"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Because they refused to trust God, He declared that none of that evil generation would see the good land He had promised their ancestors."
+}

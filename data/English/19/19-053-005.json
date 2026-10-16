@@ -1,0 +1,31 @@
+{
+  "id": "19-053-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 53,
+  "verse_reference": "Psalm 53:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 53:5, what did God do to the bones of those who attacked His people?",
+  "options": [
+    "He buried them",
+    "He burned them",
+    "He scattered them",
+    "He gathered them"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God scattered the bones of those who attacked His people and put them to shame."
+}

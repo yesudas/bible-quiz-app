@@ -1,0 +1,36 @@
+{
+  "id": "19-135-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 135,
+  "verse_reference": "Psalm 135:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God do with the land of the kings He struck down?",
+  "options": [
+    "Gave it as an inheritance to His people Israel",
+    "Left it empty",
+    "Gave it back to Egypt",
+    "Gave it to the Levites only"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Canaan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He gave their land as an inheritance, an inheritance to His people Israel."
+}

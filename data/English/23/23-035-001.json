@@ -1,0 +1,31 @@
+{
+  "id": "23-035-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 35,
+  "verse_reference": "Isaiah 35:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Like what flower will the desert burst into bloom in Isaiah 35:1?",
+  "options": [
+    "The rose",
+    "The lily",
+    "The crocus",
+    "The tulip"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 35:1 says, 'The wilderness will rejoice and blossom. Like the crocus, it will burst into bloom.'"
+}

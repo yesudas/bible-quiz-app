@@ -1,0 +1,36 @@
+{
+  "id": "05-005-006",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 5,
+  "verse_reference": "Deuteronomy 5:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In Deuteronomy, what reason is given for Israel to keep the Sabbath?",
+  "options": [
+    "Because God rested after creating the world",
+    "Because the priests commanded it",
+    "To mark the start of harvest",
+    "To remember they were slaves in Egypt and the Lord brought them out"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Rest",
+    "Salvation",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Here Moses grounds the Sabbath in remembering that Israel was enslaved in Egypt and the Lord brought them out with a mighty hand."
+}

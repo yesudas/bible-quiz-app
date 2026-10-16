@@ -1,0 +1,41 @@
+{
+  "id": "11-004-006",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 4,
+  "verse_reference": "1 Kings 4:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How does the Bible describe the people of Judah and Israel during Solomon's reign?",
+  "options": [
+    "As few in number and afraid",
+    "As hungry because of famine",
+    "As scattered among the nations",
+    "As numerous as the sand on the seashore, and happy"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people of Judah and Israel were as many as the sand on the seashore; they ate, they drank and they were happy."
+}

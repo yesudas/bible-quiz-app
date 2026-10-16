@@ -1,0 +1,42 @@
+{
+  "id": "23-015-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 15,
+  "verse_reference": "Isaiah 15:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How did the people of Moab show their grief in Isaiah 15?",
+  "options": [
+    "They built new altars",
+    "They held a great feast",
+    "They shaved their heads, cut off their beards and wore sackcloth",
+    "They wrote songs on the city walls"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    },
+    {
+      "name": "Nebo",
+      "type": "mountain"
+    },
+    {
+      "name": "Medeba",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 15:2-3 says every head was shaved and every beard cut off, and they wore sackcloth in the streets."
+}

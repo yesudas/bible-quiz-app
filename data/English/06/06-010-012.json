@@ -1,0 +1,35 @@
+{
+  "id": "06-010-012",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 10,
+  "verse_reference": "Joshua 10:16",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the five kings hide?",
+  "options": [
+    "In a tower in Jerusalem",
+    "In the Jordan River",
+    "In the temple of their gods",
+    "In a cave at Makkedah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Makkedah",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The five kings fled and hid in the cave at Makkedah."
+}

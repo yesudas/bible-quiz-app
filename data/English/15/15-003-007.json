@@ -1,0 +1,37 @@
+{
+  "id": "15-003-007",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 3,
+  "verse_reference": "Ezra 3:8",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who were appointed to supervise the building of the house of the LORD?",
+  "options": [
+    "Levites twenty years old and older",
+    "Priests fifty years old and older",
+    "Men of Tyre and Sidon",
+    "Officials sent by Cyrus"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Zerubbabel",
+    "Jeshua"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zerubbabel and Jeshua appointed Levites twenty years old and older to supervise the building of the house of the LORD."
+}

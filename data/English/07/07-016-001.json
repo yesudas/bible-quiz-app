@@ -1,0 +1,37 @@
+{
+  "id": "07-016-001",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 16,
+  "verse_reference": "Judges 16:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When the people of Gaza waited to kill Samson at the city gate, what did he do in the middle of the night?",
+  "options": [
+    "He climbed over the city wall",
+    "He hid inside a well",
+    "He fought all the guards at the gate",
+    "He tore loose the doors of the city gate with the two posts and carried them away"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [
+    {
+      "name": "Gaza",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samson got up in the middle of the night, tore loose the doors of the city gate with the two posts, bar and all, and carried them on his shoulders."
+}

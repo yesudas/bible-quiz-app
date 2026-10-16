@@ -1,0 +1,36 @@
+{
+  "id": "11-004-011",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 4,
+  "verse_reference": "1 Kings 4:30",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Solomon's wisdom was greater than the wisdom of which land?",
+  "options": [
+    "Egypt",
+    "Moab",
+    "Edom",
+    "Philistia"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon's wisdom was greater than the wisdom of all the people of the East and greater than all the wisdom of Egypt."
+}

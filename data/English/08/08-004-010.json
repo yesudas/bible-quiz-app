@@ -1,0 +1,34 @@
+{
+  "id": "08-004-010",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 4,
+  "verse_reference": "Ruth 4:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The women told Naomi that Ruth loved her and was better to her than ____ sons.",
+  "options": [
+    "two",
+    "seven",
+    "ten",
+    "twelve"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Family"
+  ],
+  "characters": [
+    "Naomi",
+    "Ruth"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The women said Ruth loved Naomi and was better to her than seven sons."
+}

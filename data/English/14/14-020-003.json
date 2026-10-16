@@ -1,0 +1,43 @@
+{
+  "id": "14-020-003",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 20,
+  "verse_reference": "2 Chronicles 20:2",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "The vast army had already reached Hazezon Tamar. What is another name for that place?",
+  "options": [
+    "Beersheba",
+    "Jericho",
+    "Tekoa",
+    "En Gedi"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoshaphat"
+  ],
+  "places": [
+    {
+      "name": "Hazezon Tamar",
+      "type": "town"
+    },
+    {
+      "name": "En Gedi",
+      "type": "town"
+    },
+    {
+      "name": "Dead Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Men told Jehoshaphat that a vast army from the other side of the Dead Sea was already in Hazezon Tamar, that is, En Gedi."
+}

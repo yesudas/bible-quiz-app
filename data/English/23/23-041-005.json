@@ -1,0 +1,31 @@
+{
+  "id": "23-041-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 41,
+  "verse_reference": "Isaiah 41:14",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God call Jacob in Isaiah 41:14, before promising to help him?",
+  "options": [
+    "Little lamb",
+    "Small sparrow",
+    "Little worm",
+    "Tiny seed"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Humility",
+    "Promise"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 41:14 says, 'Do not be afraid, you worm Jacob, little Israel, do not fear, for I myself will help you.'"
+}

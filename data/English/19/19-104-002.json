@@ -1,0 +1,30 @@
+{
+  "id": "19-104-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 104,
+  "verse_reference": "Psalm 104:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does Psalm 104 say the LORD makes His chariot?",
+  "options": [
+    "The clouds",
+    "The stars",
+    "The sea",
+    "The mountains"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD makes the clouds His chariot and rides on the wings of the wind."
+}

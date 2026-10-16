@@ -1,0 +1,35 @@
+{
+  "id": "09-006-007",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 6,
+  "verse_reference": "1 Samuel 6:13",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What were the people of Beth Shemesh doing when they saw the ark coming?",
+  "options": [
+    "Building a wall",
+    "Fighting a battle",
+    "Harvesting wheat in the valley",
+    "Celebrating a feast"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Beth Shemesh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people of Beth Shemesh were harvesting their wheat in the valley. When they saw the ark, they rejoiced."
+}

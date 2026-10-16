@@ -1,0 +1,38 @@
+{
+  "id": "06-006-003",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 6,
+  "verse_reference": "Joshua 6:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "For how many days were the Israelites to march around Jericho once each day?",
+  "options": [
+    "Three days",
+    "Seven days",
+    "Six days",
+    "Forty days"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience",
+    "Faith"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Israel to march around the city once a day for six days."
+}

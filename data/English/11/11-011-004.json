@@ -1,0 +1,37 @@
+{
+  "id": "11-011-004",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 11,
+  "verse_reference": "1 Kings 11:5",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which goddess of the Sidonians did Solomon follow?",
+  "options": [
+    "Asherah",
+    "Chemosh",
+    "Molek",
+    "Ashtoreth"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Sidon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon followed Ashtoreth the goddess of the Sidonians, and Molek the detestable god of the Ammonites."
+}

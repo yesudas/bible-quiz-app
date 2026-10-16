@@ -1,0 +1,19 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Sihon",
+    "label": "Sihon",
+    "count": 9,
+    "paths": [
+        "English/05/05-002-008.json",
+        "English/05/05-002-009.json",
+        "English/05/05-002-010.json",
+        "English/05/05-002-011.json",
+        "English/06/06-002-009.json",
+        "English/06/06-012-002.json",
+        "English/07/07-011-008.json",
+        "English/16/16-009-014.json",
+        "English/19/19-135-007.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "19-078-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 78,
+  "verse_reference": "Psalm 78:13",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Psalm 78:13, when God divided the sea, how did He make the water stand?",
+  "options": [
+    "Like a wall",
+    "Like a mountain",
+    "Like ice",
+    "Like a cloud"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Salvation"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "The sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God divided the sea, led them through, and made the water stand up like a wall."
+}

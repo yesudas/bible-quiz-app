@@ -1,0 +1,36 @@
+{
+  "id": "22-001-006",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 1,
+  "verse_reference": "Song of Songs 1:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "The man compares the woman to a mare among whose chariot horses?",
+  "options": [
+    "Pharaoh's",
+    "Solomon's",
+    "Nebuchadnezzar's",
+    "Sennacherib's"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "Pharaoh"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Song of Songs 1:9 he likens her to a mare among Pharaoh's chariot horses."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "09-016-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 16,
+  "verse_reference": "1 Samuel 16:6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which of Jesse's sons did Samuel first think must be the LORD's anointed?",
+  "options": [
+    "Abinadab",
+    "Shammah",
+    "David",
+    "Eliab"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Samuel",
+    "Eliab"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Samuel saw Eliab, he thought, \"Surely the LORD's anointed stands here before the LORD.\""
+}

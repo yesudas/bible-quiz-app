@@ -1,0 +1,33 @@
+{
+  "id": "05-004-001",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 4,
+  "verse_reference": "Deuteronomy 4:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Moses said: \"Do not add to what I command you and do not ___ from it.\"",
+  "options": [
+    "subtract",
+    "hide",
+    "turn away",
+    "forget"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Obedience",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses commanded Israel not to add to or subtract from God's commands, but to keep them exactly as given."
+}

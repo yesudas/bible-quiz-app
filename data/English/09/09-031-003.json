@@ -1,0 +1,36 @@
+{
+  "id": "09-031-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 31,
+  "verse_reference": "1 Samuel 31:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who critically wounded Saul in the battle?",
+  "options": [
+    "Philistine archers",
+    "David's men",
+    "An Amalekite",
+    "His armor-bearer"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Mount Gilboa",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The fighting grew fierce around Saul, and when the archers overtook him, they wounded him critically."
+}

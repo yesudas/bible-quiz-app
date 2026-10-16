@@ -1,0 +1,32 @@
+{
+  "id": "07-016-008",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 16,
+  "verse_reference": "Judges 16:7-17",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "In what order did Samson give Delilah these answers?",
+  "options": [
+    "New ropes → fresh bowstrings → shaving his head → weaving his hair on the loom",
+    "Fresh bowstrings → new ropes → weaving his hair on the loom → shaving his head",
+    "Weaving his hair on the loom → new ropes → fresh bowstrings → shaving his head",
+    "Shaving his head → weaving his hair on the loom → fresh bowstrings → new ropes"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Temptation"
+  ],
+  "characters": [
+    "Samson",
+    "Delilah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samson first mentioned fresh bowstrings, then new ropes, then weaving his hair into the loom. Finally he told her the truth about shaving his head."
+}

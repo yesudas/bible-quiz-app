@@ -1,0 +1,30 @@
+{
+  "id": "19-072-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 72,
+  "verse_reference": "Psalm 72:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"May the whole earth be filled with his ____.\"",
+  "options": [
+    "glory",
+    "love",
+    "peace",
+    "people"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm closes with praise, asking that the whole earth be filled with God's glory."
+}

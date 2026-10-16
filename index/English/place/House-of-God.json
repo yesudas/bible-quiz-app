@@ -1,0 +1,27 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "House-of-God",
+    "label": "House of God",
+    "count": 17,
+    "paths": [
+        "English/16/16-010-006.json",
+        "English/16/16-010-007.json",
+        "English/16/16-010-008.json",
+        "English/16/16-010-009.json",
+        "English/16/16-010-010.json",
+        "English/16/16-011-004.json",
+        "English/16/16-012-009.json",
+        "English/16/16-012-010.json",
+        "English/16/16-013-003.json",
+        "English/16/16-013-005.json",
+        "English/16/16-013-006.json",
+        "English/16/16-013-007.json",
+        "English/16/16-013-008.json",
+        "English/19/19-052-006.json",
+        "English/19/19-055-004.json",
+        "English/19/19-084-007.json",
+        "English/21/21-005-001.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

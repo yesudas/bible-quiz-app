@@ -1,0 +1,39 @@
+{
+  "id": "13-020-008",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 20,
+  "verse_reference": "1 Chronicles 20:7",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who killed the huge man at Gath who taunted Israel?",
+  "options": [
+    "Jonathan son of Saul",
+    "Abishai son of Zeruiah",
+    "Benaiah son of Jehoiada",
+    "Jonathan son of Shimea, David's brother"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "War",
+    "Courage"
+  ],
+  "characters": [
+    "Jonathan son of Shimea",
+    "Shimea",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Gath",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When he taunted Israel, Jonathan son of Shimea, David's brother, killed him."
+}

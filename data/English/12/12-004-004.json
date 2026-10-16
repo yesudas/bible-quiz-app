@@ -1,0 +1,33 @@
+{
+  "id": "12-004-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 4,
+  "verse_reference": "2 Kings 4:6",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When did the oil stop flowing?",
+  "options": [
+    "When there were no more jars left",
+    "After seven days",
+    "When her sons went to sleep",
+    "When the creditor arrived"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Faith"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When all the jars were full, her son said there was not a jar left, and then the oil stopped flowing."
+}

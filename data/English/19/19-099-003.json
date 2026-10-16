@@ -1,0 +1,35 @@
+{
+  "id": "19-099-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 99,
+  "verse_reference": "Psalm 99:6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 99:6, who was among those who called on God's name, along with Moses and Aaron?",
+  "options": [
+    "Elijah",
+    "Joshua",
+    "Samuel",
+    "Gideon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Leadership"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron",
+    "Samuel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses and Aaron were among His priests, and Samuel was among those who called on His name."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "12-022-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 22,
+  "verse_reference": "2 Kings 22:11",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Josiah do when he heard the words of the Book of the Law?",
+  "options": [
+    "He tore his robes",
+    "He burned the book",
+    "He laughed",
+    "He hid the book"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Repentance",
+    "Law"
+  ],
+  "characters": [
+    "Josiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the king heard the words of the Book of the Law, he tore his robes."
+}

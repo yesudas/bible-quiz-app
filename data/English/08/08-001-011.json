@@ -1,0 +1,34 @@
+{
+  "id": "08-001-011",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 1,
+  "verse_reference": "Ruth 1:15-17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What does Ruth's promise to Naomi show about her decision?",
+  "options": [
+    "She wanted to marry a rich man in Judah",
+    "She planned to return to Moab after the famine",
+    "She was fully committed to Naomi, her people and her God",
+    "She was afraid to travel alone"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Love",
+    "Faithfulness"
+  ],
+  "characters": [
+    "Ruth",
+    "Naomi"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Unlike Orpah, who returned to her gods, Ruth chose Naomi's people and God and said only death would separate them."
+}

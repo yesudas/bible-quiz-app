@@ -1,0 +1,32 @@
+{
+  "id": "05-018-004",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 18,
+  "verse_reference": "Deuteronomy 18:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Moses said: \"You must be ___ before the Lord your God.\"",
+  "options": [
+    "silent",
+    "wealthy",
+    "fearful",
+    "blameless"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Obedience",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Unlike the nations who practiced sorcery and divination, Israel was to be blameless before the Lord their God."
+}

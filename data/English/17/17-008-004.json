@@ -1,0 +1,34 @@
+{
+  "id": "17-008-004",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 8,
+  "verse_reference": "Esther 8:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did Esther fall at the king's feet weeping, even after Haman was dead?",
+  "options": [
+    "She wanted Haman's sons punished",
+    "She was afraid the king was angry with her",
+    "She wanted Mordecai to be made king",
+    "She begged him to put an end to Haman's evil plan against the Jews"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Courage",
+    "Salvation"
+  ],
+  "characters": [
+    "Esther",
+    "Xerxes",
+    "Haman"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Esther pleaded with the king, weeping at his feet, begging him to put an end to the evil plan of Haman the Agagite against the Jews."
+}

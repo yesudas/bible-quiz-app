@@ -1,0 +1,40 @@
+{
+  "id": "07-002-001",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 2,
+  "verse_reference": "Judges 2:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "The angel of the LORD went up from Gilgal to speak to the Israelites. Where did he go?",
+  "options": [
+    "Shiloh",
+    "Bokim",
+    "Bethel",
+    "Jericho"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gilgal",
+      "type": "city"
+    },
+    {
+      "name": "Bokim",
+      "type": "place"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel of the LORD went up from Gilgal to Bokim and spoke to all the Israelites there."
+}

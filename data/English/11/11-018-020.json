@@ -1,0 +1,36 @@
+{
+  "id": "11-018-020",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 18,
+  "verse_reference": "1 Kings 18:42",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How did Elijah pray on top of Mount Carmel before the rain came?",
+  "options": [
+    "Standing with his hands raised",
+    "Lying on the altar",
+    "Walking around the mountain",
+    "Bending down to the ground with his face between his knees"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [
+    {
+      "name": "Mount Carmel",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elijah climbed to the top of Carmel, bent down to the ground and put his face between his knees."
+}

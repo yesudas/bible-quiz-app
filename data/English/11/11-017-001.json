@@ -1,0 +1,43 @@
+{
+  "id": "11-017-001",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 17,
+  "verse_reference": "1 Kings 17:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which prophet told King Ahab there would be no dew or rain for the next few years?",
+  "options": [
+    "Elisha",
+    "Elijah",
+    "Ahijah",
+    "Jehu"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Elijah",
+    "Ahab"
+  ],
+  "places": [
+    {
+      "name": "Tishbe",
+      "type": "town"
+    },
+    {
+      "name": "Gilead",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elijah the Tishbite told Ahab there would be neither dew nor rain in the next few years except at his word."
+}

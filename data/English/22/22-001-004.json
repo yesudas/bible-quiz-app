@@ -1,0 +1,36 @@
+{
+  "id": "22-001-004",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 1,
+  "verse_reference": "Song of Songs 1:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "The woman says she is dark like the tents of which place?",
+  "options": [
+    "Edom",
+    "Moab",
+    "Sheba",
+    "Kedar"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Kedar",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "She says she is dark like the tents of Kedar, and like the tent curtains of Solomon (Song of Songs 1:5)."
+}

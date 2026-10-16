@@ -1,0 +1,33 @@
+{
+  "id": "11-018-001",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 18,
+  "verse_reference": "1 Kings 18:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "In which year of the drought did the LORD tell Elijah to go to Ahab because He would send rain?",
+  "options": [
+    "The third year",
+    "The first year",
+    "The seventh year",
+    "The tenth year"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Promise"
+  ],
+  "characters": [
+    "Elijah",
+    "Ahab"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After a long time, in the third year, the word of the LORD came to Elijah: \"Go and present yourself to Ahab, and I will send rain on the land.\""
+}

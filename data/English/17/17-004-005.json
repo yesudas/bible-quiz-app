@@ -1,0 +1,33 @@
+{
+  "id": "17-004-005",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 4,
+  "verse_reference": "Esther 4:5",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which of the king's eunuchs did Esther send to find out what was troubling Mordecai?",
+  "options": [
+    "Hathak",
+    "Hegai",
+    "Harbona",
+    "Shaashgaz"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Hathak",
+    "Esther",
+    "Mordecai"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Esther summoned Hathak, one of the king's eunuchs assigned to attend her, and sent him to Mordecai."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "18-021-004",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 21,
+  "verse_reference": "Job 21:11-12",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to Job, what do the children of the wicked do?",
+  "options": [
+    "Weep in the streets",
+    "Dance and sing to the tambourine and lyre",
+    "Work in the fields all day",
+    "Hide in caves"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Family"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said the wicked send their children out like a flock; their little ones dance and sing to the tambourine and lyre."
+}

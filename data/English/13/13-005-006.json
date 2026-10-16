@@ -1,0 +1,31 @@
+{
+  "id": "13-005-006",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 5,
+  "verse_reference": "1 Chronicles 5:10",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "During whose reign did the Reubenites fight against the Hagrites?",
+  "options": [
+    "Saul's",
+    "David's",
+    "Solomon's",
+    "Ahab's"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "War"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 5:10 says that during Saul's reign they waged war against the Hagrites."
+}

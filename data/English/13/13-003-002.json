@@ -1,0 +1,38 @@
+{
+  "id": "13-003-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 3,
+  "verse_reference": "1 Chronicles 3:1-4",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "In which city were David's first six sons born?",
+  "options": [
+    "Jerusalem",
+    "Bethlehem",
+    "Hebron",
+    "Gibeah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "These six sons were born to David in Hebron, where he reigned before moving to Jerusalem."
+}

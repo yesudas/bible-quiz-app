@@ -1,0 +1,30 @@
+{
+  "id": "05-021-001",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 21,
+  "verse_reference": "Deuteronomy 21:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When a slain person was found in a field and the killer was unknown, how was the responsible town decided?",
+  "options": [
+    "By measuring the distance to the nearest town",
+    "By drawing lots among the towns",
+    "By asking the priests to choose",
+    "By the word of a single witness"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Justice",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elders and judges measured the distance from the body to the surrounding towns, and the nearest town took responsibility for the ceremony."
+}

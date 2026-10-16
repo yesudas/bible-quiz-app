@@ -1,0 +1,36 @@
+{
+  "id": "12-005-014",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 5,
+  "verse_reference": "2 Kings 5:17",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Naaman ask to take home from Israel?",
+  "options": [
+    "A jar of water from the Jordan",
+    "Elisha's cloak",
+    "A stone from the altar",
+    "As much earth as a pair of mules could carry"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Naaman"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Naaman asked for as much earth as a pair of mules could carry, because he would never again offer sacrifices to any other god but the LORD."
+}

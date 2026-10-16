@@ -1,0 +1,32 @@
+{
+  "id": "11-005-009",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 5,
+  "verse_reference": "1 Kings 5:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Solomon give Hiram each year in return for the timber?",
+  "options": [
+    "Gold and silver",
+    "Wheat and pressed olive oil",
+    "Horses and chariots",
+    "Sheep and cattle"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Solomon",
+    "Hiram"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon gave Hiram twenty thousand cors of wheat and twenty thousand baths of pressed olive oil year after year."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "09-015-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 15,
+  "verse_reference": "1 Samuel 15:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What reason did Saul finally give for disobeying the LORD?",
+  "options": [
+    "He was afraid of the men and gave in to them",
+    "He forgot the command",
+    "Agag tricked him",
+    "Samuel was late"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul admitted, \"I have sinned… I was afraid of the men and so I gave in to them.\""
+}

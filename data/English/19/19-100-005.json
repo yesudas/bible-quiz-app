@@ -1,0 +1,31 @@
+{
+  "id": "19-100-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 100,
+  "verse_reference": "Psalm 100:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 100:5, how long does God's faithfulness continue?",
+  "options": [
+    "Through all generations",
+    "For a thousand years",
+    "Until the end of the king's life",
+    "As long as we obey"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD is good and His love endures forever; His faithfulness continues through all generations."
+}

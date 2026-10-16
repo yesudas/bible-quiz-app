@@ -1,0 +1,34 @@
+{
+  "id": "23-047-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 47,
+  "verse_reference": "Isaiah 47:5",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "What proud title would Babylon no longer be called, according to Isaiah 47:5?",
+  "options": [
+    "Queen of kingdoms",
+    "Jewel of the east",
+    "City of gold",
+    "Mother of nations"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Pride",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 47:5 says, 'No more will you be called queen of kingdoms.'"
+}

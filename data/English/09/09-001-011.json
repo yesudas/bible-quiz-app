@@ -1,0 +1,40 @@
+{
+  "id": "09-001-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 1,
+  "verse_reference": "1 Samuel 1:17-18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After Eli blessed her, what changed about Hannah?",
+  "options": [
+    "She went home without eating",
+    "She stayed in the temple",
+    "She told Peninnah she was sorry",
+    "Her face was no longer downcast"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Hope",
+    "Prayer"
+  ],
+  "characters": [
+    "Hannah",
+    "Eli"
+  ],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eli said, \"Go in peace,\" and asked God to grant her request. Hannah then ate something, and her face was no longer downcast."
+}

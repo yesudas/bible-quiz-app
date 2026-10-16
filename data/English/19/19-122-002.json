@@ -1,0 +1,37 @@
+{
+  "id": "19-122-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 122,
+  "verse_reference": "Psalm 122:2",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "In Psalm 122, the worshipers say their feet are standing in the gates of which city?",
+  "options": [
+    "Jerusalem",
+    "Bethlehem",
+    "Hebron",
+    "Jericho"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They said, \"Our feet are standing in your gates, Jerusalem.\""
+}

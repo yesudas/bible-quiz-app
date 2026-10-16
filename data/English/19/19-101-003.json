@@ -1,0 +1,34 @@
+{
+  "id": "19-101-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 101,
+  "verse_reference": "Psalm 101:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 101, how did David say he would conduct the affairs of his house?",
+  "options": [
+    "With great wealth",
+    "With a blameless heart",
+    "With strict servants",
+    "With many guards"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holiness",
+    "Family",
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said he would conduct the affairs of his house with a blameless heart, showing integrity even at home."
+}

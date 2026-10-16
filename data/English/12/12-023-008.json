@@ -1,0 +1,37 @@
+{
+  "id": "12-023-008",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 23,
+  "verse_reference": "2 Kings 23:17-18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Josiah command about the tomb of the man of God from Judah?",
+  "options": [
+    "Burn his bones on the altar",
+    "Move the tomb to Jerusalem",
+    "Build a temple over it",
+    "Leave it alone and do not disturb his bones"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Worship"
+  ],
+  "characters": [
+    "Josiah"
+  ],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Josiah said, 'Leave it alone. Don't let anyone disturb his bones.'"
+}

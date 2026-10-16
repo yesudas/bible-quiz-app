@@ -1,0 +1,25 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Azariah",
+    "label": "Azariah",
+    "count": 15,
+    "paths": [
+        "English/12/12-014-011.json",
+        "English/12/12-015-001.json",
+        "English/12/12-015-002.json",
+        "English/12/12-015-003.json",
+        "English/13/13-006-004.json",
+        "English/14/14-015-001.json",
+        "English/14/14-015-002.json",
+        "English/14/14-015-003.json",
+        "English/14/14-015-004.json",
+        "English/14/14-015-005.json",
+        "English/14/14-026-010.json",
+        "English/14/14-026-011.json",
+        "English/14/14-031-008.json",
+        "English/14/14-031-009.json",
+        "English/16/16-003-008.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

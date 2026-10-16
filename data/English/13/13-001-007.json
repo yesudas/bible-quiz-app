@@ -1,0 +1,32 @@
+{
+  "id": "13-001-007",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 1,
+  "verse_reference": "1 Chronicles 1:32",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which woman gave birth to Abraham's sons Zimran, Jokshan, Medan, Midian, Ishbak and Shuah?",
+  "options": [
+    "Sarah",
+    "Hagar",
+    "Rebekah",
+    "Keturah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Abraham",
+    "Keturah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "These six sons were born to Keturah, Abraham's concubine."
+}

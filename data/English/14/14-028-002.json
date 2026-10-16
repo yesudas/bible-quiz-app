@@ -1,0 +1,36 @@
+{
+  "id": "14-028-002",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 28,
+  "verse_reference": "2 Chronicles 28:2-3",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In which valley did Ahaz burn sacrifices and sacrifice his children in the fire?",
+  "options": [
+    "Valley of Salt",
+    "Kidron Valley",
+    "Valley of Ben Hinnom",
+    "Valley of Berakah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Ahaz"
+  ],
+  "places": [
+    {
+      "name": "Valley of Ben Hinnom",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahaz cast idols for worshiping the Baals, burned sacrifices in the Valley of Ben Hinnom and sacrificed his children in the fire."
+}

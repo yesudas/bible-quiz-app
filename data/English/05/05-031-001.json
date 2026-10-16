@@ -1,0 +1,37 @@
+{
+  "id": "05-031-001",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 31,
+  "verse_reference": "Deuteronomy 31:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How old did Moses say he was when he spoke these words to Israel?",
+  "options": [
+    "Eighty years old",
+    "One hundred years old",
+    "One hundred and twenty years old",
+    "One hundred and forty years old"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Jordan",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses told Israel he was one hundred and twenty years old and no longer able to lead them, and that the Lord had said he would not cross the Jordan."
+}

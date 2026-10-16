@@ -1,0 +1,38 @@
+{
+  "id": "05-010-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 10,
+  "verse_reference": "Deuteronomy 10:6",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who succeeded Aaron as priest after Aaron died?",
+  "options": [
+    "Eleazar his son",
+    "Joshua",
+    "Phinehas",
+    "Ithamar"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [
+    "Aaron",
+    "Eleazar"
+  ],
+  "places": [
+    {
+      "name": "Moserah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Aaron died at Moserah and was buried there, and his son Eleazar succeeded him as priest."
+}

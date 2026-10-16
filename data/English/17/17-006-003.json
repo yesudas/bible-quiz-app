@@ -1,0 +1,33 @@
+{
+  "id": "17-006-003",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 6,
+  "verse_reference": "Esther 6:3",
+  "question_type": "DIRECT",
+  "difficulty": "Medium",
+  "question": "What honor had Mordecai received for saving the king's life?",
+  "options": [
+    "A royal robe",
+    "A gold chain",
+    "A house in Susa",
+    "Nothing had been done for him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Providence"
+  ],
+  "characters": [
+    "Mordecai",
+    "Xerxes"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the king asked what honor Mordecai had received, his attendants answered that nothing had been done for him."
+}

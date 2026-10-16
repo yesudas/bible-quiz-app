@@ -1,0 +1,36 @@
+{
+  "id": "07-011-003",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 11,
+  "verse_reference": "Judges 11:3",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Jephthah settle after his brothers drove him away?",
+  "options": [
+    "The land of Moab",
+    "The land of Midian",
+    "The land of the Hittites",
+    "The land of Tob"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Jephthah"
+  ],
+  "places": [
+    {
+      "name": "Tob",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jephthah fled from his brothers and settled in the land of Tob, where a gang of scoundrels gathered around him."
+}

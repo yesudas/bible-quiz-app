@@ -1,0 +1,35 @@
+{
+  "id": "12-020-013",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 20,
+  "verse_reference": "2 Kings 20:20",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Hezekiah build to bring water into Jerusalem?",
+  "options": [
+    "A well and a tower",
+    "A dam and a canal",
+    "An aqueduct from the Jordan",
+    "A pool and a tunnel"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hezekiah made the pool and the tunnel by which he brought water into the city."
+}

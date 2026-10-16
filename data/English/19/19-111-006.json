@@ -1,0 +1,30 @@
+{
+  "id": "19-111-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 111,
+  "verse_reference": "Psalm 111:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does Psalm 111 say about all the LORD's precepts?",
+  "options": [
+    "They are hard to keep",
+    "They are trustworthy",
+    "They are for priests only",
+    "They will change"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The works of His hands are faithful and just, and all His precepts are trustworthy."
+}

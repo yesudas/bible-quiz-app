@@ -1,0 +1,17 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Pharaoh",
+    "label": "Pharaoh",
+    "count": 7,
+    "paths": [
+        "English/11/11-003-001.json",
+        "English/11/11-009-009.json",
+        "English/19/19-135-006.json",
+        "English/19/19-136-006.json",
+        "English/22/22-001-006.json",
+        "English/23/23-019-005.json",
+        "English/23/23-030-001.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

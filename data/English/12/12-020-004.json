@@ -1,0 +1,33 @@
+{
+  "id": "12-020-004",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 20,
+  "verse_reference": "2 Kings 20:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The LORD said to Hezekiah: \"I have heard your prayer and seen your ______; I will heal you.\"",
+  "options": [
+    "tears",
+    "faith",
+    "sacrifice",
+    "works"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Love"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Hezekiah that He had heard his prayer and seen his tears, and would heal him."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "11-022-014",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 22,
+  "verse_reference": "1 Kings 22:34",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How was the king of Israel wounded in the battle?",
+  "options": [
+    "By a spear thrown by Ben-Hadad",
+    "An arrow shot at random hit him between the sections of his armor",
+    "He fell from his chariot",
+    "A sword struck his arm"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Ahab"
+  ],
+  "places": [
+    {
+      "name": "Ramoth Gilead",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Someone drew his bow at random and hit the king of Israel between the sections of his armor."
+}

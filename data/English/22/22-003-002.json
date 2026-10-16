@@ -1,0 +1,29 @@
+{
+  "id": "22-003-002",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 3,
+  "verse_reference": "Song of Songs 3:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who found the woman as she searched through the city?",
+  "options": [
+    "The daughters of Jerusalem",
+    "The shepherds",
+    "The watchmen",
+    "The king's warriors"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 3:3 says the watchmen found her as they made their rounds in the city."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "22-004-001",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 4,
+  "verse_reference": "Song of Songs 4:1",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "The beloved says the woman's hair is like a flock of goats coming down from which place?",
+  "options": [
+    "Carmel",
+    "Bashan",
+    "Gilead",
+    "Hermon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gilead",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Song of Songs 4:1 he says her hair is like a flock of goats descending from the hills of Gilead."
+}

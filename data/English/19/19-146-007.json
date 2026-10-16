@@ -1,0 +1,35 @@
+{
+  "id": "19-146-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 146,
+  "verse_reference": "Psalm 146:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 146:10, how long will the LORD reign?",
+  "options": [
+    "Until the temple is built",
+    "For a thousand years",
+    "Forever",
+    "Until the king returns"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Kingdom of God"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"The LORD reigns forever, your God, O Zion, for all generations.\""
+}

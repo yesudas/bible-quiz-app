@@ -1,0 +1,35 @@
+{
+  "id": "06-004-006",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 4,
+  "verse_reference": "Joshua 4:12-13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "About how many men armed for battle crossed over to the plains of Jericho?",
+  "options": [
+    "Twelve thousand",
+    "Six hundred thousand",
+    "Four thousand",
+    "Forty thousand"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "plains of Jericho",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "About forty thousand men armed for battle crossed over before the LORD to the plains of Jericho."
+}

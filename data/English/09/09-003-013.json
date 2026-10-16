@@ -1,0 +1,46 @@
+{
+  "id": "09-003-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 3,
+  "verse_reference": "1 Samuel 3:20",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "All Israel recognized Samuel as a prophet from Dan to where?",
+  "options": [
+    "Jerusalem",
+    "Beersheba",
+    "Hebron",
+    "Jericho"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "Dan",
+      "type": "city"
+    },
+    {
+      "name": "Beersheba",
+      "type": "city"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All Israel from Dan to Beersheba recognized that Samuel was attested as a prophet of the LORD."
+}

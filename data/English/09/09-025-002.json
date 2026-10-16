@@ -1,0 +1,41 @@
+{
+  "id": "09-025-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 25,
+  "verse_reference": "1 Samuel 25:2-3",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "What was the name of the rich man whose property was at Carmel?",
+  "options": [
+    "Nabal",
+    "Achish",
+    "Doeg",
+    "Kish"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Nabal"
+  ],
+  "places": [
+    {
+      "name": "Maon",
+      "type": "town"
+    },
+    {
+      "name": "Carmel",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A certain man in Maon, who had property there at Carmel, was very wealthy. His name was Nabal."
+}

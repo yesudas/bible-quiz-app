@@ -1,0 +1,33 @@
+{
+  "id": "19-090-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 90,
+  "verse_reference": "Psalm 90:14",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "In Psalm 90:14, when does Moses ask God to satisfy His people with His unfailing love?",
+  "options": [
+    "In the morning",
+    "At night",
+    "On the Sabbath",
+    "At the end of life"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Prayer"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses prays, \"Satisfy us in the morning with your unfailing love.\""
+}

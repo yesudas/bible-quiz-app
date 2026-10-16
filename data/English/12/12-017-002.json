@@ -1,0 +1,37 @@
+{
+  "id": "12-017-002",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 17,
+  "verse_reference": "2 Kings 17:3-4",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which king of Assyria put Hoshea in prison?",
+  "options": [
+    "Tiglath-Pileser",
+    "Sennacherib",
+    "Esarhaddon",
+    "Shalmaneser"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Shalmaneser",
+    "Hoshea"
+  ],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Shalmaneser king of Assyria seized Hoshea and put him in prison."
+}

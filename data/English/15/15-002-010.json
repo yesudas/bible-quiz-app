@@ -1,0 +1,36 @@
+{
+  "id": "15-002-010",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 2,
+  "verse_reference": "Ezra 2:68",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did some family heads give when they arrived at the house of the LORD in Jerusalem?",
+  "options": [
+    "Freewill offerings to rebuild the house of God",
+    "Animals for a great feast",
+    "Gifts for the king of Persia",
+    "Money to build their own houses"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Money"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some of the heads of the families gave freewill offerings toward rebuilding the house of God on its site."
+}

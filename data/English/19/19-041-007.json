@@ -1,0 +1,37 @@
+{
+  "id": "19-041-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 41,
+  "verse_reference": "Psalm 41:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Praise be to the LORD, the God of Israel, from everlasting to ____. Amen and Amen.\"",
+  "options": [
+    "the heavens",
+    "all nations",
+    "everlasting",
+    "the sea"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 41:13 says, \"Praise be to the LORD, the God of Israel, from everlasting to everlasting. Amen and Amen.\""
+}

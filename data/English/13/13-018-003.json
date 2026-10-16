@@ -1,0 +1,41 @@
+{
+  "id": "13-018-003",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 18,
+  "verse_reference": "1 Chronicles 18:3",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which king of Zobah did David fight when that king went to set up his control along the Euphrates River?",
+  "options": [
+    "Tou",
+    "Hadoram",
+    "Hadadezer",
+    "Nahash"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "War"
+  ],
+  "characters": [
+    "Hadadezer",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Zobah",
+      "type": "country"
+    },
+    {
+      "name": "Euphrates River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David fought Hadadezer king of Zobah as far as Hamath, when Hadadezer went to set up his control along the Euphrates River."
+}

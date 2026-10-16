@@ -1,0 +1,40 @@
+{
+  "id": "14-013-003",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 13,
+  "verse_reference": "2 Chronicles 13:4",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Abijah stand to speak to Jeroboam and all Israel?",
+  "options": [
+    "Mount Carmel",
+    "Mount Gilboa",
+    "Mount Zemaraim",
+    "Mount Moriah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Abijah",
+    "Jeroboam"
+  ],
+  "places": [
+    {
+      "name": "Mount Zemaraim",
+      "type": "mountain"
+    },
+    {
+      "name": "Hill country of Ephraim",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abijah stood on Mount Zemaraim, in the hill country of Ephraim, and called out to Jeroboam and all Israel."
+}

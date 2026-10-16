@@ -1,0 +1,38 @@
+{
+  "id": "14-006-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 6,
+  "verse_reference": "2 Chronicles 6:7-9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God say to David about his desire to build a temple?",
+  "options": [
+    "It was a bad idea",
+    "He did well, but his son would build it",
+    "He must wait until he was old",
+    "He should build it in Hebron"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Family"
+  ],
+  "characters": [
+    "David",
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told David he did well to have this in his heart, but his son, his own flesh and blood, would build the temple."
+}

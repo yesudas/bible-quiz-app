@@ -1,0 +1,35 @@
+{
+  "id": "23-002-011",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 2,
+  "verse_reference": "Isaiah 2:19",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where would people flee to hide from the fearful presence of the LORD?",
+  "options": [
+    "Into the temple",
+    "Across the sea",
+    "To Egypt",
+    "To caves in the rocks and holes in the ground"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Caves in the rocks",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 2:19 says people will flee to caves in the rocks and holes in the ground when the LORD rises to shake the earth."
+}

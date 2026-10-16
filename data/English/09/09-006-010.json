@@ -1,0 +1,35 @@
+{
+  "id": "09-006-010",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 6,
+  "verse_reference": "1 Samuel 6:15",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who took down the ark of the LORD from the cart?",
+  "options": [
+    "The Levites",
+    "The Philistine rulers",
+    "Samuel",
+    "The elders of Judah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Beth Shemesh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Levites took down the ark of the LORD and the chest with the gold objects and placed them on the large rock."
+}

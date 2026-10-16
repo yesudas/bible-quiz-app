@@ -1,0 +1,39 @@
+{
+  "id": "06-002-012",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 2,
+  "verse_reference": "Joshua 2:12-13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Rahab ask the spies to promise her?",
+  "options": [
+    "To make her a queen in Israel",
+    "To give her gold and silver",
+    "To take her to Egypt",
+    "To spare her and her family"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Family",
+    "Promise"
+  ],
+  "characters": [
+    "Rahab"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rahab asked the spies to swear by the LORD to show kindness to her family and save them from death."
+}

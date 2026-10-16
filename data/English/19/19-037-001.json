@@ -1,0 +1,33 @@
+{
+  "id": "19-037-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 37,
+  "verse_reference": "Psalm 37:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Do not ____ because of those who are evil or be envious of those who do wrong.\"",
+  "options": [
+    "fret",
+    "fight",
+    "fear",
+    "speak"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 37:1 says, \"Do not fret because of those who are evil or be envious of those who do wrong.\""
+}

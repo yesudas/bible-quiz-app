@@ -1,0 +1,38 @@
+{
+  "id": "14-024-005",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 24,
+  "verse_reference": "2 Chronicles 24:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Joash have made and placed outside the gate of the temple?",
+  "options": [
+    "A chest",
+    "A statue",
+    "A new altar",
+    "A bell"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Worship"
+  ],
+  "characters": [
+    "Joash"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At the king's command, a chest was made and placed outside, at the gate of the temple of the LORD."
+}

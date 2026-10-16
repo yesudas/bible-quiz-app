@@ -1,0 +1,34 @@
+{
+  "id": "19-089-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 89,
+  "verse_reference": "Psalm 89:3-4",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 89:3-4, with which servant did God make a covenant to establish his line forever?",
+  "options": [
+    "Moses",
+    "David",
+    "Abraham",
+    "Solomon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Ethan",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God says, \"I have sworn to David my servant, 'I will establish your line forever.'\""
+}

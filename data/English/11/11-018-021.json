@@ -1,0 +1,37 @@
+{
+  "id": "11-018-021",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 18,
+  "verse_reference": "1 Kings 18:45-46",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What amazing thing did Elijah do when the power of the LORD came on him as the rain began?",
+  "options": [
+    "He ran ahead of Ahab's chariot all the way to Jezreel",
+    "He flew up to heaven",
+    "He stopped the rain",
+    "He called fire down again"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Elijah",
+    "Ahab"
+  ],
+  "places": [
+    {
+      "name": "Jezreel",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The power of the LORD came on Elijah, and tucking his cloak into his belt, he ran ahead of Ahab all the way to Jezreel."
+}

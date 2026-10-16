@@ -1,0 +1,36 @@
+{
+  "id": "19-137-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 137,
+  "verse_reference": "Psalm 137:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the captors demand the people of Zion do?",
+  "options": [
+    "Build a temple",
+    "Sing one of the songs of Zion",
+    "Pray to Babylon's gods",
+    "Leave the city"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Their captors demanded songs of joy, saying, \"Sing us one of the songs of Zion!\""
+}

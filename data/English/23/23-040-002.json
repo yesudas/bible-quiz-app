@@ -1,0 +1,36 @@
+{
+  "id": "23-040-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 40,
+  "verse_reference": "Isaiah 40:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does the voice calling in the wilderness say to do?",
+  "options": [
+    "Build a temple for the LORD",
+    "Prepare the way for the LORD",
+    "Gather the army for battle",
+    "Flee from the LORD"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 40:3 says, 'A voice of one calling: In the wilderness prepare the way for the LORD; make straight in the desert a highway for our God.'"
+}

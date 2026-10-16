@@ -1,0 +1,33 @@
+{
+  "id": "19-068-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 68,
+  "verse_reference": "Psalm 68:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 68:6, where does God set the lonely?",
+  "options": [
+    "In palaces",
+    "In the temple",
+    "In cities",
+    "In families"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Love"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 68:6 says God sets the lonely in families."
+}

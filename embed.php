@@ -220,6 +220,7 @@ $pageTitle = 'Bible Quiz (Embed) - WordOfGod';
 
 <script>
     window.QUIZ_I18N = <?= json_encode(['chapterWord' => quizDetailLabels($selectedLanguage)['chapter']], JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) ?>;
+    window.QUIZ_VERSION = <?= json_encode($version) ?>;
 </script>
 <script src="assets/js/home.js?v=<?= htmlspecialchars($version) ?>" defer></script>
 </body>

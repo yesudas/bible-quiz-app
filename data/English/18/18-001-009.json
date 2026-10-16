@@ -1,0 +1,34 @@
+{
+  "id": "18-001-009",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 1,
+  "verse_reference": "Job 1:9-11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was Satan claiming when he asked, \"Does Job fear God for nothing?\"",
+  "options": [
+    "That Job only served God because God had blessed and protected him",
+    "That Job did not really exist",
+    "That Job worshiped idols in secret",
+    "That Job was too poor to serve God"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Satan",
+    "Faith",
+    "Suffering"
+  ],
+  "characters": [
+    "Satan",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Satan said God had put a hedge around Job and blessed him, and claimed Job would curse God if everything were taken away."
+}

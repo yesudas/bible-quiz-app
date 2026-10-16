@@ -1,0 +1,35 @@
+{
+  "id": "14-008-003",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 8,
+  "verse_reference": "2 Chronicles 8:3",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which place did Solomon go to and capture?",
+  "options": [
+    "Hamath Zobah",
+    "Damascus",
+    "Gaza",
+    "Edom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Hamath Zobah",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon went to Hamath Zobah and captured it."
+}

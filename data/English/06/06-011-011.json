@@ -1,0 +1,34 @@
+{
+  "id": "06-011-011",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 11,
+  "verse_reference": "Joshua 11:19",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which people were the only ones who made a peace treaty with Israel?",
+  "options": [
+    "The Hivites living in Gibeon",
+    "The people of Hazor",
+    "The Anakites",
+    "The people of Jericho"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gibeon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Except for the Hivites living in Gibeon, not one city made a treaty of peace with the Israelites."
+}

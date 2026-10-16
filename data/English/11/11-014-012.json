@@ -1,0 +1,41 @@
+{
+  "id": "11-014-012",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 14,
+  "verse_reference": "1 Kings 14:25-26",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "In Rehoboam's fifth year, which king of Egypt attacked Jerusalem and carried off its treasures?",
+  "options": [
+    "Pharaoh Neco",
+    "Hiram",
+    "Achish",
+    "Shishak"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Shishak",
+    "Rehoboam"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the fifth year of Rehoboam, Shishak king of Egypt attacked Jerusalem and carried off the treasures of the temple and palace."
+}

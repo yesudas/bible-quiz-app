@@ -1,0 +1,37 @@
+{
+  "id": "14-031-009",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 31,
+  "verse_reference": "2 Chronicles 31:10",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "From which priestly family was Azariah the chief priest?",
+  "options": [
+    "The family of Eli",
+    "The family of Zadok",
+    "The family of Abiathar",
+    "The family of Korah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Family"
+  ],
+  "characters": [
+    "Azariah",
+    "Zadok"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Azariah the chief priest, from the family of Zadok, answered Hezekiah about the heaps."
+}

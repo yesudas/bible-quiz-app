@@ -1,0 +1,36 @@
+{
+  "id": "06-004-005",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 4,
+  "verse_reference": "Joshua 4:9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Besides the stones carried to camp, where did Joshua set up another twelve stones?",
+  "options": [
+    "On Mount Nebo",
+    "At the gate of Jericho",
+    "In the middle of the Jordan where the priests stood",
+    "Near the town of Adam"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Remembrance"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua also set up twelve stones in the middle of the Jordan at the spot where the priests carrying the ark had stood."
+}

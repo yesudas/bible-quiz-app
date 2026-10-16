@@ -1,0 +1,33 @@
+{
+  "id": "13-013-011",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 13,
+  "verse_reference": "1 Chronicles 13:13",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "To whose house did David take the ark instead of the City of David?",
+  "options": [
+    "Abinadab's",
+    "Obed-Edom the Gittite's",
+    "Zadok's",
+    "Jesse's"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Obed-Edom",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David did not take the ark to the City of David but took it aside to the house of Obed-Edom the Gittite."
+}

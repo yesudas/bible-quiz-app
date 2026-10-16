@@ -1,0 +1,33 @@
+{
+  "id": "15-001-003",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 1,
+  "verse_reference": "Ezra 1:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Cyrus's proclamation fulfilled the word of the LORD spoken by which prophet?",
+  "options": [
+    "Isaiah",
+    "Ezekiel",
+    "Jeremiah",
+    "Daniel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Promise"
+  ],
+  "characters": [
+    "Cyrus",
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD moved Cyrus in order to fulfil the word of the LORD spoken by Jeremiah."
+}

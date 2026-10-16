@@ -1,0 +1,32 @@
+{
+  "id": "18-041-006",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 41,
+  "verse_reference": "Job 41:27",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Job 41:27, Leviathan treats iron like what?",
+  "options": [
+    "Straw",
+    "Gold",
+    "Glass",
+    "Water"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, 'Iron it treats like straw and bronze like rotten wood.'"
+}

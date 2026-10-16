@@ -1,0 +1,32 @@
+{
+  "id": "13-026-004",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 26,
+  "verse_reference": "1 Chronicles 26:14",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which son of Shelemiah is described as a wise counselor, with the lot for the North Gate falling to him?",
+  "options": [
+    "Meshelemiah",
+    "Obed-Edom",
+    "Shemaiah",
+    "Zechariah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Zechariah",
+    "Shelemiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Lots were cast for Shelemiah's son Zechariah, a wise counselor, and the lot for the North Gate fell to him."
+}

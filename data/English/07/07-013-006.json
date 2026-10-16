@@ -1,0 +1,33 @@
+{
+  "id": "07-013-006",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 13,
+  "verse_reference": "Judges 13:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the angel say must never be used on the boy's head?",
+  "options": [
+    "Oil",
+    "A crown",
+    "A helmet",
+    "A razor"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Angels",
+    "Promise"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel said no razor may be used on his head, because the boy would be a Nazirite dedicated to God."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "19-080-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 80,
+  "verse_reference": "Psalm 80:8",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "In Psalm 80:8, God's people are pictured as what, brought out of Egypt and planted in the land?",
+  "options": [
+    "A vine",
+    "An olive tree",
+    "A field of wheat",
+    "A cedar"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant",
+    "Salvation"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph says God transplanted a vine from Egypt, drove out the nations and planted it."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20-004-001",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 4,
+  "verse_reference": "Proverbs 4:3-4",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "In Proverbs 4, who taught the speaker when he was a boy?",
+  "options": [
+    "His teacher",
+    "His father",
+    "His king",
+    "His brother"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 4:3-4 says that when the speaker was a boy in his father's house, his father taught him."
+}

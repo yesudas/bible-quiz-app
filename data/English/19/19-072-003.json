@@ -1,0 +1,32 @@
+{
+  "id": "19-072-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 72,
+  "verse_reference": "Psalm 72:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In Psalm 72:8, how far does the psalmist pray the king's rule will reach?",
+  "options": [
+    "Only over Jerusalem",
+    "Only over Judah",
+    "From sea to sea and to the ends of the earth",
+    "Only to the Jordan River"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Kingdom of God",
+    "Leadership"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist prays that the king will rule from sea to sea and from the River to the ends of the earth."
+}

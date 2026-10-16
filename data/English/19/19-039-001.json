@@ -1,0 +1,33 @@
+{
+  "id": "19-039-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 39,
+  "verse_reference": "Psalm 39 (title)",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to its title, Psalm 39 was written for which director of music?",
+  "options": [
+    "Asaph",
+    "Heman",
+    "Jeduthun",
+    "Ethan"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Music",
+    "Worship"
+  ],
+  "characters": [
+    "David",
+    "Jeduthun"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The title of Psalm 39 says it is for the director of music, for Jeduthun, a psalm of David."
+}

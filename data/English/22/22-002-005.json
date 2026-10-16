@@ -1,0 +1,35 @@
+{
+  "id": "22-002-005",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 2,
+  "verse_reference": "Song of Songs 2:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What does the woman charge the daughters of Jerusalem not to do?",
+  "options": [
+    "Not to go into the vineyards",
+    "Not to arouse or awaken love until it so desires",
+    "Not to tell the king about her",
+    "Not to follow the shepherds"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Song of Songs 2:7 she tells them not to arouse or awaken love until it so desires."
+}

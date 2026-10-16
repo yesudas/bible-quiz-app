@@ -1,0 +1,37 @@
+{
+  "id": "12-002-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 2,
+  "verse_reference": "2 Kings 2:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How many men from the company of the prophets stood at a distance watching at the Jordan?",
+  "options": [
+    "Seven",
+    "Twelve",
+    "Forty",
+    "Fifty"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Elijah",
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Fifty men from the company of the prophets stood at a distance, facing the place where Elijah and Elisha stopped at the Jordan."
+}

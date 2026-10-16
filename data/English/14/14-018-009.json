@@ -1,0 +1,37 @@
+{
+  "id": "14-018-009",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 18,
+  "verse_reference": "2 Chronicles 18:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Micaiah see in his vision about Israel?",
+  "options": [
+    "Israel winning a great victory",
+    "Israel building a new city",
+    "All Israel scattered on the hills like sheep without a shepherd",
+    "Israel worshiping in the temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Micaiah"
+  ],
+  "places": [
+    {
+      "name": "Hills",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micaiah said, \"I saw all Israel scattered on the hills like sheep without a shepherd.\""
+}

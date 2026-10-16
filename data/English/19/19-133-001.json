@@ -1,0 +1,34 @@
+{
+  "id": "19-133-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 133,
+  "verse_reference": "Psalm 133:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"How good and pleasant it is when God's people live together in ______!\"",
+  "options": [
+    "peace",
+    "unity",
+    "joy",
+    "love"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Church",
+    "Peace"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 133 celebrates how good and pleasant it is when God's people live together in unity."
+}

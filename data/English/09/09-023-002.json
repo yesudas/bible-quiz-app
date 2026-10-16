@@ -1,0 +1,37 @@
+{
+  "id": "09-023-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 23,
+  "verse_reference": "1 Samuel 23:2-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did David ask the LORD a second time about attacking the Philistines at Keilah?",
+  "options": [
+    "He had not heard the answer",
+    "His men were afraid",
+    "Abiathar told him to",
+    "Saul was coming"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Keilah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David's men said they were afraid even in Judah, so David inquired of the LORD once again, and the LORD said He would give the Philistines into his hand."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12-011-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 11,
+  "verse_reference": "2 Kings 11:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Whose spears and shields did Jehoiada give to the commanders?",
+  "options": [
+    "King Solomon's",
+    "King David's",
+    "King Saul's",
+    "Jehu's"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoiada",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoiada gave the commanders the spears and shields that had belonged to King David and were kept in the temple."
+}

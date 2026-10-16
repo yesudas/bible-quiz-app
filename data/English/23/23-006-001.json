@@ -1,0 +1,39 @@
+{
+  "id": "23-006-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 6,
+  "verse_reference": "Isaiah 6:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "In which year did Isaiah see the Lord seated on a throne?",
+  "options": [
+    "The year King Hezekiah was born",
+    "The year King Uzziah died",
+    "The year Jerusalem was destroyed",
+    "The year King Ahaz became king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Worship"
+  ],
+  "characters": [
+    "Isaiah",
+    "Uzziah"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 6:1 says, 'In the year that King Uzziah died, I saw the Lord, high and exalted, seated on a throne.'"
+}

@@ -1,0 +1,12 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Bigthana",
+    "label": "Bigthana",
+    "count": 2,
+    "paths": [
+        "English/17/17-002-013.json",
+        "English/17/17-006-002.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

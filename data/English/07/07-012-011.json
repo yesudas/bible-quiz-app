@@ -1,0 +1,34 @@
+{
+  "id": "07-012-011",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 12,
+  "verse_reference": "Judges 12:7-15",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "In what order did these judges lead Israel?",
+  "options": [
+    "Ibzan, Jephthah, Abdon, Elon",
+    "Elon, Abdon, Jephthah, Ibzan",
+    "Jephthah, Ibzan, Elon, Abdon",
+    "Abdon, Elon, Ibzan, Jephthah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jephthah",
+    "Ibzan",
+    "Elon",
+    "Abdon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After Jephthah, Ibzan of Bethlehem led Israel, then Elon the Zebulunite, and then Abdon son of Hillel."
+}

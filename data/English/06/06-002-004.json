@@ -1,0 +1,37 @@
+{
+  "id": "06-002-004",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 2,
+  "verse_reference": "Joshua 2:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "In whose house did the spies stay in Jericho?",
+  "options": [
+    "Rahab",
+    "Ruth",
+    "Deborah",
+    "Miriam"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Rahab"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The two spies entered the house of Rahab and stayed there."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "07-001-016",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 1,
+  "verse_reference": "Judges 1:21",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which people did the Benjamites fail to drive out of Jerusalem?",
+  "options": [
+    "The Hittites",
+    "The Amorites",
+    "The Jebusites",
+    "The Perizzites"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promised Land"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Benjamites did not drive out the Jebusites living in Jerusalem, so the Jebusites lived there with the Benjamites."
+}

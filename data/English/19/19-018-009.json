@@ -1,0 +1,34 @@
+{
+  "id": "19-018-009",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 18,
+  "verse_reference": "Psalm 18:29",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 18:29, what does David say he can do with his God?",
+  "options": [
+    "Scale a wall",
+    "Cross the sea",
+    "Move a mountain",
+    "Stop the sun"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Courage"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 18:29 says, \"With your help I can advance against a troop; with my God I can scale a wall.\""
+}

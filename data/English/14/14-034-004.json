@@ -1,0 +1,41 @@
+{
+  "id": "14-034-004",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 34,
+  "verse_reference": "2 Chronicles 34:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Josiah begin to do in the twelfth year of his reign?",
+  "options": [
+    "Rebuild the city walls",
+    "Purge Judah and Jerusalem of high places, Asherah poles and idols",
+    "Go to war with Egypt",
+    "Build a new palace"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Repentance"
+  ],
+  "characters": [
+    "Josiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In his twelfth year Josiah began to purge Judah and Jerusalem of high places, Asherah poles and idols."
+}

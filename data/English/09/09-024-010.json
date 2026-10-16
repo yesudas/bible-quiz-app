@@ -1,0 +1,33 @@
+{
+  "id": "09-024-010",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 24,
+  "verse_reference": "1 Samuel 24:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "David said, \"May the LORD judge between you and me… but my ___ will not touch you.\"",
+  "options": [
+    "sword",
+    "men",
+    "hand",
+    "spear"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mercy",
+    "Faith"
+  ],
+  "characters": [
+    "David",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said, \"May the LORD judge between you and me. And may the LORD avenge the wrongs you have done to me, but my hand will not touch you.\""
+}

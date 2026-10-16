@@ -1,0 +1,30 @@
+{
+  "id": "20-014-004",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 14,
+  "verse_reference": "Proverbs 14:15",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 14:15, who believes anything?",
+  "options": [
+    "The prudent",
+    "The wise",
+    "The simple",
+    "The elders"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 14:15 says the simple believe anything, but the prudent give thought to their steps."
+}

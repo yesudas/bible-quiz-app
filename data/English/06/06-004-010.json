@@ -1,0 +1,39 @@
+{
+  "id": "06-004-010",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 4,
+  "verse_reference": "Joshua 4:19",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did the Israelites camp after they came up out of the Jordan?",
+  "options": [
+    "Gilgal",
+    "Jericho",
+    "Shittim",
+    "Bethel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Remembrance"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gilgal",
+      "type": "camp"
+    },
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people came up from the Jordan and camped at Gilgal on the eastern border of Jericho."
+}

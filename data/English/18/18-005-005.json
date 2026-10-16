@@ -1,0 +1,31 @@
+{
+  "id": "18-005-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 5,
+  "verse_reference": "Job 5:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"He catches the wise in their ____.\"",
+  "options": [
+    "words",
+    "craftiness",
+    "traps",
+    "sleep"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Eliphaz"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eliphaz said God catches the wise in their craftiness, so the schemes of the wily are swept away."
+}

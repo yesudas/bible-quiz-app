@@ -1,0 +1,33 @@
+{
+  "id": "19-050-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 50,
+  "verse_reference": "Psalm 50:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"For every animal of the forest is mine, and the cattle on a thousand ____.\"",
+  "options": [
+    "fields",
+    "farms",
+    "plains",
+    "hills"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation",
+    "Provision"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 50:10 says, \"For every animal of the forest is mine, and the cattle on a thousand hills.\""
+}

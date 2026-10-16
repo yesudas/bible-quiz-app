@@ -1,0 +1,39 @@
+{
+  "id": "08-002-010",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 2,
+  "verse_reference": "Ruth 2:14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Boaz offer Ruth at mealtime?",
+  "options": [
+    "Fish and bread",
+    "Honey and figs",
+    "Meat and wine",
+    "Bread dipped in wine vinegar and roasted grain"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Kindness",
+    "Provision"
+  ],
+  "characters": [
+    "Boaz",
+    "Ruth"
+  ],
+  "places": [
+    {
+      "name": "Boaz's field",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Boaz invited Ruth to eat bread dipped in wine vinegar and gave her roasted grain; she ate all she wanted and had some left over."
+}

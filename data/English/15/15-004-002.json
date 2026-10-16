@@ -1,0 +1,35 @@
+{
+  "id": "15-004-002",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 4,
+  "verse_reference": "Ezra 4:2",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "The enemies said they had been sacrificing to God since the time of which king of Assyria?",
+  "options": [
+    "Sennacherib",
+    "Esarhaddon",
+    "Tiglath-Pileser",
+    "Shalmaneser"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Esarhaddon"
+  ],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They said they had been sacrificing to God since the time of Esarhaddon king of Assyria, who brought them there."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "19-122-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 122,
+  "verse_reference": "Psalm 122:8-9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "For whose sake did David say he would seek Jerusalem's prosperity?",
+  "options": [
+    "For the sake of the nations",
+    "For the sake of his enemies",
+    "For the sake of his own wealth",
+    "For the sake of the house of the LORD our God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "House of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "For the sake of his family and friends, and for the sake of the house of the LORD, David said he would seek Jerusalem's good."
+}

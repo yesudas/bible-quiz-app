@@ -1,0 +1,30 @@
+{
+  "id": "19-120-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 120,
+  "verse_reference": "Psalm 120:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "What happened when the psalmist called on the LORD in his distress?",
+  "options": [
+    "The LORD answered him",
+    "The LORD was silent",
+    "His enemies came",
+    "He ran away"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist said, \"I call on the LORD in my distress, and he answers me.\""
+}

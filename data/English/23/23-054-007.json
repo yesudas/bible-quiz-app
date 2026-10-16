@@ -1,0 +1,31 @@
+{
+  "id": "23-054-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 54,
+  "verse_reference": "Isaiah 54:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: 'No ______ forged against you will prevail.'",
+  "options": [
+    "weapon",
+    "army",
+    "plan",
+    "word"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 54:17 says, 'No weapon forged against you will prevail, and you will refute every tongue that accuses you.'"
+}

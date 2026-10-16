@@ -1,0 +1,32 @@
+{
+  "id": "09-028-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 28,
+  "verse_reference": "1 Samuel 28:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What position did Achish promise to give David?",
+  "options": [
+    "Commander of the Philistine army",
+    "His bodyguard for life",
+    "Governor of Gath",
+    "Keeper of his treasures"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Achish",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Achish said David and his men would go with him in the army, and he told David, \"I will make you my bodyguard for life.\""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "07-007-013",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 7,
+  "verse_reference": "Judges 7:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Into how many companies did Gideon divide his three hundred men?",
+  "options": [
+    "Two",
+    "Seven",
+    "Three",
+    "Twelve"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon divided the three hundred men into three companies."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "20-031-008",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 31,
+  "verse_reference": "Proverbs 31:23",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 31:23, where is her husband respected?",
+  "options": [
+    "In the temple",
+    "At the market",
+    "In the fields",
+    "At the city gate"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Marriage",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "City gate",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 31:23 says her husband is respected at the city gate, where he takes his seat among the elders of the land."
+}

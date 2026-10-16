@@ -1,0 +1,33 @@
+{
+  "id": "18-010-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 10,
+  "verse_reference": "Job 10:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Job ask God to tell him in Job 10:2?",
+  "options": [
+    "When his suffering would end",
+    "Where his children had gone",
+    "Who his true friends were",
+    "What charges He had against him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Prayer"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said to God, 'Do not declare me guilty, but tell me what charges you have against me.'"
+}

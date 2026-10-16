@@ -1,0 +1,38 @@
+{
+  "id": "05-002-011",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 2,
+  "verse_reference": "Deuteronomy 2:33-34",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the outcome of Israel's battle against Sihon?",
+  "options": [
+    "Israel was driven back",
+    "They made a lasting peace treaty",
+    "Sihon fled to the mountains",
+    "God delivered Sihon over, and Israel defeated him and took his towns"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Judgment"
+  ],
+  "characters": [
+    "Sihon",
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Heshbon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord handed Sihon over to Israel, and they struck him down along with his sons and army and captured all his towns."
+}

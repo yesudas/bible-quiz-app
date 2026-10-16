@@ -1,0 +1,34 @@
+{
+  "id": "22-007-004",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 7,
+  "verse_reference": "Song of Songs 7:5",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "The woman's head is said to crown her like which mountain?",
+  "options": [
+    "Mount Hermon",
+    "Mount Zion",
+    "Mount Sinai",
+    "Mount Carmel"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mount Carmel",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 7:5 says, \"Your head crowns you like Mount Carmel.\""
+}

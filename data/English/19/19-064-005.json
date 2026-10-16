@@ -1,0 +1,33 @@
+{
+  "id": "19-064-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 64,
+  "verse_reference": "Psalm 64:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"The righteous will ____ in the LORD and take refuge in him.\"",
+  "options": [
+    "rest",
+    "rejoice",
+    "trust",
+    "hope"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Faith"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm ends by saying the righteous will rejoice in the LORD and take refuge in Him."
+}

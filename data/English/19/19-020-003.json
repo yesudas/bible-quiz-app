@@ -1,0 +1,33 @@
+{
+  "id": "19-020-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 20,
+  "verse_reference": "Psalm 20:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"May he give you the desire of your ____ and make all your plans succeed.\"",
+  "options": [
+    "soul",
+    "heart",
+    "life",
+    "home"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Hope"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 20:4 says, \"May he give you the desire of your heart and make all your plans succeed.\""
+}

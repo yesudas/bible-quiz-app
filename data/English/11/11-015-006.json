@@ -1,0 +1,39 @@
+{
+  "id": "11-015-006",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 15,
+  "verse_reference": "1 Kings 15:13",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Why did Asa remove his grandmother Maakah from her position as queen mother?",
+  "options": [
+    "She tried to take the throne",
+    "She married a foreign king",
+    "She had made a repulsive image for the worship of Asherah",
+    "She stole from the temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Worship",
+    "Family"
+  ],
+  "characters": [
+    "Asa",
+    "Maakah"
+  ],
+  "places": [
+    {
+      "name": "Kidron Valley",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asa deposed his grandmother Maakah because she had made a repulsive image for the worship of Asherah; he cut it down and burned it in the Kidron Valley."
+}

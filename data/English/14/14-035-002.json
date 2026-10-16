@@ -1,0 +1,37 @@
+{
+  "id": "14-035-002",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 35,
+  "verse_reference": "2 Chronicles 35:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "On which day was the Passover lamb slaughtered?",
+  "options": [
+    "The first day of the first month",
+    "The fourteenth day of the first month",
+    "The fourteenth day of the second month",
+    "The seventh day of the seventh month"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [
+    "Josiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Passover lamb was slaughtered on the fourteenth day of the first month."
+}

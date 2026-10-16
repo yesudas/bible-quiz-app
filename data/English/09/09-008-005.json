@@ -1,0 +1,38 @@
+{
+  "id": "09-008-005",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 8,
+  "verse_reference": "1 Samuel 8:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Samuel respond when the elders asked for a king?",
+  "options": [
+    "He was displeased and prayed to the LORD",
+    "He was glad and chose a king at once",
+    "He left Ramah",
+    "He sent the elders away in anger"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Leadership"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [
+    {
+      "name": "Ramah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The request displeased Samuel, so he prayed to the LORD."
+}

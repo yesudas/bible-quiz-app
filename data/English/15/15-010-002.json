@@ -1,0 +1,32 @@
+{
+  "id": "15-010-002",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 10,
+  "verse_reference": "Ezra 10:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who spoke up and said there was still hope for Israel?",
+  "options": [
+    "Jonathan son of Asahel",
+    "Meshullam",
+    "Shecaniah son of Jehiel",
+    "Jehohanan"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Repentance"
+  ],
+  "characters": [
+    "Shecaniah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Shecaniah son of Jehiel admitted they had been unfaithful but said, \"In spite of this, there is still hope for Israel.\""
+}

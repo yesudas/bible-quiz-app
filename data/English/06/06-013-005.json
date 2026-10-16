@@ -1,0 +1,39 @@
+{
+  "id": "06-013-005",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 13,
+  "verse_reference": "Joshua 13:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Which peoples did the Israelites fail to drive out, so that they kept living among Israel?",
+  "options": [
+    "The people of Geshur and Maakah",
+    "The people of Jericho and Ai",
+    "The people of Hazor and Madon",
+    "The Anakites of Hebron"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Geshur",
+      "type": "region"
+    },
+    {
+      "name": "Maakah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites did not drive out the people of Geshur and Maakah, so they continued to live among the Israelites."
+}

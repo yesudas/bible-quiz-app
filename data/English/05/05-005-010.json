@@ -1,0 +1,33 @@
+{
+  "id": "05-005-010",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 5,
+  "verse_reference": "Deuteronomy 5:23-27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the people ask Moses to speak to them instead of hearing God directly?",
+  "options": [
+    "They could not understand God's words",
+    "They did not believe Moses",
+    "They were afraid they would die if God kept speaking to them from the fire",
+    "They wanted to return to Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Fear",
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people were terrified by the fire and God's voice, fearing they would die, so they asked Moses to listen and speak to them instead."
+}

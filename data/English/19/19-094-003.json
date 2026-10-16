@@ -1,0 +1,30 @@
+{
+  "id": "19-094-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 94,
+  "verse_reference": "Psalm 94:12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 94:12, who is blessed?",
+  "options": [
+    "The one who is rich",
+    "The one who is strong",
+    "The one God disciplines and teaches from His law",
+    "The one who has many friends"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm says, \"Blessed is the one you discipline, LORD, the one you teach from your law.\""
+}

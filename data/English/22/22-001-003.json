@@ -1,0 +1,34 @@
+{
+  "id": "22-001-003",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 1,
+  "verse_reference": "Song of Songs 1:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom does the woman speak to when she says, \"Dark am I, yet lovely\"?",
+  "options": [
+    "The daughters of Jerusalem",
+    "The watchmen of the city",
+    "The priests of the temple",
+    "The elders at the gate"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Song of Songs 1:5 she addresses the daughters of Jerusalem."
+}

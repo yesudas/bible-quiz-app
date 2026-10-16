@@ -1,0 +1,32 @@
+{
+  "id": "18-026-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 26,
+  "verse_reference": "Job 26:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"He spreads out the northern skies over empty space; he suspends the earth over ____.\"",
+  "options": [
+    "nothing",
+    "water",
+    "pillars",
+    "mountains"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said God spreads out the northern skies over empty space and suspends the earth over nothing."
+}

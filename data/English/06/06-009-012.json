@@ -1,0 +1,38 @@
+{
+  "id": "06-009-012",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 9,
+  "verse_reference": "Joshua 9:21-23",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What work were the Gibeonites given to do?",
+  "options": [
+    "Guarding the gates",
+    "Cutting wood and carrying water",
+    "Building walls",
+    "Making bricks"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Gibeon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Gibeonites became woodcutters and water carriers for the community and for the house of God."
+}

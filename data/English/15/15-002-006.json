@@ -1,0 +1,31 @@
+{
+  "id": "15-002-006",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 2,
+  "verse_reference": "Ezra 2:61-62",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Why were some priests excluded from the priesthood as unclean?",
+  "options": [
+    "They had married foreign wives",
+    "They had worshipped idols in Babylon",
+    "They could not find their family records",
+    "They arrived late in Jerusalem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Law",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "These priests searched for their family records but could not find them, so they were excluded from the priesthood as unclean."
+}

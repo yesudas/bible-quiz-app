@@ -1,0 +1,31 @@
+{
+  "id": "13-010-004",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 10,
+  "verse_reference": "1 Chronicles 10:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Saul's armor-bearer respond when Saul asked him to kill him?",
+  "options": [
+    "He obeyed at once",
+    "He ran away to David",
+    "He was terrified and would not do it",
+    "He called for the priest"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul's armor-bearer was terrified and would not do it, so Saul took his own sword and fell on it."
+}

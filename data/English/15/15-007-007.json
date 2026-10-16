@@ -1,0 +1,39 @@
+{
+  "id": "15-007-007",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 7,
+  "verse_reference": "Ezra 7:13",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did King Artaxerxes allow any Israelite in his kingdom to do?",
+  "options": [
+    "Go to Jerusalem with Ezra",
+    "Build a new palace",
+    "Become a Persian official",
+    "Stop paying the king's taxes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Leadership"
+  ],
+  "characters": [
+    "Artaxerxes",
+    "Ezra"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king decreed that any of the Israelites in his kingdom who volunteered to go to Jerusalem with Ezra could go."
+}

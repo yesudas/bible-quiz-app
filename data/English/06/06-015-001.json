@@ -1,0 +1,36 @@
+{
+  "id": "06-015-001",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 15,
+  "verse_reference": "Joshua 15:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Which tribe's land is described in Joshua 15?",
+  "options": [
+    "Benjamin",
+    "Ephraim",
+    "Judah",
+    "Dan"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Family"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua 15 describes the land given by lot to the tribe of Judah, clan by clan."
+}

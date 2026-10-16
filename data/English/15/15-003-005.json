@@ -1,0 +1,33 @@
+{
+  "id": "15-003-005",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 3,
+  "verse_reference": "Ezra 3:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When the people began offering burnt offerings on the first day of the seventh month, what had not yet been done?",
+  "options": [
+    "The altar had not been built",
+    "The foundation of the temple had not been laid",
+    "The priests had not arrived",
+    "Cyrus had not given permission"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They began to offer burnt offerings from the first day of the seventh month, though the foundation of the LORD's temple had not yet been laid."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "07-007-020",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 7,
+  "verse_reference": "Judges 7:3-20",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "Which order of events in Judges 7 is correct?",
+  "options": [
+    "The water test → fearful men go home → trumpets and jars → Gideon hears the dream",
+    "Fearful men go home → the water test → Gideon hears the dream → trumpets and jars",
+    "Gideon hears the dream → fearful men go home → the water test → trumpets and jars",
+    "Trumpets and jars → Gideon hears the dream → the water test → fearful men go home"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "First the fearful men went home, then the LORD tested the rest at the water. Gideon heard the dream in the enemy camp, and then attacked with trumpets and jars."
+}

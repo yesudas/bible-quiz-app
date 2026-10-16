@@ -1,0 +1,34 @@
+{
+  "id": "23-018-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 18,
+  "verse_reference": "Isaiah 18:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Isaiah 18 speaks of a land of whirring wings along the rivers of which country?",
+  "options": [
+    "Egypt",
+    "Assyria",
+    "Edom",
+    "Cush"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Cush",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 18:1 says, 'Woe to the land of whirring wings along the rivers of Cush.'"
+}

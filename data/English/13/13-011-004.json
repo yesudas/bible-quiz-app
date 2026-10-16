@@ -1,0 +1,36 @@
+{
+  "id": "13-011-004",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 11,
+  "verse_reference": "1 Chronicles 11:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Jerusalem called when the Jebusites lived there?",
+  "options": [
+    "Salem",
+    "Zion",
+    "Jebus",
+    "Moriah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "History"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David and all Israel marched to Jerusalem, that is, Jebus, where the Jebusites lived."
+}

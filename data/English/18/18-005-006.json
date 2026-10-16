@@ -1,0 +1,33 @@
+{
+  "id": "18-005-006",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 5,
+  "verse_reference": "Job 5:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Blessed is the one whom God ____; so do not despise the discipline of the Almighty.\"",
+  "options": [
+    "corrects",
+    "chooses",
+    "blesses",
+    "hears"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Faith"
+  ],
+  "characters": [
+    "Eliphaz"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eliphaz said, 'Blessed is the one whom God corrects; so do not despise the discipline of the Almighty.'"
+}

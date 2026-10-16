@@ -1,0 +1,37 @@
+{
+  "id": "16-009-007",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 9,
+  "verse_reference": "Nehemiah 9:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God find in Abraham's heart, according to Nehemiah 9:8?",
+  "options": [
+    "Fear",
+    "Pride",
+    "It was faithful",
+    "Doubt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Covenant"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "places": [
+    {
+      "name": "Canaan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God found Abraham's heart faithful to Him and made a covenant with him to give the land of the Canaanites to his descendants."
+}

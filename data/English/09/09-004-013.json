@@ -1,0 +1,36 @@
+{
+  "id": "09-004-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 4,
+  "verse_reference": "1 Samuel 4:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "For how many years had Eli led Israel?",
+  "options": [
+    "Twenty",
+    "Forty",
+    "Seventy",
+    "Fifty"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Eli"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eli died after he had led Israel for forty years."
+}

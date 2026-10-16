@@ -1,0 +1,34 @@
+{
+  "id": "11-001-009",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 1,
+  "verse_reference": "1 Kings 1:11-40",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "What happened FIRST in this chapter?",
+  "options": [
+    "Solomon was anointed at Gihon",
+    "Bathsheba went to speak to King David",
+    "Nathan told Bathsheba about Adonijah",
+    "Nathan came in and spoke to King David"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Nathan",
+    "Bathsheba",
+    "David",
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nathan first spoke to Bathsheba; then she went to David, then Nathan came in, and later Solomon was anointed."
+}

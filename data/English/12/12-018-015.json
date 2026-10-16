@@ -1,0 +1,38 @@
+{
+  "id": "12-018-015",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 18,
+  "verse_reference": "2 Kings 18:36",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the people do when the field commander finished speaking?",
+  "options": [
+    "They shouted back at him",
+    "They opened the gates",
+    "They ran away",
+    "They remained silent, because the king had said not to answer"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Obedience",
+    "Faith"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people remained silent and said nothing, because the king had commanded, 'Do not answer him.'"
+}

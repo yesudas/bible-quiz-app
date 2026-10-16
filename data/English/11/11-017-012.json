@@ -1,0 +1,32 @@
+{
+  "id": "11-017-012",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 17,
+  "verse_reference": "1 Kings 17:19",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Elijah take the widow's son after the boy stopped breathing?",
+  "options": [
+    "To the town gate",
+    "To the brook",
+    "To the upper room where Elijah was staying",
+    "To the temple of Baal"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Elijah",
+    "Widow of Zarephath"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elijah took the boy from her arms, carried him to the upper room where he was staying, and laid him on his bed."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "06-015-004",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 15,
+  "verse_reference": "Joshua 15:8",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Joshua 15 speaks of \"the Jebusite city.\" Which city was this?",
+  "options": [
+    "Hebron",
+    "Jerusalem",
+    "Jericho",
+    "Gibeon"
+  ],
+  "correct_option": 1,
+  "themes": [],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Valley of Ben Hinnom",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The boundary ran along the southern slope of the Jebusite city, that is, Jerusalem."
+}

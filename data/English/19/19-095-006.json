@@ -1,0 +1,35 @@
+{
+  "id": "19-095-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 95,
+  "verse_reference": "Psalm 95:10",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 95:10, for how many years was God angry with that generation in the wilderness?",
+  "options": [
+    "Seven",
+    "Forty",
+    "Twelve",
+    "Seventy"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God says, \"For forty years I was angry with that generation.\""
+}

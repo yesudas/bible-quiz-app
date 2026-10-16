@@ -1,0 +1,32 @@
+{
+  "id": "17-003-008",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 3,
+  "verse_reference": "Esther 3:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Haman accuse the Jews of when he spoke to the king?",
+  "options": [
+    "Not obeying the king's laws",
+    "Stealing from the treasury",
+    "Planning a war",
+    "Refusing to pay for the banquet"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Haman",
+    "Xerxes"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Haman said their customs were different from everyone else's and that they did not obey the king's laws."
+}

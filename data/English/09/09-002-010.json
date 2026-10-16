@@ -1,0 +1,33 @@
+{
+  "id": "09-002-010",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 2,
+  "verse_reference": "1 Samuel 2:20-21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How many more children did the LORD give Hannah after Samuel?",
+  "options": [
+    "Two sons and one daughter",
+    "Three sons and two daughters",
+    "Four sons",
+    "Seven sons"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Promise"
+  ],
+  "characters": [
+    "Hannah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD was gracious to Hannah; she gave birth to three sons and two daughters."
+}

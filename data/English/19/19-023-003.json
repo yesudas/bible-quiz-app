@@ -1,0 +1,39 @@
+{
+  "id": "19-023-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 23,
+  "verse_reference": "Psalm 23:2",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "According to Psalm 23:2, where does the LORD make David lie down?",
+  "options": [
+    "On the mountains",
+    "In the desert",
+    "In green pastures",
+    "By the sea"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Provision",
+    "Peace"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [
+    {
+      "name": "Green pastures",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 23:2 says, \"He makes me lie down in green pastures, he leads me beside quiet waters.\""
+}

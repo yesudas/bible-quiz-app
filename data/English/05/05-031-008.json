@@ -1,0 +1,33 @@
+{
+  "id": "05-031-008",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 31,
+  "verse_reference": "Deuteronomy 31:19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God tell Moses to write down and teach the Israelites as a witness against them?",
+  "options": [
+    "A list of their tribes",
+    "A song",
+    "A record of their journeys",
+    "A treaty with the nations"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Moses to write down a song and teach it to the Israelites so that it would be a witness against them when they turned away."
+}

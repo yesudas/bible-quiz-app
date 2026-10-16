@@ -1,0 +1,37 @@
+{
+  "id": "11-022-015",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 22,
+  "verse_reference": "1 Kings 22:37-38",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened when the king's chariot was washed at a pool in Samaria?",
+  "options": [
+    "The water turned red forever",
+    "Nothing unusual happened",
+    "Dogs licked up his blood, as the word of the LORD had declared",
+    "The chariot was stolen"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Ahab"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They washed the chariot at a pool in Samaria, and the dogs licked up his blood, as the word of the LORD had declared."
+}

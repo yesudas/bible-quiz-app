@@ -1,0 +1,43 @@
+{
+  "id": "12-005-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 5,
+  "verse_reference": "2 Kings 5:12",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Naaman said the rivers of Damascus were better than the waters of Israel. What were their names?",
+  "options": [
+    "Abana and Pharpar",
+    "Tigris and Euphrates",
+    "Jabbok and Arnon",
+    "Kishon and Kidron"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Pride"
+  ],
+  "characters": [
+    "Naaman"
+  ],
+  "places": [
+    {
+      "name": "Damascus",
+      "type": "city"
+    },
+    {
+      "name": "Abana",
+      "type": "river"
+    },
+    {
+      "name": "Pharpar",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Naaman asked, 'Are not Abana and Pharpar, the rivers of Damascus, better than all the waters of Israel?'"
+}

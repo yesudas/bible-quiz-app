@@ -1,0 +1,32 @@
+{
+  "id": "09-026-014",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 26,
+  "verse_reference": "1 Samuel 26:25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were Saul's last words to David in this chapter?",
+  "options": [
+    "\"Never come back.\"",
+    "\"Come and live in my palace.\"",
+    "\"May you be blessed, David my son; you will do great things and surely triumph.\"",
+    "\"I will make Jonathan king.\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Saul",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul said, \"May you be blessed, David my son; you will do great things and surely triumph.\" So David went on his way, and Saul returned home."
+}

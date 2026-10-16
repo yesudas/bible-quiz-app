@@ -1,0 +1,32 @@
+{
+  "id": "09-016-005",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 16,
+  "verse_reference": "1 Samuel 16:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"People look at the outward appearance, but the LORD looks at the ___.\"",
+  "options": [
+    "face",
+    "mind",
+    "heart",
+    "eyes"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Samuel not to consider Eliab's appearance or height, because people look at the outward appearance, but the LORD looks at the heart."
+}

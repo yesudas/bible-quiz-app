@@ -1,0 +1,35 @@
+{
+  "id": "14-020-016",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 20,
+  "verse_reference": "2 Chronicles 20:31",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many years did Jehoshaphat reign in Jerusalem?",
+  "options": [
+    "Twenty-five",
+    "Thirty-five",
+    "Forty",
+    "Seventeen"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoshaphat"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoshaphat was thirty-five years old when he became king, and he reigned in Jerusalem twenty-five years."
+}

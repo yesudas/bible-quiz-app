@@ -1,0 +1,37 @@
+{
+  "id": "14-029-002",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 29,
+  "verse_reference": "2 Chronicles 29:3",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When did Hezekiah open the doors of the temple and repair them?",
+  "options": [
+    "In his tenth year",
+    "After the Passover",
+    "In the first month of the first year of his reign",
+    "In his old age"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the first month of the first year of his reign, Hezekiah opened the doors of the temple of the LORD and repaired them."
+}

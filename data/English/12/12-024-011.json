@@ -1,0 +1,35 @@
+{
+  "id": "12-024-011",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 24,
+  "verse_reference": "2 Kings 24:16",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many skilled workers and artisans did the king of Babylon take into exile?",
+  "options": [
+    "Seven thousand",
+    "A thousand",
+    "Ten thousand",
+    "Three hundred"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king of Babylon deported the entire force of seven thousand fighting men and a thousand skilled workers and artisans."
+}

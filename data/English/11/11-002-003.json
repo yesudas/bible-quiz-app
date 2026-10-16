@@ -1,0 +1,35 @@
+{
+  "id": "11-002-003",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 2,
+  "verse_reference": "1 Kings 2:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "David reminded Solomon that Joab had killed which two commanders of Israel's armies?",
+  "options": [
+    "Abner and Amasa",
+    "Saul and Jonathan",
+    "Absalom and Amnon",
+    "Uriah and Benaiah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "David",
+    "Joab",
+    "Abner",
+    "Amasa"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said Joab had killed Abner son of Ner and Amasa son of Jether, shedding their blood in peacetime as if in battle."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "19-033-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 33,
+  "verse_reference": "Psalm 33:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 33:7, into what does the LORD gather the waters of the sea?",
+  "options": [
+    "Rivers",
+    "Clouds",
+    "Wells",
+    "Jars"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 33:7 says, \"He gathers the waters of the sea into jars; he puts the deep into storehouses.\""
+}

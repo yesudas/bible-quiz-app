@@ -1,0 +1,39 @@
+{
+  "id": "09-005-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 5,
+  "verse_reference": "1 Samuel 5:1",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "To which city did the Philistines first take the ark of God?",
+  "options": [
+    "Gath",
+    "Ashdod",
+    "Ekron",
+    "Gaza"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ebenezer",
+      "type": "camp"
+    },
+    {
+      "name": "Ashdod",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After capturing the ark, the Philistines took it from Ebenezer to Ashdod."
+}

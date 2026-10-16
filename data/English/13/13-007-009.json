@@ -1,0 +1,36 @@
+{
+  "id": "13-007-009",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 7,
+  "verse_reference": "1 Chronicles 7:29",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which of these towns was held by the descendants of Manasseh?",
+  "options": [
+    "Bethel",
+    "Megiddo",
+    "Gezer",
+    "Shechem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Manasseh"
+  ],
+  "places": [
+    {
+      "name": "Megiddo",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Along the borders of Manasseh were Beth Shan, Taanach, Megiddo and Dor with their villages. Bethel, Gezer and Shechem are listed among Ephraim's lands."
+}

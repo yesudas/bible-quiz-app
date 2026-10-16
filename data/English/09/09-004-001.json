@@ -1,0 +1,38 @@
+{
+  "id": "09-004-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 4,
+  "verse_reference": "1 Samuel 4:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the Israelites camp when they went out to fight the Philistines?",
+  "options": [
+    "Aphek",
+    "Mizpah",
+    "Ebenezer",
+    "Gilgal"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ebenezer",
+      "type": "camp"
+    },
+    {
+      "name": "Aphek",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites camped at Ebenezer, and the Philistines camped at Aphek."
+}

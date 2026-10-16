@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Libnah",
+    "label": "Libnah",
+    "count": 3,
+    "paths": [
+        "English/12/12-008-016.json",
+        "English/12/12-019-004.json",
+        "English/14/14-021-008.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

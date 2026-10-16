@@ -1,0 +1,31 @@
+{
+  "id": "23-005-010",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 5,
+  "verse_reference": "Isaiah 5:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: 'Woe to those who call evil ______ and good evil.'",
+  "options": [
+    "bad",
+    "wrong",
+    "good",
+    "right"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 5:20 warns those who call evil good and good evil, who put darkness for light and light for darkness."
+}

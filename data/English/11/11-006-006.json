@@ -1,0 +1,35 @@
+{
+  "id": "11-006-006",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 6,
+  "verse_reference": "1 Kings 6:16",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "What was the inner sanctuary of the temple called?",
+  "options": [
+    "The Most Holy Place",
+    "The Outer Court",
+    "The Hall of Pillars",
+    "The Gate of Praise"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon built the inner sanctuary within the temple as the Most Holy Place."
+}

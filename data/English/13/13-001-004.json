@@ -1,0 +1,33 @@
+{
+  "id": "13-001-004",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 1,
+  "verse_reference": "1 Chronicles 1:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was Eber's son named Peleg?",
+  "options": [
+    "Because in his time the earth was divided",
+    "Because he was born during the flood",
+    "Because he built a great city",
+    "Because he was the firstborn son"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "History"
+  ],
+  "characters": [
+    "Eber",
+    "Peleg"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peleg was given his name because in his time the earth was divided."
+}

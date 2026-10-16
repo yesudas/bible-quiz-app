@@ -1,0 +1,32 @@
+{
+  "id": "11-022-010",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 22,
+  "verse_reference": "1 Kings 22:27",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the king order to be done with Micaiah until he came back from battle?",
+  "options": [
+    "Send him to Jerusalem",
+    "Put him in prison with only bread and water",
+    "Make him a royal adviser",
+    "Send him to Aram"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Micaiah",
+    "Ahab"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king said to put Micaiah in prison and give him nothing but bread and water until he returned safely."
+}

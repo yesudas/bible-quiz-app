@@ -1,0 +1,42 @@
+{
+  "id": "12-008-013",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 8,
+  "verse_reference": "2 Kings 8:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jehoram king of Judah follow the ways of the kings of Israel?",
+  "options": [
+    "Elisha told him to",
+    "He had grown up in Samaria",
+    "He was afraid of Aram",
+    "He had married a daughter of Ahab"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Marriage",
+    "Sin"
+  ],
+  "characters": [
+    "Jehoram",
+    "Ahab"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoram followed the ways of the kings of Israel as the house of Ahab had done, for he married a daughter of Ahab."
+}

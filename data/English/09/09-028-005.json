@@ -1,0 +1,31 @@
+{
+  "id": "09-028-005",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 28,
+  "verse_reference": "1 Samuel 28:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In which ways did the LORD NOT answer Saul when he inquired?",
+  "options": [
+    "By angels, thunder or fire",
+    "By dreams, Urim or prophets",
+    "By a voice from heaven only",
+    "By writing on the wall"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Judgment"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul inquired of the LORD, but the LORD did not answer him by dreams or Urim or prophets."
+}

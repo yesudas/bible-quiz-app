@@ -1,0 +1,40 @@
+{
+  "id": "10-018-009",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 18,
+  "verse_reference": "2 Samuel 18:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was done with Absalom's body?",
+  "options": [
+    "It was carried to Jerusalem",
+    "It was taken back to Geshur",
+    "It was buried in David's tomb",
+    "It was thrown into a big pit in the forest and covered with a heap of rocks"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Absalom"
+  ],
+  "places": [
+    {
+      "name": "Forest of Ephraim",
+      "type": "forest"
+    },
+    {
+      "name": "Pit in the forest",
+      "type": "pit"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They threw Absalom into a big pit in the forest and piled up a large heap of rocks over him."
+}

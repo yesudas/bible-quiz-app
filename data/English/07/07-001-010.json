@@ -1,0 +1,38 @@
+{
+  "id": "07-001-010",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 1,
+  "verse_reference": "Judges 1:14-15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Caleb had given his daughter Aksah land in the Negev. What else did she ask him to give her?",
+  "options": [
+    "Springs of water",
+    "A flock of sheep",
+    "A vineyard",
+    "A house in Hebron"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Aksah",
+    "Caleb"
+  ],
+  "places": [
+    {
+      "name": "Negev",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Aksah asked Caleb for springs of water, and he gave her the upper and lower springs."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "08-004-009",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 4,
+  "verse_reference": "Ruth 4:13",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the LORD give Ruth after she married Boaz?",
+  "options": [
+    "A daughter",
+    "Twins",
+    "A son",
+    "A field"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Blessing",
+    "Family"
+  ],
+  "characters": [
+    "Ruth",
+    "Boaz"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Boaz married Ruth, and the LORD enabled her to conceive, and she gave birth to a son."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "05-024-003",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 24,
+  "verse_reference": "Deuteronomy 24:10-11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was a lender told to do when collecting a pledge from a neighbor?",
+  "options": [
+    "Enter the house and choose the pledge",
+    "Send an official instead",
+    "Take the best item in the house",
+    "Wait outside while the neighbor brings the pledge out"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Mercy",
+    "Justice",
+    "Money"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A lender was not to go into the borrower's house to seize a pledge but to stay outside and let the neighbor bring it out, protecting his dignity."
+}

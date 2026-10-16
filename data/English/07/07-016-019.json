@@ -1,0 +1,36 @@
+{
+  "id": "07-016-019",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 16,
+  "verse_reference": "Judges 16:27",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "About how many men and women were on the roof of the temple watching Samson?",
+  "options": [
+    "About three thousand",
+    "About three hundred",
+    "About thirty",
+    "About thirty thousand"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [
+    {
+      "name": "Temple of Dagon",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The temple was crowded with men and women, and on the roof were about three thousand people watching Samson."
+}

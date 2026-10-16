@@ -1,0 +1,38 @@
+{
+  "id": "06-006-006",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 6,
+  "verse_reference": "Joshua 6:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Joshua command the people not to do while they marched around Jericho?",
+  "options": [
+    "Carry weapons",
+    "Give a war cry or say a word",
+    "Look at the city walls",
+    "Walk near the ark"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Obedience",
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua told the people not to give a war cry or even say a word until the day he told them to shout."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "11-020-016",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 20,
+  "verse_reference": "1 Kings 20:42",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the prophet tell Ahab would happen because he set Ben-Hadad free?",
+  "options": [
+    "Ahab would become rich",
+    "Ahab would rule Aram",
+    "Ben-Hadad would serve Israel forever",
+    "It would be Ahab's life for Ben-Hadad's life, and his people for Ben-Hadad's people"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Prophecy",
+    "Obedience"
+  ],
+  "characters": [
+    "Ahab",
+    "Ben-Hadad"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The prophet said, \"You have set free a man I had determined should die. Therefore it is your life for his life, your people for his people.\""
+}

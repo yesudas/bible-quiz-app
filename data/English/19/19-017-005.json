@@ -1,0 +1,34 @@
+{
+  "id": "19-017-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 17,
+  "verse_reference": "Psalm 17:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Keep me as the ____ of your eye.\"",
+  "options": [
+    "apple",
+    "light",
+    "joy",
+    "child"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Protection"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 17:8 says, \"Keep me as the apple of your eye; hide me in the shadow of your wings.\""
+}

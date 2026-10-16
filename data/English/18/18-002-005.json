@@ -1,0 +1,37 @@
+{
+  "id": "18-002-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 2,
+  "verse_reference": "Job 2:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Job use to scrape himself?",
+  "options": [
+    "A sharp stone",
+    "A piece of broken pottery",
+    "A knife",
+    "A rough cloth"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [
+    {
+      "name": "Ashes",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job took a piece of broken pottery and scraped himself with it as he sat among the ashes."
+}

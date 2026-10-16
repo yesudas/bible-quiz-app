@@ -1,0 +1,32 @@
+{
+  "id": "19-142-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 142,
+  "verse_reference": "Psalm 142:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 142, what did David pour out before the LORD?",
+  "options": [
+    "Oil",
+    "Water",
+    "His complaint",
+    "His wine"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"I pour out before him my complaint; before him I tell my trouble.\""
+}

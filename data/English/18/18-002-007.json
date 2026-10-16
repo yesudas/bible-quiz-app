@@ -1,0 +1,35 @@
+{
+  "id": "18-002-007",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 2,
+  "verse_reference": "Job 2:9",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who told Job, \"Curse God and die!\"?",
+  "options": [
+    "His wife",
+    "Eliphaz",
+    "Satan",
+    "His servant"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Temptation",
+    "Suffering",
+    "Marriage"
+  ],
+  "characters": [
+    "Job",
+    "Job's wife"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job's wife asked if he was still maintaining his integrity and told him, 'Curse God and die!'"
+}

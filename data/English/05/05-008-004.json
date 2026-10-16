@@ -1,0 +1,33 @@
+{
+  "id": "05-008-004",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 8,
+  "verse_reference": "Deuteronomy 8:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Moses say did NOT happen to Israel during their forty years in the wilderness?",
+  "options": [
+    "Their clothes did not wear out and their feet did not swell",
+    "They never grew hungry",
+    "They never grew tired",
+    "They never faced enemies"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Faith",
+    "Promise"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses reminded them that during those forty years their clothes did not wear out and their feet did not swell, showing God's constant care."
+}

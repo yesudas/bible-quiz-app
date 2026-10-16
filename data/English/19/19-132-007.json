@@ -1,0 +1,34 @@
+{
+  "id": "19-132-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 132,
+  "verse_reference": "Psalm 132:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What oath did the LORD swear to David in Psalm 132?",
+  "options": [
+    "David would build a great temple",
+    "David would live forever",
+    "One of David's descendants would sit on his throne",
+    "David would defeat Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Promise",
+    "Prophecy"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD swore to David, \"One of your own descendants I will place on your throne.\""
+}

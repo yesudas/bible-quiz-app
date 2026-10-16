@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Wadi-of-Egypt",
+    "label": "Wadi of Egypt",
+    "count": 3,
+    "paths": [
+        "English/11/11-008-016.json",
+        "English/12/12-024-005.json",
+        "English/14/14-007-006.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "21-007-004",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 7,
+  "verse_reference": "Ecclesiastes 7:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What does the Teacher compare the laughter of fools to?",
+  "options": [
+    "The crackling of thorns under the pot",
+    "The roaring of a lion",
+    "The wind in the trees",
+    "The noise of a storm"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Like the crackling of thorns under the pot, so is the laughter of fools.\" It is loud but quickly gone."
+}

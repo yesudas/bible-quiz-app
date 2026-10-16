@@ -1,0 +1,31 @@
+{
+  "id": "13-025-007",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 25,
+  "verse_reference": "1 Chronicles 25:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How were the musicians' duties assigned?",
+  "options": [
+    "The oldest chose first",
+    "The best singers chose first",
+    "Young and old, teacher and student alike cast lots",
+    "The king chose each one"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Justice",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Young and old alike, teacher as well as student, cast lots for their duties."
+}

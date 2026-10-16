@@ -1,0 +1,34 @@
+{
+  "id": "09-019-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 19,
+  "verse_reference": "1 Samuel 19:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Michal explain to Saul why she helped David?",
+  "options": [
+    "She said David was innocent",
+    "She said Samuel told her to",
+    "She said David threatened to kill her if she didn't let him go",
+    "She said she was afraid of Jonathan"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Marriage",
+    "Family"
+  ],
+  "characters": [
+    "Michal",
+    "Saul",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Michal told Saul that David said to her, \"Let me get away. Why should I kill you?\""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "13-017-005",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 17,
+  "verse_reference": "1 Chronicles 17:7",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "From where did God say He took David to be ruler over Israel?",
+  "options": [
+    "From the army",
+    "From the pasture, following the flock",
+    "From the palace of Saul",
+    "From the house of the priests"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Grace"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"I took you from the pasture, from following the flock, to be ruler over my people Israel.\""
+}

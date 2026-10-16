@@ -1,0 +1,33 @@
+{
+  "id": "05-001-004",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 1,
+  "verse_reference": "Deuteronomy 1:15-16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What role did Moses give to the wise leaders he chose from the tribes?",
+  "options": [
+    "Priests over the tabernacle",
+    "Commanders of the army only",
+    "Spies to explore the land",
+    "Officials and judges over the people"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Wisdom",
+    "Law"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses appointed wise and respected men from the tribes as officials and judges to lead the people and settle their disputes."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "09-010-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 10,
+  "verse_reference": "1 Samuel 10:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "At Gibeah of God, whom would Saul meet coming down from the high place?",
+  "options": [
+    "A group of soldiers",
+    "The elders of Benjamin",
+    "His father Kish",
+    "A procession of prophets playing music and prophesying"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Holy Spirit",
+    "Worship"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Gibeah of God",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul would meet a procession of prophets with lyres, timbrels, pipes and harps, and they would be prophesying."
+}

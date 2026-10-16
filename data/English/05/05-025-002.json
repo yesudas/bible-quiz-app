@@ -1,0 +1,31 @@
+{
+  "id": "05-025-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 25,
+  "verse_reference": "Deuteronomy 25:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was there a limit on the number of lashes a guilty person could receive?",
+  "options": [
+    "To save the judges' time",
+    "Because the law was rarely enforced",
+    "So that a fellow Israelite would not be degraded",
+    "So the person could pay a fine instead"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Justice",
+    "Mercy",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The punishment could not exceed forty lashes, so that a fellow Israelite would not be degraded in the eyes of others."
+}

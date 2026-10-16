@@ -1,0 +1,39 @@
+{
+  "id": "05-011-009",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 11,
+  "verse_reference": "Deuteronomy 11:29",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "On which mountain was the blessing to be proclaimed, and on which the curse?",
+  "options": [
+    "Blessing on Sinai, curse on Horeb",
+    "Blessing on Gerizim, curse on Ebal",
+    "Blessing on Nebo, curse on Pisgah",
+    "Blessing on Hor, curse on Seir"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mount Gerizim",
+      "type": "mountain"
+    },
+    {
+      "name": "Mount Ebal",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses said the blessings were to be proclaimed on Mount Gerizim and the curses on Mount Ebal when Israel entered the land."
+}

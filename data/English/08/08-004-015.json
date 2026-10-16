@@ -1,0 +1,34 @@
+{
+  "id": "08-004-015",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 4,
+  "verse_reference": "Ruth 4:18-22",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "Which list is in the correct order, from oldest to youngest?",
+  "options": [
+    "Boaz, Obed, Jesse, David",
+    "Obed, Boaz, Jesse, David",
+    "Boaz, Jesse, Obed, David",
+    "Jesse, Boaz, Obed, David"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Boaz",
+    "Obed",
+    "Jesse",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Boaz was the father of Obed, Obed the father of Jesse, and Jesse the father of David."
+}

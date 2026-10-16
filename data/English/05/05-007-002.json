@@ -1,0 +1,31 @@
+{
+  "id": "05-007-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 7,
+  "verse_reference": "Deuteronomy 7:3-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did God forbid Israel from intermarrying with the nations of the land?",
+  "options": [
+    "Because it was too costly",
+    "Because the nations were poor",
+    "Because it would weaken their armies",
+    "Because it would turn their children away to worship other gods"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Marriage",
+    "Worship",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God forbade intermarriage because it would turn Israel's children away from Him to serve other gods, bringing His anger against them."
+}

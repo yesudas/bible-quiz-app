@@ -1,0 +1,36 @@
+{
+  "id": "20-030-008",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 30,
+  "verse_reference": "Proverbs 30:26",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 30:26, where do hyraxes make their home?",
+  "options": [
+    "In the sea",
+    "In the crags",
+    "In the desert sand",
+    "In tall trees"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Crags",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 30:26 says hyraxes are creatures of little power, yet they make their home in the crags."
+}

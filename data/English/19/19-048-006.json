@@ -1,0 +1,35 @@
+{
+  "id": "19-048-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 48,
+  "verse_reference": "Psalm 48:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Psalm 48:12, what are the people told to count as they walk around Zion?",
+  "options": [
+    "Her gates",
+    "Her towers",
+    "Her people",
+    "Her stones"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 48:12 says, \"Walk about Zion, go around her, count her towers.\""
+}

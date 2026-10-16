@@ -1,0 +1,38 @@
+{
+  "id": "14-035-010",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 35,
+  "verse_reference": "2 Chronicles 35:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Josiah do instead of turning away from Necho?",
+  "options": [
+    "He sent gifts",
+    "He disguised himself and went to fight",
+    "He prayed for peace",
+    "He hid in Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Obedience"
+  ],
+  "characters": [
+    "Josiah",
+    "Necho"
+  ],
+  "places": [
+    {
+      "name": "Plain of Megiddo",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Josiah would not turn away; he disguised himself to engage Necho in battle and would not listen to what Necho said at God's command."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "09-027-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 27,
+  "verse_reference": "1 Samuel 27:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did David decide to escape to the land of the Philistines?",
+  "options": [
+    "He wanted to fight for the Philistines",
+    "Achish invited him",
+    "He thought Saul would one day destroy him",
+    "Samuel told him to go"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution",
+    "Suffering"
+  ],
+  "characters": [
+    "David",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Philistia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David thought, \"One of these days I will be destroyed by the hand of Saul. The best thing I can do is to escape to the land of the Philistines.\""
+}

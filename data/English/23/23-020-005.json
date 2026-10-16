@@ -1,0 +1,38 @@
+{
+  "id": "23-020-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 20,
+  "verse_reference": "Isaiah 20:5-6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What lesson would the people learn when Egypt and Cush were defeated?",
+  "options": [
+    "That trusting in Egypt and Cush could not save them",
+    "That Assyria was their friend",
+    "That they should move to Egypt",
+    "That idols were stronger than armies"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Cush",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 20:5-6 says those who trusted in Cush and boasted in Egypt would be afraid and ashamed, saying, 'See what has happened to those we relied on.'"
+}

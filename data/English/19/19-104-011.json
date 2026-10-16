@@ -1,0 +1,31 @@
+{
+  "id": "19-104-011",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 104,
+  "verse_reference": "Psalm 104:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When the lions roar for their prey, from whom do they seek their food?",
+  "options": [
+    "From the shepherds",
+    "From the forest",
+    "From each other",
+    "From God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation",
+    "Provision"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 104 says the lions roar for their prey and seek their food from God, showing He provides for all creatures."
+}

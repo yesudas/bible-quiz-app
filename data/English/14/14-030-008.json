@@ -1,0 +1,33 @@
+{
+  "id": "14-030-008",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 30,
+  "verse_reference": "2 Chronicles 30:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the hand of God do in Judah?",
+  "options": [
+    "Gave them unity of mind to carry out the command",
+    "Sent rain on their fields",
+    "Defeated Assyria",
+    "Made the temple bigger"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Judah the hand of God was on the people to give them unity of mind to carry out what the king and his officials had ordered."
+}

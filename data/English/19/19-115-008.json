@@ -1,0 +1,32 @@
+{
+  "id": "19-115-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 115,
+  "verse_reference": "Psalm 115:10",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Besides all Israel, which family's house does Psalm 115 call to trust in the LORD?",
+  "options": [
+    "The house of David",
+    "The house of Jacob",
+    "The house of Saul",
+    "The house of Aaron"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Worship"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm says, \"House of Aaron, trust in the LORD—he is their help and shield.\""
+}

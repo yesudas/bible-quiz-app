@@ -1,0 +1,36 @@
+{
+  "id": "14-027-005",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 27,
+  "verse_reference": "2 Chronicles 27:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which people did Jotham conquer in war?",
+  "options": [
+    "The Philistines",
+    "The Ammonites",
+    "The Edomites",
+    "The Arameans"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jotham"
+  ],
+  "places": [
+    {
+      "name": "Ammon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jotham made war on the king of the Ammonites and conquered them."
+}

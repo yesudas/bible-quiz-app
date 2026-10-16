@@ -1,0 +1,33 @@
+{
+  "id": "19-023-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 23,
+  "verse_reference": "Psalm 23:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 23:3, why does the LORD guide David along the right paths?",
+  "options": [
+    "For his name's sake",
+    "Because David is a king",
+    "Because David is strong",
+    "So David will become rich"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Guidance",
+    "Worship"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 23:3 says, \"He guides me along the right paths for his name's sake.\""
+}

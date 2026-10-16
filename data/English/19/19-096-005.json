@@ -1,0 +1,31 @@
+{
+  "id": "19-096-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 96,
+  "verse_reference": "Psalm 96:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 96:12, what will sing for joy before the LORD?",
+  "options": [
+    "All the trees of the forest",
+    "All the birds of the air",
+    "All the fish of the sea",
+    "All the stars of heaven"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm says, \"Let all the trees of the forest sing for joy.\""
+}

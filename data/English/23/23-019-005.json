@@ -1,0 +1,40 @@
+{
+  "id": "23-019-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 19,
+  "verse_reference": "Isaiah 19:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Isaiah say about the officials of Zoan and the counselors of Pharaoh?",
+  "options": [
+    "They were wise and good",
+    "They were fools giving senseless advice",
+    "They were faithful to the LORD",
+    "They were prophets"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Pharaoh"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Zoan",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 19:11 says the officials of Zoan are nothing but fools, and the wise counselors of Pharaoh give senseless advice."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "06-005-003",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 5,
+  "verse_reference": "Joshua 5:4-7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the men of Israel need to be circumcised at this time?",
+  "options": [
+    "They had forgotten the law of Moses",
+    "The priests had refused to do it earlier",
+    "It was the first year of a new king",
+    "Those born in the wilderness had not been circumcised"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Obedience"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The men who left Egypt had died in the wilderness, and the sons born on the journey had not been circumcised."
+}

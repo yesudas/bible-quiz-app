@@ -1,0 +1,43 @@
+{
+  "id": "23-013-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 13,
+  "verse_reference": "Isaiah 13:19",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which city was called 'the jewel of kingdoms' and would be overthrown like Sodom and Gomorrah?",
+  "options": [
+    "Jerusalem",
+    "Samaria",
+    "Nineveh",
+    "Babylon"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Pride"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    },
+    {
+      "name": "Sodom",
+      "type": "city"
+    },
+    {
+      "name": "Gomorrah",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 13:19 says Babylon, the jewel of kingdoms, would be overthrown by God like Sodom and Gomorrah."
+}

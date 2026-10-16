@@ -1,0 +1,34 @@
+{
+  "id": "07-021-009",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 21,
+  "verse_reference": "Judges 21:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What event did the elders remember was held every year in Shiloh?",
+  "options": [
+    "The annual festival of the LORD",
+    "A wedding feast for the tribes",
+    "The harvest market of Moab",
+    "Passover at Gilgal"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elders remembered that there was an annual festival of the LORD in Shiloh."
+}

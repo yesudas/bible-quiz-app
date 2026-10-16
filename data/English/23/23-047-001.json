@@ -1,0 +1,35 @@
+{
+  "id": "23-047-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 47,
+  "verse_reference": "Isaiah 47:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Where was Virgin Daughter Babylon told to sit in Isaiah 47:1?",
+  "options": [
+    "On a golden throne",
+    "In the temple",
+    "In the dust",
+    "By the river"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Pride"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 47:1 says, 'Go down, sit in the dust, Virgin Daughter Babylon; sit on the ground without a throne.'"
+}

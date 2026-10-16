@@ -1,0 +1,35 @@
+{
+  "id": "12-017-015",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 17,
+  "verse_reference": "2 Kings 17:33",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did the new people of Samaria worship?",
+  "options": [
+    "They worshipped only the LORD",
+    "They worshipped no god at all",
+    "They worshipped the LORD but also served their own gods",
+    "They worshipped only Baal"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Idolatry",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They worshipped the LORD, but they also served their own gods in keeping with the customs of the nations they came from."
+}

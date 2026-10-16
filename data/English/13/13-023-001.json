@@ -1,0 +1,34 @@
+{
+  "id": "13-023-001",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 23,
+  "verse_reference": "1 Chronicles 23:1",
+  "question_type": "WHEN",
+  "difficulty": "Easy",
+  "question": "When did David make his son Solomon king over Israel?",
+  "options": [
+    "When David was old and full of years",
+    "After David's death",
+    "When Solomon was a baby",
+    "After Absalom's rebellion"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "David",
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When David was old and full of years, he made his son Solomon king over Israel."
+}

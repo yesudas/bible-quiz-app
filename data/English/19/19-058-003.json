@@ -1,0 +1,31 @@
+{
+  "id": "19-058-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 58,
+  "verse_reference": "Psalm 58:4",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "In Psalm 58:4, the wicked are compared to which deaf animal that has stopped its ears?",
+  "options": [
+    "A lion",
+    "A donkey",
+    "A cobra",
+    "A wolf"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The wicked have venom like a snake and are like a deaf cobra that has stopped its ears."
+}

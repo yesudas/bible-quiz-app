@@ -1,0 +1,34 @@
+{
+  "id": "07-020-013",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 20,
+  "verse_reference": "Judges 20:29",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Israel set around Gibeah before the third battle?",
+  "options": [
+    "A siege tower",
+    "A ring of fire",
+    "A deep trench",
+    "An ambush"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gibeah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel set an ambush around Gibeah before attacking the Benjamites the third time."
+}

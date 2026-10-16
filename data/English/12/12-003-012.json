@@ -1,0 +1,39 @@
+{
+  "id": "12-003-012",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 3,
+  "verse_reference": "2 Kings 3:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Elisha agree to help the kings?",
+  "options": [
+    "Because Joram promised to destroy Baal worship",
+    "Because the king of Edom paid him",
+    "Because he respected King Jehoshaphat of Judah",
+    "Because Elijah had told him to"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Elisha",
+    "Jehoshaphat",
+    "Joram"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha told Joram that if he did not respect the presence of Jehoshaphat king of Judah, he would not even look at him."
+}

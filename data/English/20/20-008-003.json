@@ -1,0 +1,32 @@
+{
+  "id": "20-008-003",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 8,
+  "verse_reference": "Proverbs 8:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"To fear the LORD is to hate ______.\"",
+  "options": [
+    "evil",
+    "work",
+    "the poor",
+    "strangers"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 8:13 says to fear the LORD is to hate evil, and Wisdom hates pride and arrogance."
+}

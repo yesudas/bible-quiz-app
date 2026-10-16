@@ -1,0 +1,33 @@
+{
+  "id": "13-027-006",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 27,
+  "verse_reference": "1 Chronicles 27:24",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What happened to the count that Joab began?",
+  "options": [
+    "It was written in the book of the law",
+    "It was finished and read to the people",
+    "He did not finish it, and wrath came on Israel",
+    "It was given to Solomon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [
+    "Joab",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joab began to count the men but did not finish. Wrath came on Israel because of this census, and the number was not entered in the annals of King David."
+}

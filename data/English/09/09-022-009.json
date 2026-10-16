@@ -1,0 +1,32 @@
+{
+  "id": "09-022-009",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 22,
+  "verse_reference": "1 Samuel 22:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Saul's officials refuse to obey his order?",
+  "options": [
+    "They were unwilling to raise a hand against the priests of the LORD",
+    "They were afraid of David",
+    "They did not hear the order",
+    "They were friends with Doeg"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Obedience"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul ordered his guards to kill the priests of the LORD, but the king's officials were unwilling to raise a hand to strike them."
+}

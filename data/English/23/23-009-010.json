@@ -1,0 +1,30 @@
+{
+  "id": "23-009-010",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 9,
+  "verse_reference": "Isaiah 9:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Isaiah say about those who guided the people?",
+  "options": [
+    "They taught them well",
+    "They gave them food",
+    "They protected them",
+    "They misled them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 9:16 says, 'Those who guide this people mislead them, and those who are guided are led astray.'"
+}

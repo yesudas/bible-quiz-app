@@ -1,0 +1,33 @@
+{
+  "id": "19-061-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 61,
+  "verse_reference": "Psalm 61:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Lead me to the ____ that is higher than I.\"",
+  "options": [
+    "mountain",
+    "tower",
+    "rock",
+    "city"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David asks God to lead him to the rock that is higher than he is."
+}

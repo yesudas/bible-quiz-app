@@ -1,0 +1,36 @@
+{
+  "id": "14-019-009",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 19,
+  "verse_reference": "2 Chronicles 19:11",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was the chief priest in charge of any matter concerning the LORD?",
+  "options": [
+    "Amariah",
+    "Zadok",
+    "Zebadiah",
+    "Jehoiada"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Worship"
+  ],
+  "characters": [
+    "Amariah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amariah the chief priest would be over them in any matter concerning the LORD."
+}

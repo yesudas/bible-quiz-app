@@ -1,0 +1,32 @@
+{
+  "id": "19-086-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 86,
+  "verse_reference": "Psalm 86:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In Psalm 86:1, why does David ask the LORD to hear and answer him?",
+  "options": [
+    "Because he is a king",
+    "Because he is poor and needy",
+    "Because he has many enemies",
+    "Because he has made an offering"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David prays, \"Hear me, LORD, and answer me, for I am poor and needy.\""
+}

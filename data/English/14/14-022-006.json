@@ -1,0 +1,37 @@
+{
+  "id": "14-022-006",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 22,
+  "verse_reference": "2 Chronicles 22:5",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Against which king of Aram did Ahaziah go to war with Joram son of Ahab?",
+  "options": [
+    "Ben-Hadad",
+    "Zerah",
+    "Hazael",
+    "Rezin"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Ahaziah",
+    "Joram",
+    "Hazael"
+  ],
+  "places": [
+    {
+      "name": "Ramoth Gilead",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahaziah went with Joram son of Ahab king of Israel to war against Hazael king of Aram at Ramoth Gilead."
+}

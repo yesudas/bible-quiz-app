@@ -1,0 +1,34 @@
+{
+  "id": "16-006-009",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 6,
+  "verse_reference": "Nehemiah 6:12",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who had hired Shemaiah to give Nehemiah the false prophecy?",
+  "options": [
+    "Tobiah and Sanballat",
+    "Geshem and the Arabs",
+    "The nobles of Tekoa",
+    "The king of Persia"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution",
+    "Sin"
+  ],
+  "characters": [
+    "Shemaiah",
+    "Tobiah",
+    "Sanballat"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah realized God had not sent Shemaiah; Tobiah and Sanballat had hired him to intimidate Nehemiah."
+}

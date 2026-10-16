@@ -1,0 +1,35 @@
+{
+  "id": "12-007-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 7,
+  "verse_reference": "2 Kings 7:3-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the four men with leprosy decide to go to the Aramean camp?",
+  "options": [
+    "Elisha told them to go",
+    "They wanted to spy for the king",
+    "They would die of hunger anyway if they stayed",
+    "They were friends with the Arameans"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Aramean camp",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They reasoned that they would die if they stayed or went into the city, so they might as well go to the Arameans, who might spare them."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "19-024-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 24,
+  "verse_reference": "Psalm 24:3-4",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 24:4, who may ascend the mountain of the LORD?",
+  "options": [
+    "The one who brings the biggest gift",
+    "The one who is a priest",
+    "The one who has clean hands and a pure heart",
+    "The one who was born in Jerusalem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holiness",
+    "Worship"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "The mountain of the LORD",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 24:3-4 says the one who may ascend the mountain of the LORD is the one who has clean hands and a pure heart."
+}

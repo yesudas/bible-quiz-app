@@ -28,11 +28,27 @@ document.addEventListener('DOMContentLoaded', () => {
     const shareUrlInput = document.getElementById('shareUrlInput');
     const shareCopyBtn = document.getElementById('shareCopyBtn');
     const shareResultMsg = document.getElementById('shareResultMsg');
-    const embedBtn = document.getElementById('embedQuizBtn');
-    const embedResult = document.getElementById('embedResult');
-    const embedCodeInput = document.getElementById('embedCodeInput');
-    const embedCopyBtn = document.getElementById('embedCopyBtn');
-    const embedResultMsg = document.getElementById('embedResultMsg');
+    const embedAppBtn = document.getElementById('embedAppBtn');
+    const embedAppResult = document.getElementById('embedAppResult');
+    const embedAppCodeInput = document.getElementById('embedAppCodeInput');
+    const embedAppCopyBtn = document.getElementById('embedAppCopyBtn');
+    const embedAppResultMsg = document.getElementById('embedAppResultMsg');
+    const embedQuizBtn = document.getElementById('embedQuizBtn');
+    const embedQuizResult = document.getElementById('embedQuizResult');
+    const embedQuizCodeInput = document.getElementById('embedQuizCodeInput');
+    const embedQuizCopyBtn = document.getElementById('embedQuizCopyBtn');
+    const embedQuizResultMsg = document.getElementById('embedQuizResultMsg');
+    const resultPanels = [shareResult, embedAppResult, embedQuizResult];
+
+    // Share Quiz / Embed App / Embed Quiz each reveal their own result panel
+    // below the form actions — only one should be visible at a time, so
+    // showing one hides whichever of the other two was left open.
+    function showResultPanel(panel) {
+        resultPanels.forEach((el) => {
+            if (el) el.hidden = el !== panel;
+        });
+    }
+
     const booksOverviewSection = document.getElementById('booksOverviewSection');
     const bookLinksList = document.getElementById('bookLinksList');
     const topicsOverviewSection = document.getElementById('topicsOverviewSection');
@@ -366,7 +382,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     async function loadCatalog(lang) {
-        const res = await fetch(`api/catalog.php?lang=${encodeURIComponent(lang)}`);
+        const v = encodeURIComponent(window.QUIZ_VERSION || '');
+        const res = await fetch(`api/catalog.php?lang=${encodeURIComponent(lang)}&v=${v}`);
         if (!res.ok) {
             indexHint.textContent = 'Quiz not found. Ask the admin to add quiz.';
             return;
@@ -763,7 +780,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const basePath = location.pathname.replace(/[^/]*$/, '');
                 const shareUrl = `${location.origin}${basePath}?test=${data.token}`;
 
-                if (shareResult) shareResult.hidden = false;
+                showResultPanel(shareResult);
                 if (shareUrlInput) shareUrlInput.value = shareUrl;
                 showShareMessage('', false);
 
@@ -775,7 +792,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     }
                 }
             } catch (err) {
-                if (shareResult) shareResult.hidden = false;
+                showResultPanel(shareResult);
                 showShareMessage(err.message || 'Could not create a shareable link.', true);
             } finally {
                 shareBtn.disabled = false;
@@ -797,40 +814,84 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    function showEmbedMessage(message, isError) {
-        if (!embedResultMsg) return;
-        embedResultMsg.textContent = message;
-        embedResultMsg.classList.toggle('error', Boolean(isError));
+    function showEmbedAppMessage(message, isError) {
+        if (!embedAppResultMsg) return;
+        embedAppResultMsg.textContent = message;
+        embedAppResultMsg.classList.toggle('error', Boolean(isError));
     }
 
     // Unlike Share Quiz, the embed code needs no server round trip — it's
     // just a plain <iframe> pointing at embed.php (which has its own full
     // setup form), carrying along the currently selected language.
-    if (embedBtn) {
-        embedBtn.addEventListener('click', () => {
+    if (embedAppBtn) {
+        embedAppBtn.addEventListener('click', () => {
             const basePath = location.pathname.replace(/[^/]*$/, '');
             const embedSrc = `${location.origin}${basePath}embed.php?lang=${encodeURIComponent(langSelect.value)}`;
             const embedCode = `<iframe src="${embedSrc}" width="100%" height="1100" style="border:0;max-width:600px;" loading="lazy" title="Bible Quiz"></iframe>`;
 
-            if (embedResult) embedResult.hidden = false;
-            if (embedCodeInput) {
-                embedCodeInput.value = embedCode;
-                embedCodeInput.focus();
-                embedCodeInput.select();
+            showResultPanel(embedAppResult);
+            if (embedAppCodeInput) {
+                embedAppCodeInput.value = embedCode;
+                embedAppCodeInput.focus();
+                embedAppCodeInput.select();
             }
-            showEmbedMessage('', false);
+            showEmbedAppMessage('', false);
         });
     }
 
-    if (embedCopyBtn) {
-        embedCopyBtn.addEventListener('click', async () => {
-            if (!embedCodeInput || !embedCodeInput.value) return;
-            embedCodeInput.select();
+    if (embedAppCopyBtn) {
+        embedAppCopyBtn.addEventListener('click', async () => {
+            if (!embedAppCodeInput || !embedAppCodeInput.value) return;
+            embedAppCodeInput.select();
             try {
-                await navigator.clipboard.writeText(embedCodeInput.value);
-                showEmbedMessage('Copied to clipboard!', false);
+                await navigator.clipboard.writeText(embedAppCodeInput.value);
+                showEmbedAppMessage('Copied to clipboard!', false);
             } catch (err) {
-                showEmbedMessage('Copy failed — select and copy manually.', true);
+                showEmbedAppMessage('Copy failed — select and copy manually.', true);
+            }
+        });
+    }
+
+    function showEmbedQuizMessage(message, isError) {
+        if (!embedQuizResultMsg) return;
+        embedQuizResultMsg.textContent = message;
+        embedQuizResultMsg.classList.toggle('error', Boolean(isError));
+    }
+
+    // Embed Quiz skips the setup form entirely — the iframe points at
+    // embed-quiz.php with the exact selection currently on this form (same
+    // fields Share Quiz reads via FormData), and embed-quiz.php forwards the
+    // recognized ones straight into quiz.php?embed=1 server-side.
+    if (embedQuizBtn) {
+        embedQuizBtn.addEventListener('click', () => {
+            if (!validateSelection()) {
+                return;
+            }
+
+            const params = new URLSearchParams(new FormData(form));
+            const basePath = location.pathname.replace(/[^/]*$/, '');
+            const embedQuizSrc = `${location.origin}${basePath}embed-quiz.php?${params.toString()}`;
+            const embedQuizCode = `<iframe src="${embedQuizSrc}" width="100%" height="1100" style="border:0;max-width:600px;" loading="lazy" title="Bible Quiz"></iframe>`;
+
+            showResultPanel(embedQuizResult);
+            if (embedQuizCodeInput) {
+                embedQuizCodeInput.value = embedQuizCode;
+                embedQuizCodeInput.focus();
+                embedQuizCodeInput.select();
+            }
+            showEmbedQuizMessage('', false);
+        });
+    }
+
+    if (embedQuizCopyBtn) {
+        embedQuizCopyBtn.addEventListener('click', async () => {
+            if (!embedQuizCodeInput || !embedQuizCodeInput.value) return;
+            embedQuizCodeInput.select();
+            try {
+                await navigator.clipboard.writeText(embedQuizCodeInput.value);
+                showEmbedQuizMessage('Copied to clipboard!', false);
+            } catch (err) {
+                showEmbedQuizMessage('Copy failed — select and copy manually.', true);
             }
         });
     }

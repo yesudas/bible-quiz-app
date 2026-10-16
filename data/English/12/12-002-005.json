@@ -1,0 +1,41 @@
+{
+  "id": "12-002-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 2,
+  "verse_reference": "2 Kings 2:3,5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the company of the prophets at Bethel and Jericho already know?",
+  "options": [
+    "That the LORD was going to take Elijah away that day",
+    "That Elisha would become king",
+    "That Elijah would divide the Jordan",
+    "That bears would come out of the woods"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Elisha",
+    "Elijah"
+  ],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    },
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The prophets asked Elisha if he knew the LORD was going to take his master from him that day, and Elisha said, 'Yes, I know, so be quiet.'"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "18-012-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 12,
+  "verse_reference": "Job 12:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Job's words: \"But I have a mind as well as you; I am not ____ to you.\"",
+  "options": [
+    "kind",
+    "inferior",
+    "equal",
+    "faithful"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job told his friends, 'I have a mind as well as you; I am not inferior to you.'"
+}

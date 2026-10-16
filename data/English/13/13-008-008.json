@@ -1,0 +1,31 @@
+{
+  "id": "13-008-008",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 8,
+  "verse_reference": "1 Chronicles 8:40",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What skill are the sons of Ulam known for?",
+  "options": [
+    "Playing the harp",
+    "Working with bronze",
+    "Handling the bow as brave warriors",
+    "Farming the land"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "War"
+  ],
+  "characters": [
+    "Ulam"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 8:40 says the sons of Ulam were brave warriors who could handle the bow, with 150 sons and grandsons in all."
+}

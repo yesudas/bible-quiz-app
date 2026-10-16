@@ -1,0 +1,37 @@
+{
+  "id": "16-013-010",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 13,
+  "verse_reference": "Nehemiah 13:19",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When did Nehemiah order the gates of Jerusalem to be shut before the Sabbath?",
+  "options": [
+    "At noon on the day before",
+    "When the evening shadows fell before the Sabbath",
+    "At midnight",
+    "On the morning of the Sabbath"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Leadership"
+  ],
+  "characters": [
+    "Nehemiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When evening shadows fell on the gates before the Sabbath, Nehemiah ordered the doors shut and not opened until the Sabbath was over."
+}

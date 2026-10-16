@@ -1,0 +1,38 @@
+{
+  "id": "09-023-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 23,
+  "verse_reference": "1 Samuel 23:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Abiathar bring with him when he fled to David?",
+  "options": [
+    "The ark of the covenant",
+    "Goliath's sword",
+    "The bread of the Presence",
+    "The ephod"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Prayer"
+  ],
+  "characters": [
+    "Abiathar",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Keilah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abiathar son of Ahimelek had brought the ephod down with him when he fled to David at Keilah."
+}

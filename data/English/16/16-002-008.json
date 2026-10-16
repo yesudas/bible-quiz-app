@@ -1,0 +1,37 @@
+{
+  "id": "16-002-008",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 2,
+  "verse_reference": "Nehemiah 2:12-13",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When did Nehemiah go out to inspect the walls of Jerusalem?",
+  "options": [
+    "At noon with all the officials",
+    "At night with a few men",
+    "On the Sabbath with the priests",
+    "At sunrise with the army"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Nehemiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah set out during the night with a few others and examined the broken walls, without telling anyone what God had put in his heart."
+}

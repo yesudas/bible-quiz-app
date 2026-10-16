@@ -1,0 +1,36 @@
+{
+  "id": "17-006-002",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 6,
+  "verse_reference": "Esther 6:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the king hear recorded about Mordecai in the chronicles?",
+  "options": [
+    "That Mordecai had exposed a plot to kill the king",
+    "That Mordecai had paid a large tax",
+    "That Mordecai had built a gate",
+    "That Mordecai had refused to bow to Haman"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Providence",
+    "Faithfulness"
+  ],
+  "characters": [
+    "Xerxes",
+    "Mordecai",
+    "Bigthana",
+    "Teresh"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "It was recorded that Mordecai had exposed Bigthana and Teresh, who had conspired to assassinate King Xerxes."
+}

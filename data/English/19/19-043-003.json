@@ -1,0 +1,38 @@
+{
+  "id": "19-043-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 43,
+  "verse_reference": "Psalm 43:3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 43:3, where does the writer want God's light to bring him?",
+  "options": [
+    "To his holy mountain",
+    "To the river Jordan",
+    "To the land of Egypt",
+    "To his father's house"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Guidance"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "His holy mountain",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 43:3 says, \"Let them bring me to your holy mountain, to the place where you dwell.\""
+}

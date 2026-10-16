@@ -1,0 +1,34 @@
+{
+  "id": "09-005-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 5,
+  "verse_reference": "1 Samuel 5:10-11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When the ark came to Ekron, what did the people there cry out?",
+  "options": [
+    "\"Let us keep it as a prize!\"",
+    "\"They have brought the ark to kill us!\"",
+    "\"Let us offer sacrifices to it!\"",
+    "\"Take it to Dagon's temple!\""
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ekron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people of Ekron cried out that the ark had been brought to them to kill them, and they asked for it to be sent back to its own place."
+}

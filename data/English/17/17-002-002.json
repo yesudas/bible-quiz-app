@@ -1,0 +1,40 @@
+{
+  "id": "17-002-002",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 2,
+  "verse_reference": "Esther 2:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was the king's eunuch in charge of the women in the harem?",
+  "options": [
+    "Hegai",
+    "Memukan",
+    "Haman",
+    "Shaashgaz"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Hegai"
+  ],
+  "places": [
+    {
+      "name": "King's harem",
+      "type": "palace"
+    },
+    {
+      "name": "Susa",
+      "type": "citadel"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The young women were placed under the care of Hegai, the king's eunuch who was in charge of the women."
+}

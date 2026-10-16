@@ -1,0 +1,38 @@
+{
+  "id": "13-010-006",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 10,
+  "verse_reference": "1 Chronicles 10:11-12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which people took the bodies of Saul and his sons and buried them?",
+  "options": [
+    "The men of Bethlehem",
+    "The priests of Nob",
+    "The valiant men of Jabesh Gilead",
+    "The soldiers of David"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Honor",
+    "Suffering"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Jabesh Gilead",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the people of Jabesh Gilead heard what the Philistines had done, their valiant men took the bodies to Jabesh and buried their bones."
+}

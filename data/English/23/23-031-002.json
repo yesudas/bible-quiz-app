@@ -1,0 +1,35 @@
+{
+  "id": "23-031-002",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 31,
+  "verse_reference": "Isaiah 31:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'But the Egyptians are mere mortals and not ______; their horses are flesh and not spirit.'",
+  "options": [
+    "kings",
+    "God",
+    "angels",
+    "giants"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 31:3 says, 'But the Egyptians are mere mortals and not God; their horses are flesh and not spirit.'"
+}

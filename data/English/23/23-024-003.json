@@ -1,0 +1,30 @@
+{
+  "id": "23-024-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 24,
+  "verse_reference": "Isaiah 24:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Isaiah 24:5, what had the people of the earth broken?",
+  "options": [
+    "The tablets of stone",
+    "The walls of Jerusalem",
+    "The altar of the LORD",
+    "The everlasting covenant"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Sin",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 24:5 says they disobeyed the laws, violated the statutes and broke the everlasting covenant."
+}

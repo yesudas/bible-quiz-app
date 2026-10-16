@@ -1,0 +1,38 @@
+{
+  "id": "06-014-011",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 14,
+  "verse_reference": "Joshua 14:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Hebron belong to Caleb?",
+  "options": [
+    "He paid for it with silver",
+    "He was the oldest man in Israel",
+    "He followed the LORD wholeheartedly",
+    "He was Joshua's brother"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Obedience"
+  ],
+  "characters": [
+    "Caleb"
+  ],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebron belonged to Caleb because he followed the LORD, the God of Israel, wholeheartedly."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "09-024-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 24,
+  "verse_reference": "1 Samuel 24:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Saul say he knew about David's future?",
+  "options": [
+    "That David would die young",
+    "That David would surely be king",
+    "That David would become a priest",
+    "That David would leave Israel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Saul",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul said, \"I know that you will surely be king and that the kingdom of Israel will be established in your hands.\""
+}

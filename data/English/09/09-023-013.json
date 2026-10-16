@@ -1,0 +1,37 @@
+{
+  "id": "09-023-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 23,
+  "verse_reference": "1 Samuel 23:26-27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Saul stop chasing David in the Desert of Maon, just as he was closing in?",
+  "options": [
+    "David surrendered",
+    "The LORD spoke to Saul",
+    "A messenger said the Philistines were raiding the land",
+    "Jonathan stopped him"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "Saul",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Desert of Maon",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul and his forces were closing in, but a messenger came saying, \"Come quickly! The Philistines are raiding the land.\" So Saul broke off his pursuit."
+}

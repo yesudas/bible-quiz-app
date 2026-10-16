@@ -1,0 +1,31 @@
+{
+  "id": "20-015-001",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 15,
+  "verse_reference": "Proverbs 15:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"A ______ answer turns away wrath, but a harsh word stirs up anger.\"",
+  "options": [
+    "quick",
+    "gentle",
+    "loud",
+    "clever"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 15:1 says a gentle answer turns away wrath, but a harsh word stirs up anger."
+}

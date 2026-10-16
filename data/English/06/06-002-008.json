@@ -1,0 +1,42 @@
+{
+  "id": "06-002-008",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 2,
+  "verse_reference": "Joshua 2:9-10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which great act of the LORD did Rahab say the people of Jericho had heard about?",
+  "options": [
+    "The LORD dried up the water of the Red Sea",
+    "The LORD made the sun stand still",
+    "The LORD sent fire on Mount Carmel",
+    "The LORD made the walls of Egypt fall"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Faith"
+  ],
+  "characters": [
+    "Rahab"
+  ],
+  "places": [
+    {
+      "name": "Red Sea",
+      "type": "sea"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rahab said they had heard how the LORD dried up the water of the Red Sea when Israel came out of Egypt."
+}

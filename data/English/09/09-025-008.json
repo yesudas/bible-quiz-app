@@ -1,0 +1,33 @@
+{
+  "id": "09-025-008",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 25,
+  "verse_reference": "1 Samuel 25:18-19",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Abigail quickly do when she heard what had happened?",
+  "options": [
+    "She ran to hide",
+    "She sent for Saul",
+    "She scolded the servants",
+    "She loaded donkeys with food to take to David"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Abigail",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abigail quickly took bread, wine, sheep, grain, raisins and figs, and loaded them on donkeys to take to David."
+}

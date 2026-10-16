@@ -1,0 +1,30 @@
+{
+  "id": "20-015-006",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 15,
+  "verse_reference": "Proverbs 15:17",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 15:17, a small serving of vegetables with love is better than what?",
+  "options": [
+    "Bread with water",
+    "A fattened calf with hatred",
+    "A feast with friends",
+    "Fruit with honey"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 15:17 says better a small serving of vegetables with love than a fattened calf with hatred."
+}

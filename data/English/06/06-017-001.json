@@ -1,0 +1,41 @@
+{
+  "id": "06-017-001",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 17,
+  "verse_reference": "Joshua 17:1",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was Manasseh's firstborn and the ancestor of the Gileadites?",
+  "options": [
+    "Hepher",
+    "Makir",
+    "Zelophehad",
+    "Kenaz"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Makir",
+    "Manasseh"
+  ],
+  "places": [
+    {
+      "name": "Gilead",
+      "type": "region"
+    },
+    {
+      "name": "Bashan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Makir was Manasseh's firstborn and the ancestor of the Gileadites; he received Gilead and Bashan."
+}

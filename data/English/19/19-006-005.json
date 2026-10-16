@@ -1,0 +1,33 @@
+{
+  "id": "19-006-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 6,
+  "verse_reference": "Psalm 6:6",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Psalm 6:6, what does David say he floods his bed with all night long?",
+  "options": [
+    "Weeping",
+    "Songs",
+    "Prayers",
+    "Sweat"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 6:6 says, \"All night long I flood my bed with weeping and drench my couch with tears.\""
+}

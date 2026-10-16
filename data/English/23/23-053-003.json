@@ -1,0 +1,30 @@
+{
+  "id": "23-053-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 53,
+  "verse_reference": "Isaiah 53:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'He was despised and ______ by mankind, a man of suffering, and familiar with pain.'",
+  "options": [
+    "forgotten",
+    "feared",
+    "rejected",
+    "praised"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Jesus"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 53:3 says, 'He was despised and rejected by mankind, a man of suffering, and familiar with pain.'"
+}

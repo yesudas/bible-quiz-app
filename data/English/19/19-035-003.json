@@ -1,0 +1,34 @@
+{
+  "id": "19-035-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 35,
+  "verse_reference": "Psalm 35:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Say to me, 'I am your ____.'\"",
+  "options": [
+    "shepherd",
+    "father",
+    "salvation",
+    "king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Faith"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 35:3 says, \"Say to me, 'I am your salvation.'\""
+}

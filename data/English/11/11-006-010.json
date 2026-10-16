@@ -1,0 +1,38 @@
+{
+  "id": "11-006-010",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 6,
+  "verse_reference": "1 Kings 6:23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Solomon make from olive wood to place in the inner sanctuary?",
+  "options": [
+    "Two lampstands",
+    "A pair of cherubim",
+    "Two tables",
+    "A throne"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Angels"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the inner sanctuary Solomon made a pair of cherubim out of olive wood, each ten cubits high."
+}

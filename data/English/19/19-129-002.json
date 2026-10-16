@@ -1,0 +1,30 @@
+{
+  "id": "19-129-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 129,
+  "verse_reference": "Psalm 129:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Psalm 129, what picture describes how badly Israel was oppressed?",
+  "options": [
+    "Plowmen plowed my back and made their furrows long",
+    "Lions tore my flesh",
+    "Floods covered my head",
+    "Fire burned my house"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Persecution"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel says, \"Plowmen have plowed my back and made their furrows long,\" a picture of deep suffering."
+}

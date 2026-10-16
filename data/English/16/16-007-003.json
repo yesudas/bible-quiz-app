@@ -1,0 +1,36 @@
+{
+  "id": "16-007-003",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 7,
+  "verse_reference": "Nehemiah 7:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was Hananiah, the commander of the citadel, chosen to help lead Jerusalem?",
+  "options": [
+    "He was the richest man in the city",
+    "He was related to the king",
+    "He was a man of integrity and feared God more than most people do",
+    "He had built the most of the wall"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Hananiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hananiah was chosen because he was a man of integrity and feared God more than most people do."
+}

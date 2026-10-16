@@ -1,0 +1,30 @@
+{
+  "id": "19-116-008",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 116,
+  "verse_reference": "Psalm 116:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Precious in the sight of the LORD is the death of his ______ servants.\"",
+  "options": [
+    "faithful",
+    "young",
+    "humble",
+    "holy"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 116:15 says the death of God's faithful servants is precious in His sight."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12-014-001",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 14,
+  "verse_reference": "2 Kings 14:1-2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which son of Joash became king of Judah at twenty-five and reigned twenty-nine years?",
+  "options": [
+    "Azariah",
+    "Amaziah",
+    "Jehoash",
+    "Jotham"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Amaziah",
+    "Joash"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amaziah son of Joash became king at twenty-five and reigned in Jerusalem twenty-nine years."
+}

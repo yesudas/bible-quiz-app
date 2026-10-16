@@ -1,0 +1,36 @@
+{
+  "id": "11-009-001",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 9,
+  "verse_reference": "1 Kings 9:1-2",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "After Solomon finished the temple and palace, how many times had the LORD now appeared to him?",
+  "options": [
+    "A second time",
+    "A third time",
+    "The first time",
+    "A seventh time"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Gibeon",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD appeared to Solomon a second time, as He had appeared to him at Gibeon."
+}

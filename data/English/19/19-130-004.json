@@ -1,0 +1,31 @@
+{
+  "id": "19-130-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 130,
+  "verse_reference": "Psalm 130:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In what did the psalmist put his hope while he waited for the LORD?",
+  "options": [
+    "In his own strength",
+    "In the king",
+    "In his friends",
+    "In God's word"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"I wait for the LORD, my whole being waits, and in his word I put my hope.\""
+}

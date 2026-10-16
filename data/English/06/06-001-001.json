@@ -1,0 +1,34 @@
+{
+  "id": "06-001-001",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 1,
+  "verse_reference": "Joshua 1:1-2",
+  "question_type": "WHEN",
+  "difficulty": "Easy",
+  "question": "When did the LORD speak to Joshua about leading Israel?",
+  "options": [
+    "After Moses died",
+    "Before Moses was born",
+    "After Israel left Egypt the first night",
+    "After the walls of Jericho fell"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Promise"
+  ],
+  "characters": [
+    "Joshua",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD spoke to Joshua after the death of Moses, telling him to lead the people across the Jordan."
+}

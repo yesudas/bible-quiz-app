@@ -1,0 +1,34 @@
+{
+  "id": "18-008-004",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 8,
+  "verse_reference": "Job 8:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Bildad claim about why Job's children had died?",
+  "options": [
+    "They were killed by the Sabeans",
+    "They died of old age",
+    "God took them to test Job's faith",
+    "They had sinned against God, so He gave them over to the penalty of their sin"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Suffering",
+    "Family"
+  ],
+  "characters": [
+    "Bildad",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Bildad said Job's children had sinned and God gave them over to the penalty of their sin. Chapter 1 does not say they died for their sin; this was Bildad's own claim."
+}

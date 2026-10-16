@@ -1,0 +1,31 @@
+{
+  "id": "14-013-015",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 13,
+  "verse_reference": "2 Chronicles 13:22",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "In whose writings were the other events of Abijah's reign recorded?",
+  "options": [
+    "Nathan",
+    "Shemaiah",
+    "Iddo",
+    "Ahijah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Abijah",
+    "Iddo"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The other events of Abijah's reign are written in the annotations of the prophet Iddo."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "12-003-003",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 3,
+  "verse_reference": "2 Kings 3:2-3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How was Joram's reign described?",
+  "options": [
+    "He did what was right like David",
+    "He was the most evil king of Israel",
+    "He destroyed all idols in Israel",
+    "He did evil, but not as his father and mother had done"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Leadership",
+    "Idolatry"
+  ],
+  "characters": [
+    "Joram",
+    "Ahab",
+    "Jezebel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joram did evil, but not as much as his father and mother. He removed the sacred stone of Baal but still clung to the sins of Jeroboam."
+}

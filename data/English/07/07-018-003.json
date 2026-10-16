@@ -1,0 +1,36 @@
+{
+  "id": "07-018-003",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 18,
+  "verse_reference": "Judges 18:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "When the five spies stopped at Micah's house, what did they recognize?",
+  "options": [
+    "Micah's idol from the road",
+    "Micah himself from long ago",
+    "A sign from God on the door",
+    "The voice of the young Levite"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Micah"
+  ],
+  "places": [
+    {
+      "name": "Hill country of Ephraim",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Near Micah's house, the spies recognized the voice of the young Levite and asked him who had brought him there."
+}

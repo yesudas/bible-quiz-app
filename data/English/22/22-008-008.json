@@ -1,0 +1,36 @@
+{
+  "id": "22-008-008",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 8,
+  "verse_reference": "Song of Songs 8:11",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Solomon have a vineyard?",
+  "options": [
+    "En Gedi",
+    "Jezreel",
+    "Baal Hamon",
+    "Bethlehem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Baal Hamon",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 8:11 says Solomon had a vineyard in Baal Hamon, which he let out to tenants."
+}

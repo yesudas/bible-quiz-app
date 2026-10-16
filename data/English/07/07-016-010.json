@@ -1,0 +1,33 @@
+{
+  "id": "07-016-010",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 16,
+  "verse_reference": "Judges 16:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete what Delilah said: \"How can you say, 'I love you,' when you won't ___ in me?\"",
+  "options": [
+    "listen",
+    "obey",
+    "confide",
+    "pray"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Temptation"
+  ],
+  "characters": [
+    "Delilah",
+    "Samson"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Delilah complained that Samson said he loved her but would not confide in her. She said he had made a fool of her three times."
+}

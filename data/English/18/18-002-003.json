@@ -1,0 +1,34 @@
+{
+  "id": "18-002-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 2,
+  "verse_reference": "Job 2:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Job 2, what was Satan NOT allowed to do to Job?",
+  "options": [
+    "Take his life",
+    "Touch his body",
+    "Speak to him",
+    "Take his possessions"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Satan",
+    "Suffering"
+  ],
+  "characters": [
+    "Satan",
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said Job was in Satan's hands, but Satan must spare his life."
+}

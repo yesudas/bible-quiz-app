@@ -1,0 +1,38 @@
+{
+  "id": "06-004-001",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 4,
+  "verse_reference": "Joshua 4:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How many stones did the chosen men take from the middle of the Jordan?",
+  "options": [
+    "Seven",
+    "Ten",
+    "Twelve",
+    "Forty"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Remembrance"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Twelve men, one from each tribe, took twelve stones from the middle of the Jordan where the priests had stood."
+}

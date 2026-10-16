@@ -1,0 +1,40 @@
+{
+  "id": "19-078-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 78,
+  "verse_reference": "Psalm 78:12",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 78:12, in which region of Egypt did God do miracles before their ancestors?",
+  "options": [
+    "Goshen",
+    "Memphis",
+    "Pithom",
+    "Zoan"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "Zoan",
+      "type": "region"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God did miracles in the sight of their ancestors in the land of Egypt, in the region of Zoan."
+}

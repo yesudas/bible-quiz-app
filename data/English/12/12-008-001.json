@@ -1,0 +1,33 @@
+{
+  "id": "12-008-001",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 8,
+  "verse_reference": "2 Kings 8:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How long did Elisha say the famine decreed by the LORD would last?",
+  "options": [
+    "Three years",
+    "Forty days",
+    "Twelve years",
+    "Seven years"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Suffering"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha told the Shunammite woman that the LORD had decreed a famine that would last seven years."
+}

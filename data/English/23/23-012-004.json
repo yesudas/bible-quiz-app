@@ -1,0 +1,31 @@
+{
+  "id": "23-012-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 12,
+  "verse_reference": "Isaiah 12:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'With joy you will draw water from the wells of ______.'",
+  "options": [
+    "salvation",
+    "life",
+    "Bethlehem",
+    "blessing"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 12:3 says, 'With joy you will draw water from the wells of salvation.'"
+}

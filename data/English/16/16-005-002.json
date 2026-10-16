@@ -1,0 +1,34 @@
+{
+  "id": "16-005-002",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 5,
+  "verse_reference": "Nehemiah 5:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did some people say they had to borrow money?",
+  "options": [
+    "To pay the king's tax on their fields and vineyards",
+    "To build new houses",
+    "To buy land in Jerusalem",
+    "To pay the temple singers"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Others said they had to borrow money to pay the king's tax on their fields and vineyards."
+}

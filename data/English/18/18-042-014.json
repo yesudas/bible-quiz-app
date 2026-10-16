@@ -1,0 +1,33 @@
+{
+  "id": "18-042-014",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 42,
+  "verse_reference": "Job 42:16",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How many years did Job live after this?",
+  "options": [
+    "70 years",
+    "100 years",
+    "140 years",
+    "120 years"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Family"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After this, Job lived 140 years; he saw his children and their children to the fourth generation."
+}

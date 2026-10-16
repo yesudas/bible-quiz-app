@@ -1,0 +1,33 @@
+{
+  "id": "19-124-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 124,
+  "verse_reference": "Psalm 124:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Our help is in the ______ of the LORD, the Maker of heaven and earth.\"",
+  "options": [
+    "name",
+    "house",
+    "law",
+    "hand"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Creation"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 124 ends by declaring that our help is in the name of the LORD, who made heaven and earth."
+}

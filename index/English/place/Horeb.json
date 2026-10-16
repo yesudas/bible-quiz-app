@@ -1,0 +1,28 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Horeb",
+    "label": "Horeb",
+    "count": 18,
+    "paths": [
+        "English/05/05-001-002.json",
+        "English/05/05-004-005.json",
+        "English/05/05-004-006.json",
+        "English/05/05-004-007.json",
+        "English/05/05-005-001.json",
+        "English/05/05-009-005.json",
+        "English/05/05-009-006.json",
+        "English/05/05-018-006.json",
+        "English/05/05-029-001.json",
+        "English/11/11-008-004.json",
+        "English/11/11-019-007.json",
+        "English/11/11-019-008.json",
+        "English/11/11-019-009.json",
+        "English/11/11-019-011.json",
+        "English/11/11-019-012.json",
+        "English/11/11-019-013.json",
+        "English/14/14-005-009.json",
+        "English/19/19-106-007.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

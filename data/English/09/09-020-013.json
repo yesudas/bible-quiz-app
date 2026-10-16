@@ -1,0 +1,34 @@
+{
+  "id": "09-020-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 20,
+  "verse_reference": "1 Samuel 20:34",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Jonathan leave the table and not eat on the second day of the feast?",
+  "options": [
+    "He was sick",
+    "He had to find David",
+    "He was afraid of his father",
+    "He was grieved at his father's shameful treatment of David"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Suffering"
+  ],
+  "characters": [
+    "Jonathan",
+    "Saul",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonathan got up from the table in fierce anger and did not eat, because he was grieved at his father's shameful treatment of David."
+}

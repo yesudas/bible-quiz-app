@@ -1,0 +1,34 @@
+{
+  "id": "22-006-006",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 6,
+  "verse_reference": "Song of Songs 6:11",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "The speaker says, \"I went down to the grove of\" which trees?",
+  "options": [
+    "Olive trees",
+    "Fig trees",
+    "Nut trees",
+    "Palm trees"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Grove of nut trees",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 6:11 says, \"I went down to the grove of nut trees.\""
+}

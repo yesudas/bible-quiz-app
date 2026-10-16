@@ -1,0 +1,32 @@
+{
+  "id": "09-009-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 9,
+  "verse_reference": "1 Samuel 9:8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Saul's servant have to give the man of God?",
+  "options": [
+    "A quarter of a shekel of silver",
+    "A loaf of bread",
+    "A gold ring",
+    "A young goat"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Money"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The servant said he had a quarter of a shekel of silver to give the man of God so he would tell them what way to take."
+}

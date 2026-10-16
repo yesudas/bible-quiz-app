@@ -1,0 +1,35 @@
+{
+  "id": "19-121-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 121,
+  "verse_reference": "Psalm 121:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does Psalm 121 say about the One who watches over Israel?",
+  "options": [
+    "He rests at night",
+    "He watches only in the daytime",
+    "He sometimes forgets",
+    "He will neither slumber nor sleep"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He who watches over Israel will neither slumber nor sleep; He is always watching."
+}

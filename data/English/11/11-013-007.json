@@ -1,0 +1,34 @@
+{
+  "id": "11-013-007",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 13,
+  "verse_reference": "1 Kings 13:11",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was living in Bethel when the man of God came there?",
+  "options": [
+    "An old prophet",
+    "The prophet Ahijah",
+    "King Rehoboam",
+    "Shemaiah the man of God"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "There was a certain old prophet living in Bethel, whose sons told him what the man of God had done."
+}

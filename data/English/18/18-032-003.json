@@ -1,0 +1,32 @@
+{
+  "id": "18-032-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 32,
+  "verse_reference": "Job 32:2",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was the father of Elihu?",
+  "options": [
+    "Barakel",
+    "Bildad",
+    "Buz",
+    "Ram"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Elihu",
+    "Barakel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job 32:2 calls him Elihu son of Barakel the Buzite, of the family of Ram."
+}

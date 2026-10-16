@@ -1,0 +1,38 @@
+{
+  "id": "14-036-014",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 36,
+  "verse_reference": "2 Chronicles 36:23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Cyrus say the LORD had appointed him to do?",
+  "options": [
+    "Conquer Egypt",
+    "Destroy Babylon",
+    "Rule over Israel",
+    "Build a temple for Him at Jerusalem"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Worship"
+  ],
+  "characters": [
+    "Cyrus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Cyrus said, \"He has appointed me to build a temple for him at Jerusalem in Judah. Any of his people among you may go up.\""
+}

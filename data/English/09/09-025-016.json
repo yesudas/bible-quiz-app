@@ -1,0 +1,39 @@
+{
+  "id": "09-025-016",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 25,
+  "verse_reference": "1 Samuel 25:44",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "To whom had Saul given his daughter Michal, David's wife?",
+  "options": [
+    "Adriel of Meholah",
+    "Doeg the Edomite",
+    "Abner son of Ner",
+    "Paltiel son of Laish"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Marriage",
+    "Family"
+  ],
+  "characters": [
+    "Saul",
+    "Michal",
+    "Paltiel"
+  ],
+  "places": [
+    {
+      "name": "Gallim",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul had given his daughter Michal, David's wife, to Paltiel son of Laish, who was from Gallim."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "13-014-009",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 14,
+  "verse_reference": "1 Chronicles 14:16",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "From where to where did David strike down the Philistine army?",
+  "options": [
+    "From Dan to Beersheba",
+    "From Gibeon to Gezer",
+    "From Gath to Ekron",
+    "From Bethel to Ai"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "War",
+    "Obedience"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Gibeon",
+      "type": "city"
+    },
+    {
+      "name": "Gezer",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David did as God commanded, and they struck down the Philistine army all the way from Gibeon to Gezer."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "23-055-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 55,
+  "verse_reference": "Isaiah 55:8-9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'For my thoughts are not your thoughts, neither are your ______ my ______.'",
+  "options": [
+    "words \u2026 words",
+    "plans \u2026 plans",
+    "ways \u2026 ways",
+    "days \u2026 days"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 55:8 says, 'For my thoughts are not your thoughts, neither are your ways my ways, declares the LORD.'"
+}

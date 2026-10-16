@@ -1,0 +1,36 @@
+{
+  "id": "13-020-001",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 20,
+  "verse_reference": "1 Chronicles 20:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "At what time of year did Joab lead out the armed forces against the Ammonites?",
+  "options": [
+    "In winter",
+    "In spring, when kings go off to war",
+    "At harvest time",
+    "During the Passover"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "War"
+  ],
+  "characters": [
+    "Joab"
+  ],
+  "places": [
+    {
+      "name": "Rabbah",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the spring, at the time when kings go off to war, Joab led out the armed forces."
+}

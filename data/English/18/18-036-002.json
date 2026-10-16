@@ -1,0 +1,33 @@
+{
+  "id": "18-036-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 36,
+  "verse_reference": "Job 36:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Elihu's words: \"God is mighty, but ____ no one.\"",
+  "options": [
+    "fears",
+    "despises",
+    "needs",
+    "forgets"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Worship"
+  ],
+  "characters": [
+    "Elihu"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elihu said, 'God is mighty, but despises no one; he is mighty, and firm in his purpose.'"
+}

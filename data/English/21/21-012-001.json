@@ -1,0 +1,31 @@
+{
+  "id": "21-012-001",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 12,
+  "verse_reference": "Ecclesiastes 12:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Remember your ______ in the days of your youth.\"",
+  "options": [
+    "parents",
+    "Creator",
+    "teachers",
+    "promises"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ecclesiastes 12:1 calls young people to remember God their Creator before the days of trouble come."
+}

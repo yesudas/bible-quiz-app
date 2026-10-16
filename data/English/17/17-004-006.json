@@ -1,0 +1,38 @@
+{
+  "id": "17-004-006",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 4,
+  "verse_reference": "Esther 4:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Mordecai give Hathak to show to Esther?",
+  "options": [
+    "The king's signet ring",
+    "A copy of the text of the edict to destroy the Jews",
+    "A letter from Haman",
+    "A list of the Jews in Susa"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Mordecai",
+    "Hathak",
+    "Esther"
+  ],
+  "places": [
+    {
+      "name": "Susa",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mordecai gave Hathak a copy of the edict for the Jews' destruction, published in Susa, to show to Esther."
+}

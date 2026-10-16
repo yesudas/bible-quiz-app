@@ -1,0 +1,33 @@
+{
+  "id": "19-047-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 47,
+  "verse_reference": "Psalm 47:8",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 47:8, where is God seated?",
+  "options": [
+    "On Mount Sinai",
+    "In the clouds",
+    "On his holy throne",
+    "By the river"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Kingship",
+    "Holiness"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 47:8 says, \"God reigns over the nations; God is seated on his holy throne.\""
+}

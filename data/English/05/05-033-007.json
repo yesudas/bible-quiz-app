@@ -1,0 +1,34 @@
+{
+  "id": "05-033-007",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 33,
+  "verse_reference": "Deuteronomy 33:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Which tribe was described as a lion's cub springing out of Bashan?",
+  "options": [
+    "Dan",
+    "Asher",
+    "Judah",
+    "Levi"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Bashan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses described Dan as a lion's cub springing out of Bashan."
+}

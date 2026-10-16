@@ -1,0 +1,37 @@
+{
+  "id": "09-011-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 11,
+  "verse_reference": "1 Samuel 11:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "On what condition did Nahash agree to make a treaty with the men of Jabesh?",
+  "options": [
+    "That they give him all their gold",
+    "That he gouge out the right eye of every one of them",
+    "That they worship his gods",
+    "That they leave their city"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Persecution"
+  ],
+  "characters": [
+    "Nahash"
+  ],
+  "places": [
+    {
+      "name": "Jabesh Gilead",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nahash said he would make a treaty only if he could gouge out the right eye of every one of them and so bring disgrace on all Israel."
+}

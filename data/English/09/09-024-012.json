@@ -1,0 +1,33 @@
+{
+  "id": "09-024-012",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 24,
+  "verse_reference": "1 Samuel 24:16-17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Saul wept and said to David, \"You are more ___ than I.\"",
+  "options": [
+    "righteous",
+    "powerful",
+    "clever",
+    "faithful"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Repentance"
+  ],
+  "characters": [
+    "Saul",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul wept aloud and said, \"You are more righteous than I. You have treated me well, but I have treated you badly.\""
+}

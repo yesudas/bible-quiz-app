@@ -1,0 +1,38 @@
+{
+  "id": "12-015-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 15,
+  "verse_reference": "2 Kings 15:19-20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Menahem keep the king of Assyria from staying in Israel?",
+  "options": [
+    "He defeated him in battle",
+    "He gave him Samaria",
+    "He paid him a thousand talents of silver",
+    "He asked Judah for help"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Leadership"
+  ],
+  "characters": [
+    "Menahem",
+    "Pul"
+  ],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Menahem gave Pul a thousand talents of silver, taken from the wealthy men of Israel, and the king of Assyria withdrew."
+}

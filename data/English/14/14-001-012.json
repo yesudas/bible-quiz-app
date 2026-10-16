@@ -1,0 +1,40 @@
+{
+  "id": "14-001-012",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 1,
+  "verse_reference": "2 Chronicles 1:16",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Solomon's horses were imported from Kue and from which other country?",
+  "options": [
+    "Egypt",
+    "Assyria",
+    "Tyre",
+    "Moab"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Kue",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon's horses were imported from Egypt and from Kue, bought by the royal merchants."
+}

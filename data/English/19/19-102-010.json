@@ -1,0 +1,29 @@
+{
+  "id": "19-102-010",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 102,
+  "verse_reference": "Psalm 102:26",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What does Psalm 102 compare the earth and heavens to, since they will wear out?",
+  "options": [
+    "A broken jar",
+    "A fading flower",
+    "A garment",
+    "An old tent"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist said the earth and heavens will wear out like a garment, and like clothing God will change them, but He remains."
+}

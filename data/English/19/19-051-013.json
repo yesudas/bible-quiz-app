@@ -1,0 +1,33 @@
+{
+  "id": "19-051-013",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 51,
+  "verse_reference": "Psalm 51:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Open my lips, Lord, and my mouth will declare your ____.\"",
+  "options": [
+    "law",
+    "name",
+    "power",
+    "praise"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David asked God to open his lips so his mouth would declare God's praise."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "08-003-007",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 3,
+  "verse_reference": "Ruth 3:8",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When did Boaz discover a woman lying at his feet?",
+  "options": [
+    "At sunset",
+    "At dawn",
+    "At noon",
+    "In the middle of the night"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Boaz",
+    "Ruth"
+  ],
+  "places": [
+    {
+      "name": "Threshing floor",
+      "type": "threshing floor"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the middle of the night something startled Boaz, and he turned and found a woman lying at his feet."
+}

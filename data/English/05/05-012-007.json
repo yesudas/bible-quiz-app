@@ -1,0 +1,30 @@
+{
+  "id": "05-012-007",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 12,
+  "verse_reference": "Deuteronomy 12:23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did God tell Israel not to eat the blood of animals?",
+  "options": [
+    "Because it tasted bitter",
+    "Because the blood is the life, and they must not eat the life with the meat",
+    "Because it was needed for medicine",
+    "Because the priests kept it"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God explained that the blood is the life of the creature, so Israel must not eat the life together with the meat."
+}

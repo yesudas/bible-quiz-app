@@ -1,0 +1,37 @@
+{
+  "id": "11-006-009",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 6,
+  "verse_reference": "1 Kings 6:21-22",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Solomon cover the whole inside of the temple with?",
+  "options": [
+    "Silver",
+    "Bronze",
+    "Pure gold",
+    "Ivory"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon covered the inside of the temple with pure gold, overlaying the whole interior with gold."
+}

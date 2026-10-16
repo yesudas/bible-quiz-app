@@ -1,0 +1,38 @@
+{
+  "id": "19-078-011",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 78,
+  "verse_reference": "Psalm 78:44",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 78:44, what did God turn the rivers of Egypt into?",
+  "options": [
+    "Dust",
+    "Ice",
+    "Blood",
+    "Fire"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Judgment"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God turned Egypt's rivers into blood, so they could not drink from their streams."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "05-028-011",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 28,
+  "verse_reference": "Deuteronomy 28:38-40",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Moses say would happen to their crops under the curse?",
+  "options": [
+    "They would harvest twice as much",
+    "Their fields would turn to gold",
+    "Their vineyards would need no care",
+    "They would sow much but harvest little, because locusts and worms would devour it"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They would sow much seed but harvest little because locusts would devour it, worms would eat their vines, and their olives would drop off."
+}

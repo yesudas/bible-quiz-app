@@ -1,0 +1,38 @@
+{
+  "id": "06-001-013",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 1,
+  "verse_reference": "Joshua 1:10-11",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "Joshua told the officers that the people would cross the Jordan in how many days?",
+  "options": [
+    "Seven days",
+    "Three days",
+    "Forty days",
+    "Ten days"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Obedience"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua told the officers to have the people get their provisions ready, because in three days they would cross the Jordan."
+}

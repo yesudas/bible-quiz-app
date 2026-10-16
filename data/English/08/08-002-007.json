@@ -1,0 +1,33 @@
+{
+  "id": "08-002-007",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 2,
+  "verse_reference": "Ruth 2:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why was Ruth surprised by Boaz's kindness?",
+  "options": [
+    "She was very young",
+    "She had no money",
+    "She had never worked in a field",
+    "She was a foreigner"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Kindness",
+    "Grace"
+  ],
+  "characters": [
+    "Ruth",
+    "Boaz"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ruth bowed down and asked why she had found such favor that Boaz would notice her, a foreigner."
+}

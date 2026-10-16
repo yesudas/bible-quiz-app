@@ -1,0 +1,38 @@
+{
+  "id": "23-006-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 6,
+  "verse_reference": "Isaiah 6:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did a seraph touch Isaiah's mouth with?",
+  "options": [
+    "A drop of oil",
+    "A branch of hyssop",
+    "A golden cup",
+    "A live coal from the altar"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Forgiveness",
+    "Angels"
+  ],
+  "characters": [
+    "Isaiah"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 6:6-7 says a seraph flew to him with a live coal taken from the altar with tongs and touched his mouth."
+}

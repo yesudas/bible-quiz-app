@@ -1,0 +1,30 @@
+{
+  "id": "19-116-009",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 116,
+  "verse_reference": "Psalm 116:16",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "In Psalm 116, the psalmist said he served the LORD just as whom did?",
+  "options": [
+    "His father",
+    "His mother",
+    "The priests",
+    "King David"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalmist said, \"I serve you just as my mother did; you have freed me from my chains.\""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "20-017-001",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 17,
+  "verse_reference": "Proverbs 17:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Proverbs 17:1, what is better than a house full of feasting with strife?",
+  "options": [
+    "A dry crust eaten in peace",
+    "A large field",
+    "A crown of gold",
+    "A feast with strangers"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 17:1 says better a dry crust eaten in peace than a house full of feasting, with strife."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "05-007-006",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 7,
+  "verse_reference": "Deuteronomy 7:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The Lord keeps His covenant of love to a thousand ___ of those who love Him and keep His commands.",
+  "options": [
+    "days",
+    "years",
+    "generations",
+    "nations"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Love",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses declared the Lord is the faithful God who keeps His covenant of love to a thousand generations of those who love Him and keep His commands."
+}

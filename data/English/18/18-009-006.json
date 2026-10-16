@@ -1,0 +1,33 @@
+{
+  "id": "18-009-006",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 9,
+  "verse_reference": "Job 9:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "What did Job say about the miracles God performs?",
+  "options": [
+    "They cannot be counted",
+    "They happen only once",
+    "They are only for kings",
+    "They stopped long ago"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Worship"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said God performs wonders that cannot be fathomed and miracles that cannot be counted."
+}

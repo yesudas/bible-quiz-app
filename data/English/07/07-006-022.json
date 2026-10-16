@@ -1,0 +1,31 @@
+{
+  "id": "07-006-022",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 6,
+  "verse_reference": "Judges 6:11-32",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "Which order of events in Gideon's story is correct?",
+  "options": [
+    "Gideon tears down Baal's altar → the angel appears → he is named Jerub-Baal → he builds the altar called The LORD Is Peace",
+    "Gideon is named Jerub-Baal → the angel appears → he tears down Baal's altar → he builds the altar called The LORD Is Peace",
+    "Gideon builds the altar called The LORD Is Peace → he is named Jerub-Baal → the angel appears → he tears down Baal's altar",
+    "The angel appears → Gideon builds the altar called The LORD Is Peace → Gideon tears down Baal's altar → he is named Jerub-Baal"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel of the LORD appeared first, then Gideon built the altar The LORD Is Peace. That night he tore down Baal's altar, and then he was named Jerub-Baal."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "09-031-001",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 31,
+  "verse_reference": "1 Samuel 31:1",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "On which mountain did many Israelites fall in the battle with the Philistines?",
+  "options": [
+    "Mount Carmel",
+    "Mount Gilboa",
+    "Mount Tabor",
+    "Mount Hermon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mount Gilboa",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Philistines fought against Israel; the Israelites fled before them, and many fell dead on Mount Gilboa."
+}

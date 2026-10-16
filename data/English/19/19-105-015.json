@@ -1,0 +1,36 @@
+{
+  "id": "19-105-015",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 105,
+  "verse_reference": "Psalm 105:41",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did God open so that water gushed out in the desert?",
+  "options": [
+    "A well",
+    "The sky",
+    "A river",
+    "A rock"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Provision"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Desert",
+      "type": "desert"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God opened the rock, and water gushed out; it flowed like a river in the desert."
+}

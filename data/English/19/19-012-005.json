@@ -1,0 +1,33 @@
+{
+  "id": "19-012-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 12,
+  "verse_reference": "Psalm 12:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"And the words of the LORD are ____.\"",
+  "options": [
+    "flawless",
+    "mighty",
+    "ancient",
+    "gentle"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Truth",
+    "Wisdom"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 12:6 says, \"And the words of the LORD are flawless, like silver purified in a crucible.\""
+}

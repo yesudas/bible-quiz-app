@@ -1,0 +1,38 @@
+{
+  "id": "11-011-015",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 11,
+  "verse_reference": "1 Kings 11:40",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "When Solomon tried to kill Jeroboam, where did Jeroboam flee?",
+  "options": [
+    "To Damascus",
+    "To Tyre",
+    "To Edom",
+    "To Egypt, to King Shishak"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jeroboam",
+    "Solomon",
+    "Shishak"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Solomon tried to kill Jeroboam, but he fled to Egypt, to Shishak the king, and stayed there until Solomon's death."
+}

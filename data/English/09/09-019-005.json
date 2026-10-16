@@ -1,0 +1,38 @@
+{
+  "id": "09-019-005",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 19,
+  "verse_reference": "1 Samuel 19:11",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who warned David that he would be killed in the morning if he did not run?",
+  "options": [
+    "Jonathan",
+    "His wife Michal",
+    "Samuel",
+    "A servant"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [
+    "Michal",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "David's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul sent men to watch David's house and kill him in the morning, but Michal, David's wife, warned him."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13-006-003",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 6,
+  "verse_reference": "1 Chronicles 6:3",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which of these was NOT a son of Aaron?",
+  "options": [
+    "Nadab",
+    "Eleazar",
+    "Phinehas",
+    "Ithamar"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Priesthood"
+  ],
+  "characters": [
+    "Aaron",
+    "Nadab",
+    "Abihu",
+    "Eleazar",
+    "Ithamar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The sons of Aaron were Nadab, Abihu, Eleazar and Ithamar. Phinehas was Eleazar's son."
+}

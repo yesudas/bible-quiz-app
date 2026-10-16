@@ -1,0 +1,29 @@
+{
+  "id": "22-006-003",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 6,
+  "verse_reference": "Song of Songs 6:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "The woman is called as majestic as what?",
+  "options": [
+    "A lion in the forest",
+    "An eagle in the sky",
+    "Troops with banners",
+    "A king on his throne"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 6:4 says she is as majestic as troops with banners."
+}

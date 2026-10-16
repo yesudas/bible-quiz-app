@@ -1,0 +1,33 @@
+{
+  "id": "07-007-003",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 7,
+  "verse_reference": "Judges 7:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Which men did Gideon first allow to go home?",
+  "options": [
+    "Anyone who was too old",
+    "Anyone from the tribe of Asher",
+    "Anyone who had no sword",
+    "Anyone who trembled with fear"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Courage"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon announced that anyone who trembled with fear could turn back and go home."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "17-003-007",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 3,
+  "verse_reference": "Esther 3:7",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "Which month did the lot fall on for Haman's plan?",
+  "options": [
+    "Nisan",
+    "Tebeth",
+    "Sivan",
+    "Adar"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Haman"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The lot was cast in the first month, Nisan, and it fell on the twelfth month, the month of Adar."
+}

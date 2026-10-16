@@ -1,0 +1,30 @@
+{
+  "id": "22-007-005",
+  "language": "en",
+  "book_no": 22,
+  "book": "Song of Songs",
+  "chapter": 7,
+  "verse_reference": "Song of Songs 7:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"I belong to my beloved, and his ____ is for me.\"",
+  "options": [
+    "heart",
+    "desire",
+    "love",
+    "song"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Marriage"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Song of Songs 7:10 says, \"I belong to my beloved, and his desire is for me.\""
+}

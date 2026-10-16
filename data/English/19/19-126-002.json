@@ -1,0 +1,31 @@
+{
+  "id": "19-126-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 126,
+  "verse_reference": "Psalm 126:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to Psalm 126, what were the people's mouths filled with?",
+  "options": [
+    "Laughter",
+    "Bread",
+    "Questions",
+    "Complaints"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Their mouths were filled with laughter and their tongues with songs of joy."
+}

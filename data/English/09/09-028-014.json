@@ -1,0 +1,35 @@
+{
+  "id": "09-028-014",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 28,
+  "verse_reference": "1 Samuel 28:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Besides his fear, why did Saul have no strength after hearing Samuel's words?",
+  "options": [
+    "He was wounded",
+    "He had not slept for a week",
+    "He was sick",
+    "He had eaten nothing all that day and night"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Endor",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul fell full length on the ground, filled with fear. His strength was gone, for he had eaten nothing all that day and all that night."
+}

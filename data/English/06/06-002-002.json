@@ -1,0 +1,40 @@
+{
+  "id": "06-002-002",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 2,
+  "verse_reference": "Joshua 2:1",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "From which place did Joshua send out the spies?",
+  "options": [
+    "Gilgal",
+    "Kadesh",
+    "Shittim",
+    "Bethel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Shittim",
+      "type": "camp"
+    },
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua 2:1 says Joshua secretly sent the two spies from Shittim."
+}

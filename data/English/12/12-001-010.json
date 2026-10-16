@@ -1,0 +1,32 @@
+{
+  "id": "12-001-010",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 1,
+  "verse_reference": "2 Kings 1:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did King Ahaziah know that the man who met his messengers was Elijah?",
+  "options": [
+    "The man told them his name",
+    "From the description of his hair garment and leather belt",
+    "The messengers had seen him before in Samaria",
+    "The man gave them a letter signed by Elijah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Ahaziah",
+    "Elijah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the messengers described the man's hair garment and leather belt, the king said, 'That was Elijah the Tishbite.'"
+}

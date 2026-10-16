@@ -1,0 +1,41 @@
+{
+  "id": "12-001-001",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 1,
+  "verse_reference": "2 Kings 1:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After the death of Ahab, which nation rebelled against Israel?",
+  "options": [
+    "Edom",
+    "Aram",
+    "Moab",
+    "Philistia"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Ahab"
+  ],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After Ahab died, Moab rebelled against Israel."
+}

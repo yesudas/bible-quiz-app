@@ -1,0 +1,30 @@
+{
+  "id": "19-104-003",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 104,
+  "verse_reference": "Psalm 104:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does Psalm 104 say about the earth that God set on its foundations?",
+  "options": [
+    "It will soon fall apart",
+    "It floats on the sea",
+    "It can never be moved",
+    "It was made by angels"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God set the earth on its foundations, and it can never be moved."
+}

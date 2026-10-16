@@ -1,0 +1,31 @@
+{
+  "id": "23-055-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 55,
+  "verse_reference": "Isaiah 55:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Whom does Isaiah 55:1 invite to come to the waters?",
+  "options": [
+    "All who are thirsty",
+    "Only the rich",
+    "Only the priests",
+    "Only the kings"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Mercy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 55:1 says, 'Come, all you who are thirsty, come to the waters; and you who have no money, come, buy and eat!'"
+}

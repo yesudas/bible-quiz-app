@@ -1,0 +1,41 @@
+{
+  "id": "06-008-013",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 8,
+  "verse_reference": "Joshua 8:33",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "The people of Israel stood in front of which two mountains when the law was read?",
+  "options": [
+    "Mount Sinai and Mount Horeb",
+    "Mount Carmel and Mount Tabor",
+    "Mount Nebo and Mount Hor",
+    "Mount Gerizim and Mount Ebal"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Covenant"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Mount Gerizim",
+      "type": "mountain"
+    },
+    {
+      "name": "Mount Ebal",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Half of the people stood in front of Mount Gerizim and half in front of Mount Ebal."
+}

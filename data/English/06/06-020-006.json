@@ -1,0 +1,38 @@
+{
+  "id": "06-020-006",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 20,
+  "verse_reference": "Joshua 20:7",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which of these cities was a city of refuge in the hill country of Judah?",
+  "options": [
+    "Jericho",
+    "Hebron",
+    "Bethlehem",
+    "Gibeon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Hebron",
+      "type": "city"
+    },
+    {
+      "name": "hill country of Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Kiriath Arba, that is, Hebron, in the hill country of Judah was one of the cities of refuge."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12-021-002",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 21,
+  "verse_reference": "2 Kings 21:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How long did Manasseh reign in Jerusalem?",
+  "options": [
+    "Twenty-nine years",
+    "Forty years",
+    "Two years",
+    "Fifty-five years"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Manasseh"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Manasseh reigned in Jerusalem fifty-five years."
+}

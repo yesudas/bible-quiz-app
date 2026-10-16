@@ -1,0 +1,34 @@
+{
+  "id": "19-005-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 5,
+  "verse_reference": "Psalm 5:5-6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Psalm 5:6, who does the LORD destroy?",
+  "options": [
+    "The poor",
+    "Foreigners",
+    "Those who are weak",
+    "Those who tell lies"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Truth"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 5:6 says, \"You destroy those who tell lies.\""
+}

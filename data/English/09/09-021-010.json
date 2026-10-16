@@ -1,0 +1,36 @@
+{
+  "id": "09-021-010",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 21,
+  "verse_reference": "1 Samuel 21:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did David act while pretending to be insane?",
+  "options": [
+    "He sang loudly in the streets",
+    "He made marks on the gate doors and let saliva run down his beard",
+    "He tore his clothes and threw dust",
+    "He hid in a cave"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Gath",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David acted like a madman, making marks on the doors of the gate and letting saliva run down his beard."
+}

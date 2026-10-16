@@ -1,0 +1,31 @@
+{
+  "id": "05-013-006",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 13,
+  "verse_reference": "Deuteronomy 13:12-14",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "If a whole town was said to be led astray to worship other gods, what were the Israelites first told to do?",
+  "options": [
+    "Destroy it immediately",
+    "Investigate the matter thoroughly to find if it was true",
+    "Ignore the report",
+    "Move the people to another town"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Justice",
+    "Wisdom",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Before acting, Israel was to inquire, probe, and investigate the report thoroughly to determine whether such a detestable thing had truly happened."
+}

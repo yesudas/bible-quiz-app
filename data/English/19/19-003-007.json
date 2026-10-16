@@ -1,0 +1,33 @@
+{
+  "id": "19-003-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 3,
+  "verse_reference": "Psalm 3:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"From the LORD comes ____.\"",
+  "options": [
+    "wisdom",
+    "peace",
+    "rain",
+    "deliverance"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Faith"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 3:8 declares, \"From the LORD comes deliverance,\" and asks for his blessing on his people."
+}

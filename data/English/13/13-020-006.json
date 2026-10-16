@@ -1,0 +1,32 @@
+{
+  "id": "13-020-006",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 20,
+  "verse_reference": "1 Chronicles 20:5",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Whose brother is described as having a spear with a shaft like a weaver's rod?",
+  "options": [
+    "Goliath's brother Lahmi",
+    "Saul's brother",
+    "Joab's brother",
+    "Hanun's brother"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "War"
+  ],
+  "characters": [
+    "Lahmi",
+    "Goliath"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Lahmi, the brother of Goliath the Gittite, had a spear with a shaft like a weaver's rod."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "06-019-006",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 19,
+  "verse_reference": "Joshua 19:50",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Which town did Joshua ask for and receive?",
+  "options": [
+    "Hebron",
+    "Shiloh",
+    "Gibeon",
+    "Timnath Serah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Timnath Serah",
+      "type": "city"
+    },
+    {
+      "name": "hill country of Ephraim",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As the LORD had commanded, they gave Joshua the town he asked for, Timnath Serah in the hill country of Ephraim."
+}

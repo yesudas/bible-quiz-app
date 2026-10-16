@@ -1,0 +1,40 @@
+{
+  "id": "09-019-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 19,
+  "verse_reference": "1 Samuel 19:22",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Saul ask where Samuel and David were, when he went to Ramah himself?",
+  "options": [
+    "At the gate of Ramah",
+    "At the great cistern at Seku",
+    "At Samuel's altar",
+    "At the city well of Bethlehem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Great cistern at Seku",
+      "type": "well"
+    },
+    {
+      "name": "Ramah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul went to Ramah and came to the great cistern at Seku, and there he asked where Samuel and David were."
+}

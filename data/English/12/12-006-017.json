@@ -1,0 +1,36 @@
+{
+  "id": "12-006-017",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 6,
+  "verse_reference": "2 Kings 6:31-32",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "During the famine, what did the king of Israel want to do to Elisha?",
+  "options": [
+    "Make him the leader of the army",
+    "Cut off his head",
+    "Send him to Ben-Hadad",
+    "Put him in prison"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king swore that Elisha's head would not stay on his shoulders that day, and sent a messenger to kill him."
+}

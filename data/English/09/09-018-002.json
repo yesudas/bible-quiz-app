@@ -1,0 +1,34 @@
+{
+  "id": "09-018-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 18,
+  "verse_reference": "1 Samuel 18:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jonathan make with David because he loved him?",
+  "options": [
+    "A covenant",
+    "An altar",
+    "A monument",
+    "A treaty with the Philistines"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant",
+    "Love"
+  ],
+  "characters": [
+    "Jonathan",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonathan made a covenant with David because he loved him as himself."
+}

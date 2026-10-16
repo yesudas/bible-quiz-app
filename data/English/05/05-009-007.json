@@ -1,0 +1,33 @@
+{
+  "id": "05-009-007",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 9,
+  "verse_reference": "Deuteronomy 9:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Moses do with the two stone tablets when he saw the golden calf?",
+  "options": [
+    "He hid them in a cave",
+    "He carried them back up the mountain",
+    "He gave them to Aaron",
+    "He threw them down and broke them to pieces"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Moses saw the calf, he threw down the two tablets and broke them to pieces before their eyes, showing the covenant was broken."
+}

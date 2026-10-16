@@ -1,0 +1,36 @@
+{
+  "id": "09-007-007",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 7,
+  "verse_reference": "1 Samuel 7:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "At Mizpah the people confessed, \"We have ___ against the LORD.\"",
+  "options": [
+    "fought",
+    "spoken",
+    "sinned",
+    "turned"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mizpah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people fasted and confessed, \"We have sinned against the LORD.\""
+}

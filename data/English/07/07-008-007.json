@@ -1,0 +1,36 @@
+{
+  "id": "07-008-007",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 8,
+  "verse_reference": "Judges 8:9,17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Gideon tear down in Peniel when he returned?",
+  "options": [
+    "The altar",
+    "The city gate",
+    "The tower",
+    "The well"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [
+    {
+      "name": "Peniel",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon had told the men of Peniel he would tear down their tower, and when he returned he pulled it down."
+}

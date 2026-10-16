@@ -1,0 +1,37 @@
+{
+  "id": "06-012-005",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 12,
+  "verse_reference": "Joshua 12:6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "To which tribes did Moses give the land east of the Jordan?",
+  "options": [
+    "Reuben, Gad and the half-tribe of Manasseh",
+    "Judah, Simeon and Benjamin",
+    "Ephraim, Dan and Asher",
+    "Levi, Issachar and Zebulun"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Family"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses gave the land east of the Jordan to the Reubenites, the Gadites and the half-tribe of Manasseh."
+}

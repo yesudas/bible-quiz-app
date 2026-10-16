@@ -1,0 +1,32 @@
+{
+  "id": "14-022-008",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 22,
+  "verse_reference": "2 Chronicles 22:7",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom had the LORD anointed to destroy the house of Ahab?",
+  "options": [
+    "Jehu son of Nimshi",
+    "Elisha",
+    "Jehoiada",
+    "Hazael"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jehu"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahaziah went with Joram to meet Jehu son of Nimshi, whom the LORD had anointed to destroy the house of Ahab."
+}

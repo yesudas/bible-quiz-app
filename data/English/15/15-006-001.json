@@ -1,0 +1,41 @@
+{
+  "id": "15-006-001",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 6,
+  "verse_reference": "Ezra 6:1-2",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where was the scroll with Cyrus's decree finally found?",
+  "options": [
+    "In the temple at Jerusalem",
+    "In the treasury at Babylon",
+    "In the citadel of Ecbatana",
+    "In the palace at Susa"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Promise"
+  ],
+  "characters": [
+    "Darius",
+    "Cyrus"
+  ],
+  "places": [
+    {
+      "name": "Ecbatana",
+      "type": "city"
+    },
+    {
+      "name": "Media",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Darius ordered a search, and a scroll was found in the citadel of Ecbatana in the province of Media."
+}

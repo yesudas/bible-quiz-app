@@ -1,0 +1,33 @@
+{
+  "id": "13-015-006",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 15,
+  "verse_reference": "1 Chronicles 15:17-19",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which of these was NOT one of the three musicians named to sound the bronze cymbals?",
+  "options": [
+    "Heman",
+    "Asaph",
+    "Ethan",
+    "Kenaniah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Heman",
+    "Asaph",
+    "Ethan"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The musicians Heman, Asaph and Ethan were to sound the bronze cymbals. Kenaniah was in charge of the singing."
+}

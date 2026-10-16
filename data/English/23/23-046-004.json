@@ -1,0 +1,30 @@
+{
+  "id": "23-046-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 46,
+  "verse_reference": "Isaiah 46:6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Isaiah 46:6, whom do people hire to make gold into a god?",
+  "options": [
+    "A priest",
+    "A shepherd",
+    "A potter",
+    "A goldsmith"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 46:6 says, 'Some pour out gold from their bags and weigh out silver on the scales; they hire a goldsmith to make it into a god.'"
+}

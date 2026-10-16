@@ -1,0 +1,29 @@
+{
+  "id": "21-007-007",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 7,
+  "verse_reference": "Ecclesiastes 7:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What question does the Teacher say it is not wise to ask?",
+  "options": [
+    "Why do the wicked prosper?",
+    "Why were the old days better than these?",
+    "Why is life so short?",
+    "Why do the righteous suffer?"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Do not say, 'Why were the old days better than these?' For it is not wise to ask such questions.\""
+}

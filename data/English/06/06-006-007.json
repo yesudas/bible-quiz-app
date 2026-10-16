@@ -1,0 +1,38 @@
+{
+  "id": "06-006-007",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 6,
+  "verse_reference": "Joshua 6:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Joshua commanded the army, \"____! For the LORD has given you the city!\"",
+  "options": [
+    "March",
+    "Pray",
+    "Shout",
+    "Attack"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Victory"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On the seventh day, when the priests sounded the trumpets, Joshua told the people to shout, for the LORD had given them the city."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "19-051-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 51,
+  "verse_reference": "Psalm 51:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Have mercy on me, O God, according to your unfailing ____.\"",
+  "options": [
+    "power",
+    "love",
+    "word",
+    "promise"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Forgiveness",
+    "Prayer"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David asked God for mercy based on His unfailing love."
+}

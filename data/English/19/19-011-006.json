@@ -1,0 +1,32 @@
+{
+  "id": "19-011-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 11,
+  "verse_reference": "Psalm 11:5",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 11:5, who does the LORD hate with a passion?",
+  "options": [
+    "Those who are poor",
+    "Those who doubt",
+    "The wicked who love violence",
+    "The people of other nations"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 11:5 says the LORD examines the righteous, but the wicked, those who love violence, he hates with a passion."
+}

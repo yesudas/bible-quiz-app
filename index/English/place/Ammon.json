@@ -1,0 +1,24 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Ammon",
+    "label": "Ammon",
+    "count": 14,
+    "paths": [
+        "English/05/05-002-007.json",
+        "English/07/07-011-007.json",
+        "English/09/09-014-016.json",
+        "English/10/10-010-001.json",
+        "English/10/10-010-003.json",
+        "English/10/10-010-011.json",
+        "English/10/10-011-002.json",
+        "English/13/13-019-001.json",
+        "English/13/13-019-002.json",
+        "English/13/13-019-003.json",
+        "English/13/13-019-004.json",
+        "English/14/14-012-013.json",
+        "English/14/14-027-005.json",
+        "English/14/14-027-006.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

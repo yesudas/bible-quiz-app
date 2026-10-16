@@ -1,0 +1,32 @@
+{
+  "id": "09-025-010",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 25,
+  "verse_reference": "1 Samuel 25:25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Abigail say Nabal's name means?",
+  "options": [
+    "Rich",
+    "Fool",
+    "Shepherd",
+    "Strong"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Abigail",
+    "Nabal"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abigail said, \"He is just like his name—his name means Fool, and folly goes with him.\""
+}

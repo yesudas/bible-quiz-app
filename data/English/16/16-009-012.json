@@ -1,0 +1,35 @@
+{
+  "id": "16-009-012",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 9,
+  "verse_reference": "Nehemiah 9:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What image did the Israelites make for themselves in the wilderness?",
+  "options": [
+    "A golden snake",
+    "A statue of Moses",
+    "A tall tower",
+    "A calf"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They cast for themselves an image of a calf and said it was their god who brought them out of Egypt."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "07-004-010",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 4,
+  "verse_reference": "Judges 4:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "From which two tribes did the LORD tell Barak to take ten thousand men?",
+  "options": [
+    "Ephraim and Benjamin",
+    "Naphtali and Zebulun",
+    "Judah and Simeon",
+    "Issachar and Asher"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [
+    "Barak",
+    "Deborah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD commanded Barak to take ten thousand men of Naphtali and Zebulun."
+}

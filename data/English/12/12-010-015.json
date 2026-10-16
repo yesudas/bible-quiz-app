@@ -1,0 +1,36 @@
+{
+  "id": "12-010-015",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 10,
+  "verse_reference": "2 Kings 10:32",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who overpowered the Israelites when the LORD began to reduce the size of Israel?",
+  "options": [
+    "Ben-Hadad",
+    "Mesha",
+    "Jehonadab",
+    "Hazael"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Hazael"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In those days the LORD began to reduce the size of Israel, and Hazael overpowered the Israelites throughout their territory."
+}

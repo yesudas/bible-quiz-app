@@ -1,0 +1,35 @@
+{
+  "id": "19-027-001",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 27,
+  "verse_reference": "Psalm 27:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"The LORD is my light and my ____ \u2014 whom shall I fear?\"",
+  "options": [
+    "strength",
+    "shield",
+    "salvation",
+    "song"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Faith",
+    "Courage"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 27:1 says, \"The LORD is my light and my salvation \u2014 whom shall I fear?\""
+}

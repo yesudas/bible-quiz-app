@@ -1,0 +1,36 @@
+{
+  "id": "11-007-008",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 7,
+  "verse_reference": "1 Kings 7:21",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "What were the names of the two bronze pillars at the temple?",
+  "options": [
+    "Ebenezer and Gilgal",
+    "Shiloh and Bethel",
+    "Hiram and Huram",
+    "Jakin and Boaz"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Huram"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The pillar to the south was named Jakin and the one to the north Boaz."
+}

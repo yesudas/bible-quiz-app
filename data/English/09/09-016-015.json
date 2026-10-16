@@ -1,0 +1,34 @@
+{
+  "id": "09-016-015",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 16,
+  "verse_reference": "1 Samuel 16:23",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened when David played the lyre for Saul?",
+  "options": [
+    "Saul fell asleep",
+    "Saul became angry",
+    "The Philistines ran away",
+    "Saul felt relief and the evil spirit left him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Suffering"
+  ],
+  "characters": [
+    "David",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Whenever the spirit came on Saul, David took his lyre and played. Then relief came to Saul, he felt better, and the evil spirit left him."
+}

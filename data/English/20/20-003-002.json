@@ -1,0 +1,31 @@
+{
+  "id": "20-003-002",
+  "language": "en",
+  "book_no": 20,
+  "book": "Proverbs",
+  "chapter": 3,
+  "verse_reference": "Proverbs 3:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Trust in the LORD with all your heart and lean not on your own ______.\"",
+  "options": [
+    "strength",
+    "friends",
+    "understanding",
+    "riches"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Proverbs 3:5 says to trust in the LORD with all your heart and lean not on your own understanding."
+}

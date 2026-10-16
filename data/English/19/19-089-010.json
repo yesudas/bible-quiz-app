@@ -1,0 +1,33 @@
+{
+  "id": "19-089-010",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 89,
+  "verse_reference": "Psalm 89:34",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"I will not violate my ____ or alter what my lips have uttered.\"",
+  "options": [
+    "law",
+    "covenant",
+    "throne",
+    "temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Ethan"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promises He will not break His covenant or change what He has said."
+}

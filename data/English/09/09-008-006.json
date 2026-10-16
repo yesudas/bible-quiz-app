@@ -1,0 +1,32 @@
+{
+  "id": "09-008-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 8,
+  "verse_reference": "1 Samuel 8:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to the LORD, whom had the people really rejected by asking for a king?",
+  "options": [
+    "Samuel",
+    "The elders",
+    "The LORD Himself as their king",
+    "Samuel's sons"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Samuel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Samuel, \"It is not you they have rejected, but they have rejected me as their king.\""
+}

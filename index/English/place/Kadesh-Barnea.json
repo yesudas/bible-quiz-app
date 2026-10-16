@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Kadesh-Barnea",
+    "label": "Kadesh Barnea",
+    "count": 4,
+    "paths": [
+        "English/05/05-001-006.json",
+        "English/05/05-002-006.json",
+        "English/05/05-009-010.json",
+        "English/06/06-014-005.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

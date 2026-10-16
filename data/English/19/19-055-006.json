@@ -1,0 +1,31 @@
+{
+  "id": "19-055-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 55,
+  "verse_reference": "Psalm 55:21",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "In Psalm 55:21, the false friend's words were smooth as butter, but what was in his heart?",
+  "options": [
+    "War",
+    "Fear",
+    "Love",
+    "Sorrow"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "His talk was smooth as butter, yet war was in his heart; his words were like drawn swords."
+}

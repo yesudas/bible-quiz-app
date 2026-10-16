@@ -1,0 +1,38 @@
+{
+  "id": "23-059-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 59,
+  "verse_reference": "Isaiah 59:20",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Isaiah 59:20, the Redeemer will come to Zion, to whom in Jacob?",
+  "options": [
+    "The rich",
+    "The strong",
+    "Those who repent of their sins",
+    "The kings"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Repentance",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 59:20 says, 'The Redeemer will come to Zion, to those in Jacob who repent of their sins.'"
+}

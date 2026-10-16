@@ -1,0 +1,35 @@
+{
+  "id": "12-004-021",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 4,
+  "verse_reference": "2 Kings 4:42",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the man come from who brought Elisha twenty loaves of barley bread?",
+  "options": [
+    "Shunem",
+    "Gilgal",
+    "Jericho",
+    "Baal Shalishah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [
+    {
+      "name": "Baal Shalishah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A man came from Baal Shalishah bringing twenty loaves of barley bread baked from the first ripe grain."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "06-014-001",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 14,
+  "verse_reference": "Joshua 14:1",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which priest helped Joshua and the tribal leaders give out the land in Canaan?",
+  "options": [
+    "Aaron",
+    "Phinehas",
+    "Eli",
+    "Eleazar"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Promise"
+  ],
+  "characters": [
+    "Eleazar",
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Canaan",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eleazar the priest, Joshua son of Nun and the heads of the tribal clans gave out the land in Canaan."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "19-095-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 95,
+  "verse_reference": "Psalm 95:8",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In Psalm 95:8, God warns His people not to harden their hearts as they did at which place?",
+  "options": [
+    "Meribah",
+    "Bethel",
+    "Gilgal",
+    "Sinai"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Meribah",
+      "type": "other"
+    },
+    {
+      "name": "Massah",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God says, \"Do not harden your hearts as you did at Meribah, as you did that day at Massah in the wilderness.\""
+}

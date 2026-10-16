@@ -1,0 +1,30 @@
+{
+  "id": "21-011-003",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 11,
+  "verse_reference": "Ecclesiastes 11:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to the Teacher, what happens to the person who watches the wind?",
+  "options": [
+    "They will not plant",
+    "They will become wise",
+    "They will not sleep",
+    "They will lose their way"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Whoever watches the wind will not plant; whoever looks at the clouds will not reap.\" Waiting for perfect conditions means nothing gets done."
+}

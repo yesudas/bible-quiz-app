@@ -1,0 +1,31 @@
+{
+  "id": "19-034-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 34,
+  "verse_reference": "Psalm 34:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Turn from evil and do good; seek ____ and pursue it.\"",
+  "options": [
+    "wisdom",
+    "justice",
+    "peace",
+    "truth"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Peace",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 34:14 says, \"Turn from evil and do good; seek peace and pursue it.\""
+}

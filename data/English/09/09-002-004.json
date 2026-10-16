@@ -1,0 +1,44 @@
+{
+  "id": "09-002-004",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 2,
+  "verse_reference": "1 Samuel 2:11",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "After Elkanah went home to Ramah, what did the boy Samuel do?",
+  "options": [
+    "He went back with his family",
+    "He tended sheep",
+    "He studied with the prophets",
+    "He ministered before the LORD under Eli"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Discipleship"
+  ],
+  "characters": [
+    "Samuel",
+    "Eli",
+    "Elkanah"
+  ],
+  "places": [
+    {
+      "name": "Ramah",
+      "type": "town"
+    },
+    {
+      "name": "Shiloh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elkanah returned home to Ramah, but Samuel stayed and ministered before the LORD under Eli the priest."
+}

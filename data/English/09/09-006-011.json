@@ -1,0 +1,50 @@
+{
+  "id": "09-006-011",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 6,
+  "verse_reference": "1 Samuel 6:17",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "The five gold tumors were sent for Ashdod, Gaza, Ashkelon, Gath and which other city?",
+  "options": [
+    "Jericho",
+    "Ekron",
+    "Hebron",
+    "Joppa"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ashdod",
+      "type": "city"
+    },
+    {
+      "name": "Gaza",
+      "type": "city"
+    },
+    {
+      "name": "Ashkelon",
+      "type": "city"
+    },
+    {
+      "name": "Gath",
+      "type": "city"
+    },
+    {
+      "name": "Ekron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The gold tumors were a guilt offering, one each for Ashdod, Gaza, Ashkelon, Gath and Ekron."
+}

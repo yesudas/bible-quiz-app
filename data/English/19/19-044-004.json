@@ -1,0 +1,33 @@
+{
+  "id": "19-044-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 44,
+  "verse_reference": "Psalm 44:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"In God we make our ____ all day long, and we will praise your name forever.\"",
+  "options": [
+    "prayer",
+    "home",
+    "song",
+    "boast"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Faith"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 44:8 says, \"In God we make our boast all day long, and we will praise your name forever.\""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "14-014-010",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 14,
+  "verse_reference": "2 Chronicles 14:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Asa's prayer: \"LORD, there is no one like you to help the ______ against the mighty.\"",
+  "options": [
+    "righteous",
+    "faithful",
+    "powerless",
+    "poor"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [
+    "Asa"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asa called to the LORD, saying there is no one like Him to help the powerless against the mighty."
+}

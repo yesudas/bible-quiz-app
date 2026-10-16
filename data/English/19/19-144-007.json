@@ -1,0 +1,33 @@
+{
+  "id": "19-144-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 144,
+  "verse_reference": "Psalm 144:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Blessed is the people whose God is the ______.\"",
+  "options": [
+    "LORD",
+    "King",
+    "Rock",
+    "Shepherd"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 144 ends by saying the people whose God is the LORD are blessed."
+}

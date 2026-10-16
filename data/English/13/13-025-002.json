@@ -1,0 +1,32 @@
+{
+  "id": "13-025-002",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 25,
+  "verse_reference": "1 Chronicles 25:1",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who joined David in setting apart the temple musicians?",
+  "options": [
+    "The priests of Gibeon",
+    "The commanders of the army",
+    "The elders of Judah",
+    "The prophets Nathan and Gad"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "1 Chronicles 25:1 says David, together with the commanders of the army, set them apart."
+}

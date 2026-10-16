@@ -1,0 +1,36 @@
+{
+  "id": "21-005-001",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 5,
+  "verse_reference": "Ecclesiastes 5:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When you go to the house of God, what does the Teacher say is better than offering the sacrifice of fools?",
+  "options": [
+    "Going near to listen",
+    "Bringing a large gift",
+    "Praying loudly",
+    "Singing many songs"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House of God",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Teacher says, \"Guard your steps when you go to the house of God. Go near to listen rather than to offer the sacrifice of fools.\""
+}

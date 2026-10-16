@@ -1,0 +1,36 @@
+{
+  "id": "14-028-007",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 28,
+  "verse_reference": "2 Chronicles 28:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the men of Israel treat the prisoners they sent back?",
+  "options": [
+    "They chained them",
+    "They sold them",
+    "They left them in the desert",
+    "They clothed, fed and cared for them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Mercy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They clothed the naked, gave them food, drink and healing balm, put the weak on donkeys and brought them back to Jericho."
+}

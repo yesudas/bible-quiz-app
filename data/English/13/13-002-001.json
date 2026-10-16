@@ -1,0 +1,36 @@
+{
+  "id": "13-002-001",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 2,
+  "verse_reference": "1 Chronicles 2:1-2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "Which of these was NOT one of the sons of Israel listed in 1 Chronicles 2?",
+  "options": [
+    "Reuben",
+    "Judah",
+    "Esau",
+    "Benjamin"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Israel",
+    "Reuben",
+    "Judah",
+    "Benjamin",
+    "Esau"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The sons of Israel listed include Reuben, Judah and Benjamin. Esau was Israel's brother, not his son."
+}

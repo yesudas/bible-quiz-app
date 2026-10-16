@@ -1,0 +1,32 @@
+{
+  "id": "18-028-008",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 28,
+  "verse_reference": "Job 28:28",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"The fear of the Lord—that is wisdom, and to shun evil is ____.\"",
+  "options": [
+    "holiness",
+    "obedience",
+    "understanding",
+    "peace"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Obedience"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job 28:28 says, 'The fear of the Lord—that is wisdom, and to shun evil is understanding.'"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-022-002",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 22,
+  "verse_reference": "1 Kings 22:3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Which city did the king of Israel say belonged to Israel but was still held by the king of Aram?",
+  "options": [
+    "Samaria",
+    "Damascus",
+    "Ramoth Gilead",
+    "Jezreel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Ahab"
+  ],
+  "places": [
+    {
+      "name": "Ramoth Gilead",
+      "type": "city"
+    },
+    {
+      "name": "Aram",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king of Israel said, \"Don't you know that Ramoth Gilead belongs to us and yet we are doing nothing to retake it from the king of Aram?\""
+}

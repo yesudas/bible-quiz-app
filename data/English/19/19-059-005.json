@@ -1,0 +1,33 @@
+{
+  "id": "19-059-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 59,
+  "verse_reference": "Psalm 59:16",
+  "question_type": "WHEN",
+  "difficulty": "Easy",
+  "question": "In Psalm 59:16, when does David say he will sing of God's love?",
+  "options": [
+    "At midnight",
+    "In the evening",
+    "At noon",
+    "In the morning"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Love"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David says, \"In the morning I will sing of your love.\""
+}

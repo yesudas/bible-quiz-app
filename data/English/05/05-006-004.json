@@ -1,0 +1,34 @@
+{
+  "id": "05-006-004",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 6,
+  "verse_reference": "Deuteronomy 6:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Moses tell parents to do with God's commandments regarding their children?",
+  "options": [
+    "Hide them until they were grown",
+    "Let the priests teach them only",
+    "Impress them on their children and talk about them throughout the day",
+    "Write them in a sealed book"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Discipleship",
+    "Law"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses told parents to impress God's commands on their children, talking about them at home and away, when lying down and getting up."
+}

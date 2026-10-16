@@ -1,0 +1,38 @@
+{
+  "id": "10-019-016",
+  "language": "en",
+  "book_no": 10,
+  "book": "2 Samuel",
+  "chapter": 19,
+  "verse_reference": "2 Samuel 19:39",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did David do before Barzillai returned home?",
+  "options": [
+    "He gave him a crown",
+    "He kissed and blessed him",
+    "He made him a priest",
+    "He gave him Saul's land"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "David",
+    "Barzillai"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king kissed Barzillai and blessed him, and Barzillai returned to his home."
+}

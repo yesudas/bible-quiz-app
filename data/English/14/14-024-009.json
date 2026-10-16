@@ -1,0 +1,36 @@
+{
+  "id": "14-024-009",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 24,
+  "verse_reference": "2 Chronicles 24:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was Jehoiada buried with the kings in the City of David?",
+  "options": [
+    "Because of the good he had done in Israel for God and His temple",
+    "Because he was a king's son",
+    "Because Joash was his son",
+    "Because he had defeated Aram"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoiada"
+  ],
+  "places": [
+    {
+      "name": "City of David",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoiada was buried with the kings in the City of David because of the good he had done in Israel for God and His temple."
+}

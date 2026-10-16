@@ -1,0 +1,32 @@
+{
+  "id": "09-002-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 2,
+  "verse_reference": "1 Samuel 2:7-8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Hannah's prayer, what does the LORD do for the poor and needy?",
+  "options": [
+    "He leaves them in the dust",
+    "He raises them up and seats them with princes",
+    "He makes them serve the rich",
+    "He sends them to other lands"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Hope"
+  ],
+  "characters": [
+    "Hannah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hannah said the LORD raises the poor from the dust and lifts the needy from the ash heap, and seats them with princes."
+}

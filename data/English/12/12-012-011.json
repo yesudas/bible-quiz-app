@@ -1,0 +1,35 @@
+{
+  "id": "12-012-011",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 12,
+  "verse_reference": "2 Kings 12:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did no one ask the supervisors to give an account of the money?",
+  "options": [
+    "The king trusted only priests",
+    "They acted with complete honesty",
+    "There was not much money",
+    "The money was already counted"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They did not require an account from those who paid the workers, because they acted with complete honesty."
+}

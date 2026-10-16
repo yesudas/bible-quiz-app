@@ -1,0 +1,35 @@
+{
+  "id": "07-020-016",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 20,
+  "verse_reference": "Judges 20:18-35",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened in Israel's three battles against Benjamin?",
+  "options": [
+    "Israel won all three battles",
+    "Israel won the first battle and lost the other two",
+    "Israel lost the first two battles and won the third",
+    "Israel lost the first battle, won the second, and lost the third"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gibeah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel lost on the first and second days. After weeping, fasting and offering sacrifices, the LORD gave them victory on the third day."
+}

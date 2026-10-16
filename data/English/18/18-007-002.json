@@ -1,0 +1,32 @@
+{
+  "id": "18-007-002",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 7,
+  "verse_reference": "Job 7:7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Job 7:7, what did Job say his life was like?",
+  "options": [
+    "A breath",
+    "A tall tree",
+    "A strong tower",
+    "A long road"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job asked God to remember that his life was but a breath and that his eyes would never see happiness again."
+}

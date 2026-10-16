@@ -1,0 +1,42 @@
+{
+  "id": "12-012-013",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 12,
+  "verse_reference": "2 Kings 12:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Joash stop Hazael from attacking Jerusalem?",
+  "options": [
+    "His army defeated Hazael",
+    "Elisha prayed and Hazael was blinded",
+    "He gave his daughter in marriage",
+    "He sent him the sacred objects and gold from the temple and palace"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Money"
+  ],
+  "characters": [
+    "Joash",
+    "Hazael"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joash took the sacred objects and all the gold from the treasuries and sent them to Hazael, who then withdrew."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "23-008-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 8,
+  "verse_reference": "Isaiah 8:7-8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Isaiah 8:7-8, what is the king of Assyria compared to?",
+  "options": [
+    "A roaring lion",
+    "A strong wind",
+    "Mighty floodwaters of the Euphrates",
+    "A swarm of locusts"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Euphrates River",
+      "type": "river"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 8:7-8 says the Lord would bring against them the mighty floodwaters of the Euphrates, the king of Assyria, sweeping into Judah up to the neck."
+}

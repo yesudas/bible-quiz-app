@@ -1,0 +1,35 @@
+{
+  "id": "09-006-006",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 6,
+  "verse_reference": "1 Samuel 6:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the cows travel with the ark?",
+  "options": [
+    "They wandered for many days",
+    "They went straight toward Beth Shemesh, not turning right or left",
+    "They turned back toward Ekron",
+    "They stopped at the border and would not move"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Beth Shemesh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The cows went straight up toward Beth Shemesh, keeping on the road and lowing all the way; they did not turn to the right or to the left."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "21-006-002",
+  "language": "en",
+  "book_no": 21,
+  "book": "Ecclesiastes",
+  "chapter": 6,
+  "verse_reference": "Ecclesiastes 6:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "The Teacher speaks of a man with a hundred children who lives many years but cannot enjoy his prosperity. Whom does he say is better off than that man?",
+  "options": [
+    "A poor beggar",
+    "A stillborn child",
+    "A lonely widow",
+    "A servant"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Teacher says that if a man cannot enjoy his prosperity and does not receive proper burial, a stillborn child is better off than he."
+}

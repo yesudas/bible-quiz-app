@@ -1,0 +1,33 @@
+{
+  "id": "19-077-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 77,
+  "verse_reference": "Psalm 77:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"I will remember the deeds of the LORD; yes, I will remember your ____ of long ago.\"",
+  "options": [
+    "laws",
+    "people",
+    "words",
+    "miracles"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Faith"
+  ],
+  "characters": [
+    "Asaph"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Asaph turns from his troubles to remember God's deeds and miracles of long ago."
+}

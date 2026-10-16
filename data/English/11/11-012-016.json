@@ -1,0 +1,41 @@
+{
+  "id": "11-012-016",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 12,
+  "verse_reference": "1 Kings 12:29",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Jeroboam set up the two golden calves?",
+  "options": [
+    "Shechem and Samaria",
+    "Jerusalem and Hebron",
+    "Bethel and Dan",
+    "Gilgal and Shiloh"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Jeroboam"
+  ],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "town"
+    },
+    {
+      "name": "Dan",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeroboam set up one golden calf in Bethel and the other in Dan."
+}

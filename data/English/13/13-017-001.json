@@ -1,0 +1,34 @@
+{
+  "id": "13-017-001",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 17,
+  "verse_reference": "1 Chronicles 17:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "To which prophet did David speak about building a house for the ark?",
+  "options": [
+    "Samuel",
+    "Gad",
+    "Nathan",
+    "Elijah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Prophecy"
+  ],
+  "characters": [
+    "David",
+    "Nathan"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David said to Nathan the prophet that he lived in a house of cedar while the ark of the covenant was under a tent."
+}

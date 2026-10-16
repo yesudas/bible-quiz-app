@@ -1,0 +1,34 @@
+{
+  "id": "23-031-006",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 31,
+  "verse_reference": "Isaiah 31:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "By what kind of sword would Assyria fall?",
+  "options": [
+    "The sword of Egypt",
+    "The sword of Judah's army",
+    "A sword that is not of mortals",
+    "The sword of Babylon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 31:8 says, 'Assyria will fall by no human sword; a sword, not of mortals, will devour them.'"
+}

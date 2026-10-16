@@ -1,0 +1,37 @@
+{
+  "id": "12-001-016",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 1,
+  "verse_reference": "2 Kings 1:17",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who became king of Israel after Ahaziah died?",
+  "options": [
+    "Jehu",
+    "Jehoshaphat",
+    "Omri",
+    "Joram"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Ahaziah",
+    "Joram"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Because Ahaziah had no son, Joram succeeded him as king."
+}

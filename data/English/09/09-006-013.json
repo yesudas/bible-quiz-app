@@ -1,0 +1,38 @@
+{
+  "id": "09-006-013",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 6,
+  "verse_reference": "1 Samuel 6:21",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "To which town did the people of Beth Shemesh send messengers about the ark?",
+  "options": [
+    "Kiriath Jearim",
+    "Shiloh",
+    "Ramah",
+    "Mizpah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Kiriath Jearim",
+      "type": "town"
+    },
+    {
+      "name": "Beth Shemesh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They sent messengers to the people of Kiriath Jearim, asking them to come down and take the ark up to their town."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "09-004-014",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 4,
+  "verse_reference": "1 Samuel 4:21-22",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What name did the wife of Phinehas give her son, saying \"The Glory has departed from Israel\"?",
+  "options": [
+    "Ahitub",
+    "Ichabod",
+    "Ahijah",
+    "Obed"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Covenant",
+    "Family"
+  ],
+  "characters": [
+    "Ichabod",
+    "Phinehas"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "She named the boy Ichabod, saying, \"The Glory has departed from Israel,\" because the ark of God had been captured."
+}

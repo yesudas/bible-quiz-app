@@ -1,0 +1,35 @@
+{
+  "id": "09-006-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 6,
+  "verse_reference": "1 Samuel 6:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the Philistines make out of gold as their guilt offering?",
+  "options": [
+    "Five gold calves and five gold cups",
+    "Five gold tumors and five gold rats",
+    "Seven gold crowns",
+    "Twelve gold bars"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Philistia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They made five gold tumors and five gold rats, according to the number of the Philistine rulers."
+}

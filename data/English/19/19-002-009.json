@@ -1,0 +1,32 @@
+{
+  "id": "19-002-009",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 2,
+  "verse_reference": "Psalm 2:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Blessed are all who take ____ in him.\"",
+  "options": [
+    "delight",
+    "refuge",
+    "rest",
+    "pride"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Hope",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 2 ends by saying, \"Blessed are all who take refuge in him.\""
+}

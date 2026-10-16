@@ -1,0 +1,38 @@
+{
+  "id": "16-006-001",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 6,
+  "verse_reference": "Nehemiah 6:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Sanballat and Geshem ask Nehemiah to meet them?",
+  "options": [
+    "In the Valley of Hinnom",
+    "On the plain of Ono",
+    "At the Pool of Siloam",
+    "In the city of Samaria"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Nehemiah",
+    "Sanballat",
+    "Geshem"
+  ],
+  "places": [
+    {
+      "name": "Plain of Ono",
+      "type": "plain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sanballat and Geshem asked Nehemiah to meet them in one of the villages on the plain of Ono, but they were scheming to harm him."
+}

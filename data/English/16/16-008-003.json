@@ -1,0 +1,40 @@
+{
+  "id": "16-008-003",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 8,
+  "verse_reference": "Nehemiah 8:3",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "For how long did Ezra read the Law aloud to the people that day?",
+  "options": [
+    "For one hour",
+    "All night",
+    "From daybreak till noon",
+    "For seven hours after sunset"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Ezra"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Water Gate",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra read it aloud from daybreak till noon, and all the people listened attentively."
+}

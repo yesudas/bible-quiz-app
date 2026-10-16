@@ -1,0 +1,32 @@
+{
+  "id": "19-127-006",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 127,
+  "verse_reference": "Psalm 127:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Psalm 127 says children born in one's youth are like what in the hands of a warrior?",
+  "options": [
+    "Shields",
+    "Swords",
+    "Arrows",
+    "Spears"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Like arrows in the hands of a warrior are children born in one's youth."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Absalom-s-house",
+    "label": "Absalom's house",
+    "count": 2,
+    "paths": [
+        "English/10/10-013-007.json",
+        "English/10/10-014-010.json"
+    ],
+    "generated": "2026-10-16T13:50:54+00:00"
+}

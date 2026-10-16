@@ -1,0 +1,34 @@
+{
+  "id": "12-007-007",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 7,
+  "verse_reference": "2 Kings 7:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why had the Aramean army run away?",
+  "options": [
+    "The Lord made them hear the sound of a great army with chariots and horses",
+    "Elisha struck them with blindness",
+    "A plague broke out in their camp",
+    "Their king called them home"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Aramean camp",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord caused the Arameans to hear the sound of chariots, horses and a great army, so they fled for their lives."
+}

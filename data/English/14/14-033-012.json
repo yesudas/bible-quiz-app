@@ -1,0 +1,47 @@
+{
+  "id": "14-033-012",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 33,
+  "verse_reference": "2 Chronicles 33:14",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which wall did Manasseh rebuild after his return?",
+  "options": [
+    "The wall of Samaria",
+    "The outer wall of the City of David",
+    "The wall of Lachish",
+    "The wall of the temple court"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Manasseh"
+  ],
+  "places": [
+    {
+      "name": "City of David",
+      "type": "city"
+    },
+    {
+      "name": "Gihon spring",
+      "type": "well"
+    },
+    {
+      "name": "Fish Gate",
+      "type": "road"
+    },
+    {
+      "name": "Hill of Ophel",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Manasseh rebuilt the outer wall of the City of David, west of the Gihon spring, as far as the Fish Gate and around the hill of Ophel."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "07-016-014",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 16,
+  "verse_reference": "Judges 16:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Philistines do to Samson after they seized him?",
+  "options": [
+    "They cut off his thumbs",
+    "They shaved his head again",
+    "They gouged out his eyes",
+    "They branded his arm"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [
+    {
+      "name": "Gaza",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Philistines seized Samson, gouged out his eyes and took him down to Gaza."
+}

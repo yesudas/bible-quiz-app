@@ -1,0 +1,39 @@
+{
+  "id": "23-036-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 36,
+  "verse_reference": "Isaiah 36:2",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "From which city did the king of Assyria send his field commander to Jerusalem?",
+  "options": [
+    "Nineveh",
+    "Damascus",
+    "Samaria",
+    "Lachish"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Sennacherib"
+  ],
+  "places": [
+    {
+      "name": "Lachish",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 36:2 says the king of Assyria sent his field commander with a large army from Lachish to King Hezekiah at Jerusalem."
+}

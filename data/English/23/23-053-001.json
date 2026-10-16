@@ -1,0 +1,30 @@
+{
+  "id": "23-053-001",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 53,
+  "verse_reference": "Isaiah 53:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: 'Who has believed our message and to whom has the ______ of the LORD been revealed?'",
+  "options": [
+    "arm",
+    "glory",
+    "face",
+    "word"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 53:1 asks, 'Who has believed our message and to whom has the arm of the LORD been revealed?'"
+}

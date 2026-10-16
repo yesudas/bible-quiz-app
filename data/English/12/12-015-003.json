@@ -1,0 +1,38 @@
+{
+  "id": "12-015-003",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 15,
+  "verse_reference": "2 Kings 15:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who governed the people of Judah while King Azariah had leprosy?",
+  "options": [
+    "His son Jotham",
+    "His mother Jekoliah",
+    "The high priest",
+    "His son Ahaz"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Jotham",
+    "Azariah"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jotham the king's son had charge of the palace and governed the people of the land."
+}

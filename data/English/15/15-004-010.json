@@ -1,0 +1,37 @@
+{
+  "id": "15-004-010",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 4,
+  "verse_reference": "Ezra 4:24",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "Until when did the work on the house of God in Jerusalem stop?",
+  "options": [
+    "The first year of Cyrus",
+    "The second year of King Darius",
+    "The seventh year of Artaxerxes",
+    "The death of King Xerxes"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Suffering"
+  ],
+  "characters": [
+    "Darius"
+  ],
+  "places": [
+    {
+      "name": "House of God in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The work on the house of God came to a standstill until the second year of the reign of Darius king of Persia."
+}

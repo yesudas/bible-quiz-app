@@ -1,0 +1,35 @@
+{
+  "id": "05-016-002",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 16,
+  "verse_reference": "Deuteronomy 16:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was unleavened bread called the 'bread of affliction' at Passover?",
+  "options": [
+    "Because it was hard to bake",
+    "Because it was tasteless",
+    "So that Israel would remember their hurried departure from Egypt all their life",
+    "Because it was only for the poor"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The unleavened bread was called the bread of affliction so that all their lives Israel would remember the day they left Egypt in haste."
+}

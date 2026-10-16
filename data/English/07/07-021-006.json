@@ -1,0 +1,34 @@
+{
+  "id": "07-021-006",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 21,
+  "verse_reference": "Judges 21:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many young unmarried women did they find in Jabesh Gilead?",
+  "options": [
+    "Four hundred",
+    "Six hundred",
+    "Two hundred",
+    "One thousand"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jabesh Gilead",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They found four hundred young unmarried women among the people of Jabesh Gilead."
+}

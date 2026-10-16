@@ -1,0 +1,36 @@
+{
+  "id": "05-004-006",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 4,
+  "verse_reference": "Deuteronomy 4:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God declare to Israel and write on two stone tablets?",
+  "options": [
+    "The Ten Commandments",
+    "The names of the tribes",
+    "A list of the kings of Canaan",
+    "The order of the feasts"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant",
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Horeb",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God declared His covenant, the Ten Commandments, and wrote them on two stone tablets."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "11-013-001",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 13,
+  "verse_reference": "1 Kings 13:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where was King Jeroboam standing when a man of God from Judah came to speak against the altar?",
+  "options": [
+    "By the altar at Bethel",
+    "In the temple in Jerusalem",
+    "At the gate of Shechem",
+    "At the high place in Dan"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Worship"
+  ],
+  "characters": [
+    "Jeroboam"
+  ],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "town"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "By the word of the LORD a man of God came from Judah to Bethel as Jeroboam was standing by the altar to make an offering."
+}

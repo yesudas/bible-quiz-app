@@ -1,0 +1,39 @@
+{
+  "id": "19-116-010",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 116,
+  "verse_reference": "Psalm 116:17-19",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the psalmist say he would fulfill his vows to the LORD?",
+  "options": [
+    "On Mount Sinai",
+    "At the Jordan River",
+    "In Bethlehem",
+    "In the courts of the house of the LORD in Jerusalem"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "House of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He promised to fulfill his vows in the courts of the house of the LORD, in the midst of Jerusalem."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "23-021-007",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 21,
+  "verse_reference": "Isaiah 21:16",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "Within how long would all the splendor of Kedar come to an end?",
+  "options": [
+    "One year",
+    "Three years",
+    "Seven years",
+    "Seventy years"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Kedar",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 21:16 says, 'Within one year, as a servant bound by contract would count it, all the splendor of Kedar will come to an end.'"
+}

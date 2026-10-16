@@ -1,0 +1,41 @@
+{
+  "id": "14-034-010",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 34,
+  "verse_reference": "2 Chronicles 34:22",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "To which prophet did Hilkiah and the others go to inquire of the LORD?",
+  "options": [
+    "Jeremiah",
+    "Isaiah",
+    "Zephaniah",
+    "Huldah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Huldah",
+    "Hilkiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "New Quarter",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hilkiah and those the king had sent went to speak to the prophet Huldah, who lived in Jerusalem, in the New Quarter."
+}

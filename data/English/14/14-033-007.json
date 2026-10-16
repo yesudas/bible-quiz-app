@@ -1,0 +1,40 @@
+{
+  "id": "14-033-007",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 33,
+  "verse_reference": "2 Chronicles 33:11",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the Assyrian commanders take Manasseh as a prisoner?",
+  "options": [
+    "Babylon",
+    "Nineveh",
+    "Egypt",
+    "Damascus"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Manasseh"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Assyrian commanders took Manasseh prisoner, put a hook in his nose, bound him with bronze shackles and took him to Babylon."
+}

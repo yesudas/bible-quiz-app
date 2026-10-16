@@ -1,0 +1,37 @@
+{
+  "id": "09-012-003",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 12,
+  "verse_reference": "1 Samuel 12:9",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "When Israel forgot the LORD, He sold them into the hands of the Philistines, the king of Moab and which commander?",
+  "options": [
+    "Goliath",
+    "Nahash",
+    "Agag",
+    "Sisera"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Sisera"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel reminded them that when they forgot the LORD, He sold them into the hands of Sisera, the Philistines and the king of Moab."
+}

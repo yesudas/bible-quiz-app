@@ -1,0 +1,29 @@
+{
+  "id": "23-040-003",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 40,
+  "verse_reference": "Isaiah 40:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "To what does Isaiah 40 compare all people?",
+  "options": [
+    "Stars",
+    "Sand",
+    "Rock",
+    "Grass"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 40:6-7 says, 'All people are like grass, and all their faithfulness is like the flowers of the field. The grass withers and the flowers fall.'"
+}

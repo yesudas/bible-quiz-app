@@ -1,0 +1,38 @@
+{
+  "id": "19-089-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 89,
+  "verse_reference": "Psalm 89:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 89:9, what does God do when the waves of the sea mount up?",
+  "options": [
+    "He makes them higher",
+    "He sends them to the land",
+    "He hides from them",
+    "He stills them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation",
+    "Miracles"
+  ],
+  "characters": [
+    "Ethan"
+  ],
+  "places": [
+    {
+      "name": "The sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The psalm says God rules over the surging sea and stills its waves when they mount up."
+}

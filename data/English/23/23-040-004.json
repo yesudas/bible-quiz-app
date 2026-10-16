@@ -1,0 +1,31 @@
+{
+  "id": "23-040-004",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 40,
+  "verse_reference": "Isaiah 40:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: 'The grass withers and the flowers fall, but the word of our God ______ forever.'",
+  "options": [
+    "shines",
+    "grows",
+    "endures",
+    "speaks"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 40:8 says, 'The grass withers and the flowers fall, but the word of our God endures forever.'"
+}

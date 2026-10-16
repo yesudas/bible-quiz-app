@@ -1,0 +1,33 @@
+{
+  "id": "12-004-003",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 4,
+  "verse_reference": "2 Kings 4:3-4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Elisha tell the widow to collect from her neighbours?",
+  "options": [
+    "Pieces of silver",
+    "Empty jars",
+    "Loaves of bread",
+    "Bundles of wool"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Obedience"
+  ],
+  "characters": [
+    "Elisha"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elisha told her to ask all her neighbours for empty jars and not to ask for just a few."
+}

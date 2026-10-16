@@ -1,0 +1,35 @@
+{
+  "id": "12-009-006",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 9,
+  "verse_reference": "2 Kings 9:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Jehu's fellow officers asked: \"Why did this ______ come to you?\"",
+  "options": [
+    "stranger",
+    "servant",
+    "beggar",
+    "maniac"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jehu"
+  ],
+  "places": [
+    {
+      "name": "Ramoth Gilead",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The officers called the young prophet a maniac and asked Jehu why he had come."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "07-008-005",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 8,
+  "verse_reference": "Judges 8:7,16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Gideon punish the officials of Sukkoth for refusing to help him?",
+  "options": [
+    "He burned their city",
+    "He sold them as slaves",
+    "He made them pay him gold",
+    "He punished them with desert thorns and briers"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Gideon"
+  ],
+  "places": [
+    {
+      "name": "Sukkoth",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gideon had warned the officials of Sukkoth, and when he returned he punished them with desert thorns and briers."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "12-007-009",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 7,
+  "verse_reference": "2 Kings 7:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Arameans leave behind when they fled?",
+  "options": [
+    "Their king",
+    "Only their weapons",
+    "Their tents, horses and donkeys",
+    "Nothing at all"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Aramean camp",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They fled at dusk, leaving their tents, horses and donkeys, and ran for their lives."
+}

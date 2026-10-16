@@ -1,0 +1,38 @@
+{
+  "id": "06-009-002",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 9,
+  "verse_reference": "Joshua 9:3",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which people tricked Joshua into making a peace treaty?",
+  "options": [
+    "The people of Jericho",
+    "The people of Gibeon",
+    "The people of Ai",
+    "The people of Moab"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Temptation"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Gibeon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people of Gibeon heard what Joshua had done to Jericho and Ai, so they used a trick to make peace with Israel."
+}

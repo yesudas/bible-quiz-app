@@ -1,0 +1,30 @@
+{
+  "id": "13-016-012",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 16,
+  "verse_reference": "1 Chronicles 16:36",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did all the people respond at the end of David's psalm?",
+  "options": [
+    "They wept",
+    "They blew trumpets",
+    "They bowed and were silent",
+    "They said \"Amen\" and \"Praise the LORD\""
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Then all the people said \"Amen\" and \"Praise the LORD.\""
+}

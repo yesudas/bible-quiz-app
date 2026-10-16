@@ -1,0 +1,32 @@
+{
+  "id": "09-017-014",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 17,
+  "verse_reference": "1 Samuel 17:43",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Goliath said, \"Am I a ___, that you come at me with sticks?\"",
+  "options": [
+    "dog",
+    "lion",
+    "bear",
+    "child"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Goliath",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Goliath despised David and said, \"Am I a dog, that you come at me with sticks?\" He cursed David by his gods."
+}

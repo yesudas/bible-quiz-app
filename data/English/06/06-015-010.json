@@ -1,0 +1,37 @@
+{
+  "id": "06-015-010",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 15,
+  "verse_reference": "Joshua 15:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Caleb answer Aksah's request?",
+  "options": [
+    "He refused",
+    "He gave her only the lower springs",
+    "He gave her the upper and lower springs",
+    "He gave her a field instead"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Caleb",
+    "Aksah"
+  ],
+  "places": [
+    {
+      "name": "Negev",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Caleb generously gave his daughter both the upper and lower springs."
+}

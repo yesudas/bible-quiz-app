@@ -1,0 +1,32 @@
+{
+  "id": "23-011-005",
+  "language": "en",
+  "book_no": 23,
+  "book": "Isaiah",
+  "chapter": 11,
+  "verse_reference": "Isaiah 11:6",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Isaiah's picture of peace, which animal will live with the lamb?",
+  "options": [
+    "The lion",
+    "The bear",
+    "The leopard",
+    "The wolf"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Prophecy",
+    "Peace"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah 11:6 says, 'The wolf will live with the lamb, the leopard will lie down with the goat.'"
+}

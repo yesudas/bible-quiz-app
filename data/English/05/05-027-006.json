@@ -1,0 +1,32 @@
+{
+  "id": "05-027-006",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 27,
+  "verse_reference": "Deuteronomy 27:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "After each curse was recited, all the people were to say \"___.\"",
+  "options": [
+    "Amen",
+    "Hallelujah",
+    "Peace",
+    "So be it done"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Covenant",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All the people answered Amen after each curse the Levites proclaimed, agreeing together to the terms of the covenant."
+}

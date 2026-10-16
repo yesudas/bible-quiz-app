@@ -1,0 +1,34 @@
+{
+  "id": "19-046-007",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 46,
+  "verse_reference": "Psalm 46:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Be ____, and know that I am God.\"",
+  "options": [
+    "strong",
+    "glad",
+    "still",
+    "ready"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Worship",
+    "Peace"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 46:10 says, \"Be still, and know that I am God; I will be exalted among the nations, I will be exalted in the earth.\""
+}

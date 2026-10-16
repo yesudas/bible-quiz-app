@@ -1,0 +1,36 @@
+{
+  "id": "13-013-003",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 13,
+  "verse_reference": "1 Chronicles 13:5-6",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "From which town did David go to bring up the ark of God?",
+  "options": [
+    "Shiloh",
+    "Kiriath Jearim",
+    "Gibeon",
+    "Bethel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Kiriath Jearim",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "David assembled all Israel to bring the ark of God from Kiriath Jearim, also called Baalah of Judah."
+}

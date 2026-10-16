@@ -1,0 +1,29 @@
+{
+  "id": "19-135-004",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 135,
+  "verse_reference": "Psalm 135:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Psalm 135, from where does the LORD bring out the wind?",
+  "options": [
+    "From His storehouses",
+    "From the mountains",
+    "From the sea",
+    "From the desert"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He makes clouds rise, sends lightning with the rain, and brings out the wind from His storehouses."
+}

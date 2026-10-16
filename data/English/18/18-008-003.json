@@ -1,0 +1,32 @@
+{
+  "id": "18-008-003",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 8,
+  "verse_reference": "Job 8:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Bildad's question: \"Does God pervert ____? Does the Almighty pervert what is right?\"",
+  "options": [
+    "mercy",
+    "love",
+    "justice",
+    "truth"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [
+    "Bildad"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Bildad asked, 'Does God pervert justice? Does the Almighty pervert what is right?'"
+}

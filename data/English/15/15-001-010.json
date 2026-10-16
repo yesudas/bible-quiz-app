@@ -1,0 +1,31 @@
+{
+  "id": "15-001-010",
+  "language": "en",
+  "book_no": 15,
+  "book": "Ezra",
+  "chapter": 1,
+  "verse_reference": "Ezra 1:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many articles of gold and silver were there in all?",
+  "options": [
+    "2,400",
+    "5,400",
+    "1,000",
+    "7,337"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Sheshbazzar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezra records that there were 5,400 articles of gold and silver in all."
+}

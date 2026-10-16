@@ -1,0 +1,34 @@
+{
+  "id": "13-008-004",
+  "language": "en",
+  "book_no": 13,
+  "book": "1 Chronicles",
+  "chapter": 8,
+  "verse_reference": "1 Chronicles 8:33",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who was the father of King Saul?",
+  "options": [
+    "Ner",
+    "Abner",
+    "Jesse",
+    "Kish"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Leadership"
+  ],
+  "characters": [
+    "Kish",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Verse 33 says Ner was the father of Kish, and Kish was the father of Saul."
+}

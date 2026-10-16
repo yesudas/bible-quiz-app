@@ -1,0 +1,31 @@
+{
+  "id": "05-010-008",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 10,
+  "verse_reference": "Deuteronomy 10:17-18",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Whom does Moses say the great and mighty God defends and cares for?",
+  "options": [
+    "Only kings and priests",
+    "The fatherless, the widow, and the foreigner",
+    "Only the wealthy",
+    "Only the tribe of Levi"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Justice",
+    "Love",
+    "Mercy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses declared that God shows no partiality and defends the cause of the fatherless and the widow, and loves the foreigner, giving them food and clothing."
+}

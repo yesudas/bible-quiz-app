@@ -1,0 +1,31 @@
+{
+  "id": "06-018-008",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 18,
+  "verse_reference": "Joshua 18:11",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "The first lot came up for which tribe?",
+  "options": [
+    "Benjamin",
+    "Dan",
+    "Simeon",
+    "Zebulun"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The first lot came up for the tribe of Benjamin, clan by clan."
+}

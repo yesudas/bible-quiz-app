@@ -1,0 +1,36 @@
+{
+  "id": "12-025-001",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 25,
+  "verse_reference": "2 Kings 25:1-2",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "In which year of Zedekiah's reign did Nebuchadnezzar begin the siege of Jerusalem?",
+  "options": [
+    "The ninth year",
+    "The first year",
+    "The eleventh year",
+    "The fifth year"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Zedekiah",
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the ninth year of Zedekiah's reign, Nebuchadnezzar marched against Jerusalem and built siege works all around it."
+}

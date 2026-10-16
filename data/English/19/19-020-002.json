@@ -1,0 +1,42 @@
+{
+  "id": "19-020-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 20,
+  "verse_reference": "Psalm 20:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Psalm 20:2, from where do the people pray that the LORD will grant the king support?",
+  "options": [
+    "From Zion",
+    "From Bethel",
+    "From Egypt",
+    "From Sinai"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "mountain"
+    },
+    {
+      "name": "The sanctuary",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 20:2 says, \"May he send you help from the sanctuary and grant you support from Zion.\""
+}

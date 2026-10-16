@@ -1,0 +1,39 @@
+{
+  "id": "19-026-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 26,
+  "verse_reference": "Psalm 26:8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Psalm 26:8, what does David say he loves?",
+  "options": [
+    "The house where the LORD lives",
+    "The city of Hebron",
+    "His royal palace",
+    "The fields of Bethlehem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Love"
+  ],
+  "characters": [
+    "David",
+    "God"
+  ],
+  "places": [
+    {
+      "name": "The house of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Psalm 26:8 says, \"LORD, I love the house where you live, the place where your glory dwells.\""
+}

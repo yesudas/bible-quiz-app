@@ -1,0 +1,39 @@
+{
+  "id": "08-002-003",
+  "language": "en",
+  "book_no": 8,
+  "book": "Ruth",
+  "chapter": 2,
+  "verse_reference": "Ruth 2:3",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Whose field did Ruth happen to work in?",
+  "options": [
+    "Elimelek's field",
+    "The priest's field",
+    "The king's field",
+    "Boaz's field"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Provision",
+    "God's Guidance"
+  ],
+  "characters": [
+    "Ruth",
+    "Boaz"
+  ],
+  "places": [
+    {
+      "name": "Boaz's field",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ruth happened to come to the part of the field that belonged to Boaz, who was from Elimelek's clan."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "06-020-003",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 20,
+  "verse_reference": "Joshua 20:4",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did a person who fled to a city of refuge stand to explain their case?",
+  "options": [
+    "At the altar",
+    "In the tent of meeting",
+    "At the entrance of the city gate",
+    "At the riverbank"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Justice"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "city gate",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They were to stand at the entrance of the city gate and state their case before the elders of that city."
+}

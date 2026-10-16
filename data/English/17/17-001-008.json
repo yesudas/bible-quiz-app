@@ -1,0 +1,34 @@
+{
+  "id": "17-001-008",
+  "language": "en",
+  "book_no": 17,
+  "book": "Esther",
+  "chapter": 1,
+  "verse_reference": "Esther 1:12",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did Queen Vashti respond when the king's eunuchs brought his command?",
+  "options": [
+    "She came at once",
+    "She sent a gift instead",
+    "She asked for three days to prepare",
+    "She refused to come"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Marriage",
+    "Obedience"
+  ],
+  "characters": [
+    "Vashti",
+    "Xerxes"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Queen Vashti refused to come, and the king became furious and burned with anger."
+}

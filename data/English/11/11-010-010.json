@@ -1,0 +1,33 @@
+{
+  "id": "11-010-010",
+  "language": "en",
+  "book_no": 11,
+  "book": "1 Kings",
+  "chapter": 10,
+  "verse_reference": "1 Kings 10:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Solomon's great throne was covered with what, and overlaid with fine gold?",
+  "options": [
+    "Bronze",
+    "Cedar",
+    "Ivory",
+    "Silver"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Money"
+  ],
+  "characters": [
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king made a great throne covered with ivory and overlaid with fine gold."
+}

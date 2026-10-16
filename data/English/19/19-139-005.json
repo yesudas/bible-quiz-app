@@ -1,0 +1,33 @@
+{
+  "id": "19-139-005",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 139,
+  "verse_reference": "Psalm 139:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "What does Psalm 139 teach about whether we can go anywhere God is not?",
+  "options": [
+    "God is there wherever we go",
+    "God stays only in heaven",
+    "God is only in the temple",
+    "God cannot see the depths"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "If David went up to the heavens or made his bed in the depths, God would be there."
+}

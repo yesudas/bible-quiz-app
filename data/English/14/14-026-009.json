@@ -1,0 +1,37 @@
+{
+  "id": "14-026-009",
+  "language": "en",
+  "book_no": 14,
+  "book": "2 Chronicles",
+  "chapter": 26,
+  "verse_reference": "2 Chronicles 26:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Uzziah wrongly go into the temple to do?",
+  "options": [
+    "Offer a lamb",
+    "Burn incense on the altar of incense",
+    "Take the gold",
+    "Read the Law"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Uzziah"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Uzziah was unfaithful to the LORD and entered the temple to burn incense on the altar of incense."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "19-103-010",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 103,
+  "verse_reference": "Psalm 103:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Psalm 103 compares the LORD's compassion to the compassion of whom?",
+  "options": [
+    "A king for his servants",
+    "A shepherd for his sheep",
+    "A father for his children",
+    "A teacher for his students"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Family"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As a father has compassion on his children, so the LORD has compassion on those who fear Him."
+}

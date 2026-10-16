@@ -1,0 +1,33 @@
+{
+  "id": "09-015-005",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 15,
+  "verse_reference": "1 Samuel 15:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Samuel respond when the LORD said He regretted making Saul king?",
+  "options": [
+    "He was angry and cried out to the LORD all night",
+    "He went to anoint a new king",
+    "He celebrated",
+    "He left Israel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Leadership"
+  ],
+  "characters": [
+    "Samuel",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samuel was angry, and he cried out to the LORD all that night."
+}

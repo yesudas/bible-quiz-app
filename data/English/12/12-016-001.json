@@ -1,0 +1,37 @@
+{
+  "id": "12-016-001",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 16,
+  "verse_reference": "2 Kings 16:1-2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which son of Jotham became king of Judah at twenty and reigned sixteen years?",
+  "options": [
+    "Hezekiah",
+    "Azariah",
+    "Manasseh",
+    "Ahaz"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Ahaz",
+    "Jotham"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ahaz son of Jotham became king at twenty years old and reigned in Jerusalem sixteen years."
+}

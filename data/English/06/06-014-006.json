@@ -1,0 +1,33 @@
+{
+  "id": "06-014-006",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 14,
+  "verse_reference": "Joshua 14:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Caleb said, \"I, however, followed the LORD my God ____.\"",
+  "options": [
+    "quietly",
+    "wholeheartedly",
+    "sometimes",
+    "from far away"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Obedience"
+  ],
+  "characters": [
+    "Caleb"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While others made the people afraid, Caleb followed the LORD his God wholeheartedly."
+}

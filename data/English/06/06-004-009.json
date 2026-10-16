@@ -1,0 +1,35 @@
+{
+  "id": "06-004-009",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 4,
+  "verse_reference": "Joshua 4:18",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "What happened as soon as the priests carrying the ark stepped out onto dry ground?",
+  "options": [
+    "The ark began to shine",
+    "A storm came",
+    "The waters of the Jordan returned to flood stage",
+    "The walls of Jericho fell"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As soon as the priests' feet touched dry ground, the waters of the Jordan returned and ran at flood stage as before."
+}

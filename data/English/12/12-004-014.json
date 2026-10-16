@@ -1,0 +1,36 @@
+{
+  "id": "12-004-014",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 4,
+  "verse_reference": "2 Kings 4:26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When Gehazi asked if everything was all right, what did the woman answer?",
+  "options": [
+    "\"My son is dead\"",
+    "\"Where is the man of God?\"",
+    "\"Everything is all right\"",
+    "\"I need help at once\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Gehazi"
+  ],
+  "places": [
+    {
+      "name": "Mount Carmel",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Even though her son had died, she told Gehazi, 'Everything is all right,' and went straight to Elisha."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "07-014-001",
+  "language": "en",
+  "book_no": 7,
+  "book": "Judges",
+  "chapter": 14,
+  "verse_reference": "Judges 14:1",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did Samson see the young Philistine woman he wanted to marry?",
+  "options": [
+    "Gaza",
+    "Zorah",
+    "Timnah",
+    "Ashkelon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [
+    "Samson"
+  ],
+  "places": [
+    {
+      "name": "Timnah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samson went down to Timnah and saw there a young Philistine woman."
+}

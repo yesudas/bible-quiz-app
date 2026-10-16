@@ -1,0 +1,45 @@
+{
+  "id": "12-024-005",
+  "language": "en",
+  "book_no": 12,
+  "book": "2 Kings",
+  "chapter": 24,
+  "verse_reference": "2 Kings 24:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the king of Egypt not march out of his country again?",
+  "options": [
+    "He had made a treaty with Judah",
+    "He had become ill",
+    "The LORD struck his army",
+    "Babylon had taken all his land from the Wadi of Egypt to the Euphrates"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Wadi of Egypt",
+      "type": "river"
+    },
+    {
+      "name": "Euphrates River",
+      "type": "river"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king of Babylon had taken all his territory, from the Wadi of Egypt to the Euphrates River."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "18-010-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 10,
+  "verse_reference": "Job 10:10-11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Job 10, how did Job describe the way God knit his body together?",
+  "options": [
+    "With iron and bronze",
+    "With bones and sinews",
+    "With gold and silver",
+    "With roots and branches"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "Job"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Job said God clothed him with skin and flesh and knit him together with bones and sinews."
+}

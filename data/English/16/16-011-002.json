@@ -1,0 +1,35 @@
+{
+  "id": "16-011-002",
+  "language": "en",
+  "book_no": 16,
+  "book": "Nehemiah",
+  "chapter": 11,
+  "verse_reference": "Nehemiah 11:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Nehemiah 11:1: \"...to bring one out of every ten of them to live in Jerusalem, the ______ city.\"",
+  "options": [
+    "holy",
+    "great",
+    "golden",
+    "royal"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nehemiah 11:1 calls Jerusalem \"the holy city.\""
+}

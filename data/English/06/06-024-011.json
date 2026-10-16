@@ -1,0 +1,37 @@
+{
+  "id": "06-024-011",
+  "language": "en",
+  "book_no": 6,
+  "book": "Joshua",
+  "chapter": 24,
+  "verse_reference": "Joshua 24:29",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How old was Joshua when he died?",
+  "options": [
+    "One hundred and twenty",
+    "Eighty-five",
+    "One hundred and ten",
+    "Ninety"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "Timnath Serah",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua son of Nun, the servant of the LORD, died at the age of a hundred and ten."
+}

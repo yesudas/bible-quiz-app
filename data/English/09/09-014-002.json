@@ -1,0 +1,40 @@
+{
+  "id": "09-014-002",
+  "language": "en",
+  "book_no": 9,
+  "book": "1 Samuel",
+  "chapter": 14,
+  "verse_reference": "1 Samuel 14:2",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where was Saul staying while Jonathan went to the outpost?",
+  "options": [
+    "In a cave at Adullam",
+    "Under a pomegranate tree in Migron",
+    "In the tent of meeting",
+    "At the city gate of Gibeah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Gibeah",
+      "type": "town"
+    },
+    {
+      "name": "Migron",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul was staying on the outskirts of Gibeah under a pomegranate tree in Migron, with about six hundred men."
+}

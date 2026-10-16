@@ -1,0 +1,31 @@
+{
+  "id": "19-112-002",
+  "language": "en",
+  "book_no": 19,
+  "book": "Psalms",
+  "chapter": 112,
+  "verse_reference": "Psalm 112:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Psalm 112, what will happen to the children of those who fear the LORD?",
+  "options": [
+    "They will be mighty in the land",
+    "They will move to Egypt",
+    "They will become priests",
+    "They will be poor"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Their children will be mighty in the land, and the generation of the upright will be blessed."
+}

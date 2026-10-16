@@ -1,0 +1,43 @@
+{
+  "id": "05-032-013",
+  "language": "en",
+  "book_no": 5,
+  "book": "Deuteronomy",
+  "chapter": 32,
+  "verse_reference": "Deuteronomy 32:48-50",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which mountain did God tell Moses to climb to view Canaan before he died?",
+  "options": [
+    "Mount Hor",
+    "Mount Nebo",
+    "Mount Ebal",
+    "Mount Gerizim"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Judgment",
+    "Promise"
+  ],
+  "characters": [
+    "Moses",
+    "Aaron"
+  ],
+  "places": [
+    {
+      "name": "Mount Nebo",
+      "type": "mountain"
+    },
+    {
+      "name": "Canaan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Moses to go up Mount Nebo in Moab to view Canaan and die there, as his brother Aaron had died on Mount Hor."
+}

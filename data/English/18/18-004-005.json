@@ -1,0 +1,32 @@
+{
+  "id": "18-004-005",
+  "language": "en",
+  "book_no": 18,
+  "book": "Job",
+  "chapter": 4,
+  "verse_reference": "Job 4:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Eliphaz's words: \"Those who plow evil and those who sow trouble ____ it.\"",
+  "options": [
+    "reap",
+    "hide",
+    "fear",
+    "hate"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Eliphaz"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Eliphaz said, 'Those who plow evil and those who sow trouble reap it.'"
+}
