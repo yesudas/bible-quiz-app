@@ -1,5 +1,5 @@
 {
-  "name": "Free Bible Quiz - WordOfGod",
+  "name": "Bible Quiz Multi-Language - WordOfGod",
   "short_name": "Bible Quiz",
   "description": "Free Bible quiz in multiple languages from www.WordOfGod.in",
   "start_url": "./?f=app",
@@ -20,12 +20,6 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
-    },
-    {
-      "src": "assets/images/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
     }
   ]
 }

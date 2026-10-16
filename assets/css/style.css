@@ -211,7 +211,8 @@ a:hover { color: var(--navy); }
 }
 
 .timed-fieldset,
-.difficulty-fieldset {
+.difficulty-fieldset,
+.share-protect-fieldset {
     border: 2px dashed var(--yellow);
     border-radius: 16px;
     background: #fff9ea;
@@ -224,8 +225,14 @@ a:hover { color: var(--navy); }
     background: #edfaf7;
 }
 
+.share-protect-fieldset {
+    border-color: var(--accent);
+    background: #fff0f6;
+}
+
 .timed-fieldset legend,
-.difficulty-fieldset legend {
+.difficulty-fieldset legend,
+.share-protect-fieldset legend {
     padding: 0 8px;
     font-size: .8rem;
     font-weight: 800;
@@ -254,7 +261,8 @@ input[type="radio"] {
     height: 1.15rem;
 }
 
-.timed-options {
+.timed-options,
+.share-expiry-options {
     margin-top: 10px;
     display: flex;
     flex-direction: column;
@@ -1201,11 +1209,18 @@ input[type="radio"] {
     .site-main { padding: 32px 20px 56px; }
 }
 
+@media (max-width: 768px) {
+    .site-header { position: static; }
+}
+
 @media (max-width: 480px) {
     .site-main { padding: 16px 12px 40px; }
     .card-panel { padding: 18px 16px; border-radius: 20px; }
     .section-title { font-size: 1.2rem; }
-    .brand-title { font-size: 1.2rem; }
+    .header-inner { padding: 14px 16px; }
+    .brand { align-items: center; text-align: center; }
+    .brand-title { font-size: 2rem; }
+    .header-tagline { font-size: .85rem; }
     .quiz-form select { max-width: 100%; }
     .type-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
     .type-grid a { min-height: 56px; padding: 12px; font-size: .9rem; }
@@ -1482,4 +1497,194 @@ input[type="radio"] {
     .modal-field-mobile { flex: 1; }
     .leaderboard-table th,
     .leaderboard-table td { padding: 8px 10px; font-size: .9rem; }
+}
+
+/* Home page "Top 10 Leaderboard" widget — podium (top 3) + compact list (4-10) */
+
+.leaderboard-widget {
+    /* .card-panel only sets margin-bottom; the section right above this one
+       (quiz-types-overview) has no bottom margin of its own, so without this
+       the card butts straight up against it. */
+    margin-top: 28px;
+}
+
+.leaderboard-widget .podium {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: end;
+    gap: 10px;
+    margin: 18px 0 20px;
+}
+
+.podium-step {
+    position: relative;
+    overflow: hidden;
+    border-radius: 16px 16px 8px 8px;
+    padding: 14px 10px 16px;
+    text-align: center;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+/* Rank number tag, pinned in the corner — the medal emoji alone didn't read
+   clearly as "1st/2nd/3rd" at a glance, so the number takes over that job
+   on its own and the medal emoji was dropped as redundant. */
+.podium-step .ord-tag {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    background: rgba(255, 255, 255, 0.92);
+    border-radius: 8px;
+    padding: 3px 11px;
+    font-family: var(--font-brand);
+    font-weight: 800;
+    font-size: 1.3rem;
+    line-height: 1.3;
+}
+
+.podium-step .p-name {
+    font-weight: 800;
+    font-size: 1.05rem;
+}
+
+.podium-step .p-country {
+    font-size: .85rem;
+    opacity: .85;
+}
+
+.podium-step .p-score {
+    font-family: var(--font-brand);
+    font-size: 1.3rem;
+    margin-top: 6px;
+}
+
+/* Brand colors (site's own yellow/teal/pink) instead of literal medal
+   metals — chosen over gold/silver/bronze because the grey/brown pairing
+   didn't fit the app's playful palette. */
+.podium-step.gold {
+    background: linear-gradient(160deg, var(--yellow), #e8922a);
+    height: 150px;
+    order: 2;
+    color: #4a3200;
+}
+
+.podium-step.gold .p-country {
+    color: #6b4a10;
+    opacity: 1;
+}
+
+.podium-step.gold .ord-tag {
+    color: #c9811f;
+}
+
+.podium-step.silver {
+    background: linear-gradient(160deg, var(--teal), #15948a);
+    height: 122px;
+    order: 1;
+}
+
+.podium-step.silver .ord-tag {
+    color: #15948a;
+}
+
+.podium-step.bronze {
+    background: linear-gradient(160deg, var(--accent), #e14f87);
+    height: 104px;
+    order: 3;
+}
+
+.podium-step.bronze .ord-tag {
+    color: #e14f87;
+}
+
+.rest-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.rest-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px 10px;
+    border-radius: 12px;
+    background: rgba(124, 92, 255, 0.05);
+    font-size: .88rem;
+}
+
+.rest-row .r-rank {
+    font-family: var(--font-brand);
+    font-weight: 700;
+    color: var(--muted);
+    width: 1.6em;
+    flex-shrink: 0;
+}
+
+.rest-row .r-name {
+    flex: 1;
+    font-weight: 700;
+}
+
+.rest-row .r-country {
+    color: var(--muted);
+    font-size: .78rem;
+    margin-right: 8px;
+}
+
+.rest-row .r-score {
+    font-weight: 800;
+    font-variant-numeric: tabular-nums;
+}
+
+.leaderboard-widget-more {
+    display: block;
+    text-align: center;
+    margin-top: 16px;
+    font-size: .88rem;
+    font-weight: 700;
+    color: var(--navy);
+    text-decoration: none;
+}
+
+@media (max-width: 480px) {
+    .leaderboard-widget .podium { gap: 6px; }
+    .podium-step { padding: 10px 6px 12px; }
+    .podium-step .ord-tag { font-size: 1.05rem; padding: 2px 8px; }
+    .podium-step .p-name { font-size: .9rem; }
+    .podium-step .p-country { font-size: .72rem; }
+    .podium-step .p-score { font-size: 1.1rem; }
+    .podium-step.gold { height: 128px; }
+    .podium-step.silver { height: 106px; }
+    .podium-step.bronze { height: 92px; }
+    .rest-row { font-size: .82rem; }
+}
+
+/* embed.php — bare iframe widget: no header/footer/menu chrome */
+body.embed-page {
+    background: var(--surface);
+}
+
+.embed-main {
+    flex: 1;
+    padding: 16px;
+    max-width: 640px;
+}
+
+.embed-footer {
+    text-align: center;
+    margin: 4px 0 8px;
+}
+
+.embed-powered-by {
+    margin: 0;
+    font-size: .8rem;
+    color: var(--muted);
+}
+
+.embed-code-input {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    resize: vertical;
 }

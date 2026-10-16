@@ -28,7 +28,6 @@ $countryCode = trim((string) ($input['countryCode'] ?? ''));
 $mobile = trim((string) ($input['mobile'] ?? ''));
 $correctCount = (int) ($input['correctCount'] ?? -1);
 $totalQuestions = (int) ($input['totalQuestions'] ?? -1);
-$lang = trim((string) ($input['lang'] ?? ''));
 
 if ($displayName === '' || $mobile === '') {
     http_response_code(400);
@@ -60,7 +59,7 @@ if ($correctCount < 0 || $totalQuestions < 0 || $correctCount > $totalQuestions)
     exit;
 }
 
-$result = quizLeaderboardSubmit($displayName, $countryCode, $mobile, $correctCount, $totalQuestions, $lang);
+$result = quizLeaderboardSubmit($displayName, $countryCode, $mobile, $correctCount, $totalQuestions);
 if ($result === null) {
     http_response_code(500);
     echo json_encode(['error' => 'Could not save your leaderboard entry.']);

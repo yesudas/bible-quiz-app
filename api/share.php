@@ -62,6 +62,33 @@ $difficulty = array_values(array_intersect(
     quizDifficultyKeys()
 ));
 
+$shareExpiry = isset($_GET['share_expiry']) && $_GET['share_expiry'] === '1';
+$shareExpiryUnitRaw = $_GET['share_expiry_unit'] ?? 'minutes';
+$shareExpiryUnit = in_array($shareExpiryUnitRaw, ['hours', 'days'], true) ? $shareExpiryUnitRaw : 'minutes';
+$shareExpiryValue = (int) ($_GET['share_expiry_value'] ?? 0);
+$shareOneAttempt = isset($_GET['share_one_attempt']) && $_GET['share_one_attempt'] === '1';
+
+$endTime = null;
+if ($shareExpiry) {
+    if ($shareExpiryUnit === 'days') {
+        $expiryMinutes = $shareExpiryValue * 1440;
+    } elseif ($shareExpiryUnit === 'hours') {
+        $expiryMinutes = $shareExpiryValue * 60;
+    } else {
+        $expiryMinutes = $shareExpiryValue;
+    }
+    if ($expiryMinutes < 5 || $expiryMinutes > 30 * 1440) {
+        http_response_code(400);
+        echo json_encode(['error' => 'Link expiry must be between 5 minutes and 30 days.']);
+        exit;
+    }
+    $endTime = time() + ($expiryMinutes * 60);
+} elseif ($shareOneAttempt) {
+    http_response_code(400);
+    echo json_encode(['error' => 'Limiting to one attempt requires a link expiry to be set.']);
+    exit;
+}
+
 $languages = quizDiscoverLanguages();
 if (!in_array($lang, $languages, true)) {
     http_response_code(400);
@@ -116,6 +143,8 @@ try {
         'character' => $character,
         'place' => $place,
         'difficulty' => $difficulty,
+        'end_time' => $endTime,
+        'one_attempt' => $shareOneAttempt,
     ]);
 } catch (InvalidArgumentException $e) {
     http_response_code(400);

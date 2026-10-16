@@ -5,6 +5,7 @@ header('Cache-Control: public, max-age=300');
 header('X-Content-Type-Options: nosniff');
 
 require_once __DIR__ . '/../includes/quiz-i18n.php';
+require_once __DIR__ . '/../includes/quiz-leaderboard.php';
 
 $lang = $_GET['lang'] ?? 'English';
 $lang = str_replace(["\0", '/', '\\'], '', $lang);
@@ -43,6 +44,10 @@ $data['labels'] = [
     'types' => quizTypeOptions($lang),
     'difficulties' => quizDifficultyOptions($lang),
     'chapterWord' => quizDetailLabels($lang)['chapter'],
+    'leaderboard' => [
+        'pageTitle' => quizLeaderboardLabels($lang)['pageTitle'],
+        'showAll' => quizLeaderboardLabels($lang)['showAll'],
+    ],
 ];
 
 echo json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);

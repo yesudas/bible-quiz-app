@@ -1,7 +1,7 @@
 admin-credentials.php
 share-secret.php
 leaderboard-secret.php
-counter.txt
+counters/*.txt
 bot.log
 
 .DS_Store

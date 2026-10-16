@@ -38,6 +38,34 @@
                 <span class="footer-visitors">
                     <i class="bi bi-emoji-heart-eyes me-1"></i>Visitors: <?= $visitors2 ?>
                 </span>
+                <span class="footer-separator">|</span>
+                <span class="footer-visitors">
+                    <i class="bi bi-share me-1"></i>Shares: <?= $shares2 ?? 0 ?>
+                </span>
+                <span class="footer-separator">|</span>
+                <span class="footer-visitors">
+                    <i class="bi bi-code-slash me-1"></i>Embeds: <?= $embeds2 ?? 0 ?>
+                </span>
+                <span class="footer-separator">|</span>
+                <span class="footer-visitors">
+                    <i class="bi bi-check2-circle me-1"></i>Quizzes Completed: <?= number_format((int) ($quizzesCompletedTotal ?? 0)) ?>
+                </span>
+                <span class="footer-separator">|</span>
+                <span class="footer-visitors">
+                    <i class="bi bi-patch-question me-1"></i>Questions Answered: <?= number_format((int) ($questionsAnsweredTotal ?? 0)) ?>
+                </span>
+                <?php if (!empty($topBooks)): ?>
+                    <span class="footer-separator">|</span>
+                    <span class="footer-visitors">
+                        <i class="bi bi-bookmark-star me-1"></i>Top 3 Books: <?= htmlspecialchars(implode(', ', $topBooks)) ?>
+                    </span>
+                <?php endif; ?>
+                <?php if (!empty($topLanguage)): ?>
+                    <span class="footer-separator">|</span>
+                    <span class="footer-visitors">
+                        <i class="bi bi-translate me-1"></i>Top Language: <?= htmlspecialchars((string) $topLanguage) ?>
+                    </span>
+                <?php endif; ?>
             </div>
 
             <div style="position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; opacity: 0; pointer-events: none;" aria-hidden="true">

@@ -1,8 +1,8 @@
 <?php
 
 /**
- * Visitor counter storage: a single JSON object in counter.txt (gitignored,
- * shared with the public site) shaped as:
+ * Visitor counter storage: a single JSON object in counters/counter.txt
+ * (gitignored, protected by counters/.htaccess) shaped as:
  *   {"total": 1234, "languages": {"English": 800, "தமிழ்": 434}}
  *
  * A pre-existing counter.txt holding a bare integer (the old format) is
@@ -11,7 +11,7 @@
 
 function quizVisitorCounterFile(): string
 {
-    return __DIR__ . '/../counter.txt';
+    return __DIR__ . '/../counters/counter.txt';
 }
 
 /**

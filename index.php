@@ -3,10 +3,38 @@ include __DIR__ . '/counter.php';
 include __DIR__ . '/version.php';
 require_once __DIR__ . '/partials.php';
 require_once __DIR__ . '/includes/quiz-share.php';
+require_once __DIR__ . '/includes/quiz-leaderboard.php';
 
 $shareError = null;
+$shareNudge = false;
+$shareNudgeLang = null;
 if (isset($_GET['test']) && $_GET['test'] !== '') {
-    $shared = quizShareDecode((string) $_GET['test']);
+    $shareToken = (string) $_GET['test'];
+    $shared = quizShareDecode($shareToken);
+    $shareNudgeLang = $shared['lang'] ?? null;
+
+    if ($shared !== null && $shared['end_time'] !== null && time() > $shared['end_time']) {
+        $shared = null;
+        $shareError = 'This shared quiz link has expired.';
+        $shareNudge = true;
+    }
+
+    if ($shared !== null && $shared['one_attempt']) {
+        $shareAttemptCookie = 'quiz_attempt_' . substr(hash('sha256', $shareToken), 0, 24);
+        if (isset($_COOKIE[$shareAttemptCookie])) {
+            $shared = null;
+            $shareError = 'This shared quiz link allows only one attempt, and it looks like you already took it.';
+            $shareNudge = true;
+        } else {
+            setcookie($shareAttemptCookie, '1', [
+                'expires' => $shared['end_time'] ?? (time() + 86400),
+                'path' => '/',
+                'httponly' => true,
+                'samesite' => 'Lax',
+            ]);
+        }
+    }
+
     if ($shared !== null) {
         $redirectParams = [
             'lang' => $shared['lang'],
@@ -41,7 +69,9 @@ if (isset($_GET['test']) && $_GET['test'] !== '') {
         exit;
     }
 
-    $shareError = 'This shared quiz link is invalid or has expired.';
+    if ($shareError === null) {
+        $shareError = 'This shared quiz link is invalid or has expired.';
+    }
 }
 
 $languages = quizDiscoverLanguages();
@@ -67,7 +97,12 @@ $catalogTopics = $catalog['topics'] ?? [];
 $catalogCharacters = $catalog['characters'] ?? [];
 $catalogPlaces = $catalog['places'] ?? [];
 
-$pageTitle = 'Free Bible Quiz · WordOfGod.in';
+$leaderboardTop10 = quizLeaderboardReadPublic('top10');
+$leaderboardLabels = quizLeaderboardLabels($selectedLanguage);
+$leaderboardPodium = array_slice($leaderboardTop10, 0, 3);
+$leaderboardRest = array_slice($leaderboardTop10, 3, 7);
+
+$pageTitle = 'Bible Quiz Multi-Language - WordOfGod';
 $metaDescription = 'Free Bible quiz with random, book, chapter, topic, and audience modes in multiple languages. Test your Scripture knowledge at WordOfGod.in.';
 $canonical = 'https://wordofgod.in/bible-quiz/';
 
@@ -83,7 +118,12 @@ renderQuizHeader($pageTitle, $metaDescription, $version, [
     <h2 id="setup-title" class="section-title">Start a quiz</h2>
 
     <?php if ($shareError): ?>
-        <p class="share-error-banner"><?= htmlspecialchars($shareError) ?></p>
+        <p class="share-error-banner">
+            <?= htmlspecialchars($shareError) ?>
+            <?php if ($shareNudge): ?>
+                Why not <a href="index.php<?= $shareNudgeLang ? '?lang=' . urlencode($shareNudgeLang) : '' ?>">create your own quiz</a>?
+            <?php endif; ?>
+        </p>
     <?php endif; ?>
 
     <form id="quizSetupForm" class="quiz-form" action="quiz.php" method="get">
@@ -203,11 +243,46 @@ renderQuizHeader($pageTitle, $metaDescription, $version, [
             </div>
         </fieldset>
 
+        <fieldset class="share-protect-fieldset">
+            <legend>Settings for Competitions</legend>
+            <label class="checkbox-row">
+                <input type="checkbox" name="share_expiry" id="share_expiry" value="1">
+                <span>Link expires after</span>
+            </label>
+            <div class="share-expiry-options" id="shareExpiryOptions" hidden>
+                <div class="time-unit-row">
+                    <label class="time-unit-choice">
+                        <input type="radio" name="share_expiry_unit" value="minutes" checked> Minutes
+                    </label>
+                    <label class="time-unit-choice">
+                        <input type="radio" name="share_expiry_unit" value="hours"> Hours
+                    </label>
+                    <label class="time-unit-choice">
+                        <input type="radio" name="share_expiry_unit" value="days"> Days
+                    </label>
+                </div>
+                <div class="timed-limit-row">
+                    <label for="share_expiry_value" class="timed-limit-label">Expires in</label>
+                    <div class="qty-stepper" data-qty-stepper>
+                        <button type="button" class="qty-stepper-btn" data-step="-1" aria-label="Decrease expiry" tabindex="-1">−</button>
+                        <input type="number" name="share_expiry_value" id="share_expiry_value" class="qty-stepper-input" min="5" max="1440" value="60" inputmode="numeric" disabled>
+                        <button type="button" class="qty-stepper-btn" data-step="1" aria-label="Increase expiry" tabindex="-1">+</button>
+                    </div>
+                </div>
+                <label class="checkbox-row">
+                    <input type="checkbox" name="share_one_attempt" id="share_one_attempt" value="1" disabled>
+                    <span>Allow only one attempt per visitor until it expires</span>
+                </label>
+            </div>
+            <p class="field-hint">Only applies to the link created by "Share Quiz" below. Expiry can be 5 minutes to 30 days.</p>
+        </fieldset>
+
         <p class="form-hint" id="indexHint">Questions are loaded from the built index in <code>index/</code>. Run the index builder in the admin panel after updating <code>data/</code>.</p>
 
         <div class="form-actions">
             <button type="submit" class="btn btn-primary btn-lg">Start Quiz</button>
             <button type="button" id="shareQuizBtn" class="btn btn-outline-primary btn-lg">Share Quiz</button>
+            <button type="button" id="embedQuizBtn" class="btn btn-outline-primary btn-lg">Embed Quiz</button>
         </div>
 
         <div class="share-result" id="shareResult" hidden>
@@ -217,6 +292,15 @@ renderQuizHeader($pageTitle, $metaDescription, $version, [
                 <button type="button" class="btn btn-outline-primary" id="shareCopyBtn">Copy</button>
             </div>
             <p class="share-result-msg" id="shareResultMsg" aria-live="polite"></p>
+        </div>
+
+        <div class="share-result" id="embedResult" hidden>
+            <label for="embedCodeInput" class="field-label">Embed code</label>
+            <div class="share-result-row">
+                <textarea id="embedCodeInput" class="share-url-input embed-code-input" rows="2" readonly></textarea>
+                <button type="button" class="btn btn-outline-primary" id="embedCopyBtn">Copy</button>
+            </div>
+            <p class="share-result-msg" id="embedResultMsg" aria-live="polite"></p>
         </div>
     </form>
 </section>
@@ -228,6 +312,41 @@ renderQuizHeader($pageTitle, $metaDescription, $version, [
             <li><a href="?type=<?= urlencode($key) ?>&lang=<?= urlencode($selectedLanguage) ?>" data-type-key="<?= htmlspecialchars($key) ?>"><?= htmlspecialchars($label) ?></a></li>
         <?php endforeach; ?>
     </ul>
+</section>
+
+<section class="leaderboard-widget card-panel" id="leaderboardWidget" aria-labelledby="leaderboard-widget-title" <?= $leaderboardTop10 === [] ? 'hidden' : '' ?>>
+    <h2 id="leaderboard-widget-title" class="section-title" data-leaderboard-label="pageTitle">🏆 <?= htmlspecialchars($leaderboardLabels['pageTitle']) ?></h2>
+
+    <?php $podiumOrder = [1 => 'silver', 0 => 'gold', 2 => 'bronze']; ?>
+    <div class="podium">
+        <?php foreach ($podiumOrder as $i => $tier): ?>
+            <?php if (!isset($leaderboardPodium[$i])) continue; ?>
+            <?php $row = $leaderboardPodium[$i]; ?>
+            <div class="podium-step <?= $tier ?>">
+                <span class="ord-tag"><?= $i + 1 ?></span>
+                <span class="p-name"><?= htmlspecialchars((string) $row['displayName']) ?></span>
+                <span class="p-country"><?= htmlspecialchars((string) $row['country']) ?></span>
+                <span class="p-score"><?= (int) $row['score'] ?></span>
+            </div>
+        <?php endforeach; ?>
+    </div>
+
+    <?php if ($leaderboardRest !== []): ?>
+        <div class="rest-list">
+            <?php foreach ($leaderboardRest as $i => $row): ?>
+                <div class="rest-row">
+                    <span class="r-rank"><?= $i + 4 ?></span>
+                    <span class="r-name"><?= htmlspecialchars((string) $row['displayName']) ?></span>
+                    <span class="r-country"><?= htmlspecialchars((string) $row['country']) ?></span>
+                    <span class="r-score"><?= (int) $row['score'] ?></span>
+                </div>
+            <?php endforeach; ?>
+        </div>
+    <?php endif; ?>
+
+    <a class="leaderboard-widget-more" data-leaderboard-label="showAll" href="leaderboard.php?lang=<?= urlencode($selectedLanguage) ?>">
+        <?= htmlspecialchars($leaderboardLabels['showAll']) ?> →
+    </a>
 </section>
 
 <section class="quiz-items-overview" id="booksOverviewSection" aria-labelledby="books-overview-title" <?= $catalogBooks === [] ? 'hidden' : '' ?>>

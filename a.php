@@ -11,9 +11,11 @@
 
 require_once __DIR__ . '/admin-credentials.php';
 require_once __DIR__ . '/includes/visitor-counter.php';
+require_once __DIR__ . '/includes/quiz-stats.php';
 require_once __DIR__ . '/includes/quiz-i18n.php';
 require_once __DIR__ . '/includes/mistake-reports.php';
 require_once __DIR__ . '/includes/quiz-leaderboard.php';
+require_once __DIR__ . '/partials.php';
 
 // ── Configuration ────────────────────────────────────────────────────────────
 //define('ADMIN_USER', 'USER_NAME_HERE');
@@ -492,6 +494,40 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isLoggedIn()) {
     if ($action === 'delete_leaderboard_entry') {
         quizLeaderboardDeleteEntry((string)($_POST['entry_id'] ?? ''));
         header('Location: a.php?view=leaderboard');
+        exit;
+    }
+
+    // Edit a leaderboard entry's name/country/score (moderation)
+    if ($action === 'edit_leaderboard_entry') {
+        quizLeaderboardEditEntry(
+            (string)($_POST['entry_id'] ?? ''),
+            trim((string)($_POST['displayName'] ?? '')),
+            (string)($_POST['countryCode'] ?? ''),
+            max(0, (int)($_POST['correctCount'] ?? 0)),
+            max(0, (int)($_POST['totalQuestions'] ?? 0))
+        );
+        header('Location: a.php?view=leaderboard');
+        exit;
+    }
+
+    // Edit the per-language "quizzes completed" / "questions answered" totals
+    if ($action === 'edit_quiz_stats') {
+        $quizLangs = array_map('intval', (array) ($_POST['quizzes'] ?? []));
+        $questionLangs = array_map('intval', (array) ($_POST['questions'] ?? []));
+        quizSetQuizzesCompleted($quizLangs);
+        quizSetQuestionsAnswered($questionLangs);
+        header('Location: a.php?view=stats');
+        exit;
+    }
+
+    // Edit one language's "questions answered by book" breakdown
+    if ($action === 'edit_book_stats') {
+        $bookLang = (string) ($_POST['book_lang'] ?? '');
+        if (in_array($bookLang, quizDiscoverLanguages(), true)) {
+            $bookCounts = array_map('intval', (array) ($_POST['books'] ?? []));
+            quizSetQuestionsByBookForLanguage($bookLang, $bookCounts);
+        }
+        header('Location: a.php?view=stats&book_lang=' . urlencode($bookLang));
         exit;
     }
 
@@ -1018,6 +1054,167 @@ if (($_GET['view'] ?? '') === 'mistakes') {
     exit;
 }
 
+// ── Quiz stats view ──────────────────────────────────────────────────────────
+if (($_GET['view'] ?? '') === 'stats') {
+    $csrf = csrfToken();
+
+    $statsLanguages = quizDiscoverLanguages();
+    $quizzesData = quizReadQuizzesCompleted();
+    $questionsData = quizReadQuestionsAnswered();
+    // Union with any language that has counts but is no longer under data/
+    // (e.g. a folder that was renamed/removed), so old numbers stay visible/editable.
+    $statsLanguages = array_values(array_unique(array_merge(
+        $statsLanguages,
+        array_keys($quizzesData['languages']),
+        array_keys($questionsData['languages'])
+    )));
+    sort($statsLanguages, SORT_NATURAL | SORT_FLAG_CASE);
+
+    $booksData = quizReadQuestionsByBook();
+    $bookLangOptions = array_values(array_unique(array_merge(quizDiscoverLanguages(), array_keys($booksData['languages']))));
+    sort($bookLangOptions, SORT_NATURAL | SORT_FLAG_CASE);
+    $bookLang = (string) ($_GET['book_lang'] ?? ($bookLangOptions[0] ?? 'English'));
+    if (!in_array($bookLang, $bookLangOptions, true)) {
+        $bookLang = $bookLangOptions[0] ?? 'English';
+    }
+    $bookCountsForLang = $booksData['languages'][$bookLang] ?? [];
+    $bookNamesCanonical = bibleBookNames();
+    ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Stats — Admin</title>
+    <meta name="robots" content="noindex, nofollow">
+    <link rel="stylesheet" href="styles.css?v=<?= filemtime(__DIR__ . '/styles.css') ?>">
+    <style>
+        .admin-header {
+            background: linear-gradient(135deg, #154360 0%, #1a2535 100%);
+            color: #fff; padding: 14px 20px;
+            display: flex; align-items: center; justify-content: space-between; gap: 12px;
+        }
+        .admin-header h1 { font-size: 1.15rem; font-weight: 700; }
+        .btn-logout {
+            background: rgba(255,255,255,.15); color: #fff;
+            border: 1px solid rgba(255,255,255,.3); padding: 7px 16px;
+            border-radius: 6px; font-size: .83rem; font-weight: 600; cursor: pointer;
+        }
+        .action-bar { max-width: 960px; margin: 16px auto 0; padding: 0 16px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+        .btn { display: inline-flex; align-items: center; gap: 6px; padding: 8px 16px;
+            border-radius: 7px; font-size: .85rem; font-weight: 600; cursor: pointer;
+            border: none; text-decoration: none; }
+        .btn-secondary { background: #f0f4f8; color: #2c3e50; border: 1px solid #dce3ec; }
+        .btn-secondary:hover { background: #e2ecf5; }
+        .btn-primary { background: #2980b9; color: #fff; }
+        .btn-primary:hover { background: #1f6fa5; }
+        .btn-sm { padding: 6px 14px; font-size: .78rem; }
+        .stats-wrap { max-width: 960px; margin: 20px auto; padding: 0 16px; }
+        .stats-section { background: #fff; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,.06); margin-bottom: 24px; overflow: hidden; }
+        .stats-section h2 { font-size: 1rem; padding: 14px 16px; margin: 0; background: #f0f4f8; border-bottom: 1px solid #dce3ec; }
+        .stats-table-wrap { max-height: 420px; overflow-y: auto; }
+        .stats-table { width: 100%; border-collapse: collapse; }
+        .stats-table th, .stats-table td { padding: 8px 12px; text-align: left; border-bottom: 1px solid #dce3ec; font-size: .86rem; }
+        .stats-table th { background: #f7fafc; position: sticky; top: 0; }
+        .stats-table tbody tr:last-child td { border-bottom: none; }
+        .stats-table tfoot td { font-weight: 700; background: #f7fafc; }
+        .stats-table input[type="number"] { width: 110px; padding: 6px 8px; border: 1.5px solid #dce3ec; border-radius: 6px; font-size: .85rem; }
+        .stats-save-bar { padding: 12px 16px; border-top: 1px solid #dce3ec; }
+        .stats-lang-picker { padding: 12px 16px; display: flex; gap: 10px; align-items: center; }
+        .stats-lang-picker select { padding: 7px 10px; border: 1.5px solid #dce3ec; border-radius: 6px; font-size: .85rem; }
+    </style>
+</head>
+<body>
+
+<div class="admin-header">
+    <h1>📊 Quiz Stats</h1>
+    <form method="POST" action="a.php">
+        <input type="hidden" name="action" value="logout">
+        <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
+        <button type="submit" class="btn-logout">Logout</button>
+    </form>
+</div>
+
+<div class="action-bar">
+    <a class="btn btn-secondary" href="a.php">⬅ Back to Admin</a>
+</div>
+
+<div class="stats-wrap">
+    <form method="POST" action="a.php?view=stats">
+        <input type="hidden" name="action" value="edit_quiz_stats">
+        <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
+        <div class="stats-section">
+            <h2>Quizzes Completed &amp; Questions Answered <span style="opacity:.6;font-weight:400;">(by language — edits recompute the totals)</span></h2>
+            <div class="stats-table-wrap">
+                <table class="stats-table">
+                    <thead>
+                        <tr><th>Language</th><th>Quizzes Completed</th><th>Questions Answered</th></tr>
+                    </thead>
+                    <tbody>
+                        <?php foreach ($statsLanguages as $lang): ?>
+                            <tr>
+                                <td><?= htmlspecialchars($lang) ?></td>
+                                <td><input type="number" min="0" name="quizzes[<?= htmlspecialchars($lang) ?>]" value="<?= (int) ($quizzesData['languages'][$lang] ?? 0) ?>"></td>
+                                <td><input type="number" min="0" name="questions[<?= htmlspecialchars($lang) ?>]" value="<?= (int) ($questionsData['languages'][$lang] ?? 0) ?>"></td>
+                            </tr>
+                        <?php endforeach; ?>
+                    </tbody>
+                    <tfoot>
+                        <tr><td>Total</td><td><?= number_format((int) $quizzesData['total']) ?></td><td><?= number_format((int) $questionsData['total']) ?></td></tr>
+                    </tfoot>
+                </table>
+            </div>
+            <div class="stats-save-bar">
+                <button type="submit" class="btn btn-primary btn-sm">💾 Save</button>
+            </div>
+        </div>
+    </form>
+
+    <div class="stats-section">
+        <h2>Questions Answered by Book <span style="opacity:.6;font-weight:400;">(one language at a time — edits recompute the cross-language total)</span></h2>
+        <form method="GET" action="a.php" class="stats-lang-picker">
+            <input type="hidden" name="view" value="stats">
+            <label for="book_lang_select">Language:</label>
+            <select name="book_lang" id="book_lang_select" onchange="this.form.submit()">
+                <?php foreach ($bookLangOptions as $lo): ?>
+                    <option value="<?= htmlspecialchars($lo) ?>" <?= $lo === $bookLang ? 'selected' : '' ?>><?= htmlspecialchars($lo) ?></option>
+                <?php endforeach; ?>
+            </select>
+        </form>
+        <form method="POST" action="a.php?view=stats&book_lang=<?= urlencode($bookLang) ?>">
+            <input type="hidden" name="action" value="edit_book_stats">
+            <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
+            <input type="hidden" name="book_lang" value="<?= htmlspecialchars($bookLang) ?>">
+            <div class="stats-table-wrap">
+                <table class="stats-table">
+                    <thead>
+                        <tr><th>#</th><th>Book</th><th><?= htmlspecialchars($bookLang) ?> count</th><th>All-language total</th></tr>
+                    </thead>
+                    <tbody>
+                        <?php for ($bookNo = 1; $bookNo <= 66; $bookNo++): ?>
+                            <tr>
+                                <td><?= $bookNo ?></td>
+                                <td><?= htmlspecialchars($bookNamesCanonical[$bookNo] ?? "Book $bookNo") ?></td>
+                                <td><input type="number" min="0" name="books[<?= $bookNo ?>]" value="<?= (int) ($bookCountsForLang[(string) $bookNo] ?? 0) ?>"></td>
+                                <td><?= number_format((int) ($booksData['total'][(string) $bookNo] ?? 0)) ?></td>
+                            </tr>
+                        <?php endfor; ?>
+                    </tbody>
+                </table>
+            </div>
+            <div class="stats-save-bar">
+                <button type="submit" class="btn btn-primary btn-sm">💾 Save <?= htmlspecialchars($bookLang) ?> book counts</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+</body>
+</html>
+    <?php
+    exit;
+}
+
 // ── Leaderboard view ─────────────────────────────────────────────────────────
 if (($_GET['view'] ?? '') === 'leaderboard') {
     $csrf = csrfToken();
@@ -1060,6 +1257,18 @@ if (($_GET['view'] ?? '') === 'leaderboard') {
         .lb-table tbody tr:last-child td { border-bottom: none; }
         .lb-mobile { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
         .empty-state { text-align: center; padding: 48px 20px; color: #7f8c8d; font-size: .95rem; }
+        .btn-primary { background: #2980b9; color: #fff; }
+        .btn-primary:hover { background: #1f6fa5; }
+        .lb-edit-row { display: none; }
+        .lb-edit-row.open { display: table-row; }
+        .lb-edit-row td { background: #f9fbfd; padding: 14px 16px; }
+        .lb-edit-form { display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-end; }
+        .lb-edit-form .field { display: flex; flex-direction: column; gap: 4px; font-size: .8rem; color: #566573; font-weight: 600; }
+        .lb-edit-form input, .lb-edit-form select {
+            padding: 7px 10px; border: 1.5px solid #dce3ec; border-radius: 6px; font-size: .85rem; color: #2c3e50;
+        }
+        .lb-edit-form input[name="correctCount"], .lb-edit-form input[name="totalQuestions"] { width: 90px; }
+        .lb-edit-form .field-name { flex: 1; min-width: 160px; }
     </style>
 </head>
 <body>
@@ -1093,7 +1302,6 @@ if (($_GET['view'] ?? '') === 'leaderboard') {
                     <th>Country</th>
                     <th>Mobile number</th>
                     <th>Score</th>
-                    <th>Language</th>
                     <th>Updated</th>
                     <th></th>
                 </tr>
@@ -1101,6 +1309,8 @@ if (($_GET['view'] ?? '') === 'leaderboard') {
             <tbody>
                 <?php foreach ($entries as $i => $e):
                     $mobile = quizLeaderboardDecryptMobile((string)($e['mobileEnc'] ?? ''));
+                    $entryId = (string)($e['id'] ?? '');
+                    $rowDomId = 'lb-edit-' . preg_replace('/[^a-z0-9]/i', '', $entryId);
                 ?>
                     <tr>
                         <td><?= (int) $i + 1 ?></td>
@@ -1108,14 +1318,43 @@ if (($_GET['view'] ?? '') === 'leaderboard') {
                         <td><?= htmlspecialchars((string)($e['countryName'] ?? '')) ?></td>
                         <td class="lb-mobile"><?= htmlspecialchars($mobile !== null ? $mobile : '—') ?></td>
                         <td><?= (int)($e['correctCount'] ?? 0) ?> / <?= (int)($e['totalQuestions'] ?? 0) ?></td>
-                        <td><?= htmlspecialchars((string)($e['lang'] ?? '')) ?></td>
                         <td><?= htmlspecialchars((string)($e['updatedAt'] ?? '')) ?></td>
-                        <td>
+                        <td style="display:flex;gap:6px;">
+                            <button type="button" class="btn btn-secondary btn-sm"
+                                    onclick="document.getElementById('<?= $rowDomId ?>').classList.toggle('open')">✏️ Edit</button>
                             <form method="POST" action="a.php?view=leaderboard" onsubmit="return confirm('Remove this leaderboard entry?');">
                                 <input type="hidden" name="action" value="delete_leaderboard_entry">
                                 <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
-                                <input type="hidden" name="entry_id" value="<?= htmlspecialchars((string)($e['id'] ?? '')) ?>">
+                                <input type="hidden" name="entry_id" value="<?= htmlspecialchars($entryId) ?>">
                                 <button type="submit" class="btn btn-danger btn-sm">🗑️ Remove</button>
+                            </form>
+                        </td>
+                    </tr>
+                    <tr class="lb-edit-row" id="<?= $rowDomId ?>">
+                        <td colspan="7">
+                            <form method="POST" action="a.php?view=leaderboard" class="lb-edit-form">
+                                <input type="hidden" name="action" value="edit_leaderboard_entry">
+                                <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
+                                <input type="hidden" name="entry_id" value="<?= htmlspecialchars($entryId) ?>">
+                                <label class="field field-name">Name
+                                    <input type="text" name="displayName" value="<?= htmlspecialchars((string)($e['displayName'] ?? '')) ?>" maxlength="60" required>
+                                </label>
+                                <label class="field">Country
+                                    <select name="countryCode">
+                                        <?php foreach (quizLeaderboardCountries() as $code => $name): ?>
+                                            <option value="<?= htmlspecialchars($code) ?>" <?= $code === ($e['countryCode'] ?? '') ? 'selected' : '' ?>><?= htmlspecialchars($name . ' (' . $code . ')') ?></option>
+                                        <?php endforeach; ?>
+                                    </select>
+                                </label>
+                                <label class="field">Correct
+                                    <input type="number" name="correctCount" min="0" value="<?= (int)($e['correctCount'] ?? 0) ?>" required>
+                                </label>
+                                <label class="field">Total
+                                    <input type="number" name="totalQuestions" min="0" value="<?= (int)($e['totalQuestions'] ?? 0) ?>" required>
+                                </label>
+                                <button type="submit" class="btn btn-primary btn-sm">💾 Save</button>
+                                <button type="button" class="btn btn-secondary btn-sm"
+                                        onclick="document.getElementById('<?= $rowDomId ?>').classList.remove('open')">Cancel</button>
                             </form>
                         </td>
                     </tr>
@@ -1548,6 +1787,7 @@ $csrf = csrfToken();
     <a class="btn btn-secondary" href="index.php<?= (!$atAdminHome && $currentRoot === 'data' && $currentPath !== '') ? ('?path=' . rawurlencode($currentPath)) : '' ?>" target="_blank" rel="noopener noreferrer">👁️ View Public Site</a>
     <a class="btn btn-secondary" href="a.php?view=mistakes" title="Questions reported by players as wrong">🛠️ Reported Mistakes<?= $mistakeCount ? ' (' . $mistakeCount . ')' : '' ?></a>
     <a class="btn btn-secondary" href="a.php?view=leaderboard" title="Players who joined the leaderboard">🏆 Leaderboard</a>
+    <a class="btn btn-secondary" href="a.php?view=stats" title="Quizzes completed, questions answered, and by-book breakdown">📊 Quiz Stats</a>
     <a class="btn btn-secondary" href="i.php" title="Rebuild quiz indexes after adding or removing questions">⚙️ Rebuild Quiz Index</a>
     <a class="btn btn-secondary" href="sitemap.php" title="Regenerate sitemap.xml after adding or removing files">🗺️ Generate Sitemap</a>
 </div>

@@ -527,7 +527,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
                     displayName, countryCode, mobile,
-                    correctCount, totalQuestions, lang: state.lang,
+                    correctCount, totalQuestions,
                 }),
             });
             const data = await res.json().catch(() => null);
@@ -676,12 +676,50 @@ document.addEventListener('DOMContentLoaded', () => {
         };
     }
 
+    // Tallies this set's questions by book number, read from each question's
+    // `_path` (added by api/questions.php as "<Language>/<bookNo>/<file>.json")
+    // — the same path regardless of quiz type, so topic/character/place sets
+    // that span several books still get a correct per-book breakdown.
+    function getBookCountsForSet() {
+        const counts = {};
+        state.questions.forEach((q) => {
+            if (!q._path) return;
+            const bookNo = parseInt(q._path.split('/')[1], 10);
+            if (bookNo >= 1 && bookNo <= 66) {
+                counts[bookNo] = (counts[bookNo] || 0) + 1;
+            }
+        });
+        return counts;
+    }
+
+    // Fire-and-forget: records that this set was finished toward the
+    // site-wide "quizzes completed" / "questions answered" / "questions by
+    // book" counters shown in the footer and admin screen. Never blocks or
+    // affects the player's own results on failure.
+    function submitQuizStats(totalQuestions) {
+        try {
+            fetch('api/stats.php', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    lang: state.lang,
+                    totalQuestions,
+                    bookCounts: getBookCountsForSet(),
+                }),
+            }).catch(() => {});
+        } catch (err) {
+            // ignore — stats are best-effort
+        }
+    }
+
     function finishSet() {
         clearTimer();
         els.play.hidden = true;
 
         const stats = getScoreStats();
         const { correct: correctCount, total, pct } = stats;
+
+        submitQuizStats(total);
 
         renderScoreCharts(stats);
         els.setScoreSummary.textContent = `You answered ${correctCount} out of ${total} correctly in this set.`;
@@ -926,7 +964,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     addCanvasToPdf(pdf, reviewCanvas, true);
                 }
 
-                pdf.save('quiz-results.pdf');
+                pdf.save('quiz-results-from-wordofgod.in.pdf');
             } catch (err) {
                 window.alert('Could not generate the PDF. Please try again.');
             } finally {

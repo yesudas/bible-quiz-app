@@ -7,7 +7,12 @@
  * way as logs/mistake-reports.log): logs/leaderboard-data.json, one JSON
  * array of rows:
  *   {id, displayName, countryCode, countryName, mobileEnc, matchHash,
- *    correctCount, totalQuestions, lang, createdAt, updatedAt}
+ *    correctCount, totalQuestions, createdAt, updatedAt}
+ *
+ * No language field: the score is a lifetime total across every quiz a
+ * phone number has ever played, and the same person may well play some
+ * quizzes in their mother tongue and others in English — there's no single
+ * "the" language to record against the row.
  *
  * Public derived files (regenerated after every write, no PII):
  *   leaderboard/top10.json, leaderboard/all.json — each
@@ -280,8 +285,7 @@ function quizLeaderboardSubmit(
     string $countryCode,
     string $mobile,
     int $correctCount,
-    int $totalQuestions,
-    string $lang
+    int $totalQuestions
 ): ?array {
     $normalized = quizLeaderboardNormalizeMobile($countryCode, $mobile);
     if ($displayName === '' || $normalized === '') {
@@ -297,7 +301,7 @@ function quizLeaderboardSubmit(
 
     $ok = quizLeaderboardMutate(static function (array $rows) use (
         $displayName, $countryCode, $countryName, $normalized, $matchHash,
-        $correctCount, $totalQuestions, $lang, $now, &$rank, &$newCorrectCount, &$newTotalQuestions
+        $correctCount, $totalQuestions, $now, &$rank, &$newCorrectCount, &$newTotalQuestions
     ): array {
         $found = false;
         foreach ($rows as &$row) {
@@ -306,7 +310,6 @@ function quizLeaderboardSubmit(
                 $row['displayName'] = $displayName;
                 $row['countryCode'] = $countryCode;
                 $row['countryName'] = $countryName;
-                $row['lang'] = $lang;
                 $row['updatedAt'] = $now;
                 $row['correctCount'] = (int) ($row['correctCount'] ?? 0) + $correctCount;
                 $row['totalQuestions'] = (int) ($row['totalQuestions'] ?? 0) + $totalQuestions;
@@ -327,7 +330,6 @@ function quizLeaderboardSubmit(
                 'matchHash' => $matchHash,
                 'correctCount' => $correctCount,
                 'totalQuestions' => $totalQuestions,
-                'lang' => $lang,
                 'createdAt' => $now,
                 'updatedAt' => $now,
             ];
@@ -359,4 +361,47 @@ function quizLeaderboardDeleteEntry(string $id): bool
     return quizLeaderboardMutate(static fn (array $rows): array => array_values(
         array_filter($rows, static fn (array $r): bool => ($r['id'] ?? '') !== $id)
     ));
+}
+
+/**
+ * Admin-only edit: corrects a leaderboard row's display name, country, or
+ * lifetime score directly (e.g. to fix a typo'd name or back out a bad
+ * submission). The mobile number itself is never editable here — it's the
+ * row's identity (matchHash is derived from it); changing it would really
+ * mean "merge into a different person's row", which isn't what an edit
+ * screen should quietly do.
+ */
+function quizLeaderboardEditEntry(
+    string $id,
+    string $displayName,
+    string $countryCode,
+    int $correctCount,
+    int $totalQuestions
+): bool {
+    if ($displayName === '' || !isset(quizLeaderboardCountries()[$countryCode]) || $correctCount < 0 || $totalQuestions < 0) {
+        return false;
+    }
+
+    $countryName = quizLeaderboardCountryName($countryCode);
+    $now = date('c');
+    $found = false;
+
+    return quizLeaderboardMutate(static function (array $rows) use (
+        $id, $displayName, $countryCode, $countryName, $correctCount, $totalQuestions, $now, &$found
+    ): array {
+        foreach ($rows as &$row) {
+            if (($row['id'] ?? '') === $id) {
+                $found = true;
+                $row['displayName'] = $displayName;
+                $row['countryCode'] = $countryCode;
+                $row['countryName'] = $countryName;
+                $row['correctCount'] = $correctCount;
+                $row['totalQuestions'] = $totalQuestions;
+                $row['updatedAt'] = $now;
+                break;
+            }
+        }
+        unset($row);
+        return $rows;
+    }) && $found;
 }

@@ -17,6 +17,7 @@ if ($setSize > 100) {
 $timed = isset($_GET['timed']) && $_GET['timed'] === '1';
 $timeUnit = $_GET['time_unit'] ?? 'seconds';
 $timeValue = (int) ($_GET['time_value'] ?? 0);
+$embed = isset($_GET['embed']) && $_GET['embed'] === '1';
 
 $lang = str_replace(["\0", '/', '\\'], '', $lang);
 $type = preg_replace('/[^a-z0-9\-]/', '', strtolower($type));
@@ -126,7 +127,13 @@ $leaderboardCountries = quizLeaderboardCountries();
 $pageTitle = $typeLabel . ' · Free Bible Quiz';
 $metaDescription = 'Take a ' . $typeLabel . ' in ' . $lang . ' — free Bible quiz from WordOfGod.in.';
 
-renderQuizHeader($pageTitle, $metaDescription, $version, ['bodyClass' => 'quiz-page', 'lang' => $lang]);
+renderQuizHeader($pageTitle, $metaDescription, $version, ['bodyClass' => 'quiz-page', 'lang' => $lang, 'embed' => $embed]);
+
+// "Change quiz" / "Back to home" need to stay inside the embed widget
+// (embed.php) rather than breaking out to the full site (index.php) when
+// this page was reached from an embedded iframe.
+$homeHref = $embed ? 'embed.php' : 'index.php';
+$embedQuery = $embed ? '&embed=1' : '';
 ?>
 
 <div id="quizApp"
@@ -153,9 +160,9 @@ renderQuizHeader($pageTitle, $metaDescription, $version, ['bodyClass' => 'quiz-p
      data-pdf-review-heading="<?= htmlspecialchars($leaderboardLabels['pdfReviewHeading']) ?>">
 
     <div class="quiz-toolbar">
-        <a href="index.php?lang=<?= urlencode($lang) ?>&type=<?= urlencode($type) ?>" class="btn btn-link">← Change quiz</a>
+        <a href="<?= htmlspecialchars($homeHref) ?>?lang=<?= urlencode($lang) ?>&type=<?= urlencode($type) ?><?= $embedQuery ?>" class="btn btn-link">← Change quiz</a>
         <p class="quiz-mode-label"><?= htmlspecialchars($typeLabel) ?> · <?= htmlspecialchars(quizLanguageDisplayName($lang)) ?></p>
-        <a href="leaderboard.php?lang=<?= urlencode($lang) ?>" class="btn btn-link quiz-leaderboard-link"><i class="bi bi-trophy" aria-hidden="true"></i> <?= htmlspecialchars($leaderboardLabels['pageTitle']) ?></a>
+        <a href="leaderboard.php?lang=<?= urlencode($lang) ?><?= $embedQuery ?>" class="btn btn-link quiz-leaderboard-link"><i class="bi bi-trophy" aria-hidden="true"></i> <?= htmlspecialchars($leaderboardLabels['pageTitle']) ?></a>
     </div>
 
     <div id="leaderboardModal" class="modal-overlay" hidden role="dialog" aria-modal="true" aria-labelledby="leaderboardModalTitle">
@@ -248,7 +255,7 @@ renderQuizHeader($pageTitle, $metaDescription, $version, ['bodyClass' => 'quiz-p
             <button type="button" class="btn btn-outline-primary" id="reviewBtn">Review answers</button>
             <button type="button" class="btn btn-primary" id="nextSetBtn" hidden>Next set</button>
             <button type="button" class="btn btn-outline-primary" id="downloadPdfBtn"><i class="bi bi-file-earmark-pdf" aria-hidden="true"></i> <?= htmlspecialchars($leaderboardLabels['downloadPdf']) ?></button>
-            <a href="index.php?lang=<?= urlencode($lang) ?>" class="btn btn-link">Back to home</a>
+            <a href="<?= htmlspecialchars($homeHref) ?>?lang=<?= urlencode($lang) ?><?= $embedQuery ?>" class="btn btn-link">Back to home</a>
         </div>
     </section>
 
@@ -265,4 +272,4 @@ renderQuizHeader($pageTitle, $metaDescription, $version, ['bodyClass' => 'quiz-p
 
 <script src="assets/js/quiz.js?v=<?= htmlspecialchars($version) ?>" defer></script>
 
-<?php renderQuizFooter($version); ?>
+<?php renderQuizFooter($version, ['embed' => $embed]); ?>

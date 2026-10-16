@@ -18,12 +18,21 @@ document.addEventListener('DOMContentLoaded', () => {
     const timedCheckbox = document.getElementById('timed');
     const timedOptions = document.getElementById('timedOptions');
     const timeValueInput = document.getElementById('time_value');
+    const shareExpiryCheckbox = document.getElementById('share_expiry');
+    const shareExpiryOptions = document.getElementById('shareExpiryOptions');
+    const shareExpiryValueInput = document.getElementById('share_expiry_value');
+    const shareOneAttemptCheckbox = document.getElementById('share_one_attempt');
     const indexHint = document.getElementById('indexHint');
     const shareBtn = document.getElementById('shareQuizBtn');
     const shareResult = document.getElementById('shareResult');
     const shareUrlInput = document.getElementById('shareUrlInput');
     const shareCopyBtn = document.getElementById('shareCopyBtn');
     const shareResultMsg = document.getElementById('shareResultMsg');
+    const embedBtn = document.getElementById('embedQuizBtn');
+    const embedResult = document.getElementById('embedResult');
+    const embedCodeInput = document.getElementById('embedCodeInput');
+    const embedCopyBtn = document.getElementById('embedCopyBtn');
+    const embedResultMsg = document.getElementById('embedResultMsg');
     const booksOverviewSection = document.getElementById('booksOverviewSection');
     const bookLinksList = document.getElementById('bookLinksList');
     const topicsOverviewSection = document.getElementById('topicsOverviewSection');
@@ -319,6 +328,19 @@ document.addEventListener('DOMContentLoaded', () => {
             window.QUIZ_I18N = window.QUIZ_I18N || {};
             window.QUIZ_I18N.chapterWord = labels.chapterWord;
         }
+
+        if (labels.leaderboard) {
+            document.querySelectorAll('[data-leaderboard-label]').forEach((el) => {
+                const key = el.dataset.leaderboardLabel;
+                const text = labels.leaderboard[key];
+                if (!text) return;
+                if (el.tagName === 'A') {
+                    el.textContent = `${text} →`;
+                } else {
+                    el.textContent = `🏆 ${text}`;
+                }
+            });
+        }
     }
 
     // Mode tiles link straight to quiz.php with a hard-coded lang= from the page
@@ -332,6 +354,17 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // "Show all" leaderboard link is baked with whichever language rendered
+    // the page; keep it pointing at the currently selected one, same as the
+    // mode tiles above.
+    function updateLeaderboardLink(lang) {
+        const link = document.querySelector('.leaderboard-widget-more');
+        if (!link) return;
+        const url = new URL(link.getAttribute('href'), window.location.href);
+        url.searchParams.set('lang', lang);
+        link.setAttribute('href', `${url.pathname}${url.search}`);
+    }
+
     async function loadCatalog(lang) {
         const res = await fetch(`api/catalog.php?lang=${encodeURIComponent(lang)}`);
         if (!res.ok) {
@@ -343,6 +376,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         applyLabels(catalog.labels);
         updateModeTileLinks(lang);
+        updateLeaderboardLink(lang);
 
         renderItemLinks(booksOverviewSection, bookLinksList, catalog.books, {
             type: 'book', lang, param: 'books[]', valueKey: 'key', labelKey: 'name',
@@ -513,6 +547,42 @@ document.addEventListener('DOMContentLoaded', () => {
         timeValueInput.dispatchEvent(new Event('change', { bubbles: true }));
     }
 
+    function syncShareExpiryLimits() {
+        if (!shareExpiryValueInput) return;
+        const unit = document.querySelector('input[name="share_expiry_unit"]:checked')?.value || 'minutes';
+        const current = parseInt(shareExpiryValueInput.value, 10);
+
+        if (unit === 'days') {
+            shareExpiryValueInput.min = '1';
+            shareExpiryValueInput.max = '30';
+            shareExpiryValueInput.step = '1';
+            if (!Number.isFinite(current) || current > 30) {
+                shareExpiryValueInput.value = '30';
+            } else if (current < 1) {
+                shareExpiryValueInput.value = '1';
+            }
+        } else if (unit === 'hours') {
+            shareExpiryValueInput.min = '1';
+            shareExpiryValueInput.max = '24';
+            shareExpiryValueInput.step = '1';
+            if (!Number.isFinite(current) || current > 24) {
+                shareExpiryValueInput.value = '1';
+            } else if (current < 1) {
+                shareExpiryValueInput.value = '1';
+            }
+        } else {
+            shareExpiryValueInput.min = '5';
+            shareExpiryValueInput.max = '1440';
+            shareExpiryValueInput.step = '5';
+            if (!Number.isFinite(current) || current < 5) {
+                shareExpiryValueInput.value = '60';
+            } else if (current > 1440) {
+                shareExpiryValueInput.value = '1440';
+            }
+        }
+        shareExpiryValueInput.dispatchEvent(new Event('change', { bubbles: true }));
+    }
+
     document.querySelectorAll('[data-qty-stepper]').forEach(setupQtyStepper);
 
     typeSelect.addEventListener('change', () => {
@@ -537,6 +607,13 @@ document.addEventListener('DOMContentLoaded', () => {
         timedCheckbox.checked = false;
         timedOptions.hidden = true;
         timeValueInput.disabled = true;
+        if (shareExpiryCheckbox) shareExpiryCheckbox.checked = false;
+        if (shareExpiryOptions) shareExpiryOptions.hidden = true;
+        if (shareExpiryValueInput) shareExpiryValueInput.disabled = true;
+        if (shareOneAttemptCheckbox) {
+            shareOneAttemptCheckbox.checked = false;
+            shareOneAttemptCheckbox.disabled = true;
+        }
         document.querySelectorAll('input[name="difficulty[]"]').forEach((input) => {
             input.checked = false;
         });
@@ -593,6 +670,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
     document.querySelectorAll('input[name="time_unit"]').forEach((radio) => {
         radio.addEventListener('change', syncTimeValueLimits);
+    });
+
+    if (shareExpiryCheckbox) {
+        shareExpiryCheckbox.addEventListener('change', () => {
+            const on = shareExpiryCheckbox.checked;
+            shareExpiryOptions.hidden = !on;
+            shareExpiryValueInput.disabled = !on;
+            shareOneAttemptCheckbox.disabled = !on;
+            if (!on) shareOneAttemptCheckbox.checked = false;
+        });
+    }
+
+    document.querySelectorAll('input[name="share_expiry_unit"]').forEach((radio) => {
+        radio.addEventListener('change', syncShareExpiryLimits);
     });
 
     function validateSelection() {
@@ -702,6 +793,44 @@ document.addEventListener('DOMContentLoaded', () => {
                 showShareMessage('Copied to clipboard!', false);
             } catch (err) {
                 showShareMessage('Copy failed — select and copy manually.', true);
+            }
+        });
+    }
+
+    function showEmbedMessage(message, isError) {
+        if (!embedResultMsg) return;
+        embedResultMsg.textContent = message;
+        embedResultMsg.classList.toggle('error', Boolean(isError));
+    }
+
+    // Unlike Share Quiz, the embed code needs no server round trip — it's
+    // just a plain <iframe> pointing at embed.php (which has its own full
+    // setup form), carrying along the currently selected language.
+    if (embedBtn) {
+        embedBtn.addEventListener('click', () => {
+            const basePath = location.pathname.replace(/[^/]*$/, '');
+            const embedSrc = `${location.origin}${basePath}embed.php?lang=${encodeURIComponent(langSelect.value)}`;
+            const embedCode = `<iframe src="${embedSrc}" width="100%" height="1100" style="border:0;max-width:600px;" loading="lazy" title="Bible Quiz"></iframe>`;
+
+            if (embedResult) embedResult.hidden = false;
+            if (embedCodeInput) {
+                embedCodeInput.value = embedCode;
+                embedCodeInput.focus();
+                embedCodeInput.select();
+            }
+            showEmbedMessage('', false);
+        });
+    }
+
+    if (embedCopyBtn) {
+        embedCopyBtn.addEventListener('click', async () => {
+            if (!embedCodeInput || !embedCodeInput.value) return;
+            embedCodeInput.select();
+            try {
+                await navigator.clipboard.writeText(embedCodeInput.value);
+                showEmbedMessage('Copied to clipboard!', false);
+            } catch (err) {
+                showEmbedMessage('Copy failed — select and copy manually.', true);
             }
         });
     }

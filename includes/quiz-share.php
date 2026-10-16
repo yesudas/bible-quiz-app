@@ -57,7 +57,7 @@ function quizShareBase64UrlDecode(string $data): string|false
  * @param array{
  *     lang: string, type: string, set_size: int, timed: bool, time_unit: string,
  *     time_value: int, books: list<int>, chapters: list<int>, topic: string, character: string, place: string,
- *     difficulty: list<string>
+ *     difficulty: list<string>, end_time?: int|null, one_attempt?: bool
  * } $params
  */
 function quizShareEncode(array $params): string
@@ -129,6 +129,14 @@ function quizShareEncode(array $params): string
     }
     $bin .= pack('C', $difficultyMask);
 
+    $hasExpiry = isset($params['end_time']) && $params['end_time'] !== null;
+    $oneAttempt = $hasExpiry && !empty($params['one_attempt']);
+    $expiryFlags = ($hasExpiry ? 1 : 0) | ($oneAttempt ? 2 : 0);
+    $bin .= pack('C', $expiryFlags);
+    if ($hasExpiry) {
+        $bin .= pack('N', max(0, (int) $params['end_time']));
+    }
+
     $sig = substr(hash_hmac('sha256', $bin, quizShareSecret(), true), 0, QUIZ_SHARE_SIG_BYTES);
 
     return quizShareBase64UrlEncode($bin) . '.' . quizShareBase64UrlEncode($sig);
@@ -140,7 +148,7 @@ function quizShareEncode(array $params): string
  * @return array{
  *     lang: string, type: string, set_size: int, timed: bool, time_unit: string,
  *     time_value: int, books: list<string>, chapters: list<string>, topic: string, character: string, place: string,
- *     difficulty: list<string>
+ *     difficulty: list<string>, end_time: int|null, one_attempt: bool
  * }|null
  */
 function quizShareDecode(string $token): ?array
@@ -290,6 +298,23 @@ function quizShareDecode(string $token): ?array
         }
     }
 
+    $endTime = null;
+    $oneAttempt = false;
+    if ($offset < $len) {
+        $expiryFlags = ord($bin[$offset]);
+        $offset += 1;
+        $hasExpiry = ($expiryFlags & 1) === 1;
+        $oneAttempt = $hasExpiry && ($expiryFlags & 2) === 2;
+        if ($hasExpiry) {
+            if ($offset + 4 > $len) {
+                return null;
+            }
+            $unpacked = unpack('N', substr($bin, $offset, 4));
+            $endTime = $unpacked[1];
+            $offset += 4;
+        }
+    }
+
     return [
         'lang' => $lang,
         'type' => $type,
@@ -303,5 +328,7 @@ function quizShareDecode(string $token): ?array
         'character' => $character,
         'place' => $place,
         'difficulty' => $difficulty,
+        'end_time' => $endTime,
+        'one_attempt' => $oneAttempt,
     ];
 }
