@@ -45,7 +45,7 @@ function renderQuizHeader(string $pageTitle, string $metaDescription, string $ve
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="apple-mobile-web-app-title" content="Bible Quiz Multi-Language - WordOfGod">
+    <meta name="apple-mobile-web-app-title" content="Bible Quiz - WordOfGod">
     <link rel="canonical" href="<?= htmlspecialchars($options['canonical'] ?? '') ?>">
     <link rel="manifest" href="manifest.json?v=<?= htmlspecialchars($version) ?>">
     <?php endif; ?>

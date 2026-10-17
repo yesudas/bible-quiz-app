@@ -102,7 +102,7 @@ $leaderboardLabels = quizLeaderboardLabels($selectedLanguage);
 $leaderboardPodium = array_slice($leaderboardTop10, 0, 3);
 $leaderboardRest = array_slice($leaderboardTop10, 3, 7);
 
-$pageTitle = 'Bible Quiz Multi-Language - WordOfGod';
+$pageTitle = 'Bible Quiz - WordOfGod';
 $metaDescription = 'Free Bible quiz with random, book, chapter, topic, and audience modes in multiple languages. Test your Scripture knowledge at WordOfGod.in.';
 $canonical = 'https://wordofgod.in/bible-quiz/';
 
