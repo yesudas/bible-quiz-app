@@ -10,3 +10,6 @@ logs/mistake-reports.log
 logs/leaderboard-data.json
 leaderboard/top10.json
 leaderboard/all.json
+
+sync.ffs_lock
+.sync.ffs_db*
