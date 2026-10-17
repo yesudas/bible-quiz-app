@@ -1,25 +1,12 @@
 {
     "type": "place",
     "language": "English",
-    "place": "Wilderness",
-    "label": "Wilderness",
-    "count": 15,
+    "place": "wilderness",
+    "label": "wilderness",
+    "count": 2,
     "paths": [
-        "English/10/10-017-014.json",
-        "English/11/11-019-003.json",
-        "English/14/14-001-002.json",
-        "English/14/14-026-006.json",
-        "English/16/16-009-008.json",
-        "English/16/16-009-010.json",
-        "English/16/16-009-012.json",
-        "English/16/16-009-013.json",
-        "English/19/19-078-007.json",
-        "English/19/19-078-008.json",
-        "English/19/19-095-006.json",
-        "English/19/19-136-007.json",
-        "English/22/22-003-004.json",
-        "English/22/22-008-001.json",
-        "English/23/23-040-002.json"
+        "English/06/06-005-003.json",
+        "English/06/06-005-004.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-16T11:07:53-05:00"
 }

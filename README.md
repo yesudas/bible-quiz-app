@@ -108,7 +108,7 @@ Right after finishing the **first set** of a quiz attempt (not the whole attempt
 - The encryption/match-hash keys live in `leaderboard-secret.php` (gitignored) and are generated automatically on first use — no setup required. To pin your own, copy `leaderboard-secret.example.php` to `leaderboard-secret.php`.
 - `a.php?view=leaderboard` is the only place a mobile number is ever decrypted and shown — an admin-only view for moderation, with both an "Edit" action (name, country, and the correct/total score — not the mobile number itself) and a "Remove" action per entry.
 - On their own results screen, a player who joined sees their mobile number masked (e.g. `+91 ••••••89`) with a "Show number"/"Hide number" toggle — this is purely a convenience on their own device, unrelated to the "never shown publicly" guarantee for everyone else.
-- A finished quiz's results screen also has a "Download results as PDF" button (client-side, via `html2canvas` + `jsPDF` loaded from a CDN on first click) that works on both desktop and mobile browsers.
+- A finished quiz's results screen also has a "Download results as PDF" button (client-side, via `jsPDF` loaded from a CDN on first click) that works on both desktop and mobile browsers. The PDF is built as native, colored vector text/shapes (score card, review badges, etc.) rather than a screenshot, keeping the file a few KB instead of tens of MB, and its "Powered by" credit is a real clickable link.
 - The display name, country code, and mobile number typed into the popup are remembered in the browser's `localStorage` (`bibleQuizPlayerInfo`), so a returning player doesn't have to retype them on their next quiz.
 
 ## Assets

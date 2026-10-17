@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
         current: 0,
         timerId: null,
         secondsLeft: 0,
-        playingAsLabel: root.dataset.playingAs || 'Playing as',
+        playingAsLabel: root.dataset.playingAs || 'Name',
         showNumberLabel: root.dataset.showNumber || 'Show number',
         hideNumberLabel: root.dataset.hideNumber || 'Hide number',
         congratsTop100Label: root.dataset.congratsTop100 || "Congratulations! You're in the Top 100 on the leaderboard — rank #{rank}!",
@@ -981,7 +981,11 @@ document.addEventListener('DOMContentLoaded', () => {
             cursor.addGap(10);
         }
 
-        // Quiz details card
+        // Quiz details card — padded on all sides so the text never touches
+        // the card's border.
+        const CARD_PAD_X = 14;
+        const CARD_PAD_Y = 12;
+        const CARD_GAP_AFTER = 18;
         const detailRows = els.setResults.querySelectorAll('.quiz-details .quiz-detail-row');
         if (detailRows.length) {
             const lines = [];
@@ -992,22 +996,33 @@ document.addEventListener('DOMContentLoaded', () => {
                 lines.push(`${dt.textContent.trim()}: ${dd.textContent.trim()}`);
             });
             pdf.setFontSize(10.5);
-            const wrappedLines = lines.flatMap((line) => pdf.splitTextToSize(line, maxWidth - 24));
+            const innerWidth = maxWidth - CARD_PAD_X * 2;
+            const wrappedLines = lines.flatMap((line) => pdf.splitTextToSize(line, innerWidth));
             const cardLineHeight = cursor.lineHeight(10.5);
-            const cardHeight = wrappedLines.length * cardLineHeight + 16;
+            const cardHeight = wrappedLines.length * cardLineHeight + CARD_PAD_Y * 2;
             cursor.ensure(Math.ceil(cardHeight / PDF_LINE_HEIGHT) + 1);
+            const cardTop = cursor.y;
             pdf.setFillColor(PDF_BRAND_LIGHT[0], PDF_BRAND_LIGHT[1], PDF_BRAND_LIGHT[2]);
-            pdf.roundedRect(PDF_MARGIN, cursor.y - 10, maxWidth, cardHeight, 6, 6, 'F');
-            cursor.addGap(6);
-            cursor.writeLines(wrappedLines, 10.5, [60, 60, 60]);
-            cursor.addGap(14);
+            pdf.roundedRect(PDF_MARGIN, cardTop, maxWidth, cardHeight, 6, 6, 'F');
+
+            pdf.setFont('helvetica', 'normal');
+            pdf.setTextColor(60, 60, 60);
+            let lineY = cardTop + CARD_PAD_Y + 8;
+            wrappedLines.forEach((line) => {
+                pdf.text(line, PDF_MARGIN + CARD_PAD_X, lineY);
+                lineY += cardLineHeight;
+            });
+            pdf.setTextColor(0, 0, 0);
+
+            cursor.y = cardTop + cardHeight;
+            cursor.addGap(CARD_GAP_AFTER);
         }
 
         // Big colored score card
         const cardWidth = maxWidth;
         const cardHeight = 86;
         cursor.ensure(Math.ceil(cardHeight / PDF_LINE_HEIGHT) + 1);
-        const cardTop = cursor.y - 10;
+        const cardTop = cursor.y;
         pdf.setDrawColor(scoreColor[0], scoreColor[1], scoreColor[2]);
         pdf.setLineWidth(1.5);
         pdf.setFillColor(255, 255, 255);
@@ -1049,16 +1064,17 @@ document.addEventListener('DOMContentLoaded', () => {
         pdf.setFont('helvetica', 'bold');
         pdf.setFontSize(9.5);
         const textWidth = pdf.getTextWidth(text);
-        const paddingX = 6;
+        const paddingX = 10;
+        const paddingY = 5;
         const badgeWidth = textWidth + paddingX * 2;
-        const badgeHeight = 13;
+        const badgeHeight = 9.5 + paddingY * 2;
         cursor.ensure(1);
         pdf.setFillColor(color[0], color[1], color[2]);
-        pdf.roundedRect(PDF_MARGIN, cursor.y - 9, badgeWidth, badgeHeight, 3, 3, 'F');
+        pdf.roundedRect(PDF_MARGIN, cursor.y - badgeHeight + paddingY + 2, badgeWidth, badgeHeight, 4, 4, 'F');
         pdf.setTextColor(255, 255, 255);
         pdf.text(text, PDF_MARGIN + paddingX, cursor.y);
         pdf.setTextColor(0, 0, 0);
-        cursor.addGap(cursor.lineHeight(9.5));
+        cursor.addGap(cursor.lineHeight(9.5) + 6);
         pdf.setFont('helvetica', 'normal');
     }
 

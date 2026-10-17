@@ -1,22 +1,14 @@
 {
     "type": "place",
     "language": "English",
-    "place": "Hill-country-of-Ephraim",
-    "label": "Hill country of Ephraim",
-    "count": 12,
+    "place": "hill-country-of-Ephraim",
+    "label": "hill country of Ephraim",
+    "count": 4,
     "paths": [
-        "English/07/07-002-007.json",
-        "English/07/07-003-016.json",
-        "English/07/07-004-007.json",
-        "English/07/07-007-017.json",
-        "English/07/07-010-001.json",
-        "English/07/07-017-001.json",
-        "English/07/07-018-003.json",
-        "English/07/07-019-001.json",
-        "English/07/07-019-008.json",
-        "English/09/09-001-001.json",
-        "English/14/14-013-003.json",
-        "English/14/14-019-004.json"
+        "English/06/06-017-008.json",
+        "English/06/06-019-006.json",
+        "English/06/06-020-007.json",
+        "English/06/06-024-012.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-16T11:07:53-05:00"
 }

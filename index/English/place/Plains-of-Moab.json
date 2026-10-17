@@ -1,11 +1,12 @@
 {
     "type": "place",
     "language": "English",
-    "place": "plains-of-Moab",
-    "label": "plains of Moab",
-    "count": 1,
+    "place": "Plains-of-Moab",
+    "label": "Plains of Moab",
+    "count": 2,
     "paths": [
-        "English/06/06-013-010.json"
+        "English/04/04-026-002.json",
+        "English/04/04-036-005.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-16T11:07:53-05:00"
 }

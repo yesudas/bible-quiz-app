@@ -216,7 +216,7 @@ function quizLeaderboardLabelsByLanguage(): array
             'validationError' => 'Enter both your name and mobile number to join the leaderboard, or skip to just see your results.',
             'save' => 'Save & join leaderboard',
             'skip' => 'Skip',
-            'playingAs' => 'Playing as',
+            'playingAs' => 'Name',
             'showNumber' => 'Show number',
             'hideNumber' => 'Hide number',
             'pageTitle' => 'Leaderboard',
