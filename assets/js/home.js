@@ -39,6 +39,16 @@ document.addEventListener('DOMContentLoaded', () => {
     const embedQuizCopyBtn = document.getElementById('embedQuizCopyBtn');
     const embedQuizResultMsg = document.getElementById('embedQuizResultMsg');
     const resultPanels = [shareResult, embedAppResult, embedQuizResult];
+    const pdfQuizBtn = document.getElementById('pdfQuizBtn');
+    const pdfModal = document.getElementById('pdfModal');
+    const pdfForm = document.getElementById('pdfForm');
+    const pdfHeaderInput = document.getElementById('pdfHeader');
+    const pdfSub1Input = document.getElementById('pdfSub1');
+    const pdfSub2Input = document.getElementById('pdfSub2');
+    const pdfSub3Input = document.getElementById('pdfSub3');
+    const pdfCancelBtn = document.getElementById('pdfCancelBtn');
+    const pdfDownloadBtn = document.getElementById('pdfDownloadBtn');
+    const pdfFormError = document.getElementById('pdfFormError');
 
     // Share Quiz / Embed App / Embed Quiz each reveal their own result panel
     // below the form actions — only one should be visible at a time, so
@@ -424,13 +434,13 @@ document.addEventListener('DOMContentLoaded', () => {
         renderItemLinks(booksOverviewSection, bookLinksList, catalog.books, {
             type: 'book', lang, param: 'books[]', valueKey: 'key', labelKey: 'name',
         });
-        renderItemLinks(topicsOverviewSection, topicLinksList, catalog.topics, {
+        renderItemLinks(topicsOverviewSection, topicLinksList, catalog.topics.filter((t) => t.question_count > 1), {
             type: 'topic', lang, param: 'topic', valueKey: 'slug', labelKey: 'label',
         });
-        renderItemLinks(charactersOverviewSection, characterLinksList, catalog.characters, {
+        renderItemLinks(charactersOverviewSection, characterLinksList, catalog.characters.filter((c) => c.question_count > 1), {
             type: 'character', lang, param: 'character', valueKey: 'slug', labelKey: 'label',
         });
-        renderItemLinks(placesOverviewSection, placeLinksList, catalog.places || [], {
+        renderItemLinks(placesOverviewSection, placeLinksList, (catalog.places || []).filter((p) => p.question_count > 1), {
             type: 'place', lang, param: 'place', valueKey: 'slug', labelKey: 'label',
         });
 
@@ -953,6 +963,431 @@ document.addEventListener('DOMContentLoaded', () => {
     if (shareExpiryCheckbox) {
         document.querySelectorAll('input[name="share_expiry_unit"]').forEach((radio) => {
             radio.disabled = !shareExpiryCheckbox.checked;
+        });
+    }
+
+    function loadScriptOnce(src) {
+        return new Promise((resolve, reject) => {
+            if (document.querySelector(`script[src="${src}"]`)) {
+                resolve();
+                return;
+            }
+            const script = document.createElement('script');
+            script.src = src;
+            script.onload = () => resolve();
+            script.onerror = () => reject(new Error('Could not load ' + src));
+            document.head.appendChild(script);
+        });
+    }
+
+    // Builds the api/index.php query for whatever is currently selected on the
+    // setup form — same fields Share Quiz/Embed Quiz read, just resolved into
+    // the single-value shape api/index.php expects (not the comma-joined one).
+    function pdfIndexUrl() {
+        const type = typeSelect.value;
+        const params = new URLSearchParams({ lang: langSelect.value, type });
+        if (type === 'book' || type === 'chapter') {
+            getSelectedBooks().forEach((b) => params.append('books[]', b));
+        }
+        if (type === 'chapter') {
+            (chapterCheckboxList?.querySelectorAll('input[name="chapters[]"]:checked') || [])
+                .forEach((i) => params.append('chapters[]', i.value));
+        }
+        if (type === 'topic' && topicSelect.value) params.set('topic', topicSelect.value);
+        if (type === 'character' && characterSelect.value) params.set('character', characterSelect.value);
+        if (type === 'place' && placeSelect?.value) params.set('place', placeSelect.value);
+        document.querySelectorAll('input[name="difficulty[]"]:checked').forEach((i) => params.append('difficulty[]', i.value));
+        params.set('v', window.QUIZ_VERSION || '');
+        return `api/index.php?${params.toString()}`;
+    }
+
+    // Human-readable lines describing the current selection (quiz type, plus
+    // whichever book/chapter/topic/character/place/difficulty narrows it),
+    // resolved from the already-loaded catalog so no extra fetch is needed.
+    function pdfSelectionLines() {
+        const lines = [];
+        const type = typeSelect.value;
+        const typeLabel = typeSelect.options[typeSelect.selectedIndex]?.text || type;
+        lines.push(`Quiz type: ${typeLabel}`);
+
+        if ((type === 'book' || type === 'chapter') && catalog) {
+            const names = getSelectedBooks().map((key) => catalog.books.find((b) => b.key === key)?.name || key);
+            if (names.length) lines.push(`Book${names.length > 1 ? 's' : ''}: ${names.join(', ')}`);
+        }
+        if (type === 'chapter') {
+            const chosen = [...(chapterCheckboxList?.querySelectorAll('input[name="chapters[]"]:checked') || [])]
+                .map((i) => parseInt(i.value.split('-')[1], 10));
+            if (chosen.length) lines.push(`Chapter${chosen.length > 1 ? 's' : ''}: ${chosen.join(', ')}`);
+        }
+        if (type === 'topic' && topicSelect.value && catalog) {
+            const label = catalog.topics.find((t) => t.slug === topicSelect.value)?.label || topicSelect.value;
+            lines.push(`Topic: ${label}`);
+        }
+        if (type === 'character' && characterSelect.value && catalog) {
+            const label = catalog.characters.find((c) => c.slug === characterSelect.value)?.label || characterSelect.value;
+            lines.push(`Character: ${label}`);
+        }
+        if (type === 'place' && placeSelect?.value && catalog) {
+            const label = (catalog.places || []).find((p) => p.slug === placeSelect.value)?.label || placeSelect.value;
+            lines.push(`Place: ${label}`);
+        }
+        const difficultyLabels = [...document.querySelectorAll('input[name="difficulty[]"]:checked')].map((i) => {
+            const span = i.closest('label')?.querySelector('[data-difficulty-label]');
+            return span ? span.textContent : i.value;
+        });
+        if (difficultyLabels.length) lines.push(`Difficulty: ${difficultyLabels.join(', ')}`);
+
+        return lines;
+    }
+
+    // Shared PDF helpers (header banner + paginated body + footer) — mirrors
+    // the approach quiz.js uses for "Download results as PDF" (native jsPDF
+    // text/shapes, no html2canvas rasterizing of whole pages), duplicated
+    // here since home.js and quiz.js are separate bundles on separate pages.
+    //
+    // jsPDF's built-in fonts (helvetica/times/courier) only have Latin
+    // glyphs, and even a Unicode TTF added via addFont() wouldn't help on
+    // its own — Tamil/Devanagari/Kannada need real text shaping (vowel
+    // signs/conjuncts get visually reordered around their base consonant),
+    // which jsPDF doesn't do. Without it the glyphs come out in raw
+    // code-point order, which is exactly the "scrambled" look. The browser's
+    // own canvas text layout *does* shape these scripts correctly, so any
+    // line containing one is rasterized with a matching Noto web font and
+    // embedded as an image instead of drawn as jsPDF vector text; plain
+    // Latin lines keep the original fast, tiny-file vector path.
+    const PDF_MARGIN = 36;
+    const PDF_LINE_HEIGHT = 14;
+    const PDF_BRAND = [109, 40, 217];
+    const PDF_RASTER_SCALE = 3;
+
+    const PDF_COMPLEX_SCRIPTS = [
+        { name: 'Noto Sans Tamil', google: 'Noto+Sans+Tamil', test: /[஀-௿]/ },
+        { name: 'Noto Sans Devanagari', google: 'Noto+Sans+Devanagari', test: /[ऀ-ॿ]/ },
+        { name: 'Noto Sans Kannada', google: 'Noto+Sans+Kannada', test: /[ಀ-೿]/ },
+    ];
+
+    function detectComplexScriptFont(text) {
+        return PDF_COMPLEX_SCRIPTS.find((s) => s.test.test(text || '')) || null;
+    }
+
+    function loadStylesheetOnce(href) {
+        return new Promise((resolve, reject) => {
+            if (document.querySelector(`link[href="${href}"]`)) {
+                resolve();
+                return;
+            }
+            const link = document.createElement('link');
+            link.rel = 'stylesheet';
+            link.href = href;
+            link.onload = () => resolve();
+            link.onerror = () => reject(new Error('Could not load ' + href));
+            document.head.appendChild(link);
+        });
+    }
+
+    const pdfLoadedScriptFonts = new Set();
+    async function ensureScriptFont(scriptFont) {
+        if (pdfLoadedScriptFonts.has(scriptFont.name)) return;
+        await loadStylesheetOnce(`https://fonts.googleapis.com/css2?family=${scriptFont.google}:wght@400;700&display=swap`);
+        if (document.fonts) {
+            await Promise.all([
+                document.fonts.load(`400 16px "${scriptFont.name}"`),
+                document.fonts.load(`700 16px "${scriptFont.name}"`),
+            ]).catch(() => {});
+        }
+        pdfLoadedScriptFonts.add(scriptFont.name);
+    }
+
+    // Scans every string that'll end up in the PDF up front, so each distinct
+    // script's web font is ready before any canvas measureText()/fillText()
+    // call needs it (those are synchronous and can't wait mid-render).
+    async function ensureFontsForTexts(texts) {
+        const needed = new Map();
+        texts.forEach((t) => {
+            const f = detectComplexScriptFont(t);
+            if (f) needed.set(f.name, f);
+        });
+        await Promise.all([...needed.values()].map(ensureScriptFont));
+    }
+
+    function wrapComplexScriptLines(text, fontFamily, bold, sizePt, maxWidthPt) {
+        const pxSize = sizePt * (96 / 72);
+        const maxWidthPx = maxWidthPt * (96 / 72);
+        const ctx = document.createElement('canvas').getContext('2d');
+        ctx.font = `${bold ? '700' : '400'} ${pxSize}px "${fontFamily}", sans-serif`;
+
+        const words = (text || '').split(/\s+/).filter(Boolean);
+        const lines = [];
+        let current = '';
+        words.forEach((word) => {
+            const candidate = current ? `${current} ${word}` : word;
+            if (current && ctx.measureText(candidate).width > maxWidthPx) {
+                lines.push(current);
+                current = word;
+            } else {
+                current = candidate;
+            }
+        });
+        if (current) lines.push(current);
+        return lines.length ? lines : [''];
+    }
+
+    function rasterizeLine(text, fontFamily, bold, sizePt, color) {
+        const pxSize = sizePt * (96 / 72) * PDF_RASTER_SCALE;
+        const fontSpec = `${bold ? '700' : '400'} ${pxSize}px "${fontFamily}", sans-serif`;
+
+        const measureCtx = document.createElement('canvas').getContext('2d');
+        measureCtx.font = fontSpec;
+        const metrics = measureCtx.measureText(text || ' ');
+        const ascent = metrics.actualBoundingBoxAscent || pxSize * 0.8;
+        const descent = metrics.actualBoundingBoxDescent || pxSize * 0.3;
+        const width = Math.max(1, Math.ceil(metrics.width) + 4);
+        const height = Math.max(1, Math.ceil(ascent + descent) + 4);
+
+        const canvas = document.createElement('canvas');
+        canvas.width = width;
+        canvas.height = height;
+        const ctx = canvas.getContext('2d');
+        ctx.font = fontSpec;
+        ctx.fillStyle = `rgb(${color[0]}, ${color[1]}, ${color[2]})`;
+        ctx.textBaseline = 'alphabetic';
+        ctx.fillText(text || '', 2, ascent + 2);
+
+        const pxToPt = 72 / 96 / PDF_RASTER_SCALE;
+        return {
+            dataUrl: canvas.toDataURL('image/png'),
+            widthPt: width * pxToPt,
+            heightPt: height * pxToPt,
+            ascentPt: (ascent + 2) * pxToPt,
+        };
+    }
+
+    function makePdfCursor(pdf) {
+        const pageHeight = pdf.internal.pageSize.getHeight();
+        const pageWidth = pdf.internal.pageSize.getWidth();
+        const bottomLimit = pageHeight - PDF_MARGIN - 20;
+        let y = PDF_MARGIN;
+        return {
+            get y() { return y; },
+            ensure(lines) {
+                if (y + lines * PDF_LINE_HEIGHT > bottomLimit) {
+                    pdf.addPage();
+                    y = PDF_MARGIN;
+                }
+            },
+            addGap(px) { y += px; },
+            // Word-wraps `text` to the available width and draws it line by
+            // line, left-aligned at PDF_MARGIN + xOffset or centered on the
+            // page. Any line containing a complex script is rasterized with
+            // its matching web font (ensureFontsForTexts() must have already
+            // resolved for it) instead of drawn as jsPDF vector text.
+            write(text, size, { color = null, xOffset = 0, centered = false, bold = false } = {}) {
+                const lh = Math.max(PDF_LINE_HEIGHT, size * 1.4);
+                const maxWidth = pageWidth - PDF_MARGIN * 2 - xOffset;
+                const scriptFont = detectComplexScriptFont(text);
+
+                const lines = scriptFont
+                    ? wrapComplexScriptLines(text, scriptFont.name, bold, size, maxWidth)
+                    : (() => {
+                        pdf.setFont('helvetica', bold ? 'bold' : 'normal');
+                        pdf.setFontSize(size);
+                        return pdf.splitTextToSize(text || '', maxWidth);
+                    })();
+
+                lines.forEach((line) => {
+                    this.ensure(1);
+                    if (scriptFont) {
+                        const raster = rasterizeLine(line, scriptFont.name, bold, size, color || [0, 0, 0]);
+                        const x = centered ? (pageWidth - raster.widthPt) / 2 : PDF_MARGIN + xOffset;
+                        pdf.addImage(raster.dataUrl, 'PNG', x, y - raster.ascentPt, raster.widthPt, raster.heightPt);
+                    } else {
+                        pdf.setFont('helvetica', bold ? 'bold' : 'normal');
+                        pdf.setFontSize(size);
+                        if (color) pdf.setTextColor(color[0], color[1], color[2]);
+                        const x = centered ? (pageWidth - pdf.getTextWidth(line)) / 2 : PDF_MARGIN + xOffset;
+                        pdf.text(line, x, y);
+                        if (color) pdf.setTextColor(0, 0, 0);
+                    }
+                    y += lh;
+                });
+            },
+        };
+    }
+
+    function pdfAddFooters(pdf) {
+        const totalPages = pdf.internal.getNumberOfPages();
+        for (let p = 1; p <= totalPages; p++) {
+            pdf.setPage(p);
+            const pageWidth = pdf.internal.pageSize.getWidth();
+            const pageHeight = pdf.internal.pageSize.getHeight();
+            const y = pageHeight - 16;
+            pdf.setFont('helvetica', 'normal');
+            pdf.setFontSize(9);
+            pdf.setTextColor(120, 120, 120);
+            pdf.text(String(p), PDF_MARGIN, y);
+            pdf.setFont('helvetica', 'bold');
+            pdf.setTextColor(PDF_BRAND[0], PDF_BRAND[1], PDF_BRAND[2]);
+            const label = 'WordOfGod.in';
+            const labelWidth = pdf.getTextWidth(label);
+            pdf.textWithLink(label, pageWidth - PDF_MARGIN - labelWidth, y, { url: 'https://wordofgod.in/bible-quiz' });
+            pdf.setFont('helvetica', 'normal');
+            pdf.setTextColor(0, 0, 0);
+        }
+    }
+
+    function pdfWriteBanner(cursor, headerText, subLines) {
+        cursor.write(headerText, 20, { color: PDF_BRAND, centered: true, bold: true });
+        subLines.filter((s) => s && s.trim() !== '').forEach((sub) => {
+            cursor.write(sub, 11, { color: [70, 70, 70], centered: true });
+        });
+        cursor.addGap(10);
+    }
+
+    const PDF_OPTION_LETTERS = 'ABCDEFGHIJ';
+
+    async function buildQuizPdfs({ headerText, subLines, selectionLines, format, questions, questionsHeading }) {
+        await loadScriptOnce('https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js');
+        const { jsPDF } = window.jspdf;
+
+        const allTexts = [headerText, ...subLines, ...selectionLines, questionsHeading];
+        questions.forEach((q) => {
+            allTexts.push(q.question || '');
+            (q.options || []).forEach((opt) => allTexts.push(opt));
+        });
+        await ensureFontsForTexts(allTexts);
+
+        function newDoc() {
+            const pdf = new jsPDF({ orientation: 'portrait', unit: 'pt', format });
+            const cursor = makePdfCursor(pdf);
+            pdfWriteBanner(cursor, headerText, subLines);
+            selectionLines.forEach((line) => cursor.write(line, 10.5, { color: [70, 70, 70] }));
+            cursor.addGap(10);
+            return { pdf, cursor };
+        }
+
+        // PDF 1 — every question with its options, in index order.
+        const full = newDoc();
+        full.cursor.write(questionsHeading, 14, { color: PDF_BRAND, bold: true });
+        full.cursor.addGap(6);
+        questions.forEach((q, i) => {
+            full.cursor.write(`${i + 1}. ${q.question || ''}`, 12, { bold: true });
+            (q.options || []).forEach((opt, idx) => {
+                const letter = PDF_OPTION_LETTERS[idx] || '?';
+                full.cursor.write(`${letter}. ${opt}`, 10.5, { xOffset: 14 });
+            });
+            full.cursor.addGap(8);
+        });
+        pdfAddFooters(full.pdf);
+
+        // PDF 2 — just the question number and correct option, for an answer key.
+        const answers = newDoc();
+        answers.cursor.write('Answer Key', 14, { color: PDF_BRAND, bold: true });
+        answers.cursor.addGap(6);
+        questions.forEach((q, i) => {
+            const letter = PDF_OPTION_LETTERS[q.correct_option] || '?';
+            const correctText = (q.options || [])[q.correct_option] || '';
+            answers.cursor.write(`${i + 1}. ${letter}) ${correctText}`, 11);
+        });
+        pdfAddFooters(answers.pdf);
+
+        full.pdf.save('bible-quiz-questions.pdf');
+        answers.pdf.save('bible-quiz-answer-key.pdf');
+    }
+
+    function showPdfFormError(message) {
+        if (!pdfFormError) return;
+        if (!message) {
+            pdfFormError.hidden = true;
+            return;
+        }
+        pdfFormError.textContent = message;
+        pdfFormError.hidden = false;
+    }
+
+    function closePdfModal() {
+        if (pdfModal) pdfModal.hidden = true;
+        showPdfFormError('');
+    }
+
+    if (pdfQuizBtn) {
+        pdfQuizBtn.addEventListener('click', () => {
+            if (!validateSelection()) {
+                return;
+            }
+            showPdfFormError('');
+            if (pdfModal) {
+                pdfModal.hidden = false;
+                pdfHeaderInput?.focus();
+            }
+        });
+    }
+
+    if (pdfCancelBtn) {
+        pdfCancelBtn.addEventListener('click', closePdfModal);
+    }
+
+    if (pdfModal) {
+        pdfModal.addEventListener('click', (event) => {
+            if (event.target === pdfModal) closePdfModal();
+        });
+    }
+
+    if (pdfForm) {
+        pdfForm.addEventListener('submit', async (event) => {
+            event.preventDefault();
+            if (!validateSelection()) {
+                return;
+            }
+
+            const originalLabel = pdfDownloadBtn ? pdfDownloadBtn.textContent : '';
+            if (pdfDownloadBtn) {
+                pdfDownloadBtn.disabled = true;
+                pdfDownloadBtn.textContent = 'Preparing PDFs…';
+            }
+            showPdfFormError('');
+
+            try {
+                const indexRes = await fetch(pdfIndexUrl());
+                const indexData = await indexRes.json().catch(() => ({}));
+                if (!indexRes.ok || !Array.isArray(indexData.paths) || !indexData.paths.length) {
+                    throw new Error(indexData.error || 'No questions found for this selection.');
+                }
+
+                const qRes = await fetch('api/questions.php', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ paths: indexData.paths }),
+                });
+                const qData = await qRes.json().catch(() => ({}));
+                if (!qRes.ok || !Array.isArray(qData.questions) || !qData.questions.length) {
+                    throw new Error(qData.error || 'Could not load the questions for this selection.');
+                }
+
+                const headerText = (pdfHeaderInput?.value || '').trim() || 'Bible Quiz';
+                const subLines = [pdfSub1Input?.value, pdfSub2Input?.value, pdfSub3Input?.value]
+                    .map((v) => (v || '').trim());
+                const format = (pdfForm.querySelector('input[name="pdf_size"]:checked')?.value || 'A5').toLowerCase();
+                // Only Tamil gets its own heading for now — every other language keeps the English label.
+                const questionsHeading = langSelect.value === 'தமிழ்' ? 'கேள்விகள்' : 'Questions & Options';
+
+                await buildQuizPdfs({
+                    headerText,
+                    subLines,
+                    selectionLines: pdfSelectionLines(),
+                    format,
+                    questions: qData.questions,
+                    questionsHeading,
+                });
+
+                closePdfModal();
+            } catch (err) {
+                showPdfFormError(err.message || 'Could not prepare the PDFs. Please try again.');
+            } finally {
+                if (pdfDownloadBtn) {
+                    pdfDownloadBtn.disabled = false;
+                    pdfDownloadBtn.textContent = originalLabel;
+                }
+            }
         });
     }
 

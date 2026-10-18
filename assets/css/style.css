@@ -1342,6 +1342,14 @@ input[type="radio"] {
     gap: 10px;
 }
 
+.modal-field-plain input {
+    width: auto;
+    box-sizing: content-box;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+}
+
 .modal-field-country {
     flex: 0 0 42%;
 }

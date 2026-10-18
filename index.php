@@ -93,9 +93,9 @@ $selectedDifficulties = array_values(array_intersect($rawDifficulty, array_keys(
 
 $catalog = quizCatalogForLanguage($selectedLanguage);
 $catalogBooks = $catalog['books'] ?? [];
-$catalogTopics = $catalog['topics'] ?? [];
-$catalogCharacters = $catalog['characters'] ?? [];
-$catalogPlaces = $catalog['places'] ?? [];
+$catalogTopics = array_values(array_filter($catalog['topics'] ?? [], fn($t) => (int) $t['question_count'] > 1));
+$catalogCharacters = array_values(array_filter($catalog['characters'] ?? [], fn($c) => (int) $c['question_count'] > 1));
+$catalogPlaces = array_values(array_filter($catalog['places'] ?? [], fn($p) => (int) $p['question_count'] > 1));
 
 $leaderboardTop10 = quizLeaderboardReadPublic('top10');
 $leaderboardLabels = quizLeaderboardLabels($selectedLanguage);
@@ -284,8 +284,9 @@ renderQuizHeader($pageTitle, $metaDescription, $version, [
             <button type="button" id="shareQuizBtn" class="btn btn-outline-primary btn-lg">Share Quiz</button>
             <button type="button" id="embedAppBtn" class="btn btn-outline-primary btn-lg">Embed App</button>
             <button type="button" id="embedQuizBtn" class="btn btn-outline-primary btn-lg">Embed Quiz</button>
+            <button type="button" id="pdfQuizBtn" class="btn btn-outline-primary btn-lg"><i class="bi bi-file-earmark-pdf" aria-hidden="true"></i> PDF</button>
         </div>
-        <p class="field-hint">"Embed App" drops the full quiz setup form into your site. "Embed Quiz" skips straight to the quiz you've configured above.</p>
+        <p class="field-hint">"Embed App" drops the full quiz setup form into your site. "Embed Quiz" skips straight to the quiz you've configured above. "Download PDF" creates printable question and answer-key PDFs for the quiz you've configured above.</p>
 
         <div class="share-result" id="shareResult" hidden>
             <label for="shareUrlInput" class="field-label">Shareable link</label>
@@ -316,6 +317,47 @@ renderQuizHeader($pageTitle, $metaDescription, $version, [
             <p class="share-result-msg" id="embedQuizResultMsg" aria-live="polite"></p>
         </div>
     </form>
+
+    <div id="pdfModal" class="modal-overlay" hidden role="dialog" aria-modal="true" aria-labelledby="pdfModalTitle">
+        <div class="modal-box">
+            <h2 id="pdfModalTitle">Download Quiz PDF</h2>
+            <p>These printable PDFs use the quiz you've configured above. All fields below are optional.</p>
+            <form id="pdfForm" novalidate>
+                <label class="modal-field">
+                    <span>Header</span>
+                    <input type="text" id="pdfHeader" maxlength="80" placeholder="Bible Quiz">
+                </label>
+                <label class="modal-field">
+                    <span>Sub Header Details 1</span>
+                    <input type="text" id="pdfSub1" maxlength="120">
+                </label>
+                <label class="modal-field">
+                    <span>Sub Header Details 2</span>
+                    <input type="text" id="pdfSub2" maxlength="120">
+                </label>
+                <label class="modal-field">
+                    <span>Sub Header Details 3</span>
+                    <input type="text" id="pdfSub3" maxlength="120">
+                </label>
+                <div class="modal-field modal-field-plain">
+                    <span>PDF size</span>
+                    <div class="time-unit-row">
+                        <label class="time-unit-choice">
+                            <input type="radio" name="pdf_size" value="A5" checked> A5
+                        </label>
+                        <label class="time-unit-choice">
+                            <input type="radio" name="pdf_size" value="A4"> A4
+                        </label>
+                    </div>
+                </div>
+                <p id="pdfFormError" class="modal-error" role="alert" hidden>Could not prepare the PDFs. Please try again.</p>
+                <div class="modal-actions">
+                    <button type="submit" class="btn btn-primary" id="pdfDownloadBtn">Download</button>
+                    <button type="button" class="btn btn-link" id="pdfCancelBtn">Cancel</button>
+                </div>
+            </form>
+        </div>
+    </div>
 </section>
 
 <section class="quiz-types-overview" aria-labelledby="types-overview">
