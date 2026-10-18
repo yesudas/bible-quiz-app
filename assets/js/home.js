@@ -1292,6 +1292,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
         full.pdf.save('bible-quiz-questions.pdf');
         answers.pdf.save('bible-quiz-answer-key.pdf');
+
+        // Fire-and-forget, like api/stats.php's set-finished ping — one
+        // Download click counts once toward the footer's "Downloads" total,
+        // regardless of the two files it produces, and never blocks or
+        // fails the download itself.
+        fetch('api/download.php', { method: 'POST' }).catch(() => {});
     }
 
     function showPdfFormError(message) {

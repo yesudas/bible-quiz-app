@@ -104,7 +104,7 @@ function renderQuizHeader(string $pageTitle, string $metaDescription, string $ve
 
 function renderQuizFooter(string $version, array $options = []): void
 {
-    global $visitors2, $shares2, $embeds2, $quizzesCompletedTotal, $questionsAnsweredTotal, $topBooks, $topLanguage;
+    global $visitors2, $shares2, $embeds2, $downloads2, $quizzesCompletedTotal, $questionsAnsweredTotal, $topBooks, $topLanguage;
     $embed = $options['embed'] ?? false;
     ?>
 </main>

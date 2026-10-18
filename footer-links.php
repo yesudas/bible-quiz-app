@@ -48,6 +48,10 @@
                 </span>
                 <span class="footer-separator">|</span>
                 <span class="footer-visitors">
+                    <i class="bi bi-download me-1"></i>Downloads: <?= $downloads2 ?? 0 ?>
+                </span>
+                <span class="footer-separator">|</span>
+                <span class="footer-visitors">
                     <i class="bi bi-check2-circle me-1"></i>Quizzes Completed: <?= number_format((int) ($quizzesCompletedTotal ?? 0)) ?>
                 </span>
                 <span class="footer-separator">|</span>
