@@ -1,0 +1,33 @@
+{
+  "id": "52-005-003",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 5,
+  "verse_reference": "1 Thessalonians 5:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"You are all children of the ____ and children of the day.\"",
+  "options": [
+    "king",
+    "law",
+    "light",
+    "prophets"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul told the believers they are all children of the light and children of the day, not of the night or the darkness."
+}

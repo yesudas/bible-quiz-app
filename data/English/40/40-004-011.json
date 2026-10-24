@@ -1,0 +1,46 @@
+{
+  "id": "40-004-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 4,
+  "verse_reference": "Matthew 4:12-13",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "When Jesus heard that John had been put in prison, he left Nazareth and went to live in which town?",
+  "options": [
+    "Bethlehem",
+    "Capernaum",
+    "Jerusalem",
+    "Cana"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Nazareth",
+      "type": "town"
+    },
+    {
+      "name": "Capernaum",
+      "type": "town"
+    },
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 4:12-13 says Jesus withdrew to Galilee, left Nazareth and lived in Capernaum by the lake."
+}

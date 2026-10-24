@@ -1,0 +1,33 @@
+{
+  "id": "54-005-008",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 5,
+  "verse_reference": "1 Timothy 5:19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Paul require before an accusation against an elder could be accepted?",
+  "options": [
+    "A letter from Jerusalem",
+    "A vote of the whole church",
+    "The elder's own confession",
+    "Two or three witnesses"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Church"
+  ],
+  "characters": [
+    "Paul",
+    "Timothy"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said not to entertain an accusation against an elder unless it is brought by two or three witnesses."
+}

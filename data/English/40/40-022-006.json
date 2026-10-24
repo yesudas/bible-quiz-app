@@ -1,0 +1,32 @@
+{
+  "id": "40-022-006",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 22,
+  "verse_reference": "Matthew 22:11-12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was wrong with one man the king saw at the wedding banquet?",
+  "options": [
+    "He came without a gift",
+    "He arrived late",
+    "He was not wearing wedding clothes",
+    "He sat in the king's seat"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 22:11 says the king noticed a man there who was not wearing wedding clothes."
+}

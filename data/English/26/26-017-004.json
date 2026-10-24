@@ -1,0 +1,29 @@
+{
+  "id": "26-017-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 17,
+  "verse_reference": "Ezekiel 17:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the seed the eagle planted grow into?",
+  "options": [
+    "A tall cedar",
+    "A thorn bush",
+    "A fruitful fig tree",
+    "A low, spreading vine"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The seed sprouted and became a low, spreading vine; its branches turned toward the eagle."
+}

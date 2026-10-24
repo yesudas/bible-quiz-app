@@ -1,0 +1,36 @@
+{
+  "id": "24-038-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 38,
+  "verse_reference": "Jeremiah 38:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the officials say Jeremiah should be put to death?",
+  "options": [
+    "He had stolen gold",
+    "He was discouraging the soldiers and the people",
+    "He had worshiped idols",
+    "He had insulted the priests"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The officials said, \"He is discouraging the soldiers who are left in this city, as well as all the people… This man is not seeking the good of these people but their ruin.\""
+}

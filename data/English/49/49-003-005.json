@@ -1,0 +1,32 @@
+{
+  "id": "49-003-005",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 3,
+  "verse_reference": "Ephesians 3:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Although I am less than the ______ of all the Lord's people, this grace was given me.\"",
+  "options": [
+    "greatest",
+    "least",
+    "oldest",
+    "last"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul humbly calls himself less than the least of all the Lord's people."
+}

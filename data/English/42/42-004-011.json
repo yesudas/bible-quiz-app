@@ -1,0 +1,43 @@
+{
+  "id": "42-004-011",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 4,
+  "verse_reference": "Luke 4:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the scroll Jesus read: 'He has anointed me to proclaim good news to the ____.'",
+  "options": [
+    "rich",
+    "righteous",
+    "poor",
+    "priests"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit",
+    "Mission",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Nazareth",
+      "type": "town"
+    },
+    {
+      "name": "Synagogue",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus read, 'The Spirit of the Lord is on me, because he has anointed me to proclaim good news to the poor.'"
+}

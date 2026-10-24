@@ -1,0 +1,35 @@
+{
+  "id": "26-036-010",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 36,
+  "verse_reference": "Ezekiel 36:37-38",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "God promised to make His people as numerous as what?",
+  "options": [
+    "The stars in the sky",
+    "The sand on the shore",
+    "Sheep, like the flocks at Jerusalem's festivals",
+    "The trees of the forest"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would make their people as numerous as sheep, as numerous as the flocks for offerings at Jerusalem during her appointed festivals."
+}

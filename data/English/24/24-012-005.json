@@ -1,0 +1,32 @@
+{
+  "id": "24-012-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 12,
+  "verse_reference": "Jeremiah 12:6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to God, who had betrayed Jeremiah?",
+  "options": [
+    "The king of Babylon",
+    "The priests in Jerusalem",
+    "His own relatives and family",
+    "The prophets of Baal"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution",
+    "Family"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Jeremiah that his relatives, members of his own family, had betrayed him; he should not trust them even if they spoke well of him."
+}

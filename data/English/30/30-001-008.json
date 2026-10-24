@@ -1,0 +1,30 @@
+{
+  "id": "30-001-008",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 1,
+  "verse_reference": "Amos 1:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What repeated phrase does God use for each nation in Amos 1?",
+  "options": [
+    "For three sins, even for four",
+    "For seven sins, even for eight",
+    "For one sin, even for two",
+    "For ten sins, even for twelve"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God says 'For three sins of ..., even for four, I will not relent,' showing their sins were many."
+}

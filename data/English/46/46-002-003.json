@@ -1,0 +1,37 @@
+{
+  "id": "46-002-003",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 2,
+  "verse_reference": "1 Corinthians 2:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Paul describe himself when he came to the Corinthians?",
+  "options": [
+    "Bold and confident",
+    "In weakness, with great fear and trembling",
+    "Rich and well known",
+    "Angry and tired"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said he came to them in weakness, with great fear and much trembling."
+}

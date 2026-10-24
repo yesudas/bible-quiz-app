@@ -1,0 +1,36 @@
+{
+  "id": "26-037-009",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 37,
+  "verse_reference": "Ezekiel 37:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God promise to do with His people's graves?",
+  "options": [
+    "Seal them forever",
+    "Fill them with gold",
+    "Open them and bring the people back to the land of Israel",
+    "Move them to Babylon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Hope",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'My people, I am going to open your graves and bring you up from them; I will bring you back to the land of Israel.'"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "41-004-008",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 4,
+  "verse_reference": "Mark 4:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In Jesus' explanation, who takes away the word sown along the path?",
+  "options": [
+    "Satan",
+    "The Pharisees",
+    "The Romans",
+    "False prophets"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus",
+    "Satan"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said that as soon as people on the path hear the word, Satan comes and takes away the word sown in them."
+}

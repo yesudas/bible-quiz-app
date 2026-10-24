@@ -1,0 +1,34 @@
+{
+  "id": "30-002-007",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 2,
+  "verse_reference": "Amos 2:8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the people lie down on beside every altar?",
+  "options": [
+    "Garments taken in pledge",
+    "Grain sacks",
+    "Animal skins",
+    "Palm branches"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 2:8 says they lay down beside every altar on garments taken in pledge."
+}

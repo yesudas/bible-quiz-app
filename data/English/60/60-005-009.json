@@ -1,0 +1,32 @@
+{
+  "id": "60-005-009",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 5,
+  "verse_reference": "1 Peter 5:12",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "With whose help did Peter write this short letter?",
+  "options": [
+    "Silas",
+    "Timothy",
+    "Barnabas",
+    "Luke"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Peter",
+    "Silas"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter says that with the help of Silas, whom he regards as a faithful brother, he has written briefly."
+}

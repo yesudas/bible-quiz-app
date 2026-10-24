@@ -1,0 +1,38 @@
+{
+  "id": "26-011-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 11,
+  "verse_reference": "Ezekiel 11:1",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two leaders of the people did Ezekiel see among the twenty-five men at the east gate?",
+  "options": [
+    "Jaazaniah son of Azzur and Pelatiah son of Benaiah",
+    "Jaazaniah son of Shaphan and Gedaliah son of Ahikam",
+    "Hananiah son of Azzur and Pashhur son of Immer",
+    "Zedekiah son of Josiah and Seraiah son of Neriah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Sin"
+  ],
+  "characters": [
+    "Jaazaniah",
+    "Pelatiah"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At the east gate were twenty-five men, among them Jaazaniah son of Azzur and Pelatiah son of Benaiah, leaders of the people."
+}

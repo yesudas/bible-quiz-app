@@ -1,0 +1,37 @@
+{
+  "id": "26-040-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 40,
+  "verse_reference": "Ezekiel 40:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In the visions of God, where did God set Ezekiel down?",
+  "options": [
+    "By the Kebar River",
+    "In the courts of Babylon",
+    "On a very high mountain in the land of Israel",
+    "In the valley of dry bones"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Worship"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In visions of God He took Ezekiel to the land of Israel and set him on a very high mountain, where there were buildings that looked like a city."
+}

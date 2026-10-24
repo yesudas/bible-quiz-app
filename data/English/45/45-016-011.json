@@ -1,0 +1,32 @@
+{
+  "id": "45-016-011",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 16,
+  "verse_reference": "Romans 16:22",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who wrote down the letter to the Romans for Paul?",
+  "options": [
+    "Tertius",
+    "Timothy",
+    "Gaius",
+    "Quartus"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Tertius",
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Romans 16:22 says, \"I, Tertius, who wrote down this letter, greet you in the Lord.\""
+}

@@ -1,0 +1,38 @@
+{
+  "id": "44-017-015",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 17,
+  "verse_reference": "Acts 17:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Paul say about the God who made the world?",
+  "options": [
+    "He lives on Mount Olympus",
+    "He does not live in temples built by human hands",
+    "He needs offerings of food",
+    "He lives only in Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Areopagus",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said the God who made the world and everything in it is Lord of heaven and earth and does not live in temples built by human hands."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "27-007-004",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 7,
+  "verse_reference": "Daniel 7:5",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which beast had three ribs in its mouth?",
+  "options": [
+    "The second beast, which looked like a bear",
+    "The first beast, which looked like a lion",
+    "The third beast, which looked like a leopard",
+    "The fourth beast"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The second beast looked like a bear raised up on one of its sides, with three ribs in its mouth."
+}

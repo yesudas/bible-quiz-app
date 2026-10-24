@@ -1,0 +1,33 @@
+{
+  "id": "40-007-005",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 7,
+  "verse_reference": "Matthew 7:9-10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Jesus asked which father would give his son a snake if he asked for what?",
+  "options": [
+    "Bread",
+    "A fish",
+    "An egg",
+    "Water"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Family"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 7:10 asks, \"Or if he asks for a fish, will give him a snake?\""
+}

@@ -3,7 +3,7 @@
     "language": "English",
     "topic": "Pride",
     "label": "Pride",
-    "count": 61,
+    "count": 74,
     "paths": [
         "English/10/10-005-006.json",
         "English/10/10-006-012.json",
@@ -65,7 +65,20 @@
         "English/23/23-047-001.json",
         "English/23/23-047-002.json",
         "English/23/23-047-004.json",
-        "English/23/23-048-001.json"
+        "English/23/23-048-001.json",
+        "English/27/27-004-009.json",
+        "English/27/27-004-013.json",
+        "English/27/27-004-014.json",
+        "English/27/27-004-018.json",
+        "English/27/27-005-001.json",
+        "English/27/27-005-009.json",
+        "English/27/27-007-007.json",
+        "English/27/27-011-011.json",
+        "English/31/31-001-003.json",
+        "English/31/31-001-004.json",
+        "English/31/31-001-005.json",
+        "English/42/42-018-008.json",
+        "English/66/66-018-006.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:42+00:00"
 }

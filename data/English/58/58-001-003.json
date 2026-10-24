@@ -1,0 +1,32 @@
+{
+  "id": "58-001-003",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 1,
+  "verse_reference": "Hebrews 1:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 1, what did God make through his Son?",
+  "options": [
+    "The law",
+    "The temple",
+    "The ark",
+    "The universe"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Creation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 1:2 says God appointed the Son heir of all things and made the universe through him."
+}

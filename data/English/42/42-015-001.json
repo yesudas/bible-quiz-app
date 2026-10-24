@@ -1,0 +1,32 @@
+{
+  "id": "42-015-001",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 15,
+  "verse_reference": "Luke 15:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Pharisees and teachers of the law mutter about Jesus?",
+  "options": [
+    "'This man breaks the Sabbath.'",
+    "'This man welcomes sinners and eats with them.'",
+    "'This man speaks against Moses.'",
+    "'This man does not pray.'"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus",
+    "Pharisees"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When tax collectors and sinners gathered to hear Jesus, the Pharisees muttered, 'This man welcomes sinners and eats with them.'"
+}

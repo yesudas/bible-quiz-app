@@ -1,0 +1,36 @@
+{
+  "id": "44-017-011",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 17,
+  "verse_reference": "Acts 17:18",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two groups of philosophers began to debate with Paul in Athens?",
+  "options": [
+    "Pharisee and Sadducee",
+    "Epicurean and Stoic",
+    "Greek and Roman",
+    "Cynic and Platonic"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Athens",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A group of Epicurean and Stoic philosophers began to debate with him."
+}

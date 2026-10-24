@@ -1,0 +1,37 @@
+{
+  "id": "41-004-001",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 4,
+  "verse_reference": "Mark 4:1",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did Jesus sit to teach the large crowd by the lake?",
+  "options": [
+    "On top of a hill",
+    "In a boat on the lake",
+    "Inside the synagogue",
+    "Under a fig tree"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The crowd was so large that Jesus got into a boat and sat in it out on the lake, while the people stood along the shore."
+}

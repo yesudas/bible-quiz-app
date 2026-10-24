@@ -1,0 +1,34 @@
+{
+  "id": "43-009-012",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 9,
+  "verse_reference": "John 9:21",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The man's parents said about their son: \"Ask him. He is of ___; he will speak for himself.\"",
+  "options": [
+    "sound mind",
+    "good name",
+    "God",
+    "age"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 9:21, his parents said, \"Ask him. He is of age; he will speak for himself.\""
+}

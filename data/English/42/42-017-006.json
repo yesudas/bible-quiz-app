@@ -1,0 +1,32 @@
+{
+  "id": "42-017-006",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 17,
+  "verse_reference": "Luke 17:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete what Jesus said servants should say: 'We are unworthy servants; we have only done our ____.'",
+  "options": [
+    "best",
+    "work",
+    "duty",
+    "part"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Humility",
+    "Obedience"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'When you have done everything you were told to do, you should say, We are unworthy servants; we have only done our duty.'"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "66-021-009",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 21,
+  "verse_reference": "Revelation 21:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Whose names were written on the twelve gates of the new Jerusalem?",
+  "options": [
+    "The twelve apostles",
+    "The twelve tribes of Israel",
+    "The twelve angels",
+    "The twelve prophets"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "New Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The city had twelve gates with twelve angels at the gates. On the gates were written the names of the twelve tribes of Israel."
+}

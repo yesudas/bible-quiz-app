@@ -1,0 +1,33 @@
+{
+  "id": "44-009-004",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 9,
+  "verse_reference": "Acts 9:5",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who said, \"I am Jesus, whom you are persecuting\"?",
+  "options": [
+    "An angel",
+    "Jesus",
+    "Ananias",
+    "Stephen"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Saul asked who was speaking, the reply was, 'I am Jesus, whom you are persecuting.'"
+}

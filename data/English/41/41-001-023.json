@@ -1,0 +1,33 @@
+{
+  "id": "41-001-023",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 1,
+  "verse_reference": "Mark 1:40-42",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the words of the man with leprosy: \"If you are ____, you can make me clean.\"",
+  "options": [
+    "able",
+    "willing",
+    "holy",
+    "here"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man begged Jesus, \"If you are willing, you can make me clean.\" Jesus touched him and said, \"I am willing. Be clean!\""
+}

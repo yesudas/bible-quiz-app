@@ -1,0 +1,22 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Region-of-the-Gerasenes",
+    "label": "Region of the Gerasenes",
+    "count": 12,
+    "paths": [
+        "English/41/41-005-001.json",
+        "English/41/41-005-003.json",
+        "English/41/41-005-004.json",
+        "English/41/41-005-005.json",
+        "English/41/41-005-007.json",
+        "English/41/41-005-008.json",
+        "English/41/41-005-009.json",
+        "English/42/42-008-015.json",
+        "English/42/42-008-017.json",
+        "English/42/42-008-018.json",
+        "English/42/42-008-019.json",
+        "English/42/42-008-020.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

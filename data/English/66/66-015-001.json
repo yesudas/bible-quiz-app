@@ -1,0 +1,35 @@
+{
+  "id": "66-015-001",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 15,
+  "verse_reference": "Revelation 15:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why are the seven plagues of the seven angels called the \"last\" plagues?",
+  "options": [
+    "Because they come at night",
+    "Because with them God's wrath is completed",
+    "Because they are the smallest",
+    "Because they come after a thousand years"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John saw seven angels with the seven last plagues—last, because with them God's wrath is completed."
+}

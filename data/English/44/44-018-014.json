@@ -1,0 +1,38 @@
+{
+  "id": "44-018-014",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 18,
+  "verse_reference": "Acts 18:19",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In which city did Paul leave Priscilla and Aquila?",
+  "options": [
+    "Ephesus",
+    "Corinth",
+    "Rome",
+    "Antioch"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Paul",
+    "Priscilla",
+    "Aquila"
+  ],
+  "places": [
+    {
+      "name": "Ephesus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They arrived at Ephesus, where Paul left Priscilla and Aquila."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "41-007-011",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 7,
+  "verse_reference": "Mark 7:25-26",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "The woman who begged Jesus to drive a demon out of her daughter was a Greek, born in what place?",
+  "options": [
+    "Syrian Phoenicia",
+    "Egypt",
+    "Galilee",
+    "Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jesus",
+    "Syrophoenician woman"
+  ],
+  "places": [
+    {
+      "name": "Syrian Phoenicia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The woman was a Greek, born in Syrian Phoenicia. She begged Jesus to drive the demon out of her daughter."
+}

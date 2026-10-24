@@ -1,0 +1,39 @@
+{
+  "id": "42-018-007",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 18,
+  "verse_reference": "Luke 18:10",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did the Pharisee and the tax collector go to pray?",
+  "options": [
+    "To the synagogue",
+    "To a mountain",
+    "To the river",
+    "To the temple"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus",
+    "Pharisees"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Two men went up to the temple to pray, one a Pharisee and the other a tax collector.'"
+}

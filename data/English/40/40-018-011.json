@@ -1,0 +1,32 @@
+{
+  "id": "40-018-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 18,
+  "verse_reference": "Matthew 18:15",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "If your brother or sister sins, what is the first step Jesus said to take?",
+  "options": [
+    "Tell the whole church",
+    "Go and point out their fault, just between the two of you",
+    "Bring them to the judge",
+    "Stop speaking to them"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Forgiveness",
+    "Church"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 18:15 says if your brother or sister sins, go and point out their fault, just between the two of you."
+}

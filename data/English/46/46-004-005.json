@@ -1,0 +1,33 @@
+{
+  "id": "46-004-005",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 4,
+  "verse_reference": "1 Corinthians 4:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Paul's saying: \"Do not go beyond what is ______.\"",
+  "options": [
+    "written",
+    "spoken",
+    "taught",
+    "commanded"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Church"
+  ],
+  "characters": [
+    "Paul",
+    "Apollos"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul used himself and Apollos as examples so the Corinthians would learn not to go beyond what is written."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "46-001-011",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 1,
+  "verse_reference": "1 Corinthians 1:22",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Paul, what do Jews demand and Greeks look for?",
+  "options": [
+    "Jews demand signs; Greeks look for wisdom",
+    "Jews demand wisdom; Greeks look for signs",
+    "Jews demand law; Greeks look for gods",
+    "Jews demand a king; Greeks look for freedom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Evangelism"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that Jews demand signs and Greeks look for wisdom, but he preached Christ crucified."
+}

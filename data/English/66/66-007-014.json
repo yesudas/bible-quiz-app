@@ -1,0 +1,37 @@
+{
+  "id": "66-007-014",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 7,
+  "verse_reference": "Revelation 7:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"And God will wipe away every ____ from their eyes.\"",
+  "options": [
+    "fear",
+    "tear",
+    "sin",
+    "cloud"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Suffering",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Revelation 7:17 ends with the promise that God will wipe away every tear from their eyes."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "27-009-002",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 9,
+  "verse_reference": "Daniel 9:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Through which prophet had the LORD said that Jerusalem's desolation would last seventy years?",
+  "options": [
+    "Isaiah",
+    "Ezekiel",
+    "Elijah",
+    "Jeremiah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Promise"
+  ],
+  "characters": [
+    "Daniel",
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daniel understood from the word of the LORD given to Jeremiah the prophet that the desolation of Jerusalem would last seventy years."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "27-004-006",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 4,
+  "verse_reference": "Daniel 4:15",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was the stump of the tree to be bound with?",
+  "options": [
+    "Gold and silver",
+    "Rope and chain",
+    "Iron and bronze",
+    "Wood and clay"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The stump and its roots were to be left in the ground, bound with iron and bronze."
+}

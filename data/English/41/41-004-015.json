@@ -1,0 +1,33 @@
+{
+  "id": "41-004-015",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 4,
+  "verse_reference": "Mark 4:32",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happens after the mustard seed is planted?",
+  "options": [
+    "It becomes the largest of all garden plants and birds perch in its shade",
+    "It stays small forever",
+    "It dies in the winter",
+    "It turns into a vine"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "It grows and becomes the largest of all garden plants, with branches so big the birds can perch in its shade."
+}

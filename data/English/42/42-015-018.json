@@ -1,0 +1,39 @@
+{
+  "id": "42-015-018",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 15,
+  "verse_reference": "Luke 15:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the father's words: 'For this son of mine was dead and is alive again; he was ____ and is found.'",
+  "options": [
+    "gone",
+    "far",
+    "lost",
+    "poor"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Salvation",
+    "Joy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Father's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The father said, 'This son of mine was dead and is alive again; he was lost and is found.'"
+}

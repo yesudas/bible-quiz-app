@@ -1,0 +1,34 @@
+{
+  "id": "62-002-004",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 2,
+  "verse_reference": "1 John 2:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How can we know that we have come to know God?",
+  "options": [
+    "If we keep his commands",
+    "If we see a vision",
+    "If we fast often",
+    "If we become rich"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience",
+    "Truth"
+  ],
+  "characters": [
+    "God",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says we know that we have come to know God if we keep his commands."
+}

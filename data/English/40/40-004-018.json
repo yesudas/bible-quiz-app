@@ -1,0 +1,41 @@
+{
+  "id": "40-004-018",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 4,
+  "verse_reference": "Matthew 4:23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "As Jesus went throughout Galilee, which three things did he do?",
+  "options": [
+    "Taught, proclaimed the good news and healed",
+    "Fasted, prayed and wrote",
+    "Built, fished and traded",
+    "Judged, ruled and fought"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Galilee",
+      "type": "region"
+    },
+    {
+      "name": "Synagogues",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 4:23 says Jesus taught in the synagogues, proclaimed the good news of the kingdom and healed every disease."
+}

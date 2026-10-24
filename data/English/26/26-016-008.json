@@ -1,0 +1,39 @@
+{
+  "id": "26-016-008",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 16,
+  "verse_reference": "Ezekiel 16:46",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Ezekiel 16, which city is called Jerusalem's older sister, living to the north?",
+  "options": [
+    "Sodom",
+    "Tyre",
+    "Damascus",
+    "Samaria"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said Jerusalem's older sister was Samaria, who lived to the north, and her younger sister was Sodom, to the south."
+}

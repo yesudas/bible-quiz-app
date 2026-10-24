@@ -1,0 +1,36 @@
+{
+  "id": "28-010-001",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 10,
+  "verse_reference": "Hosea 10:1",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Hosea said Israel was like what kind of plant?",
+  "options": [
+    "A cedar tree",
+    "A spreading vine",
+    "A fig tree",
+    "A thornbush"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said, 'Israel was a spreading vine; he brought forth fruit for himself.'"
+}

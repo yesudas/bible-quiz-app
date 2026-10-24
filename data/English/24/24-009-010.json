@@ -1,0 +1,30 @@
+{
+  "id": "24-009-010",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 9,
+  "verse_reference": "Jeremiah 9:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"I am the LORD, who exercises kindness, justice and righteousness on earth, for in these I ____.\"",
+  "options": [
+    "rejoice",
+    "rest",
+    "live",
+    "delight"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said He exercises kindness, justice and righteousness on earth, \"for in these I delight.\""
+}

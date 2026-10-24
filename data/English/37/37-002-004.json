@@ -1,0 +1,31 @@
+{
+  "id": "37-002-004",
+  "language": "en",
+  "book_no": 37,
+  "book": "Haggai",
+  "chapter": 2,
+  "verse_reference": "Haggai 2:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"'The silver is mine and the ____ is mine,' declares the LORD Almighty.\"",
+  "options": [
+    "gold",
+    "land",
+    "bronze",
+    "wealth"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God declared that both the silver and the gold belong to Him."
+}

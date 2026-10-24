@@ -1,0 +1,34 @@
+{
+  "id": "26-021-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 21,
+  "verse_reference": "Ezekiel 21:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which city's name came into the king of Babylon's right hand in the lot?",
+  "options": [
+    "Rabbah",
+    "Babylon",
+    "Jerusalem",
+    "Damascus"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Into his right hand came the lot for Jerusalem, where he would set up battering rams."
+}

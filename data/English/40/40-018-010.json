@@ -1,0 +1,33 @@
+{
+  "id": "40-018-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 18,
+  "verse_reference": "Matthew 18:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Jesus say the Father in heaven is not willing for?",
+  "options": [
+    "That anyone should be poor",
+    "That the sheep be sold",
+    "That any of these little ones should perish",
+    "That anyone should work"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 18:14 says your Father in heaven is not willing that any of these little ones should perish."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "45-009-015",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 9,
+  "verse_reference": "Romans 9:33",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"...and the one who believes in him will never be put to ______.\"",
+  "options": [
+    "death",
+    "shame",
+    "sleep",
+    "flight"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quotes Scripture promising that the one who believes in Him will never be put to shame."
+}

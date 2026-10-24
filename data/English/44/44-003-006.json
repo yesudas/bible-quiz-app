@@ -1,0 +1,36 @@
+{
+  "id": "44-003-006",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 3,
+  "verse_reference": "Acts 3:7-8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the healed man do after his feet and ankles became strong?",
+  "options": [
+    "He sat down and wept",
+    "He followed Peter to Galilee",
+    "He ran home",
+    "He went into the temple walking, jumping and praising God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He jumped to his feet and went into the temple courts, walking, jumping and praising God."
+}

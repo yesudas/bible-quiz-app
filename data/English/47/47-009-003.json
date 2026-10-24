@@ -1,0 +1,33 @@
+{
+  "id": "47-009-003",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 9,
+  "verse_reference": "2 Corinthians 9:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap ______.\"",
+  "options": [
+    "slowly",
+    "generously",
+    "sparingly",
+    "quickly"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Wisdom"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul used a picture from farming to teach that generous giving leads to a generous harvest."
+}

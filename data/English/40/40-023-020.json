@@ -1,0 +1,37 @@
+{
+  "id": "40-023-020",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 23,
+  "verse_reference": "Matthew 23:37",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Jesus said he longed to gather Jerusalem's children together, as a ______ gathers her chicks under her wings.",
+  "options": [
+    "dove",
+    "hen",
+    "eagle",
+    "sparrow"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 23:37 says, \"How often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing.\""
+}

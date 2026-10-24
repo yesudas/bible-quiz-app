@@ -1,0 +1,34 @@
+{
+  "id": "45-003-012",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 3,
+  "verse_reference": "Romans 3:25",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Romans 3:25, God presented Christ as what?",
+  "options": [
+    "A new lawgiver",
+    "A sacrifice of atonement",
+    "A king of Rome",
+    "A temple priest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Salvation",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says God presented Christ as a sacrifice of atonement, received by faith through the shedding of His blood."
+}

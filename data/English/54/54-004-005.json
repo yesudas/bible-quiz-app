@@ -1,0 +1,33 @@
+{
+  "id": "54-004-005",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 4,
+  "verse_reference": "1 Timothy 4:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Paul compare physical training with godliness?",
+  "options": [
+    "Physical training is worth more than godliness",
+    "Both have no value",
+    "Physical training has some value, but godliness has value for all things",
+    "Godliness is only for the life to come"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Hope"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said physical training is of some value, but godliness has value for all things, for the present life and the life to come."
+}

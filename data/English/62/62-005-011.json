@@ -1,0 +1,33 @@
+{
+  "id": "62-005-011",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 5,
+  "verse_reference": "1 John 5:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does John say about the whole world?",
+  "options": [
+    "It is ruled by Rome",
+    "It is full of peace",
+    "It is under the control of the evil one",
+    "It will last forever"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Satan",
+    "Sin"
+  ],
+  "characters": [
+    "Satan",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says we know that we are children of God, and that the whole world is under the control of the evil one."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "59-003-011",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 3,
+  "verse_reference": "James 3:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Peacemakers who sow in ______ reap a harvest of righteousness.\"",
+  "options": [
+    "love",
+    "joy",
+    "peace",
+    "faith"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James says peacemakers who sow in peace reap a harvest of righteousness."
+}

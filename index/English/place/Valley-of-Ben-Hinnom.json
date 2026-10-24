@@ -3,12 +3,15 @@
     "language": "English",
     "place": "Valley-of-Ben-Hinnom",
     "label": "Valley of Ben Hinnom",
-    "count": 4,
+    "count": 7,
     "paths": [
         "English/06/06-015-004.json",
         "English/12/12-023-004.json",
         "English/14/14-028-002.json",
-        "English/14/14-033-005.json"
+        "English/14/14-033-005.json",
+        "English/24/24-007-010.json",
+        "English/24/24-007-011.json",
+        "English/24/24-019-003.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

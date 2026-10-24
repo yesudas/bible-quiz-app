@@ -1,0 +1,40 @@
+{
+  "id": "42-005-008",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' words to Simon: 'Don't be afraid; from now on you will fish for ____.'",
+  "options": [
+    "food",
+    "money",
+    "fish",
+    "people"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Mission",
+    "Evangelism",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Lake of Gennesaret",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told Simon, 'Don't be afraid; from now on you will fish for people.'"
+}

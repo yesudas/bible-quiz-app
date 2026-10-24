@@ -1,0 +1,33 @@
+{
+  "id": "44-004-010",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 4,
+  "verse_reference": "Acts 4:18",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the rulers command Peter and John?",
+  "options": [
+    "To leave Jerusalem forever",
+    "Not to speak or teach in the name of Jesus",
+    "To offer a sacrifice",
+    "To pay a fine"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Peter",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They commanded them not to speak or teach at all in the name of Jesus."
+}

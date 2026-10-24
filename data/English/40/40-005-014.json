@@ -1,0 +1,32 @@
+{
+  "id": "40-005-014",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 5,
+  "verse_reference": "Matthew 5:20",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Jesus said our righteousness must surpass the righteousness of whom to enter the kingdom of heaven?",
+  "options": [
+    "The Romans",
+    "The Pharisees and the teachers of the law",
+    "The Samaritans",
+    "The tax collectors"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Kingdom of God",
+    "Law"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 5:20 says unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of heaven."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "49-003-011",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 3,
+  "verse_reference": "Ephesians 3:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Paul prays that Christ may dwell in believers' hearts through what?",
+  "options": [
+    "Faith",
+    "Fasting",
+    "Good deeds",
+    "Sacrifices"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Jesus",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul prays that Christ may dwell in their hearts through faith."
+}

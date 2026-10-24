@@ -1,0 +1,32 @@
+{
+  "id": "54-005-004",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 5,
+  "verse_reference": "1 Timothy 5:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Paul say about someone who does not provide for their relatives, especially their own household?",
+  "options": [
+    "They should be made an elder",
+    "They have denied the faith and are worse than an unbeliever",
+    "They are free from the law",
+    "They should give to the church instead"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said such a person has denied the faith and is worse than an unbeliever."
+}

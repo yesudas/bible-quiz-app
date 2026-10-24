@@ -1,0 +1,34 @@
+{
+  "id": "66-013-001",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 13,
+  "verse_reference": "Revelation 13:1",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did the first beast in Revelation 13 come out of?",
+  "options": [
+    "The Abyss",
+    "The sea",
+    "The wilderness",
+    "The earth"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John saw a beast coming out of the sea. It had ten horns and seven heads, with ten crowns on its horns."
+}

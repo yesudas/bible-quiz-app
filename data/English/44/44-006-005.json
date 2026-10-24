@@ -1,0 +1,33 @@
+{
+  "id": "44-006-005",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 6,
+  "verse_reference": "Acts 6:5",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which man among the seven is described as full of faith and of the Holy Spirit?",
+  "options": [
+    "Philip",
+    "Nicolas",
+    "Timon",
+    "Stephen"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Stephen"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They chose Stephen, a man full of faith and of the Holy Spirit, along with six others."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "41-005-015",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 5,
+  "verse_reference": "Mark 5:30",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jesus ask, \"Who touched my clothes?\"",
+  "options": [
+    "Someone had stolen from him",
+    "His cloak had been torn",
+    "He realized that power had gone out from him",
+    "He wanted to rebuke the crowd"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At once Jesus realized that power had gone out from him, so he turned around in the crowd and asked who touched his clothes."
+}

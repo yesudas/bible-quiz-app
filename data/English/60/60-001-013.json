@@ -1,0 +1,30 @@
+{
+  "id": "60-001-013",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 1,
+  "verse_reference": "1 Peter 1:23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Through what does Peter say believers have been born again?",
+  "options": [
+    "The law of Moses",
+    "Their own good deeds",
+    "The living and enduring word of God",
+    "Baptism in the Jordan River"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Word of God"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Believers have been born again of imperishable seed, through the living and enduring word of God."
+}

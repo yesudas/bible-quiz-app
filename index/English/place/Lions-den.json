@@ -1,0 +1,16 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Lions-den",
+    "label": "Lions' den",
+    "count": 6,
+    "paths": [
+        "English/27/27-006-005.json",
+        "English/27/27-006-010.json",
+        "English/27/27-006-011.json",
+        "English/27/27-006-013.json",
+        "English/27/27-006-014.json",
+        "English/27/27-006-015.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

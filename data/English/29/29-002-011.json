@@ -1,0 +1,36 @@
+{
+  "id": "29-002-011",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 2,
+  "verse_reference": "Joel 2:23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God promise to send the people of Zion to restore the land?",
+  "options": [
+    "Gold and silver",
+    "New kings",
+    "Quail from the sea",
+    "Abundant rains"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told the people of Zion to rejoice, for He would send the autumn and spring rains as before."
+}

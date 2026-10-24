@@ -1,0 +1,38 @@
+{
+  "id": "24-052-011",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 52,
+  "verse_reference": "Jeremiah 52:32-34",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How was Jehoiachin treated after he was released?",
+  "options": [
+    "He was sent back to Judah as king",
+    "He was given a seat of honor and ate regularly at the king's table",
+    "He was made a servant in the palace",
+    "He was sent to Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [
+    "Jehoiachin",
+    "Awel-Marduk"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king spoke kindly to him and gave him a seat of honor; for the rest of his life Jehoiachin ate regularly at the king's table and received a regular allowance."
+}

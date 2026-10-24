@@ -1,0 +1,40 @@
+{
+  "id": "65-001-006",
+  "language": "en",
+  "book_no": 65,
+  "book": "Jude",
+  "chapter": 1,
+  "verse_reference": "Jude 1:7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Which two cities does Jude give as an example of those who suffer the punishment of eternal fire?",
+  "options": [
+    "Jericho and Ai",
+    "Nineveh and Babylon",
+    "Sodom and Gomorrah",
+    "Tyre and Sidon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sodom",
+      "type": "city"
+    },
+    {
+      "name": "Gomorrah",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jude says Sodom and Gomorrah and the surrounding towns serve as an example of those who suffer the punishment of eternal fire."
+}

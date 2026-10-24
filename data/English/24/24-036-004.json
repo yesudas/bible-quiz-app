@@ -1,0 +1,37 @@
+{
+  "id": "24-036-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 36,
+  "verse_reference": "Jeremiah 36:6,9",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "On what kind of day did Baruch read the scroll to the people at the temple?",
+  "options": [
+    "A day of feasting",
+    "A Sabbath",
+    "The Day of Atonement",
+    "A day of fasting"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Repentance"
+  ],
+  "characters": [
+    "Baruch"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Baruch read the words on a day of fasting, when a time of fasting was proclaimed before the LORD for all the people."
+}

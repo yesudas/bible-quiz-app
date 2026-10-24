@@ -1,0 +1,42 @@
+{
+  "id": "43-002-002",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 2,
+  "verse_reference": "John 2:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What ran out at the wedding in Cana?",
+  "options": [
+    "Bread",
+    "Oil",
+    "Wine",
+    "Water"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Mary",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Cana",
+      "type": "village"
+    },
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 2:3 says that when the wine was gone, Jesus' mother told him, \"They have no more wine.\""
+}

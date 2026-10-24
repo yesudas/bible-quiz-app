@@ -1,0 +1,37 @@
+{
+  "id": "41-005-002",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 5,
+  "verse_reference": "Mark 5:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the man with the impure spirit do night and day?",
+  "options": [
+    "Cried out and cut himself with stones",
+    "Slept in the fields",
+    "Begged for food",
+    "Fished in the lake"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Tombs",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Night and day among the tombs and in the hills he would cry out and cut himself with stones."
+}

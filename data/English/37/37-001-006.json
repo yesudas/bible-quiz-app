@@ -1,0 +1,31 @@
+{
+  "id": "37-001-006",
+  "language": "en",
+  "book_no": 37,
+  "book": "Haggai",
+  "chapter": 1,
+  "verse_reference": "Haggai 1:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Now this is what the LORD Almighty says: 'Give careful thought to your ____.'\"",
+  "options": [
+    "hearts",
+    "words",
+    "ways",
+    "houses"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told the people to give careful thought to their ways."
+}

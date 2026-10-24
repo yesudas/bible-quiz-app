@@ -1,0 +1,40 @@
+{
+  "id": "30-002-009",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 2,
+  "verse_reference": "Amos 2:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How long did God lead Israel in the wilderness?",
+  "options": [
+    "Seven years",
+    "Twenty years",
+    "Forty years",
+    "Seventy years"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God brought Israel out of Egypt and led them forty years in the wilderness."
+}

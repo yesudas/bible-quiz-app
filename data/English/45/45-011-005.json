@@ -1,0 +1,30 @@
+{
+  "id": "45-011-005",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 11,
+  "verse_reference": "Romans 11:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Because of Israel's transgression, what came to the Gentiles?",
+  "options": [
+    "A new temple",
+    "The law of Moses",
+    "Salvation",
+    "A great famine"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says that because of Israel's transgression, salvation has come to the Gentiles to make Israel envious."
+}

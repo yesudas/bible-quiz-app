@@ -1,0 +1,32 @@
+{
+  "id": "27-012-010",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 12,
+  "verse_reference": "Daniel 12:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to verse 10, who will understand?",
+  "options": [
+    "The wicked",
+    "The kings of the earth",
+    "The wise",
+    "No one at all"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Many will be purified and made spotless, but the wicked will continue to be wicked; none of the wicked will understand, but those who are wise will understand."
+}

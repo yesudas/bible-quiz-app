@@ -1,0 +1,33 @@
+{
+  "id": "53-003-006",
+  "language": "en",
+  "book_no": 53,
+  "book": "2 Thessalonians",
+  "chapter": 3,
+  "verse_reference": "2 Thessalonians 3:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the rule Paul gave: \"The one who is unwilling to work shall not ______.\"",
+  "options": [
+    "speak",
+    "pray",
+    "eat",
+    "travel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Paul was with them, he gave them this rule: the one who is unwilling to work shall not eat."
+}

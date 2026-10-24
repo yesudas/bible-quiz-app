@@ -1,0 +1,30 @@
+{
+  "id": "65-001-012",
+  "language": "en",
+  "book_no": 65,
+  "book": "Jude",
+  "chapter": 1,
+  "verse_reference": "Jude 1:17-18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the apostles say would come in the last times?",
+  "options": [
+    "Scoffers",
+    "Kings",
+    "Floods",
+    "Famines"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Church"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jude reminded them that the apostles foretold that in the last times there would be scoffers following their own ungodly desires."
+}

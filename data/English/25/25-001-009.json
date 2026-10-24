@@ -1,0 +1,35 @@
+{
+  "id": "25-001-009",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 1,
+  "verse_reference": "Lamentations 1:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the people of Jerusalem trade their treasures for?",
+  "options": [
+    "Weapons",
+    "Food",
+    "Horses",
+    "Freedom"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Lamentations 1:11 says the people groaned as they searched for bread and bartered their treasures for food."
+}

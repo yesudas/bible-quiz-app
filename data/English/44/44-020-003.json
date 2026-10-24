@@ -1,0 +1,37 @@
+{
+  "id": "44-020-003",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 20,
+  "verse_reference": "Acts 20:7",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "On which day did the believers in Troas come together to break bread?",
+  "options": [
+    "The first day of the week",
+    "The Sabbath",
+    "The Day of Pentecost",
+    "The last day of the week"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church",
+    "Worship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Troas",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On the first day of the week they came together to break bread, and Paul spoke to the people."
+}

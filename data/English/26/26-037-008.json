@@ -1,0 +1,35 @@
+{
+  "id": "26-037-008",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 37,
+  "verse_reference": "Ezekiel 37:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to God, whom did the dry bones stand for?",
+  "options": [
+    "The armies of Babylon",
+    "The whole house of Israel",
+    "The dead kings of Judah",
+    "The nations of the world"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Exile"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'These bones are the people of Israel. They say, \"Our bones are dried up and our hope is gone.\"'"
+}

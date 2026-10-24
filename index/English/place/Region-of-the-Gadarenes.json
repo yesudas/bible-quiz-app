@@ -1,0 +1,15 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Region-of-the-Gadarenes",
+    "label": "Region of the Gadarenes",
+    "count": 5,
+    "paths": [
+        "English/40/40-008-019.json",
+        "English/40/40-008-020.json",
+        "English/40/40-008-021.json",
+        "English/40/40-008-022.json",
+        "English/40/40-008-023.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

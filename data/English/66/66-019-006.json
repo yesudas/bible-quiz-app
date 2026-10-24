@@ -1,0 +1,37 @@
+{
+  "id": "66-019-006",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 19,
+  "verse_reference": "Revelation 19:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When John fell at the angel's feet to worship him, what did the angel tell him?",
+  "options": [
+    "\"Stand up and write\"",
+    "\"You are forgiven\"",
+    "\"Don't do that! I am a fellow servant with you… Worship God!\"",
+    "\"Go back to Patmos\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Angels"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel said, \"Don't do that! I am a fellow servant with you and with your brothers and sisters who hold to the testimony of Jesus. Worship God!\""
+}

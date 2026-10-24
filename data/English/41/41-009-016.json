@@ -1,0 +1,38 @@
+{
+  "id": "41-009-016",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 9,
+  "verse_reference": "Mark 9:36-37",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Whom did Jesus take in his arms to teach about welcoming him?",
+  "options": [
+    "An old man",
+    "A lamb",
+    "A little child",
+    "A blind beggar"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "House in Capernaum",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He took a little child in his arms and said that whoever welcomes one of these little children in his name welcomes him."
+}

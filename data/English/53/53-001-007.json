@@ -1,0 +1,39 @@
+{
+  "id": "53-001-007",
+  "language": "en",
+  "book_no": 53,
+  "book": "2 Thessalonians",
+  "chapter": 1,
+  "verse_reference": "2 Thessalonians 1:11-12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Paul constantly pray for the Thessalonians?",
+  "options": [
+    "That they would become rich",
+    "That God would make them worthy of his calling",
+    "That they would move to Jerusalem",
+    "That they would never face trouble again"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Faith",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Thessalonica",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul prayed that God would make them worthy of his calling, so that the name of the Lord Jesus would be glorified in them."
+}

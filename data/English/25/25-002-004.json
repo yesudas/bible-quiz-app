@@ -1,0 +1,36 @@
+{
+  "id": "25-002-004",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 2,
+  "verse_reference": "Lamentations 2:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the elders of Daughter Zion put on as they sat silently on the ground?",
+  "options": [
+    "Crowns",
+    "Sackcloth",
+    "Royal robes",
+    "Armor"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They sprinkled dust on their heads and put on sackcloth as signs of deep mourning."
+}

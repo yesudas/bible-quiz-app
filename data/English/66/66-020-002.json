@@ -1,0 +1,38 @@
+{
+  "id": "66-020-002",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 20,
+  "verse_reference": "Revelation 20:2",
+  "question_type": "DIRECT",
+  "difficulty": "Easy",
+  "question": "For how long was Satan bound by the angel?",
+  "options": [
+    "Forty days",
+    "Seven years",
+    "A thousand years",
+    "Three and a half years"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Satan",
+    "Prophecy"
+  ],
+  "characters": [
+    "Satan"
+  ],
+  "places": [
+    {
+      "name": "Abyss",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel seized the dragon, that ancient serpent, who is the devil, or Satan, and bound him for a thousand years."
+}

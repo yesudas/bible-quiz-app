@@ -1,0 +1,30 @@
+{
+  "id": "61-003-007",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 3,
+  "verse_reference": "2 Peter 3:10",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "Peter says the day of the Lord will come like what?",
+  "options": [
+    "A storm",
+    "A flood",
+    "A thief",
+    "A wedding"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter says the day of the Lord will come like a thief, unexpectedly."
+}

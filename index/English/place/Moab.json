@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Moab",
     "label": "Moab",
-    "count": 43,
+    "count": 60,
     "paths": [
         "English/04/04-022-001.json",
         "English/05/05-002-005.json",
@@ -47,7 +47,24 @@
         "English/23/23-016-006.json",
         "English/23/23-016-007.json",
         "English/23/23-016-008.json",
-        "English/23/23-025-007.json"
+        "English/23/23-025-007.json",
+        "English/24/24-027-002.json",
+        "English/24/24-048-001.json",
+        "English/24/24-048-002.json",
+        "English/24/24-048-003.json",
+        "English/24/24-048-004.json",
+        "English/24/24-048-005.json",
+        "English/24/24-048-006.json",
+        "English/24/24-048-007.json",
+        "English/24/24-048-008.json",
+        "English/24/24-048-009.json",
+        "English/26/26-025-004.json",
+        "English/27/27-011-013.json",
+        "English/30/30-002-001.json",
+        "English/30/30-002-002.json",
+        "English/33/33-006-003.json",
+        "English/36/36-002-007.json",
+        "English/36/36-002-008.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

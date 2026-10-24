@@ -1,0 +1,35 @@
+{
+  "id": "26-019-009",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 19,
+  "verse_reference": "Ezekiel 19:13-14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was left of the vine at the end of the lament?",
+  "options": [
+    "No strong branch fit for a ruler's scepter",
+    "Many new strong branches",
+    "A single fruitful branch",
+    "A large crop of grapes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Desert",
+      "type": "desert"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The vine was planted in the desert, fire consumed its fruit, and no strong branch was left fit for a ruler's scepter."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "32-004-012",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 4,
+  "verse_reference": "Jonah 4:10-11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What is the main lesson of God's final question to Jonah?",
+  "options": [
+    "God cares only for Israel",
+    "God shows concern for people of other nations too",
+    "Plants matter more than cities",
+    "Prophets should never be angry"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mercy",
+    "Love",
+    "Mission"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God asked whether He should not be concerned about the great city of Nineveh, showing His compassion even for a foreign city."
+}

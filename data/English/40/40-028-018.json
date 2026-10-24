@@ -1,0 +1,39 @@
+{
+  "id": "40-028-018",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 28,
+  "verse_reference": "Matthew 28:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the last words of Matthew: \"And surely I am with you always, to the very end of the ______.\"",
+  "options": [
+    "age",
+    "world",
+    "day",
+    "road"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Hope",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mountain in Galilee",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 28:20 ends, \"And surely I am with you always, to the very end of the age.\""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "27-002-009",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 2,
+  "verse_reference": "Daniel 2:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"Praise be to the name of God for ever and ever; ______ and power are his.\"",
+  "options": [
+    "glory",
+    "wisdom",
+    "mercy",
+    "honour"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Wisdom"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daniel praised God, saying wisdom and power belong to Him."
+}

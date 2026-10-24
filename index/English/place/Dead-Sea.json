@@ -3,12 +3,16 @@
     "language": "English",
     "place": "Dead-Sea",
     "label": "Dead Sea",
-    "count": 4,
+    "count": 8,
     "paths": [
         "English/04/04-034-003.json",
         "English/06/06-015-002.json",
         "English/12/12-014-013.json",
-        "English/14/14-020-003.json"
+        "English/14/14-020-003.json",
+        "English/26/26-047-004.json",
+        "English/26/26-047-006.json",
+        "English/26/26-047-007.json",
+        "English/38/38-014-006.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

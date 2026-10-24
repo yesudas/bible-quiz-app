@@ -1,0 +1,33 @@
+{
+  "id": "27-004-005",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 4,
+  "verse_reference": "Daniel 4:13-14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the holy messenger from heaven command to be done to the tree?",
+  "options": [
+    "Water it and let it grow",
+    "Cut it down",
+    "Burn it in the fire",
+    "Move it to another land"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Angels"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A messenger, a holy one, came down from heaven and called out to cut down the tree and trim off its branches."
+}

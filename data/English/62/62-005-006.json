@@ -1,0 +1,35 @@
+{
+  "id": "62-005-006",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 5,
+  "verse_reference": "1 John 5:11",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What has God given us, and where is it found?",
+  "options": [
+    "Great riches, found in the temple",
+    "Eternal life, found in his Son",
+    "A new law, found in Egypt",
+    "A kingdom, found in Rome"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Eternal life",
+    "Jesus"
+  ],
+  "characters": [
+    "God",
+    "Jesus",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John's testimony is that God has given us eternal life, and this life is in his Son."
+}

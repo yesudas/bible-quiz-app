@@ -1,0 +1,38 @@
+{
+  "id": "41-002-002",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 2,
+  "verse_reference": "Mark 2:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How many men carried the paralyzed man to Jesus?",
+  "options": [
+    "Two",
+    "Three",
+    "Four",
+    "Six"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "House in Capernaum",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some men came bringing a paralyzed man, carried by four of them."
+}

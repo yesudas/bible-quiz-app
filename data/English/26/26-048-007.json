@@ -1,0 +1,34 @@
+{
+  "id": "26-048-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 48,
+  "verse_reference": "Ezekiel 48:31",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which three gates were on the north side of the city?",
+  "options": [
+    "The gates of Gad, Asher and Naphtali",
+    "The gates of Joseph, Benjamin and Dan",
+    "The gates of Simeon, Issachar and Zebulun",
+    "The gates of Reuben, Judah and Levi"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "The LORD Is There",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On the north side, the three gates were the gate of Reuben, the gate of Judah and the gate of Levi."
+}

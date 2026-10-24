@@ -1,0 +1,32 @@
+{
+  "id": "42-008-004",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the seed on the rocky ground wither?",
+  "options": [
+    "The birds ate it",
+    "Thorns grew around it",
+    "It was planted too deep",
+    "The plants had no moisture"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some seed fell on rocky ground, and when it came up, the plants withered because they had no moisture."
+}

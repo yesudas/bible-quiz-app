@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Most-Holy-Place",
     "label": "Most Holy Place",
-    "count": 8,
+    "count": 15,
     "paths": [
         "English/11/11-008-003.json",
         "English/14/14-003-008.json",
@@ -12,7 +12,14 @@
         "English/14/14-004-015.json",
         "English/14/14-005-006.json",
         "English/14/14-005-007.json",
-        "English/19/19-028-002.json"
+        "English/19/19-028-002.json",
+        "English/58/58-009-002.json",
+        "English/58/58-009-003.json",
+        "English/58/58-009-004.json",
+        "English/58/58-009-005.json",
+        "English/58/58-009-006.json",
+        "English/58/58-009-007.json",
+        "English/58/58-010-008.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

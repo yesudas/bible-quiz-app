@@ -1,0 +1,36 @@
+{
+  "id": "40-021-019",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 21,
+  "verse_reference": "Matthew 21:33",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In the parable of the tenants, what did the landowner build in his vineyard?",
+  "options": [
+    "A watchtower",
+    "A synagogue",
+    "A palace",
+    "A stable"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Vineyard",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 21:33 says the landowner planted a vineyard, put a wall around it, dug a winepress in it and built a watchtower."
+}

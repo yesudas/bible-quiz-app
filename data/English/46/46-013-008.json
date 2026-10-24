@@ -1,0 +1,30 @@
+{
+  "id": "46-013-008",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 13,
+  "verse_reference": "1 Corinthians 13:7",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which list matches what Paul says love always does?",
+  "options": [
+    "Speaks, teaches, leads, rules",
+    "Protects, trusts, hopes, perseveres",
+    "Gives, prays, sings, fasts",
+    "Forgives, forgets, waits, rests"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that love always protects, always trusts, always hopes, always perseveres."
+}

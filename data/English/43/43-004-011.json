@@ -1,0 +1,45 @@
+{
+  "id": "43-004-011",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 4,
+  "verse_reference": "John 4:28-29",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the woman leave behind when she went back to the town?",
+  "options": [
+    "Her water jar",
+    "Her cloak",
+    "Her sandals",
+    "Her basket"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Evangelism"
+  ],
+  "characters": [
+    "Samaritan woman"
+  ],
+  "places": [
+    {
+      "name": "Sychar",
+      "type": "town"
+    },
+    {
+      "name": "Samaria",
+      "type": "region"
+    },
+    {
+      "name": "Jacob's well",
+      "type": "well"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 4:28 says the woman left her water jar, went back to the town, and told people to come and see a man who told her everything she ever did."
+}

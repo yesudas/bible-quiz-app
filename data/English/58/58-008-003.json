@@ -1,0 +1,34 @@
+{
+  "id": "58-008-003",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 8,
+  "verse_reference": "Hebrews 8:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Hebrews 8:5, the earthly sanctuary is a copy and shadow of what?",
+  "options": [
+    "Solomon's palace",
+    "The tents of the Israelites",
+    "The tower of Babel",
+    "What is in heaven"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "heavenly realm"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 8:5 says the priests serve at a sanctuary that is a copy and shadow of what is in heaven."
+}

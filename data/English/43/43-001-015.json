@@ -1,0 +1,34 @@
+{
+  "id": "43-001-015",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 1,
+  "verse_reference": "John 1:35-40",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "One of the two disciples who heard John and followed Jesus was Simon Peter's brother. Who was he?",
+  "options": [
+    "James",
+    "Philip",
+    "Thomas",
+    "Andrew"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Andrew",
+    "John the Baptist",
+    "Simon Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 1:40 says Andrew, Simon Peter's brother, was one of the two who heard John and followed Jesus."
+}

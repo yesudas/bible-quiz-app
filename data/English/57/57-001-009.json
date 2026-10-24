@@ -1,0 +1,32 @@
+{
+  "id": "57-001-009",
+  "language": "en",
+  "book_no": 57,
+  "book": "Philemon",
+  "chapter": 1,
+  "verse_reference": "Philemon 1:23",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who did Paul call his \"fellow prisoner in Christ Jesus\" in this letter?",
+  "options": [
+    "Epaphras",
+    "Demas",
+    "Luke",
+    "Mark"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution",
+    "Church"
+  ],
+  "characters": [
+    "Epaphras"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul sent greetings from Epaphras, his fellow prisoner in Christ Jesus. Mark, Aristarchus, Demas and Luke are called his fellow workers."
+}

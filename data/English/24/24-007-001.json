@@ -1,0 +1,42 @@
+{
+  "id": "24-007-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 7,
+  "verse_reference": "Jeremiah 7:1-2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did God tell Jeremiah to stand and proclaim His message in Jeremiah 7?",
+  "options": [
+    "At the gate of the LORD's house",
+    "At the city wall",
+    "In the king's palace",
+    "By the Jordan River"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Worship"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Jeremiah to stand at the gate of the LORD's house and proclaim His message to all who entered to worship."
+}

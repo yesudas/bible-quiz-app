@@ -1,0 +1,36 @@
+{
+  "id": "29-003-007",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 3,
+  "verse_reference": "Joel 3:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Multitudes, multitudes in the valley of ____!\"",
+  "options": [
+    "decision",
+    "tears",
+    "shadows",
+    "dry bones"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "valley of decision",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joel saw great crowds in the valley of decision, for the day of the LORD was near."
+}

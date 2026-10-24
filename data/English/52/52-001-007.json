@@ -1,0 +1,39 @@
+{
+  "id": "52-001-007",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 1,
+  "verse_reference": "1 Thessalonians 1:10",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "The Thessalonians were waiting for God's Son from heaven, whom God raised from the dead. Who is He?",
+  "options": [
+    "Elijah",
+    "Jesus",
+    "Moses",
+    "The angel Gabriel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Salvation",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Thessalonica",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They were waiting for Jesus, God's Son, whom God raised from the dead and who rescues us from the coming wrath."
+}

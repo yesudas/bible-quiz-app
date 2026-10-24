@@ -1,0 +1,33 @@
+{
+  "id": "62-004-008",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 4,
+  "verse_reference": "1 John 4:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does John say no one has ever seen?",
+  "options": [
+    "An angel",
+    "Heaven",
+    "The devil",
+    "God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "God",
+    "Love"
+  ],
+  "characters": [
+    "God",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says no one has ever seen God; but if we love one another, God lives in us and his love is made complete in us."
+}

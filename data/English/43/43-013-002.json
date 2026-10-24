@@ -1,0 +1,37 @@
+{
+  "id": "43-013-002",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 13,
+  "verse_reference": "John 13:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to John 13:2, what had the devil already done before the evening meal?",
+  "options": [
+    "Tempted Peter to deny Jesus",
+    "Prompted Judas to betray Jesus",
+    "Entered the temple",
+    "Spoken to Pilate"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Satan",
+    "Sin"
+  ],
+  "characters": [
+    "Judas Iscariot"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 13:2 says the evening meal was in progress, and the devil had already prompted Judas, the son of Simon Iscariot, to betray Jesus."
+}

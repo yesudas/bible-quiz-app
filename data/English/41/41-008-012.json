@@ -1,0 +1,36 @@
+{
+  "id": "41-008-012",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 8,
+  "verse_reference": "Mark 8:25",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "What happened after Jesus put his hands on the man's eyes a second time?",
+  "options": [
+    "He saw only shadows",
+    "His eyes were opened and he saw everything clearly",
+    "He became blind again",
+    "He saw only Jesus"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Bethsaida",
+      "type": "village"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Once more Jesus put his hands on the man's eyes. Then his eyes were opened, his sight was restored, and he saw everything clearly."
+}

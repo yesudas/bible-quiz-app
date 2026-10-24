@@ -1,0 +1,29 @@
+{
+  "id": "28-010-007",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 10,
+  "verse_reference": "Hosea 10:11",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Hosea said Ephraim was a trained what that loves to thresh?",
+  "options": [
+    "Donkey",
+    "Ox",
+    "Heifer",
+    "Horse"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said, 'Ephraim is a trained heifer that loves to thresh.'"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "40-026-031",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:73",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "The people standing near Peter said they knew he was one of Jesus' followers because of what?",
+  "options": [
+    "His clothes",
+    "His accent",
+    "His sword",
+    "His fishing nets"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Courtyard of the high priest",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:73 says, \"Surely you are one of them; your accent gives you away.\""
+}

@@ -1,0 +1,31 @@
+{
+  "id": "45-008-017",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 8,
+  "verse_reference": "Romans 8:31",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"If God is for us, who can be ______ us?\"",
+  "options": [
+    "beside",
+    "before",
+    "against",
+    "above"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul asks, \"If God is for us, who can be against us?\""
+}

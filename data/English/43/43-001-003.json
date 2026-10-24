@@ -1,0 +1,33 @@
+{
+  "id": "43-001-003",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 1,
+  "verse_reference": "John 1:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does John 1 say about the light shining in the darkness?",
+  "options": [
+    "The darkness has not overcome it",
+    "The darkness put it out",
+    "It shone only for one day",
+    "It was hidden under a bowl"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 1:5 says the light shines in the darkness, and the darkness has not overcome it."
+}

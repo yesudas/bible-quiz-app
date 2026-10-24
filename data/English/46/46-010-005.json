@@ -1,0 +1,34 @@
+{
+  "id": "46-010-005",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 10,
+  "verse_reference": "1 Corinthians 10:8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Paul, how many Israelites died in one day because of sexual immorality?",
+  "options": [
+    "3,000",
+    "23,000",
+    "12,000",
+    "40,000"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that some of them committed sexual immorality, and in one day 23,000 of them died."
+}

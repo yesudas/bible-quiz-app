@@ -1,0 +1,35 @@
+{
+  "id": "26-030-006",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 30,
+  "verse_reference": "Ezekiel 30:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God say Egypt would no longer have?",
+  "options": [
+    "A river",
+    "A prince",
+    "A temple",
+    "An army"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'No longer will there be a prince in Egypt, and I will spread fear throughout the land.'"
+}

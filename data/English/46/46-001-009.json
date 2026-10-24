@@ -1,0 +1,34 @@
+{
+  "id": "46-001-009",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 1,
+  "verse_reference": "1 Corinthians 1:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Paul said Christ did not send him mainly to baptize, but to do what?",
+  "options": [
+    "Build churches",
+    "Preach the gospel",
+    "Write letters",
+    "Heal the sick"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mission",
+    "Evangelism"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Christ sent Paul to preach the gospel, not with wisdom and eloquence, so the cross would not be emptied of its power."
+}

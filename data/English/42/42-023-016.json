@@ -1,0 +1,39 @@
+{
+  "id": "42-023-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 23,
+  "verse_reference": "Luke 23:42",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete what the second criminal said: 'Jesus, ____ me when you come into your kingdom.'",
+  "options": [
+    "remember",
+    "save",
+    "forgive",
+    "take"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Faith",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "The Skull",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He said, 'Jesus, remember me when you come into your kingdom.'"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "24-017-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 17,
+  "verse_reference": "Jeremiah 17:8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "The person who trusts in the LORD is like what?",
+  "options": [
+    "A tree planted by the water",
+    "A house on a hill",
+    "A lamp on a stand",
+    "A rock in the field"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They will be like a tree planted by the water that sends out its roots by the stream."
+}

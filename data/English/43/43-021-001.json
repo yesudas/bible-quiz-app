@@ -1,0 +1,40 @@
+{
+  "id": "43-021-001",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 21,
+  "verse_reference": "John 21:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "By which sea did Jesus appear again to his disciples in John 21?",
+  "options": [
+    "The Dead Sea",
+    "The Sea of Galilee (Tiberias)",
+    "The Mediterranean Sea",
+    "The Red Sea"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "sea"
+    },
+    {
+      "name": "Sea of Tiberias",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 21:1 says afterward Jesus appeared again to his disciples, by the Sea of Galilee."
+}

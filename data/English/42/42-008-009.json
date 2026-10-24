@@ -1,0 +1,32 @@
+{
+  "id": "42-008-009",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How does the seed on good soil produce a crop?",
+  "options": [
+    "By hearing the word, keeping it, and persevering",
+    "By being planted twice",
+    "By growing near the path",
+    "By having no roots"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The seed on good soil stands for those with a noble and good heart, who hear the word, retain it, and by persevering produce a crop."
+}

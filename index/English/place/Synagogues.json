@@ -1,0 +1,15 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Synagogues",
+    "label": "Synagogues",
+    "count": 5,
+    "paths": [
+        "English/40/40-004-018.json",
+        "English/40/40-023-005.json",
+        "English/41/41-013-006.json",
+        "English/42/42-012-006.json",
+        "English/42/42-021-007.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

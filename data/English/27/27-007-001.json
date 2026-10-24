@@ -1,0 +1,32 @@
+{
+  "id": "27-007-001",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 7,
+  "verse_reference": "Daniel 7:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "In whose reign did Daniel have the dream of the four beasts?",
+  "options": [
+    "Nebuchadnezzar",
+    "Belshazzar",
+    "Darius",
+    "Cyrus"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel",
+    "Belshazzar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the first year of Belshazzar king of Babylon, Daniel had a dream and visions, and he wrote down the substance of his dream."
+}

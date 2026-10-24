@@ -1,0 +1,32 @@
+{
+  "id": "42-013-002",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 13,
+  "verse_reference": "Luke 13:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' warning: 'But unless you ____, you too will all perish.'",
+  "options": [
+    "pray",
+    "believe",
+    "repent",
+    "obey"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said those who suffered were not worse sinners than others, and 'unless you repent, you too will all perish.'"
+}

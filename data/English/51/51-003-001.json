@@ -1,0 +1,33 @@
+{
+  "id": "51-003-001",
+  "language": "en",
+  "book_no": 51,
+  "book": "Colossians",
+  "chapter": 3,
+  "verse_reference": "Colossians 3:1",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "According to Colossians 3, where is Christ seated?",
+  "options": [
+    "On a hill in Galilee",
+    "At the right hand of God",
+    "In the temple courts",
+    "On the throne of David in Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul told believers to set their hearts on things above, where Christ is, seated at the right hand of God."
+}

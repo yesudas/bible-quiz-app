@@ -1,0 +1,34 @@
+{
+  "id": "64-001-002",
+  "language": "en",
+  "book_no": 64,
+  "book": "3 John",
+  "chapter": 1,
+  "verse_reference": "3 John 1:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the elder pray for Gaius in verse 2?",
+  "options": [
+    "That he would enjoy good health and all would go well with him",
+    "That he would become a church leader",
+    "That he would travel to Jerusalem",
+    "That he would write a letter to the church"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Love"
+  ],
+  "characters": [
+    "John",
+    "Gaius"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elder prayed that Gaius would enjoy good health and that all would go well with him, just as his soul was doing well."
+}

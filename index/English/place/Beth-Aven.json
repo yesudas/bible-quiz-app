@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Beth-Aven",
+    "label": "Beth Aven",
+    "count": 2,
+    "paths": [
+        "English/28/28-004-008.json",
+        "English/28/28-010-003.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

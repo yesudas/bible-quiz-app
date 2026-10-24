@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Lake-of-fire",
+    "label": "Lake of fire",
+    "count": 2,
+    "paths": [
+        "English/66/66-020-011.json",
+        "English/66/66-020-012.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "26-037-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 37,
+  "verse_reference": "Ezekiel 37:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When God asked, \"Son of man, can these bones live?\" what did Ezekiel answer?",
+  "options": [
+    "\"No, they are too dry.\"",
+    "\"Yes, if they are buried.\"",
+    "\"Sovereign LORD, you alone know.\"",
+    "\"Only if a prophet prays.\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Prophecy"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Valley of dry bones",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezekiel answered, 'Sovereign LORD, you alone know.'"
+}

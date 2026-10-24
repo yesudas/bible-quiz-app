@@ -1,0 +1,33 @@
+{
+  "id": "40-023-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 23,
+  "verse_reference": "Matthew 23:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"For those who exalt themselves will be humbled, and those who humble themselves will be ______.\"",
+  "options": [
+    "exalted",
+    "forgotten",
+    "rich",
+    "rewarded"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 23:12 says, \"For those who exalt themselves will be humbled, and those who humble themselves will be exalted.\""
+}

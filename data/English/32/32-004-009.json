@@ -1,0 +1,32 @@
+{
+  "id": "32-004-009",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 4,
+  "verse_reference": "Jonah 4:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God send along with the blazing sun to make Jonah faint?",
+  "options": [
+    "A scorching east wind",
+    "A heavy rain",
+    "A sandstorm from the south",
+    "A cold north wind"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God provided a scorching east wind, and the sun blazed on Jonah's head so that he grew faint."
+}

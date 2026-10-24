@@ -1,0 +1,41 @@
+{
+  "id": "24-046-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 46,
+  "verse_reference": "Jeremiah 46:26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "After handing Egypt over to Nebuchadnezzar, what did God say would happen to Egypt later?",
+  "options": [
+    "It would be destroyed forever",
+    "It would become part of Israel",
+    "It would be covered by the sea",
+    "It would be inhabited as in times past"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Prophecy"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would hand them over to Nebuchadnezzar, \"Later, however, Egypt will be inhabited as in times past.\""
+}

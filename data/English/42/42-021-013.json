@@ -1,0 +1,36 @@
+{
+  "id": "42-021-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 21,
+  "verse_reference": "Luke 21:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Until when did Jesus say Jerusalem would be trampled on by the Gentiles?",
+  "options": [
+    "Until the temple is rebuilt",
+    "Until the times of the Gentiles are fulfilled",
+    "Until the king returns",
+    "Until the harvest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said Jerusalem will be trampled on by the Gentiles until the times of the Gentiles are fulfilled."
+}

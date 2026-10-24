@@ -1,0 +1,33 @@
+{
+  "id": "40-005-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 5,
+  "verse_reference": "Matthew 5:39",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Jesus said if anyone slaps you on the right cheek, what should you do?",
+  "options": [
+    "Turn to them the other cheek also",
+    "Slap them back",
+    "Report them to the judge",
+    "Walk away"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 5:39 says if anyone slaps you on the right cheek, turn to them the other cheek also."
+}

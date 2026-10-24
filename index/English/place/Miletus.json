@@ -1,0 +1,19 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Miletus",
+    "label": "Miletus",
+    "count": 9,
+    "paths": [
+        "English/44/44-020-009.json",
+        "English/44/44-020-010.json",
+        "English/44/44-020-011.json",
+        "English/44/44-020-013.json",
+        "English/44/44-020-014.json",
+        "English/44/44-020-015.json",
+        "English/44/44-020-018.json",
+        "English/44/44-020-019.json",
+        "English/55/55-004-014.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

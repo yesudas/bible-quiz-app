@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Tamar",
     "label": "Tamar",
-    "count": 13,
+    "count": 14,
     "paths": [
         "English/01/01-038-002.json",
         "English/01/01-038-004.json",
@@ -17,7 +17,8 @@
         "English/10/10-013-007.json",
         "English/10/10-014-013.json",
         "English/13/13-002-003.json",
-        "English/13/13-003-007.json"
+        "English/13/13-003-007.json",
+        "English/40/40-001-002.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

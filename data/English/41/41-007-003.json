@@ -1,0 +1,34 @@
+{
+  "id": "41-007-003",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 7,
+  "verse_reference": "Mark 7:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Jesus quoted Isaiah: \"These people honor me with their lips, but their ____ are far from me.\"",
+  "options": [
+    "feet",
+    "eyes",
+    "hearts",
+    "minds"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus",
+    "Isaiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said Isaiah was right when he prophesied about them: \"These people honor me with their lips, but their hearts are far from me.\""
+}

@@ -1,0 +1,38 @@
+{
+  "id": "42-015-002",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 15,
+  "verse_reference": "Luke 15:4",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Jesus' parable, how many sheep did the man have before one was lost?",
+  "options": [
+    "Ten",
+    "Fifty",
+    "One hundred",
+    "Ninety-nine"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Open country",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked, 'Suppose one of you has a hundred sheep and loses one of them. Doesn't he leave the ninety-nine in the open country and go after the lost sheep?'"
+}

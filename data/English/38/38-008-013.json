@@ -1,0 +1,36 @@
+{
+  "id": "38-008-013",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 8,
+  "verse_reference": "Zechariah 8:20-22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why would many peoples and powerful nations come to Jerusalem?",
+  "options": [
+    "To make war",
+    "To trade goods",
+    "To take the people captive",
+    "To seek the Lord Almighty and ask Him for help"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Mission",
+    "Prayer",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Many peoples and powerful nations would come to Jerusalem to seek the Lord Almighty and to ask Him for help."
+}

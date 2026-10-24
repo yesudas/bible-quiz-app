@@ -1,0 +1,37 @@
+{
+  "id": "66-003-010",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 3,
+  "verse_reference": "Revelation 3:14",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "In the letter to Laodicea, Jesus calls himself the Amen, the faithful and true witness, and what else?",
+  "options": [
+    "The Lion of Judah",
+    "The Bread of Life",
+    "The ruler of God's creation",
+    "The Good Shepherd"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Creation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Laodicea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus introduced himself to Laodicea as the Amen, the faithful and true witness, the ruler of God's creation."
+}

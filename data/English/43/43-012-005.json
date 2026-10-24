@@ -1,0 +1,37 @@
+{
+  "id": "43-012-005",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 12,
+  "verse_reference": "John 12:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Judas really say the perfume should have been sold?",
+  "options": [
+    "He was a thief and used to help himself to the money bag",
+    "He cared about the poor",
+    "He wanted to buy food",
+    "He was jealous of Mary"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Sin"
+  ],
+  "characters": [
+    "Judas Iscariot"
+  ],
+  "places": [
+    {
+      "name": "Bethany",
+      "type": "village"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 12:6 says he did not say this because he cared about the poor but because he was a thief; as keeper of the money bag, he used to help himself to what was put into it."
+}

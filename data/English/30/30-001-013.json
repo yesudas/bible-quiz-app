@@ -1,0 +1,42 @@
+{
+  "id": "30-001-013",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 1,
+  "verse_reference": "Amos 1:8",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which of these cities is named with Gaza in God's judgment on the Philistines?",
+  "options": [
+    "Ashkelon",
+    "Sidon",
+    "Rabbah",
+    "Teman"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ashdod",
+      "type": "city"
+    },
+    {
+      "name": "Ashkelon",
+      "type": "city"
+    },
+    {
+      "name": "Ekron",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 1:8 names Ashdod, Ashkelon and Ekron in the judgment on the Philistines."
+}

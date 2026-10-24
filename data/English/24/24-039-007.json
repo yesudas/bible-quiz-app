@@ -1,0 +1,42 @@
+{
+  "id": "24-039-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 39,
+  "verse_reference": "Jeremiah 39:6-7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the king of Babylon do to Zedekiah at Riblah?",
+  "options": [
+    "Made him a governor",
+    "Killed his sons before his eyes, put out his eyes and bound him in bronze shackles",
+    "Sent him back to rule Jerusalem",
+    "Gave him a palace in Babylon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [
+    "Zedekiah",
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Riblah",
+      "type": "town"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king of Babylon slaughtered Zedekiah's sons before his eyes, then put out his eyes and bound him with bronze shackles to take him to Babylon."
+}

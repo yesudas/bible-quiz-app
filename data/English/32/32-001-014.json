@@ -1,0 +1,38 @@
+{
+  "id": "32-001-014",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 1,
+  "verse_reference": "Jonah 1:15",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened to the sea after the sailors threw Jonah overboard?",
+  "options": [
+    "It turned to blood",
+    "It became calm",
+    "It dried up",
+    "It grew wilder"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "God's Power",
+    "Miracles"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [
+    {
+      "name": "Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they threw Jonah overboard, the raging sea grew calm."
+}

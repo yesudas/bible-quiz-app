@@ -1,0 +1,30 @@
+{
+  "id": "49-002-001",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 2,
+  "verse_reference": "Ephesians 2:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Before knowing Christ, what does Paul say the Ephesians were because of their transgressions and sins?",
+  "options": [
+    "Sick",
+    "Dead",
+    "Lost at sea",
+    "Asleep"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says they were dead in their transgressions and sins."
+}

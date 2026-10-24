@@ -1,0 +1,35 @@
+{
+  "id": "24-017-011",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 17,
+  "verse_reference": "Jeremiah 17:21-22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God command the people not to do on the Sabbath day?",
+  "options": [
+    "Sing in the temple",
+    "Light a lamp",
+    "Visit their parents",
+    "Carry a load through the gates of Jerusalem"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told them not to carry a load on the Sabbath or bring it through the gates of Jerusalem, but to keep the Sabbath day holy."
+}

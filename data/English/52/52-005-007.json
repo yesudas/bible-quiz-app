@@ -1,0 +1,34 @@
+{
+  "id": "52-005-007",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 5,
+  "verse_reference": "1 Thessalonians 5:16-18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verses: \"Rejoice always, pray ____, give thanks in all circumstances.\"",
+  "options": [
+    "quietly",
+    "on the Sabbath",
+    "continually",
+    "in the temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Joy",
+    "Thanksgiving"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote: rejoice always, pray continually, give thanks in all circumstances, for this is God's will for you in Christ Jesus."
+}

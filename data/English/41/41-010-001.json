@@ -1,0 +1,40 @@
+{
+  "id": "41-010-001",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 10,
+  "verse_reference": "Mark 10:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Jesus go when he left Capernaum, where crowds came to him again?",
+  "options": [
+    "Tyre and Sidon",
+    "Samaria",
+    "The Decapolis",
+    "The region of Judea and across the Jordan"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Judea",
+      "type": "region"
+    },
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus left that place and went into the region of Judea and across the Jordan, and crowds of people came to him."
+}

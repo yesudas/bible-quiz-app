@@ -1,0 +1,36 @@
+{
+  "id": "28-014-003",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 14,
+  "verse_reference": "Hosea 14:3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Which nation did the people confess could not save them?",
+  "options": [
+    "Egypt",
+    "Babylon",
+    "Aram",
+    "Assyria"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Repentance",
+    "Faith",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people would say, 'Assyria cannot save us; we will not mount warhorses.'"
+}

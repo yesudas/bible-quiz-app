@@ -1,0 +1,33 @@
+{
+  "id": "40-022-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 22,
+  "verse_reference": "Matthew 22:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What question did they ask to trap Jesus?",
+  "options": [
+    "Whether to keep the Sabbath",
+    "Who is the greatest prophet",
+    "Where the Messiah would be born",
+    "Whether it is right to pay the imperial tax to Caesar"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 22:17 says they asked, \"Is it right to pay the imperial tax to Caesar or not?\""
+}

@@ -1,0 +1,34 @@
+{
+  "id": "26-026-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 26,
+  "verse_reference": "Ezekiel 26:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What sound did God say would be heard no more in Tyre?",
+  "options": [
+    "The noise of chariots",
+    "The cry of the merchants",
+    "The sound of the waves",
+    "The music of harps"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'I will put an end to your noisy songs, and the music of your harps will be heard no more.'"
+}

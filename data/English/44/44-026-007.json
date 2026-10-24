@@ -1,0 +1,37 @@
+{
+  "id": "44-026-007",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 26,
+  "verse_reference": "Acts 26:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "The voice said, \"Saul, Saul, why do you persecute me? It is hard for you to kick against the ______.\"",
+  "options": [
+    "walls",
+    "stones",
+    "thorns",
+    "goads"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Damascus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The voice said in Aramaic, 'It is hard for you to kick against the goads.'"
+}

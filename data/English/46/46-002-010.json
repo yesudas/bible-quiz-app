@@ -1,0 +1,34 @@
+{
+  "id": "46-002-010",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 2,
+  "verse_reference": "1 Corinthians 2:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"But we have the ______ of Christ.\"",
+  "options": [
+    "heart",
+    "love",
+    "peace",
+    "mind"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Holy Spirit",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul ends the chapter by saying that believers have the mind of Christ."
+}

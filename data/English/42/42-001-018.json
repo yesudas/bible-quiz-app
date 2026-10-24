@@ -1,0 +1,34 @@
+{
+  "id": "42-001-018",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:37",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Gabriel's words: 'For no word from God will ever ____.'",
+  "options": [
+    "fail",
+    "change",
+    "end",
+    "pass"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [
+    "Gabriel",
+    "Mary"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gabriel told Mary, 'For no word from God will ever fail.'"
+}

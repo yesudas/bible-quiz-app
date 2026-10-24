@@ -1,0 +1,37 @@
+{
+  "id": "24-026-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 26,
+  "verse_reference": "Jeremiah 26:8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "When Jeremiah finished speaking, what did the priests, prophets and people say?",
+  "options": [
+    "\"You are a true prophet!\"",
+    "\"You must die!\"",
+    "\"We will repent!\"",
+    "\"Speak again tomorrow!\""
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priests, the prophets and all the people seized him and said, \"You must die!\""
+}

@@ -3,10 +3,11 @@
     "language": "English",
     "place": "Zarephath",
     "label": "Zarephath",
-    "count": 2,
+    "count": 3,
     "paths": [
         "English/11/11-017-007.json",
-        "English/11/11-017-008.json"
+        "English/11/11-017-008.json",
+        "English/42/42-004-015.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

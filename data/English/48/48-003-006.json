@@ -1,0 +1,30 @@
+{
+  "id": "48-003-006",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 3,
+  "verse_reference": "Galatians 3:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Paul say is true of all who rely on the works of the law?",
+  "options": [
+    "They are blessed",
+    "They will become teachers",
+    "They are under a curse",
+    "They are made perfect"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that all who rely on the works of the law are under a curse, because they must keep everything written in the law."
+}

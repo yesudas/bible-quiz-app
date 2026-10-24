@@ -1,0 +1,39 @@
+{
+  "id": "24-024-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 24,
+  "verse_reference": "Jeremiah 24:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did God say the good figs represented?",
+  "options": [
+    "The priests in the temple",
+    "The people who fled to Egypt",
+    "The soldiers of Judah",
+    "The exiles from Judah sent to the land of the Babylonians"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He regarded as good the exiles from Judah, whom He sent away from this place to the land of the Babylonians."
+}

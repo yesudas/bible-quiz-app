@@ -1,0 +1,32 @@
+{
+  "id": "32-004-005",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 4,
+  "verse_reference": "Jonah 4:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the LORD's question to Jonah: \"Is it right for you to be ____?\"",
+  "options": [
+    "afraid",
+    "angry",
+    "sad",
+    "proud"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Anger"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD asked Jonah, \"Is it right for you to be angry?\""
+}

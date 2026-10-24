@@ -1,0 +1,15 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Julius",
+    "label": "Julius",
+    "count": 5,
+    "paths": [
+        "English/44/44-027-001.json",
+        "English/44/44-027-003.json",
+        "English/44/44-027-004.json",
+        "English/44/44-027-007.json",
+        "English/44/44-027-018.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

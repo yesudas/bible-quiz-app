@@ -1,0 +1,32 @@
+{
+  "id": "61-003-001",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 3,
+  "verse_reference": "2 Peter 3:1",
+  "question_type": "DIRECT",
+  "difficulty": "Easy",
+  "question": "Which letter does Peter say this is that he is writing to them?",
+  "options": [
+    "His first letter",
+    "His second letter",
+    "His third letter",
+    "His last letter"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter says this is now his second letter to them, written to stir them to wholesome thinking."
+}

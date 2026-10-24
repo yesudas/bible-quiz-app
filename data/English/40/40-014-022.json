@@ -1,0 +1,38 @@
+{
+  "id": "40-014-022",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 14,
+  "verse_reference": "Matthew 14:33",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "After the wind died down, what did those in the boat say as they worshiped Jesus?",
+  "options": [
+    "\"You are the son of David.\"",
+    "\"You are a great prophet.\"",
+    "\"Truly you are the Son of God.\"",
+    "\"You are Elijah.\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 14:33 says those in the boat worshiped him, saying, \"Truly you are the Son of God.\""
+}

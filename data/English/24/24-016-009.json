@@ -1,0 +1,34 @@
+{
+  "id": "24-016-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 16,
+  "verse_reference": "Jeremiah 16:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jeremiah's prayer: \"LORD, my strength and my fortress, my ____ in time of distress.\"",
+  "options": [
+    "light",
+    "refuge",
+    "shield",
+    "song"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Faith",
+    "Hope"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah called the LORD his strength, his fortress and his refuge in time of distress."
+}

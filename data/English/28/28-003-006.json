@@ -1,0 +1,33 @@
+{
+  "id": "28-003-006",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 3,
+  "verse_reference": "Hosea 3:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Afterward, which king did Hosea say the Israelites would seek along with the LORD their God?",
+  "options": [
+    "Solomon",
+    "Saul",
+    "David",
+    "Hezekiah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Hope",
+    "Prophecy"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Afterward the Israelites will return and seek the LORD their God and David their king."
+}

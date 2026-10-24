@@ -1,0 +1,34 @@
+{
+  "id": "47-003-002",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 3,
+  "verse_reference": "2 Corinthians 3:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Paul said the Corinthians were a letter from Christ. What was this letter written with?",
+  "options": [
+    "The Spirit of the living God",
+    "Ink on a scroll",
+    "Gold letters",
+    "The blood of animals"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holy Spirit",
+    "Jesus"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The letter was written not with ink but with the Spirit of the living God, on tablets of human hearts."
+}

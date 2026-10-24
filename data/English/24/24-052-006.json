@@ -1,0 +1,39 @@
+{
+  "id": "24-052-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 52,
+  "verse_reference": "Jeremiah 52:17",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which bronze items from the temple did the Babylonians break up and carry to Babylon?",
+  "options": [
+    "The bronze pillars, the movable stands and the bronze Sea",
+    "The bronze snake and the altar",
+    "The golden lampstand and the ark",
+    "The bronze gates and the throne"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Babylonians broke up the bronze pillars, the movable stands and the bronze Sea that were at the temple and carried all the bronze to Babylon."
+}

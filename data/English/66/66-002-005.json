@@ -1,0 +1,38 @@
+{
+  "id": "66-002-005",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 2,
+  "verse_reference": "Revelation 2:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus promise to the one who is victorious in the letter to Ephesus?",
+  "options": [
+    "A crown of gold",
+    "The right to eat from the tree of life",
+    "A home in Jerusalem",
+    "A new white robe"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "paradise of God",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus promised the victorious the right to eat from the tree of life, which is in the paradise of God."
+}

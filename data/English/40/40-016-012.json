@@ -1,0 +1,33 @@
+{
+  "id": "40-016-012",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 16,
+  "verse_reference": "Matthew 16:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"And I tell you that you are Peter, and on this rock I will build my ______.\"",
+  "options": [
+    "temple",
+    "kingdom",
+    "church",
+    "house"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 16:18 says, \"And I tell you that you are Peter, and on this rock I will build my church, and the gates of Hades will not overcome it.\""
+}

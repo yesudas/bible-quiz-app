@@ -1,0 +1,35 @@
+{
+  "id": "66-008-007",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 8,
+  "verse_reference": "Revelation 8:8",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "At the second trumpet, what was thrown into the sea?",
+  "options": [
+    "A great star",
+    "A golden censer",
+    "Something like a huge mountain, all ablaze",
+    "A heavy millstone"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Something like a huge mountain, all ablaze, was thrown into the sea, and a third of the sea turned into blood."
+}

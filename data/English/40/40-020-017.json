@@ -1,0 +1,41 @@
+{
+  "id": "40-020-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 20,
+  "verse_reference": "Matthew 20:29-30",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "As Jesus and his disciples were leaving which city did two blind men call out to him from the roadside?",
+  "options": [
+    "Bethany",
+    "Jericho",
+    "Capernaum",
+    "Nazareth"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    },
+    {
+      "name": "Roadside near Jericho",
+      "type": "road"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 20:29-30 says as Jesus and his disciples were leaving Jericho, two blind men were sitting by the roadside."
+}

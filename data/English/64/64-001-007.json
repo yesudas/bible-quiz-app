@@ -1,0 +1,33 @@
+{
+  "id": "64-001-007",
+  "language": "en",
+  "book_no": 64,
+  "book": "3 John",
+  "chapter": 1,
+  "verse_reference": "3 John 1:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Dear friend, do not imitate what is evil but what is ____.\"",
+  "options": [
+    "holy",
+    "right",
+    "good",
+    "true"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship",
+    "Sin"
+  ],
+  "characters": [
+    "Gaius"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elder told Gaius not to copy evil but to copy what is good, because anyone who does good is from God."
+}

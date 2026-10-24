@@ -1,0 +1,40 @@
+{
+  "id": "44-020-018",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 20,
+  "verse_reference": "Acts 20:35",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Paul reminded them of the words of the Lord Jesus: \"It is more blessed to ______ than to receive.\"",
+  "options": [
+    "serve",
+    "love",
+    "give",
+    "pray"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Love",
+    "Jesus"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Miletus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quoted the Lord Jesus: 'It is more blessed to give than to receive.'"
+}

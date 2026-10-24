@@ -1,0 +1,36 @@
+{
+  "id": "25-005-006",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 5,
+  "verse_reference": "Lamentations 5:18",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Which mountain does Lamentations 5:18 say lies desolate, with jackals prowling over it?",
+  "options": [
+    "Mount Sinai",
+    "Mount Carmel",
+    "Mount Zion",
+    "Mount of Olives"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mount Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mount Zion lies desolate, with jackals prowling over it."
+}

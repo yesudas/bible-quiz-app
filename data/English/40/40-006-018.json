@@ -1,0 +1,32 @@
+{
+  "id": "40-006-018",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 6,
+  "verse_reference": "Matthew 6:27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What question did Jesus ask about worrying?",
+  "options": [
+    "Can worrying make you rich?",
+    "Can worrying make it rain?",
+    "Can worrying stop an army?",
+    "Can worrying add a single hour to your life?"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 6:27 asks, \"Can any one of you by worrying add a single hour to your life?\""
+}

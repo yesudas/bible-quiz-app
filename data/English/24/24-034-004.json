@@ -1,0 +1,46 @@
+{
+  "id": "24-034-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 34,
+  "verse_reference": "Jeremiah 34:7",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Besides Jerusalem, which two fortified cities of Judah were still holding out against the Babylonian army?",
+  "options": [
+    "Lachish and Azekah",
+    "Hebron and Bethlehem",
+    "Bethel and Gibeon",
+    "Ramah and Mizpah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Lachish",
+      "type": "city"
+    },
+    {
+      "name": "Azekah",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Babylonian army was fighting against Jerusalem and the other cities still holding out, Lachish and Azekah, the only fortified cities left in Judah."
+}

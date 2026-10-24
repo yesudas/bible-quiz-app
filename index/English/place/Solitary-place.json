@@ -1,0 +1,23 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Solitary-place",
+    "label": "Solitary place",
+    "count": 13,
+    "paths": [
+        "English/40/40-014-009.json",
+        "English/40/40-014-010.json",
+        "English/40/40-014-011.json",
+        "English/40/40-014-012.json",
+        "English/40/40-014-013.json",
+        "English/40/40-014-014.json",
+        "English/41/41-006-016.json",
+        "English/41/41-006-017.json",
+        "English/41/41-006-018.json",
+        "English/41/41-006-019.json",
+        "English/41/41-006-020.json",
+        "English/41/41-006-021.json",
+        "English/41/41-006-022.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

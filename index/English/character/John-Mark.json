@@ -1,0 +1,16 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "John-Mark",
+    "label": "John Mark",
+    "count": 6,
+    "paths": [
+        "English/44/44-012-009.json",
+        "English/44/44-012-019.json",
+        "English/44/44-013-006.json",
+        "English/44/44-013-012.json",
+        "English/44/44-015-016.json",
+        "English/44/44-015-018.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

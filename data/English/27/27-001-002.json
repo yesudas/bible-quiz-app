@@ -1,0 +1,38 @@
+{
+  "id": "27-001-002",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 1,
+  "verse_reference": "Daniel 1:1-2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which king of Judah did the Lord deliver into Nebuchadnezzar's hand?",
+  "options": [
+    "Jehoiakim",
+    "Hezekiah",
+    "Josiah",
+    "Zedekiah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Sovereignty of God"
+  ],
+  "characters": [
+    "Jehoiakim",
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the third year of Jehoiakim's reign, the Lord delivered Jehoiakim king of Judah into Nebuchadnezzar's hand."
+}

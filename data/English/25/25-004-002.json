@@ -1,0 +1,35 @@
+{
+  "id": "25-004-002",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 4,
+  "verse_reference": "Lamentations 4:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which animal does Lamentations 4:3 say has become heartless, like Jerusalem's people?",
+  "options": [
+    "Lions",
+    "Ostriches in the desert",
+    "Eagles",
+    "Wolves"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Family"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Desert",
+      "type": "desert"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Even jackals nurse their young, but the people have become heartless like ostriches in the desert."
+}

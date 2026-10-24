@@ -1,0 +1,32 @@
+{
+  "id": "42-016-001",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 16,
+  "verse_reference": "Luke 16:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Jesus' parable, what was the rich man's manager accused of?",
+  "options": [
+    "Stealing a donkey",
+    "Wasting the rich man's possessions",
+    "Lying to the priests",
+    "Breaking the Sabbath"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told of a rich man whose manager was accused of wasting his possessions."
+}

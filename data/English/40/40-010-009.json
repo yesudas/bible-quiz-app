@@ -1,0 +1,32 @@
+{
+  "id": "40-010-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 10,
+  "verse_reference": "Matthew 10:9-10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Jesus tell the Twelve not to take in their belts?",
+  "options": [
+    "Bread",
+    "Gold, silver or copper",
+    "Scrolls",
+    "Water"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 10:9 says, \"Do not get any gold or silver or copper to take with you in your belts.\""
+}

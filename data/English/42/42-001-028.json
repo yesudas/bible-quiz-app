@@ -1,0 +1,33 @@
+{
+  "id": "42-001-028",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:77",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Zechariah, John would give people knowledge of salvation through what?",
+  "options": [
+    "The building of the temple",
+    "Keeping the Sabbath",
+    "The forgiveness of their sins",
+    "Victory over Rome"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Zechariah",
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zechariah said John would give God's people the knowledge of salvation through the forgiveness of their sins."
+}

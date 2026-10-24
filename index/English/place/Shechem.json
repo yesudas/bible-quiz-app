@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Shechem",
     "label": "Shechem",
-    "count": 21,
+    "count": 23,
     "paths": [
         "English/06/06-020-007.json",
         "English/06/06-024-001.json",
@@ -25,7 +25,9 @@
         "English/11/11-012-001.json",
         "English/14/14-010-001.json",
         "English/14/14-010-003.json",
-        "English/14/14-010-004.json"
+        "English/14/14-010-004.json",
+        "English/24/24-041-004.json",
+        "English/28/28-006-009.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

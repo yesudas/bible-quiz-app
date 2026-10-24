@@ -1,0 +1,30 @@
+{
+  "id": "60-001-007",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 1,
+  "verse_reference": "1 Peter 1:10-11",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who searched intently and with great care about the salvation that was coming?",
+  "options": [
+    "The priests",
+    "The angels",
+    "The prophets",
+    "The Pharisees"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The prophets who spoke of the grace to come searched intently, trying to find out the time the Spirit of Christ in them was pointing to."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "42-018-009",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 18,
+  "verse_reference": "Luke 18:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the tax collector's prayer: 'God, have mercy on me, a ____.'",
+  "options": [
+    "servant",
+    "sinner",
+    "beggar",
+    "stranger"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Repentance",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The tax collector beat his breast and said, 'God, have mercy on me, a sinner.'"
+}

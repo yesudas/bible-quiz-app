@@ -1,0 +1,37 @@
+{
+  "id": "40-014-020",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 14,
+  "verse_reference": "Matthew 14:30",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Peter begin to sink?",
+  "options": [
+    "When he saw the wind, he was afraid",
+    "His feet slipped on a wave",
+    "The boat hit him",
+    "Jesus told him to go back"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 14:30 says when he saw the wind, he was afraid and, beginning to sink, cried out, \"Lord, save me!\""
+}

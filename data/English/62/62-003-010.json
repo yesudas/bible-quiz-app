@@ -1,0 +1,35 @@
+{
+  "id": "62-003-010",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 3,
+  "verse_reference": "1 John 3:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How do we know what love is, according to John?",
+  "options": [
+    "By the gifts people give",
+    "By the words of the law",
+    "By the miracles of Moses",
+    "Jesus Christ laid down his life for us"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says this is how we know what love is: Jesus Christ laid down his life for us, and we ought to lay down our lives for our brothers and sisters."
+}

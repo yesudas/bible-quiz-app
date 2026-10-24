@@ -1,0 +1,36 @@
+{
+  "id": "27-002-004",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 2,
+  "verse_reference": "Daniel 2:10-11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the astrologers say about the king's request?",
+  "options": [
+    "No one on earth could do it; only the gods could reveal it",
+    "Daniel could do it easily",
+    "They needed one more day",
+    "The king should ask the priests of Judah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They said no one on earth could do what the king asked, and only the gods, who do not live among humans, could reveal it."
+}

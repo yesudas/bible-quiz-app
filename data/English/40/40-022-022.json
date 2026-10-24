@@ -1,0 +1,34 @@
+{
+  "id": "40-022-022",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 22,
+  "verse_reference": "Matthew 22:43-45",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What question did Jesus ask about David calling the Messiah \"Lord\"?",
+  "options": [
+    "Why did David build the temple?",
+    "Why did David fight Goliath?",
+    "If David calls him 'Lord,' how can he be his son?",
+    "Who anointed David?"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Prophecy",
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Jesus",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 22:43-45 says David, speaking by the Spirit, calls him 'Lord'; \"If then David calls him 'Lord,' how can he be his son?\""
+}

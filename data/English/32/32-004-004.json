@@ -1,0 +1,32 @@
+{
+  "id": "32-004-004",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 4,
+  "verse_reference": "Jonah 4:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jonah ask the LORD to do in his anger?",
+  "options": [
+    "Take away his life",
+    "Send fire on Nineveh",
+    "Let him go home",
+    "Give him a sign"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Anger",
+    "Suffering"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonah asked the LORD to take away his life, saying it was better for him to die than to live."
+}

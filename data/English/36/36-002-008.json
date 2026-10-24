@@ -1,0 +1,39 @@
+{
+  "id": "36-002-008",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 2,
+  "verse_reference": "Zephaniah 2:8-10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why would Moab and Ammon be judged?",
+  "options": [
+    "They refused to trade with Judah",
+    "They built idols on the mountains",
+    "They insulted and mocked the LORD's people in their pride",
+    "They attacked Nineveh"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    },
+    {
+      "name": "Ammon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moab and Ammon would be judged for their pride and for insulting and mocking the people of the LORD Almighty."
+}

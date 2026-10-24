@@ -1,0 +1,33 @@
+{
+  "id": "42-008-011",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Whom did Jesus call his mother and brothers?",
+  "options": [
+    "Only his family in Nazareth",
+    "The twelve apostles only",
+    "Those who hear God's word and put it into practice",
+    "The people of Israel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Obedience"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'My mother and brothers are those who hear God's word and put it into practice.'"
+}

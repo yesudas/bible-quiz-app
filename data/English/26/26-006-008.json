@@ -1,0 +1,30 @@
+{
+  "id": "26-006-008",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 6,
+  "verse_reference": "Ezekiel 6:11-12",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "By which three things did God say the people would fall?",
+  "options": [
+    "Fire, flood and earthquake",
+    "Hail, locusts and drought",
+    "Sword, famine and plague",
+    "Lions, bears and wolves"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said the people would fall by the sword, famine and plague."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "24-039-010",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 39,
+  "verse_reference": "Jeremiah 39:11-12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What order did Nebuchadnezzar give concerning Jeremiah?",
+  "options": [
+    "Put him in chains",
+    "Bring him to Babylon as a slave",
+    "Kill him",
+    "Look after him and do for him whatever he asks"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Faith"
+  ],
+  "characters": [
+    "Nebuchadnezzar",
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nebuchadnezzar said, \"Take him and look after him; don't harm him but do for him whatever he asks.\""
+}

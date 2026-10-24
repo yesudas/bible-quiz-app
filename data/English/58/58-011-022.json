@@ -1,0 +1,37 @@
+{
+  "id": "58-011-022",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 11,
+  "verse_reference": "Hebrews 11:31",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "By faith, who was not killed with those who were disobedient, because she welcomed the spies?",
+  "options": [
+    "Ruth",
+    "Deborah",
+    "Rahab",
+    "Miriam"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Rahab"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 11:31 says by faith the prostitute Rahab, because she welcomed the spies, was not killed with those who were disobedient."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "26-026-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 26,
+  "verse_reference": "Ezekiel 26:4-5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God say Tyre would become after its rubble was scraped away?",
+  "options": [
+    "A garden",
+    "A fortress",
+    "A royal city",
+    "A bare rock, a place to spread fishnets"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would scrape away her rubble and make her a bare rock, and out in the sea she would become a place to spread fishnets."
+}

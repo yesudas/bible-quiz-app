@@ -1,0 +1,32 @@
+{
+  "id": "26-012-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 12,
+  "verse_reference": "Ezekiel 12:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God tell Ezekiel to dig through while the people watched?",
+  "options": [
+    "The ground",
+    "A rock",
+    "The wall",
+    "A door"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Exile",
+    "Prophecy"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Ezekiel to dig through the wall while the people watched and take his belongings out through it."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42-011-001",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did one of Jesus' disciples ask him after he finished praying?",
+  "options": [
+    "'Lord, teach us to pray.'",
+    "'Lord, teach us to fast.'",
+    "'Lord, show us the Father.'",
+    "'Lord, where are you going?'"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "One of his disciples said, 'Lord, teach us to pray, just as John taught his disciples.'"
+}

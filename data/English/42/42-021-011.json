@@ -1,0 +1,33 @@
+{
+  "id": "42-021-011",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 21,
+  "verse_reference": "Luke 21:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'Stand ____, and you will win life.'",
+  "options": [
+    "tall",
+    "together",
+    "still",
+    "firm"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Stand firm, and you will win life.'"
+}

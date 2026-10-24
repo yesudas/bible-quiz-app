@@ -1,0 +1,37 @@
+{
+  "id": "42-008-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:27",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Where had the demon-possessed man been living?",
+  "options": [
+    "In a cave by the sea",
+    "In the synagogue",
+    "In the wilderness market",
+    "In the tombs"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Satan",
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Tombs",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "For a long time the man had not worn clothes or lived in a house, but had lived in the tombs."
+}

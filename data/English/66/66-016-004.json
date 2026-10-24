@@ -1,0 +1,29 @@
+{
+  "id": "66-016-004",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 16,
+  "verse_reference": "Revelation 16:8-9",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "Which bowl caused the sun to scorch people with fire?",
+  "options": [
+    "The first bowl",
+    "The second bowl",
+    "The third bowl",
+    "The fourth bowl"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The fourth angel poured out his bowl on the sun, and the sun was allowed to scorch people with fire."
+}

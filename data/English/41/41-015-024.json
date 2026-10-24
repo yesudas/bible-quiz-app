@@ -1,0 +1,39 @@
+{
+  "id": "41-015-024",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 15,
+  "verse_reference": "Mark 15:39",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The centurion who saw how Jesus died said, \"Surely this man was the ____ of God!\"",
+  "options": [
+    "Prophet",
+    "Son",
+    "Servant",
+    "Lamb"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus",
+    "Centurion at the cross"
+  ],
+  "places": [
+    {
+      "name": "Golgotha",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the centurion, who stood there in front of Jesus, saw how he died, he said, \"Surely this man was the Son of God!\""
+}

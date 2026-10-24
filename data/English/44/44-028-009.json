@@ -1,0 +1,36 @@
+{
+  "id": "44-028-009",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 28,
+  "verse_reference": "Acts 28:11",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How long did they stay on Malta before setting sail again?",
+  "options": [
+    "Three months",
+    "Three weeks",
+    "One year",
+    "Seven days"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Malta",
+      "type": "island"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After three months they put out to sea in a ship that had wintered in the island."
+}

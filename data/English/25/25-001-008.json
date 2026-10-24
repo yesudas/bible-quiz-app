@@ -1,0 +1,39 @@
+{
+  "id": "25-001-008",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 1,
+  "verse_reference": "Lamentations 1:10",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the enemy do that God had forbidden, according to Lamentations 1:10?",
+  "options": [
+    "They entered her sanctuary",
+    "They burned the king's palace",
+    "They broke the city gates",
+    "They took the priests captive"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Sanctuary",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The enemy seized her treasures, and pagan nations entered her sanctuary, which God had forbidden them to enter."
+}

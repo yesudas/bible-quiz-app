@@ -1,0 +1,38 @@
+{
+  "id": "42-014-012",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 14,
+  "verse_reference": "Luke 14:21",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did the master tell his servant to bring in from the streets and alleys?",
+  "options": [
+    "The poor, the crippled, the blind and the lame",
+    "The soldiers",
+    "The rich merchants",
+    "The children"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Streets and alleys of the town",
+      "type": "road"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The master told his servant to go into the streets and alleys and bring in the poor, the crippled, the blind and the lame."
+}

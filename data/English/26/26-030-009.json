@@ -1,0 +1,37 @@
+{
+  "id": "26-030-009",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 30,
+  "verse_reference": "Ezekiel 30:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God say He would do for the king of Babylon while breaking Pharaoh's arms?",
+  "options": [
+    "Strengthen his arms and put His sword in his hand",
+    "Break his arms too",
+    "Give him the land of Israel",
+    "Send him back to Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Leadership"
+  ],
+  "characters": [
+    "Pharaoh"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'I will strengthen the arms of the king of Babylon and put my sword in his hand, but I will break the arms of Pharaoh.'"
+}

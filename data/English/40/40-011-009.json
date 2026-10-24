@@ -1,0 +1,32 @@
+{
+  "id": "40-011-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 11,
+  "verse_reference": "Matthew 11:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Because John came neither eating nor drinking, what did people say about him?",
+  "options": [
+    "\"He is a glutton.\"",
+    "\"He is a king.\"",
+    "\"He has a demon.\"",
+    "\"He is lazy.\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Jesus",
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 11:18 says John came neither eating nor drinking, and they say, \"He has a demon.\""
+}

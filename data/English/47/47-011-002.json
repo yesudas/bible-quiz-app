@@ -1,0 +1,35 @@
+{
+  "id": "47-011-002",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 11,
+  "verse_reference": "2 Corinthians 11:3",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Paul feared the Corinthians might be led astray, just as who was deceived by the serpent?",
+  "options": [
+    "Sarah",
+    "Rebekah",
+    "Eve",
+    "Rachel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Temptation",
+    "Satan",
+    "Sin"
+  ],
+  "characters": [
+    "Paul",
+    "Eve"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul was afraid their minds might be led astray from sincere and pure devotion to Christ, just as Eve was deceived by the serpent's cunning."
+}

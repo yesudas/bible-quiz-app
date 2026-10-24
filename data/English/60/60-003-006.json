@@ -1,0 +1,31 @@
+{
+  "id": "60-003-006",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 3,
+  "verse_reference": "1 Peter 3:10-11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Whoever would love life and see good days must turn from evil and do what?",
+  "options": [
+    "Seek peace and pursue it",
+    "Seek riches",
+    "Seek power",
+    "Seek a long journey"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Peace"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter quotes the Psalms: turn from evil and do good; seek peace and pursue it."
+}

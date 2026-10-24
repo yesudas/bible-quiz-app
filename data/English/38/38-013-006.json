@@ -1,0 +1,34 @@
+{
+  "id": "38-013-006",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 13,
+  "verse_reference": "Zechariah 13:6",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the man say he received the wounds on his body?",
+  "options": [
+    "At the house of my friends",
+    "In battle",
+    "In the temple",
+    "In the wilderness"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House of my friends",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He would answer, 'The wounds I was given at the house of my friends.'"
+}

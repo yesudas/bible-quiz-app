@@ -1,0 +1,33 @@
+{
+  "id": "48-002-016",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 2,
+  "verse_reference": "Galatians 2:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Paul said that if righteousness could be gained through the law, then what would be true?",
+  "options": [
+    "The temple would be needed again",
+    "The law would end",
+    "Christ died for nothing",
+    "All people would be saved"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said that if righteousness could be gained through the law, Christ died for nothing."
+}

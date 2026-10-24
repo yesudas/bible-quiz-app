@@ -1,0 +1,32 @@
+{
+  "id": "45-002-011",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 2,
+  "verse_reference": "Romans 2:21",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "What question does Paul ask the person who teaches others?",
+  "options": [
+    "Do you not pray for yourself?",
+    "Do you not give to the poor?",
+    "Do you not teach yourself?",
+    "Do you not visit the temple?"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul asks, \"You, then, who teach others, do you not teach yourself?\""
+}

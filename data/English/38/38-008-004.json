@@ -1,0 +1,37 @@
+{
+  "id": "38-008-004",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 8,
+  "verse_reference": "Zechariah 8:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What would fill the city streets of Jerusalem?",
+  "options": [
+    "Horses and chariots",
+    "Boys and girls playing",
+    "Merchants selling",
+    "Soldiers marching"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Family",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The city streets would be filled with boys and girls playing there."
+}

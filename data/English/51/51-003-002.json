@@ -1,0 +1,30 @@
+{
+  "id": "51-003-002",
+  "language": "en",
+  "book_no": 51,
+  "book": "Colossians",
+  "chapter": 3,
+  "verse_reference": "Colossians 3:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Set your minds on things above, not on ____ things.\"",
+  "options": [
+    "earthly",
+    "small",
+    "old",
+    "hidden"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul urged believers to set their minds on things above, not on earthly things."
+}

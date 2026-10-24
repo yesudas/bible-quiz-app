@@ -1,0 +1,32 @@
+{
+  "id": "40-025-014",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:24-25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the servant with one bag say he hid the gold?",
+  "options": [
+    "He said he forgot about it",
+    "He said the master was a hard man and he was afraid",
+    "He said a thief was coming",
+    "He said the bank was closed"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:24-25 says, \"Master, I knew that you are a hard man... So I was afraid and went out and hid your gold in the ground.\""
+}

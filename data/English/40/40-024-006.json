@@ -1,0 +1,31 @@
+{
+  "id": "40-024-006",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 24,
+  "verse_reference": "Matthew 24:7-8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Jesus called famines and earthquakes in various places the beginning of what?",
+  "options": [
+    "Birth pains",
+    "The harvest",
+    "The new temple",
+    "The kingdom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 24:7-8 says there will be famines and earthquakes in various places. All these are the beginning of birth pains."
+}

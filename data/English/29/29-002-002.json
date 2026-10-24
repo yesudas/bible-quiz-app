@@ -1,0 +1,35 @@
+{
+  "id": "29-002-002",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 2,
+  "verse_reference": "Joel 2:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Joel said the land before the invading army was like the garden of Eden. What was it like behind them?",
+  "options": [
+    "A flooded valley",
+    "A burning city",
+    "A desert waste",
+    "A field of thorns"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Garden of Eden",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Before the army the land was like the garden of Eden, but behind them it was a desert waste with nothing escaping them."
+}

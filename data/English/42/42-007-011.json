@@ -1,0 +1,34 @@
+{
+  "id": "42-007-011",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 7,
+  "verse_reference": "Luke 7:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Jesus answer John's disciples?",
+  "options": [
+    "He told them to report what they had seen and heard: the blind see, the lame walk, the dead are raised",
+    "He told them he was not the Messiah",
+    "He sent them to the temple priests",
+    "He told them to wait for a sign"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Jesus",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus",
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told them to report what they had seen and heard: the blind receive sight, the lame walk, lepers are cleansed, the deaf hear, the dead are raised, and good news is proclaimed to the poor."
+}

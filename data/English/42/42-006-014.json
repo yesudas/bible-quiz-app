@@ -1,0 +1,38 @@
+{
+  "id": "42-006-014",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Jesus promise to those who weep now?",
+  "options": [
+    "They will be rich",
+    "They will laugh",
+    "They will rule",
+    "They will never be hungry"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Level place",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Blessed are you who weep now, for you will laugh.'"
+}

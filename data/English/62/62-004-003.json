@@ -1,0 +1,33 @@
+{
+  "id": "62-004-003",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 4,
+  "verse_reference": "1 John 4:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"The one who is in you is ______ than the one who is in the world.\"",
+  "options": [
+    "older",
+    "wiser",
+    "greater",
+    "kinder"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Satan"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John encourages believers that they have overcome, because the one who is in them is greater than the one who is in the world."
+}

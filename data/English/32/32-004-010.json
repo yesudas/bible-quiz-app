@@ -1,0 +1,32 @@
+{
+  "id": "32-004-010",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 4,
+  "verse_reference": "Jonah 4:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What point did God make about the plant Jonah cared about?",
+  "options": [
+    "Jonah had worked hard to grow it",
+    "It would grow back the next day",
+    "Jonah had not tended it or made it grow",
+    "It belonged to the king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mercy",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said Jonah had been concerned about the plant though he did not tend it or make it grow; it sprang up overnight and died overnight."
+}

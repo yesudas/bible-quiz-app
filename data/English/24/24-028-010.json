@@ -1,0 +1,32 @@
+{
+  "id": "24-028-010",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 28,
+  "verse_reference": "Jeremiah 28:17",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When did Hananiah die?",
+  "options": [
+    "The same day",
+    "After two years",
+    "After seventy years",
+    "In the seventh month of that same year"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Hananiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the seventh month of that same year, Hananiah the prophet died, just as Jeremiah had said."
+}

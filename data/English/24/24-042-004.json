@@ -1,0 +1,36 @@
+{
+  "id": "24-042-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 42,
+  "verse_reference": "Jeremiah 42:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God promise if the people stayed in the land?",
+  "options": [
+    "He would build them up and not tear them down",
+    "He would make them rich in Egypt",
+    "He would give them a new king from Babylon",
+    "He would send them to Moab"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"If you stay in this land, I will build you up and not tear you down; I will plant you and not uproot you.\""
+}

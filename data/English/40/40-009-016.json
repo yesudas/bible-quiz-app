@@ -1,0 +1,33 @@
+{
+  "id": "40-009-016",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 9,
+  "verse_reference": "Matthew 9:21-22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Jesus tell the woman had healed her?",
+  "options": [
+    "His cloak",
+    "Her faith",
+    "The crowd's prayers",
+    "The priest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 9:22 says Jesus said, \"Take heart, daughter, your faith has healed you.\""
+}

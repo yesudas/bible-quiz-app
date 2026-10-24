@@ -1,0 +1,31 @@
+{
+  "id": "24-033-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 33,
+  "verse_reference": "Jeremiah 33:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the song of those bringing thank offerings: \"Give thanks to the LORD Almighty, for the LORD is good; his ____ endures forever.\"",
+  "options": [
+    "love",
+    "word",
+    "name",
+    "kingdom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "People would sing, \"Give thanks to the LORD Almighty, for the LORD is good; his love endures forever.\""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "43-020-005",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 20,
+  "verse_reference": "John 20:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Mary see when she bent over to look into the tomb?",
+  "options": [
+    "Two angels in white, seated where Jesus' body had been",
+    "One angel sitting on the stone",
+    "Jesus' body",
+    "Roman soldiers"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Angels"
+  ],
+  "characters": [
+    "Mary Magdalene"
+  ],
+  "places": [
+    {
+      "name": "Jesus' tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 20:12 says she saw two angels in white, seated where Jesus' body had been, one at the head and the other at the foot."
+}

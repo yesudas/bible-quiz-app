@@ -1,0 +1,32 @@
+{
+  "id": "43-017-007",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 17,
+  "verse_reference": "John 17:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' prayer: \"Sanctify them by the truth; your ___ is truth.\"",
+  "options": [
+    "law",
+    "Spirit",
+    "word",
+    "name"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 17:17, Jesus prayed, \"Sanctify them by the truth; your word is truth.\""
+}

@@ -1,0 +1,38 @@
+{
+  "id": "42-005-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus often do even as the crowds grew larger?",
+  "options": [
+    "Withdrew to lonely places and prayed",
+    "Went to Jerusalem",
+    "Hid in Simon's house",
+    "Fasted for forty days"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Lonely places",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus often withdrew to lonely places and prayed."
+}

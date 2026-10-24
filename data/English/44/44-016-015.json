@@ -1,0 +1,38 @@
+{
+  "id": "44-016-015",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 16,
+  "verse_reference": "Acts 16:26",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What suddenly happened at the prison?",
+  "options": [
+    "A fire broke out",
+    "An angel woke the jailer",
+    "A violent earthquake opened the doors and loosened the chains",
+    "The walls turned to dust"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Paul",
+    "Silas"
+  ],
+  "places": [
+    {
+      "name": "Prison in Philippi",
+      "type": "prison"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "There was such a violent earthquake that the prison doors flew open and everyone's chains came loose."
+}

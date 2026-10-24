@@ -1,0 +1,36 @@
+{
+  "id": "46-010-001",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 10,
+  "verse_reference": "1 Corinthians 10:1-2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Paul said the Israelites were all baptized into whom in the cloud and in the sea?",
+  "options": [
+    "Abraham",
+    "Aaron",
+    "Moses",
+    "Joshua"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "The sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that the Israelites were all under the cloud, passed through the sea, and were baptized into Moses."
+}

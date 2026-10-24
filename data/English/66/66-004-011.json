@@ -1,0 +1,35 @@
+{
+  "id": "66-004-011",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 4,
+  "verse_reference": "Revelation 4:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the creatures' song: \"Holy, holy, holy is the Lord God Almighty, who was, and is, and is to ____.\"",
+  "options": [
+    "reign",
+    "be",
+    "stay",
+    "come"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Day and night the living creatures never stop saying, \"Holy, holy, holy is the Lord God Almighty, who was, and is, and is to come.\""
+}

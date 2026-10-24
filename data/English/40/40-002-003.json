@@ -1,0 +1,38 @@
+{
+  "id": "40-002-003",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 2,
+  "verse_reference": "Matthew 2:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the Magi see that led them to look for the king of the Jews?",
+  "options": [
+    "An angel",
+    "A rainbow",
+    "His star",
+    "A cloud of fire"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Worship"
+  ],
+  "characters": [
+    "Magi"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Matthew 2:2 the Magi said they had seen his star when it rose and came to worship him."
+}

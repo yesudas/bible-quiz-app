@@ -1,0 +1,29 @@
+{
+  "id": "26-009-010",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 9,
+  "verse_reference": "Ezekiel 9:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the man clothed in linen report when he came back?",
+  "options": [
+    "'The city is empty.'",
+    "'I have done as you commanded.'",
+    "'No one had the mark.'",
+    "'The men refused to go.'"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man in linen brought back word, saying, 'I have done as you commanded.'"
+}

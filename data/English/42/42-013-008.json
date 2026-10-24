@@ -1,0 +1,38 @@
+{
+  "id": "42-013-008",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 13,
+  "verse_reference": "Luke 13:13",
+  "question_type": "SEQUENCE",
+  "difficulty": "Easy",
+  "question": "What did the woman do immediately after Jesus put his hands on her?",
+  "options": [
+    "She straightened up and praised God",
+    "She ran out of the synagogue",
+    "She sat down to rest",
+    "She told the priest"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Synagogue",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus put his hands on her, and immediately she straightened up and praised God."
+}

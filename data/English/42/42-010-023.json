@@ -1,0 +1,39 @@
+{
+  "id": "42-010-023",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:41-42",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say about Mary's choice?",
+  "options": [
+    "She should help Martha",
+    "She had chosen the wrong thing",
+    "She had chosen what is better, and it would not be taken from her",
+    "She should come back later"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus",
+    "Martha",
+    "Mary of Bethany"
+  ],
+  "places": [
+    {
+      "name": "Martha's home",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Martha, Martha, you are worried and upset about many things, but few things are needed—or indeed only one. Mary has chosen what is better.'"
+}

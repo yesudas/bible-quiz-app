@@ -1,0 +1,30 @@
+{
+  "id": "60-004-010",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 4,
+  "verse_reference": "1 Peter 4:16",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Peter says that if you suffer as one of these, you should not be ashamed but praise God that you bear that name. What is the name?",
+  "options": [
+    "A Pharisee",
+    "A Christian",
+    "A Jew",
+    "A Roman"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "If you suffer as a Christian, do not be ashamed, but praise God that you bear that name."
+}

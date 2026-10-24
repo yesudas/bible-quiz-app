@@ -1,0 +1,37 @@
+{
+  "id": "41-012-020",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 12,
+  "verse_reference": "Mark 12:38-40",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jesus warn people to watch out for the teachers of the law?",
+  "options": [
+    "They refused to read Scripture",
+    "They liked honor and devoured widows' houses while making lengthy prayers for show",
+    "They worked for the Romans",
+    "They never went to the temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus warned that they like to walk in flowing robes and be greeted with respect, and they devour widows' houses and for a show make lengthy prayers."
+}

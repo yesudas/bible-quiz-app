@@ -1,0 +1,31 @@
+{
+  "id": "46-007-003",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 7,
+  "verse_reference": "1 Corinthians 7:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "If a wife does separate from her husband, what two choices did Paul give her?",
+  "options": [
+    "Return to her parents or move away",
+    "Remain unmarried or be reconciled to her husband",
+    "Marry again or join another church",
+    "Go to court or ask the apostles"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said she must remain unmarried or else be reconciled to her husband."
+}

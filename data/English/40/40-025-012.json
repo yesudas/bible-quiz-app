@@ -1,0 +1,33 @@
+{
+  "id": "40-025-012",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:21",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the master's praise: \"Well done, good and ______ servant!\"",
+  "options": [
+    "wise",
+    "strong",
+    "humble",
+    "faithful"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Obedience"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:21 says his master replied, \"Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things.\""
+}

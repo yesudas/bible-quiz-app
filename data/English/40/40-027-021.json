@@ -1,0 +1,36 @@
+{
+  "id": "40-027-021",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 27,
+  "verse_reference": "Matthew 27:42",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the chief priests mock Jesus on the cross?",
+  "options": [
+    "\"He saved others, but he can't save himself!\"",
+    "\"He never healed anyone!\"",
+    "\"He is not from Galilee!\"",
+    "\"He broke the Sabbath!\""
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Golgotha",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 27:41-42 says the chief priests mocked him: \"He saved others, but he can't save himself!\""
+}

@@ -1,0 +1,37 @@
+{
+  "id": "66-003-012",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 3,
+  "verse_reference": "Revelation 3:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "The church in Laodicea said, \"I am rich and do not need a thing.\" How did Jesus describe them?",
+  "options": [
+    "Wretched, pitiful, poor, blind and naked",
+    "Wise, strong and faithful",
+    "Rich in good deeds",
+    "Humble and kind"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Laodicea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They thought they were rich, but Jesus said they did not realise they were wretched, pitiful, poor, blind and naked."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "42-004-010",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 4,
+  "verse_reference": "Luke 4:16-17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which prophet's scroll was handed to Jesus in the synagogue at Nazareth?",
+  "options": [
+    "Jeremiah",
+    "Isaiah",
+    "Ezekiel",
+    "Daniel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus",
+    "Isaiah"
+  ],
+  "places": [
+    {
+      "name": "Nazareth",
+      "type": "town"
+    },
+    {
+      "name": "Synagogue",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The scroll of the prophet Isaiah was handed to Jesus, and he found the place where it was written."
+}

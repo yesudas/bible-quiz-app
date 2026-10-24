@@ -1,0 +1,38 @@
+{
+  "id": "44-015-015",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 15,
+  "verse_reference": "Acts 15:32",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Judas and Silas, who were prophets, do in Antioch?",
+  "options": [
+    "They said much to encourage and strengthen the believers",
+    "They performed great miracles",
+    "They appointed new apostles",
+    "They wrote another letter"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Encouragement",
+    "Prophecy"
+  ],
+  "characters": [
+    "Judas Barsabbas",
+    "Silas"
+  ],
+  "places": [
+    {
+      "name": "Antioch",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Judas and Silas, who themselves were prophets, said much to encourage and strengthen the believers."
+}

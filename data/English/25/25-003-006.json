@@ -1,0 +1,31 @@
+{
+  "id": "25-003-006",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 3,
+  "verse_reference": "Lamentations 3:25-26",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Lamentations 3:25-26, it is good to wait quietly for what?",
+  "options": [
+    "The salvation of the LORD",
+    "The fall of Babylon",
+    "The harvest",
+    "The return of the king"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD is good to those who hope in him, and it is good to wait quietly for his salvation."
+}

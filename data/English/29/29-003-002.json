@@ -1,0 +1,42 @@
+{
+  "id": "29-003-002",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 3,
+  "verse_reference": "Joel 3:4",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which places did God challenge in Joel 3:4, asking what they had against Him?",
+  "options": [
+    "Moab, Ammon and Edom",
+    "Egypt, Cush and Libya",
+    "Assyria, Babylon and Elam",
+    "Tyre, Sidon and Philistia"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    },
+    {
+      "name": "Sidon",
+      "type": "city"
+    },
+    {
+      "name": "Philistia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God spoke against Tyre, Sidon and all the regions of Philistia, who had taken His treasures and sold His people."
+}

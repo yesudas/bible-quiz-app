@@ -1,0 +1,30 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Amos",
+    "label": "Amos",
+    "count": 20,
+    "paths": [
+        "English/30/30-001-001.json",
+        "English/30/30-001-002.json",
+        "English/30/30-001-003.json",
+        "English/30/30-001-004.json",
+        "English/30/30-001-005.json",
+        "English/30/30-003-005.json",
+        "English/30/30-007-001.json",
+        "English/30/30-007-002.json",
+        "English/30/30-007-003.json",
+        "English/30/30-007-004.json",
+        "English/30/30-007-005.json",
+        "English/30/30-007-006.json",
+        "English/30/30-007-007.json",
+        "English/30/30-007-008.json",
+        "English/30/30-007-010.json",
+        "English/30/30-007-012.json",
+        "English/30/30-007-013.json",
+        "English/30/30-008-001.json",
+        "English/30/30-008-002.json",
+        "English/30/30-009-001.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

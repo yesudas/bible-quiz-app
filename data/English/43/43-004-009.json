@@ -1,0 +1,46 @@
+{
+  "id": "43-004-009",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 4,
+  "verse_reference": "John 4:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: \"God is spirit, and his worshipers must worship in the Spirit and in ___.\"",
+  "options": [
+    "the temple",
+    "fear",
+    "truth",
+    "silence"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sychar",
+      "type": "town"
+    },
+    {
+      "name": "Samaria",
+      "type": "region"
+    },
+    {
+      "name": "Jacob's well",
+      "type": "well"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 4:24, Jesus said God is spirit, and his worshipers must worship in the Spirit and in truth."
+}

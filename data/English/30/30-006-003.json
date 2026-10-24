@@ -1,0 +1,35 @@
+{
+  "id": "30-006-003",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 6,
+  "verse_reference": "Amos 6:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were the beds of the complacent rich adorned with?",
+  "options": [
+    "Gold",
+    "Silver",
+    "Ivory",
+    "Cedar"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 6:4 says they lay on beds adorned with ivory and lounged on their couches."
+}

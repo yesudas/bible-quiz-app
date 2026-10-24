@@ -1,0 +1,36 @@
+{
+  "id": "36-003-007",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 3,
+  "verse_reference": "Zephaniah 3:12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did the LORD say He would leave within the city?",
+  "options": [
+    "The proud and the strong",
+    "The meek and humble who trust in His name",
+    "The rich merchants",
+    "The foreign soldiers"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD would leave the meek and humble, who trust in the name of the LORD."
+}

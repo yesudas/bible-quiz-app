@@ -1,0 +1,30 @@
+{
+  "id": "25-005-004",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 5,
+  "verse_reference": "Lamentations 5:7",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whose sins does Lamentations 5:7 say the people were bearing the punishment for?",
+  "options": [
+    "Their enemies",
+    "Their ancestors",
+    "Their children",
+    "The Egyptians"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people say their ancestors sinned and are no more, and they bear their punishment."
+}

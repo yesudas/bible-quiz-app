@@ -1,0 +1,35 @@
+{
+  "id": "26-036-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 36,
+  "verse_reference": "Ezekiel 36:29-30",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God promise about grain and fruit for His restored people?",
+  "options": [
+    "They would buy it from Egypt",
+    "They would have only a little",
+    "It would grow only in Jerusalem",
+    "He would increase it so they would no longer suffer famine"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would call for the grain and make it plentiful, and increase the fruit of the trees, so they would no longer suffer disgrace because of famine."
+}

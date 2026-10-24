@@ -1,0 +1,35 @@
+{
+  "id": "44-010-016",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 10,
+  "verse_reference": "Acts 10:43",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Peter said all the prophets testify that everyone who believes in Jesus receives what?",
+  "options": [
+    "Great riches",
+    "A long life on earth",
+    "A place in the temple",
+    "Forgiveness of sins through His name"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Forgiveness",
+    "Salvation",
+    "Prophecy"
+  ],
+  "characters": [
+    "Peter",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All the prophets testify that everyone who believes in Him receives forgiveness of sins through His name."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42-001-027",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:76",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "In his prophecy, what did Zechariah say his son John would be called?",
+  "options": [
+    "The Son of David",
+    "The prophet of the Most High",
+    "The Lamb of God",
+    "The high priest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Zechariah",
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Filled with the Holy Spirit, Zechariah said, 'And you, my child, will be called a prophet of the Most High.'"
+}

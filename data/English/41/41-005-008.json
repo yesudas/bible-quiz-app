@@ -1,0 +1,36 @@
+{
+  "id": "41-005-008",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 5,
+  "verse_reference": "Mark 5:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did the people of the region respond after hearing what happened?",
+  "options": [
+    "They asked him to stay forever",
+    "They pleaded with Jesus to leave their region",
+    "They made him their king",
+    "They brought all their sick to him"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Region of the Gerasenes",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people began to plead with Jesus to leave their region."
+}

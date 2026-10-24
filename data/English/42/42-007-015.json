@@ -1,0 +1,38 @@
+{
+  "id": "42-007-015",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 7,
+  "verse_reference": "Luke 7:38",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the woman wipe Jesus' feet after wetting them with her tears?",
+  "options": [
+    "With a towel",
+    "With her hair",
+    "With her robe",
+    "With oil"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Repentance"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Pharisee's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "She wet his feet with her tears, wiped them with her hair, kissed them and poured perfume on them."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "62-003-001",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 3,
+  "verse_reference": "1 John 3:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Because of the Father's great love, what does John say we are called?",
+  "options": [
+    "Servants of God",
+    "Children of God",
+    "Friends of the world",
+    "Prophets of God"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Family"
+  ],
+  "characters": [
+    "God",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says the Father has lavished great love on us, that we should be called children of God — and that is what we are."
+}

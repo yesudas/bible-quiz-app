@@ -1,0 +1,33 @@
+{
+  "id": "32-001-011",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 1,
+  "verse_reference": "Jonah 1:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jonah's words: \"I am a Hebrew and I worship the LORD, the God of heaven, who made the sea and the ____.\"",
+  "options": [
+    "dry land",
+    "stars",
+    "mountains",
+    "rivers"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Creation"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonah told the sailors that the LORD is the God of heaven who made the sea and the dry land."
+}

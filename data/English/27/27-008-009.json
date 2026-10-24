@@ -1,0 +1,39 @@
+{
+  "id": "27-008-009",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 8,
+  "verse_reference": "Daniel 8:16",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which angel was told to explain the vision to Daniel?",
+  "options": [
+    "Michael",
+    "Gabriel",
+    "Raphael",
+    "Abaddon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels",
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel",
+    "Gabriel"
+  ],
+  "places": [
+    {
+      "name": "Ulai Canal",
+      "type": "canal"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A man's voice from the Ulai called, \"Gabriel, tell this man the meaning of the vision.\""
+}

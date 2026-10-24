@@ -1,0 +1,31 @@
+{
+  "id": "38-007-005",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 7,
+  "verse_reference": "Zechariah 7:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Administer true justice; show _____ and compassion to one another.\"",
+  "options": [
+    "kindness",
+    "patience",
+    "mercy",
+    "respect"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told His people to administer true justice and show mercy and compassion to one another."
+}

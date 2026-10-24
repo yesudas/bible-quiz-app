@@ -1,0 +1,34 @@
+{
+  "id": "37-002-001",
+  "language": "en",
+  "book_no": 37,
+  "book": "Haggai",
+  "chapter": 2,
+  "verse_reference": "Haggai 2:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the new temple seem to the people who had seen the former house in its glory?",
+  "options": [
+    "Much bigger",
+    "Like nothing at all",
+    "Exactly the same",
+    "Too beautiful to enter"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "The LORD's house (temple)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God asked whether the new house did not seem to them like nothing compared with its former glory."
+}

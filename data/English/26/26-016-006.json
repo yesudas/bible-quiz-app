@@ -1,0 +1,35 @@
+{
+  "id": "26-016-006",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 16,
+  "verse_reference": "Ezekiel 16:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jerusalem trust in instead of trusting God?",
+  "options": [
+    "Her army",
+    "Her beauty",
+    "Her temple",
+    "Her prophets"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Her fame spread among the nations because of the beauty God gave her, but she trusted in her beauty and became unfaithful."
+}

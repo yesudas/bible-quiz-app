@@ -1,0 +1,32 @@
+{
+  "id": "60-002-004",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 2,
+  "verse_reference": "1 Peter 2:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What does Peter say happened to the stone the builders rejected?",
+  "options": [
+    "It was thrown away",
+    "It became the cornerstone",
+    "It was broken in pieces",
+    "It was hidden in the ground"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The stone the builders rejected has become the cornerstone, which Peter applies to Jesus."
+}

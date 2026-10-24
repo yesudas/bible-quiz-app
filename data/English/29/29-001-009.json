@@ -1,0 +1,30 @@
+{
+  "id": "29-001-009",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 1,
+  "verse_reference": "Joel 1:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"Alas for that day! For the ____ is near; it will come like destruction from the Almighty.\"",
+  "options": [
+    "end of the age",
+    "day of the LORD",
+    "year of the LORD's favor",
+    "day of harvest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joel warned that the day of the LORD was near and would come like destruction from the Almighty."
+}

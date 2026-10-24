@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Cyrene",
+    "label": "Cyrene",
+    "count": 3,
+    "paths": [
+        "English/40/40-027-015.json",
+        "English/41/41-015-011.json",
+        "English/42/42-023-010.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

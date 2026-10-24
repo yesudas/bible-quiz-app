@@ -1,0 +1,33 @@
+{
+  "id": "49-004-015",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 4,
+  "verse_reference": "Ephesians 4:32",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"forgiving each other, just as in Christ God ______ you.\"",
+  "options": [
+    "called",
+    "forgave",
+    "taught",
+    "chose"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Forgiveness",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you."
+}

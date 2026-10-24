@@ -1,0 +1,35 @@
+{
+  "id": "33-004-010",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 4,
+  "verse_reference": "Micah 4:13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "God told Daughter Zion to rise and thresh. With what would He give her horns?",
+  "options": [
+    "Iron",
+    "Gold",
+    "Bronze",
+    "Silver"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would give her horns of iron and hooves of bronze to break many nations."
+}

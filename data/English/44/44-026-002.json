@@ -1,0 +1,38 @@
+{
+  "id": "44-026-002",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 26,
+  "verse_reference": "Acts 26:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why was Paul glad to make his defense before Agrippa?",
+  "options": [
+    "Agrippa was well acquainted with Jewish customs and controversies",
+    "Agrippa was a Christian",
+    "Agrippa was his relative",
+    "Agrippa had promised to free him"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Justice",
+    "Wisdom"
+  ],
+  "characters": [
+    "Paul",
+    "Agrippa"
+  ],
+  "places": [
+    {
+      "name": "Caesarea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul considered himself fortunate because Agrippa was well acquainted with all the Jewish customs and controversies."
+}

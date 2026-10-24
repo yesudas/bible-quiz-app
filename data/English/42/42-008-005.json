@@ -1,0 +1,32 @@
+{
+  "id": "42-008-005",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How much did the seed on good soil yield in Jesus' parable?",
+  "options": [
+    "A hundred times more than was sown",
+    "Ten times more",
+    "Twice as much",
+    "Thirty times more"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Other seed fell on good soil. It came up and yielded a crop, a hundred times more than was sown."
+}

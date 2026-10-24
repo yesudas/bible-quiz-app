@@ -1,0 +1,33 @@
+{
+  "id": "35-001-005",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 1,
+  "verse_reference": "Habakkuk 1:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God tell Habakkuk he was going to do in his days?",
+  "options": [
+    "Something he would not believe even if he were told",
+    "Bring the exiles home at once",
+    "Rebuild the walls of Jerusalem",
+    "Send a flood on the earth"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Habakkuk"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would do something in Habakkuk's days that he would not believe, even if he were told."
+}

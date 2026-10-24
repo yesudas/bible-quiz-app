@@ -1,0 +1,37 @@
+{
+  "id": "42-022-008",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 22,
+  "verse_reference": "Luke 22:24-26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When the disciples argued about who was the greatest, what did Jesus say?",
+  "options": [
+    "The oldest should be greatest",
+    "The greatest should be like the youngest, and the one who rules like the one who serves",
+    "The richest should lead",
+    "Peter would be the greatest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Humility",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Large upstairs room",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said the greatest among them should be like the youngest, and the one who rules like the one who serves."
+}

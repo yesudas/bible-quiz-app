@@ -1,0 +1,37 @@
+{
+  "id": "24-025-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 25,
+  "verse_reference": "Jeremiah 25:9",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did God call \"my servant\" in Jeremiah 25:9, the one He would bring against the land?",
+  "options": [
+    "Cyrus king of Persia",
+    "Pharaoh Necho",
+    "Sennacherib",
+    "Nebuchadnezzar king of Babylon"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Leadership"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would summon \"my servant Nebuchadnezzar king of Babylon\" against this land and its people."
+}

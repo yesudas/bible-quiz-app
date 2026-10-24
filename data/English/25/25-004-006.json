@@ -1,0 +1,36 @@
+{
+  "id": "25-004-006",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 4,
+  "verse_reference": "Lamentations 4:13",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Lamentations 4:13, because of whose sins and iniquities did Jerusalem fall?",
+  "options": [
+    "Her farmers and shepherds",
+    "Her prophets and her priests",
+    "Her children",
+    "The Babylonians"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Leadership",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "It happened because of the sins of her prophets and the iniquities of her priests, who shed the blood of the righteous."
+}

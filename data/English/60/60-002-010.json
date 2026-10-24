@@ -1,0 +1,33 @@
+{
+  "id": "60-002-010",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 2,
+  "verse_reference": "1 Peter 2:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why does Peter say Christ suffered for believers?",
+  "options": [
+    "To show He was weak",
+    "Leaving an example for them to follow in His steps",
+    "To win an earthly kingdom",
+    "Because He had sinned"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Suffering",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Christ suffered for believers, leaving them an example, that they should follow in His steps."
+}

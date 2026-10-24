@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Ramah",
     "label": "Ramah",
-    "count": 20,
+    "count": 25,
     "paths": [
         "English/07/07-004-007.json",
         "English/09/09-001-012.json",
@@ -24,7 +24,12 @@
         "English/14/14-016-001.json",
         "English/14/14-016-002.json",
         "English/14/14-016-005.json",
-        "English/14/14-016-006.json"
+        "English/14/14-016-006.json",
+        "English/24/24-031-007.json",
+        "English/24/24-031-008.json",
+        "English/24/24-040-001.json",
+        "English/28/28-005-004.json",
+        "English/40/40-002-016.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

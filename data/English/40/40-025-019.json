@@ -1,0 +1,32 @@
+{
+  "id": "40-025-019",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:33",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "On which side will the Son of Man put the sheep?",
+  "options": [
+    "On his right",
+    "On his left",
+    "Behind him",
+    "In front of him"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:33 says he will put the sheep on his right and the goats on his left."
+}

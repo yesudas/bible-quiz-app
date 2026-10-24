@@ -1,0 +1,37 @@
+{
+  "id": "42-007-009",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 7,
+  "verse_reference": "Luke 7:16",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the people of Nain say after the young man was raised?",
+  "options": [
+    "'This is the son of David!'",
+    "'A great prophet has appeared among us.'",
+    "'This must be Elijah.'",
+    "'Herod will be angry.'"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Nain",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They were filled with awe and praised God, saying, 'A great prophet has appeared among us. God has come to help his people.'"
+}

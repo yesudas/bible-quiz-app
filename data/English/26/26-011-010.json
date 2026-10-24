@@ -1,0 +1,38 @@
+{
+  "id": "26-011-010",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 11,
+  "verse_reference": "Ezekiel 11:24-25",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the Spirit bring Ezekiel at the end of the vision?",
+  "options": [
+    "To Jerusalem",
+    "To the exiles in Babylonia",
+    "To the land of Egypt",
+    "To the Kebar desert"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Exile",
+    "Prophecy"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Babylonia",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Spirit brought Ezekiel to the exiles in Babylonia, and he told them everything the LORD had shown him."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "42-016-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 16,
+  "verse_reference": "Luke 16:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How much did the manager tell the first debtor to write on his bill instead of nine hundred gallons of olive oil?",
+  "options": [
+    "Eight hundred",
+    "Six hundred",
+    "One hundred",
+    "Four hundred fifty"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The first debtor owed nine hundred gallons of olive oil, and the manager told him to sit down quickly and make it four hundred fifty."
+}

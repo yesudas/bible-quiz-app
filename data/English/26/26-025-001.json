@@ -1,0 +1,35 @@
+{
+  "id": "26-025-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 25,
+  "verse_reference": "Ezekiel 25:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Ammonites say when God's sanctuary was desecrated?",
+  "options": [
+    "\"Alas!\"",
+    "\"Aha!\"",
+    "\"Amen!\"",
+    "\"Hallelujah!\""
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ammon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God judged the Ammonites because they said 'Aha!' over His sanctuary when it was desecrated."
+}

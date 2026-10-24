@@ -1,0 +1,32 @@
+{
+  "id": "44-007-003",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 7,
+  "verse_reference": "Acts 7:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What covenant did God give Abraham, according to Stephen?",
+  "options": [
+    "The covenant of the rainbow",
+    "The covenant of the Sabbath",
+    "The covenant of circumcision",
+    "The covenant of the kingdom"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant"
+  ],
+  "characters": [
+    "Abraham",
+    "Isaac"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God gave Abraham the covenant of circumcision, and Abraham circumcised Isaac eight days after his birth."
+}

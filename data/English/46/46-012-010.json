@@ -1,0 +1,31 @@
+{
+  "id": "46-012-010",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 12,
+  "verse_reference": "1 Corinthians 12:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What can the eye NOT say to the hand?",
+  "options": [
+    "\"You are stronger than me\"",
+    "\"I don't need you!\"",
+    "\"Let us work together\"",
+    "\"Follow me\""
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said the eye cannot say to the hand, \"I don't need you!\" Every part of the body needs the others."
+}

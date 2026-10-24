@@ -1,0 +1,39 @@
+{
+  "id": "40-027-026",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 27,
+  "verse_reference": "Matthew 27:54",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the centurion's words after the earthquake: \"Surely he was the ______ of God!\"",
+  "options": [
+    "Servant",
+    "Prophet",
+    "Lamb",
+    "Son"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus",
+    "Centurion"
+  ],
+  "places": [
+    {
+      "name": "Golgotha",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 27:54 says the centurion and those guarding Jesus were terrified and exclaimed, \"Surely he was the Son of God!\""
+}

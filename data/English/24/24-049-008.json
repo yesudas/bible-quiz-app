@@ -1,0 +1,41 @@
+{
+  "id": "24-049-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 49,
+  "verse_reference": "Jeremiah 49:28",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which king of Babylon attacked Kedar and the kingdoms of Hazor?",
+  "options": [
+    "Belshazzar",
+    "Nabopolassar",
+    "Evil-Merodach",
+    "Nebuchadnezzar"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Kedar",
+      "type": "region"
+    },
+    {
+      "name": "Hazor",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The message concerns Kedar and the kingdoms of Hazor, which Nebuchadnezzar king of Babylon attacked."
+}

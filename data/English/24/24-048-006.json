@@ -1,0 +1,43 @@
+{
+  "id": "24-048-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 48,
+  "verse_reference": "Jeremiah 48:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "God said Moab would be ashamed of Chemosh, as Israel was ashamed when they trusted in which place?",
+  "options": [
+    "Shiloh",
+    "Samaria",
+    "Bethel",
+    "Dan"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "town"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Moab will be ashamed of Chemosh, as Israel was ashamed when they trusted in Bethel.\""
+}

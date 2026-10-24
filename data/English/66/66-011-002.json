@@ -1,0 +1,34 @@
+{
+  "id": "66-011-002",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 11,
+  "verse_reference": "Revelation 11:2",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "For how many months would the Gentiles trample on the holy city?",
+  "options": [
+    "12 months",
+    "24 months",
+    "42 months",
+    "70 months"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Holy city",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The outer court was given to the Gentiles, and they would trample on the holy city for 42 months."
+}

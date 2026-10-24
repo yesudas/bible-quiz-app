@@ -1,0 +1,30 @@
+{
+  "id": "45-009-002",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 9,
+  "verse_reference": "Romans 9:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which of these does Paul list as belonging to the people of Israel?",
+  "options": [
+    "The covenants and the promises",
+    "The Roman law",
+    "The Greek temples",
+    "The wisdom of Egypt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says theirs is the adoption to sonship, the divine glory, the covenants, the receiving of the law, the temple worship and the promises."
+}

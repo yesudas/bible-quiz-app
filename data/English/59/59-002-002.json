@@ -1,0 +1,31 @@
+{
+  "id": "59-002-002",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 2,
+  "verse_reference": "James 2:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to James, whom has God chosen to be rich in faith?",
+  "options": [
+    "The kings of the earth",
+    "The religious leaders",
+    "Those who are poor in the eyes of the world",
+    "The wise and learned"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Kingdom of God",
+    "Money"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God has chosen those who are poor in the eyes of the world to be rich in faith and to inherit the kingdom."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "58-010-008",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 10,
+  "verse_reference": "Hebrews 10:19-20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Hebrews 10:19-20, by what do believers have confidence to enter the Most Holy Place?",
+  "options": [
+    "By the blood of goats",
+    "By being born in Israel",
+    "By the high priest's prayers",
+    "By the blood of Jesus"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Salvation",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Most Holy Place",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 10:19-20 says we have confidence to enter the Most Holy Place by the blood of Jesus, by a new and living way opened for us through the curtain, that is, his body."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "56-001-010",
+  "language": "en",
+  "book_no": 56,
+  "book": "Titus",
+  "chapter": 1,
+  "verse_reference": "Titus 1:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"They claim to know God, but by their ____ they deny him.\"",
+  "options": [
+    "words",
+    "prayers",
+    "actions",
+    "songs"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul warned that some people say they know God, but the way they live shows that they deny Him."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "32-001-001",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 1,
+  "verse_reference": "Jonah 1:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who was Jonah's father?",
+  "options": [
+    "Amoz",
+    "Amittai",
+    "Beeri",
+    "Pethuel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jonah",
+    "Amittai"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonah 1:1 says the word of the LORD came to Jonah son of Amittai."
+}

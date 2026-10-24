@@ -1,0 +1,40 @@
+{
+  "id": "43-008-014",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 8,
+  "verse_reference": "John 8:44",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Jesus described someone as \"a liar and the father of lies.\" Whom was he speaking about?",
+  "options": [
+    "Judas",
+    "The devil",
+    "Pharaoh",
+    "Cain"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 8:44, Jesus said the devil was a murderer from the beginning and is a liar and the father of lies."
+}

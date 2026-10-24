@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Red-Sea",
     "label": "Red Sea",
-    "count": 9,
+    "count": 11,
     "paths": [
         "English/05/05-011-001.json",
         "English/06/06-002-008.json",
@@ -13,7 +13,9 @@
         "English/19/19-106-003.json",
         "English/19/19-106-004.json",
         "English/19/19-136-005.json",
-        "English/19/19-136-006.json"
+        "English/19/19-136-006.json",
+        "English/44/44-007-013.json",
+        "English/58/58-011-020.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

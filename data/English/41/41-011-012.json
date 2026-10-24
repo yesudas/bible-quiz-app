@@ -1,0 +1,38 @@
+{
+  "id": "41-011-012",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 11,
+  "verse_reference": "Mark 11:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus say the people had made God's house into?",
+  "options": [
+    "A marketplace for kings",
+    "A den of robbers",
+    "A house of idols",
+    "A place of war"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"But you have made it 'a den of robbers.'\""
+}

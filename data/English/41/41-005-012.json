@@ -1,0 +1,33 @@
+{
+  "id": "41-005-012",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 5,
+  "verse_reference": "Mark 5:25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How many years had the woman in the crowd suffered from bleeding?",
+  "options": [
+    "Eighteen",
+    "Twelve",
+    "Seven",
+    "Thirty-eight"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A woman was there who had been subject to bleeding for twelve years."
+}

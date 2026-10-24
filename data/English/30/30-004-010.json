@@ -1,0 +1,36 @@
+{
+  "id": "30-004-010",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 4,
+  "verse_reference": "Amos 4:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"Prepare to meet your ____, Israel.\"",
+  "options": [
+    "King",
+    "enemy",
+    "God",
+    "judge"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 4:12 says, 'Prepare to meet your God, Israel.'"
+}

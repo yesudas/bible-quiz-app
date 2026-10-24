@@ -1,0 +1,30 @@
+{
+  "id": "60-002-008",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 2,
+  "verse_reference": "1 Peter 2:13-14",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Peter tells believers to submit to every human authority, including whom?",
+  "options": [
+    "The emperor",
+    "The high priest",
+    "The Pharisees",
+    "The prophets"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Believers are to submit for the Lord's sake to every human authority, whether to the emperor or to governors."
+}

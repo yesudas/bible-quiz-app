@@ -1,0 +1,33 @@
+{
+  "id": "40-007-004",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 7,
+  "verse_reference": "Matthew 7:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete: \"Ask and it will be given to you; seek and you will find; ______ and the door will be opened to you.\"",
+  "options": [
+    "call",
+    "wait",
+    "knock",
+    "pray"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 7:7 says, \"Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.\""
+}

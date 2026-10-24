@@ -1,0 +1,31 @@
+{
+  "id": "48-001-011",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 1,
+  "verse_reference": "Galatians 1:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Paul describe himself in Judaism before his conversion?",
+  "options": [
+    "He was advancing beyond many his own age",
+    "He had little interest in the traditions",
+    "He was a new learner of the law",
+    "He was a priest in the temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said he was advancing in Judaism beyond many of his own age and was extremely zealous for the traditions of his fathers."
+}

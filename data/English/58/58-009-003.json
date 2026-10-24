@@ -1,0 +1,36 @@
+{
+  "id": "58-009-003",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 9,
+  "verse_reference": "Hebrews 9:4",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which of these was inside the ark of the covenant, according to Hebrews 9:4?",
+  "options": [
+    "The gold jar of manna",
+    "The golden lampstand",
+    "The bronze snake",
+    "The sword of Goliath"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Most Holy Place",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 9:4 says the ark contained the gold jar of manna, Aaron's staff that had budded, and the stone tablets of the covenant."
+}

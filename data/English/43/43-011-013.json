@@ -1,0 +1,41 @@
+{
+  "id": "43-011-013",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 11,
+  "verse_reference": "John 11:39",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who objected when Jesus said to take away the stone, saying there would be a bad odor?",
+  "options": [
+    "Mary",
+    "Martha",
+    "Thomas",
+    "A Pharisee"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Martha",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Bethany",
+      "type": "village"
+    },
+    {
+      "name": "Lazarus' tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 11:39, Martha, the sister of the dead man, said, \"But, Lord, by this time there is a bad odor, for he has been there four days.\""
+}

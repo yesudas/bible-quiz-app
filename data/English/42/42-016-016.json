@@ -1,0 +1,39 @@
+{
+  "id": "42-016-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 16,
+  "verse_reference": "Luke 16:24",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the rich man ask Abraham to send Lazarus to do?",
+  "options": [
+    "Dip the tip of his finger in water and cool his tongue",
+    "Bring him bread",
+    "Pray for him",
+    "Open the gate"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Suffering",
+    "Judgment"
+  ],
+  "characters": [
+    "Abraham",
+    "Lazarus the beggar"
+  ],
+  "places": [
+    {
+      "name": "Hades",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He called out, 'Father Abraham, have pity on me and send Lazarus to dip the tip of his finger in water and cool my tongue.'"
+}

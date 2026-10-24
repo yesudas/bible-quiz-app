@@ -1,0 +1,38 @@
+{
+  "id": "38-011-007",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 11,
+  "verse_reference": "Zechariah 11:13",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "To whom did the Lord tell the prophet to throw the thirty pieces of silver?",
+  "options": [
+    "The priest",
+    "The king",
+    "The poor",
+    "The potter"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Money",
+    "Jesus"
+  ],
+  "characters": [
+    "Zechariah"
+  ],
+  "places": [
+    {
+      "name": "House of the Lord",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord said, 'Throw it to the potter,' so he threw the thirty pieces of silver to the potter at the house of the Lord."
+}

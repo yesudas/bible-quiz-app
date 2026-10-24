@@ -1,0 +1,38 @@
+{
+  "id": "42-003-005",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 3,
+  "verse_reference": "Luke 3:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What kind of baptism did John preach?",
+  "options": [
+    "A baptism of repentance for the forgiveness of sins",
+    "A baptism of fire for the Gentiles",
+    "A baptism for priests only",
+    "A baptism to join the temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Repentance",
+    "Forgiveness"
+  ],
+  "characters": [
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John went into all the country around the Jordan, preaching a baptism of repentance for the forgiveness of sins."
+}

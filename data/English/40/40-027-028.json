@@ -1,0 +1,38 @@
+{
+  "id": "40-027-028",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 27,
+  "verse_reference": "Matthew 27:57-58",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which rich man and disciple of Jesus asked Pilate for Jesus' body?",
+  "options": [
+    "Nicodemus",
+    "Joseph of Arimathea",
+    "Simon the Leper",
+    "Zacchaeus"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Joseph of Arimathea",
+    "Pilate"
+  ],
+  "places": [
+    {
+      "name": "Arimathea",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 27:57-58 says a rich man from Arimathea, named Joseph, who had himself become a disciple of Jesus, went to Pilate and asked for Jesus' body."
+}

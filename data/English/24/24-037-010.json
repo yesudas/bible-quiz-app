@@ -1,0 +1,38 @@
+{
+  "id": "24-037-010",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 37,
+  "verse_reference": "Jeremiah 37:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When King Zedekiah secretly asked if there was any word from the LORD, what did Jeremiah say?",
+  "options": [
+    "\"No, the LORD is silent\"",
+    "\"Yes, you will escape to Egypt\"",
+    "\"Yes, you will defeat Babylon\"",
+    "\"Yes, you will be delivered into the hands of the king of Babylon\""
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Faith"
+  ],
+  "characters": [
+    "Zedekiah",
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah replied, \"Yes, you will be delivered into the hands of the king of Babylon.\""
+}

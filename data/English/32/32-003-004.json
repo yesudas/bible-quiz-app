@@ -1,0 +1,38 @@
+{
+  "id": "32-003-004",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 3,
+  "verse_reference": "Jonah 3:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jonah's message: \"____ more days and Nineveh will be overthrown.\"",
+  "options": [
+    "Seven",
+    "Three",
+    "Forty",
+    "Ten"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonah proclaimed, \"Forty more days and Nineveh will be overthrown.\""
+}

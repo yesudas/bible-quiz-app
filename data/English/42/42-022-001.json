@@ -1,0 +1,34 @@
+{
+  "id": "42-022-001",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 22,
+  "verse_reference": "Luke 22:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which festival, called the Passover, was approaching at this time?",
+  "options": [
+    "Festival of Tabernacles",
+    "Festival of Weeks",
+    "Festival of Unleavened Bread",
+    "Festival of Trumpets"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Luke says the Festival of Unleavened Bread, called the Passover, was approaching."
+}

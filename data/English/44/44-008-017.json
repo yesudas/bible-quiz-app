@@ -1,0 +1,32 @@
+{
+  "id": "44-008-017",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 8,
+  "verse_reference": "Acts 8:32",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "The passage he was reading said: \"He was led like a ______ to the slaughter.\"",
+  "options": [
+    "lamb",
+    "goat",
+    "calf",
+    "sheep"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [
+    "Ethiopian eunuch"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah's words read: 'He was led like a sheep to the slaughter, and as a lamb before its shearer is silent.'"
+}

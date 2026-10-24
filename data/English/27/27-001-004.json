@@ -1,0 +1,37 @@
+{
+  "id": "27-001-004",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 1,
+  "verse_reference": "Daniel 1:3",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was the chief of Nebuchadnezzar's court officials?",
+  "options": [
+    "Arioch",
+    "Ashpenaz",
+    "Belteshazzar",
+    "Nebuzaradan"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Ashpenaz",
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king ordered Ashpenaz, chief of his court officials, to bring in some young Israelites to serve in the palace."
+}

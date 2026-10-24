@@ -1,0 +1,29 @@
+{
+  "id": "44-004-012",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 4,
+  "verse_reference": "Acts 4:22",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How old was the man who had been miraculously healed?",
+  "options": [
+    "About thirty",
+    "Twelve",
+    "Over seventy",
+    "Over forty"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man who was miraculously healed was over forty years old."
+}

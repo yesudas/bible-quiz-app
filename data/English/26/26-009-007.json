@@ -1,0 +1,35 @@
+{
+  "id": "26-009-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 9,
+  "verse_reference": "Ezekiel 9:6",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did God tell the men to begin the judgment?",
+  "options": [
+    "At the city gate",
+    "At the king's palace",
+    "At His sanctuary",
+    "At the Kidron Valley"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'Begin at my sanctuary.' So they began with the old men who were in front of the temple."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "41-001-014",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 1,
+  "verse_reference": "Mark 1:16-17",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which two brothers were casting a net into the lake when Jesus called them to follow him?",
+  "options": [
+    "James and John",
+    "Simon and Andrew",
+    "Philip and Bartholomew",
+    "Matthew and Thomas"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon Peter",
+    "Andrew"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus saw Simon and his brother Andrew casting a net into the lake, for they were fishermen."
+}

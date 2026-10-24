@@ -1,0 +1,35 @@
+{
+  "id": "24-007-011",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 7,
+  "verse_reference": "Jeremiah 7:32",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God say the Valley of Ben Hinnom would later be called?",
+  "options": [
+    "The Valley of Tears",
+    "The Valley of Bones",
+    "The Valley of Slaughter",
+    "The Valley of Shame"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Valley of Ben Hinnom",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said it would no longer be called Topheth or the Valley of Ben Hinnom, but the Valley of Slaughter."
+}

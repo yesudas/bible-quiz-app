@@ -1,0 +1,39 @@
+{
+  "id": "26-025-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 25,
+  "verse_reference": "Ezekiel 25:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did God judge Edom in Ezekiel 25?",
+  "options": [
+    "Edom refused to trade with Israel",
+    "Edom took revenge on Judah",
+    "Edom worshiped Baal",
+    "Edom sent spies into Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said Edom took revenge on Judah and became very guilty by doing so."
+}

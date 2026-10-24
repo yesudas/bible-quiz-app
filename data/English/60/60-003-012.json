@@ -1,0 +1,38 @@
+{
+  "id": "60-003-012",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 3,
+  "verse_reference": "1 Peter 3:22",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where does Peter say Jesus Christ has gone?",
+  "options": [
+    "Into heaven, at God's right hand",
+    "To Jerusalem",
+    "To Galilee",
+    "Into the wilderness"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Angels"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus Christ has gone into heaven and is at God's right hand, with angels, authorities and powers in submission to Him."
+}

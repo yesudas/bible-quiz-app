@@ -1,0 +1,35 @@
+{
+  "id": "24-011-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 11,
+  "verse_reference": "Jeremiah 11:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God call Egypt when He reminded Israel how He brought them out?",
+  "options": [
+    "The house of slavery",
+    "The iron-smelting furnace",
+    "The land of darkness",
+    "The pit of bricks"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He brought their ancestors out of Egypt, out of the iron-smelting furnace."
+}

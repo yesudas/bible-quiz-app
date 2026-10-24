@@ -1,0 +1,32 @@
+{
+  "id": "42-016-005",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 16,
+  "verse_reference": "Luke 16:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the master commend the dishonest manager?",
+  "options": [
+    "Because he was honest at last",
+    "Because he had acted shrewdly",
+    "Because he paid back all the money",
+    "Because he prayed"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The master commended the dishonest manager because he had acted shrewdly."
+}

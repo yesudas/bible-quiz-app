@@ -1,0 +1,35 @@
+{
+  "id": "24-046-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 46,
+  "verse_reference": "Jeremiah 46:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What would people call Pharaoh king of Egypt?",
+  "options": [
+    "\"The great king of the south\"",
+    "\"Only a loud noise; he has missed his opportunity\"",
+    "\"The lion of the Nile\"",
+    "\"The friend of Judah\""
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"There they will exclaim, 'Pharaoh king of Egypt is only a loud noise; he has missed his opportunity.'\""
+}

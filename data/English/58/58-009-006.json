@@ -1,0 +1,36 @@
+{
+  "id": "58-009-006",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 9,
+  "verse_reference": "Hebrews 9:7",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 9:7, how often did the high priest enter the inner room?",
+  "options": [
+    "Every day",
+    "Once a week",
+    "Only once a year",
+    "Once every seven years"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Most Holy Place",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 9:7 says only the high priest entered the inner room, and that only once a year, and never without blood."
+}

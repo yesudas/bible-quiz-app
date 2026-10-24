@@ -1,0 +1,35 @@
+{
+  "id": "66-021-012",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 21,
+  "verse_reference": "Revelation 21:21",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was each gate of the new Jerusalem made of?",
+  "options": [
+    "Pure gold",
+    "A single pearl",
+    "Jasper",
+    "Polished bronze"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "New Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The twelve gates were twelve pearls, each gate made of a single pearl."
+}

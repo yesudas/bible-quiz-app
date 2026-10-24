@@ -1,0 +1,33 @@
+{
+  "id": "41-008-019",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 8,
+  "verse_reference": "Mark 8:36",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' question: \"What good is it for someone to gain the whole world, yet forfeit their ____?\"",
+  "options": [
+    "soul",
+    "money",
+    "family",
+    "home"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked, \"What good is it for someone to gain the whole world, yet forfeit their soul?\""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "40-023-013",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 23,
+  "verse_reference": "Matthew 23:23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Jesus said the Pharisees give a tenth of which spices?",
+  "options": [
+    "Mint, dill and cumin",
+    "Salt, pepper and garlic",
+    "Myrrh, aloes and cinnamon",
+    "Saffron, ginger and cloves"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 23:23 says, \"You give a tenth of your spices—mint, dill and cumin.\""
+}

@@ -1,0 +1,41 @@
+{
+  "id": "45-015-008",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 15,
+  "verse_reference": "Romans 15:19",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Paul says he fully proclaimed the gospel from Jerusalem all the way around to where?",
+  "options": [
+    "Spain",
+    "Illyricum",
+    "Egypt",
+    "Babylon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mission",
+    "Evangelism"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Illyricum",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says that from Jerusalem all the way around to Illyricum he had fully proclaimed the gospel of Christ."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "48-002-015",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 2,
+  "verse_reference": "Galatians 2:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Paul said he lives by faith in the Son of God, who did what for him?",
+  "options": [
+    "Called him in a dream",
+    "Healed his eyes",
+    "Loved him and gave himself for him",
+    "Sent him to Rome"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said he lives by faith in the Son of God, who loved him and gave himself for him."
+}

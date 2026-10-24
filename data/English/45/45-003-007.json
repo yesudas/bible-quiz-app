@@ -1,0 +1,32 @@
+{
+  "id": "45-003-007",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 3,
+  "verse_reference": "Romans 3:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"There is no ______ of God before their eyes.\"",
+  "options": [
+    "fear",
+    "love",
+    "word",
+    "light"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Wisdom"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul ends his list of Scripture quotations by saying there is no fear of God before their eyes."
+}

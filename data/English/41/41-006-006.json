@@ -1,0 +1,33 @@
+{
+  "id": "41-006-006",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 6,
+  "verse_reference": "Mark 6:8-9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the only thing Jesus told the twelve to take for the journey, besides sandals?",
+  "options": [
+    "A bag of bread",
+    "Money in their belts",
+    "An extra shirt",
+    "A staff"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Mission",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told them to take nothing for the journey except a staff—no bread, no bag, no money in their belts—and to wear sandals but not an extra shirt."
+}

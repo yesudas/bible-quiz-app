@@ -1,0 +1,31 @@
+{
+  "id": "66-020-005",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 20,
+  "verse_reference": "Revelation 20:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Blessed and holy are those who share in the first resurrection. The second ____ has no power over them.\"",
+  "options": [
+    "judgment",
+    "death",
+    "fire",
+    "beast"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Salvation",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Revelation 20:6 says, \"Blessed and holy are those who share in the first resurrection. The second death has no power over them.\""
+}

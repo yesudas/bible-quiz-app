@@ -1,0 +1,34 @@
+{
+  "id": "27-001-007",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 1,
+  "verse_reference": "Daniel 1:6",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "From which tribe did Daniel, Hananiah, Mishael and Azariah come?",
+  "options": [
+    "Judah",
+    "Benjamin",
+    "Levi",
+    "Ephraim"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Daniel",
+    "Hananiah",
+    "Mishael",
+    "Azariah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daniel 1:6 says these four young men were from Judah."
+}

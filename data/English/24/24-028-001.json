@@ -1,0 +1,38 @@
+{
+  "id": "24-028-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 28,
+  "verse_reference": "Jeremiah 28:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which prophet opposed Jeremiah in the temple in chapter 28?",
+  "options": [
+    "Pashhur",
+    "Uriah",
+    "Hananiah",
+    "Shemaiah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Sin"
+  ],
+  "characters": [
+    "Hananiah",
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The prophet Hananiah son of Azzur spoke to Jeremiah in the house of the LORD."
+}

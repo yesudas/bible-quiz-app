@@ -1,0 +1,38 @@
+{
+  "id": "24-036-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 36,
+  "verse_reference": "Jeremiah 36:23",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did King Jehoiakim do with the scroll as it was read?",
+  "options": [
+    "Cut it with a scribe's knife and threw it into the fire",
+    "Kissed it and wept",
+    "Put it in the temple",
+    "Gave it back to Baruch"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoiakim"
+  ],
+  "places": [
+    {
+      "name": "Royal palace",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Whenever Jehudi read three or four columns, the king cut them off with a scribe's knife and threw them into the firepot, until the whole scroll was burned."
+}

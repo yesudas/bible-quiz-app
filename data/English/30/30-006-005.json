@@ -1,0 +1,34 @@
+{
+  "id": "30-006-005",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 6,
+  "verse_reference": "Amos 6:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the rich NOT do while they drank wine and used fine lotions?",
+  "options": [
+    "Grieve over the ruin of Joseph",
+    "Pay their workers",
+    "Go to Bethel",
+    "Build new houses"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 6:6 says they did not grieve over the ruin of Joseph."
+}

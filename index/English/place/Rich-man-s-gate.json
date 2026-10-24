@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Rich-man-s-gate",
+    "label": "Rich man's gate",
+    "count": 2,
+    "paths": [
+        "English/42/42-016-011.json",
+        "English/42/42-016-013.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "42-005-004",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Simon tell Jesus about their fishing the night before?",
+  "options": [
+    "They had caught too many fish",
+    "Their boat had sunk",
+    "Their nets were stolen",
+    "They had worked hard all night and caught nothing"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Obedience"
+  ],
+  "characters": [
+    "Simon Peter",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Lake of Gennesaret",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Simon said, 'Master, we've worked hard all night and haven't caught anything. But because you say so, I will let down the nets.'"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "47-009-001",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 9,
+  "verse_reference": "2 Corinthians 9:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Paul boasted to the Macedonians that the believers in which province had been ready to give since last year?",
+  "options": [
+    "Asia",
+    "Galatia",
+    "Achaia",
+    "Judea"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Achaia",
+      "type": "region"
+    },
+    {
+      "name": "Macedonia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul had been boasting to the Macedonians that since last year the believers in Achaia were ready to give."
+}

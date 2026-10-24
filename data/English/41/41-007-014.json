@@ -1,0 +1,37 @@
+{
+  "id": "41-007-014",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 7,
+  "verse_reference": "Mark 7:31-32",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In the Decapolis, what man did people bring to Jesus?",
+  "options": [
+    "A man who was blind from birth",
+    "A man who was deaf and could hardly talk",
+    "A man with leprosy",
+    "A man who could not walk"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Decapolis",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some people brought to him a man who was deaf and could hardly talk, and begged Jesus to place his hand on him."
+}

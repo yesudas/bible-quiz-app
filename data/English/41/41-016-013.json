@@ -1,0 +1,32 @@
+{
+  "id": "41-016-013",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 16,
+  "verse_reference": "Mark 16:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "In Mark 16:15, Jesus said, \"Go into all the world and preach the gospel to all ____.\"",
+  "options": [
+    "Israel",
+    "the rulers",
+    "the cities",
+    "creation"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Mission",
+    "Evangelism"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Verse 15 records Jesus saying, \"Go into all the world and preach the gospel to all creation.\" (Mark 16:9-20 is not found in the earliest manuscripts, as the NIV notes.)"
+}

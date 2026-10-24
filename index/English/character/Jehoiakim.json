@@ -3,13 +3,33 @@
     "language": "English",
     "character": "Jehoiakim",
     "label": "Jehoiakim",
-    "count": 5,
+    "count": 25,
     "paths": [
         "English/12/12-023-015.json",
         "English/12/12-024-001.json",
         "English/12/12-024-002.json",
         "English/14/14-036-002.json",
-        "English/14/14-036-004.json"
+        "English/14/14-036-004.json",
+        "English/24/24-022-004.json",
+        "English/24/24-022-005.json",
+        "English/24/24-022-006.json",
+        "English/24/24-022-007.json",
+        "English/24/24-024-002.json",
+        "English/24/24-025-001.json",
+        "English/24/24-026-001.json",
+        "English/24/24-026-009.json",
+        "English/24/24-026-010.json",
+        "English/24/24-035-001.json",
+        "English/24/24-036-001.json",
+        "English/24/24-036-007.json",
+        "English/24/24-036-008.json",
+        "English/24/24-036-009.json",
+        "English/24/24-036-010.json",
+        "English/24/24-036-011.json",
+        "English/24/24-036-013.json",
+        "English/24/24-045-001.json",
+        "English/24/24-052-002.json",
+        "English/27/27-001-002.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

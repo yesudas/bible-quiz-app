@@ -1,0 +1,33 @@
+{
+  "id": "24-021-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 21,
+  "verse_reference": "Jeremiah 21:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which king of Judah sent messengers to Jeremiah in chapter 21?",
+  "options": [
+    "Josiah",
+    "Jehoiakim",
+    "Zedekiah",
+    "Jehoiachin"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Prophecy"
+  ],
+  "characters": [
+    "Zedekiah",
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "King Zedekiah sent messengers to Jeremiah to inquire of the LORD."
+}

@@ -1,0 +1,19 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Asia",
+    "label": "Asia",
+    "count": 9,
+    "paths": [
+        "English/44/44-016-003.json",
+        "English/44/44-019-007.json",
+        "English/44/44-021-013.json",
+        "English/45/45-016-004.json",
+        "English/46/46-016-013.json",
+        "English/47/47-001-005.json",
+        "English/55/55-001-011.json",
+        "English/60/60-001-002.json",
+        "English/66/66-001-003.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "27-005-006",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 5,
+  "verse_reference": "Daniel 5:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What reward did the king promise to anyone who could read the writing?",
+  "options": [
+    "Half of his kingdom",
+    "His daughter in marriage",
+    "Purple clothes, a gold chain and the place of third highest ruler",
+    "A house in Jerusalem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Leadership"
+  ],
+  "characters": [
+    "Belshazzar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Whoever read the writing would be clothed in purple, have a gold chain around his neck and be made the third highest ruler in the kingdom."
+}

@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Philistia",
     "label": "Philistia",
-    "count": 10,
+    "count": 17,
     "paths": [
         "English/09/09-006-001.json",
         "English/09/09-006-002.json",
@@ -14,7 +14,14 @@
         "English/09/09-029-009.json",
         "English/11/11-004-007.json",
         "English/19/19-087-003.json",
-        "English/23/23-014-010.json"
+        "English/23/23-014-010.json",
+        "English/24/24-047-001.json",
+        "English/24/24-047-004.json",
+        "English/26/26-025-007.json",
+        "English/26/26-025-008.json",
+        "English/29/29-003-002.json",
+        "English/36/36-002-004.json",
+        "English/36/36-002-005.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

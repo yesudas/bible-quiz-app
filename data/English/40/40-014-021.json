@@ -1,0 +1,38 @@
+{
+  "id": "40-014-021",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 14,
+  "verse_reference": "Matthew 14:31",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words to Peter: \"You of little faith, why did you ______?\"",
+  "options": [
+    "run",
+    "shout",
+    "stop",
+    "doubt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 14:31 says Jesus reached out his hand and caught him. \"You of little faith,\" he said, \"why did you doubt?\""
+}

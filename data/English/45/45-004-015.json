@@ -1,0 +1,34 @@
+{
+  "id": "45-004-015",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 4,
+  "verse_reference": "Romans 4:23-24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Paul, for whom were the words \"it was credited to him\" also written?",
+  "options": [
+    "Only for Abraham",
+    "For us who believe in God who raised Jesus",
+    "Only for the priests",
+    "Only for Abraham's servants"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Abraham",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says these words were written not for Abraham alone but also for us who believe in Him who raised Jesus from the dead."
+}

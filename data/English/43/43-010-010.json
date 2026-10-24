@@ -1,0 +1,40 @@
+{
+  "id": "43-010-010",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 10,
+  "verse_reference": "John 10:23",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where was Jesus walking in the temple courts at the Festival of Dedication?",
+  "options": [
+    "Near the place for offerings",
+    "At the Beautiful Gate",
+    "In Solomon's Colonnade",
+    "At the Pool of Siloam"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Solomon's Colonnade",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 10:23 says Jesus was in the temple courts walking in Solomon's Colonnade."
+}

@@ -1,0 +1,17 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Elizabeth",
+    "label": "Elizabeth",
+    "count": 7,
+    "paths": [
+        "English/42/42-001-004.json",
+        "English/42/42-001-005.json",
+        "English/42/42-001-007.json",
+        "English/42/42-001-014.json",
+        "English/42/42-001-020.json",
+        "English/42/42-001-023.json",
+        "English/42/42-001-024.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

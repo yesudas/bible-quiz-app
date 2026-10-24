@@ -1,0 +1,38 @@
+{
+  "id": "64-001-006",
+  "language": "en",
+  "book_no": 64,
+  "book": "3 John",
+  "chapter": 1,
+  "verse_reference": "3 John 1:10",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Diotrephes do to those in the church who wanted to welcome the traveling believers?",
+  "options": [
+    "He sent them on a mission",
+    "He made them elders",
+    "He wrote letters praising them",
+    "He put them out of the church"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Church",
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Diotrephes"
+  ],
+  "places": [
+    {
+      "name": "The church",
+      "type": "church"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Diotrephes refused to welcome the believers himself and also stopped others who wanted to, putting them out of the church."
+}

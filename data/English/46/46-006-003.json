@@ -1,0 +1,30 @@
+{
+  "id": "46-006-003",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 6,
+  "verse_reference": "1 Corinthians 6:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Paul said that believers will even judge whom?",
+  "options": [
+    "Kings",
+    "Priests",
+    "Angels",
+    "Prophets"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Angels"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote, \"Do you not know that we will judge angels?\" so surely they could judge ordinary matters."
+}

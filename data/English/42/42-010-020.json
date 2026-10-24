@@ -1,0 +1,33 @@
+{
+  "id": "42-010-020",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:36-37",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "After the parable, what did Jesus tell the expert in the law to do?",
+  "options": [
+    "Go and offer a sacrifice",
+    "Go and read the law again",
+    "Go and give away everything",
+    "Go and do likewise"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Obedience"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The expert said the neighbor was the one who had mercy on him. Jesus told him, 'Go and do likewise.'"
+}

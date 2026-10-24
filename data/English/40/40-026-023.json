@@ -1,0 +1,37 @@
+{
+  "id": "40-026-023",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:51",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did one of Jesus' companions cut off with his sword?",
+  "options": [
+    "The hand of a soldier",
+    "The ear of the high priest's servant",
+    "The rope binding Jesus",
+    "The cloak of Judas"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Gethsemane",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:51 says one of Jesus' companions drew his sword and struck the servant of the high priest, cutting off his ear."
+}

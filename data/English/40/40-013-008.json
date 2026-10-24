@@ -1,0 +1,32 @@
+{
+  "id": "40-013-008",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 13,
+  "verse_reference": "Matthew 13:19",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "In Jesus' explanation, who snatches away the message sown along the path?",
+  "options": [
+    "The birds of the field",
+    "The Pharisees",
+    "The evil one",
+    "The farmer's enemy"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 13:19 says when anyone hears the message and does not understand it, the evil one comes and snatches away what was sown in their heart."
+}

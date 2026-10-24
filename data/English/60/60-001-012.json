@@ -1,0 +1,31 @@
+{
+  "id": "60-001-012",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 1,
+  "verse_reference": "1 Peter 1:22",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How does Peter tell believers to love one another?",
+  "options": [
+    "Only with words",
+    "Deeply, from the heart",
+    "Only when it is easy",
+    "Only their own family"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Church"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter tells them to love one another deeply, from the heart."
+}

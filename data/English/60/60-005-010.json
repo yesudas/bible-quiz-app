@@ -1,0 +1,38 @@
+{
+  "id": "60-005-010",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 5,
+  "verse_reference": "1 Peter 5:13",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Peter sends greetings from whom, whom he calls his son?",
+  "options": [
+    "John",
+    "Timothy",
+    "Mark",
+    "Titus"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Church"
+  ],
+  "characters": [
+    "Peter",
+    "Mark"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter sends greetings from the church in Babylon and from Mark, his son."
+}

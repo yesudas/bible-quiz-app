@@ -1,0 +1,34 @@
+{
+  "id": "42-015-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 15,
+  "verse_reference": "Luke 15:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What does the shepherd do when he finds the lost sheep?",
+  "options": [
+    "He scolds it",
+    "He sells it",
+    "He ties it to a tree",
+    "He joyfully puts it on his shoulders"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Joy",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When he finds it, he joyfully puts it on his shoulders and goes home."
+}

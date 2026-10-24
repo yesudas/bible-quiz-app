@@ -1,0 +1,41 @@
+{
+  "id": "40-002-001",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 2,
+  "verse_reference": "Matthew 2:1",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "In which town was Jesus born?",
+  "options": [
+    "Nazareth",
+    "Bethlehem",
+    "Jerusalem",
+    "Capernaum"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    },
+    {
+      "name": "Judea",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 2:1 says Jesus was born in Bethlehem in Judea."
+}

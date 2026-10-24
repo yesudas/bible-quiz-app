@@ -1,0 +1,38 @@
+{
+  "id": "41-009-015",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 9,
+  "verse_reference": "Mark 9:35",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: \"Anyone who wants to be first must be the very last, and the ____ of all.\"",
+  "options": [
+    "servant",
+    "friend",
+    "leader",
+    "teacher"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "House in Capernaum",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sitting down, Jesus called the twelve and said, \"Anyone who wants to be first must be the very last, and the servant of all.\""
+}

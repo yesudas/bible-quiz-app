@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "House-of-the-high-priest",
+    "label": "House of the high priest",
+    "count": 2,
+    "paths": [
+        "English/42/42-022-019.json",
+        "English/42/42-022-022.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

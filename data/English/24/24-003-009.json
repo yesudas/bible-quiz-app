@@ -1,0 +1,31 @@
+{
+  "id": "24-003-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 3,
+  "verse_reference": "Jeremiah 3:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What kind of shepherds did God promise to give His people?",
+  "options": [
+    "Shepherds after His own heart",
+    "Shepherds from a foreign land",
+    "Shepherds with great riches",
+    "Shepherds from the family of Saul"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised shepherds after His own heart, who would lead them with knowledge and understanding."
+}

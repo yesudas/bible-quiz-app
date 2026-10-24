@@ -1,0 +1,38 @@
+{
+  "id": "41-001-012",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 1,
+  "verse_reference": "Mark 1:14-15",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When did Jesus go into Galilee proclaiming the good news of God?",
+  "options": [
+    "After John was put in prison",
+    "Before John began baptizing",
+    "After Jesus fed the five thousand",
+    "After the Passover in Jerusalem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingdom of God",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After John was put in prison, Jesus went into Galilee, proclaiming the good news of God."
+}

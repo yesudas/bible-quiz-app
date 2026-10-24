@@ -1,0 +1,32 @@
+{
+  "id": "26-002-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 2,
+  "verse_reference": "Ezekiel 2:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What name did God use when He spoke to Ezekiel?",
+  "options": [
+    "Son of David",
+    "Son of man",
+    "Servant of the LORD",
+    "Man of God"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said to Ezekiel, 'Son of man, stand up on your feet and I will speak to you.'"
+}

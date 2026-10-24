@@ -1,0 +1,39 @@
+{
+  "id": "43-006-003",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 6,
+  "verse_reference": "John 6:5-6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which disciple did Jesus ask, \"Where shall we buy bread for these people to eat?\"",
+  "options": [
+    "Peter",
+    "Andrew",
+    "Philip",
+    "Thomas"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "Philip"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 6:5, Jesus said to Philip, \"Where shall we buy bread for these people to eat?\" He asked only to test him."
+}

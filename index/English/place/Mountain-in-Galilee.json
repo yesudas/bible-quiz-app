@@ -1,0 +1,17 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Mountain-in-Galilee",
+    "label": "Mountain in Galilee",
+    "count": 7,
+    "paths": [
+        "English/40/40-028-012.json",
+        "English/40/40-028-013.json",
+        "English/40/40-028-014.json",
+        "English/40/40-028-015.json",
+        "English/40/40-028-016.json",
+        "English/40/40-028-017.json",
+        "English/40/40-028-018.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

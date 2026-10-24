@@ -1,0 +1,39 @@
+{
+  "id": "25-004-007",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 4,
+  "verse_reference": "Lamentations 4:21-22",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "In Lamentations 4:21-22, which people, called a daughter, will also be made to drink the cup of punishment?",
+  "options": [
+    "Daughter Edom",
+    "Daughter Babylon",
+    "Daughter Egypt",
+    "Daughter Moab"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    },
+    {
+      "name": "Uz",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daughter Edom, living in Uz, is told to rejoice now, because the cup will pass to her too and her sin will be exposed."
+}

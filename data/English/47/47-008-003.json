@@ -1,0 +1,38 @@
+{
+  "id": "47-008-003",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 8,
+  "verse_reference": "2 Corinthians 8:3-4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Macedonians urgently plead with Paul for?",
+  "options": [
+    "The privilege of sharing in the service to the Lord's people",
+    "A visit from Paul",
+    "Money to help their own church",
+    "Permission to stop giving"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Church",
+    "Love"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Macedonia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Entirely on their own, they gave beyond their ability and urgently pleaded for the privilege of sharing in this service to the Lord's people."
+}

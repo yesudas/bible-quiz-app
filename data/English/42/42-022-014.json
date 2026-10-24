@@ -1,0 +1,38 @@
+{
+  "id": "42-022-014",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 22,
+  "verse_reference": "Luke 22:42",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' prayer: 'Father, if you are willing, take this cup from me; yet not my will, but ____ be done.'",
+  "options": [
+    "theirs",
+    "ours",
+    "God's",
+    "yours"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Obedience"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mount of Olives",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus prayed, 'Father, if you are willing, take this cup from me; yet not my will, but yours be done.'"
+}

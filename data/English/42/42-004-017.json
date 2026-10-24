@@ -1,0 +1,37 @@
+{
+  "id": "42-004-017",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 4,
+  "verse_reference": "Luke 4:28-29",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the people in the synagogue try to do to Jesus when they became furious?",
+  "options": [
+    "Stone him in the street",
+    "Throw him off a cliff",
+    "Send him to Herod",
+    "Lock him in prison"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Nazareth",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They drove him out of town and took him to the brow of the hill to throw him off the cliff."
+}

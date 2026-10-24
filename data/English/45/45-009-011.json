@@ -1,0 +1,32 @@
+{
+  "id": "45-009-011",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 9,
+  "verse_reference": "Romans 9:25",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which prophet does Paul quote: \"I will call them 'my people' who are not my people\"?",
+  "options": [
+    "Isaiah",
+    "Hosea",
+    "Jeremiah",
+    "Joel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Salvation"
+  ],
+  "characters": [
+    "Hosea"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quotes Hosea to show that God calls people who were not His people to be His people."
+}

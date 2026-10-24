@@ -1,0 +1,37 @@
+{
+  "id": "32-004-002",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 4,
+  "verse_reference": "Jonah 4:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jonah say he had first run away to Tarshish?",
+  "options": [
+    "He was afraid of the Ninevites",
+    "He knew God was gracious and would relent from sending calamity",
+    "He wanted to visit his family",
+    "The ship was already leaving"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mercy",
+    "Disobedience"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [
+    {
+      "name": "Tarshish",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonah said he fled because he knew God is gracious and compassionate, slow to anger and abounding in love, a God who relents from sending calamity."
+}

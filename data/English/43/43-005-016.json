@@ -1,0 +1,33 @@
+{
+  "id": "43-005-016",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 5,
+  "verse_reference": "John 5:45-46",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Jesus said one person the Jewish leaders had set their hopes on would accuse them, because he wrote about Jesus. Who?",
+  "options": [
+    "Moses",
+    "Abraham",
+    "David",
+    "Elijah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 5:45-46, Jesus said Moses would accuse them, for if they believed Moses, they would believe him, because Moses wrote about him."
+}

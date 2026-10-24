@@ -1,0 +1,33 @@
+{
+  "id": "54-004-008",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 4,
+  "verse_reference": "1 Timothy 4:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Until Paul came, what did he tell Timothy to devote himself to?",
+  "options": [
+    "Building a church house",
+    "The public reading of Scripture, preaching and teaching",
+    "Traveling to Rome",
+    "Collecting gifts for Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Leadership"
+  ],
+  "characters": [
+    "Paul",
+    "Timothy"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul told Timothy to devote himself to the public reading of Scripture, to preaching and to teaching."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "43-011-017",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 11,
+  "verse_reference": "John 11:49-50",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which high priest said it was better for one man to die for the people than for the whole nation to perish?",
+  "options": [
+    "Annas",
+    "Caiaphas",
+    "Eli",
+    "Zechariah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Caiaphas",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 11:49-50, Caiaphas, who was high priest that year, said it was better for one man to die for the people than for the whole nation to perish."
+}

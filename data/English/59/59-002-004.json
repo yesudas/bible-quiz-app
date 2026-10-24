@@ -1,0 +1,30 @@
+{
+  "id": "59-002-004",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 2,
+  "verse_reference": "James 2:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What does James say about a person who keeps the whole law but stumbles at just one point?",
+  "options": [
+    "He is still righteous",
+    "He only breaks that one command",
+    "He must offer a sacrifice",
+    "He is guilty of breaking all of it"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James teaches that whoever stumbles at just one point is guilty of breaking all of the law."
+}

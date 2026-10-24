@@ -1,0 +1,38 @@
+{
+  "id": "50-003-011",
+  "language": "en",
+  "book_no": 50,
+  "book": "Philippians",
+  "chapter": 3,
+  "verse_reference": "Philippians 3:20",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did Paul say the citizenship of believers is?",
+  "options": [
+    "in Rome",
+    "in Jerusalem",
+    "in heaven",
+    "in Philippi"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said our citizenship is in heaven, and we eagerly await a Savior from there."
+}

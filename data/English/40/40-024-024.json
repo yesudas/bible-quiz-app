@@ -1,0 +1,32 @@
+{
+  "id": "40-024-024",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 24,
+  "verse_reference": "Matthew 24:43-44",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Jesus said the Son of Man will come like a thief. When will he come?",
+  "options": [
+    "At midnight on the Sabbath",
+    "At the next Passover",
+    "At an hour when you do not expect him",
+    "At dawn on the first day"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 24:44 says, \"So you also must be ready, because the Son of Man will come at an hour when you do not expect him.\""
+}

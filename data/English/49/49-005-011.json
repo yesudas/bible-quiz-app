@@ -1,0 +1,32 @@
+{
+  "id": "49-005-011",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 5,
+  "verse_reference": "Ephesians 5:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Out of reverence for Christ, what should believers do to one another?",
+  "options": [
+    "Judge one another",
+    "Submit to one another",
+    "Compete with one another",
+    "Avoid one another"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says to submit to one another out of reverence for Christ."
+}

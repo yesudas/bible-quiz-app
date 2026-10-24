@@ -1,0 +1,32 @@
+{
+  "id": "27-007-003",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 7,
+  "verse_reference": "Daniel 7:4",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "The first beast was like a lion with the wings of what?",
+  "options": [
+    "A dove",
+    "A bat",
+    "A raven",
+    "An eagle"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The first beast was like a lion with the wings of an eagle; its wings were torn off and it stood on two feet like a human being."
+}

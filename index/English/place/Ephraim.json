@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Ephraim",
     "label": "Ephraim",
-    "count": 7,
+    "count": 11,
     "paths": [
         "English/07/07-012-003.json",
         "English/07/07-012-006.json",
@@ -11,7 +11,11 @@
         "English/14/14-025-004.json",
         "English/14/14-030-006.json",
         "English/14/14-031-001.json",
-        "English/23/23-028-001.json"
+        "English/23/23-028-001.json",
+        "English/24/24-031-003.json",
+        "English/26/26-037-010.json",
+        "English/26/26-037-011.json",
+        "English/43/43-011-018.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

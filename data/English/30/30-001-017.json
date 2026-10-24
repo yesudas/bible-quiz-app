@@ -1,0 +1,38 @@
+{
+  "id": "30-001-017",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 1,
+  "verse_reference": "Amos 1:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Ammon rip open the pregnant women of Gilead?",
+  "options": [
+    "To take revenge on Edom",
+    "To extend its borders",
+    "To please its idols",
+    "To scare the king of Aram"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ammon",
+      "type": "country"
+    },
+    {
+      "name": "Gilead",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 1:13 says Ammon did this in order to extend its borders."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Synagogue-leader-s-house",
+    "label": "Synagogue leader's house",
+    "count": 3,
+    "paths": [
+        "English/40/40-009-014.json",
+        "English/40/40-009-017.json",
+        "English/40/40-009-018.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "41-014-007",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 14,
+  "verse_reference": "Mark 14:10-11",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which of the twelve went to the chief priests to betray Jesus?",
+  "options": [
+    "Judas Iscariot",
+    "Peter",
+    "Thomas",
+    "Matthew"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Money"
+  ],
+  "characters": [
+    "Judas Iscariot",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Judas Iscariot, one of the twelve, went to the chief priests to betray Jesus to them. They were delighted and promised to give him money."
+}

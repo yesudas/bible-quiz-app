@@ -1,0 +1,32 @@
+{
+  "id": "43-015-010",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 15,
+  "verse_reference": "John 15:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say about who chose whom?",
+  "options": [
+    "The disciples chose Jesus",
+    "Jesus chose them and appointed them to bear fruit that will last",
+    "The priests chose them",
+    "They chose each other"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship",
+    "Mission"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 15:16, Jesus said, \"You did not choose me, but I chose you and appointed you so that you might go and bear fruit—fruit that will last.\""
+}

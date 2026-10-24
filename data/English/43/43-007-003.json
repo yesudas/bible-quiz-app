@@ -1,0 +1,32 @@
+{
+  "id": "43-007-003",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 7,
+  "verse_reference": "John 7:3-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What does John 7:5 say about Jesus' brothers?",
+  "options": [
+    "They were his first disciples",
+    "They were priests in the temple",
+    "They lived in Bethlehem",
+    "Even they did not believe in him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 7:5 says that even his own brothers did not believe in him."
+}

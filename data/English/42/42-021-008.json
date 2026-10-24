@@ -1,0 +1,33 @@
+{
+  "id": "42-021-008",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 21,
+  "verse_reference": "Luke 21:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus promise to give his followers when they had to defend themselves?",
+  "options": [
+    "Words and wisdom that no adversary could resist",
+    "Swords to defend themselves",
+    "Money for a lawyer",
+    "A way to escape"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Persecution",
+    "Promise"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'I will give you words and wisdom that none of your adversaries will be able to resist or contradict.'"
+}

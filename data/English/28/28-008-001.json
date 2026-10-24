@@ -1,0 +1,30 @@
+{
+  "id": "28-008-001",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 8,
+  "verse_reference": "Hosea 8:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What bird did Hosea say was over the house of the LORD?",
+  "options": [
+    "A vulture",
+    "An eagle",
+    "A hawk",
+    "A raven"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said, 'An eagle is over the house of the LORD because the people have broken my covenant and rebelled against my law.'"
+}

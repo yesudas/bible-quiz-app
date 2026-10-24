@@ -1,0 +1,32 @@
+{
+  "id": "42-012-011",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 12,
+  "verse_reference": "Luke 12:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What is the lesson Jesus gave at the end of the parable of the rich fool?",
+  "options": [
+    "It is the same for whoever stores up things for themselves but is not rich toward God",
+    "Barns should always be small",
+    "Farmers should not grow too much grain",
+    "The rich will always live long"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'This is how it will be with whoever stores up things for themselves but is not rich toward God.'"
+}

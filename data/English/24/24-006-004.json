@@ -1,0 +1,32 @@
+{
+  "id": "24-006-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 6,
+  "verse_reference": "Jeremiah 6:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"'Peace, peace,' they say, when there is no ____.\"",
+  "options": [
+    "hope",
+    "food",
+    "peace",
+    "king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The prophets and priests treated the people's wound as if it were not serious, saying \"Peace, peace\" when there was no peace."
+}

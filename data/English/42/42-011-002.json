@@ -1,0 +1,33 @@
+{
+  "id": "42-011-002",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the prayer Jesus taught: 'Father, hallowed be your ____, your kingdom come.'",
+  "options": [
+    "house",
+    "name",
+    "word",
+    "law"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus taught them to pray, 'Father, hallowed be your name, your kingdom come.'"
+}

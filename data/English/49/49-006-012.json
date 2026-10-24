@@ -1,0 +1,30 @@
+{
+  "id": "49-006-012",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 6,
+  "verse_reference": "Ephesians 6:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What is the helmet in the armor of God?",
+  "options": [
+    "The helmet of salvation",
+    "The helmet of wisdom",
+    "The helmet of glory",
+    "The helmet of strength"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul tells believers to take the helmet of salvation."
+}

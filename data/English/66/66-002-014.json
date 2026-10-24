@@ -1,0 +1,37 @@
+{
+  "id": "66-002-014",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 2,
+  "verse_reference": "Revelation 2:18",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "In the letter to Thyatira, Jesus calls himself the Son of God whose eyes are like blazing fire. What are his feet like?",
+  "options": [
+    "Pillars of marble",
+    "Burnished bronze",
+    "Shining silver",
+    "Flowing water"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Thyatira",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus is described as the Son of God, whose eyes are like blazing fire and whose feet are like burnished bronze."
+}

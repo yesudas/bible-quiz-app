@@ -1,0 +1,38 @@
+{
+  "id": "41-002-014",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 2,
+  "verse_reference": "Mark 2:25-26",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which Old Testament king did Jesus mention who ate the consecrated bread when he and his companions were hungry?",
+  "options": [
+    "Saul",
+    "Solomon",
+    "David",
+    "Hezekiah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Jesus",
+    "David",
+    "Abiathar"
+  ],
+  "places": [
+    {
+      "name": "House of God",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus reminded them how David entered the house of God in the days of Abiathar the high priest and ate the consecrated bread."
+}

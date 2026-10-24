@@ -1,0 +1,35 @@
+{
+  "id": "38-014-009",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 14,
+  "verse_reference": "Zechariah 14:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which festival will the survivors from the nations go up to Jerusalem to celebrate each year?",
+  "options": [
+    "Passover",
+    "The Festival of Weeks",
+    "Purim",
+    "The Festival of Tabernacles"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The survivors will go up year after year to worship the King, the Lord Almighty, and to celebrate the Festival of Tabernacles."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "42-002-004",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 2,
+  "verse_reference": "Luke 2:7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Where did Mary place baby Jesus after he was born?",
+  "options": [
+    "In a basket",
+    "In a cradle",
+    "In a boat",
+    "In a manger"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Mary",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mary wrapped him in cloths and placed him in a manger."
+}

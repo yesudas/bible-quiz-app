@@ -1,0 +1,36 @@
+{
+  "id": "56-001-008",
+  "language": "en",
+  "book_no": 56,
+  "book": "Titus",
+  "chapter": 1,
+  "verse_reference": "Titus 1:10-11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why were the rebellious teachers in Crete teaching things they ought not to teach?",
+  "options": [
+    "For the sake of dishonest gain",
+    "To please the Roman governor",
+    "Because they were afraid",
+    "To build a temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Money",
+    "Church"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Crete",
+      "type": "island"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says these people were upsetting whole households by teaching wrong things for the sake of dishonest gain."
+}

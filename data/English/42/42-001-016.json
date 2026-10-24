@@ -1,0 +1,36 @@
+{
+  "id": "42-001-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:32-33",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Gabriel said God would give Jesus the throne of which ancestor?",
+  "options": [
+    "Abraham",
+    "Moses",
+    "Solomon",
+    "David"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Kingdom of God",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus",
+    "David",
+    "Gabriel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gabriel said the Lord God would give Jesus the throne of his father David, and his kingdom would never end."
+}

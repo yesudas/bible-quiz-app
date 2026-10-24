@@ -1,0 +1,36 @@
+{
+  "id": "42-014-008",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 14,
+  "verse_reference": "Luke 14:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete what a guest said: 'Blessed is the one who will eat at the feast in the ____ of God.'",
+  "options": [
+    "kingdom",
+    "house",
+    "temple",
+    "city"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "House of a prominent Pharisee",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "One of those at the table said, 'Blessed is the one who will eat at the feast in the kingdom of God.'"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "43-008-018",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 8,
+  "verse_reference": "John 8:59",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the people respond when Jesus said, \"Before Abraham was born, I am\"?",
+  "options": [
+    "They worshiped him",
+    "They picked up stones to stone him",
+    "They asked to be baptized",
+    "They went home quietly"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 8:59 says they picked up stones to stone him, but Jesus hid himself, slipping away from the temple grounds."
+}

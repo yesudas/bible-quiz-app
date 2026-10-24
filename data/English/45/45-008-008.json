@@ -1,0 +1,30 @@
+{
+  "id": "45-008-008",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 8,
+  "verse_reference": "Romans 8:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does the Spirit himself testify with our spirit?",
+  "options": [
+    "That we will be rich",
+    "That we are God's children",
+    "That we will never suffer",
+    "That we must keep the law"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Romans 8:16 says the Spirit himself testifies with our spirit that we are God's children."
+}

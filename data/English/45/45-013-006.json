@@ -1,0 +1,31 @@
+{
+  "id": "45-013-006",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 13,
+  "verse_reference": "Romans 13:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Love your ______ as yourself.\"",
+  "options": [
+    "family",
+    "teacher",
+    "king",
+    "neighbor"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says the commandments are summed up in this one command: \"Love your neighbor as yourself.\""
+}

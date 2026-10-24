@@ -1,0 +1,39 @@
+{
+  "id": "34-002-004",
+  "language": "en",
+  "book_no": 34,
+  "book": "Nahum",
+  "chapter": 2,
+  "verse_reference": "Nahum 2:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Nahum 2:6, what happened when the river gates were thrown open?",
+  "options": [
+    "The army ran away",
+    "The palace collapsed",
+    "The king surrendered",
+    "The idols were burned"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    },
+    {
+      "name": "the palace",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nahum 2:6 says the river gates are thrown open and the palace collapses."
+}

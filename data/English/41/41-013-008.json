@@ -1,0 +1,33 @@
+{
+  "id": "41-013-008",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 13,
+  "verse_reference": "Mark 13:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When his followers were arrested, who did Jesus say would be speaking through them?",
+  "options": [
+    "The Holy Spirit",
+    "An angel",
+    "Moses",
+    "Their parents"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holy Spirit",
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said not to worry beforehand about what to say, \"for it is not you speaking, but the Holy Spirit.\""
+}

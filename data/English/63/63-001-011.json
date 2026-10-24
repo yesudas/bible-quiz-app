@@ -1,0 +1,30 @@
+{
+  "id": "63-001-011",
+  "language": "en",
+  "book_no": 63,
+  "book": "2 John",
+  "chapter": 1,
+  "verse_reference": "2 John 1:13",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who sent greetings at the end of 2 John?",
+  "options": [
+    "The children of the lady's sister",
+    "Paul and Silas",
+    "The church in Rome",
+    "Peter and Mark"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Church"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The letter ends: \"The children of your sister, who is chosen by God, send their greetings.\""
+}

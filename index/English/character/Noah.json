@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Noah",
     "label": "Noah",
-    "count": 22,
+    "count": 32,
     "paths": [
         "English/01/01-005-004.json",
         "English/01/01-006-002.json",
@@ -26,7 +26,17 @@
         "English/01/01-009-005.json",
         "English/01/01-010-001.json",
         "English/13/13-001-002.json",
-        "English/23/23-054-004.json"
+        "English/23/23-054-004.json",
+        "English/26/26-014-004.json",
+        "English/26/26-014-005.json",
+        "English/40/40-024-020.json",
+        "English/40/40-024-021.json",
+        "English/42/42-017-017.json",
+        "English/58/58-011-007.json",
+        "English/60/60-003-010.json",
+        "English/60/60-003-011.json",
+        "English/61/61-002-004.json",
+        "English/61/61-002-005.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

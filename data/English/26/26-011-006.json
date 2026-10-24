@@ -1,0 +1,36 @@
+{
+  "id": "26-011-006",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 11,
+  "verse_reference": "Ezekiel 11:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What land did God promise to give back to the scattered people?",
+  "options": [
+    "The land of Egypt",
+    "The land of Israel",
+    "The land of Babylon",
+    "The land of Moab"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would gather them from the nations and give them back the land of Israel."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "48-004-014",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 4,
+  "verse_reference": "Galatians 4:26",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Paul said the Jerusalem that is above is what?",
+  "options": [
+    "Free, and she is our mother",
+    "Destroyed",
+    "Ruled by Rome",
+    "Under the law"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingdom of God",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said the Jerusalem that is above is free, and she is our mother."
+}

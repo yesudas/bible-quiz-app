@@ -1,0 +1,37 @@
+{
+  "id": "26-008-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 8,
+  "verse_reference": "Ezekiel 8:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did God bring Ezekiel to Jerusalem in this vision?",
+  "options": [
+    "On a chariot of fire",
+    "On the back of a living creature",
+    "The Spirit lifted him by his hair between earth and heaven",
+    "An angel carried him on its wings"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit",
+    "Prophecy"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A hand took Ezekiel by the hair of his head, and the Spirit lifted him up between earth and heaven and brought him in visions of God to Jerusalem."
+}

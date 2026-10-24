@@ -1,0 +1,32 @@
+{
+  "id": "54-004-002",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 4,
+  "verse_reference": "1 Timothy 4:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What two things did the false teachers forbid or order people to avoid?",
+  "options": [
+    "Prayer and fasting",
+    "Marriage and certain foods",
+    "Singing and giving",
+    "Reading and preaching"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage",
+    "Law"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They forbid people to marry and order them to abstain from certain foods, which God created to be received with thanksgiving."
+}

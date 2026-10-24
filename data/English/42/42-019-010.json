@@ -1,0 +1,32 @@
+{
+  "id": "42-019-010",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 19,
+  "verse_reference": "Luke 19:16-17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What reward did the servant who earned ten more minas receive?",
+  "options": [
+    "A new house",
+    "Ten more minas",
+    "Charge of ten cities",
+    "A seat at the king's table"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king said, 'Well done, my good servant! Because you have been trustworthy in a very small matter, take charge of ten cities.'"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "33-001-004",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 1,
+  "verse_reference": "Micah 1:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Micah's vision was about which two cities?",
+  "options": [
+    "Samaria and Jerusalem",
+    "Nineveh and Babylon",
+    "Bethel and Dan",
+    "Gath and Ashdod"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Micah"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micah saw a vision concerning Samaria, the capital of Israel, and Jerusalem, the capital of Judah."
+}

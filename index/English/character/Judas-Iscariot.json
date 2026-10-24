@@ -1,0 +1,32 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Judas-Iscariot",
+    "label": "Judas Iscariot",
+    "count": 22,
+    "paths": [
+        "English/40/40-010-004.json",
+        "English/40/40-026-008.json",
+        "English/40/40-026-011.json",
+        "English/40/40-026-022.json",
+        "English/40/40-027-002.json",
+        "English/40/40-027-003.json",
+        "English/40/40-027-004.json",
+        "English/41/41-003-012.json",
+        "English/41/41-014-007.json",
+        "English/41/41-014-010.json",
+        "English/41/41-014-020.json",
+        "English/42/42-006-012.json",
+        "English/42/42-022-002.json",
+        "English/42/42-022-017.json",
+        "English/43/43-006-022.json",
+        "English/43/43-012-004.json",
+        "English/43/43-012-005.json",
+        "English/43/43-013-002.json",
+        "English/43/43-013-010.json",
+        "English/43/43-013-011.json",
+        "English/43/43-013-012.json",
+        "English/43/43-018-002.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

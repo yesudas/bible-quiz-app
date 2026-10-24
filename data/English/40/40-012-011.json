@@ -1,0 +1,32 @@
+{
+  "id": "40-012-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 12,
+  "verse_reference": "Matthew 12:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After Jesus healed the demon-possessed man who was blind and mute, what could he do?",
+  "options": [
+    "Only walk",
+    "Only hear",
+    "Both talk and see",
+    "Read the law"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 12:22 says Jesus healed him, so that he could both talk and see."
+}

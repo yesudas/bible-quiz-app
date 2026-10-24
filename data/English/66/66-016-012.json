@@ -1,0 +1,34 @@
+{
+  "id": "66-016-012",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 16,
+  "verse_reference": "Revelation 16:18-19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Into how many parts did the great city split in the earthquake of the seventh bowl?",
+  "options": [
+    "Two",
+    "Four",
+    "Seven",
+    "Three"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The severe earthquake split the great city into three parts, and God remembered Babylon the Great."
+}

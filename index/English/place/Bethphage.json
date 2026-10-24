@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Bethphage",
+    "label": "Bethphage",
+    "count": 4,
+    "paths": [
+        "English/40/40-021-001.json",
+        "English/40/40-021-002.json",
+        "English/41/41-011-001.json",
+        "English/42/42-019-013.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

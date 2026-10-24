@@ -1,0 +1,39 @@
+{
+  "id": "40-009-007",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 9,
+  "verse_reference": "Matthew 9:10-11",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "The Pharisees asked why Jesus ate with whom?",
+  "options": [
+    "Romans and soldiers",
+    "Priests and Levites",
+    "Tax collectors and sinners",
+    "Samaritans and Greeks"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Love"
+  ],
+  "characters": [
+    "Jesus",
+    "Matthew"
+  ],
+  "places": [
+    {
+      "name": "Matthew's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 9:10-11 says many tax collectors and sinners ate with Jesus, and the Pharisees asked why he did this."
+}

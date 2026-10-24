@@ -1,0 +1,39 @@
+{
+  "id": "53-001-003",
+  "language": "en",
+  "book_no": 53,
+  "book": "2 Thessalonians",
+  "chapter": 1,
+  "verse_reference": "2 Thessalonians 1:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Among God's churches we boast about your ______ and faith in all the persecutions and trials you are enduring.\"",
+  "options": [
+    "humility",
+    "obedience",
+    "perseverance",
+    "generosity"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution",
+    "Suffering",
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Thessalonica",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul boasted to other churches about the Thessalonians' perseverance and faith while they endured persecutions and trials."
+}

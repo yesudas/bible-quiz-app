@@ -1,0 +1,36 @@
+{
+  "id": "42-002-002",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 2,
+  "verse_reference": "Luke 2:2",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was governor of Syria during the first census?",
+  "options": [
+    "Pilate",
+    "Quirinius",
+    "Felix",
+    "Festus"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Quirinius"
+  ],
+  "places": [
+    {
+      "name": "Syria",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Luke says this was the first census that took place while Quirinius was governor of Syria."
+}

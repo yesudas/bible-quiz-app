@@ -1,0 +1,37 @@
+{
+  "id": "42-006-002",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:3-4",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which Old Testament figure did Jesus say ate the consecrated bread?",
+  "options": [
+    "Moses",
+    "David",
+    "Elijah",
+    "Samuel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Jesus",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "House of God",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus reminded the Pharisees that David entered the house of God and ate the consecrated bread when he was hungry."
+}

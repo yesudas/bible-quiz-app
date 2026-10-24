@@ -1,0 +1,32 @@
+{
+  "id": "62-002-001",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 2,
+  "verse_reference": "1 John 2:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "Why did John write to his \"dear children\" in this chapter?",
+  "options": [
+    "So that they will not sin",
+    "So that they will build a temple",
+    "So that they will leave the church",
+    "So that they will keep the Sabbath"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says he writes these things so that his readers will not sin."
+}

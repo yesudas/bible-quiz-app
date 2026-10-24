@@ -1,0 +1,17 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Jairus",
+    "label": "Jairus",
+    "count": 7,
+    "paths": [
+        "English/41/41-005-011.json",
+        "English/41/41-005-017.json",
+        "English/41/41-005-021.json",
+        "English/42/42-008-021.json",
+        "English/42/42-008-022.json",
+        "English/42/42-008-025.json",
+        "English/42/42-008-027.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "66-007-003",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 7,
+  "verse_reference": "Revelation 7:4",
+  "question_type": "DIRECT",
+  "difficulty": "Easy",
+  "question": "How many people from the tribes of Israel were sealed?",
+  "options": [
+    "144,000",
+    "12,000",
+    "70,000",
+    "10,000"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John heard that 144,000 were sealed from all the tribes of Israel."
+}

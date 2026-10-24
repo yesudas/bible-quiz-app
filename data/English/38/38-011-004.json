@@ -1,0 +1,32 @@
+{
+  "id": "38-011-004",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 11,
+  "verse_reference": "Zechariah 11:8",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "How many shepherds did the prophet get rid of in one month?",
+  "options": [
+    "Two",
+    "Three",
+    "Seven",
+    "Twelve"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Judgment"
+  ],
+  "characters": [
+    "Zechariah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He said, 'In one month I got rid of the three shepherds.'"
+}

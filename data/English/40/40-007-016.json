@@ -1,0 +1,33 @@
+{
+  "id": "40-007-016",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 7,
+  "verse_reference": "Matthew 7:25,27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When the rain, streams and wind came, what happened to the house built on sand?",
+  "options": [
+    "It stood firm",
+    "It was washed clean",
+    "It fell with a great crash",
+    "It moved to the rock"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 7:27 says the house on sand fell with a great crash, while the house on the rock did not fall (7:25)."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "30-006-004",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 6,
+  "verse_reference": "Amos 6:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "The idle rich strummed on their harps and improvised on musical instruments like whom?",
+  "options": [
+    "Moses",
+    "Solomon",
+    "Asaph",
+    "David"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 6:5 says they strummed their harps like David and improvised on musical instruments."
+}

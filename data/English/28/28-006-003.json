@@ -1,0 +1,30 @@
+{
+  "id": "28-006-003",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 6,
+  "verse_reference": "Hosea 6:2",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "On which day did Hosea say the LORD would restore His people?",
+  "options": [
+    "The first day",
+    "The seventh day",
+    "The fortieth day",
+    "The third day"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said, 'After two days he will revive us; on the third day he will restore us, that we may live in his presence.'"
+}

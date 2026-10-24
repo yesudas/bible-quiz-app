@@ -1,0 +1,33 @@
+{
+  "id": "50-003-001",
+  "language": "en",
+  "book_no": 50,
+  "book": "Philippians",
+  "chapter": 3,
+  "verse_reference": "Philippians 3:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "At the start of chapter 3, what did Paul tell the believers to do in the Lord?",
+  "options": [
+    "Rejoice",
+    "Fast",
+    "Keep silent",
+    "Build"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Joy",
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said, \"Rejoice in the Lord!\" and was glad to write the same things again."
+}

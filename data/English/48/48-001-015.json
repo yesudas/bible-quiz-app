@@ -1,0 +1,40 @@
+{
+  "id": "48-001-015",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 1,
+  "verse_reference": "Galatians 1:17",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "After going into Arabia, where did Paul return?",
+  "options": [
+    "Tarsus",
+    "Antioch",
+    "Damascus",
+    "Jerusalem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Arabia",
+      "type": "region"
+    },
+    {
+      "name": "Damascus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul went into Arabia and later returned to Damascus."
+}

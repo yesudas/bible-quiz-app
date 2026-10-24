@@ -1,0 +1,35 @@
+{
+  "id": "26-040-008",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 40,
+  "verse_reference": "Ezekiel 40:39-42",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What were the tables in the gateway used for?",
+  "options": [
+    "Slaughtering the burnt offerings, sin offerings and guilt offerings",
+    "Eating the Passover meal",
+    "Counting the temple money",
+    "Writing the law"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the portico of the gateway were tables on which the burnt offerings, sin offerings and guilt offerings were slaughtered."
+}

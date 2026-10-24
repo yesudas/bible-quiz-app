@@ -1,0 +1,38 @@
+{
+  "id": "43-006-011",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 6,
+  "verse_reference": "John 6:16-19",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the disciples see Jesus doing when they were rowing on the lake?",
+  "options": [
+    "Sleeping in the boat",
+    "Walking on the water",
+    "Standing on the shore",
+    "Fishing from another boat"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 6:19 says they saw Jesus approaching the boat, walking on the water, and they were frightened."
+}

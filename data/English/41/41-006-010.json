@@ -1,0 +1,41 @@
+{
+  "id": "41-006-010",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 6,
+  "verse_reference": "Mark 6:17-18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why had Herod put John the Baptist in prison?",
+  "options": [
+    "John refused to pay taxes",
+    "John said it was not lawful for Herod to have his brother's wife",
+    "John led a revolt in the desert",
+    "John cursed the emperor"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage",
+    "Law",
+    "Persecution"
+  ],
+  "characters": [
+    "Herod Antipas",
+    "John the Baptist",
+    "Herodias",
+    "Philip"
+  ],
+  "places": [
+    {
+      "name": "Prison",
+      "type": "prison"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Herod had married Herodias, his brother Philip's wife, and John had been saying, \"It is not lawful for you to have your brother's wife.\""
+}

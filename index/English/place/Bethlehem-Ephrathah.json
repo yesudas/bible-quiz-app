@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Bethlehem-Ephrathah",
+    "label": "Bethlehem Ephrathah",
+    "count": 3,
+    "paths": [
+        "English/33/33-005-001.json",
+        "English/33/33-005-002.json",
+        "English/33/33-005-003.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

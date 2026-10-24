@@ -1,0 +1,32 @@
+{
+  "id": "51-002-006",
+  "language": "en",
+  "book_no": 51,
+  "book": "Colossians",
+  "chapter": 2,
+  "verse_reference": "Colossians 2:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Colossians 2, believers were buried with Christ in what?",
+  "options": [
+    "A tomb",
+    "The sea",
+    "The wilderness",
+    "Baptism"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that believers were buried with Christ in baptism and raised with him through faith in the working of God."
+}

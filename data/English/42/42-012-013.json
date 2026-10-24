@@ -1,0 +1,32 @@
+{
+  "id": "42-012-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 12,
+  "verse_reference": "Luke 12:25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What question did Jesus ask about worrying?",
+  "options": [
+    "Who can stop the rain by worrying?",
+    "Who can grow taller by praying?",
+    "Who of you by worrying can add a single hour to your life?",
+    "Who can feed the birds by worrying?"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked, 'Who of you by worrying can add a single hour to your life?'"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "42-006-011",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:15",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which apostle is called 'the Zealot' in Luke's list?",
+  "options": [
+    "James",
+    "Thaddaeus",
+    "Simon",
+    "Bartholomew"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Simon the Zealot"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Luke's list includes Simon who was called the Zealot."
+}

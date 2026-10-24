@@ -1,0 +1,33 @@
+{
+  "id": "63-001-003",
+  "language": "en",
+  "book_no": 63,
+  "book": "2 John",
+  "chapter": 1,
+  "verse_reference": "2 John 1:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which three blessings does John say will be with his readers from God the Father and Jesus Christ?",
+  "options": [
+    "Faith, hope and love",
+    "Joy, peace and patience",
+    "Wisdom, strength and courage",
+    "Grace, mercy and peace"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In verse 3 John says grace, mercy and peace from God the Father and from Jesus Christ will be with them in truth and love."
+}

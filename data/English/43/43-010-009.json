@@ -1,0 +1,36 @@
+{
+  "id": "43-010-009",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 10,
+  "verse_reference": "John 10:22",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "Which festival was taking place in Jerusalem in John 10:22?",
+  "options": [
+    "Passover",
+    "Festival of Dedication",
+    "Festival of Tabernacles",
+    "Pentecost"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 10:22 says then came the Festival of Dedication at Jerusalem. It was winter."
+}

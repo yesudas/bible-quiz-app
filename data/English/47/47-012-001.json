@@ -1,0 +1,36 @@
+{
+  "id": "47-012-001",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 12,
+  "verse_reference": "2 Corinthians 12:2",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Paul spoke of a man in Christ who was caught up to which heaven?",
+  "options": [
+    "The first heaven",
+    "The seventh heaven",
+    "The second heaven",
+    "The third heaven"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Third heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote about a man in Christ who fourteen years earlier was caught up to the third heaven."
+}

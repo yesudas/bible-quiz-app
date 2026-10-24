@@ -1,0 +1,33 @@
+{
+  "id": "52-005-001",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 5,
+  "verse_reference": "1 Thessalonians 5:2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "Paul said the day of the Lord will come like what?",
+  "options": [
+    "A thief in the night",
+    "A storm at sea",
+    "A king on a horse",
+    "A bird in the morning"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said they knew very well that the day of the Lord will come like a thief in the night, when people do not expect it."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "42-004-006",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 4,
+  "verse_reference": "Luke 4:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' answer: 'Worship the Lord your God and serve him ____.'",
+  "options": [
+    "daily",
+    "always",
+    "only",
+    "faithfully"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Temptation"
+  ],
+  "characters": [
+    "Jesus",
+    "Satan"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus answered, 'It is written: Worship the Lord your God and serve him only.'"
+}

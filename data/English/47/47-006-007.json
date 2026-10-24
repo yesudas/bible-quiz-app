@@ -1,0 +1,37 @@
+{
+  "id": "47-006-007",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 6,
+  "verse_reference": "2 Corinthians 6:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Paul say he had opened wide to the Corinthians?",
+  "options": [
+    "The doors of the church",
+    "His home",
+    "His hearts",
+    "The scriptures"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said he had spoken freely to the Corinthians and opened wide their hearts to them."
+}

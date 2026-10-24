@@ -1,0 +1,31 @@
+{
+  "id": "45-012-014",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 12,
+  "verse_reference": "Romans 12:20",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What does Paul say to do if your enemy is hungry?",
+  "options": [
+    "Ignore him",
+    "Feed him",
+    "Send him away",
+    "Wait for him to ask twice"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Forgiveness"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quotes Scripture: if your enemy is hungry, feed him; if he is thirsty, give him something to drink."
+}

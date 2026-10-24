@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Rachel",
     "label": "Rachel",
-    "count": 21,
+    "count": 25,
     "paths": [
         "English/01/01-029-001.json",
         "English/01/01-029-002.json",
@@ -25,7 +25,11 @@
         "English/01/01-035-008.json",
         "English/01/01-035-009.json",
         "English/01/01-048-004.json",
-        "English/08/08-004-008.json"
+        "English/08/08-004-008.json",
+        "English/24/24-031-007.json",
+        "English/24/24-031-008.json",
+        "English/24/24-031-009.json",
+        "English/40/40-002-016.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

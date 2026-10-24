@@ -1,0 +1,32 @@
+{
+  "id": "42-008-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In the parable of the sower, what happened to the seed that fell along the path?",
+  "options": [
+    "It grew tall",
+    "It was choked by thorns",
+    "It was trampled on, and the birds ate it up",
+    "It withered from heat"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some seed fell along the path; it was trampled on, and the birds ate it up."
+}

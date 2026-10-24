@@ -1,0 +1,30 @@
+{
+  "id": "24-023-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 23,
+  "verse_reference": "Jeremiah 23:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Where did God say the false prophets' visions came from?",
+  "options": [
+    "From the LORD",
+    "From their own minds",
+    "From the angels",
+    "From old books"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"They speak visions from their own minds, not from the mouth of the LORD.\""
+}

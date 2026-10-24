@@ -1,0 +1,33 @@
+{
+  "id": "47-006-010",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 6,
+  "verse_reference": "2 Corinthians 6:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"For we are the ______ of the living God.\"",
+  "options": [
+    "temple",
+    "children",
+    "servants",
+    "army"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church",
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that we are the temple of the living God, and God lives with His people."
+}

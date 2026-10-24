@@ -1,0 +1,39 @@
+{
+  "id": "32-003-010",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 3,
+  "verse_reference": "Jonah 3:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God do when He saw that the people of Nineveh turned from their evil ways?",
+  "options": [
+    "He relented and did not bring the destruction",
+    "He destroyed the city anyway",
+    "He sent Jonah back home",
+    "He gave them another forty days"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Mercy",
+    "Forgiveness",
+    "Repentance"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When God saw what they did and how they turned from their evil ways, He relented and did not bring on them the destruction He had threatened."
+}

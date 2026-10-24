@@ -1,0 +1,33 @@
+{
+  "id": "40-013-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 13,
+  "verse_reference": "Matthew 13:23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Who is like the seed that fell on good soil?",
+  "options": [
+    "Someone who only hears once",
+    "Someone who is very rich",
+    "Someone who works in the fields",
+    "Someone who hears the word and understands it"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 13:23 says the seed on good soil refers to someone who hears the word and understands it, and produces a crop."
+}

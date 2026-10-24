@@ -1,0 +1,33 @@
+{
+  "id": "33-003-005",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 3,
+  "verse_reference": "Micah 3:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"But as for me, I am filled with power, with the ______ of the LORD, and with justice and might.\"",
+  "options": [
+    "word",
+    "Spirit",
+    "glory",
+    "fear"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Prophecy"
+  ],
+  "characters": [
+    "Micah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Unlike the false prophets, Micah was filled with power by the Spirit of the LORD."
+}

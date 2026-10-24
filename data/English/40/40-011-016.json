@@ -1,0 +1,32 @@
+{
+  "id": "40-011-016",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 11,
+  "verse_reference": "Matthew 11:27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Jesus said no one knows the Father except whom?",
+  "options": [
+    "The priests and prophets",
+    "The angels only",
+    "Anyone who reads the law",
+    "The Son and those to whom the Son chooses to reveal him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 11:27 says no one knows the Father except the Son and those to whom the Son chooses to reveal him."
+}

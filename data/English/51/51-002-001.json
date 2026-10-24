@@ -1,0 +1,41 @@
+{
+  "id": "51-002-001",
+  "language": "en",
+  "book_no": 51,
+  "book": "Colossians",
+  "chapter": 2,
+  "verse_reference": "Colossians 2:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Besides the Colossians, believers in which city did Paul say he was struggling for?",
+  "options": [
+    "Ephesus",
+    "Laodicea",
+    "Antioch",
+    "Thessalonica"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Prayer"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Laodicea",
+      "type": "city"
+    },
+    {
+      "name": "Colossae",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said he was contending for the Colossians and for those at Laodicea."
+}

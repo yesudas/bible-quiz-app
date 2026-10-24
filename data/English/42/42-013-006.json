@@ -1,0 +1,38 @@
+{
+  "id": "42-013-006",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 13,
+  "verse_reference": "Luke 13:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How long had the woman in the synagogue been crippled by a spirit?",
+  "options": [
+    "Twelve years",
+    "Thirty-eight years",
+    "Eighteen years",
+    "Seven years"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Synagogue",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A woman was there who had been crippled by a spirit for eighteen years. She was bent over and could not straighten up."
+}

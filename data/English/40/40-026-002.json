@@ -1,0 +1,38 @@
+{
+  "id": "40-026-002",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "What was the name of the high priest in whose palace the chief priests and elders schemed against Jesus?",
+  "options": [
+    "Annas",
+    "Eli",
+    "Caiaphas",
+    "Zadok"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus",
+    "Caiaphas"
+  ],
+  "places": [
+    {
+      "name": "Palace of the high priest",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:3 says the chief priests and the elders assembled in the palace of the high priest, whose name was Caiaphas."
+}

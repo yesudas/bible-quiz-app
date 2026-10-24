@@ -1,0 +1,38 @@
+{
+  "id": "30-004-008",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 4,
+  "verse_reference": "Amos 4:11",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "God said He overthrew some of Israel as He overthrew which cities?",
+  "options": [
+    "Jericho and Ai",
+    "Nineveh and Babylon",
+    "Tyre and Sidon",
+    "Sodom and Gomorrah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sodom",
+      "type": "city"
+    },
+    {
+      "name": "Gomorrah",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God says He overthrew some of them as He overthrew Sodom and Gomorrah."
+}

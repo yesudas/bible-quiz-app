@@ -1,0 +1,37 @@
+{
+  "id": "44-010-006",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 10,
+  "verse_reference": "Acts 10:11-12",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Peter see let down from heaven in his vision?",
+  "options": [
+    "A golden ladder",
+    "A scroll with writing",
+    "Something like a large sheet with all kinds of animals",
+    "A chariot of fire"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Joppa",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He saw something like a large sheet let down to earth, containing all kinds of four-footed animals, reptiles and birds."
+}

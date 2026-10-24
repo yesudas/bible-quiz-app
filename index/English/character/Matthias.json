@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Matthias",
+    "label": "Matthias",
+    "count": 3,
+    "paths": [
+        "English/44/44-001-022.json",
+        "English/44/44-001-023.json",
+        "English/44/44-001-024.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "44-004-007",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 4,
+  "verse_reference": "Acts 4:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"Salvation is found in no one else, for there is no other ______ under heaven given to mankind by which we must be saved.\"",
+  "options": [
+    "way",
+    "king",
+    "name",
+    "law"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter declared that there is no other name under heaven by which we must be saved."
+}

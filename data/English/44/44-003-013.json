@@ -1,0 +1,33 @@
+{
+  "id": "44-003-013",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 3,
+  "verse_reference": "Acts 3:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"Repent, then, and turn to God, so that your sins may be ______ out.\"",
+  "options": [
+    "wiped",
+    "washed",
+    "cast",
+    "taken"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Repentance",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter called them to repent so that their sins may be wiped out and times of refreshing may come."
+}

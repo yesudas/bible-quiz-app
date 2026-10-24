@@ -1,0 +1,38 @@
+{
+  "id": "42-011-023",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:43",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus say the Pharisees loved in the synagogues?",
+  "options": [
+    "The scrolls of the law",
+    "The singing of psalms",
+    "The most important seats",
+    "The offering boxes"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Humility",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus",
+    "Pharisees"
+  ],
+  "places": [
+    {
+      "name": "Synagogue",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Woe to you Pharisees, because you love the most important seats in the synagogues and respectful greetings in the marketplaces.'"
+}

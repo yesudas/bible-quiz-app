@@ -1,0 +1,37 @@
+{
+  "id": "27-002-006",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 2,
+  "verse_reference": "Daniel 2:14",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was the commander of the king's guard sent to put the wise men to death?",
+  "options": [
+    "Ashpenaz",
+    "Belteshazzar",
+    "Arioch",
+    "Nebuzaradan"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Arioch",
+    "Daniel"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Arioch, the commander of the king's guard, had gone out to put the wise men to death, and Daniel spoke to him with wisdom and tact."
+}

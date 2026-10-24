@@ -1,0 +1,39 @@
+{
+  "id": "34-003-003",
+  "language": "en",
+  "book_no": 34,
+  "book": "Nahum",
+  "chapter": 3,
+  "verse_reference": "Nahum 3:8",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which city did Nahum ask Nineveh, \"Are you better than ...?\"",
+  "options": [
+    "Babylon",
+    "Damascus",
+    "Thebes",
+    "Samaria"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    },
+    {
+      "name": "Thebes",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nahum 3:8 asks if Nineveh is better than Thebes, a city on the Nile that still fell."
+}

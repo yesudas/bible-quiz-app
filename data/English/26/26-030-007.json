@@ -1,0 +1,38 @@
+{
+  "id": "26-030-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 30,
+  "verse_reference": "Ezekiel 30:18",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In which city did God say the day would be dark when He broke Egypt's yoke?",
+  "options": [
+    "Memphis",
+    "Thebes",
+    "Tahpanhes",
+    "Aswan"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tahpanhes",
+      "type": "city"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'Dark will be the day at Tahpanhes when I break the yoke of Egypt.'"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "26-022-008",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 22,
+  "verse_reference": "Ezekiel 22:27",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What animals did God compare Jerusalem's officials to?",
+  "options": [
+    "Wolves tearing their prey",
+    "Lions in a den",
+    "Snakes in the grass",
+    "Foxes in the field"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Her officials within her were like wolves tearing their prey; they shed blood and killed people to make unjust gain."
+}

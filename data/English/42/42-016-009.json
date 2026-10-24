@@ -1,0 +1,33 @@
+{
+  "id": "42-016-009",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 16,
+  "verse_reference": "Luke 16:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say about what people value highly?",
+  "options": [
+    "It pleases God",
+    "It is detestable in God's sight",
+    "It lasts forever",
+    "It should be shared"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus",
+    "Pharisees"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'God knows your hearts. What people value highly is detestable in God's sight.'"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "44-016-003",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 16,
+  "verse_reference": "Acts 16:6-7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Where did the Spirit not allow Paul and his companions to go or preach?",
+  "options": [
+    "Macedonia and Achaia",
+    "Galatia and Phrygia",
+    "The province of Asia and Bithynia",
+    "Cyprus and Crete"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit",
+    "Mission"
+  ],
+  "characters": [
+    "Paul",
+    "Silas",
+    "Timothy"
+  ],
+  "places": [
+    {
+      "name": "Asia",
+      "type": "region"
+    },
+    {
+      "name": "Bithynia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They were kept by the Holy Spirit from preaching in Asia, and the Spirit of Jesus would not allow them to enter Bithynia."
+}

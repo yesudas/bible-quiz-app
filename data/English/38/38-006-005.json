@@ -1,0 +1,34 @@
+{
+  "id": "38-006-005",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 6,
+  "verse_reference": "Zechariah 6:6",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Toward which country did the chariot with the black horses go?",
+  "options": [
+    "The north country",
+    "The south",
+    "The east",
+    "Egypt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "North country",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The chariot with the black horses went toward the north country."
+}

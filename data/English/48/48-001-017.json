@@ -1,0 +1,37 @@
+{
+  "id": "48-001-017",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 1,
+  "verse_reference": "Galatians 1:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How long did Paul stay with Cephas in Jerusalem?",
+  "options": [
+    "Three days",
+    "Fifteen days",
+    "Forty days",
+    "One year"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Paul",
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul stayed with Cephas for fifteen days."
+}

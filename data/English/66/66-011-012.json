@@ -1,0 +1,39 @@
+{
+  "id": "66-011-012",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 11,
+  "verse_reference": "Revelation 11:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"The kingdom of the world has become the kingdom of our Lord and of his ____, and he will reign for ever and ever.\"",
+  "options": [
+    "Messiah",
+    "people",
+    "angels",
+    "prophets"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingdom of God",
+    "Jesus",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the seventh angel sounded his trumpet, loud voices in heaven said, \"The kingdom of the world has become the kingdom of our Lord and of his Messiah.\""
+}

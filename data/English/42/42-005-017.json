@@ -1,0 +1,34 @@
+{
+  "id": "42-005-017",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jesus heal the paralyzed man in front of the Pharisees?",
+  "options": [
+    "So they would know the Son of Man has authority on earth to forgive sins",
+    "To show the Law of Moses was wrong",
+    "Because they asked him for a sign",
+    "To prove the man's friends were right"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Forgiveness",
+    "Miracles",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Pharisees"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'I want you to know that the Son of Man has authority on earth to forgive sins,' and then he healed the man."
+}

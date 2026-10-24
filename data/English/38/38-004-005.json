@@ -1,0 +1,33 @@
+{
+  "id": "38-004-005",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 4,
+  "verse_reference": "Zechariah 4:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"'Not by might nor by power, but by my _____,' says the Lord Almighty.\"",
+  "options": [
+    "Spirit",
+    "word",
+    "hand",
+    "name"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holy Spirit",
+    "Faith"
+  ],
+  "characters": [
+    "Zerubbabel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "This was God's word to Zerubbabel: the work would be done by God's Spirit, not by human might or power."
+}

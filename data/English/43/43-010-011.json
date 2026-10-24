@@ -1,0 +1,41 @@
+{
+  "id": "43-010-011",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 10,
+  "verse_reference": "John 10:27-28",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: \"My sheep listen to my voice; I know them, and they ___ me.\"",
+  "options": [
+    "fear",
+    "love",
+    "serve",
+    "follow"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Solomon's Colonnade",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 10:27, Jesus said, \"My sheep listen to my voice; I know them, and they follow me.\""
+}

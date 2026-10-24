@@ -1,0 +1,37 @@
+{
+  "id": "27-012-006",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 12,
+  "verse_reference": "Daniel 12:5-6",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where was the man clothed in linen standing when he was asked how long it would be?",
+  "options": [
+    "On a high mountain",
+    "In the temple",
+    "Above the waters of the river",
+    "At the gate of the city"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Angels",
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [
+    {
+      "name": "River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daniel saw two others on either bank of the river, and one asked the man clothed in linen, who was above the waters, how long it would be."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "66-022-007",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 22,
+  "verse_reference": "Revelation 22:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Look, I am coming soon! Blessed is the one who ____ the words of the prophecy written in this scroll.\"",
+  "options": [
+    "reads",
+    "hears",
+    "writes",
+    "keeps"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Hope",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"Look, I am coming soon! Blessed is the one who keeps the words of the prophecy written in this scroll.\""
+}

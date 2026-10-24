@@ -1,0 +1,40 @@
+{
+  "id": "30-003-001",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 3,
+  "verse_reference": "Amos 3:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "God said He had chosen Israel out of all the families of the earth. What did He say would follow from this?",
+  "options": [
+    "He would make them rich",
+    "He would punish them for all their sins",
+    "He would never judge them",
+    "He would give them a king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Amos 3:2 God says that because He chose only Israel, He will punish them for all their sins."
+}

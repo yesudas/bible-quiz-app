@@ -1,0 +1,38 @@
+{
+  "id": "42-017-009",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 17,
+  "verse_reference": "Luke 17:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete what the men with leprosy called out: 'Jesus, Master, have ____ on us!'",
+  "options": [
+    "mercy",
+    "pity",
+    "grace",
+    "peace"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Village",
+      "type": "village"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They stood at a distance and called out in a loud voice, 'Jesus, Master, have pity on us!'"
+}

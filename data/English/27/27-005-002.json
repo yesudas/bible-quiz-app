@@ -1,0 +1,43 @@
+{
+  "id": "27-005-002",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 5,
+  "verse_reference": "Daniel 5:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Belshazzar order to be brought to his banquet?",
+  "options": [
+    "The crown of Judah",
+    "Musical instruments from Egypt",
+    "The gold and silver goblets taken from the temple in Jerusalem",
+    "The image of gold"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Belshazzar",
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Temple in Jerusalem",
+      "type": "temple"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Belshazzar ordered the gold and silver goblets that Nebuchadnezzar had taken from the temple in Jerusalem to be brought so they could drink from them."
+}

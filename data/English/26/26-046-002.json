@@ -1,0 +1,35 @@
+{
+  "id": "26-046-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 46,
+  "verse_reference": "Ezekiel 46:2",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where was the prince to worship when he came through the east gate?",
+  "options": [
+    "At the altar inside",
+    "In the Most Holy Place",
+    "At the threshold of the gateway",
+    "In the outer court"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The prince was to stand by the gatepost while the priests sacrificed his offerings, and he was to worship at the threshold of the gateway."
+}

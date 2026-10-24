@@ -1,0 +1,39 @@
+{
+  "id": "26-031-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 31,
+  "verse_reference": "Ezekiel 31:3",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "In Ezekiel 31, Assyria was once compared to what kind of tree?",
+  "options": [
+    "An oak in Bashan",
+    "A cedar in Lebanon",
+    "A palm in Jericho",
+    "A fig tree in Judah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    },
+    {
+      "name": "Lebanon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'Consider Assyria, once a cedar in Lebanon, with beautiful branches overshadowing the forest.'"
+}

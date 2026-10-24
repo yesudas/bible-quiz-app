@@ -1,0 +1,37 @@
+{
+  "id": "27-011-014",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 11,
+  "verse_reference": "Daniel 11:45",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How does the chapter say this king would come to his end?",
+  "options": [
+    "Surrounded by his allies",
+    "Ruling over all the earth",
+    "With no one to help him",
+    "Escaping by ship"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [
+    {
+      "name": "Beautiful holy mountain",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He would pitch his royal tents between the seas at the beautiful holy mountain, yet he would come to his end, and no one would help him."
+}

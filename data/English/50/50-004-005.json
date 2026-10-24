@@ -1,0 +1,33 @@
+{
+  "id": "50-004-005",
+  "language": "en",
+  "book_no": 50,
+  "book": "Philippians",
+  "chapter": 4,
+  "verse_reference": "Philippians 4:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Paul, what kinds of things should believers think about?",
+  "options": [
+    "Things that are true, noble, right and pure",
+    "Things that bring money",
+    "Things that others say",
+    "Things that happened in the past"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said to think about whatever is true, noble, right, pure, lovely and admirable."
+}

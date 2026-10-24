@@ -1,0 +1,38 @@
+{
+  "id": "44-017-005",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 17,
+  "verse_reference": "Acts 17:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the accusers say Paul's group was teaching against Caesar's decrees?",
+  "options": [
+    "That taxes should not be paid",
+    "That Rome would fall",
+    "That there is another king, one called Jesus",
+    "That soldiers should desert"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus",
+    "Jason"
+  ],
+  "places": [
+    {
+      "name": "Thessalonica",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They said, 'They are all defying Caesar's decrees, saying that there is another king, one called Jesus.'"
+}

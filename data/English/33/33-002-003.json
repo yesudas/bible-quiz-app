@@ -1,0 +1,30 @@
+{
+  "id": "33-002-003",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 2,
+  "verse_reference": "Micah 2:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the wicked carry out their evil plans at morning's light?",
+  "options": [
+    "Because the king commanded them",
+    "Because the prophets told them to",
+    "Because they were afraid of their enemies",
+    "Because it was in their power to do it"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micah says they carried out their plans because it was in their power to do so."
+}

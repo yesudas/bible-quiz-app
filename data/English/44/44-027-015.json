@@ -1,0 +1,31 @@
+{
+  "id": "44-027-015",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 27,
+  "verse_reference": "Acts 27:30-32",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the soldiers do when sailors tried to escape in the lifeboat?",
+  "options": [
+    "Jumped into it with them",
+    "Cut the ropes and let the lifeboat drift away",
+    "Tied it tighter",
+    "Shot arrows at it"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul warned that unless these men stayed, they could not be saved, so the soldiers cut the ropes that held the lifeboat."
+}

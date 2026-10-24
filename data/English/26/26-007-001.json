@@ -1,0 +1,35 @@
+{
+  "id": "26-007-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 7,
+  "verse_reference": "Ezekiel 7:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"The end! The end has come upon the four ______ of the land!\"",
+  "options": [
+    "corners",
+    "gates",
+    "winds",
+    "tribes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Ezekiel to say to Israel, 'The end! The end has come upon the four corners of the land!'"
+}

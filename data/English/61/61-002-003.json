@@ -1,0 +1,30 @@
+{
+  "id": "61-002-003",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 2,
+  "verse_reference": "2 Peter 2:4",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did God not spare when they sinned, but sent to hell in chains of darkness?",
+  "options": [
+    "The Egyptians",
+    "The Philistines",
+    "Angels",
+    "The people of Babel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Angels",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter says God did not spare the angels who sinned but held them in darkness for judgment."
+}

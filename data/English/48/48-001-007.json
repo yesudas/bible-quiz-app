@@ -1,0 +1,32 @@
+{
+  "id": "48-001-007",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 1,
+  "verse_reference": "Galatians 1:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "\"But even if we or an ______ from heaven should preach a gospel other than the one we preached to you, let them be under God's curse!\"",
+  "options": [
+    "prophet",
+    "elder",
+    "angel",
+    "apostle"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Angels",
+    "Salvation"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said that even if he or an angel from heaven preached a different gospel, they should be under God's curse."
+}

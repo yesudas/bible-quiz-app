@@ -3,7 +3,7 @@
     "language": "English",
     "topic": "Thanksgiving",
     "label": "Thanksgiving",
-    "count": 16,
+    "count": 19,
     "paths": [
         "English/13/13-015-009.json",
         "English/13/13-016-003.json",
@@ -20,7 +20,10 @@
         "English/19/19-030-008.json",
         "English/19/19-034-002.json",
         "English/19/19-040-004.json",
-        "English/19/19-050-006.json"
+        "English/19/19-050-006.json",
+        "English/52/52-005-007.json",
+        "English/52/52-005-008.json",
+        "English/53/53-002-007.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:42+00:00"
 }

@@ -1,0 +1,37 @@
+{
+  "id": "24-012-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 12,
+  "verse_reference": "Jeremiah 12:5",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "God asked Jeremiah how he would manage in the thickets by which river, if he stumbled in safe country?",
+  "options": [
+    "The Nile",
+    "The Euphrates",
+    "The Kishon",
+    "The Jordan"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Faith"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God asked, \"If you stumble in safe country, how will you manage in the thickets by the Jordan?\""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "40-018-003",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 18,
+  "verse_reference": "Matthew 18:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"Unless you change and become like little ______, you will never enter the kingdom of heaven.\"",
+  "options": [
+    "lambs",
+    "children",
+    "servants",
+    "birds"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Kingdom of God",
+    "Repentance"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 18:3 says, \"Truly I tell you, unless you change and become like little children, you will never enter the kingdom of heaven.\""
+}

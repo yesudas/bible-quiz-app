@@ -1,0 +1,32 @@
+{
+  "id": "51-004-006",
+  "language": "en",
+  "book_no": 51,
+  "book": "Colossians",
+  "chapter": 4,
+  "verse_reference": "Colossians 4:9",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which faithful and dear brother, who was one of the Colossians, came with Tychicus?",
+  "options": [
+    "Demas",
+    "Onesimus",
+    "Archippus",
+    "Justus"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Onesimus",
+    "Tychicus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Onesimus, described as a faithful and dear brother who was one of them, came with Tychicus."
+}

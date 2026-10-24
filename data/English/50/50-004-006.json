@@ -1,0 +1,32 @@
+{
+  "id": "50-004-006",
+  "language": "en",
+  "book_no": 50,
+  "book": "Philippians",
+  "chapter": 4,
+  "verse_reference": "Philippians 4:11-12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Paul say he had learned in every situation, whether well fed or hungry?",
+  "options": [
+    "To complain",
+    "To be content",
+    "To ask for more",
+    "To give up"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Suffering"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul had learned the secret of being content in any and every situation."
+}

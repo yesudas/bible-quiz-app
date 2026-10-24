@@ -1,0 +1,32 @@
+{
+  "id": "27-001-018",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 1,
+  "verse_reference": "Daniel 1:21",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "Until whose first year as king did Daniel remain there?",
+  "options": [
+    "Darius",
+    "Belshazzar",
+    "Artaxerxes",
+    "Cyrus"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Daniel",
+    "Cyrus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daniel 1:21 says Daniel remained there until the first year of King Cyrus."
+}

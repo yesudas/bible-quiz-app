@@ -1,0 +1,31 @@
+{
+  "id": "45-012-002",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 12,
+  "verse_reference": "Romans 12:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Do not conform to the pattern of this world, but be transformed by the renewing of your ______.\"",
+  "options": [
+    "strength",
+    "mind",
+    "house",
+    "name"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Romans 12:2 says believers should be transformed by the renewing of their mind, not copy the pattern of this world."
+}

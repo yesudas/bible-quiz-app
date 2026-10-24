@@ -1,0 +1,43 @@
+{
+  "id": "40-015-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 15,
+  "verse_reference": "Matthew 15:22",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who cried out to Jesus, \"Lord, Son of David, have mercy on me!\" in the region of Tyre and Sidon?",
+  "options": [
+    "A Samaritan woman",
+    "A Roman centurion",
+    "A Canaanite woman",
+    "A blind beggar"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus",
+    "Canaanite woman"
+  ],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    },
+    {
+      "name": "Sidon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 15:22 says a Canaanite woman from that vicinity came to him, crying out, \"Lord, Son of David, have mercy on me!\""
+}

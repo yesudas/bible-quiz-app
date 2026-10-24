@@ -1,0 +1,38 @@
+{
+  "id": "40-008-004",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 8,
+  "verse_reference": "Matthew 8:5",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who came to Jesus in Capernaum asking for help for his servant?",
+  "options": [
+    "A centurion",
+    "A tax collector",
+    "A synagogue leader",
+    "A Pharisee"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jesus",
+    "Centurion"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 8:5 says when Jesus entered Capernaum, a centurion came to him asking for help."
+}

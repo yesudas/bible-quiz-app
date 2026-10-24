@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Hanamel",
+    "label": "Hanamel",
+    "count": 3,
+    "paths": [
+        "English/24/24-032-003.json",
+        "English/24/24-032-004.json",
+        "English/24/24-032-005.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

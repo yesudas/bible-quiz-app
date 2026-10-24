@@ -1,0 +1,35 @@
+{
+  "id": "66-011-007",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 11,
+  "verse_reference": "Revelation 11:7",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who would attack and kill the two witnesses when they had finished their testimony?",
+  "options": [
+    "The kings of the earth",
+    "A great dragon from the sea",
+    "The false prophets",
+    "The beast that comes up from the Abyss"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Abyss",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they had finished their testimony, the beast that comes up from the Abyss would attack, overpower and kill them."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42-024-012",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 24,
+  "verse_reference": "Luke 24:21",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete what the travelers said: 'But we had hoped that he was the one who was going to ____ Israel.'",
+  "options": [
+    "redeem",
+    "rule",
+    "teach",
+    "judge"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus",
+    "Cleopas"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They said, 'We had hoped that he was the one who was going to redeem Israel.'"
+}

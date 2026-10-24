@@ -1,0 +1,32 @@
+{
+  "id": "43-014-004",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 14,
+  "verse_reference": "John 14:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which disciple said, \"Lord, we don't know where you are going, so how can we know the way?\"",
+  "options": [
+    "Peter",
+    "Philip",
+    "Judas (not Judas Iscariot)",
+    "Thomas"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Thomas",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 14:5, Thomas said to him, \"Lord, we don't know where you are going, so how can we know the way?\""
+}

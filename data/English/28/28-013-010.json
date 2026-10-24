@@ -1,0 +1,29 @@
+{
+  "id": "28-013-010",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 13,
+  "verse_reference": "Hosea 13:15",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What wind from the LORD would come and dry up Ephraim's spring?",
+  "options": [
+    "A north wind",
+    "An east wind",
+    "A south wind",
+    "A west wind"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "An east wind from the LORD would come blowing in from the desert, and his spring would fail and his well dry up."
+}

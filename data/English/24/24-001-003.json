@@ -1,0 +1,38 @@
+{
+  "id": "24-001-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 1,
+  "verse_reference": "Jeremiah 1:2",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "In which year of King Josiah's reign did the word of the LORD first come to Jeremiah?",
+  "options": [
+    "The first year",
+    "The eighth year",
+    "The eighteenth year",
+    "The thirteenth year"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Jeremiah",
+    "Josiah"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The word of the LORD came to Jeremiah in the thirteenth year of the reign of Josiah king of Judah."
+}

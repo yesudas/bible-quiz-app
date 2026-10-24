@@ -1,0 +1,35 @@
+{
+  "id": "24-007-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 7,
+  "verse_reference": "Jeremiah 7:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What deceptive words did God warn the people not to trust in?",
+  "options": [
+    "\"The king will save us\"",
+    "\"Egypt will help us\"",
+    "\"This is the temple of the LORD\"",
+    "\"Our fathers were righteous\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God warned them not to trust in deceptive words, repeating \"This is the temple of the LORD,\" as if the building alone would keep them safe."
+}

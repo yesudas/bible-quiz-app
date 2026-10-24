@@ -1,0 +1,42 @@
+{
+  "id": "43-021-005",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 21,
+  "verse_reference": "John 21:7",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who first said to Peter, \"It is the Lord!\"?",
+  "options": [
+    "The disciple whom Jesus loved",
+    "Thomas",
+    "Nathanael",
+    "Andrew"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "The disciple whom Jesus loved",
+    "Simon Peter",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "sea"
+    },
+    {
+      "name": "Sea of Tiberias",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 21:7 says the disciple whom Jesus loved said to Peter, \"It is the Lord!\""
+}

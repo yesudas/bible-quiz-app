@@ -1,0 +1,32 @@
+{
+  "id": "45-015-001",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 15,
+  "verse_reference": "Romans 15:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Romans 15:1, what should those who are strong do?",
+  "options": [
+    "Bear with the failings of the weak",
+    "Lead the church alone",
+    "Avoid the weak",
+    "Correct the weak in public"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says we who are strong ought to bear with the failings of the weak and not to please ourselves."
+}

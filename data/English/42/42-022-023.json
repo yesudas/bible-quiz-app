@@ -1,0 +1,31 @@
+{
+  "id": "42-022-023",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 22,
+  "verse_reference": "Luke 22:70",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When the council asked, 'Are you then the Son of God?', what did Jesus answer?",
+  "options": [
+    "'You say that I am.'",
+    "'I am only a prophet.'",
+    "'I will not answer you.'",
+    "'Ask my disciples.'"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They all asked, 'Are you then the Son of God?' He replied, 'You say that I am.'"
+}

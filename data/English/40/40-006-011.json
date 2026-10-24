@@ -1,0 +1,32 @@
+{
+  "id": "40-006-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 6,
+  "verse_reference": "Matthew 6:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say would happen if we do not forgive others their sins?",
+  "options": [
+    "God will forgive us anyway",
+    "We will be forgotten",
+    "Our Father will not forgive our sins",
+    "We will lose our money"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Forgiveness",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 6:15 says if you do not forgive others their sins, your Father will not forgive your sins."
+}

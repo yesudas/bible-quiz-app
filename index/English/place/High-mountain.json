@@ -1,0 +1,24 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "High-mountain",
+    "label": "High mountain",
+    "count": 14,
+    "paths": [
+        "English/40/40-017-001.json",
+        "English/40/40-017-002.json",
+        "English/40/40-017-003.json",
+        "English/40/40-017-004.json",
+        "English/40/40-017-005.json",
+        "English/40/40-017-006.json",
+        "English/40/40-017-007.json",
+        "English/40/40-017-008.json",
+        "English/41/41-009-001.json",
+        "English/41/41-009-002.json",
+        "English/41/41-009-003.json",
+        "English/41/41-009-004.json",
+        "English/41/41-009-005.json",
+        "English/41/41-009-006.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

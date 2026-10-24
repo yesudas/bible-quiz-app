@@ -1,0 +1,37 @@
+{
+  "id": "41-008-011",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 8,
+  "verse_reference": "Mark 8:24",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After Jesus first touched the blind man's eyes, what did the man say he saw?",
+  "options": [
+    "People who looked like trees walking around",
+    "A bright light",
+    "Nothing at all",
+    "Angels in the sky"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Bethsaida",
+      "type": "village"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He looked up and said, \"I see people; they look like trees walking around.\""
+}

@@ -1,0 +1,37 @@
+{
+  "id": "40-021-015",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 21,
+  "verse_reference": "Matthew 21:25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What question did Jesus ask the chief priests and elders in return?",
+  "options": [
+    "Whether John's baptism was from heaven or of human origin",
+    "Whether Moses wrote the law",
+    "Who built the temple",
+    "Whether they kept the Sabbath"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus",
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 21:25 says Jesus asked, \"John's baptism—where did it come from? Was it from heaven, or of human origin?\""
+}

@@ -1,0 +1,39 @@
+{
+  "id": "42-022-010",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 22,
+  "verse_reference": "Luke 22:31",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Jesus tell Simon that Satan had asked to do?",
+  "options": [
+    "Take him to Rome",
+    "Make him a king",
+    "Close his mouth",
+    "Sift all of them as wheat"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Satan",
+    "Temptation"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon Peter",
+    "Satan"
+  ],
+  "places": [
+    {
+      "name": "Large upstairs room",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Simon, Simon, Satan has asked to sift all of you as wheat.'"
+}

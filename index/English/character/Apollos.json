@@ -1,0 +1,22 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Apollos",
+    "label": "Apollos",
+    "count": 12,
+    "paths": [
+        "English/44/44-018-015.json",
+        "English/44/44-018-016.json",
+        "English/44/44-018-017.json",
+        "English/44/44-018-018.json",
+        "English/46/46-001-005.json",
+        "English/46/46-003-003.json",
+        "English/46/46-003-004.json",
+        "English/46/46-003-005.json",
+        "English/46/46-004-001.json",
+        "English/46/46-004-005.json",
+        "English/46/46-016-008.json",
+        "English/56/56-003-009.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

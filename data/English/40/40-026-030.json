@@ -1,0 +1,38 @@
+{
+  "id": "40-026-030",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:69",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who first said to Peter in the courtyard, \"You also were with Jesus of Galilee\"?",
+  "options": [
+    "A soldier",
+    "The high priest",
+    "A servant girl",
+    "A fisherman"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Courtyard of the high priest",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:69 says Peter was sitting out in the courtyard, and a servant girl came to him. \"You also were with Jesus of Galilee,\" she said."
+}

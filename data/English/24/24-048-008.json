@@ -1,0 +1,39 @@
+{
+  "id": "24-048-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 48,
+  "verse_reference": "Jeremiah 48:36",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "For the people of which Moabite city did God's heart lament like a pipe?",
+  "options": [
+    "Heshbon",
+    "Kir Hareseth",
+    "Ar",
+    "Bozrah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Love"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Kir Hareseth",
+      "type": "city"
+    },
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"My heart laments for Moab like the music of a pipe; it laments like a pipe for the people of Kir Hareseth.\""
+}

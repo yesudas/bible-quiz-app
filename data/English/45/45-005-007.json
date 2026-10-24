@@ -1,0 +1,33 @@
+{
+  "id": "45-005-007",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 5,
+  "verse_reference": "Romans 5:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Romans 5:10, how were we reconciled to God while we were His enemies?",
+  "options": [
+    "Through keeping the law",
+    "Through offering sacrifices",
+    "Through the death of His Son",
+    "Through praying in the temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Forgiveness",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says that while we were God's enemies, we were reconciled to Him through the death of His Son."
+}

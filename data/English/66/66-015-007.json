@@ -1,0 +1,35 @@
+{
+  "id": "66-015-007",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 15,
+  "verse_reference": "Revelation 15:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were the seven angels who came out of the temple wearing?",
+  "options": [
+    "Robes of purple and red",
+    "Armour of iron",
+    "Sackcloth",
+    "Clean, shining linen with golden sashes"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Angels"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple in heaven",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The seven angels were dressed in clean, shining linen and wore golden sashes around their chests."
+}

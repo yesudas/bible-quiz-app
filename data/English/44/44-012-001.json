@@ -1,0 +1,38 @@
+{
+  "id": "44-012-001",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 12,
+  "verse_reference": "Acts 12:1-2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which apostle did King Herod put to death with the sword?",
+  "options": [
+    "Peter",
+    "Andrew",
+    "Thomas",
+    "James the brother of John"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution",
+    "Suffering"
+  ],
+  "characters": [
+    "Herod",
+    "James"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "King Herod had James, the brother of John, put to death with the sword."
+}

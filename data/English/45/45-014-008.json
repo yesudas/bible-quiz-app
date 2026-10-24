@@ -1,0 +1,30 @@
+{
+  "id": "45-014-008",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 14,
+  "verse_reference": "Romans 14:12",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to Romans 14:12, to whom will each of us give an account of ourselves?",
+  "options": [
+    "Our parents",
+    "The church leaders",
+    "God",
+    "The government"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says each of us will give an account of ourselves to God."
+}

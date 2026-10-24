@@ -1,0 +1,32 @@
+{
+  "id": "45-001-005",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 1,
+  "verse_reference": "Romans 1:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Paul say appointed (declared) Jesus to be the Son of God in power?",
+  "options": [
+    "His baptism in the Jordan",
+    "His miracles in Galilee",
+    "His resurrection from the dead",
+    "His teaching in the temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Romans 1:4 says Jesus was appointed the Son of God in power by His resurrection from the dead."
+}

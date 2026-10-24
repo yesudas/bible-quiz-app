@@ -1,0 +1,41 @@
+{
+  "id": "40-004-015",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 4,
+  "verse_reference": "Matthew 4:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' call: \"Come, follow me, and I will send you out to fish for ______.\"",
+  "options": [
+    "food",
+    "people",
+    "fish",
+    "treasure"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship",
+    "Mission",
+    "Evangelism"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter",
+    "Andrew"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Matthew 4:19 Jesus said, \"Come, follow me, and I will send you out to fish for people.\""
+}

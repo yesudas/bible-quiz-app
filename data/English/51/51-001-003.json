@@ -1,0 +1,31 @@
+{
+  "id": "51-001-003",
+  "language": "en",
+  "book_no": 51,
+  "book": "Colossians",
+  "chapter": 1,
+  "verse_reference": "Colossians 1:4-5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"the faith and love that spring from the ____ stored up for you in heaven.\"",
+  "options": [
+    "joy",
+    "reward",
+    "peace",
+    "hope"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Love",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said their faith and love came from the hope stored up for them in heaven."
+}

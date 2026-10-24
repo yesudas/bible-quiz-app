@@ -1,0 +1,32 @@
+{
+  "id": "45-015-006",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 15,
+  "verse_reference": "Romans 15:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"May the God of ______ fill you with all joy and peace as you trust in him.\"",
+  "options": [
+    "glory",
+    "power",
+    "mercy",
+    "hope"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Holy Spirit",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul prays that the God of hope will fill believers with joy and peace so they overflow with hope by the power of the Holy Spirit."
+}

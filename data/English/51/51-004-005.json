@@ -1,0 +1,33 @@
+{
+  "id": "51-004-005",
+  "language": "en",
+  "book_no": 51,
+  "book": "Colossians",
+  "chapter": 4,
+  "verse_reference": "Colossians 4:7-8",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who did Paul send to tell the Colossians all the news about him?",
+  "options": [
+    "Tychicus",
+    "Titus",
+    "Silas",
+    "Apollos"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church",
+    "Mission"
+  ],
+  "characters": [
+    "Tychicus",
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul sent Tychicus, a dear brother and faithful minister, to tell them his news and encourage their hearts."
+}

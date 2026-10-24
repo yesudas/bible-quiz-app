@@ -1,0 +1,37 @@
+{
+  "id": "24-009-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 9,
+  "verse_reference": "Jeremiah 9:2",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Jeremiah wish he had a lodging place, so he could leave his people?",
+  "options": [
+    "In the mountains",
+    "In the desert",
+    "By the sea",
+    "In Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Suffering"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Desert",
+      "type": "desert"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah wished he had a lodging place for travelers in the desert, so he could leave his people, who were all adulterers and unfaithful."
+}

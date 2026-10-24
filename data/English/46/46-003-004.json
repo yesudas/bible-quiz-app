@@ -1,0 +1,34 @@
+{
+  "id": "46-003-004",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 3,
+  "verse_reference": "1 Corinthians 3:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"I planted the seed, Apollos watered it, but ______ has been making it grow.\"",
+  "options": [
+    "God",
+    "the church",
+    "the Spirit",
+    "Christ"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church",
+    "Mission"
+  ],
+  "characters": [
+    "Paul",
+    "Apollos"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul and Apollos only served; God alone made the church grow."
+}

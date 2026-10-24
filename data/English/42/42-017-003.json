@@ -1,0 +1,32 @@
+{
+  "id": "42-017-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 17,
+  "verse_reference": "Luke 17:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How many times in a day did Jesus say to forgive someone who comes back and says, 'I repent'?",
+  "options": [
+    "Three times",
+    "Twelve times",
+    "Once",
+    "Seven times"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Forgiveness"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Even if they sin against you seven times in a day and seven times come back to you saying I repent, you must forgive them.'"
+}

@@ -1,0 +1,12 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Jeroboam-son-of-Jehoash",
+    "label": "Jeroboam son of Jehoash",
+    "count": 2,
+    "paths": [
+        "English/30/30-001-005.json",
+        "English/30/30-007-009.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

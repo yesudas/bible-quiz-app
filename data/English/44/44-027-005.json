@@ -1,0 +1,40 @@
+{
+  "id": "44-027-005",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 27,
+  "verse_reference": "Acts 27:8",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "At which place on Crete did the ship stop with difficulty?",
+  "options": [
+    "Phoenix",
+    "Cnidus",
+    "Salmone",
+    "Fair Havens"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Crete",
+      "type": "island"
+    },
+    {
+      "name": "Fair Havens",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They moved along the coast with difficulty and came to a place called Fair Havens."
+}

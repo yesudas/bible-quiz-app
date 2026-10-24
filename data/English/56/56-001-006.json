@@ -1,0 +1,32 @@
+{
+  "id": "56-001-006",
+  "language": "en",
+  "book_no": 56,
+  "book": "Titus",
+  "chapter": 1,
+  "verse_reference": "Titus 1:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Paul says an overseer manages whose household?",
+  "options": [
+    "His father's household",
+    "The king's household",
+    "God's household",
+    "Titus's household"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says that since an overseer manages God's household, he must be blameless."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "44-024-016",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 24,
+  "verse_reference": "Acts 24:27",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How long did Paul remain in prison under Felix?",
+  "options": [
+    "Six months",
+    "Two years",
+    "Five years",
+    "Forty days"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Justice"
+  ],
+  "characters": [
+    "Paul",
+    "Felix"
+  ],
+  "places": [
+    {
+      "name": "Caesarea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When two years had passed, Felix was succeeded by Porcius Festus."
+}

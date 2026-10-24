@@ -1,0 +1,32 @@
+{
+  "id": "48-001-012",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 1,
+  "verse_reference": "Galatians 1:15-16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Paul said God set him apart from when?",
+  "options": [
+    "From the day he met Peter",
+    "From the time he reached Damascus",
+    "From his mother's womb",
+    "From his time in Arabia"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said God set him apart from his mother's womb and called him by his grace."
+}

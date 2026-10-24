@@ -1,0 +1,39 @@
+{
+  "id": "26-025-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 25,
+  "verse_reference": "Ezekiel 25:15",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which people acted in vengeance with ancient hostility to destroy Judah?",
+  "options": [
+    "The Assyrians",
+    "The Egyptians",
+    "The Moabites",
+    "The Philistines"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Philistia",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said the Philistines acted in vengeance and took revenge with malice in their hearts, and with ancient hostility sought to destroy Judah."
+}

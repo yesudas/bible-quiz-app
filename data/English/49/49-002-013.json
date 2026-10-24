@@ -1,0 +1,32 @@
+{
+  "id": "49-002-013",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 2,
+  "verse_reference": "Ephesians 2:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Through Christ, by whom do both Jews and Gentiles have access to the Father?",
+  "options": [
+    "By one Spirit",
+    "By the high priest",
+    "By the angels",
+    "By the apostles"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holy Spirit",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Through Christ we both have access to the Father by one Spirit."
+}

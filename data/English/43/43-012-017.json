@@ -1,0 +1,38 @@
+{
+  "id": "43-012-017",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 12,
+  "verse_reference": "John 12:46-47",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to John 12:47, why did Jesus say he came?",
+  "options": [
+    "Not to judge the world, but to save the world",
+    "To judge the world",
+    "To bring a new law",
+    "To build a kingdom on earth"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 12:47, Jesus said, \"I did not come to judge the world, but to save the world.\""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "24-035-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 35,
+  "verse_reference": "Jeremiah 35:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the LORD tell Jeremiah to bring the Rekabites?",
+  "options": [
+    "To a side room of the LORD's house",
+    "To the king's palace",
+    "To the city gate",
+    "To the Valley of Ben Hinnom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, \"Go to the Rekabite family and invite them to come to one of the side rooms of the house of the LORD.\""
+}

@@ -1,0 +1,37 @@
+{
+  "id": "41-006-016",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 6,
+  "verse_reference": "Mark 6:34",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jesus have compassion on the large crowd?",
+  "options": [
+    "They had come a long way",
+    "They were all sick",
+    "They were like sheep without a shepherd",
+    "They had no money"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Solitary place",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Jesus saw the large crowd, he had compassion on them, because they were like sheep without a shepherd. So he began teaching them many things."
+}

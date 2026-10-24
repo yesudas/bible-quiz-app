@@ -1,0 +1,29 @@
+{
+  "id": "29-002-006",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 2,
+  "verse_reference": "Joel 2:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"Rend your ____ and not your garments.\"",
+  "options": [
+    "spirit",
+    "heart",
+    "soul",
+    "life"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Tearing clothes was a sign of grief, but God wanted true sorrow inside—a torn heart, not just torn clothes."
+}

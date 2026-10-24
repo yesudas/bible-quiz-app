@@ -1,0 +1,35 @@
+{
+  "id": "24-052-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 52,
+  "verse_reference": "Jeremiah 52:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the situation in Jerusalem by the ninth day of the fourth month?",
+  "options": [
+    "The people were feasting",
+    "Egypt had arrived to help",
+    "The famine was so severe there was no food for the people",
+    "The wall had been rebuilt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "By the ninth day of the fourth month the famine in the city had become so severe that there was no food for the people to eat."
+}

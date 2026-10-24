@@ -1,0 +1,33 @@
+{
+  "id": "24-045-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 45,
+  "verse_reference": "Jeremiah 45:1",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When did Jeremiah give his message to Baruch in Jeremiah 45?",
+  "options": [
+    "After Jerusalem fell",
+    "In the fourth year of Jehoiakim, after Baruch wrote the scroll",
+    "When they reached Egypt",
+    "In the first year of Zedekiah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Baruch",
+    "Jeremiah",
+    "Jehoiakim"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "This message came in the fourth year of Jehoiakim, after Baruch had written on a scroll the words Jeremiah dictated."
+}

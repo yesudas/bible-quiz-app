@@ -1,0 +1,37 @@
+{
+  "id": "41-013-001",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 13,
+  "verse_reference": "Mark 13:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When a disciple admired the temple's massive stones, what did Jesus say would happen?",
+  "options": [
+    "It would be made even bigger",
+    "It would stand forever",
+    "It would be moved to Galilee",
+    "Not one stone would be left on another"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"Do you see all these great buildings? Not one stone here will be left on another; every one will be thrown down.\""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "42-001-026",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:65",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Throughout which region did people talk about the events of John's birth?",
+  "options": [
+    "The hill country of Judea",
+    "Samaria",
+    "Galilee",
+    "Egypt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wonder"
+  ],
+  "characters": [
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Hill country of Judea",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The neighbors were filled with awe, and throughout the hill country of Judea people were talking about all these things."
+}

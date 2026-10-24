@@ -1,0 +1,41 @@
+{
+  "id": "30-001-003",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 1,
+  "verse_reference": "Amos 1:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "Amos saw his vision how long before the earthquake?",
+  "options": [
+    "Two years",
+    "Seven years",
+    "Forty days",
+    "Three months"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Amos"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 1:1 says the vision came two years before the earthquake."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "36-002-012",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 2,
+  "verse_reference": "Zephaniah 2:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the proud, carefree city say to itself?",
+  "options": [
+    "We will return to the LORD",
+    "I am the one! And there is none besides me",
+    "Our walls will fall one day",
+    "Let us make peace with Judah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The city lived in safety and said, 'I am the one! And there is none besides me,' but it would become a ruin."
+}

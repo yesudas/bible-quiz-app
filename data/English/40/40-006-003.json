@@ -1,0 +1,32 @@
+{
+  "id": "40-006-003",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 6,
+  "verse_reference": "Matthew 6:2,5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Jesus told his listeners not to give or pray like whom, who do it to be honored by others?",
+  "options": [
+    "The tax collectors",
+    "The Gentiles",
+    "The hypocrites",
+    "The prophets"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 6:2 and 6:5 warn against acting like the hypocrites, who give and pray to be seen by others."
+}

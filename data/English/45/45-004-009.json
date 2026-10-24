@@ -1,0 +1,31 @@
+{
+  "id": "45-004-009",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 4,
+  "verse_reference": "Romans 4:13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Abraham and his offspring received the promise that he would be heir of what?",
+  "options": [
+    "Egypt",
+    "Rome",
+    "Babylon",
+    "The world"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says the promise that Abraham would be heir of the world came through the righteousness that comes by faith, not through the law."
+}

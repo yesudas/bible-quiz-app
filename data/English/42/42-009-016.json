@@ -1,0 +1,43 @@
+{
+  "id": "42-009-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 9,
+  "verse_reference": "Luke 9:31",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Moses and Elijah talk with Jesus about?",
+  "options": [
+    "His departure, which he was about to fulfill at Jerusalem",
+    "The building of the temple",
+    "The coming of John",
+    "The law given at Sinai"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [
+    "Moses",
+    "Elijah",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mountain",
+      "type": "mountain"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They spoke about his departure, which he was about to bring to fulfillment at Jerusalem."
+}

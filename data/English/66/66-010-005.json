@@ -1,0 +1,30 @@
+{
+  "id": "66-010-005",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 10,
+  "verse_reference": "Revelation 10:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When the angel shouted like the roar of a lion, what spoke?",
+  "options": [
+    "The four living creatures",
+    "The twenty-four elders",
+    "The seven thunders",
+    "The great multitude"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He gave a loud shout like the roar of a lion. When he shouted, the voices of the seven thunders spoke."
+}

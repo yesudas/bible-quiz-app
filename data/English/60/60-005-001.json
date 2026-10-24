@@ -1,0 +1,33 @@
+{
+  "id": "60-005-001",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 5,
+  "verse_reference": "1 Peter 5:1",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Peter calls himself a fellow elder and a witness of what?",
+  "options": [
+    "The giving of the law",
+    "The building of the temple",
+    "The flood",
+    "Christ's sufferings"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Leadership"
+  ],
+  "characters": [
+    "Peter",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter appeals to the elders as a fellow elder and a witness of Christ's sufferings."
+}

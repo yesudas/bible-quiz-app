@@ -1,0 +1,37 @@
+{
+  "id": "45-001-008",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 1,
+  "verse_reference": "Romans 1:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did Paul long to see the believers in Rome?",
+  "options": [
+    "To collect an offering for Jerusalem",
+    "To share some spiritual gift to make them strong",
+    "To choose new elders",
+    "To settle a quarrel between them"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Rome",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul longed to see them so he could impart some spiritual gift to make them strong."
+}

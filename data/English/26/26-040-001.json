@@ -1,0 +1,37 @@
+{
+  "id": "26-040-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 40,
+  "verse_reference": "Ezekiel 40:1",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How long after the city of Jerusalem fell did Ezekiel receive the vision of the temple?",
+  "options": [
+    "Seven years",
+    "Fourteen years",
+    "Twenty-five years",
+    "Forty years"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Exile"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The vision came in the twenty-fifth year of the exile, in the fourteenth year after the fall of the city."
+}

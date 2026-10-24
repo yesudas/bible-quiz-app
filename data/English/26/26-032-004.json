@@ -1,0 +1,40 @@
+{
+  "id": "26-032-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 32,
+  "verse_reference": "Ezekiel 32:11",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to Ezekiel 32:11, whose sword would come against Egypt?",
+  "options": [
+    "The sword of Pharaoh",
+    "The sword of Assyria",
+    "The sword of the king of Babylon",
+    "The sword of Israel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'The sword of the king of Babylon will come against you.'"
+}

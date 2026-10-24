@@ -1,0 +1,33 @@
+{
+  "id": "24-045-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 45,
+  "verse_reference": "Jeremiah 45:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete God's words to Baruch: \"Should you then seek great things for yourself? Do not ____ them.\"",
+  "options": [
+    "seek",
+    "want",
+    "take",
+    "keep"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship",
+    "Wisdom"
+  ],
+  "characters": [
+    "Baruch"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said to Baruch, \"Should you then seek great things for yourself? Do not seek them.\""
+}

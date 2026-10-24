@@ -1,0 +1,34 @@
+{
+  "id": "40-019-012",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 19,
+  "verse_reference": "Matthew 19:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Among the commandments Jesus listed for the young man was: \"Love your ______ as yourself.\"",
+  "options": [
+    "enemy",
+    "neighbor",
+    "brother",
+    "friend"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Law"
+  ],
+  "characters": [
+    "Jesus",
+    "Rich young man"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 19:19 says, \"honor your father and mother,\" and \"love your neighbor as yourself.\""
+}

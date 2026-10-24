@@ -1,0 +1,39 @@
+{
+  "id": "44-011-006",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 11,
+  "verse_reference": "Acts 11:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the believers in Jerusalem conclude after hearing Peter?",
+  "options": [
+    "Peter should be removed",
+    "Gentiles must first become Jews",
+    "Cornelius should come to Jerusalem",
+    "God has granted even the Gentiles repentance that leads to life"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Repentance",
+    "Salvation",
+    "Mission"
+  ],
+  "characters": [
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They praised God, saying, 'So then, even to Gentiles God has granted repentance that leads to life.'"
+}

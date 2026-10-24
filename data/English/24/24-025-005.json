@@ -1,0 +1,36 @@
+{
+  "id": "24-025-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 25,
+  "verse_reference": "Jeremiah 25:11",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "For how many years would these nations serve the king of Babylon?",
+  "options": [
+    "Forty years",
+    "Seventy years",
+    "Twelve years",
+    "One hundred years"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "This whole country would become a desolate wasteland, and these nations would serve the king of Babylon seventy years."
+}

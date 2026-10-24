@@ -1,0 +1,40 @@
+{
+  "id": "40-017-001",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 17,
+  "verse_reference": "Matthew 17:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which three disciples did Jesus take up a high mountain with him?",
+  "options": [
+    "Peter, Andrew and Philip",
+    "James, Thomas and Matthew",
+    "Peter, James and John",
+    "John, Judas and Simon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter",
+    "James",
+    "John"
+  ],
+  "places": [
+    {
+      "name": "High mountain",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 17:1 says after six days Jesus took with him Peter, James and John the brother of James, and led them up a high mountain."
+}

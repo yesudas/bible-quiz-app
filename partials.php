@@ -90,6 +90,9 @@ function renderQuizHeader(string $pageTitle, string $metaDescription, string $ve
             <?php endif; ?>
         </a>
         <?php include __DIR__ . '/menu-links.php'; ?>
+        <a class="header-help" id="helpLinkHeader" href="help.php<?= $headerLang !== '' ? '?lang=' . urlencode($headerLang) : '' ?>">
+            <i class="bi bi-question-circle" aria-hidden="true"></i> Help
+        </a>
         <button type="button" class="install-app-btn header-install" id="installAppBtnHeader" hidden>Install</button>
         <button type="button" class="nav-toggle" id="navToggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="siteNav">
             <span class="nav-toggle-bars" aria-hidden="true"></span>

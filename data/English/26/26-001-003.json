@@ -1,0 +1,38 @@
+{
+  "id": "26-001-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 1,
+  "verse_reference": "Ezekiel 1:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was Ezekiel's father?",
+  "options": [
+    "Buzi",
+    "Hilkiah",
+    "Amoz",
+    "Shaphan"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Family"
+  ],
+  "characters": [
+    "Ezekiel",
+    "Buzi"
+  ],
+  "places": [
+    {
+      "name": "Babylonia",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezekiel 1:3 says the word of the LORD came to Ezekiel the priest, the son of Buzi."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "66-011-013",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 11,
+  "verse_reference": "Revelation 11:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When God's temple in heaven was opened, what was seen within it?",
+  "options": [
+    "The golden lampstand",
+    "The ark of his covenant",
+    "The tablets of stone",
+    "The great altar"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple in heaven",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God's temple in heaven was opened, and within his temple was seen the ark of his covenant, with lightning, thunder, an earthquake and a severe hailstorm."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "41-001-010",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 1,
+  "verse_reference": "Mark 1:12-13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How long was Jesus in the wilderness being tempted by Satan?",
+  "options": [
+    "Seven days",
+    "Three days",
+    "Forty days",
+    "Twelve days"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Temptation",
+    "Satan",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Satan"
+  ],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Spirit sent Jesus into the wilderness, and he was there forty days, being tempted by Satan."
+}

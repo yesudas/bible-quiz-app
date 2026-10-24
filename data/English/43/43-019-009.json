@@ -1,0 +1,42 @@
+{
+  "id": "43-019-009",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 19,
+  "verse_reference": "John 19:19-20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Pilate's notice on the cross say?",
+  "options": [
+    "Jesus of Nazareth, the King of the Jews",
+    "Jesus, a false prophet",
+    "Jesus, son of Joseph",
+    "King of the world"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Pilate",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Golgotha",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 19:19 says Pilate had a notice fastened to the cross. It read: JESUS OF NAZARETH, THE KING OF THE JEWS."
+}

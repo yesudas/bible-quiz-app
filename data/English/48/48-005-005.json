@@ -1,0 +1,33 @@
+{
+  "id": "48-005-005",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 5,
+  "verse_reference": "Galatians 5:7",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Paul compared the Galatians' life of faith to which activity?",
+  "options": [
+    "Running a race",
+    "Building a house",
+    "Fishing",
+    "Sowing seed"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said, \"You were running a good race. Who cut in on you to keep you from obeying the truth?\""
+}

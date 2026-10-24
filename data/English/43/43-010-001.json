@@ -1,0 +1,31 @@
+{
+  "id": "43-010-001",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 10,
+  "verse_reference": "John 10:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Jesus, what is a person who climbs into the sheep pen by some other way instead of the gate?",
+  "options": [
+    "A shepherd",
+    "A gatekeeper",
+    "A thief and a robber",
+    "A hired hand"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 10:1, Jesus said anyone who does not enter the sheep pen by the gate, but climbs in by some other way, is a thief and a robber."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "58-008-009",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 8,
+  "verse_reference": "Hebrews 8:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"I will put my laws in their minds and write them on their ____.\"",
+  "options": [
+    "hearts",
+    "hands",
+    "walls",
+    "doors"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 8:10 says, \"I will put my laws in their minds and write them on their hearts. I will be their God, and they will be my people.\""
+}

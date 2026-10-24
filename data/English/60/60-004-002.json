@@ -1,0 +1,30 @@
+{
+  "id": "60-004-002",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 4,
+  "verse_reference": "1 Peter 4:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Peter says believers have spent enough time in the past doing what?",
+  "options": [
+    "Praying in the temple",
+    "Helping the poor",
+    "What pagans choose to do",
+    "Studying the prophets"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter says they have spent enough time doing what pagans choose to do, such as debauchery, drunkenness and idolatry."
+}

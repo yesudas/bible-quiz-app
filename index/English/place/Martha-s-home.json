@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Martha-s-home",
+    "label": "Martha's home",
+    "count": 3,
+    "paths": [
+        "English/42/42-010-021.json",
+        "English/42/42-010-022.json",
+        "English/42/42-010-023.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

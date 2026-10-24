@@ -1,0 +1,36 @@
+{
+  "id": "41-014-001",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 14,
+  "verse_reference": "Mark 14:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How many days before the Passover were the chief priests looking for a sly way to arrest Jesus?",
+  "options": [
+    "Seven days",
+    "One day",
+    "Two days",
+    "Ten days"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Now the Passover and the Festival of Unleavened Bread were only two days away, and the chief priests and teachers of the law were scheming to arrest Jesus secretly and kill him."
+}

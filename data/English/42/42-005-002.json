@@ -1,0 +1,38 @@
+{
+  "id": "42-005-002",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did Jesus get into Simon's boat?",
+  "options": [
+    "To sit down and teach the people from the boat",
+    "To cross to the other side",
+    "To hide from the crowd",
+    "To go fishing alone"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Lake of Gennesaret",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus got into Simon's boat, asked him to put out a little from shore, and then sat down and taught the people from the boat."
+}

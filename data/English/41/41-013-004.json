@@ -1,0 +1,38 @@
+{
+  "id": "41-013-004",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 13,
+  "verse_reference": "Mark 13:5-6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' first warning: \"Watch out that no one ____ you.\"",
+  "options": [
+    "hurts",
+    "follows",
+    "deceives",
+    "forgets"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mount of Olives",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"Watch out that no one deceives you. Many will come in my name, claiming, 'I am he,' and will deceive many.\""
+}

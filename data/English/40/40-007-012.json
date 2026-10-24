@@ -1,0 +1,32 @@
+{
+  "id": "40-007-012",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 7,
+  "verse_reference": "Matthew 7:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Jesus said not everyone who says \"Lord, Lord\" will enter the kingdom of heaven. Who will enter?",
+  "options": [
+    "The one who prays the longest",
+    "The one who knows the most Scripture",
+    "The one who does the will of my Father who is in heaven",
+    "The one born in Israel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Kingdom of God",
+    "Obedience"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 7:21 says only the one who does the will of the Father in heaven will enter the kingdom of heaven."
+}

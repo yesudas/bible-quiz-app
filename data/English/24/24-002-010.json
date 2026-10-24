@@ -1,0 +1,30 @@
+{
+  "id": "24-002-010",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 2,
+  "verse_reference": "Jeremiah 2:27",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the people say to a piece of wood?",
+  "options": [
+    "\"You are my father\"",
+    "\"You are my king\"",
+    "\"You are my rock\"",
+    "\"You are my shield\""
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They said to wood, \"You are my father,\" and to stone, \"You gave me birth,\" yet in trouble they cried to the LORD to save them."
+}

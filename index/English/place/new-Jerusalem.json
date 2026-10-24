@@ -1,0 +1,29 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "New-Jerusalem",
+    "label": "New Jerusalem",
+    "count": 19,
+    "paths": [
+        "English/66/66-021-003.json",
+        "English/66/66-021-004.json",
+        "English/66/66-021-009.json",
+        "English/66/66-021-010.json",
+        "English/66/66-021-011.json",
+        "English/66/66-021-012.json",
+        "English/66/66-021-013.json",
+        "English/66/66-021-014.json",
+        "English/66/66-021-015.json",
+        "English/66/66-021-016.json",
+        "English/66/66-021-017.json",
+        "English/66/66-022-001.json",
+        "English/66/66-022-002.json",
+        "English/66/66-022-003.json",
+        "English/66/66-022-004.json",
+        "English/66/66-022-005.json",
+        "English/66/66-022-006.json",
+        "English/66/66-022-010.json",
+        "English/66/66-022-014.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

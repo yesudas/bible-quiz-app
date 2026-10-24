@@ -1,0 +1,33 @@
+{
+  "id": "42-020-020",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 20,
+  "verse_reference": "Luke 20:46-47",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus warn about the teachers of the law?",
+  "options": [
+    "They like to walk in flowing robes and devour widows' houses",
+    "They never read the Scriptures",
+    "They give too much to the poor",
+    "They fast too often"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Sin",
+    "Humility"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus warned his disciples to beware of the teachers of the law, who like to walk around in flowing robes, devour widows' houses and make lengthy prayers for show."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "43-008-013",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 8,
+  "verse_reference": "John 8:36",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Jesus say happens if the Son sets you free?",
+  "options": [
+    "You will be free indeed",
+    "You will become a priest",
+    "You will rule Israel",
+    "You will never grow old"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 8:36, Jesus said, \"So if the Son sets you free, you will be free indeed.\""
+}

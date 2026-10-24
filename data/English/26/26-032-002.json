@@ -1,0 +1,36 @@
+{
+  "id": "26-032-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 32,
+  "verse_reference": "Ezekiel 32:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "With what did God say He would haul Pharaoh up?",
+  "options": [
+    "A hook",
+    "A rope",
+    "His net",
+    "A spear"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Pharaoh"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'With a great throng of people I will cast my net over you, and they will haul you up in my net.'"
+}

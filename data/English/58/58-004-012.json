@@ -1,0 +1,37 @@
+{
+  "id": "58-004-012",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 4,
+  "verse_reference": "Hebrews 4:14",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who is the great high priest who has ascended into heaven, according to Hebrews 4:14?",
+  "options": [
+    "Aaron",
+    "Melchizedek",
+    "Moses",
+    "Jesus the Son of God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "heavenly realm"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 4:14 says we have a great high priest who has ascended into heaven, Jesus the Son of God."
+}

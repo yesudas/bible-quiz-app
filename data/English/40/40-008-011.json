@@ -1,0 +1,38 @@
+{
+  "id": "40-008-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 8,
+  "verse_reference": "Matthew 8:15",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "What did Peter's mother-in-law do after the fever left her?",
+  "options": [
+    "She went to the temple",
+    "She got up and began to wait on him",
+    "She told the whole town",
+    "She slept"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Peter's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 8:15 says Jesus touched her hand, the fever left her, and she got up and began to wait on him."
+}

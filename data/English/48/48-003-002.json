@@ -1,0 +1,37 @@
+{
+  "id": "48-003-002",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 3,
+  "verse_reference": "Galatians 3:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Paul asked the Galatians how they received the Spirit. What was the right answer?",
+  "options": [
+    "By believing what they heard",
+    "By the works of the law",
+    "By being circumcised",
+    "By going to the temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holy Spirit",
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Galatia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul asked whether they received the Spirit by the works of the law or by believing what they heard. The answer was by believing."
+}

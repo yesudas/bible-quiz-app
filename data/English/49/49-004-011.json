@@ -1,0 +1,31 @@
+{
+  "id": "49-004-011",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 4,
+  "verse_reference": "Ephesians 4:26",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Do not let the sun go down while you are still ______.\"",
+  "options": [
+    "working",
+    "angry",
+    "awake",
+    "outside"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Forgiveness"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says, 'In your anger do not sin': do not let the sun go down while you are still angry."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "41-015-005",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 15,
+  "verse_reference": "Mark 15:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Pilate know about why the chief priests had handed Jesus over?",
+  "options": [
+    "Jesus had broken Roman law",
+    "Jesus had stolen from the temple",
+    "It was out of self-interest",
+    "Caesar had ordered it"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Pontius Pilate",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pilate knew it was out of self-interest that the chief priests had handed Jesus over to him."
+}

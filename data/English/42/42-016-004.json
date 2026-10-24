@@ -1,0 +1,32 @@
+{
+  "id": "42-016-004",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 16,
+  "verse_reference": "Luke 16:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "The second debtor owed a thousand bushels of wheat. What did the manager tell him to write?",
+  "options": [
+    "Eight hundred",
+    "Five hundred",
+    "Nine hundred",
+    "Six hundred"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The manager told the second debtor to take his bill and make it eight hundred."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "40-009-004",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 9,
+  "verse_reference": "Matthew 9:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Jesus healed the paralyzed man so that people would know the Son of Man has authority on earth to do what?",
+  "options": [
+    "Rule over Rome",
+    "Forgive sins",
+    "Change the law",
+    "Build the temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Forgiveness",
+    "Jesus",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 9:6 says Jesus healed him so they would know that the Son of Man has authority on earth to forgive sins."
+}

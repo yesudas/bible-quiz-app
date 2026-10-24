@@ -1,0 +1,36 @@
+{
+  "id": "42-006-007",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the Pharisees and teachers of the law react after the healing?",
+  "options": [
+    "They praised God",
+    "They asked to be baptized",
+    "They were furious and discussed what to do to Jesus",
+    "They left the synagogue in fear"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Pharisees"
+  ],
+  "places": [
+    {
+      "name": "Synagogue",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They were furious and began to discuss with one another what they might do to Jesus."
+}

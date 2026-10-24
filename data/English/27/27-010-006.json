@@ -1,0 +1,31 @@
+{
+  "id": "27-010-006",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 10,
+  "verse_reference": "Daniel 10:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete: \"his arms and legs like the gleam of burnished ______.\"",
+  "options": [
+    "gold",
+    "silver",
+    "bronze",
+    "iron"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Angels"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man's arms and legs were like the gleam of burnished bronze, and his voice like the sound of a multitude."
+}

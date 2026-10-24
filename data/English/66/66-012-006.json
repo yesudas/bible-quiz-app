@@ -1,0 +1,36 @@
+{
+  "id": "66-012-006",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 12,
+  "verse_reference": "Revelation 12:6",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the woman flee to a place prepared for her by God?",
+  "options": [
+    "Into the temple",
+    "Into the wilderness",
+    "Into Egypt",
+    "Onto a mountain"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Protection",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The woman fled into the wilderness to a place prepared for her by God, where she would be taken care of for 1,260 days."
+}

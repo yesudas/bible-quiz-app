@@ -1,0 +1,39 @@
+{
+  "id": "42-001-011",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:18-20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why was Zechariah unable to speak until John was born?",
+  "options": [
+    "He was sick from the incense",
+    "He made a foolish vow",
+    "He did not believe the angel's words",
+    "He was afraid of the people"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Unbelief"
+  ],
+  "characters": [
+    "Zechariah",
+    "Gabriel"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gabriel said Zechariah would be silent because he did not believe the words that would come true at their appointed time."
+}

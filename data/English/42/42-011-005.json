@@ -1,0 +1,33 @@
+{
+  "id": "42-011-005",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Jesus' story, how many loaves did the man ask his friend for at midnight?",
+  "options": [
+    "Three",
+    "Two",
+    "Five",
+    "Seven"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told of a man who went to his friend at midnight and said, 'Friend, lend me three loaves of bread.'"
+}

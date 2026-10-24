@@ -1,0 +1,32 @@
+{
+  "id": "47-013-002",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 13,
+  "verse_reference": "2 Corinthians 13:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Paul quoted that every matter must be established by the testimony of how many witnesses?",
+  "options": [
+    "One witness",
+    "Two or three witnesses",
+    "Seven witnesses",
+    "Twelve witnesses"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quoted the rule that every matter must be established by the testimony of two or three witnesses."
+}

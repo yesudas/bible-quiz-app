@@ -1,0 +1,32 @@
+{
+  "id": "54-005-011",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 5,
+  "verse_reference": "1 Timothy 5:24-25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Paul teach about sins and good deeds that are not obvious now?",
+  "options": [
+    "They will never be known",
+    "They cannot remain hidden forever",
+    "Only God cares about them",
+    "They do not matter"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Wisdom"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said some sins and good deeds are obvious, and even those that are not obvious cannot remain hidden forever."
+}

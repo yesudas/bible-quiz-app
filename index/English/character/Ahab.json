@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Ahab",
     "label": "Ahab",
-    "count": 64,
+    "count": 66,
     "paths": [
         "English/11/11-016-011.json",
         "English/11/11-016-012.json",
@@ -68,7 +68,9 @@
         "English/14/14-018-013.json",
         "English/14/14-018-014.json",
         "English/14/14-018-016.json",
-        "English/14/14-021-005.json"
+        "English/14/14-021-005.json",
+        "English/24/24-029-009.json",
+        "English/33/33-006-009.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

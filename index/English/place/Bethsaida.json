@@ -1,0 +1,22 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Bethsaida",
+    "label": "Bethsaida",
+    "count": 12,
+    "paths": [
+        "English/40/40-011-011.json",
+        "English/40/40-011-012.json",
+        "English/41/41-006-023.json",
+        "English/41/41-008-010.json",
+        "English/41/41-008-011.json",
+        "English/41/41-008-012.json",
+        "English/42/42-009-005.json",
+        "English/42/42-009-006.json",
+        "English/42/42-009-007.json",
+        "English/42/42-009-008.json",
+        "English/42/42-010-005.json",
+        "English/43/43-001-018.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

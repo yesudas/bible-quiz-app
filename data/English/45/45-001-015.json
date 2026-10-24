@@ -1,0 +1,30 @@
+{
+  "id": "45-001-015",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 1,
+  "verse_reference": "Romans 1:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Romans 1:20, why are people without excuse before God?",
+  "options": [
+    "Every nation was given the law of Moses",
+    "God's power and divine nature are clearly seen from what has been made",
+    "Prophets were sent to every city",
+    "Angels visited every family"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Since the creation of the world, God's eternal power and divine nature have been clearly seen from what He made, so people are without excuse."
+}

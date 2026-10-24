@@ -1,0 +1,33 @@
+{
+  "id": "40-010-022",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 10,
+  "verse_reference": "Matthew 10:42",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Jesus said anyone who gives even what to one of these little ones will certainly not lose their reward?",
+  "options": [
+    "A cup of cold water",
+    "A loaf of bread",
+    "A gold coin",
+    "A new coat"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 10:42 says anyone who gives even a cup of cold water to one of these little ones who is my disciple will certainly not lose their reward."
+}

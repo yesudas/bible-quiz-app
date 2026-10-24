@@ -1,0 +1,37 @@
+{
+  "id": "66-021-004",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 21,
+  "verse_reference": "Revelation 21:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to the loud voice from the throne, where is God's dwelling place now?",
+  "options": [
+    "Among the people",
+    "In the highest heaven only",
+    "Inside the temple",
+    "On a mountain far away"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Covenant",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "New Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A loud voice said, \"Look! God's dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them.\""
+}

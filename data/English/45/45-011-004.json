@@ -1,0 +1,29 @@
+{
+  "id": "45-011-004",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 11,
+  "verse_reference": "Romans 11:5-6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Romans 11:5-6, the remnant today is chosen by what?",
+  "options": [
+    "Works",
+    "Birth",
+    "Wealth",
+    "Grace"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says there is a remnant chosen by grace, and if by grace, then it cannot be based on works."
+}

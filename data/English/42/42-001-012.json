@@ -1,0 +1,42 @@
+{
+  "id": "42-001-012",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:26-27",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "To which town did God send the angel Gabriel to visit Mary?",
+  "options": [
+    "Bethlehem",
+    "Jerusalem",
+    "Capernaum",
+    "Nazareth"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Angels"
+  ],
+  "characters": [
+    "Gabriel",
+    "Mary"
+  ],
+  "places": [
+    {
+      "name": "Nazareth",
+      "type": "town"
+    },
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God sent Gabriel to Nazareth, a town in Galilee, to a virgin named Mary."
+}

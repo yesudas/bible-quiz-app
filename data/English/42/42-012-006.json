@@ -1,0 +1,37 @@
+{
+  "id": "42-012-006",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 12,
+  "verse_reference": "Luke 12:11-12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Who did Jesus say would teach his followers what to say when brought before rulers?",
+  "options": [
+    "Their teachers",
+    "The apostles",
+    "An angel",
+    "The Holy Spirit"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Holy Spirit",
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Synagogues",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'The Holy Spirit will teach you at that time what you should say.'"
+}

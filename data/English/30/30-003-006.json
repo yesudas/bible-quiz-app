@@ -1,0 +1,43 @@
+{
+  "id": "30-003-006",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 3,
+  "verse_reference": "Amos 3:9",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "On whose mountains were Ashdod and Egypt told to gather to see the unrest there?",
+  "options": [
+    "The mountains of Gilead",
+    "The mountains of Samaria",
+    "The mountains of Moab",
+    "The mountains of Lebanon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    },
+    {
+      "name": "Ashdod",
+      "type": "city"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 3:9 tells them to assemble on the mountains of Samaria and see the great unrest and oppression."
+}

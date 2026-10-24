@@ -1,0 +1,32 @@
+{
+  "id": "38-004-001",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 4,
+  "verse_reference": "Zechariah 4:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the angel get Zechariah's attention before this vision?",
+  "options": [
+    "He called his name three times",
+    "He woke him up, like someone woken from sleep",
+    "He touched his lips",
+    "He blew a trumpet"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels",
+    "Prophecy"
+  ],
+  "characters": [
+    "Zechariah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel woke Zechariah up, as someone is woken from sleep."
+}

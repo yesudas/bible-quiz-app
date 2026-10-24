@@ -1,0 +1,31 @@
+{
+  "id": "42-005-024",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:37",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Jesus' parable, what happens when new wine is poured into old wineskins?",
+  "options": [
+    "The wine becomes old",
+    "The wine tastes better",
+    "The wineskins become new",
+    "The new wine bursts the skins"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said the new wine will burst the old skins; the wine will run out and the wineskins will be ruined."
+}

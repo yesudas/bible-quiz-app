@@ -1,0 +1,32 @@
+{
+  "id": "49-004-005",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 4,
+  "verse_reference": "Ephesians 4:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which list matches the people Christ gave in Ephesians 4:11?",
+  "options": [
+    "Kings, judges, priests, Levites, scribes",
+    "Apostles, prophets, evangelists, pastors and teachers",
+    "Elders, deacons, widows, servants, singers",
+    "Pharisees, Sadducees, scribes, rulers, elders"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Christ gave the apostles, the prophets, the evangelists, the pastors and teachers."
+}

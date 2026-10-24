@@ -1,0 +1,35 @@
+{
+  "id": "26-014-006",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 14,
+  "verse_reference": "Ezekiel 14:21",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which list gives God's four dreadful judgments against Jerusalem?",
+  "options": [
+    "Fire, flood, hail and earthquake",
+    "Sword, famine, wild beasts and plague",
+    "Locusts, frogs, gnats and flies",
+    "Drought, storm, war and darkness"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God spoke of sending His four dreadful judgments against Jerusalem: sword, famine, wild beasts and plague."
+}

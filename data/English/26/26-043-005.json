@@ -1,0 +1,36 @@
+{
+  "id": "26-043-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 43,
+  "verse_reference": "Ezekiel 43:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete God's words: \"This is the place of my throne and the place for the soles of my feet. This is where I will live among the Israelites ______.\"",
+  "options": [
+    "forever",
+    "for a season",
+    "for seventy years",
+    "until the end of the age"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'This is where I will live among the Israelites forever.'"
+}

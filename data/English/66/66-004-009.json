@@ -1,0 +1,35 @@
+{
+  "id": "66-004-009",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 4,
+  "verse_reference": "Revelation 4:6-8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were the four living creatures covered with?",
+  "options": [
+    "Eyes",
+    "Gold",
+    "Feathers of fire",
+    "Precious stones"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Angels"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Each of the four living creatures had six wings and was covered with eyes all around, even under its wings."
+}

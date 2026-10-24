@@ -1,0 +1,35 @@
+{
+  "id": "36-003-006",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 3,
+  "verse_reference": "Zephaniah 3:10",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "From beyond the rivers of which land would the LORD's worshipers bring Him offerings?",
+  "options": [
+    "Egypt",
+    "Assyria",
+    "Cush",
+    "Moab"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Cush",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Verse 10 says that from beyond the rivers of Cush, God's scattered people would bring Him offerings."
+}

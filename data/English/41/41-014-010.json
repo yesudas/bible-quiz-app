@@ -1,0 +1,38 @@
+{
+  "id": "41-014-010",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 14,
+  "verse_reference": "Mark 14:18-20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Jesus describe the one who would betray him?",
+  "options": [
+    "A stranger from another town",
+    "One of the twelve, who dips bread into the bowl with him",
+    "One of the Pharisees",
+    "A Roman soldier"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus",
+    "Judas Iscariot"
+  ],
+  "places": [
+    {
+      "name": "Large upper room",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"It is one of the twelve, one who dips bread into the bowl with me.\""
+}

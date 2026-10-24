@@ -1,0 +1,30 @@
+{
+  "id": "29-002-010",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 2,
+  "verse_reference": "Joel 2:20",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the LORD promise to drive far away from His people?",
+  "options": [
+    "The southern kings",
+    "The Egyptian army",
+    "The northern horde",
+    "The Philistine raiders"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised to drive the northern horde far away into a dry and barren land."
+}

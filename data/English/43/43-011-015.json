@@ -1,0 +1,43 @@
+{
+  "id": "43-011-015",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 11,
+  "verse_reference": "John 11:43-44",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jesus call out in a loud voice at the tomb?",
+  "options": [
+    "Wake up, my friend!",
+    "Rise and walk!",
+    "Be healed!",
+    "Lazarus, come out!"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Lazarus"
+  ],
+  "places": [
+    {
+      "name": "Bethany",
+      "type": "village"
+    },
+    {
+      "name": "Lazarus' tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 11:43-44, Jesus called in a loud voice, \"Lazarus, come out!\" The dead man came out, his hands and feet wrapped with strips of linen."
+}

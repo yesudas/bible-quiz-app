@@ -1,0 +1,39 @@
+{
+  "id": "24-011-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 11,
+  "verse_reference": "Jeremiah 11:9-10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God say there was among the people of Judah and Jerusalem?",
+  "options": [
+    "A great revival",
+    "A famine",
+    "A conspiracy",
+    "A royal wedding"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said there was a conspiracy among them; they had returned to the sins of their ancestors and broken His covenant."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "40-003-015",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 3,
+  "verse_reference": "Matthew 3:16",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "After Jesus was baptized, the Spirit of God came down on him like what?",
+  "options": [
+    "A dove",
+    "An eagle",
+    "A flame",
+    "A cloud"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holy Spirit",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 3:16 says Jesus saw the Spirit of God descending like a dove and alighting on him."
+}

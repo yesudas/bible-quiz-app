@@ -1,0 +1,32 @@
+{
+  "id": "42-002-028",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 2,
+  "verse_reference": "Luke 2:52",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In which four areas does Luke say Jesus grew?",
+  "options": [
+    "Strength, riches, fame and power",
+    "Wisdom, stature, and favor with God and man",
+    "Faith, hope, love and joy",
+    "Height, skill, knowledge and courage"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus grew in wisdom and stature, and in favor with God and man."
+}

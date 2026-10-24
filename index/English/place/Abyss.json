@@ -1,0 +1,18 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Abyss",
+    "label": "Abyss",
+    "count": 8,
+    "paths": [
+        "English/66/66-009-001.json",
+        "English/66/66-009-002.json",
+        "English/66/66-009-003.json",
+        "English/66/66-009-009.json",
+        "English/66/66-011-007.json",
+        "English/66/66-020-001.json",
+        "English/66/66-020-002.json",
+        "English/66/66-020-003.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

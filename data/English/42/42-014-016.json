@@ -1,0 +1,37 @@
+{
+  "id": "42-014-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 14,
+  "verse_reference": "Luke 14:28",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus say a person should do before building a tower?",
+  "options": [
+    "Sit down and estimate the cost",
+    "Ask the king",
+    "Pray for forty days",
+    "Hire many workers"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Tower",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said someone wanting to build a tower will first sit down and estimate the cost to see if they have enough money to complete it."
+}

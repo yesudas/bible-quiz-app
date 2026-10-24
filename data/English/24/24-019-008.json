@@ -1,0 +1,39 @@
+{
+  "id": "24-019-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 19,
+  "verse_reference": "Jeremiah 19:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "God said the houses of Jerusalem and of the kings of Judah would become defiled like which place?",
+  "options": [
+    "Shiloh",
+    "Topheth",
+    "Sodom",
+    "Gilgal"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Topheth",
+      "type": "place"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The houses would be defiled like Topheth, because on their roofs they burned incense to the starry hosts and poured out drink offerings to other gods."
+}

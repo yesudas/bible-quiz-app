@@ -1,0 +1,38 @@
+{
+  "id": "33-003-006",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 3,
+  "verse_reference": "Micah 3:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was Micah filled with power by the Spirit of the LORD?",
+  "options": [
+    "To build the temple",
+    "To defeat the Philistines",
+    "To anoint a new king",
+    "To declare to Israel its sin"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Holy Spirit",
+    "Prophecy",
+    "Sin"
+  ],
+  "characters": [
+    "Micah"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micah was filled with power to declare to Jacob his transgression and to Israel his sin."
+}

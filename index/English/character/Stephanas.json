@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Stephanas",
+    "label": "Stephanas",
+    "count": 3,
+    "paths": [
+        "English/46/46-001-008.json",
+        "English/46/46-016-011.json",
+        "English/46/46-016-012.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "43-012-009",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 12,
+  "verse_reference": "John 12:14-15",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jesus sit on as he came into Jerusalem in John 12?",
+  "options": [
+    "A young donkey",
+    "A horse",
+    "A camel",
+    "A chariot"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 12:14-15 says Jesus found a young donkey and sat on it, as it is written: \"See, your king is coming, seated on a donkey's colt.\""
+}

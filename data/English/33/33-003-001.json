@@ -1,0 +1,38 @@
+{
+  "id": "33-003-001",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 3,
+  "verse_reference": "Micah 3:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Micah say the leaders of Israel hated and loved?",
+  "options": [
+    "They hated evil and loved good",
+    "They hated war and loved peace",
+    "They hated good and loved evil",
+    "They hated the poor and loved the rich"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Micah"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micah told the leaders that they should know justice, but they hated good and loved evil."
+}

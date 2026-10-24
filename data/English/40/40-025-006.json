@@ -1,0 +1,33 @@
+{
+  "id": "40-025-006",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:10",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "What happened while the foolish virgins were on their way to buy oil?",
+  "options": [
+    "The bridegroom waited for them",
+    "The bridegroom arrived, the ready ones went in, and the door was shut",
+    "The wedding was canceled",
+    "The wise virgins went with them"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:10 says the bridegroom arrived. The virgins who were ready went in with him to the wedding banquet. And the door was shut."
+}

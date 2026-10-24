@@ -1,0 +1,38 @@
+{
+  "id": "42-013-012",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 13,
+  "verse_reference": "Luke 13:18-19",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Jesus said the kingdom of God is like which seed that grew into a tree?",
+  "options": [
+    "A mustard seed",
+    "A fig seed",
+    "A wheat seed",
+    "An olive seed"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingdom of God",
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Garden",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said the kingdom of God is like a mustard seed planted in a garden; it grew and became a tree, and the birds perched in its branches."
+}

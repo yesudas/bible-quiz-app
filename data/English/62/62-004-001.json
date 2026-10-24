@@ -1,0 +1,32 @@
+{
+  "id": "62-004-001",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 4,
+  "verse_reference": "1 John 4:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why does John tell believers to test the spirits?",
+  "options": [
+    "Because many false prophets have gone out into the world",
+    "Because the temple was destroyed",
+    "Because angels cannot be trusted",
+    "Because the law was changed"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Truth"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says not to believe every spirit but to test them, because many false prophets have gone out into the world."
+}

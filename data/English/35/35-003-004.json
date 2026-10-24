@@ -1,0 +1,38 @@
+{
+  "id": "35-003-004",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 3,
+  "verse_reference": "Habakkuk 3:3",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Habakkuk 3:3, God came from Teman, and the Holy One from which mountain?",
+  "options": [
+    "Mount Sinai",
+    "Mount Carmel",
+    "Mount Zion",
+    "Mount Paran"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Teman",
+      "type": "region"
+    },
+    {
+      "name": "Mount Paran",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Habakkuk described God coming from Teman and the Holy One from Mount Paran."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "24-020-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 20,
+  "verse_reference": "Jeremiah 20:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was the priest and official in charge of the temple who heard Jeremiah prophesying?",
+  "options": [
+    "Hilkiah",
+    "Pashhur",
+    "Zephaniah",
+    "Hananiah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution",
+    "Leadership"
+  ],
+  "characters": [
+    "Pashhur",
+    "Immer",
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pashhur son of Immer, the official in charge of the temple of the LORD, heard Jeremiah prophesying these things."
+}

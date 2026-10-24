@@ -1,0 +1,38 @@
+{
+  "id": "44-014-004",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 14,
+  "verse_reference": "Acts 14:8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Whom did Paul meet at Lystra?",
+  "options": [
+    "A blind beggar",
+    "A rich ruler",
+    "A Roman soldier",
+    "A man lame from birth who had never walked"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Suffering"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Lystra",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Lystra there sat a man who was lame from birth and had never walked."
+}

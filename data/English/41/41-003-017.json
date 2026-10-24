@@ -1,0 +1,33 @@
+{
+  "id": "41-003-017",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 3,
+  "verse_reference": "Mark 3:28-30",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say would never be forgiven?",
+  "options": [
+    "Blasphemy against the Holy Spirit",
+    "Breaking the Sabbath",
+    "Eating with sinners",
+    "Doubting a prophet"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holy Spirit",
+    "Forgiveness",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said whoever blasphemes against the Holy Spirit will never be forgiven, because they were saying he had an impure spirit."
+}

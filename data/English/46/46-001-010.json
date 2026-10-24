@@ -1,0 +1,33 @@
+{
+  "id": "46-001-010",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 1,
+  "verse_reference": "1 Corinthians 1:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the ______ of God.\"",
+  "options": [
+    "wisdom",
+    "love",
+    "power",
+    "glory"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says the message of the cross is the power of God to those who are being saved."
+}

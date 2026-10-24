@@ -1,0 +1,38 @@
+{
+  "id": "24-052-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 52,
+  "verse_reference": "Jeremiah 52:31",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which king of Babylon released Jehoiachin king of Judah from prison?",
+  "options": [
+    "Nebuchadnezzar",
+    "Belshazzar",
+    "Nabonidus",
+    "Awel-Marduk"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Leadership"
+  ],
+  "characters": [
+    "Awel-Marduk",
+    "Jehoiachin"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the year Awel-Marduk became king of Babylon, he released Jehoiachin king of Judah and freed him from prison."
+}

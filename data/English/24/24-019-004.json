@@ -1,0 +1,34 @@
+{
+  "id": "24-019-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 19,
+  "verse_reference": "Jeremiah 19:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "God said the disaster He would bring would make what happen to everyone who heard of it?",
+  "options": [
+    "Their eyes would fill with tears",
+    "Their hearts would melt",
+    "Their ears would tingle",
+    "Their knees would shake"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would bring a disaster that would make the ears of everyone who heard of it tingle."
+}

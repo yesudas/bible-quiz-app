@@ -1,0 +1,36 @@
+{
+  "id": "24-014-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 14,
+  "verse_reference": "Jeremiah 14:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When the nobles sent their servants for water, what did the servants find?",
+  "options": [
+    "Muddy water",
+    "No water at all",
+    "Water full of fish",
+    "Water turned to blood"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The servants went to the cisterns but found no water, and returned with their jars unfilled."
+}

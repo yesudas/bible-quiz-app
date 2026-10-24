@@ -1,0 +1,38 @@
+{
+  "id": "61-002-007",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 2,
+  "verse_reference": "2 Peter 2:7-8",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which righteous man was rescued by God and was distressed by the lawless deeds he saw around him?",
+  "options": [
+    "Abraham",
+    "Isaac",
+    "Lot",
+    "Jacob"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Sin"
+  ],
+  "characters": [
+    "Lot"
+  ],
+  "places": [
+    {
+      "name": "Sodom",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter says God rescued Lot, a righteous man who was distressed by the wicked lives of the people around him."
+}

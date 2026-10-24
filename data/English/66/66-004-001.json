@@ -1,0 +1,37 @@
+{
+  "id": "66-004-001",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 4,
+  "verse_reference": "Revelation 4:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did John see standing open in heaven?",
+  "options": [
+    "A window",
+    "A gate of pearl",
+    "A door",
+    "A scroll"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John looked and saw a door standing open in heaven, and a voice like a trumpet said, \"Come up here.\""
+}

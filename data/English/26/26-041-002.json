@@ -1,0 +1,34 @@
+{
+  "id": "26-041-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 41,
+  "verse_reference": "Ezekiel 41:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How were the side rooms around the temple arranged?",
+  "options": [
+    "In three levels, one above another, thirty on each level",
+    "In two rows of twelve",
+    "In seven levels of ten",
+    "In one long row of forty"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The side rooms were on three levels, one above another, thirty on each level."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "42-011-025",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:52",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say the experts in the law had taken away?",
+  "options": [
+    "The key to knowledge",
+    "The scrolls of Moses",
+    "The temple keys",
+    "The people's money"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Woe to you experts in the law, because you have taken away the key to knowledge.'"
+}

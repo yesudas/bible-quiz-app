@@ -1,0 +1,36 @@
+{
+  "id": "26-036-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 36,
+  "verse_reference": "Ezekiel 36:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God tell the mountains of Israel to produce for His people?",
+  "options": [
+    "Gold and silver",
+    "Stones for building",
+    "Branches and fruit",
+    "Springs of water"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mountains of Israel",
+      "type": "mountain range"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'You, mountains of Israel, will produce branches and fruit for my people Israel, for they will soon come home.'"
+}

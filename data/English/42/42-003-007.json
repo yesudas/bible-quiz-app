@@ -1,0 +1,37 @@
+{
+  "id": "42-003-007",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 3,
+  "verse_reference": "Luke 3:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the prophecy: 'A voice of one calling in the wilderness, Prepare the ____ for the Lord.'",
+  "options": [
+    "house",
+    "way",
+    "road",
+    "people"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Isaiah wrote, 'Prepare the way for the Lord, make straight paths for him.'"
+}

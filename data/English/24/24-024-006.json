@@ -1,0 +1,41 @@
+{
+  "id": "24-024-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 24,
+  "verse_reference": "Jeremiah 24:8",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whom did God say the bad figs represented?",
+  "options": [
+    "Jehoiachin and the exiles",
+    "Zedekiah, his officials, the survivors in Jerusalem and those living in Egypt",
+    "The Babylonian army",
+    "The prophets of Baal"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Leadership"
+  ],
+  "characters": [
+    "Zedekiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would deal like the bad figs with Zedekiah king of Judah, his officials, the survivors from Jerusalem, and those living in Egypt."
+}

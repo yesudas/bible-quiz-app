@@ -1,0 +1,31 @@
+{
+  "id": "44-001-001",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 1,
+  "verse_reference": "Acts 1:1-2",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "To whom did Luke address the book of Acts?",
+  "options": [
+    "Timothy",
+    "Titus",
+    "Theophilus",
+    "Philemon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Gospel"
+  ],
+  "characters": [
+    "Theophilus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Acts opens by addressing Theophilus, just as Luke's earlier book did."
+}

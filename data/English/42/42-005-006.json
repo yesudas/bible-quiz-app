@@ -1,0 +1,39 @@
+{
+  "id": "42-005-006",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Simon Peter's words: 'Go away from me, Lord; I am a ____ man!'",
+  "options": [
+    "poor",
+    "sinful",
+    "simple",
+    "weak"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Repentance"
+  ],
+  "characters": [
+    "Simon Peter",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Lake of Gennesaret",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Simon Peter fell at Jesus' knees and said, 'Go away from me, Lord; I am a sinful man!'"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "42-007-007",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 7,
+  "verse_reference": "Luke 7:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "When the Lord saw the widow of Nain, his heart went out to her and he said, 'Don't ____.'",
+  "options": [
+    "cry",
+    "worry",
+    "fear",
+    "go"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Nain",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the Lord saw her, his heart went out to her and he said, 'Don't cry.'"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "24-043-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 43,
+  "verse_reference": "Jeremiah 43:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "God said Nebuchadnezzar would wrap Egypt around himself like what?",
+  "options": [
+    "A soldier wraps his armor",
+    "A king wraps his robe",
+    "A shepherd picks his garment clean of lice",
+    "A priest wraps his ephod"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"As a shepherd picks his garment clean of lice, so he will pick Egypt clean and depart.\""
+}

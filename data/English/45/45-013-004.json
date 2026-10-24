@@ -1,0 +1,30 @@
+{
+  "id": "45-013-004",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 13,
+  "verse_reference": "Romans 13:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Romans 13:6-7, what should believers pay to whom they owe it?",
+  "options": [
+    "Sacrifices",
+    "Taxes",
+    "Wages to apostles",
+    "Gifts to angels"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says this is also why you pay taxes; give to everyone what you owe them: taxes, revenue, respect and honor."
+}

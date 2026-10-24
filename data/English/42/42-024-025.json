@@ -1,0 +1,40 @@
+{
+  "id": "42-024-025",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 24,
+  "verse_reference": "Luke 24:52-53",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the disciples do after Jesus was taken up into heaven?",
+  "options": [
+    "They went back to fishing",
+    "They returned to Jerusalem with great joy and stayed at the temple praising God",
+    "They hid from the leaders",
+    "They went home to Galilee"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Joy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They worshiped him and returned to Jerusalem with great joy, and they stayed continually at the temple, praising God."
+}

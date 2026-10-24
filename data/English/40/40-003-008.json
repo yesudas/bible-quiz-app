@@ -1,0 +1,31 @@
+{
+  "id": "40-003-008",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 3,
+  "verse_reference": "Matthew 3:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete John's words: \"Produce fruit in keeping with ______.\"",
+  "options": [
+    "repentance",
+    "the law",
+    "faith",
+    "righteousness"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Repentance"
+  ],
+  "characters": [
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Matthew 3:8 John told them to produce fruit in keeping with repentance."
+}

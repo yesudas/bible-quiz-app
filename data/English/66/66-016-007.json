@@ -1,0 +1,35 @@
+{
+  "id": "66-016-007",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 16,
+  "verse_reference": "Revelation 16:12",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Which river dried up when the sixth angel poured out his bowl?",
+  "options": [
+    "The Jordan",
+    "The Nile",
+    "The Euphrates",
+    "The Tigris"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Euphrates",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The sixth angel poured out his bowl on the great river Euphrates, and its water was dried up to prepare the way for the kings from the East."
+}

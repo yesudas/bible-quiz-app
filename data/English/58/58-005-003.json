@@ -1,0 +1,29 @@
+{
+  "id": "58-005-003",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 5,
+  "verse_reference": "Hebrews 5:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Hebrews 5:3, for whose sins does a human high priest also have to offer sacrifices?",
+  "options": [
+    "His own sins",
+    "The angels' sins",
+    "Only the king's sins",
+    "Only the prophets' sins"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 5:3 says this is why he has to offer sacrifices for his own sins, as well as for the sins of the people."
+}

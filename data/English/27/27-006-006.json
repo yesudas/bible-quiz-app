@@ -1,0 +1,31 @@
+{
+  "id": "27-006-006",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 6,
+  "verse_reference": "Daniel 6:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why could the king's decree not be changed?",
+  "options": [
+    "Daniel had signed it",
+    "The people had voted for it",
+    "It was written as a law of the Medes and Persians, which cannot be repealed",
+    "It was carved in gold"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Darius"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The officials asked the king to put the decree in writing so it could not be altered, according to the law of the Medes and Persians."
+}

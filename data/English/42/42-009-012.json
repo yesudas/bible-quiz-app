@@ -1,0 +1,32 @@
+{
+  "id": "42-009-012",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 9,
+  "verse_reference": "Luke 9:25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus ask about gaining the whole world?",
+  "options": [
+    "What good is it to gain the whole world and lose or forfeit your very self?",
+    "Who can gain the whole world?",
+    "Why do rulers want the whole world?",
+    "When will the world be gained?"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked, 'What good is it for someone to gain the whole world, and yet lose or forfeit their very self?'"
+}

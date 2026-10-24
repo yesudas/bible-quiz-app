@@ -1,0 +1,32 @@
+{
+  "id": "40-005-016",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 5,
+  "verse_reference": "Matthew 5:37",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"All you need to say is simply 'Yes' or '______.'\"",
+  "options": [
+    "Maybe",
+    "Amen",
+    "Later",
+    "No"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 5:37 says to simply let your 'Yes' be 'Yes' and your 'No,' 'No.'"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "26-016-011",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 16,
+  "verse_reference": "Ezekiel 16:63",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God say He would do for Jerusalem for all she had done?",
+  "options": [
+    "Forget her forever",
+    "Give her to her enemies",
+    "Make atonement for her",
+    "Send her another king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Forgiveness",
+    "Salvation",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said that when He made atonement for her, she would remember and be ashamed and never again open her mouth because of her humiliation."
+}

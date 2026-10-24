@@ -1,0 +1,33 @@
+{
+  "id": "45-009-004",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 9,
+  "verse_reference": "Romans 9:7",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Paul quotes God saying Abraham's offspring would be reckoned through whom?",
+  "options": [
+    "Ishmael",
+    "Jacob",
+    "Isaac",
+    "Esau"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Abraham",
+    "Isaac"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Romans 9:7 quotes God's word: \"It is through Isaac that your offspring will be reckoned.\""
+}

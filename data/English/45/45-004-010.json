@@ -1,0 +1,30 @@
+{
+  "id": "45-004-010",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 4,
+  "verse_reference": "Romans 4:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"And where there is no law there is no ______.\"",
+  "options": [
+    "transgression",
+    "promise",
+    "judge",
+    "sacrifice"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says the law brings wrath, and where there is no law there is no transgression."
+}

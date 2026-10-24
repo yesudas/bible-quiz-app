@@ -1,0 +1,32 @@
+{
+  "id": "42-009-019",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 9,
+  "verse_reference": "Luke 9:40",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What problem had the father of the boy with an evil spirit faced before coming to Jesus?",
+  "options": [
+    "The priests refused to help",
+    "The boy ran away",
+    "Herod forbade healing",
+    "Jesus' disciples could not drive the spirit out"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The father said, 'I begged your disciples to drive it out, but they could not.'"
+}

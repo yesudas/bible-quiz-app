@@ -1,0 +1,34 @@
+{
+  "id": "55-002-012",
+  "language": "en",
+  "book_no": 55,
+  "book": "2 Timothy",
+  "chapter": 2,
+  "verse_reference": "2 Timothy 2:22",
+  "question_type": "DIRECT",
+  "difficulty": "Easy",
+  "question": "What did Paul tell Timothy to flee from?",
+  "options": [
+    "Evil desires of youth",
+    "His home town",
+    "The Roman soldiers",
+    "Hard work"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Temptation",
+    "Discipleship"
+  ],
+  "characters": [
+    "Timothy",
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul told Timothy to flee the evil desires of youth and pursue righteousness, faith, love and peace."
+}

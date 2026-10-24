@@ -1,0 +1,36 @@
+{
+  "id": "48-002-003",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 2,
+  "verse_reference": "Galatians 2:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Paul go up to Jerusalem this time?",
+  "options": [
+    "Because the high priest called him",
+    "In response to a revelation",
+    "To collect money for Galatia",
+    "To escape persecution in Damascus"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said he went in response to a revelation and set before the leaders the gospel he preached among the Gentiles."
+}

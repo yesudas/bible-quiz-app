@@ -1,0 +1,37 @@
+{
+  "id": "44-011-002",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 11,
+  "verse_reference": "Acts 11:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Peter answer the criticism?",
+  "options": [
+    "He refused to speak",
+    "He left Jerusalem",
+    "He asked the high priest to judge",
+    "He explained everything to them exactly as it had happened"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Starting from the beginning, Peter told them the whole story exactly as it had happened."
+}

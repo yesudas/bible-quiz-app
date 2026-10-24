@@ -1,0 +1,32 @@
+{
+  "id": "45-004-005",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 4,
+  "verse_reference": "Romans 4:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Blessed are those whose transgressions are ______, whose sins are covered.\"",
+  "options": [
+    "remembered",
+    "punished",
+    "counted",
+    "forgiven"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Forgiveness",
+    "Sin"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quotes David's words about the blessing of having one's transgressions forgiven and sins covered."
+}

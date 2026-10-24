@@ -1,0 +1,36 @@
+{
+  "id": "35-001-006",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 1,
+  "verse_reference": "Habakkuk 1:6",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which people did God say He was raising up?",
+  "options": [
+    "The Egyptians",
+    "The Assyrians",
+    "The Philistines",
+    "The Babylonians"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "empire"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He was raising up the Babylonians, a ruthless people who would sweep across the earth."
+}

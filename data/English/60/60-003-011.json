@@ -1,0 +1,31 @@
+{
+  "id": "60-003-011",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 3,
+  "verse_reference": "1 Peter 3:20",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many people does Peter say were saved through water in the ark?",
+  "options": [
+    "Seven",
+    "Eight",
+    "Ten",
+    "Twelve"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "Noah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter says only a few people, eight in all, were saved through water."
+}

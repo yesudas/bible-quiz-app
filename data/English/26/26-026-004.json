@@ -1,0 +1,42 @@
+{
+  "id": "26-026-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 26,
+  "verse_reference": "Ezekiel 26:7",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which king did God say He would bring against Tyre from the north?",
+  "options": [
+    "Nebuchadnezzar king of Babylon",
+    "Pharaoh king of Egypt",
+    "Cyrus king of Persia",
+    "Sennacherib king of Assyria"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    },
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would bring against Tyre Nebuchadnezzar king of Babylon, king of kings, with horses and chariots."
+}

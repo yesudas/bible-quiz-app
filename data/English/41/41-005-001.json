@@ -1,0 +1,42 @@
+{
+  "id": "41-005-001",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 5,
+  "verse_reference": "Mark 5:1-3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the man with an impure spirit live?",
+  "options": [
+    "In the temple",
+    "In a cave by the sea",
+    "In the tombs",
+    "In the marketplace"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Region of the Gerasenes",
+      "type": "region"
+    },
+    {
+      "name": "Tombs",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man lived in the tombs, and no one could bind him anymore, not even with a chain."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "24-027-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 27,
+  "verse_reference": "Jeremiah 27:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What lie were the prophets telling the priests and people about the temple articles?",
+  "options": [
+    "That they had been burned",
+    "That they had never existed",
+    "That they would soon be brought back from Babylon",
+    "That they were hidden in Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The prophets were saying, \"Very soon now the articles from the LORD's house will be brought back from Babylon,\" but they were prophesying lies."
+}

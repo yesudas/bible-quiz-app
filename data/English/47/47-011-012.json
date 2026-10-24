@@ -1,0 +1,38 @@
+{
+  "id": "47-011-012",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 11,
+  "verse_reference": "2 Corinthians 11:25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Paul said he spent a night and a day where?",
+  "options": [
+    "In a prison cell",
+    "In the open sea",
+    "In the desert",
+    "On a mountain"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Open sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Among his sufferings, Paul said he spent a night and a day in the open sea."
+}

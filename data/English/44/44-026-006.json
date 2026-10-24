@@ -1,0 +1,38 @@
+{
+  "id": "44-026-006",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 26,
+  "verse_reference": "Acts 26:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Paul describe the light he saw at noon on the road?",
+  "options": [
+    "Brighter than the sun",
+    "Like a small candle",
+    "Like a red sunset",
+    "Like a flash of lightning far away"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Miracles"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Damascus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said he saw a light from heaven, brighter than the sun, blazing around him and his companions."
+}

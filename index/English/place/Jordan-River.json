@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Jordan-River",
     "label": "Jordan River",
-    "count": 68,
+    "count": 80,
     "paths": [
         "English/04/04-034-003.json",
         "English/06/06-001-004.json",
@@ -72,7 +72,19 @@
         "English/12/12-007-012.json",
         "English/13/13-012-005.json",
         "English/19/19-114-003.json",
-        "English/23/23-009-001.json"
+        "English/23/23-009-001.json",
+        "English/24/24-012-004.json",
+        "English/40/40-003-006.json",
+        "English/40/40-003-013.json",
+        "English/40/40-003-015.json",
+        "English/40/40-019-001.json",
+        "English/41/41-001-007.json",
+        "English/41/41-001-008.json",
+        "English/41/41-010-001.json",
+        "English/42/42-003-005.json",
+        "English/43/43-001-011.json",
+        "English/43/43-010-015.json",
+        "English/43/43-010-016.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

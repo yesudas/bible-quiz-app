@@ -1,0 +1,35 @@
+{
+  "id": "28-002-009",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 2,
+  "verse_reference": "Hosea 2:15",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "God promised to make the Valley of Achor a door of what?",
+  "options": [
+    "Judgment",
+    "Peace",
+    "Joy",
+    "Hope"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Valley of Achor",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would make the Valley of Achor a door of hope, where His people would respond as in the days of their youth."
+}

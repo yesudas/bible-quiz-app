@@ -1,0 +1,42 @@
+{
+  "id": "40-003-013",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 3,
+  "verse_reference": "Matthew 3:13",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "From which region did Jesus come to the Jordan to be baptized by John?",
+  "options": [
+    "Judea",
+    "Samaria",
+    "Galilee",
+    "Decapolis"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Galilee",
+      "type": "region"
+    },
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 3:13 says Jesus came from Galilee to the Jordan to be baptized by John."
+}

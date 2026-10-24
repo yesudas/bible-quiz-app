@@ -1,0 +1,38 @@
+{
+  "id": "48-001-020",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 1,
+  "verse_reference": "Galatians 1:23-24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When the churches of Judea heard that their former persecutor was preaching the faith, what did they do?",
+  "options": [
+    "They refused to believe it",
+    "They sent him away",
+    "They praised God because of him",
+    "They asked him to leave Judea"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Judea",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The churches heard that the man who once persecuted them now preached the faith, and they praised God because of Paul."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "40-015-013",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 15,
+  "verse_reference": "Matthew 15:23",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How did Jesus first respond to the Canaanite woman's cry?",
+  "options": [
+    "He did not answer a word",
+    "He healed her daughter at once",
+    "He sent her to the priest",
+    "He told her to go home"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jesus",
+    "Canaanite woman"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 15:23 says Jesus did not answer a word, and his disciples urged him to send her away."
+}

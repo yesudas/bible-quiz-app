@@ -1,0 +1,38 @@
+{
+  "id": "41-015-028",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 15,
+  "verse_reference": "Mark 15:46",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Joseph do to close the tomb after laying Jesus in it?",
+  "options": [
+    "Rolled a stone against the entrance",
+    "Sealed it with wax",
+    "Posted his servants",
+    "Locked a wooden door"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Joseph of Arimathea",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Tomb cut out of rock",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph wrapped the body in linen, placed it in a tomb cut out of rock, and rolled a stone against the entrance of the tomb."
+}

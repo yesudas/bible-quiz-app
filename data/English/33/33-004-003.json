@@ -1,0 +1,39 @@
+{
+  "id": "33-004-003",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 4,
+  "verse_reference": "Micah 4:2",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Micah 4:2, from where would the word of the LORD go out?",
+  "options": [
+    "Bethlehem",
+    "Samaria",
+    "Jerusalem",
+    "Babylon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The law will go out from Zion, and the word of the LORD from Jerusalem."
+}

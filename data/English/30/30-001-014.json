@@ -1,0 +1,39 @@
+{
+  "id": "30-001-014",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 1,
+  "verse_reference": "Amos 1:9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Tyre disregard when it sold communities to Edom?",
+  "options": [
+    "A treaty of brotherhood",
+    "The law of Moses",
+    "A promise to Solomon",
+    "The Sabbath"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    },
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 1:9 says Tyre sold whole communities to Edom, disregarding a treaty of brotherhood."
+}

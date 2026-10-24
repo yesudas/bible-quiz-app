@@ -1,0 +1,33 @@
+{
+  "id": "42-003-012",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 3,
+  "verse_reference": "Luke 3:11",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did John tell anyone who has two shirts to do?",
+  "options": [
+    "Sell one",
+    "Wear both",
+    "Share with the one who has none",
+    "Give one to the temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Money"
+  ],
+  "characters": [
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John said anyone who has two shirts should share with the one who has none, and the same with food."
+}

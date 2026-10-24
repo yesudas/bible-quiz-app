@@ -1,0 +1,37 @@
+{
+  "id": "41-006-018",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 6,
+  "verse_reference": "Mark 6:38",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How much food did the disciples find when Jesus asked how many loaves they had?",
+  "options": [
+    "Two loaves and five fish",
+    "Five loaves and two fish",
+    "Seven loaves and a few fish",
+    "Twelve loaves and one fish"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Solitary place",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they found out, they said, \"Five—and two fish.\""
+}

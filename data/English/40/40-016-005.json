@@ -1,0 +1,32 @@
+{
+  "id": "40-016-005",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 16,
+  "verse_reference": "Matthew 16:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Jesus told his disciples to be on guard against the yeast of which groups?",
+  "options": [
+    "The Romans and Greeks",
+    "The Pharisees and Sadducees",
+    "The tax collectors and sinners",
+    "The Samaritans and Canaanites"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 16:6 says, \"Be careful. Be on your guard against the yeast of the Pharisees and Sadducees.\""
+}

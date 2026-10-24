@@ -1,0 +1,41 @@
+{
+  "id": "40-004-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 4,
+  "verse_reference": "Matthew 4:20,22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the four fishermen respond when Jesus called them?",
+  "options": [
+    "They asked for time to think",
+    "At once they left and followed him",
+    "They refused",
+    "They asked to bring their boats"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship",
+    "Obedience"
+  ],
+  "characters": [
+    "Peter",
+    "Andrew",
+    "James",
+    "John"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 4:20 and 22 say they immediately left their nets, and James and John left the boat and their father, and followed him."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "43-016-005",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 16,
+  "verse_reference": "John 16:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to John 16:14, whom will the Spirit glorify?",
+  "options": [
+    "The disciples",
+    "The temple",
+    "Moses",
+    "Jesus"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Holy Spirit",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 16:14, Jesus said, \"He will glorify me because it is from me that he will receive what he will make known to you.\""
+}

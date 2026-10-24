@@ -1,0 +1,39 @@
+{
+  "id": "42-009-015",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 9,
+  "verse_reference": "Luke 9:30",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which two men appeared and talked with Jesus on the mountain?",
+  "options": [
+    "Abraham and David",
+    "Isaiah and Jeremiah",
+    "Noah and Daniel",
+    "Moses and Elijah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Moses",
+    "Elijah",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mountain",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Two men, Moses and Elijah, appeared in glorious splendor and talked with Jesus."
+}

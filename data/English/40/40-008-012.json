@@ -1,0 +1,33 @@
+{
+  "id": "40-008-012",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 8,
+  "verse_reference": "Matthew 8:16-17",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Matthew says Jesus' healing fulfilled the words of which prophet: \"He took up our infirmities and bore our diseases\"?",
+  "options": [
+    "Isaiah",
+    "Jeremiah",
+    "Ezekiel",
+    "Daniel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus",
+    "Isaiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 8:17 says this fulfilled what was spoken through the prophet Isaiah."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "50-001-006",
+  "language": "en",
+  "book_no": 50,
+  "book": "Philippians",
+  "chapter": 1,
+  "verse_reference": "Philippians 1:12-13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Paul say his time in chains had actually done?",
+  "options": [
+    "Stopped his ministry",
+    "Made the church afraid",
+    "Helped advance the gospel",
+    "Turned the guards against him"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Evangelism",
+    "Persecution"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Philippi",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said what had happened to him had served to advance the gospel, and the whole palace guard knew he was in chains for Christ."
+}

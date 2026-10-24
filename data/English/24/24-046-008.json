@@ -1,0 +1,39 @@
+{
+  "id": "24-046-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 46,
+  "verse_reference": "Jeremiah 46:25",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which god of Thebes did the LORD say He would punish?",
+  "options": [
+    "Amon",
+    "Ra",
+    "Baal",
+    "Dagon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Thebes",
+      "type": "city"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, \"I am about to bring punishment on Amon god of Thebes, on Pharaoh, on Egypt and her gods and her kings.\""
+}

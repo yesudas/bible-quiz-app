@@ -1,0 +1,35 @@
+{
+  "id": "66-005-009",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 5,
+  "verse_reference": "Revelation 5:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Besides golden bowls, what did each of the twenty-four elders hold?",
+  "options": [
+    "A harp",
+    "A sword",
+    "A trumpet",
+    "A crown"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Each elder had a harp and golden bowls full of incense as they fell down before the Lamb."
+}

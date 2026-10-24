@@ -1,0 +1,20 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Rich-young-man",
+    "label": "Rich young man",
+    "count": 10,
+    "paths": [
+        "English/40/40-019-010.json",
+        "English/40/40-019-011.json",
+        "English/40/40-019-012.json",
+        "English/40/40-019-013.json",
+        "English/40/40-019-014.json",
+        "English/40/40-019-015.json",
+        "English/41/41-010-010.json",
+        "English/41/41-010-011.json",
+        "English/41/41-010-012.json",
+        "English/41/41-010-013.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

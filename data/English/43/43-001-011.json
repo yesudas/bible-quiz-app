@@ -1,0 +1,40 @@
+{
+  "id": "43-001-011",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 1,
+  "verse_reference": "John 1:28",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where was John baptizing when these things happened?",
+  "options": [
+    "Bethany on the other side of the Jordan",
+    "Bethlehem in Judea",
+    "Capernaum by the lake",
+    "Cana in Galilee"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Bethany on the other side of the Jordan",
+      "type": "village"
+    },
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 1:28 says this all happened at Bethany on the other side of the Jordan, where John was baptizing."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "62-004-012",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 4,
+  "verse_reference": "1 John 4:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does John call someone who says they love God but hates a brother or sister?",
+  "options": [
+    "A prophet",
+    "A liar",
+    "A servant",
+    "A teacher"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Truth",
+    "Sin"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says whoever claims to love God yet hates a brother or sister is a liar, because they cannot love God whom they have not seen if they do not love the one they have seen."
+}

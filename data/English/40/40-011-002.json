@@ -1,0 +1,34 @@
+{
+  "id": "40-011-002",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 11,
+  "verse_reference": "Matthew 11:4-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Jesus answer John's disciples?",
+  "options": [
+    "He told them to ask the priests",
+    "He told them to report what they heard and saw: the blind see, the lame walk and the dead are raised",
+    "He said he would visit John in prison",
+    "He gave no answer"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 11:4-5 says Jesus told them to report what they hear and see: the blind receive sight, the lame walk, those with leprosy are cleansed, the deaf hear, the dead are raised and the good news is proclaimed to the poor."
+}

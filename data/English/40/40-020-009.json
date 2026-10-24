@@ -1,0 +1,39 @@
+{
+  "id": "40-020-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 20,
+  "verse_reference": "Matthew 20:17-19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "On the way up to Jerusalem, Jesus said the Son of Man would be handed over to the Gentiles to be mocked, flogged and what?",
+  "options": [
+    "Stoned",
+    "Crucified",
+    "Imprisoned",
+    "Exiled"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Prophecy",
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 20:19 says they will hand him over to the Gentiles to be mocked and flogged and crucified. On the third day he will be raised to life!"
+}

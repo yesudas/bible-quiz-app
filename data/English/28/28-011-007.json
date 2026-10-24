@@ -1,0 +1,30 @@
+{
+  "id": "28-011-007",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 11,
+  "verse_reference": "Hosea 11:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"How can I give you up, ______?\"",
+  "options": [
+    "Judah",
+    "Jacob",
+    "Ephraim",
+    "Samaria"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Forgiveness"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'How can I give you up, Ephraim? My heart is changed within me; all my compassion is aroused.'"
+}

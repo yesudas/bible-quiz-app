@@ -1,0 +1,31 @@
+{
+  "id": "42-016-010",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 16,
+  "verse_reference": "Luke 16:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say is easier than for the least stroke of a pen to drop out of the Law?",
+  "options": [
+    "For a camel to go through a needle",
+    "For the sea to dry up",
+    "For heaven and earth to disappear",
+    "For a stone to become bread"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'It is easier for heaven and earth to disappear than for the least stroke of a pen to drop out of the Law.'"
+}

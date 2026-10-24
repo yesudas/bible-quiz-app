@@ -1,0 +1,35 @@
+{
+  "id": "66-012-001",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 12,
+  "verse_reference": "Revelation 12:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was on the head of the woman clothed with the sun?",
+  "options": [
+    "A veil of white",
+    "A crown of twelve stars",
+    "A crown of gold",
+    "A rainbow"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A woman appeared in heaven clothed with the sun, with the moon under her feet and a crown of twelve stars on her head."
+}

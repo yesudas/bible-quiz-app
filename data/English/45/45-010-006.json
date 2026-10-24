@@ -1,0 +1,30 @@
+{
+  "id": "45-010-006",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 10,
+  "verse_reference": "Romans 10:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Romans 10:12, what difference is there between Jew and Gentile?",
+  "options": [
+    "There is no difference",
+    "Jews are saved first and Gentiles never",
+    "Gentiles have a different Lord",
+    "Only Jews may call on the Lord"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says there is no difference between Jew and Gentile; the same Lord is Lord of all and richly blesses all who call on Him."
+}

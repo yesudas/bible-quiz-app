@@ -1,0 +1,31 @@
+{
+  "id": "32-002-006",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 2,
+  "verse_reference": "Jonah 2:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Jonah's words: \"But you, LORD my God, brought my life up from the ____.\"",
+  "options": [
+    "grave",
+    "pit",
+    "sea",
+    "darkness"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonah praised God for bringing his life up from the pit."
+}

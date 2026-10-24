@@ -1,0 +1,32 @@
+{
+  "id": "43-010-007",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 10,
+  "verse_reference": "John 10:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say about \"other sheep that are not of this sheep pen\"?",
+  "options": [
+    "He would leave them behind",
+    "They belonged to another shepherd",
+    "They were lost forever",
+    "He must bring them also, and there would be one flock and one shepherd"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Mission",
+    "Church"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 10:16, Jesus said he has other sheep that are not of this pen; he must bring them also, and there shall be one flock and one shepherd."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "41-014-025",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 14,
+  "verse_reference": "Mark 14:61-62",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "When the high priest asked, \"Are you the Messiah, the Son of the Blessed One?\" Jesus answered, \"I ____.\"",
+  "options": [
+    "am",
+    "know",
+    "will be",
+    "was"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Courtyard of the high priest",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"I am,\" said Jesus. \"And you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.\""
+}

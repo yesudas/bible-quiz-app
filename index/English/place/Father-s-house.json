@@ -1,0 +1,15 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Father-s-house",
+    "label": "Father's house",
+    "count": 5,
+    "paths": [
+        "English/42/42-015-008.json",
+        "English/42/42-015-016.json",
+        "English/42/42-015-017.json",
+        "English/42/42-015-018.json",
+        "English/42/42-015-020.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

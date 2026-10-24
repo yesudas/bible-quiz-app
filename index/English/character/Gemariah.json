@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Gemariah",
+    "label": "Gemariah",
+    "count": 3,
+    "paths": [
+        "English/24/24-029-002.json",
+        "English/24/24-036-005.json",
+        "English/24/24-036-010.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

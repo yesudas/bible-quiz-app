@@ -1,0 +1,39 @@
+{
+  "id": "41-010-003",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 10,
+  "verse_reference": "Mark 10:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jesus say Moses wrote the law about divorce?",
+  "options": [
+    "Because their hearts were hard",
+    "Because there were too many people",
+    "Because the priests asked him",
+    "Because of the war with Egypt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Marriage",
+    "Law",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus",
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Judea",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus replied, \"It was because your hearts were hard that Moses wrote you this law.\""
+}

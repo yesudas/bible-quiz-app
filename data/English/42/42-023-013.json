@@ -1,0 +1,38 @@
+{
+  "id": "42-023-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 23,
+  "verse_reference": "Luke 23:34",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' words on the cross: 'Father, ____ them, for they do not know what they are doing.'",
+  "options": [
+    "punish",
+    "forgive",
+    "save",
+    "bless"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Forgiveness",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "The Skull",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Father, forgive them, for they do not know what they are doing.'"
+}

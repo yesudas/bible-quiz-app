@@ -1,0 +1,34 @@
+{
+  "id": "40-022-012",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 22,
+  "verse_reference": "Matthew 22:21",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"So give back to Caesar what is Caesar's, and to ______ what is God's.\"",
+  "options": [
+    "God",
+    "the poor",
+    "the temple",
+    "the priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus",
+    "Caesar"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 22:21 says, \"So give back to Caesar what is Caesar's, and to God what is God's.\""
+}

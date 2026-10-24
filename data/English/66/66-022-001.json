@@ -1,0 +1,43 @@
+{
+  "id": "66-022-001",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 22,
+  "verse_reference": "Revelation 22:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the angel show John flowing from the throne of God and of the Lamb?",
+  "options": [
+    "A stream of gold",
+    "The river of the water of life",
+    "A river of fire",
+    "A spring of oil"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Salvation"
+  ],
+  "characters": [
+    "John",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "River of the water of life",
+      "type": "river"
+    },
+    {
+      "name": "New Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel showed John the river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb."
+}

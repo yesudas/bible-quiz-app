@@ -1,0 +1,34 @@
+{
+  "id": "27-012-012",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 12,
+  "verse_reference": "Daniel 12:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What promise was given to Daniel at the end of the book?",
+  "options": [
+    "He would rest, and at the end of the days rise to receive his inheritance",
+    "He would become king of Persia",
+    "He would return to Jerusalem",
+    "He would never die"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Promise",
+    "Salvation"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daniel was told to go his way till the end; he would rest, and at the end of the days he would rise to receive his allotted inheritance."
+}

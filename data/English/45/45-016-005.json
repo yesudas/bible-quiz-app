@@ -1,0 +1,32 @@
+{
+  "id": "45-016-005",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 16,
+  "verse_reference": "Romans 16:7",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two people does Paul say had been in prison with him?",
+  "options": [
+    "Priscilla and Aquila",
+    "Timothy and Titus",
+    "Andronicus and Junia",
+    "Gaius and Erastus"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Andronicus",
+    "Junia"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul greets Andronicus and Junia, his fellow Jews who had been in prison with him."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "44-009-007",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 9,
+  "verse_reference": "Acts 9:11",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "On which street was the house where Saul was staying?",
+  "options": [
+    "Main Street",
+    "Temple Street",
+    "Straight Street",
+    "King's Highway"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [
+    "Ananias",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Damascus",
+      "type": "city"
+    },
+    {
+      "name": "Straight Street",
+      "type": "road"
+    },
+    {
+      "name": "House of Judas",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord told Ananias to go to the house of Judas on Straight Street and ask for a man from Tarsus named Saul."
+}

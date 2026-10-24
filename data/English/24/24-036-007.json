@@ -1,0 +1,37 @@
+{
+  "id": "24-036-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 36,
+  "verse_reference": "Jeremiah 36:21",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who read the scroll to King Jehoiakim?",
+  "options": [
+    "Baruch",
+    "Jehudi",
+    "Jeremiah",
+    "Elishama"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jehudi",
+    "Jehoiakim"
+  ],
+  "places": [
+    {
+      "name": "Royal palace",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king sent Jehudi to get the scroll, and Jehudi read it to the king and all the officials standing beside him."
+}

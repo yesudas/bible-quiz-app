@@ -1,0 +1,38 @@
+{
+  "id": "38-007-003",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 7,
+  "verse_reference": "Zechariah 7:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What question did the men from Bethel ask the priests and prophets?",
+  "options": [
+    "Should we mourn and fast in the fifth month?",
+    "Should we rebuild the walls?",
+    "Should we return to Babylon?",
+    "Should we offer more sacrifices?"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Prayer"
+  ],
+  "characters": [
+    "Sharezer",
+    "Regem-Melek"
+  ],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They asked, 'Should I mourn and fast in the fifth month, as I have done for so many years?'"
+}

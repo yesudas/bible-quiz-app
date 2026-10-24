@@ -1,0 +1,41 @@
+{
+  "id": "24-023-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 23,
+  "verse_reference": "Jeremiah 23:13",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "The prophets of which city prophesied by Baal and led Israel astray?",
+  "options": [
+    "Samaria",
+    "Bethel",
+    "Dan",
+    "Tyre"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Sin"
+  ],
+  "characters": [
+    "Baal"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Among the prophets of Samaria God saw something repulsive: they prophesied by Baal and led His people Israel astray."
+}

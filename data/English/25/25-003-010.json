@@ -1,0 +1,31 @@
+{
+  "id": "25-003-010",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 3,
+  "verse_reference": "Lamentations 3:57",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"You came near when I called you, and you said, 'Do not ____.'\"",
+  "options": [
+    "sin",
+    "fear",
+    "run",
+    "weep"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When he called from the pit, the LORD came near and said, \"Do not fear.\""
+}

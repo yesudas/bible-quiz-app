@@ -1,0 +1,41 @@
+{
+  "id": "24-043-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 43,
+  "verse_reference": "Jeremiah 43:13",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did God say Nebuchadnezzar would demolish the sacred pillars?",
+  "options": [
+    "In the temple of Dagon",
+    "In the temple of the sun in Egypt",
+    "In the house of Baal",
+    "In Pharaoh's tomb"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Temple of the sun",
+      "type": "temple"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"There in the temple of the sun in Egypt he will demolish the sacred pillars and will burn down the temples of the gods of Egypt.\""
+}

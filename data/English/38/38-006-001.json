@@ -1,0 +1,32 @@
+{
+  "id": "38-006-001",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 6,
+  "verse_reference": "Zechariah 6:1",
+  "question_type": "DIRECT",
+  "difficulty": "Easy",
+  "question": "How many chariots did Zechariah see in this vision?",
+  "options": [
+    "Two",
+    "Three",
+    "Seven",
+    "Four"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Zechariah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zechariah saw four chariots coming out from between two mountains."
+}

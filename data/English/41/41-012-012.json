@@ -1,0 +1,37 @@
+{
+  "id": "41-012-012",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 12,
+  "verse_reference": "Mark 12:20-23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In the Sadducees' question, how many brothers married the same woman?",
+  "options": [
+    "Three",
+    "Seven",
+    "Five",
+    "Twelve"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They said there were seven brothers, and each one married the woman and died without leaving any children."
+}

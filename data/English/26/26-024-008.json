@@ -1,0 +1,35 @@
+{
+  "id": "26-024-008",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 24,
+  "verse_reference": "Ezekiel 24:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God say He was about to desecrate, which the people took pride in as the delight of their eyes?",
+  "options": [
+    "His sanctuary",
+    "The city walls",
+    "The king's palace",
+    "The Jordan River"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'I am about to desecrate my sanctuary\u2014the stronghold in which you take pride, the delight of your eyes.'"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "46-005-006",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 5,
+  "verse_reference": "1 Corinthians 5:7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Paul tell the believers to get rid of so they could be a new batch?",
+  "options": [
+    "The old bread",
+    "The old yeast",
+    "The old wine",
+    "The old law"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said, \"Get rid of the old yeast, so that you may be a new unleavened batch.\""
+}

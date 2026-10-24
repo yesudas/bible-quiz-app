@@ -1,0 +1,34 @@
+{
+  "id": "43-009-011",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 9,
+  "verse_reference": "John 9:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why were the man's parents afraid to say who opened his eyes?",
+  "options": [
+    "They did not know Jesus",
+    "They were afraid of the Romans",
+    "Anyone who said Jesus was the Messiah would be put out of the synagogue",
+    "Jesus told them to keep it secret"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Synagogue",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 9:22 says his parents were afraid, because anyone who acknowledged that Jesus was the Messiah would be put out of the synagogue."
+}

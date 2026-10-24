@@ -1,0 +1,32 @@
+{
+  "id": "66-006-001",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 6,
+  "verse_reference": "Revelation 6:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "When the Lamb opened the first seal, what colour was the horse that came out?",
+  "options": [
+    "Red",
+    "Black",
+    "White",
+    "Pale"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the first seal was opened, John saw a white horse. Its rider held a bow, was given a crown, and rode out as a conqueror."
+}

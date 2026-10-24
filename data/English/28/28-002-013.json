@@ -1,0 +1,32 @@
+{
+  "id": "28-002-013",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 2,
+  "verse_reference": "Hosea 2:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"I will ______ you to me forever.\"",
+  "options": [
+    "call",
+    "save",
+    "bless",
+    "betroth"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised to betroth His people to Himself forever, in righteousness, justice, love and compassion."
+}

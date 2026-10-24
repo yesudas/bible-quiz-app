@@ -1,0 +1,39 @@
+{
+  "id": "41-008-015",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 8,
+  "verse_reference": "Mark 8:29",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Peter's answer to Jesus: \"You are the ____.\"",
+  "options": [
+    "Teacher",
+    "Prophet",
+    "Messiah",
+    "King of Israel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Faith"
+  ],
+  "characters": [
+    "Simon Peter",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Caesarea Philippi",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked, \"But what about you? Who do you say I am?\" Peter answered, \"You are the Messiah.\""
+}

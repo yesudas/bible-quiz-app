@@ -1,0 +1,38 @@
+{
+  "id": "24-026-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 26,
+  "verse_reference": "Jeremiah 26:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When did the word of the LORD in Jeremiah 26 come?",
+  "options": [
+    "Early in the reign of Jehoiakim",
+    "In the last year of Josiah",
+    "In the ninth year of Zedekiah",
+    "After the fall of Jerusalem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoiakim",
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "This word came from the LORD early in the reign of Jehoiakim son of Josiah king of Judah."
+}

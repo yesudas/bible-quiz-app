@@ -1,0 +1,32 @@
+{
+  "id": "49-001-003",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 1,
+  "verse_reference": "Ephesians 1:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Paul, how did he become an apostle of Christ Jesus?",
+  "options": [
+    "By choice of the other apostles",
+    "By the will of God",
+    "By his own decision",
+    "By the church in Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says he was an apostle of Christ Jesus by the will of God."
+}

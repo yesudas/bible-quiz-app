@@ -1,0 +1,38 @@
+{
+  "id": "40-013-019",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 13,
+  "verse_reference": "Matthew 13:44",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In the parable of the hidden treasure, what did the man do after finding treasure in a field?",
+  "options": [
+    "Told the owner",
+    "Took the treasure and ran",
+    "Left it there",
+    "Sold all he had and bought that field"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Field",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 13:44 says in his joy he went and sold all he had and bought that field."
+}

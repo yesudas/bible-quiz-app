@@ -1,0 +1,15 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Tahpanhes",
+    "label": "Tahpanhes",
+    "count": 5,
+    "paths": [
+        "English/24/24-043-004.json",
+        "English/24/24-043-005.json",
+        "English/24/24-043-006.json",
+        "English/24/24-044-001.json",
+        "English/26/26-030-007.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

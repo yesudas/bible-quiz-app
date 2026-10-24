@@ -1,0 +1,38 @@
+{
+  "id": "24-001-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 1,
+  "verse_reference": "Jeremiah 1:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Jeremiah's ministry continued until what event?",
+  "options": [
+    "The people of Jerusalem went into exile",
+    "Josiah repaired the temple",
+    "The walls of Jerusalem were rebuilt",
+    "Sennacherib attacked Judah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Jeremiah",
+    "Zedekiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah's ministry lasted through Zedekiah's reign, until the people of Jerusalem went into exile in the fifth month of his eleventh year."
+}

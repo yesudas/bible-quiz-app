@@ -1,0 +1,32 @@
+{
+  "id": "43-016-010",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 16,
+  "verse_reference": "John 16:27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jesus say the Father himself loves the disciples?",
+  "options": [
+    "Because they had loved Jesus and believed he came from God",
+    "Because they kept the Sabbath",
+    "Because they were Israelites",
+    "Because they gave to the poor"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 16:27, Jesus said, \"The Father himself loves you because you have loved me and have believed that I came from God.\""
+}

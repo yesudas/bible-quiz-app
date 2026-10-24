@@ -1,0 +1,40 @@
+{
+  "id": "42-021-007",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 21,
+  "verse_reference": "Luke 21:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Before the signs of the end, what did Jesus say would happen to his followers?",
+  "options": [
+    "They would become rulers",
+    "They would all become rich",
+    "They would never suffer",
+    "They would be persecuted and brought before kings and governors"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Synagogues",
+      "type": "synagogue"
+    },
+    {
+      "name": "Prisons",
+      "type": "prison"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said they would be seized and persecuted, handed over to synagogues and put in prison, and brought before kings and governors because of his name."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "45-002-002",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 2,
+  "verse_reference": "Romans 2:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Paul, what is God's judgment against those who do evil based on?",
+  "options": [
+    "Rumors",
+    "Truth",
+    "Their wealth",
+    "Their nationality"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Romans 2:2 says God's judgment against those who do such things is based on truth."
+}

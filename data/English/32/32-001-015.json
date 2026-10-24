@@ -1,0 +1,35 @@
+{
+  "id": "32-001-015",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 1,
+  "verse_reference": "Jonah 1:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did the sailors respond after the sea became calm?",
+  "options": [
+    "They sailed home and forgot the LORD",
+    "They blamed Jonah's God and cursed him",
+    "They greatly feared the LORD, offered a sacrifice and made vows",
+    "They cast lots again"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Fear of God"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ship",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The men greatly feared the LORD, and they offered a sacrifice to the LORD and made vows to Him."
+}

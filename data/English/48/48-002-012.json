@@ -1,0 +1,36 @@
+{
+  "id": "48-002-012",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 2,
+  "verse_reference": "Galatians 2:13",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was also led astray by the hypocrisy of the other Jews?",
+  "options": [
+    "Titus",
+    "John",
+    "Timothy",
+    "Barnabas"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Barnabas"
+  ],
+  "places": [
+    {
+      "name": "Antioch",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said that by their hypocrisy even Barnabas was led astray."
+}

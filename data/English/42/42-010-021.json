@@ -1,0 +1,39 @@
+{
+  "id": "42-010-021",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:38-39",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which sister sat at the Lord's feet listening to what he said?",
+  "options": [
+    "Mary",
+    "Martha",
+    "Joanna",
+    "Salome"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Mary of Bethany",
+    "Martha",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Martha's home",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Martha opened her home to Jesus. Her sister Mary sat at the Lord's feet listening to what he said."
+}

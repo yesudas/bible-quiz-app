@@ -1,0 +1,33 @@
+{
+  "id": "54-003-009",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 3,
+  "verse_reference": "1 Timothy 3:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Paul write these instructions to Timothy?",
+  "options": [
+    "So Timothy would know how people ought to behave in God's household",
+    "So Timothy could build a new temple",
+    "So Timothy could leave Ephesus quickly",
+    "So Timothy could become a king"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church",
+    "Leadership"
+  ],
+  "characters": [
+    "Paul",
+    "Timothy"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul hoped to come soon, but if delayed, he wanted Timothy to know how people ought to conduct themselves in God's household."
+}

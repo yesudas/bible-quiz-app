@@ -1,0 +1,38 @@
+{
+  "id": "40-014-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 14,
+  "verse_reference": "Matthew 14:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "When the disciples wanted to send the crowd away, what did Jesus say? \"They do not need to go away. You give them something to ______.\"",
+  "options": [
+    "drink",
+    "wear",
+    "eat",
+    "do"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Solitary place",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 14:16 says Jesus replied, \"They do not need to go away. You give them something to eat.\""
+}

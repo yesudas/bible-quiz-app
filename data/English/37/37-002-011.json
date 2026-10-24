@@ -1,0 +1,30 @@
+{
+  "id": "37-002-011",
+  "language": "en",
+  "book_no": 37,
+  "book": "Haggai",
+  "chapter": 2,
+  "verse_reference": "Haggai 2:1,10,20",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "On which day of the ninth month did Haggai receive two messages from the LORD?",
+  "options": [
+    "The first day",
+    "The tenth day",
+    "The twenty-first day",
+    "The twenty-fourth day"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Haggai"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Both the message about the priests' rulings and the message for Zerubbabel came on the twenty-fourth day of the ninth month."
+}

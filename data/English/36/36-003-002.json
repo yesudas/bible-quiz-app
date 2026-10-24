@@ -1,0 +1,36 @@
+{
+  "id": "36-003-002",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 3,
+  "verse_reference": "Zephaniah 3:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Her officials within her are roaring ____; her rulers are evening wolves.\"",
+  "options": [
+    "bears",
+    "lions",
+    "bulls",
+    "leopards"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zephaniah 3:3 compares Jerusalem's officials to roaring lions and her rulers to evening wolves."
+}

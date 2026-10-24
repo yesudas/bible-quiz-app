@@ -1,0 +1,35 @@
+{
+  "id": "26-045-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 45,
+  "verse_reference": "Ezekiel 45:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When the land was divided, what was to be set apart first as a sacred district?",
+  "options": [
+    "A portion for the king",
+    "A portion for the army",
+    "A portion for the LORD",
+    "A portion for the foreigners"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they allotted the land as an inheritance, they were to present to the LORD a portion of the land as a sacred district."
+}

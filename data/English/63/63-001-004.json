@@ -1,0 +1,31 @@
+{
+  "id": "63-001-004",
+  "language": "en",
+  "book_no": 63,
+  "book": "2 John",
+  "chapter": 1,
+  "verse_reference": "2 John 1:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"It has given me great joy to find some of your children walking in the ______.\"",
+  "options": [
+    "truth",
+    "light",
+    "Spirit",
+    "way"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John was full of joy because some of the lady's children were walking in the truth, as the Father commanded."
+}

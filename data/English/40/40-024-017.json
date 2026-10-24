@@ -1,0 +1,32 @@
+{
+  "id": "40-024-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 24,
+  "verse_reference": "Matthew 24:32",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What lesson did Jesus tell them to learn from the fig tree?",
+  "options": [
+    "Figs ripen in winter",
+    "When its leaves come out, summer is near",
+    "Fig trees never die",
+    "Fig trees need much water"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 24:32 says, \"As soon as its twigs get tender and its leaves come out, you know that summer is near.\""
+}

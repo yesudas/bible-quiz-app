@@ -1,0 +1,34 @@
+{
+  "id": "38-009-002",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 9,
+  "verse_reference": "Zechariah 9:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God say would happen to Tyre?",
+  "options": [
+    "It would become the capital of Israel",
+    "It would be flooded by the Nile",
+    "Its power on the sea would be destroyed and it would be consumed by fire",
+    "It would be given to Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord would take away her possessions, destroy her power on the sea, and she would be consumed by fire."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "46-008-003",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 8,
+  "verse_reference": "1 Corinthians 8:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Paul, what is true of the person who loves God?",
+  "options": [
+    "They will become rich",
+    "They will know everything",
+    "They are known by God",
+    "They will never suffer"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that whoever loves God is known by God."
+}

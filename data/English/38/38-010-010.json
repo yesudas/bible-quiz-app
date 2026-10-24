@@ -1,0 +1,39 @@
+{
+  "id": "38-010-010",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 10,
+  "verse_reference": "Zechariah 10:10",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "To which two regions would God bring His people, until there was not enough room?",
+  "options": [
+    "Bashan and Sharon",
+    "Galilee and Samaria",
+    "Gilead and Lebanon",
+    "Negev and Edom"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gilead",
+      "type": "region"
+    },
+    {
+      "name": "Lebanon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God would bring them to Gilead and Lebanon, and there would not be room enough for them."
+}

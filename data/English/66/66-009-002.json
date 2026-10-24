@@ -1,0 +1,34 @@
+{
+  "id": "66-009-002",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 9,
+  "verse_reference": "Revelation 9:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What came up out of the Abyss when it was opened?",
+  "options": [
+    "Smoke like the smoke from a gigantic furnace",
+    "A river of fire",
+    "A great dragon",
+    "A flood of water"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Abyss",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Smoke rose from the Abyss like the smoke from a gigantic furnace, and the sun and sky were darkened."
+}

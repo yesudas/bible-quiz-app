@@ -1,0 +1,42 @@
+{
+  "id": "40-015-016",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 15,
+  "verse_reference": "Matthew 15:29-31",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When the crowds saw the lame walking and the blind seeing on the mountainside, what did they do?",
+  "options": [
+    "Ran away in fear",
+    "Praised the God of Israel",
+    "Asked Jesus to leave",
+    "Argued with the Pharisees"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    },
+    {
+      "name": "Mountainside",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 15:31 says the people were amazed when they saw the mute speaking, the crippled made well, the lame walking and the blind seeing, and they praised the God of Israel."
+}

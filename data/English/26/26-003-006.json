@@ -1,0 +1,37 @@
+{
+  "id": "26-003-006",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 3,
+  "verse_reference": "Ezekiel 3:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How long did Ezekiel sit among the exiles, deeply distressed?",
+  "options": [
+    "Three days",
+    "Forty days",
+    "Seven days",
+    "Ten days"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Exile",
+    "Suffering"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Tel Aviv",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezekiel sat among the exiles at Tel Aviv for seven days, deeply distressed."
+}

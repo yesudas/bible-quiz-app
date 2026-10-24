@@ -1,0 +1,35 @@
+{
+  "id": "28-010-005",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 10,
+  "verse_reference": "Hosea 10:7",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Hosea said Samaria's king would be swept away like what?",
+  "options": [
+    "A twig on the surface of the waters",
+    "Chaff in the wind",
+    "Smoke from a chimney",
+    "Dust on a road"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Samaria's king would be destroyed, swept away like a twig on the surface of the waters."
+}

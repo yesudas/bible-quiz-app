@@ -3,11 +3,14 @@
     "language": "English",
     "place": "Tekoa",
     "label": "Tekoa",
-    "count": 3,
+    "count": 6,
     "paths": [
         "English/10/10-014-001.json",
         "English/10/10-014-002.json",
-        "English/16/16-003-003.json"
+        "English/16/16-003-003.json",
+        "English/24/24-006-002.json",
+        "English/30/30-001-001.json",
+        "English/30/30-001-002.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

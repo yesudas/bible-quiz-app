@@ -1,0 +1,37 @@
+{
+  "id": "46-016-001",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 16,
+  "verse_reference": "1 Corinthians 16:1",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Paul told the Corinthians to follow the same instructions about the collection that he gave to the churches in which region?",
+  "options": [
+    "Galatia",
+    "Judea",
+    "Macedonia",
+    "Asia"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Galatia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said to do what he told the Galatian churches to do about the collection for the Lord's people."
+}

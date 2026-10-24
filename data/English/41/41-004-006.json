@@ -1,0 +1,32 @@
+{
+  "id": "41-004-006",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 4,
+  "verse_reference": "Mark 4:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say had been given to his disciples?",
+  "options": [
+    "The keys to the temple",
+    "The secret of the kingdom of God",
+    "Power over the Roman rulers",
+    "The writings of Moses"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Kingdom of God",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told them, \"The secret of the kingdom of God has been given to you. But to those on the outside everything is said in parables.\""
+}

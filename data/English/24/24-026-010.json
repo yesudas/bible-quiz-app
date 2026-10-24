@@ -1,0 +1,38 @@
+{
+  "id": "24-026-010",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 26,
+  "verse_reference": "Jeremiah 26:23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened to Uriah after he was brought back from Egypt?",
+  "options": [
+    "He was set free",
+    "He became a priest",
+    "King Jehoiakim had him struck down with a sword",
+    "He was sent to Babylon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution",
+    "Suffering"
+  ],
+  "characters": [
+    "Uriah",
+    "Jehoiakim"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They brought Uriah out of Egypt to King Jehoiakim, who had him struck down with a sword and his body thrown into the burial place of the common people."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "42-011-024",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:51",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Jesus spoke of the blood of the prophets from the blood of which man to the blood of Zechariah?",
+  "options": [
+    "Isaiah",
+    "Moses",
+    "Noah",
+    "Abel"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus",
+    "Abel",
+    "Zechariah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said this generation would be held responsible for the blood of the prophets, from the blood of Abel to the blood of Zechariah."
+}

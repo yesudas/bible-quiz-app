@@ -1,0 +1,37 @@
+{
+  "id": "44-028-011",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 28,
+  "verse_reference": "Acts 28:14",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did they find brothers and sisters who invited them to stay a week?",
+  "options": [
+    "Syracuse",
+    "Rhegium",
+    "Rome",
+    "Puteoli"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Church",
+    "Love"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Puteoli",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At Puteoli they found some brothers and sisters who invited them to spend a week with them."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "45-016-004",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 16,
+  "verse_reference": "Romans 16:5",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who does Paul call the first convert to Christ in the province of Asia?",
+  "options": [
+    "Rufus",
+    "Epenetus",
+    "Gaius",
+    "Erastus"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Evangelism"
+  ],
+  "characters": [
+    "Epenetus"
+  ],
+  "places": [
+    {
+      "name": "Asia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul greets his dear friend Epenetus, who was the first convert to Christ in the province of Asia."
+}

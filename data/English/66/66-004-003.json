@@ -1,0 +1,35 @@
+{
+  "id": "66-004-003",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 4,
+  "verse_reference": "Revelation 4:4",
+  "question_type": "DIRECT",
+  "difficulty": "Easy",
+  "question": "How many elders sat on thrones around the throne?",
+  "options": [
+    "Twelve",
+    "Seven",
+    "Forty",
+    "Twenty-four"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Surrounding the throne were twenty-four other thrones, and on them sat twenty-four elders."
+}

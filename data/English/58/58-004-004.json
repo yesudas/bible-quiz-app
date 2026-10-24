@@ -1,0 +1,30 @@
+{
+  "id": "58-004-004",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 4,
+  "verse_reference": "Hebrews 4:4",
+  "question_type": "WHEN",
+  "difficulty": "Easy",
+  "question": "According to Hebrews 4:4, on which day did God rest from all his works?",
+  "options": [
+    "The first day",
+    "The third day",
+    "The sixth day",
+    "The seventh day"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 4:4 says, \"On the seventh day God rested from all his works.\""
+}

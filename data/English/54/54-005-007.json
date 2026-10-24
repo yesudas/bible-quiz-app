@@ -1,0 +1,32 @@
+{
+  "id": "54-005-007",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 5,
+  "verse_reference": "1 Timothy 5:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Do not muzzle an ox while it is treading out the grain,\" and \"The worker deserves his ____.\"",
+  "options": [
+    "rest",
+    "reward",
+    "wages",
+    "bread"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Money"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quoted Scripture to show that those who work hard in the church deserve to be supported: the worker deserves his wages."
+}

@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Zadok",
     "label": "Zadok",
-    "count": 11,
+    "count": 14,
     "paths": [
         "English/10/10-008-013.json",
         "English/10/10-015-011.json",
@@ -15,7 +15,10 @@
         "English/13/13-016-013.json",
         "English/13/13-024-002.json",
         "English/13/13-029-010.json",
-        "English/14/14-031-009.json"
+        "English/14/14-031-009.json",
+        "English/26/26-040-009.json",
+        "English/26/26-044-004.json",
+        "English/26/26-048-003.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

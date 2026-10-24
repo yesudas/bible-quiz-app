@@ -1,0 +1,32 @@
+{
+  "id": "45-003-008",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 3,
+  "verse_reference": "Romans 3:20",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Romans 3:20, what do people become conscious of through the law?",
+  "options": [
+    "Their wealth",
+    "Their sin",
+    "Their strength",
+    "Their family line"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says no one is declared righteous by the works of the law; rather, through the law we become conscious of our sin."
+}

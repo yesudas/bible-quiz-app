@@ -1,0 +1,38 @@
+{
+  "id": "41-004-021",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 4,
+  "verse_reference": "Mark 4:41",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the terrified disciples ask one another after the storm was calmed?",
+  "options": [
+    "Where will we land?",
+    "Should we go back to shore?",
+    "Why did the storm come?",
+    "Who is this? Even the wind and the waves obey him!"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Miracles",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They were terrified and asked each other, \"Who is this? Even the wind and the waves obey him!\""
+}

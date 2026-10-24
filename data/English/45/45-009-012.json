@@ -1,0 +1,32 @@
+{
+  "id": "45-009-012",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 9,
+  "verse_reference": "Romans 9:27",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Isaiah, as quoted in Romans 9:27, who among the Israelites will be saved?",
+  "options": [
+    "Every single one",
+    "Only the priests",
+    "Only the remnant",
+    "Only the kings"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Salvation"
+  ],
+  "characters": [
+    "Isaiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quotes Isaiah: though the Israelites are like the sand by the sea, only the remnant will be saved."
+}

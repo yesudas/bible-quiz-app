@@ -1,0 +1,37 @@
+{
+  "id": "41-008-013",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 8,
+  "verse_reference": "Mark 8:27",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Near which villages did Jesus ask his disciples, \"Who do people say I am?\"",
+  "options": [
+    "Bethlehem",
+    "Capernaum",
+    "Jericho",
+    "Caesarea Philippi"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Caesarea Philippi",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus and his disciples went on to the villages around Caesarea Philippi, and on the way he asked them, \"Who do people say I am?\""
+}

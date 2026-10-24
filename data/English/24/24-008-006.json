@@ -1,0 +1,31 @@
+{
+  "id": "24-008-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 8,
+  "verse_reference": "Jeremiah 8:8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "The people claimed to be wise because they had the law of the LORD. What had handled it falsely?",
+  "options": [
+    "The swords of the soldiers",
+    "The lying pen of the scribes",
+    "The songs of the singers",
+    "The tongues of the elders"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Sin",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said the lying pen of the scribes had handled the law falsely."
+}

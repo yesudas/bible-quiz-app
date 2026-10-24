@@ -1,0 +1,32 @@
+{
+  "id": "40-013-016",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 13,
+  "verse_reference": "Matthew 13:38-39",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "In Jesus' explanation of the parable of the weeds, who is the enemy who sows the weeds?",
+  "options": [
+    "The Pharisees",
+    "The Romans",
+    "The devil",
+    "False prophets"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 13:39 says the enemy who sows them is the devil, the harvest is the end of the age, and the harvesters are angels."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "27-009-014",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 9,
+  "verse_reference": "Daniel 9:25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Gabriel, the time would be counted from the decree to do what?",
+  "options": [
+    "Destroy Babylon",
+    "Build a palace for Darius",
+    "Free the Jews from Egypt",
+    "Restore and rebuild Jerusalem"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel",
+    "Gabriel"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gabriel said that from the time the word goes out to restore and rebuild Jerusalem until the Anointed One, the ruler, comes, there will be seven 'sevens' and sixty-two 'sevens.'"
+}

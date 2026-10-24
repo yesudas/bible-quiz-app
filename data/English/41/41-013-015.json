@@ -1,0 +1,33 @@
+{
+  "id": "41-013-015",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 13,
+  "verse_reference": "Mark 13:27",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did Jesus say the Son of Man will send to gather his elect from the four winds?",
+  "options": [
+    "His angels",
+    "His apostles",
+    "The prophets",
+    "Kings of the earth"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Angels",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said he will send his angels and gather his elect from the four winds, from the ends of the earth to the ends of the heavens."
+}

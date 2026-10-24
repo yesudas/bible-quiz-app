@@ -1,0 +1,32 @@
+{
+  "id": "45-004-008",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 4,
+  "verse_reference": "Romans 4:11-12",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Paul says Abraham is the father of whom?",
+  "options": [
+    "Only the priests",
+    "Only the Romans",
+    "All who believe",
+    "Only the kings of Israel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Family"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says Abraham is the father of all who believe, both circumcised and uncircumcised."
+}

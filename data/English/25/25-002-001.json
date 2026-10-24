@@ -1,0 +1,34 @@
+{
+  "id": "25-002-001",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 2,
+  "verse_reference": "Lamentations 2:1-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In Lamentations 2, how is the Lord described in his anger toward Israel?",
+  "options": [
+    "Like an enemy",
+    "Like a friend",
+    "Like a stranger",
+    "Like a servant"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Verse 5 says the Lord is like an enemy who has swallowed up Israel."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "40-021-002",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 21,
+  "verse_reference": "Matthew 21:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jesus tell two disciples they would find tied in the village ahead?",
+  "options": [
+    "A horse",
+    "A donkey with her colt",
+    "A camel",
+    "Two oxen"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Bethphage",
+      "type": "village"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 21:2 says, \"At once you will find a donkey tied there, with her colt by her. Untie them and bring them to me.\""
+}

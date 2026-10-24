@@ -1,0 +1,32 @@
+{
+  "id": "42-020-011",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 20,
+  "verse_reference": "Luke 20:24",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What coin did Jesus ask them to show him?",
+  "options": [
+    "A shekel",
+    "A mina",
+    "A talent",
+    "A denarius"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Show me a denarius. Whose image and inscription are on it?'"
+}

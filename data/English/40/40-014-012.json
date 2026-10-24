@@ -1,0 +1,39 @@
+{
+  "id": "40-014-012",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 14,
+  "verse_reference": "Matthew 14:19",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "Before breaking the loaves, what did Jesus do?",
+  "options": [
+    "He looked up to heaven and gave thanks",
+    "He asked the crowd to pay",
+    "He sent the disciples to buy more",
+    "He washed the bread"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Worship",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Solitary place",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 14:19 says taking the five loaves and the two fish and looking up to heaven, he gave thanks and broke the loaves."
+}

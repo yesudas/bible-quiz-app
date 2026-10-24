@@ -1,0 +1,34 @@
+{
+  "id": "45-002-010",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 2,
+  "verse_reference": "Romans 2:16",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Through whom does Paul say God will judge people's secrets?",
+  "options": [
+    "Moses",
+    "Jesus Christ",
+    "Abraham",
+    "The angels"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Judgment"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Romans 2:16 says God will judge people's secrets through Jesus Christ, as Paul's gospel declares."
+}

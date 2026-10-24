@@ -1,0 +1,38 @@
+{
+  "id": "43-020-008",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 20,
+  "verse_reference": "John 20:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Mary Magdalene went to the disciples with the news: \"I have seen the ___!\"",
+  "options": [
+    "angel",
+    "tomb",
+    "stone",
+    "Lord"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Evangelism",
+    "Hope"
+  ],
+  "characters": [
+    "Mary Magdalene"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 20:18 says Mary Magdalene went to the disciples with the news: \"I have seen the Lord!\""
+}

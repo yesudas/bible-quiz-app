@@ -1,0 +1,39 @@
+{
+  "id": "42-022-006",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 22,
+  "verse_reference": "Luke 22:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' words over the bread: 'This is my body given for you; do this in ____ of me.'",
+  "options": [
+    "honor",
+    "praise",
+    "memory",
+    "remembrance"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Large upstairs room",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus took bread, gave thanks, broke it, and said, 'This is my body given for you; do this in remembrance of me.'"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "42-014-019",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 14,
+  "verse_reference": "Luke 14:34-35",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus say happens to salt that loses its saltiness?",
+  "options": [
+    "It becomes sugar",
+    "It can be made salty again",
+    "It is used for the garden",
+    "It is thrown out"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said salt that loses its saltiness is fit neither for the soil nor for the manure pile; it is thrown out."
+}

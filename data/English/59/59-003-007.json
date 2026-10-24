@@ -1,0 +1,29 @@
+{
+  "id": "59-003-007",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 3,
+  "verse_reference": "James 3:11-12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which example does James use to show that praise and cursing should not come from the same mouth?",
+  "options": [
+    "A lamp cannot shine in darkness",
+    "A tree cannot grow without rain",
+    "A fig tree cannot bear olives",
+    "A sheep cannot become a wolf"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James asks whether a fig tree can bear olives or a grapevine bear figs, and whether a spring can give both fresh and salt water."
+}

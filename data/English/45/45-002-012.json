@@ -1,0 +1,32 @@
+{
+  "id": "45-002-012",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 2,
+  "verse_reference": "Romans 2:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Because of those who broke the law, what happened to God's name among the Gentiles?",
+  "options": [
+    "It was forgotten",
+    "It was praised more",
+    "It was hidden",
+    "It was blasphemed"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quotes Scripture saying God's name is blasphemed among the Gentiles because of those who break the law."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "26-003-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 3,
+  "verse_reference": "Ezekiel 3:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did the scroll taste when Ezekiel ate it?",
+  "options": [
+    "Sweet as honey",
+    "Bitter as gall",
+    "Salty as the sea",
+    "Sour as vinegar"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezekiel ate the scroll, and it tasted as sweet as honey in his mouth."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "30-001-010",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 1,
+  "verse_reference": "Amos 1:4-5",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where would the people of Aram go into exile?",
+  "options": [
+    "Babylon",
+    "Kir",
+    "Egypt",
+    "Assyria"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Aram",
+      "type": "country"
+    },
+    {
+      "name": "Kir",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 1:5 says the people of Aram will go into exile to Kir."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "26-046-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 46,
+  "verse_reference": "Ezekiel 46:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "At the appointed festivals, how were the people to leave the temple?",
+  "options": [
+    "By the opposite gate from the one they entered",
+    "By the same gate they came in",
+    "Through the east gate only",
+    "Over the wall"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Whoever entered by the north gate was to go out the south gate, and whoever entered by the south gate was to go out the north gate; no one was to return through the gate he entered."
+}

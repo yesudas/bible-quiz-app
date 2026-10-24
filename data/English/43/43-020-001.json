@@ -1,0 +1,37 @@
+{
+  "id": "43-020-001",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 20,
+  "verse_reference": "John 20:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who went to the tomb early on the first day of the week while it was still dark?",
+  "options": [
+    "Martha",
+    "Mary Magdalene",
+    "Mary, the mother of Jesus",
+    "Salome"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [
+    "Mary Magdalene"
+  ],
+  "places": [
+    {
+      "name": "Jesus' tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 20:1 says early on the first day of the week, while it was still dark, Mary Magdalene went to the tomb and saw that the stone had been removed."
+}

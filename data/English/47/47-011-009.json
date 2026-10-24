@@ -1,0 +1,32 @@
+{
+  "id": "47-011-009",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 11,
+  "verse_reference": "2 Corinthians 11:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Which of these did Paul say about himself when comparing himself with others?",
+  "options": [
+    "He was a Roman by birth only",
+    "He was a Hebrew, an Israelite and a descendant of Abraham",
+    "He was from the tribe of Levi",
+    "He was a Greek"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Paul",
+    "Abraham"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said: Are they Hebrews? So am I. Are they Israelites? So am I. Are they Abraham's descendants? So am I."
+}

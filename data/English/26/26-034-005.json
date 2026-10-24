@@ -1,0 +1,36 @@
+{
+  "id": "26-034-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 34,
+  "verse_reference": "Ezekiel 34:14",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did God promise to feed His sheep in good pasture?",
+  "options": [
+    "On the mountains of Israel",
+    "In the valleys of Babylon",
+    "By the Nile River",
+    "In the desert of Sinai"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mountains of Israel",
+      "type": "mountain range"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'I will tend them in a good pasture, and the mountain heights of Israel will be their grazing land.'"
+}

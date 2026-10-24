@@ -1,0 +1,38 @@
+{
+  "id": "43-011-011",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 11,
+  "verse_reference": "John 11:27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Martha say she believed about Jesus?",
+  "options": [
+    "That he was Elijah",
+    "That he was a prophet like Moses",
+    "That he was a good teacher",
+    "That he was the Messiah, the Son of God, who is to come into the world"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Jesus"
+  ],
+  "characters": [
+    "Martha",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Bethany",
+      "type": "village"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 11:27, Martha said, \"Yes, Lord, I believe that you are the Messiah, the Son of God, who is to come into the world.\""
+}

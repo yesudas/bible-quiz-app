@@ -1,0 +1,32 @@
+{
+  "id": "54-003-006",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 3,
+  "verse_reference": "1 Timothy 3:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Who must an overseer have a good reputation with?",
+  "options": [
+    "Only other overseers",
+    "Roman rulers",
+    "Outsiders",
+    "The temple priests"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "An overseer must have a good reputation with outsiders, so that he will not fall into disgrace and into the devil's trap."
+}

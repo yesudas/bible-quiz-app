@@ -1,0 +1,40 @@
+{
+  "id": "43-020-013",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 20,
+  "verse_reference": "John 20:25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Thomas say he needed before he would believe?",
+  "options": [
+    "To see the nail marks and put his finger and hand where they were",
+    "To see an angel",
+    "To hear Jesus' voice",
+    "To visit the empty tomb"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Thomas"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "House with locked doors",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 20:25, Thomas said unless he saw the nail marks in his hands and put his finger where the nails were, and put his hand into his side, he would not believe."
+}

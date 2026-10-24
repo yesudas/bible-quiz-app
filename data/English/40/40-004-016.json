@@ -1,0 +1,40 @@
+{
+  "id": "40-004-016",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 4,
+  "verse_reference": "Matthew 4:21-22",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "James and John were in a boat with their father when Jesus called them. What was their father's name?",
+  "options": [
+    "Zebedee",
+    "Jonah",
+    "Alphaeus",
+    "Joseph"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship",
+    "Family"
+  ],
+  "characters": [
+    "James",
+    "John",
+    "Zebedee"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 4:21 says James and John were in a boat with their father Zebedee."
+}

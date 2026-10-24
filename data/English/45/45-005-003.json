@@ -1,0 +1,31 @@
+{
+  "id": "45-005-003",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 5,
+  "verse_reference": "Romans 5:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Through whom has God's love been poured out into our hearts?",
+  "options": [
+    "The angels",
+    "The prophets",
+    "The Holy Spirit",
+    "The apostles"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit",
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says God's love has been poured out into our hearts through the Holy Spirit, who has been given to us."
+}

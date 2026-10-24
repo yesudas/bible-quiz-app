@@ -1,0 +1,29 @@
+{
+  "id": "45-014-006",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 14,
+  "verse_reference": "Romans 14:10",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Before what will we all stand, according to Romans 14:10?",
+  "options": [
+    "God's judgment seat",
+    "The Roman council",
+    "The temple gate",
+    "The Sanhedrin"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul asks why we judge each other, for we will all stand before God's judgment seat."
+}

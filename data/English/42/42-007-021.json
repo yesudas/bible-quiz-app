@@ -1,0 +1,39 @@
+{
+  "id": "42-007-021",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 7,
+  "verse_reference": "Luke 7:48-50",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus tell the woman at the end?",
+  "options": [
+    "'Go and wash yourself.'",
+    "'Follow me.'",
+    "'Go to the priest.'",
+    "'Your faith has saved you; go in peace.'"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Faith",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Pharisee's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told her, 'Your sins are forgiven... Your faith has saved you; go in peace.'"
+}

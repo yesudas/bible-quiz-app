@@ -1,0 +1,30 @@
+{
+  "id": "46-008-006",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 8,
+  "verse_reference": "1 Corinthians 8:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Paul say about food and our relationship with God?",
+  "options": [
+    "Food does not bring us near to God",
+    "Eating meat makes us holier",
+    "Fasting always brings us near to God",
+    "Only priests may eat certain foods"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that food does not bring us near to God; we are no worse if we do not eat, and no better if we do."
+}

@@ -1,0 +1,28 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Gethsemane",
+    "label": "Gethsemane",
+    "count": 18,
+    "paths": [
+        "English/40/40-026-017.json",
+        "English/40/40-026-018.json",
+        "English/40/40-026-019.json",
+        "English/40/40-026-020.json",
+        "English/40/40-026-021.json",
+        "English/40/40-026-022.json",
+        "English/40/40-026-023.json",
+        "English/40/40-026-024.json",
+        "English/40/40-026-025.json",
+        "English/40/40-026-026.json",
+        "English/41/41-014-016.json",
+        "English/41/41-014-017.json",
+        "English/41/41-014-018.json",
+        "English/41/41-014-019.json",
+        "English/41/41-014-020.json",
+        "English/41/41-014-021.json",
+        "English/41/41-014-022.json",
+        "English/41/41-014-023.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

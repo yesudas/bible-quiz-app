@@ -1,0 +1,35 @@
+{
+  "id": "26-044-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 44,
+  "verse_reference": "Ezekiel 44:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What kind of clothes were the priests to wear when they entered the inner court?",
+  "options": [
+    "Wool",
+    "Linen",
+    "Silk",
+    "Leather"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they entered the gates of the inner court, they were to wear linen clothes and not wear any woolen garment."
+}

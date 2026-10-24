@@ -1,0 +1,33 @@
+{
+  "id": "54-006-008",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 6,
+  "verse_reference": "1 Timothy 6:13",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Before whom did Christ Jesus make the good confession, according to Paul?",
+  "options": [
+    "Herod",
+    "Caiaphas",
+    "Caesar",
+    "Pontius Pilate"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Pontius Pilate",
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul reminded Timothy that Christ Jesus made the good confession while testifying before Pontius Pilate."
+}

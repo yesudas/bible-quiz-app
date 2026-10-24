@@ -1,0 +1,31 @@
+{
+  "id": "49-002-005",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 2,
+  "verse_reference": "Ephesians 2:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"For it is by ______ you have been saved, through faith.\"",
+  "options": [
+    "works",
+    "law",
+    "grace",
+    "sacrifice"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says it is by grace you have been saved, through faith, and this is the gift of God."
+}

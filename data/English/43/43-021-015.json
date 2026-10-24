@@ -1,0 +1,31 @@
+{
+  "id": "43-021-015",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 21,
+  "verse_reference": "John 21:24",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "According to John 21:24, who testifies to these things and wrote them down?",
+  "options": [
+    "Peter",
+    "Thomas",
+    "The disciple whom Jesus loved",
+    "Mary Magdalene"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Evangelism"
+  ],
+  "characters": [
+    "The disciple whom Jesus loved"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 21:20 and 21:24 show that the disciple whom Jesus loved is the one who testifies to these things and who wrote them down."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "40-010-008",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 10,
+  "verse_reference": "Matthew 10:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"Freely you have received; freely ______.\"",
+  "options": [
+    "pray",
+    "speak",
+    "give",
+    "forgive"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Mission"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 10:8 says, \"Freely you have received; freely give.\""
+}

@@ -1,0 +1,17 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Joshua-the-high-priest",
+    "label": "Joshua the high priest",
+    "count": 7,
+    "paths": [
+        "English/38/38-003-001.json",
+        "English/38/38-003-002.json",
+        "English/38/38-003-004.json",
+        "English/38/38-003-005.json",
+        "English/38/38-003-006.json",
+        "English/38/38-003-007.json",
+        "English/38/38-006-007.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

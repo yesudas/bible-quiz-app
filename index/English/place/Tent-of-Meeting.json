@@ -1,21 +1,12 @@
 {
     "type": "place",
     "language": "English",
-    "place": "Tent-of-Meeting",
-    "label": "Tent of Meeting",
-    "count": 11,
+    "place": "tent-of-meeting",
+    "label": "tent of meeting",
+    "count": 2,
     "paths": [
-        "English/04/04-001-002.json",
-        "English/04/04-002-001.json",
-        "English/04/04-002-004.json",
-        "English/04/04-003-003.json",
-        "English/04/04-004-001.json",
-        "English/04/04-005-005.json",
-        "English/04/04-007-007.json",
-        "English/04/04-008-001.json",
-        "English/04/04-008-006.json",
-        "English/04/04-017-002.json",
-        "English/04/04-018-002.json"
+        "English/06/06-018-001.json",
+        "English/06/06-019-009.json"
     ],
-    "generated": "2026-10-16T11:07:53-05:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

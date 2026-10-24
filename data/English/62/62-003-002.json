@@ -1,0 +1,33 @@
+{
+  "id": "62-003-002",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 3,
+  "verse_reference": "1 John 3:2",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What does John say will happen when Christ appears?",
+  "options": [
+    "We will be like him, for we shall see him as he is",
+    "We will forget the past",
+    "We will build a new temple",
+    "We will become angels"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says that when Christ appears, we shall be like him, for we shall see him as he is."
+}

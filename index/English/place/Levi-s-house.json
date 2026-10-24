@@ -1,0 +1,15 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Levi-s-house",
+    "label": "Levi's house",
+    "count": 5,
+    "paths": [
+        "English/41/41-002-009.json",
+        "English/41/41-002-010.json",
+        "English/42/42-005-020.json",
+        "English/42/42-005-021.json",
+        "English/42/42-005-022.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

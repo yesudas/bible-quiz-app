@@ -1,0 +1,39 @@
+{
+  "id": "42-024-018",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 24,
+  "verse_reference": "Luke 24:37",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the frightened disciples think they were seeing?",
+  "options": [
+    "An angel",
+    "A vision",
+    "A ghost",
+    "A stranger"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Resurrection",
+    "Jesus",
+    "Fear"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They were startled and frightened, thinking they saw a ghost."
+}

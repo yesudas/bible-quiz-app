@@ -1,0 +1,34 @@
+{
+  "id": "54-006-007",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 6,
+  "verse_reference": "1 Timothy 6:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Fight the good ____ of the faith.\"",
+  "options": [
+    "race",
+    "battle",
+    "fight",
+    "work"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul",
+    "Timothy"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul urged Timothy to fight the good fight of the faith and take hold of the eternal life to which he was called."
+}

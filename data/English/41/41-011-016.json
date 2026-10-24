@@ -1,0 +1,33 @@
+{
+  "id": "41-011-016",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 11,
+  "verse_reference": "Mark 11:23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus say could be thrown into the sea if someone does not doubt in their heart?",
+  "options": [
+    "A tree",
+    "A mountain",
+    "A city",
+    "A ship"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said if anyone says to this mountain, \"Go, throw yourself into the sea,\" and does not doubt in their heart, it will be done for them."
+}

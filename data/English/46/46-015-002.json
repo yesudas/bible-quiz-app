@@ -1,0 +1,34 @@
+{
+  "id": "46-015-002",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 15,
+  "verse_reference": "1 Corinthians 15:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "After he rose, to whom did Christ appear first in Paul's list?",
+  "options": [
+    "Cephas",
+    "James",
+    "Paul",
+    "Thomas"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that Christ appeared to Cephas, and then to the Twelve."
+}

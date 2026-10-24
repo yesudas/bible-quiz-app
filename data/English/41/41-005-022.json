@@ -1,0 +1,37 @@
+{
+  "id": "41-005-022",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 5,
+  "verse_reference": "Mark 5:43",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "After raising the girl, what did Jesus tell them to give her?",
+  "options": [
+    "Something to eat",
+    "New clothes",
+    "A blessing from the priest",
+    "Water from the well"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jairus's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus gave strict orders not to let anyone know about this, and told them to give her something to eat."
+}

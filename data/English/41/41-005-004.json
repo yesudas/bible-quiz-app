@@ -1,0 +1,37 @@
+{
+  "id": "41-005-004",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 5,
+  "verse_reference": "Mark 5:9",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What name did the impure spirit give when Jesus asked, \"What is your name?\"",
+  "options": [
+    "Beelzebul",
+    "Legion",
+    "Abaddon",
+    "Lucifer"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Region of the Gerasenes",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He replied, \"My name is Legion, for we are many.\""
+}

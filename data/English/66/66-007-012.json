@@ -1,0 +1,36 @@
+{
+  "id": "66-007-012",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 7,
+  "verse_reference": "Revelation 7:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does Revelation 7:16 promise the great multitude?",
+  "options": [
+    "They will rule over the angels",
+    "They will never grow old",
+    "They will build a city",
+    "They will never again hunger or thirst"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Never again will they hunger or thirst, and the sun will not beat down on them, nor any scorching heat."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "59-004-007",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 4,
+  "verse_reference": "James 4:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Come near to God and he will come near to ______.\"",
+  "options": [
+    "the world",
+    "the humble",
+    "you",
+    "his people"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James promises that if we come near to God, he will come near to us."
+}

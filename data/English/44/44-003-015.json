@@ -1,0 +1,33 @@
+{
+  "id": "44-003-015",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 3,
+  "verse_reference": "Acts 3:25",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "God's covenant promise that all peoples would be blessed through his offspring was made to whom?",
+  "options": [
+    "Isaac",
+    "Abraham",
+    "Noah",
+    "Jacob"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [
+    "Abraham",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter reminded them of God's covenant with Abraham: 'Through your offspring all peoples on earth will be blessed.'"
+}

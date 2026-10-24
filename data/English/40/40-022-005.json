@@ -1,0 +1,38 @@
+{
+  "id": "40-022-005",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 22,
+  "verse_reference": "Matthew 22:9-10",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the king send his servants to invite anyone they could find?",
+  "options": [
+    "The temple courts",
+    "The royal palace",
+    "The fishing villages",
+    "The street corners"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Evangelism"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Street corners",
+      "type": "road"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 22:9 says, \"So go to the street corners and invite to the banquet anyone you find.\""
+}

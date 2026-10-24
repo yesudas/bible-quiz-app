@@ -1,0 +1,34 @@
+{
+  "id": "26-005-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 5,
+  "verse_reference": "Ezekiel 5:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"This is Jerusalem, which I have set in the ______ of the nations, with countries all around her.\"",
+  "options": [
+    "corner",
+    "center",
+    "shadow",
+    "path"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He had set Jerusalem in the center of the nations, with countries all around her."
+}

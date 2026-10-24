@@ -1,0 +1,38 @@
+{
+  "id": "43-002-006",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 2,
+  "verse_reference": "John 2:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What were the six stone water jars normally used for?",
+  "options": [
+    "Storing grain",
+    "Jewish ceremonial washing",
+    "Watering animals",
+    "Offering sacrifices"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Cana",
+      "type": "village"
+    },
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 2:6 says the stone jars were the kind used by the Jews for ceremonial washing."
+}

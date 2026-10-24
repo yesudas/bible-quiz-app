@@ -1,0 +1,38 @@
+{
+  "id": "43-013-009",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 13,
+  "verse_reference": "John 13:23-24",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Simon Peter motioned to which disciple to ask Jesus who would betray him?",
+  "options": [
+    "The disciple whom Jesus loved, reclining next to him",
+    "Andrew",
+    "Philip",
+    "Judas"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "Simon Peter",
+    "The disciple whom Jesus loved",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 13:23-24 says one of them, the disciple whom Jesus loved, was reclining next to him, and Simon Peter motioned to this disciple to ask Jesus whom he meant."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "66-015-003",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 15,
+  "verse_reference": "Revelation 15:2",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was standing beside the sea of glass holding harps given them by God?",
+  "options": [
+    "The twenty-four elders",
+    "The seven angels",
+    "The four living creatures",
+    "Those who had been victorious over the beast and its image"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Worship",
+    "Persecution"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Standing beside the sea were those who had been victorious over the beast and its image and over the number of its name. They held harps given them by God."
+}

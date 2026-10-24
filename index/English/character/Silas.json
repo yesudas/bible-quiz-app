@@ -1,0 +1,29 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Silas",
+    "label": "Silas",
+    "count": 19,
+    "paths": [
+        "English/44/44-015-012.json",
+        "English/44/44-015-015.json",
+        "English/44/44-015-019.json",
+        "English/44/44-016-003.json",
+        "English/44/44-016-012.json",
+        "English/44/44-016-013.json",
+        "English/44/44-016-014.json",
+        "English/44/44-016-015.json",
+        "English/44/44-016-017.json",
+        "English/44/44-016-018.json",
+        "English/44/44-016-019.json",
+        "English/44/44-016-020.json",
+        "English/44/44-017-006.json",
+        "English/44/44-017-008.json",
+        "English/44/44-018-004.json",
+        "English/47/47-001-009.json",
+        "English/52/52-001-001.json",
+        "English/53/53-001-001.json",
+        "English/60/60-005-009.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

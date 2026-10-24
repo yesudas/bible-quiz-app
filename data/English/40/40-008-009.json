@@ -1,0 +1,39 @@
+{
+  "id": "40-008-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 8,
+  "verse_reference": "Matthew 8:13",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When was the centurion's servant healed?",
+  "options": [
+    "The next morning",
+    "Three days later",
+    "When Jesus reached the house",
+    "At that moment"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus",
+    "Centurion"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 8:13 says his servant was healed at that moment."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "44-009-017",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 9,
+  "verse_reference": "Acts 9:33-34",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which paralyzed man, bedridden for eight years, did Peter heal at Lydda?",
+  "options": [
+    "Lazarus",
+    "Bartimaeus",
+    "Eutychus",
+    "Aeneas"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Peter",
+    "Aeneas"
+  ],
+  "places": [
+    {
+      "name": "Lydda",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter found a man named Aeneas, paralyzed and bedridden for eight years, and said, 'Jesus Christ heals you.'"
+}

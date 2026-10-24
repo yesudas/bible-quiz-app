@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Theophilus",
+    "label": "Theophilus",
+    "count": 3,
+    "paths": [
+        "English/42/42-001-001.json",
+        "English/42/42-001-002.json",
+        "English/44/44-001-001.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

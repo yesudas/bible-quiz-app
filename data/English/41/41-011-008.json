@@ -1,0 +1,36 @@
+{
+  "id": "41-011-008",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 11,
+  "verse_reference": "Mark 11:12-13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jesus find nothing but leaves on the fig tree?",
+  "options": [
+    "Birds had eaten the figs",
+    "It was not the season for figs",
+    "The tree was dead",
+    "Someone had picked the figs"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Bethany",
+      "type": "village"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When he reached it, he found nothing but leaves, because it was not the season for figs."
+}

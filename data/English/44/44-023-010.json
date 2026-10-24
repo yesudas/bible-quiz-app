@@ -1,0 +1,40 @@
+{
+  "id": "44-023-010",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 23,
+  "verse_reference": "Acts 23:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The Lord stood near Paul and said, \"Take courage! As you have testified about me in Jerusalem, so you must also testify in ______.\"",
+  "options": [
+    "Rome",
+    "Athens",
+    "Spain",
+    "Antioch"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Courage",
+    "Mission",
+    "Promise"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Rome",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord said, 'Take courage! ... so you must also testify in Rome.'"
+}

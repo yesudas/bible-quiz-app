@@ -1,0 +1,39 @@
+{
+  "id": "25-002-002",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 2,
+  "verse_reference": "Lamentations 2:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Lamentations 2:6-7, what did the Lord reject and abandon?",
+  "options": [
+    "The kings of Babylon",
+    "The fields of Moab",
+    "His altar and his sanctuary",
+    "The rivers of Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    },
+    {
+      "name": "Sanctuary",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord rejected his altar and abandoned his sanctuary, and gave its walls to the enemy."
+}

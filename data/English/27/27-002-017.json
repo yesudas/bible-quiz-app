@@ -1,0 +1,34 @@
+{
+  "id": "27-002-017",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 2,
+  "verse_reference": "Daniel 2:35",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the rock become after it struck the statue?",
+  "options": [
+    "A great river",
+    "A huge mountain that filled the whole earth",
+    "A shining temple",
+    "A king's throne"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Daniel",
+    "Nebuchadnezzar"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The rock that struck the statue became a huge mountain and filled the whole earth."
+}

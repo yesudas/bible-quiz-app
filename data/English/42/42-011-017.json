@@ -1,0 +1,33 @@
+{
+  "id": "42-011-017",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:31",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who came from the ends of the earth to listen to Solomon's wisdom?",
+  "options": [
+    "The Queen of the South",
+    "The king of Tyre",
+    "The Pharaoh of Egypt",
+    "The prophet Jonah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Judgment"
+  ],
+  "characters": [
+    "Solomon",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said the Queen of the South came from the ends of the earth to listen to Solomon's wisdom, and now one greater than Solomon is here."
+}

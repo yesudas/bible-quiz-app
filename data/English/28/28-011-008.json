@@ -1,0 +1,39 @@
+{
+  "id": "28-011-008",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 11,
+  "verse_reference": "Hosea 11:8",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "God asked how He could treat Ephraim like Admah and make them like which other town?",
+  "options": [
+    "Sodom",
+    "Gomorrah",
+    "Zoar",
+    "Zeboyim"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Admah",
+      "type": "city"
+    },
+    {
+      "name": "Zeboyim",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'How can I treat you like Admah? How can I make you like Zeboyim?' — towns destroyed in judgment."
+}

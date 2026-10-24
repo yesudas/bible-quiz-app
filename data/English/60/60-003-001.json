@@ -1,0 +1,31 @@
+{
+  "id": "60-003-001",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 3,
+  "verse_reference": "1 Peter 3:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How does Peter say a wife may win over a husband who does not believe the word?",
+  "options": [
+    "By arguing with him",
+    "By her behavior, without words",
+    "By leaving him",
+    "By asking the elders to speak to him"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage",
+    "Family",
+    "Evangelism"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter says husbands may be won over without words by the purity and reverence of their wives' lives."
+}

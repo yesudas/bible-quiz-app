@@ -1,0 +1,31 @@
+{
+  "id": "48-006-007",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 6,
+  "verse_reference": "Galatians 6:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"Let us not become ______ in doing good, for at the proper time we will reap a harvest if we do not give up.\"",
+  "options": [
+    "proud",
+    "weary",
+    "angry",
+    "rich"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul encouraged believers not to become weary in doing good, because they will reap a harvest if they do not give up."
+}

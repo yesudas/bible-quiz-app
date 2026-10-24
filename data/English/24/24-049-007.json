@@ -1,0 +1,36 @@
+{
+  "id": "24-049-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 49,
+  "verse_reference": "Jeremiah 49:27",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "God said He would set fire to the walls of Damascus and consume the fortresses of which king?",
+  "options": [
+    "Hazael",
+    "Rezin",
+    "Ben-Hadad",
+    "Naaman"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Ben-Hadad"
+  ],
+  "places": [
+    {
+      "name": "Damascus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"I will set fire to the walls of Damascus; it will consume the fortresses of Ben-Hadad.\""
+}

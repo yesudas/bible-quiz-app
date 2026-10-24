@@ -1,0 +1,31 @@
+{
+  "id": "45-003-005",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 3,
+  "verse_reference": "Romans 3:11-12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does Paul say no one does, quoting the Scriptures?",
+  "options": [
+    "Eat bread",
+    "Build houses",
+    "Seek God",
+    "Work in the fields"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quotes Scripture saying there is no one who understands and no one who seeks God."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "40-002-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 2,
+  "verse_reference": "Matthew 2:9-10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the star do as the Magi went on their way?",
+  "options": [
+    "It disappeared",
+    "Went ahead of them and stopped over the place where the child was",
+    "Turned red",
+    "Fell from the sky"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Jesus"
+  ],
+  "characters": [
+    "Magi"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 2:9 says the star went ahead of them until it stopped over the place where the child was."
+}

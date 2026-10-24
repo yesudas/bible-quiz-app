@@ -1,0 +1,42 @@
+{
+  "id": "31-001-013",
+  "language": "en",
+  "book_no": 31,
+  "book": "Obadiah",
+  "chapter": 1,
+  "verse_reference": "Obadiah 20",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In which place were some of the exiles from Jerusalem living, according to Obadiah 20?",
+  "options": [
+    "Sepharad",
+    "Tarshish",
+    "Nineveh",
+    "Goshen"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sepharad",
+      "type": "region"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Negev",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Obadiah said the exiles from Jerusalem who are in Sepharad would possess the towns of the Negev."
+}

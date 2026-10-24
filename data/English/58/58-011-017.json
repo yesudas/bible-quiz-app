@@ -1,0 +1,38 @@
+{
+  "id": "58-011-017",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 11,
+  "verse_reference": "Hebrews 11:23",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 11:23, for how long did Moses' parents hide him after he was born?",
+  "options": [
+    "Three days",
+    "Three months",
+    "One year",
+    "Seven weeks"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Family"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 11:23 says by faith Moses' parents hid him for three months after he was born, and they were not afraid of the king's edict."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "44-028-006",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 28,
+  "verse_reference": "Acts 28:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "After waiting a long time and seeing nothing happen, what did the people decide about Paul?",
+  "options": [
+    "He was a magician",
+    "He was cursed",
+    "He was a god",
+    "He was an angel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Malta",
+      "type": "island"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After waiting a long time and seeing nothing unusual happen, they changed their minds and said he was a god."
+}

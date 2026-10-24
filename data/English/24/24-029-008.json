@@ -1,0 +1,32 @@
+{
+  "id": "24-029-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 29,
+  "verse_reference": "Jeremiah 29:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"You will seek me and find me when you seek me with all your ____.\"",
+  "options": [
+    "strength",
+    "heart",
+    "soul",
+    "mind"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Faith",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"You will seek me and find me when you seek me with all your heart.\""
+}

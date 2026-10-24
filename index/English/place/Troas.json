@@ -1,0 +1,20 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Troas",
+    "label": "Troas",
+    "count": 10,
+    "paths": [
+        "English/44/44-016-004.json",
+        "English/44/44-020-002.json",
+        "English/44/44-020-003.json",
+        "English/44/44-020-004.json",
+        "English/44/44-020-005.json",
+        "English/44/44-020-006.json",
+        "English/44/44-020-007.json",
+        "English/47/47-002-007.json",
+        "English/47/47-002-008.json",
+        "English/55/55-004-010.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

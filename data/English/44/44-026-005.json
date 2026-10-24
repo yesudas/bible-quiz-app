@@ -1,0 +1,37 @@
+{
+  "id": "44-026-005",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 26,
+  "verse_reference": "Acts 26:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Paul confess he did when believers were put to death?",
+  "options": [
+    "He tried to save them",
+    "He cast his vote against them",
+    "He was away in Tarsus",
+    "He wrote to the emperor"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution",
+    "Repentance"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said, 'When they were put to death, I cast my vote against them.'"
+}

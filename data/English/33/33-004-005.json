@@ -1,0 +1,31 @@
+{
+  "id": "33-004-005",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 4,
+  "verse_reference": "Micah 4:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"Nation will not take up sword against nation, nor will they train for ______ anymore.\"",
+  "options": [
+    "battle",
+    "victory",
+    "war",
+    "conquest"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In God's coming kingdom there will be peace, and nations will no longer train for war."
+}

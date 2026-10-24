@@ -1,0 +1,38 @@
+{
+  "id": "47-012-010",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 12,
+  "verse_reference": "2 Corinthians 12:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When planning his third visit, what did Paul say he was seeking from the Corinthians?",
+  "options": [
+    "Their possessions",
+    "Their praise",
+    "Their money",
+    "Them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Church",
+    "Family"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said, 'What I want is not your possessions but you,' since parents should save up for their children."
+}

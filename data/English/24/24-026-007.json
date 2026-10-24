@@ -1,0 +1,46 @@
+{
+  "id": "24-026-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 26,
+  "verse_reference": "Jeremiah 26:18",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Some elders reminded the people of which prophet who had prophesied in the days of King Hezekiah?",
+  "options": [
+    "Micah of Moresheth",
+    "Isaiah son of Amoz",
+    "Hosea",
+    "Amos of Tekoa"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Repentance"
+  ],
+  "characters": [
+    "Micah",
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Moresheth",
+      "type": "town"
+    },
+    {
+      "name": "Zion",
+      "type": "mountain"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elders said Micah of Moresheth prophesied in the days of Hezekiah king of Judah that Zion would be plowed like a field."
+}

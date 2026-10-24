@@ -1,0 +1,38 @@
+{
+  "id": "66-003-007",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 3,
+  "verse_reference": "Revelation 3:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jesus promise to keep the church in Philadelphia from the hour of trial?",
+  "options": [
+    "Because they were very rich",
+    "Because they had built a large temple",
+    "Because they were few in number",
+    "Because they had kept his command to endure patiently"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Suffering",
+    "Promise"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Philadelphia",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"Since you have kept my command to endure patiently, I will also keep you from the hour of trial.\""
+}

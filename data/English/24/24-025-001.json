@@ -1,0 +1,43 @@
+{
+  "id": "24-025-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 25,
+  "verse_reference": "Jeremiah 25:1",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "The word in Jeremiah 25 came in the fourth year of Jehoiakim. Which year of Nebuchadnezzar's reign was this?",
+  "options": [
+    "The first year",
+    "The third year",
+    "The seventh year",
+    "The tenth year"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoiakim",
+    "Nebuchadnezzar",
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The word came in the fourth year of Jehoiakim son of Josiah, which was the first year of Nebuchadnezzar king of Babylon."
+}

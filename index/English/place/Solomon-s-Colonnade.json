@@ -1,0 +1,17 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Solomon-s-Colonnade",
+    "label": "Solomon's Colonnade",
+    "count": 7,
+    "paths": [
+        "English/43/43-010-010.json",
+        "English/43/43-010-011.json",
+        "English/43/43-010-012.json",
+        "English/43/43-010-013.json",
+        "English/43/43-010-014.json",
+        "English/44/44-003-007.json",
+        "English/44/44-005-008.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

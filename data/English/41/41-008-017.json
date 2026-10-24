@@ -1,0 +1,34 @@
+{
+  "id": "41-008-017",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 8,
+  "verse_reference": "Mark 8:32-33",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "When Peter rebuked Jesus, Jesus said, \"Get behind me, ____!\"",
+  "options": [
+    "Peter",
+    "tempter",
+    "deceiver",
+    "Satan"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Satan",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon Peter",
+    "Satan"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus rebuked Peter: \"Get behind me, Satan! You do not have in mind the concerns of God, but merely human concerns.\""
+}

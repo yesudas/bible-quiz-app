@@ -1,0 +1,34 @@
+{
+  "id": "40-001-002",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 1,
+  "verse_reference": "Matthew 1:3",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "In Jesus' genealogy, who is named as the mother of Perez and Zerah?",
+  "options": [
+    "Tamar",
+    "Rahab",
+    "Ruth",
+    "Leah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Tamar",
+    "Judah",
+    "Perez",
+    "Zerah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 1:3 says Judah was the father of Perez and Zerah, whose mother was Tamar."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "42-001-007",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:11-13",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the angel tell Zechariah to name his son?",
+  "options": [
+    "John",
+    "Jesus",
+    "Samuel",
+    "Zechariah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Angels"
+  ],
+  "characters": [
+    "Zechariah",
+    "Elizabeth",
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel said Elizabeth would bear a son and he was to be called John."
+}

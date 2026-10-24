@@ -1,0 +1,38 @@
+{
+  "id": "44-009-005",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 9,
+  "verse_reference": "Acts 9:8-9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "For three days after the light, what was Saul's condition?",
+  "options": [
+    "He was deaf but could see",
+    "He was asleep the whole time",
+    "He was sick with fever",
+    "He was blind and did not eat or drink"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Miracles"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Damascus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "For three days Saul was blind, and he did not eat or drink anything."
+}

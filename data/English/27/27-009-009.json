@@ -1,0 +1,33 @@
+{
+  "id": "27-009-009",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 9,
+  "verse_reference": "Daniel 9:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"Lord, listen! Lord, ______! Lord, hear and act!\"",
+  "options": [
+    "save",
+    "help",
+    "forgive",
+    "come"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daniel ended his prayer with, \"Lord, listen! Lord, forgive! Lord, hear and act!\""
+}

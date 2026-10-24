@@ -1,0 +1,39 @@
+{
+  "id": "42-015-008",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 15,
+  "verse_reference": "Luke 15:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the younger son ask his father for?",
+  "options": [
+    "His share of the estate",
+    "A new robe",
+    "A job on the farm",
+    "Permission to marry"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Family",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Father's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The younger son said, 'Father, give me my share of the estate.' So the father divided his property between them."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "47-007-010",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 7,
+  "verse_reference": "2 Corinthians 7:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"I am glad I can have complete ______ in you.\"",
+  "options": [
+    "confidence",
+    "joy",
+    "peace",
+    "love"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church",
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul ended the chapter by saying he was glad he could have complete confidence in the Corinthians."
+}

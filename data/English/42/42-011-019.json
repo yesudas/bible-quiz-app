@@ -1,0 +1,32 @@
+{
+  "id": "42-011-019",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:34",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'Your ____ is the lamp of your body.'",
+  "options": [
+    "heart",
+    "mouth",
+    "eye",
+    "mind"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Your eye is the lamp of your body. When your eyes are healthy, your whole body also is full of light.'"
+}

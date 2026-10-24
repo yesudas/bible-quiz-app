@@ -1,0 +1,30 @@
+{
+  "id": "38-010-003",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 10,
+  "verse_reference": "Zechariah 10:2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "The people wandered like sheep for lack of what?",
+  "options": [
+    "Food",
+    "Water",
+    "A fold",
+    "A shepherd"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people wandered like sheep oppressed for lack of a shepherd."
+}

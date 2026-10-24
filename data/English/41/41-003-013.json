@@ -1,0 +1,32 @@
+{
+  "id": "41-003-013",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 3,
+  "verse_reference": "Mark 3:21",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who went to take charge of Jesus because they said, \"He is out of his mind\"?",
+  "options": [
+    "The Pharisees",
+    "The Roman soldiers",
+    "His disciples",
+    "His family"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When his family heard about the crowds, they went to take charge of him, saying he was out of his mind."
+}

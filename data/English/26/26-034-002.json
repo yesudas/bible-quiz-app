@@ -1,0 +1,30 @@
+{
+  "id": "26-034-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 34,
+  "verse_reference": "Ezekiel 34:4",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which of these did God say the shepherds had failed to do?",
+  "options": [
+    "Build new sheep pens",
+    "Search for the lost",
+    "Sell the wool",
+    "Count the sheep"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said they had not strengthened the weak, healed the sick, bound up the injured, brought back the strays or searched for the lost."
+}

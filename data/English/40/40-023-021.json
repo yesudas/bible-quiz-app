@@ -1,0 +1,36 @@
+{
+  "id": "40-023-021",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 23,
+  "verse_reference": "Matthew 23:38",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete: \"Look, your house is left to you ______.\"",
+  "options": [
+    "desolate",
+    "empty",
+    "broken",
+    "forever"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 23:38 says, \"Look, your house is left to you desolate.\""
+}

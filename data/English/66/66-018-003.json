@@ -1,0 +1,35 @@
+{
+  "id": "66-018-003",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 18,
+  "verse_reference": "Revelation 18:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who grew rich from Babylon's excessive luxuries?",
+  "options": [
+    "The prophets",
+    "The shepherds",
+    "The farmers",
+    "The merchants of the earth"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The kings of the earth committed adultery with her, and the merchants of the earth grew rich from her excessive luxuries."
+}

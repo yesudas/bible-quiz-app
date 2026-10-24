@@ -1,0 +1,38 @@
+{
+  "id": "66-012-009",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 12,
+  "verse_reference": "Revelation 12:9",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where was the dragon hurled after the war in heaven?",
+  "options": [
+    "To the earth",
+    "Into the Abyss",
+    "Into the sea",
+    "Into the lake of fire"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Satan",
+    "Angels"
+  ],
+  "characters": [
+    "Satan"
+  ],
+  "places": [
+    {
+      "name": "Earth",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The dragon was hurled to the earth, and his angels with him."
+}

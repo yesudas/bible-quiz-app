@@ -1,0 +1,30 @@
+{
+  "id": "46-010-011",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 10,
+  "verse_reference": "1 Corinthians 10:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Paul say believers, though many, are one body?",
+  "options": [
+    "Because they live in one city",
+    "Because they have one leader",
+    "Because they speak one language",
+    "Because they all share the one loaf"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Church",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Because there is one loaf, we who are many are one body, for we all share the one loaf."
+}

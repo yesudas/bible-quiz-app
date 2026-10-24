@@ -1,0 +1,43 @@
+{
+  "id": "42-002-024",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 2,
+  "verse_reference": "Luke 2:46",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "After how many days did Jesus' parents find him in the temple courts?",
+  "options": [
+    "One day",
+    "Seven days",
+    "Three days",
+    "Two days"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jesus",
+    "Mary",
+    "Joseph"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After three days they found him in the temple courts, sitting among the teachers."
+}

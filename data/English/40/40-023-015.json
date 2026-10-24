@@ -1,0 +1,33 @@
+{
+  "id": "40-023-015",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 23,
+  "verse_reference": "Matthew 23:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"You blind guides! You strain out a gnat but swallow a ______.\"",
+  "options": [
+    "horse",
+    "fish",
+    "camel",
+    "lion"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 23:24 says, \"You blind guides! You strain out a gnat but swallow a camel.\""
+}

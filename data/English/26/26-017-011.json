@@ -1,0 +1,36 @@
+{
+  "id": "26-017-011",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 17,
+  "verse_reference": "Ezekiel 17:23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God say would nest in the shade of the splendid cedar?",
+  "options": [
+    "Snakes",
+    "Lions",
+    "Birds of every kind",
+    "Bees"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Kingdom of God"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mountains of Israel",
+      "type": "mountain range"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The shoot would become a splendid cedar, and birds of every kind would nest in it and find shelter in the shade of its branches."
+}

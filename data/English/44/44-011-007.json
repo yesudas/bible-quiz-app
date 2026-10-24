@@ -1,0 +1,44 @@
+{
+  "id": "44-011-007",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 11,
+  "verse_reference": "Acts 11:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Those scattered after Stephen's death at first spread the word only to whom?",
+  "options": [
+    "Jews",
+    "Greeks",
+    "Romans",
+    "Samaritans"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Evangelism"
+  ],
+  "characters": [
+    "Stephen"
+  ],
+  "places": [
+    {
+      "name": "Phoenicia",
+      "type": "region"
+    },
+    {
+      "name": "Cyprus",
+      "type": "island"
+    },
+    {
+      "name": "Antioch",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They travelled as far as Phoenicia, Cyprus and Antioch, spreading the word only among Jews."
+}

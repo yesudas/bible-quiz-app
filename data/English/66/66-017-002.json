@@ -1,0 +1,37 @@
+{
+  "id": "66-017-002",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 17,
+  "verse_reference": "Revelation 17:3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where was John carried away in the Spirit to see the woman sitting on the beast?",
+  "options": [
+    "To Mount Zion",
+    "To the sea of glass",
+    "Into a wilderness",
+    "To the temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit",
+    "Prophecy"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel carried John away in the Spirit into a wilderness, where he saw a woman sitting on a scarlet beast."
+}

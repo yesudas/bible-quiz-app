@@ -1,0 +1,30 @@
+{
+  "id": "56-003-003",
+  "language": "en",
+  "book_no": 56,
+  "book": "Titus",
+  "chapter": 3,
+  "verse_reference": "Titus 3:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Titus 3:5, why did God save us?",
+  "options": [
+    "Because of the good things we had done",
+    "Because we kept the whole law",
+    "Because we were from Crete",
+    "Because of his mercy"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Grace"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God saved us not because of righteous things we had done, but because of his mercy."
+}

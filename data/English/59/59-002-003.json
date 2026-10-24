@@ -1,0 +1,31 @@
+{
+  "id": "59-002-003",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 2,
+  "verse_reference": "James 2:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the royal law: \"Love your ______ as yourself.\"",
+  "options": [
+    "neighbor",
+    "family",
+    "friend",
+    "brother"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James calls \"Love your neighbor as yourself\" the royal law found in Scripture."
+}

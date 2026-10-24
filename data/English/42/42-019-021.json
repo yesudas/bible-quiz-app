@@ -1,0 +1,38 @@
+{
+  "id": "42-019-021",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 19,
+  "verse_reference": "Luke 19:45-46",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete what Jesus said in the temple: 'My house will be a house of ____; but you have made it a den of robbers.'",
+  "options": [
+    "worship",
+    "prayer",
+    "peace",
+    "praise"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus drove out those who were selling and said, 'It is written: My house will be a house of prayer; but you have made it a den of robbers.'"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "40-020-005",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 20,
+  "verse_reference": "Matthew 20:8",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "When evening came, in what order did the foreman pay the workers?",
+  "options": [
+    "Beginning with the first ones hired",
+    "Beginning with the last ones hired and going on to the first",
+    "All at the same time",
+    "By age, oldest first"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Vineyard",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 20:8 says the owner told his foreman to pay them their wages, beginning with the last ones hired and going on to the first."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "52-005-009",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 5,
+  "verse_reference": "1 Thessalonians 5:19",
+  "question_type": "DIRECT",
+  "difficulty": "Medium",
+  "question": "What did Paul tell the believers not to quench?",
+  "options": [
+    "The Spirit",
+    "Their lamps",
+    "Their thirst",
+    "The fire on the altar"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul gave a short command: Do not quench the Spirit."
+}

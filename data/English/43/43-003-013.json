@@ -1,0 +1,32 @@
+{
+  "id": "43-003-013",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 3,
+  "verse_reference": "John 3:35",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to John 3:35, what has the Father placed in the Son's hands?",
+  "options": [
+    "The temple",
+    "The law of Moses",
+    "Everything",
+    "The keys of David"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 3:35 says the Father loves the Son and has placed everything in his hands."
+}

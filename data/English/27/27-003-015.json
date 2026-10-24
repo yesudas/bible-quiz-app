@@ -1,0 +1,40 @@
+{
+  "id": "27-003-015",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 3,
+  "verse_reference": "Daniel 3:27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Which of these was true of the three men when they came out of the fire?",
+  "options": [
+    "Their robes were burned",
+    "Only their hands were burned",
+    "Their hair was singed",
+    "They did not even smell of fire"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Faith"
+  ],
+  "characters": [
+    "Shadrach",
+    "Meshach",
+    "Abednego"
+  ],
+  "places": [
+    {
+      "name": "Blazing furnace",
+      "type": "furnace"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The fire had not harmed their bodies, their hair was not singed, their robes were not scorched, and there was no smell of fire on them."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "66-009-003",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 9,
+  "verse_reference": "Revelation 9:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What creatures came out of the smoke onto the earth?",
+  "options": [
+    "Frogs",
+    "Wolves",
+    "Locusts",
+    "Serpents"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Abyss",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Out of the smoke locusts came down on the earth and were given power like that of scorpions."
+}

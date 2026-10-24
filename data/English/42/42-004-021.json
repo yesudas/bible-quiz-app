@@ -1,0 +1,41 @@
+{
+  "id": "42-004-021",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 4,
+  "verse_reference": "Luke 4:33-34",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the man with an impure spirit call Jesus in the synagogue?",
+  "options": [
+    "The Son of David",
+    "The Lamb of God",
+    "The Holy One of God",
+    "The prophet from Nazareth"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Satan",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    },
+    {
+      "name": "Synagogue",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The demon cried out, 'I know who you are—the Holy One of God!'"
+}

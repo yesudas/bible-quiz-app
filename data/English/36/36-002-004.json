@@ -1,0 +1,39 @@
+{
+  "id": "36-002-004",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 2,
+  "verse_reference": "Zephaniah 2:4",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Which city did Zephaniah say would be abandoned?",
+  "options": [
+    "Gaza",
+    "Damascus",
+    "Tyre",
+    "Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gaza",
+      "type": "city"
+    },
+    {
+      "name": "Philistia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zephaniah said Gaza would be abandoned and Ashkelon left in ruins."
+}

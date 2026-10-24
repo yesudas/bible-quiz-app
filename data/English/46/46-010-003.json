@@ -1,0 +1,35 @@
+{
+  "id": "46-010-003",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 10,
+  "verse_reference": "1 Corinthians 10:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Even though they shared God's blessings, what happened to most of the Israelites?",
+  "options": [
+    "They became kings",
+    "They returned to Egypt",
+    "They built a temple",
+    "God was not pleased with them, and their bodies were scattered in the wilderness"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God was not pleased with most of them; their bodies were scattered in the wilderness."
+}

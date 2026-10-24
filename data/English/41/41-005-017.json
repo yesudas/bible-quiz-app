@@ -1,0 +1,33 @@
+{
+  "id": "41-005-017",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 5,
+  "verse_reference": "Mark 5:35-36",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "After hearing that Jairus's daughter had died, Jesus told him, \"Don't be afraid; just ____.\"",
+  "options": [
+    "pray",
+    "wait",
+    "go home",
+    "believe"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jesus",
+    "Jairus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ignoring what they said, Jesus told the synagogue leader, \"Don't be afraid; just believe.\""
+}

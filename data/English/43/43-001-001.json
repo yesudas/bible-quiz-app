@@ -1,0 +1,33 @@
+{
+  "id": "43-001-001",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 1,
+  "verse_reference": "John 1:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"In the beginning was the ___, and the Word was with God, and the Word was God.\"",
+  "options": [
+    "Light",
+    "Word",
+    "Spirit",
+    "Lamb"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Creation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 1:1 says that in the beginning was the Word, and the Word was with God and was God."
+}

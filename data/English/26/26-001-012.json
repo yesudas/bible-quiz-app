@@ -1,0 +1,34 @@
+{
+  "id": "26-001-012",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 1,
+  "verse_reference": "Ezekiel 1:28",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "The radiance around the figure on the throne looked like what?",
+  "options": [
+    "A burning bush",
+    "A pillar of cloud",
+    "A rainbow in the clouds",
+    "The full moon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Worship",
+    "Promise"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The radiance looked like a rainbow in the clouds on a rainy day; this was the likeness of the glory of the LORD."
+}

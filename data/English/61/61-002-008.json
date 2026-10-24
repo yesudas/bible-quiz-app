@@ -1,0 +1,30 @@
+{
+  "id": "61-002-008",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 2,
+  "verse_reference": "2 Peter 2:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The Lord knows how to rescue the godly from ____.",
+  "options": [
+    "danger",
+    "enemies",
+    "sickness",
+    "trials"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter concludes that the Lord knows how to rescue the godly from trials and to hold the unrighteous for punishment."
+}

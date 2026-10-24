@@ -1,0 +1,33 @@
+{
+  "id": "43-012-015",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 12,
+  "verse_reference": "John 12:38-41",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which prophet's words were fulfilled when people still would not believe in Jesus after so many signs?",
+  "options": [
+    "Jeremiah",
+    "Malachi",
+    "Isaiah",
+    "Daniel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Faith"
+  ],
+  "characters": [
+    "Isaiah",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 12:38-41 says this was to fulfill the word of Isaiah the prophet, who saw Jesus' glory and spoke about him."
+}

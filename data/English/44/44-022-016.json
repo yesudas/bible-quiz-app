@@ -1,0 +1,37 @@
+{
+  "id": "44-022-016",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 22,
+  "verse_reference": "Acts 22:25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What question did Paul ask the centurion as they stretched him out to flog him?",
+  "options": [
+    "Is it legal to flog a Roman citizen who hasn't been found guilty?",
+    "Why are you doing this?",
+    "Do you know who Jesus is?",
+    "Can I speak to the crowd again?"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Justice",
+    "Wisdom"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Barracks",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul asked, 'Is it legal for you to flog a Roman citizen who hasn't even been found guilty?'"
+}

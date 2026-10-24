@@ -1,0 +1,45 @@
+{
+  "id": "43-004-013",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 4,
+  "verse_reference": "John 4:35",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When Jesus told his disciples to open their eyes and look at the fields, what did he say the fields were ready for?",
+  "options": [
+    "Planting",
+    "Rest",
+    "Harvest",
+    "Rain"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mission",
+    "Evangelism"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sychar",
+      "type": "town"
+    },
+    {
+      "name": "Samaria",
+      "type": "region"
+    },
+    {
+      "name": "Jacob's well",
+      "type": "well"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 4:35, Jesus said, \"Open your eyes and look at the fields! They are ripe for harvest.\""
+}

@@ -1,0 +1,38 @@
+{
+  "id": "42-022-009",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 22,
+  "verse_reference": "Luke 22:27",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'But I am among you as one who ____.'",
+  "options": [
+    "rules",
+    "teaches",
+    "serves",
+    "judges"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Humility",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Large upstairs room",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'But I am among you as one who serves.'"
+}

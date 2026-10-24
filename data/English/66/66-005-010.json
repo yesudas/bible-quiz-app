@@ -1,0 +1,38 @@
+{
+  "id": "66-005-010",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 5,
+  "verse_reference": "Revelation 5:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In the new song, why was the Lamb worthy to open the scroll?",
+  "options": [
+    "Because he was the oldest",
+    "Because he was slain and with his blood purchased people for God",
+    "Because he defeated the angels",
+    "Because he built the temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Jesus",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They sang, \"You are worthy… because you were slain, and with your blood you purchased for God persons from every tribe and language and people and nation.\""
+}

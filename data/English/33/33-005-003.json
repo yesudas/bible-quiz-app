@@ -1,0 +1,35 @@
+{
+  "id": "33-005-003",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 5,
+  "verse_reference": "Micah 5:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What does Micah 5:2 say about the origins of the ruler from Bethlehem?",
+  "options": [
+    "They are from the family of Saul",
+    "They are from a foreign land",
+    "They are from of old, from ancient times",
+    "They are unknown to everyone"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Bethlehem Ephrathah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micah says this ruler's origins are from of old, from ancient times."
+}

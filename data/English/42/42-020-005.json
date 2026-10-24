@@ -1,0 +1,37 @@
+{
+  "id": "42-020-005",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 20,
+  "verse_reference": "Luke 20:10-12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In the parable, what did the tenants do to the servants the owner sent?",
+  "options": [
+    "They paid them fairly",
+    "They beat, insulted and wounded them and sent them away",
+    "They made them tenants too",
+    "They gave them part of the harvest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Vineyard",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The tenants beat the first servant, treated the second shamefully, and wounded the third and threw him out."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "61-001-005",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 1,
+  "verse_reference": "2 Peter 1:5-7",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "Which quality comes last in Peter's list of qualities to add to faith?",
+  "options": [
+    "Love",
+    "Godliness",
+    "Perseverance",
+    "Mutual affection"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The list builds step by step and ends with mutual affection and finally love."
+}

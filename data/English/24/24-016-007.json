@@ -1,0 +1,36 @@
+{
+  "id": "24-016-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 16,
+  "verse_reference": "Jeremiah 16:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "God said people would no longer say \"the LORD… who brought the Israelites up out of Egypt.\" From which land would they then say He brought them?",
+  "options": [
+    "The land of the north",
+    "The land of Moab",
+    "The land of the Philistines",
+    "The land of Edom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Hope",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They would say the LORD brought the Israelites up out of the land of the north and all the countries where He had banished them."
+}

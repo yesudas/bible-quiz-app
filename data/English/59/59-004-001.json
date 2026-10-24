@@ -1,0 +1,29 @@
+{
+  "id": "59-004-001",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 4,
+  "verse_reference": "James 4:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to James, what causes fights and quarrels among believers?",
+  "options": [
+    "Hunger and thirst",
+    "Desires that battle within them",
+    "Too many teachers",
+    "Laws of the land"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James says fights and quarrels come from the desires that battle within us."
+}

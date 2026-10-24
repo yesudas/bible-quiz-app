@@ -1,0 +1,35 @@
+{
+  "id": "27-003-007",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 3,
+  "verse_reference": "Daniel 3:12",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which three men refused to worship the image of gold?",
+  "options": [
+    "Daniel, Arioch and Ashpenaz",
+    "Hananiah, Daniel and Arioch",
+    "Peter, James and John",
+    "Shadrach, Meshach and Abednego"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Courage"
+  ],
+  "characters": [
+    "Shadrach",
+    "Meshach",
+    "Abednego"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Shadrach, Meshach and Abednego did not serve the king's gods or worship the image of gold."
+}

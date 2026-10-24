@@ -1,0 +1,30 @@
+{
+  "id": "48-005-012",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 5,
+  "verse_reference": "Galatians 5:19-21",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which of these is listed as an act of the flesh?",
+  "options": [
+    "Patience",
+    "Kindness",
+    "Jealousy",
+    "Self-control"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jealousy is one of the acts of the flesh Paul listed, along with hatred, discord, fits of rage and others."
+}

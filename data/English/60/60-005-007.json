@@ -1,0 +1,33 @@
+{
+  "id": "60-005-007",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 5,
+  "verse_reference": "1 Peter 5:8",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "Peter says the devil prowls around like what animal, looking for someone to devour?",
+  "options": [
+    "A wolf",
+    "A bear",
+    "A snake",
+    "A roaring lion"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Satan",
+    "Temptation"
+  ],
+  "characters": [
+    "Satan"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Your enemy the devil prowls around like a roaring lion looking for someone to devour."
+}

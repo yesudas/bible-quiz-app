@@ -1,0 +1,37 @@
+{
+  "id": "41-003-002",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 3,
+  "verse_reference": "Mark 3:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why were some people in the synagogue watching Jesus closely?",
+  "options": [
+    "To see if he would heal on the Sabbath so they could accuse him",
+    "To learn how to heal",
+    "To hear him read the scroll",
+    "To ask him to stay in their town"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Synagogue",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They watched to see if Jesus would heal on the Sabbath, looking for a reason to accuse him."
+}

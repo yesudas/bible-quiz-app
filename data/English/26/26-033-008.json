@@ -1,0 +1,37 @@
+{
+  "id": "26-033-008",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 33,
+  "verse_reference": "Ezekiel 33:24",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "The people living in the ruins of Israel said, \"______ was only one man, yet he possessed the land.\" Who did they name?",
+  "options": [
+    "Abraham",
+    "Moses",
+    "Joshua",
+    "David"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Promise"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "places": [
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people in the ruins said, 'Abraham was only one man, yet he possessed the land. But we are many; surely the land has been given to us.'"
+}

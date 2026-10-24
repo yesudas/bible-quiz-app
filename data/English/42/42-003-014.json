@@ -1,0 +1,32 @@
+{
+  "id": "42-003-014",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 3,
+  "verse_reference": "Luke 3:14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did John tell the soldiers who asked what they should do?",
+  "options": [
+    "Leave the army",
+    "Pray three times a day",
+    "Go to the temple",
+    "Don't extort money or accuse people falsely; be content with your pay"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money",
+    "Repentance"
+  ],
+  "characters": [
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John told the soldiers not to extort money, not to accuse people falsely, and to be content with their pay."
+}

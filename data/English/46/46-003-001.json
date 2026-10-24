@@ -1,0 +1,38 @@
+{
+  "id": "46-003-001",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 3,
+  "verse_reference": "1 Corinthians 3:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Paul say he fed the Corinthians because they were not ready for solid food?",
+  "options": [
+    "Bread",
+    "Milk",
+    "Honey",
+    "Water"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul gave them milk, not solid food, because they were still like infants in Christ."
+}

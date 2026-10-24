@@ -1,0 +1,35 @@
+{
+  "id": "28-010-004",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 10,
+  "verse_reference": "Hosea 10:6",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where would the calf-idol be carried as tribute for the great king?",
+  "options": [
+    "Egypt",
+    "Babylon",
+    "Damascus",
+    "Assyria"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Idolatry",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said the idol would be carried to Assyria as tribute for the great king."
+}

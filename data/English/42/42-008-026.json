@@ -1,0 +1,39 @@
+{
+  "id": "42-008-026",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:51",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which disciples did Jesus allow into Jairus's house with the girl's parents?",
+  "options": [
+    "Andrew, Philip and Thomas",
+    "Peter, John and James",
+    "Peter, Andrew and Matthew",
+    "James, John and Judas"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Simon Peter",
+    "John",
+    "James",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jairus's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus did not let anyone go in with him except Peter, John and James, and the child's father and mother."
+}

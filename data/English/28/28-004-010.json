@@ -1,0 +1,30 @@
+{
+  "id": "28-004-010",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 4,
+  "verse_reference": "Hosea 4:17",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who did God say was joined to idols, so that He said 'leave him alone'?",
+  "options": [
+    "Judah",
+    "Edom",
+    "Ephraim",
+    "Benjamin"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Idolatry",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'Ephraim is joined to idols; leave him alone!'"
+}

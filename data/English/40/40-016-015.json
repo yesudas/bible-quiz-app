@@ -1,0 +1,31 @@
+{
+  "id": "40-016-015",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 16,
+  "verse_reference": "Matthew 16:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "After Peter's answer, what did Jesus order his disciples not to tell anyone?",
+  "options": [
+    "Where he was going",
+    "What they had eaten",
+    "Who his family was",
+    "That he was the Messiah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 16:20 says he ordered his disciples not to tell anyone that he was the Messiah."
+}

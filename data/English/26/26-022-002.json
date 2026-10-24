@@ -1,0 +1,36 @@
+{
+  "id": "26-022-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 22,
+  "verse_reference": "Ezekiel 22:7",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which list describes how the people of Jerusalem treated others?",
+  "options": [
+    "They honored parents and fed the poor",
+    "They welcomed foreigners and helped widows",
+    "They treated parents with contempt, oppressed foreigners and mistreated orphans and widows",
+    "They gave to the temple and kept the Sabbath"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Family",
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In her they treated father and mother with contempt, oppressed the foreigner and mistreated the fatherless and the widow."
+}

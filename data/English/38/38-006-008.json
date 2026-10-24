@@ -1,0 +1,36 @@
+{
+  "id": "38-006-008",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 6,
+  "verse_reference": "Zechariah 6:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"Here is the man whose name is the _____, and he will branch out from his place and build the temple of the Lord.\"",
+  "options": [
+    "Shepherd",
+    "Servant",
+    "Branch",
+    "Stone"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Promise",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said the man whose name is the Branch would build the temple of the Lord."
+}

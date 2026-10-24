@@ -1,0 +1,39 @@
+{
+  "id": "42-022-012",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 22,
+  "verse_reference": "Luke 22:34",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How many times did Jesus say Peter would deny knowing him before the rooster crowed?",
+  "options": [
+    "Two times",
+    "Three times",
+    "Seven times",
+    "Once"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Large upstairs room",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Peter, before the rooster crows today, you will deny three times that you know me.'"
+}

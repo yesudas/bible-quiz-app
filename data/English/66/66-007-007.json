@@ -1,0 +1,35 @@
+{
+  "id": "66-007-007",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 7,
+  "verse_reference": "Revelation 7:9",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What were the great multitude holding in their hands?",
+  "options": [
+    "Swords",
+    "Palm branches",
+    "Golden bowls",
+    "Lamps"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They were wearing white robes and holding palm branches in their hands."
+}

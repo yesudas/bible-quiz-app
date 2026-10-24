@@ -1,0 +1,33 @@
+{
+  "id": "26-004-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 4,
+  "verse_reference": "Ezekiel 4:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many days was Ezekiel to lie on his right side, bearing the sin of Judah?",
+  "options": [
+    "7 days",
+    "40 days",
+    "12 days",
+    "100 days"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After the 390 days, Ezekiel was to lie on his right side for 40 days, a day for each year of Judah's sin."
+}

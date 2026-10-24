@@ -1,0 +1,40 @@
+{
+  "id": "24-007-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 7,
+  "verse_reference": "Jeremiah 7:18",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "For whom did the women knead dough and make cakes?",
+  "options": [
+    "The Queen of Heaven",
+    "The king's mother",
+    "The priests of Baal",
+    "The poor of the city"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Worship",
+    "Family"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Children gathered wood, fathers lit the fire, and women kneaded dough to make cakes for the Queen of Heaven."
+}

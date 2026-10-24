@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Field-of-Blood",
+    "label": "Field of Blood",
+    "count": 2,
+    "paths": [
+        "English/40/40-027-004.json",
+        "English/40/40-027-005.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

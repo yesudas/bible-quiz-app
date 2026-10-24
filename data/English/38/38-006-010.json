@@ -1,0 +1,36 @@
+{
+  "id": "38-006-010",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 6,
+  "verse_reference": "Zechariah 6:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God say people from far away would come and do?",
+  "options": [
+    "Attack Jerusalem",
+    "Take the crown",
+    "Carry the people to Babylon",
+    "Help build the temple of the Lord"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Mission",
+    "Promise",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Those who are far away would come and help build the temple of the Lord."
+}

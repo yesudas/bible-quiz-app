@@ -1,0 +1,38 @@
+{
+  "id": "66-003-011",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 3,
+  "verse_reference": "Revelation 3:15-16",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Jesus said the church in Laodicea was neither cold nor hot. What word did he use for them?",
+  "options": [
+    "Frozen",
+    "Burning",
+    "Dry",
+    "Lukewarm"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Church",
+    "Repentance"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Laodicea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said they were lukewarm, neither hot nor cold, and so he was about to spit them out of his mouth."
+}

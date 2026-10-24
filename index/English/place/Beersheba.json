@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Beersheba",
     "label": "Beersheba",
-    "count": 13,
+    "count": 15,
     "paths": [
         "English/07/07-020-002.json",
         "English/09/09-003-013.json",
@@ -17,7 +17,9 @@
         "English/12/12-012-002.json",
         "English/14/14-019-004.json",
         "English/14/14-030-003.json",
-        "English/16/16-011-005.json"
+        "English/16/16-011-005.json",
+        "English/30/30-005-004.json",
+        "English/30/30-008-012.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

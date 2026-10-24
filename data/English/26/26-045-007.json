@@ -1,0 +1,30 @@
+{
+  "id": "26-045-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 45,
+  "verse_reference": "Ezekiel 45:21",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "On which day of the first month was the Passover to be observed?",
+  "options": [
+    "The first day",
+    "The tenth day",
+    "The fourteenth day",
+    "The twentieth day"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the first month on the fourteenth day they were to observe the Passover, a festival lasting seven days, eating bread made without yeast."
+}

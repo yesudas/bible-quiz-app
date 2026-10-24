@@ -1,0 +1,43 @@
+{
+  "id": "43-011-012",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 11,
+  "verse_reference": "John 11:35",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Jesus ___.\"",
+  "options": [
+    "wept",
+    "prayed",
+    "waited",
+    "smiled"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Love",
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Bethany",
+      "type": "village"
+    },
+    {
+      "name": "Lazarus' tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 11:35 says simply, \"Jesus wept.\""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "51-001-010",
+  "language": "en",
+  "book_no": 51,
+  "book": "Colossians",
+  "chapter": 1,
+  "verse_reference": "Colossians 1:18",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to Colossians 1, the Son is the head of what?",
+  "options": [
+    "The temple",
+    "The nations",
+    "The body, the church",
+    "The law"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Church",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that the Son is the head of the body, the church."
+}

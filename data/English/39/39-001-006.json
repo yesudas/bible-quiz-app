@@ -1,0 +1,31 @@
+{
+  "id": "39-001-006",
+  "language": "en",
+  "book_no": 39,
+  "book": "Malachi",
+  "chapter": 1,
+  "verse_reference": "Malachi 1:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"A son honors his father, and a slave his ______.\"",
+  "options": [
+    "king",
+    "brother",
+    "master",
+    "mother"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God compared Himself to a father and master, asking where the honor and respect due to Him were."
+}

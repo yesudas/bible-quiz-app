@@ -1,0 +1,41 @@
+{
+  "id": "42-004-012",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 4,
+  "verse_reference": "Luke 4:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus mean when he said, 'Today this scripture is fulfilled in your hearing'?",
+  "options": [
+    "The prophecy would come true many years later",
+    "Isaiah was still alive",
+    "The scroll was newly written",
+    "He himself was the one Isaiah wrote about"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Nazareth",
+      "type": "town"
+    },
+    {
+      "name": "Synagogue",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After reading Isaiah, Jesus said the scripture was fulfilled that day, showing he was the anointed one it described."
+}

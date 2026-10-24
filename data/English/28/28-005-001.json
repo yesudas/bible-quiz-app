@@ -1,0 +1,39 @@
+{
+  "id": "28-005-001",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 5,
+  "verse_reference": "Hosea 5:1",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Hosea said the leaders had been a snare at Mizpah and a net spread out on which mountain?",
+  "options": [
+    "Mount Carmel",
+    "Mount Sinai",
+    "Mount Tabor",
+    "Mount Hermon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mizpah",
+      "type": "town"
+    },
+    {
+      "name": "Mount Tabor",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said, 'You have been a snare at Mizpah, a net spread out on Tabor.'"
+}

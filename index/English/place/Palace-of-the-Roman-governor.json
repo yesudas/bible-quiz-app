@@ -1,0 +1,21 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Palace-of-the-Roman-governor",
+    "label": "Palace of the Roman governor",
+    "count": 11,
+    "paths": [
+        "English/43/43-018-011.json",
+        "English/43/43-018-012.json",
+        "English/43/43-018-013.json",
+        "English/43/43-018-014.json",
+        "English/43/43-018-015.json",
+        "English/43/43-019-001.json",
+        "English/43/43-019-002.json",
+        "English/43/43-019-003.json",
+        "English/43/43-019-004.json",
+        "English/43/43-019-005.json",
+        "English/43/43-019-006.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

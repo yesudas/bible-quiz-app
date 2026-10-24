@@ -1,0 +1,33 @@
+{
+  "id": "66-011-011",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 11,
+  "verse_reference": "Revelation 11:13",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "How many people were killed in the earthquake after the witnesses went up to heaven?",
+  "options": [
+    "One thousand",
+    "Twelve thousand",
+    "A third of the city",
+    "Seven thousand"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Great city",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A tenth of the city collapsed in a severe earthquake, and seven thousand people were killed. The survivors gave glory to the God of heaven."
+}

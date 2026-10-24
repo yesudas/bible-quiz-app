@@ -1,0 +1,33 @@
+{
+  "id": "35-003-011",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 3,
+  "verse_reference": "Habakkuk 3:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"The Sovereign LORD is my strength; he makes my feet like the feet of a ____.\"",
+  "options": [
+    "lion",
+    "deer",
+    "eagle",
+    "horse"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [
+    "Habakkuk"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Habakkuk said God makes his feet like the feet of a deer and enables him to tread on the heights."
+}

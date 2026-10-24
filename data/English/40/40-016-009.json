@@ -1,0 +1,39 @@
+{
+  "id": "40-016-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 16,
+  "verse_reference": "Matthew 16:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Peter's answer: \"You are the Messiah, the Son of the ______ God.\"",
+  "options": [
+    "holy",
+    "living",
+    "most high",
+    "mighty"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Caesarea Philippi",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 16:16 says Simon Peter answered, \"You are the Messiah, the Son of the living God.\""
+}

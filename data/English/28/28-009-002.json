@@ -1,0 +1,39 @@
+{
+  "id": "28-009-002",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 9,
+  "verse_reference": "Hosea 9:3",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Hosea said Ephraim would return to Egypt and eat unclean food where?",
+  "options": [
+    "In Babylon",
+    "In Moab",
+    "In Assyria",
+    "In Edom"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said, 'Ephraim will return to Egypt and eat unclean food in Assyria.'"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "46-010-008",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 10,
+  "verse_reference": "1 Corinthians 10:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"So, if you think you are standing firm, be careful that you don't ______!\"",
+  "options": [
+    "fall",
+    "wander",
+    "sleep",
+    "boast"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Temptation",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul warned that people who think they are strong must be careful not to fall."
+}

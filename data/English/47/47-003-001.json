@@ -1,0 +1,36 @@
+{
+  "id": "47-003-001",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 3,
+  "verse_reference": "2 Corinthians 3:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Paul did not need letters of recommendation. Who did he say was his letter?",
+  "options": [
+    "The apostles in Jerusalem",
+    "The Corinthian believers themselves",
+    "Timothy and Titus",
+    "The church in Antioch"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said the Corinthians themselves were his letter, written on his heart, known and read by everyone."
+}

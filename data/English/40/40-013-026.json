@@ -1,0 +1,38 @@
+{
+  "id": "40-013-026",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 13,
+  "verse_reference": "Matthew 13:58",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Jesus not do many miracles in his hometown?",
+  "options": [
+    "Because of their lack of faith",
+    "Because it was the Sabbath",
+    "Because he was too tired",
+    "Because the disciples were away"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Hometown",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 13:58 says he did not do many miracles there because of their lack of faith."
+}

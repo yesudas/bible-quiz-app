@@ -1,0 +1,37 @@
+{
+  "id": "33-007-006",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 7,
+  "verse_reference": "Micah 7:15",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "God promised to show His people wonders as in the days when they came out of which land?",
+  "options": [
+    "Babylon",
+    "Egypt",
+    "Assyria",
+    "Canaan"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Promise",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'As in the days when you came out of Egypt, I will show them my wonders.'"
+}

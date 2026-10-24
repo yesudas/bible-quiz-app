@@ -1,0 +1,32 @@
+{
+  "id": "42-018-019",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 18,
+  "verse_reference": "Luke 18:34",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did the disciples respond when Jesus spoke about his death and rising?",
+  "options": [
+    "They wept loudly",
+    "They told others",
+    "They argued with him",
+    "They did not understand, because its meaning was hidden from them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The disciples did not understand any of this. Its meaning was hidden from them."
+}

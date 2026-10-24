@@ -1,0 +1,17 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Achaia",
+    "label": "Achaia",
+    "count": 7,
+    "paths": [
+        "English/44/44-018-010.json",
+        "English/44/44-018-018.json",
+        "English/45/45-015-011.json",
+        "English/46/46-016-011.json",
+        "English/47/47-001-001.json",
+        "English/47/47-009-001.json",
+        "English/52/52-001-005.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42-018-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 18,
+  "verse_reference": "Luke 18:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the widow's plea: 'Grant me ____ against my adversary.'",
+  "options": [
+    "mercy",
+    "peace",
+    "money",
+    "justice"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The widow kept coming to the judge with the plea, 'Grant me justice against my adversary.'"
+}

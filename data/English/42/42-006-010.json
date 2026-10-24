@@ -1,0 +1,33 @@
+{
+  "id": "42-006-010",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:14",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "What new name did Jesus give to Simon?",
+  "options": [
+    "Andrew",
+    "Peter",
+    "Thomas",
+    "Levi"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Simon Peter",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Luke lists Simon, whom Jesus named Peter, first among the twelve apostles."
+}

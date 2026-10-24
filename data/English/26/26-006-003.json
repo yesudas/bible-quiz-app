@@ -1,0 +1,30 @@
+{
+  "id": "26-006-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 6,
+  "verse_reference": "Ezekiel 6:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God say He would scatter around the altars?",
+  "options": [
+    "Ashes",
+    "Broken idols",
+    "Their bones",
+    "Their silver"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would lay the dead bodies of the Israelites in front of their idols and scatter their bones around their altars."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "59-005-001",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 5,
+  "verse_reference": "James 5:1-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What wrong did the rich people in James 5 do to their workers?",
+  "options": [
+    "They made them work on the Sabbath",
+    "They failed to pay their wages",
+    "They sold them as slaves",
+    "They took their land"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James says the wages the rich failed to pay the workers who mowed their fields are crying out against them."
+}

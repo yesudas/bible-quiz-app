@@ -1,0 +1,33 @@
+{
+  "id": "42-010-010",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "To whom did Jesus say the Father had revealed these things?",
+  "options": [
+    "The wise and learned",
+    "Little children",
+    "The priests and Levites",
+    "The rulers of Rome"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Prayer",
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Full of joy through the Holy Spirit, Jesus praised the Father for hiding these things from the wise and learned and revealing them to little children."
+}

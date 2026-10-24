@@ -1,0 +1,45 @@
+{
+  "id": "40-021-007",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 21,
+  "verse_reference": "Matthew 21:10-11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When the whole city asked, \"Who is this?\" what did the crowds answer?",
+  "options": [
+    "\"This is Jesus, the prophet from Nazareth in Galilee.\"",
+    "\"This is the son of Herod.\"",
+    "\"This is Elijah come back.\"",
+    "\"This is a teacher from Egypt.\""
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Nazareth",
+      "type": "town"
+    },
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 21:11 says the crowds answered, \"This is Jesus, the prophet from Nazareth in Galilee.\""
+}

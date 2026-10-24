@@ -1,0 +1,33 @@
+{
+  "id": "40-007-002",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 7,
+  "verse_reference": "Matthew 7:3-5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Jesus said to take what out of your own eye before removing the speck from your brother's eye?",
+  "options": [
+    "The plank",
+    "The dust",
+    "The thorn",
+    "The stone"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 7:5 says first take the plank out of your own eye, and then you will see clearly to remove the speck from your brother's eye."
+}

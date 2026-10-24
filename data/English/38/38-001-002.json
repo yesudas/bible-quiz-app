@@ -1,0 +1,32 @@
+{
+  "id": "38-001-002",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 1,
+  "verse_reference": "Zechariah 1:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "In which king's reign did the word of the Lord first come to Zechariah?",
+  "options": [
+    "Cyrus",
+    "Artaxerxes",
+    "Darius",
+    "Nebuchadnezzar"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Zechariah",
+    "Darius"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The word came in the eighth month of the second year of Darius."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "48-003-015",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 3,
+  "verse_reference": "Galatians 3:28",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all ______ in Christ Jesus.\"",
+  "options": [
+    "one",
+    "holy",
+    "free",
+    "strong"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church",
+    "Love",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul taught that all believers are one in Christ Jesus."
+}

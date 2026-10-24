@@ -1,0 +1,42 @@
+{
+  "id": "42-015-010",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 15,
+  "verse_reference": "Luke 15:14-15",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What job did the younger son take after a severe famine came?",
+  "options": [
+    "Fishing",
+    "Building houses",
+    "Feeding pigs",
+    "Selling bread"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Distant country",
+      "type": "country"
+    },
+    {
+      "name": "Fields",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After he had spent everything, he hired himself out to a citizen who sent him to his fields to feed pigs."
+}

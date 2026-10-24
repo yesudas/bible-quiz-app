@@ -1,0 +1,40 @@
+{
+  "id": "43-018-007",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 18,
+  "verse_reference": "John 18:15-16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Peter get into the high priest's courtyard?",
+  "options": [
+    "He climbed over the wall",
+    "He went in with the soldiers",
+    "Another disciple known to the high priest spoke to the servant girl on duty and brought him in",
+    "He pretended to be a servant"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Courtyard of the high priest",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 18:15-16 says another disciple who was known to the high priest went into the courtyard, then came back, spoke to the servant girl on duty and brought Peter in."
+}

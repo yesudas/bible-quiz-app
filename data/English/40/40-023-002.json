@@ -1,0 +1,33 @@
+{
+  "id": "40-023-002",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 23,
+  "verse_reference": "Matthew 23:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Jesus tell people not to do what the teachers of the law and Pharisees do?",
+  "options": [
+    "They teach too slowly",
+    "They speak a different language",
+    "They are too young",
+    "They do not practice what they preach"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 23:3 says, \"But do not do what they do, for they do not practice what they preach.\""
+}

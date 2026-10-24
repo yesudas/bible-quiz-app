@@ -1,0 +1,32 @@
+{
+  "id": "43-016-008",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 16,
+  "verse_reference": "John 16:21",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "What picture did Jesus use to explain grief turning into joy?",
+  "options": [
+    "A farmer harvesting wheat",
+    "A shepherd finding a lost sheep",
+    "A woman giving birth",
+    "A king returning home"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 16:21, Jesus said a woman giving birth has pain, but when her baby is born she forgets the anguish because of her joy."
+}

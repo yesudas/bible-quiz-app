@@ -1,0 +1,32 @@
+{
+  "id": "59-001-006",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 1,
+  "verse_reference": "James 1:12",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What will the person who perseveres under trial receive?",
+  "options": [
+    "The crown of life",
+    "A golden harp",
+    "A new name",
+    "A white horse"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Promise",
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Blessed is the one who perseveres under trial, for they will receive the crown of life that the Lord has promised to those who love him."
+}

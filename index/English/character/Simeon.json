@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Simeon",
     "label": "Simeon",
-    "count": 9,
+    "count": 12,
     "paths": [
         "English/01/01-034-005.json",
         "English/01/01-034-006.json",
@@ -13,7 +13,10 @@
         "English/13/13-004-008.json",
         "English/13/13-004-009.json",
         "English/13/13-004-010.json",
-        "English/13/13-004-011.json"
+        "English/13/13-004-011.json",
+        "English/42/42-002-015.json",
+        "English/42/42-002-016.json",
+        "English/42/42-002-017.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

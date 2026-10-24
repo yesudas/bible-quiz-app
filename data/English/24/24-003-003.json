@@ -1,0 +1,38 @@
+{
+  "id": "24-003-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 3,
+  "verse_reference": "Jeremiah 3:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What name did God give to Judah, the \"sister\" of faithless Israel?",
+  "options": [
+    "Unfaithful Judah",
+    "Faithful Judah",
+    "Foolish Judah",
+    "Proud Judah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God called Judah \"unfaithful sister Judah,\" because she saw what Israel did and did not learn."
+}

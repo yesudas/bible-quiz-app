@@ -1,0 +1,30 @@
+{
+  "id": "46-006-010",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 6,
+  "verse_reference": "1 Corinthians 6:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Do you not know that your bodies are temples of the ______, who is in you, whom you have received from God?\"",
+  "options": [
+    "Father",
+    "Holy Spirit",
+    "Lord",
+    "angels"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul taught that a believer's body is a temple of the Holy Spirit."
+}

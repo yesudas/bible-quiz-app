@@ -1,0 +1,32 @@
+{
+  "id": "62-004-010",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 4,
+  "verse_reference": "1 John 4:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"There is no fear in love. But perfect love drives out ______.\"",
+  "options": [
+    "anger",
+    "fear",
+    "sadness",
+    "sin"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says there is no fear in love; perfect love drives out fear, because fear has to do with punishment."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "26-014-008",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 14,
+  "verse_reference": "Ezekiel 14:23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When the exiles saw the conduct of the survivors, what would they understand?",
+  "options": [
+    "That the exile was a mistake",
+    "That Jerusalem would never be judged",
+    "That the survivors were righteous",
+    "That God had not acted without cause"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said the exiles would be consoled, for they would know He had done nothing in Jerusalem without cause."
+}

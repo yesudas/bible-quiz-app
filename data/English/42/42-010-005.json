@@ -1,0 +1,49 @@
+{
+  "id": "42-010-005",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:13",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which two towns did Jesus say would have repented long ago if they had seen the miracles done in Chorazin and Bethsaida?",
+  "options": [
+    "Tyre and Sidon",
+    "Sodom and Gomorrah",
+    "Nineveh and Babylon",
+    "Jericho and Samaria"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Repentance",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Chorazin",
+      "type": "town"
+    },
+    {
+      "name": "Bethsaida",
+      "type": "town"
+    },
+    {
+      "name": "Tyre",
+      "type": "city"
+    },
+    {
+      "name": "Sidon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said if the miracles done in Chorazin and Bethsaida had been done in Tyre and Sidon, they would have repented long ago."
+}

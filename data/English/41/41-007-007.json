@@ -1,0 +1,33 @@
+{
+  "id": "41-007-007",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 7,
+  "verse_reference": "Mark 7:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Jesus teach makes a person unclean?",
+  "options": [
+    "What comes out of a person",
+    "What a person eats",
+    "Touching a sick person",
+    "Walking on a dusty road"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said nothing outside a person can defile them by going into them; rather, it is what comes out of a person that defiles them."
+}

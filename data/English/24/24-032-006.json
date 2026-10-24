@@ -1,0 +1,33 @@
+{
+  "id": "24-032-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 32,
+  "verse_reference": "Jeremiah 32:12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "To whom did Jeremiah give the deed of purchase?",
+  "options": [
+    "Gedaliah son of Ahikam",
+    "Ahikam son of Shaphan",
+    "Pashhur son of Immer",
+    "Baruch son of Neriah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [
+    "Baruch",
+    "Neriah",
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah gave the deed to Baruch son of Neriah, the son of Mahseiah, in the presence of witnesses."
+}

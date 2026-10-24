@@ -1,0 +1,38 @@
+{
+  "id": "30-007-008",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 7,
+  "verse_reference": "Amos 7:10",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was the priest of Bethel who opposed Amos?",
+  "options": [
+    "Hilkiah",
+    "Zadok",
+    "Eli",
+    "Amaziah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution",
+    "Leadership"
+  ],
+  "characters": [
+    "Amaziah",
+    "Amos"
+  ],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 7:10 says Amaziah the priest of Bethel sent a message against Amos to the king."
+}

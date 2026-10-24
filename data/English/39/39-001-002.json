@@ -1,0 +1,35 @@
+{
+  "id": "39-001-002",
+  "language": "en",
+  "book_no": 39,
+  "book": "Malachi",
+  "chapter": 1,
+  "verse_reference": "Malachi 1:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"'I have ______ you,' says the LORD.\"",
+  "options": [
+    "loved",
+    "chosen",
+    "blessed",
+    "forgiven"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God opened His message by telling Israel, \"I have loved you.\""
+}

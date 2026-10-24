@@ -1,0 +1,39 @@
+{
+  "id": "42-009-023",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 9,
+  "verse_reference": "Luke 9:54-55",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "When a Samaritan village did not welcome Jesus, what did James and John want to do?",
+  "options": [
+    "Go around it quietly",
+    "Pray for the people",
+    "Ask for food anyway",
+    "Call fire down from heaven to destroy them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Discipleship"
+  ],
+  "characters": [
+    "James",
+    "John",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Samaritan village",
+      "type": "village"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James and John asked, 'Lord, do you want us to call fire down from heaven to destroy them?' But Jesus turned and rebuked them."
+}

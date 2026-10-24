@@ -1,0 +1,37 @@
+{
+  "id": "27-010-001",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 10,
+  "verse_reference": "Daniel 10:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "In whose reign was this revelation given to Daniel?",
+  "options": [
+    "Darius the Mede",
+    "Cyrus king of Persia",
+    "Belshazzar",
+    "Nebuchadnezzar"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel",
+    "Cyrus"
+  ],
+  "places": [
+    {
+      "name": "Persia",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the third year of Cyrus king of Persia, a revelation was given to Daniel, who was called Belteshazzar."
+}

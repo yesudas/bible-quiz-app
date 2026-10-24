@@ -1,0 +1,30 @@
+{
+  "id": "59-003-006",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 3,
+  "verse_reference": "James 3:9-10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What two things does James say come out of the same mouth?",
+  "options": [
+    "Truth and lies",
+    "Praise and cursing",
+    "Songs and prayers",
+    "Laughter and tears"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "With the tongue we praise our Lord and Father, and with it we curse people made in God's likeness. Out of the same mouth come praise and cursing."
+}

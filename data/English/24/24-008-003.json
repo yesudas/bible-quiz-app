@@ -1,0 +1,30 @@
+{
+  "id": "24-008-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 8,
+  "verse_reference": "Jeremiah 8:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "God said each person pursued his own course like what?",
+  "options": [
+    "A sheep wandering away",
+    "A horse charging into battle",
+    "A river flowing downhill",
+    "A bird flying south"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "No one repented; each pursued his own course like a horse charging into battle."
+}

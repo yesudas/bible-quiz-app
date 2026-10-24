@@ -1,0 +1,32 @@
+{
+  "id": "46-012-015",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 12,
+  "verse_reference": "1 Corinthians 12:31",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"And yet I will show you the most ______ way.\"",
+  "options": [
+    "excellent",
+    "holy",
+    "perfect",
+    "simple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul ends the chapter by introducing the most excellent way, which he describes in chapter 13: love."
+}

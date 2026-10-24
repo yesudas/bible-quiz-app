@@ -1,0 +1,39 @@
+{
+  "id": "24-037-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 37,
+  "verse_reference": "Jeremiah 37:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did Nebuchadnezzar make king of Judah in place of Jehoiachin?",
+  "options": [
+    "Jehoiakim",
+    "Gedaliah",
+    "Zedekiah",
+    "Shallum"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Zedekiah",
+    "Nebuchadnezzar",
+    "Jehoiachin",
+    "Josiah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zedekiah son of Josiah was made king of Judah by Nebuchadnezzar; he reigned in place of Jehoiachin."
+}

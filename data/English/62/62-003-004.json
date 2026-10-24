@@ -1,0 +1,35 @@
+{
+  "id": "62-003-004",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 3,
+  "verse_reference": "1 John 3:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why does John say Jesus appeared?",
+  "options": [
+    "To become a king on earth",
+    "To build a church building",
+    "To judge the angels",
+    "To take away our sins"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Jesus",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says Jesus appeared so that he might take away our sins, and in him there is no sin."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "42-017-007",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 17,
+  "verse_reference": "Luke 17:11",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Along which border was Jesus traveling when he met the ten men with leprosy?",
+  "options": [
+    "Between Judea and Egypt",
+    "Between Galilee and Syria",
+    "Between Judea and Perea",
+    "Between Samaria and Galilee"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "region"
+    },
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On his way to Jerusalem, Jesus traveled along the border between Samaria and Galilee."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "42-001-006",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:8-10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Zechariah doing in the temple when the angel appeared?",
+  "options": [
+    "Offering a lamb",
+    "Reading the Scriptures",
+    "Burning incense",
+    "Cleaning the lampstand"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Prayer"
+  ],
+  "characters": [
+    "Zechariah"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zechariah was chosen by lot to burn incense in the temple of the Lord while the people prayed outside."
+}

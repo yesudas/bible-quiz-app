@@ -1,0 +1,37 @@
+{
+  "id": "43-010-015",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 10,
+  "verse_reference": "John 10:40",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Jesus go after escaping their grasp at the end of John 10?",
+  "options": [
+    "To Galilee",
+    "To Bethany near Jerusalem",
+    "To Samaria",
+    "Across the Jordan, to the place where John had been baptizing"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Jesus",
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 10:40 says Jesus went back across the Jordan to the place where John had been baptizing in the early days."
+}

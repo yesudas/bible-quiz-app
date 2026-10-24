@@ -1,0 +1,47 @@
+{
+  "id": "43-004-014",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 4,
+  "verse_reference": "John 4:39-42",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "After Jesus stayed two days in their town, what did many Samaritans tell the woman?",
+  "options": [
+    "We still do not believe",
+    "We will follow him to Jerusalem",
+    "We believe because of your words alone",
+    "We have heard for ourselves, and we know this man really is the Savior of the world"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Salvation",
+    "Evangelism"
+  ],
+  "characters": [
+    "Samaritan woman",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sychar",
+      "type": "town"
+    },
+    {
+      "name": "Samaria",
+      "type": "region"
+    },
+    {
+      "name": "Jacob's well",
+      "type": "well"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 4:42 says they told her they no longer believed just because of what she said, for they had heard for themselves and knew he really was the Savior of the world."
+}

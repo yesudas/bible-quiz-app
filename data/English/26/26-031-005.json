@@ -1,0 +1,35 @@
+{
+  "id": "26-031-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 31,
+  "verse_reference": "Ezekiel 31:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did God hand over the great cedar to the ruler of the nations?",
+  "options": [
+    "Because it was proud of its height",
+    "Because it had no fruit",
+    "Because it was too old",
+    "Because it had no water"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Because the cedar towered high and was proud of its height, God handed it over to the ruler of the nations."
+}

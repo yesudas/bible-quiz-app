@@ -1,0 +1,38 @@
+{
+  "id": "42-008-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the disciples' cry: 'Master, Master, we're going to ____!'",
+  "options": [
+    "drown",
+    "sink",
+    "die",
+    "lose"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Fear"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Lake of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The disciples woke him, saying, 'Master, Master, we're going to drown!'"
+}

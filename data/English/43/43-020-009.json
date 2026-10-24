@@ -1,0 +1,40 @@
+{
+  "id": "43-020-009",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 20,
+  "verse_reference": "John 20:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why were the disciples meeting with the doors locked on the evening of the first day?",
+  "options": [
+    "For fear of the Jewish leaders",
+    "Because of a storm",
+    "Because it was the Sabbath",
+    "To keep Thomas out"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "House with locked doors",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 20:19 says the disciples were together with the doors locked for fear of the Jewish leaders. Jesus came and stood among them."
+}

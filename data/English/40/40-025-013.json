@@ -1,0 +1,33 @@
+{
+  "id": "40-025-013",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Because the servant was faithful with a few things, what did the master say he would do?",
+  "options": [
+    "Let him go free",
+    "Give him a house",
+    "Put him in charge of many things",
+    "Send him on a journey"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Promise"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:21 says, \"You have been faithful with a few things; I will put you in charge of many things. Come and share your master's happiness!\""
+}

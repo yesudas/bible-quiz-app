@@ -1,0 +1,32 @@
+{
+  "id": "40-019-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 19,
+  "verse_reference": "Matthew 19:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Jesus first answer the man's question about what is good?",
+  "options": [
+    "\"You are already good.\"",
+    "\"Ask the priests.\"",
+    "\"There is only One who is good.\"",
+    "\"Goodness comes from riches.\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus",
+    "Rich young man"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 19:17 says Jesus replied, \"Why do you ask me about what is good? There is only One who is good.\""
+}

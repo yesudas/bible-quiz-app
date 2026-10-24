@@ -1,0 +1,35 @@
+{
+  "id": "45-003-009",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 3,
+  "verse_reference": "Romans 3:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How does righteousness from God come to all who believe?",
+  "options": [
+    "Through keeping the Sabbath",
+    "Through offering sacrifices",
+    "Through faith in Jesus Christ",
+    "Through being born a Jew"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says this righteousness is given through faith in Jesus Christ to all who believe."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "52-004-003",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 4,
+  "verse_reference": "1 Thessalonians 4:9",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Paul said the Thessalonians did not need anyone to write to them about loving one another. Who had taught them?",
+  "options": [
+    "Their parents",
+    "The Roman teachers",
+    "God",
+    "The prophets of Athens"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said they had been taught by God to love each other, and they were already showing love to the believers in Macedonia."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "42-014-002",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 14,
+  "verse_reference": "Luke 14:2",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was the man in front of Jesus suffering from at the Pharisee's house?",
+  "options": [
+    "Blindness",
+    "Leprosy",
+    "Abnormal swelling of his body",
+    "A fever"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "House of a prominent Pharisee",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In front of him there was a man suffering from abnormal swelling of his body."
+}

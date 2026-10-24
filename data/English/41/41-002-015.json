@@ -1,0 +1,33 @@
+{
+  "id": "41-002-015",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 2,
+  "verse_reference": "Mark 2:27-28",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: \"The Sabbath was made for man, not man for the Sabbath. So the Son of Man is Lord even of the ____.\"",
+  "options": [
+    "temple",
+    "law",
+    "Sabbath",
+    "priests"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus taught that the Sabbath was made for people, and that the Son of Man is Lord even of the Sabbath."
+}

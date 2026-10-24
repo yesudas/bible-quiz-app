@@ -1,0 +1,35 @@
+{
+  "id": "26-029-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 29,
+  "verse_reference": "Ezekiel 29:6-7",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "What did God say Egypt had been to the people of Israel?",
+  "options": [
+    "A staff of reed that splintered when leaned on",
+    "A strong wall around them",
+    "A shepherd who led them",
+    "A shield in battle"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Egypt had been a staff of reed for Israel; when they leaned on it, it broke and tore open their shoulders."
+}

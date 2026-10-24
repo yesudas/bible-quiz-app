@@ -1,0 +1,36 @@
+{
+  "id": "42-015-019",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 15,
+  "verse_reference": "Luke 15:25-28",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where was the older son when the celebration began?",
+  "options": [
+    "In the city",
+    "At the temple",
+    "Asleep in the house",
+    "In the field"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Field",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The older son was in the field. When he came near the house, he heard music and dancing."
+}

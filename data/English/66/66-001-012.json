@@ -1,0 +1,33 @@
+{
+  "id": "66-001-012",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 1,
+  "verse_reference": "Revelation 1:10",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "On what day was John \"in the Spirit\" when he heard a loud voice?",
+  "options": [
+    "The Day of Atonement",
+    "The Lord's Day",
+    "The Passover",
+    "The day of Pentecost"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Worship"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John wrote, \"On the Lord's Day I was in the Spirit,\" and he heard a loud voice behind him."
+}

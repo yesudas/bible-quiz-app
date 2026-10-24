@@ -1,0 +1,31 @@
+{
+  "id": "45-003-003",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 3,
+  "verse_reference": "Romans 3:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Romans 3:9, who are all under the power of sin?",
+  "options": [
+    "Jews and Gentiles alike",
+    "Only the Gentiles",
+    "Only the Pharisees",
+    "Only the Romans"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says both Jews and Gentiles alike are all under the power of sin."
+}

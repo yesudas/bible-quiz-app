@@ -1,0 +1,37 @@
+{
+  "id": "43-013-011",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 13,
+  "verse_reference": "John 13:28-29",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When Jesus told Judas, \"What you are about to do, do quickly,\" what did some disciples think it meant?",
+  "options": [
+    "Judas was going to pray",
+    "Judas was going to fetch water",
+    "Judas was to buy what was needed for the festival or give to the poor",
+    "Judas was going home"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Judas Iscariot",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 13:29 says since Judas had charge of the money, some thought Jesus was telling him to buy what was needed for the festival, or to give something to the poor."
+}

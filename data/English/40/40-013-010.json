@@ -1,0 +1,32 @@
+{
+  "id": "40-013-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 13,
+  "verse_reference": "Matthew 13:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say chokes the word in the person who received seed among thorns?",
+  "options": [
+    "The worries of this life and the deceitfulness of wealth",
+    "The heat of the sun",
+    "The birds of the air",
+    "The hardness of the path"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 13:22 says the worries of this life and the deceitfulness of wealth choke the word, making it unfruitful."
+}

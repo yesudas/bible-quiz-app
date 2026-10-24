@@ -1,0 +1,16 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Zacchaeus",
+    "label": "Zacchaeus",
+    "count": 6,
+    "paths": [
+        "English/42/42-019-001.json",
+        "English/42/42-019-002.json",
+        "English/42/42-019-003.json",
+        "English/42/42-019-004.json",
+        "English/42/42-019-005.json",
+        "English/42/42-019-006.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

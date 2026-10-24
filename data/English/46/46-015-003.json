@@ -1,0 +1,33 @@
+{
+  "id": "46-015-003",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 15,
+  "verse_reference": "1 Corinthians 15:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "To how many brothers and sisters did the risen Christ appear at the same time?",
+  "options": [
+    "Twelve",
+    "Seventy",
+    "Three thousand",
+    "More than five hundred"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said Christ appeared to more than five hundred of the brothers and sisters at the same time, most of whom were still living."
+}

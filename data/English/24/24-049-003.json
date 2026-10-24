@@ -1,0 +1,39 @@
+{
+  "id": "24-049-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 49,
+  "verse_reference": "Jeremiah 49:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "About Edom, God asked: \"Is there no longer wisdom in ____?\"",
+  "options": [
+    "Bozrah",
+    "Dedan",
+    "Teman",
+    "Sela"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Teman",
+      "type": "town"
+    },
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Concerning Edom: \"Is there no longer wisdom in Teman? Has counsel perished from the prudent?\""
+}

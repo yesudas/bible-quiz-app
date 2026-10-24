@@ -1,0 +1,32 @@
+{
+  "id": "44-012-012",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 12,
+  "verse_reference": "Acts 12:15",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the people say to Rhoda when she said Peter was at the door?",
+  "options": [
+    "You're out of your mind",
+    "Let him in quickly",
+    "Bring us bread",
+    "Ask him to wait"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Prayer"
+  ],
+  "characters": [
+    "Rhoda"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They said, 'You're out of your mind,' and when she kept insisting, they said, 'It must be his angel.'"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "30-008-006",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 8,
+  "verse_reference": "Amos 8:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the merchants sell mixed in with the wheat?",
+  "options": [
+    "Sand",
+    "Barley",
+    "Chaff from the wind",
+    "The sweepings"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Money"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 8:6 says they sold even the sweepings with the wheat."
+}

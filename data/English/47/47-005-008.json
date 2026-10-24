@@ -1,0 +1,34 @@
+{
+  "id": "47-005-008",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 5,
+  "verse_reference": "2 Corinthians 5:17",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "If anyone is in Christ, what has come?",
+  "options": [
+    "The end of the world",
+    "A time of rest",
+    "The kingdom of Israel",
+    "The new creation"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that if anyone is in Christ, the new creation has come: the old has gone, the new is here."
+}

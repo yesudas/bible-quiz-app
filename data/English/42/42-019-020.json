@@ -1,0 +1,37 @@
+{
+  "id": "42-019-020",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 19,
+  "verse_reference": "Luke 19:44",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jesus say Jerusalem's enemies would not leave one stone on another?",
+  "options": [
+    "Because the city did not recognize the time of God's coming to it",
+    "Because the walls were weak",
+    "Because the people were poor",
+    "Because the Romans hated the temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said it would happen because they did not recognize the time of God's coming to them."
+}

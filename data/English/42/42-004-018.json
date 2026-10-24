@@ -1,0 +1,37 @@
+{
+  "id": "42-004-018",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 4,
+  "verse_reference": "Luke 4:30",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did Jesus escape the angry crowd at Nazareth?",
+  "options": [
+    "An angel carried him away",
+    "He hid in a cave",
+    "His disciples fought them",
+    "He walked right through the crowd and went on his way"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Nazareth",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus walked right through the crowd and went on his way."
+}

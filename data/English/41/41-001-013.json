@@ -1,0 +1,39 @@
+{
+  "id": "41-001-013",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 1,
+  "verse_reference": "Mark 1:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: \"The time has come. The kingdom of God has come near. Repent and ____ the good news!\"",
+  "options": [
+    "hear",
+    "believe",
+    "share",
+    "obey"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Kingdom of God",
+    "Repentance",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus called people to repent and believe the good news because the kingdom of God had come near."
+}

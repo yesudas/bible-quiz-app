@@ -1,0 +1,38 @@
+{
+  "id": "41-006-024",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 6,
+  "verse_reference": "Mark 6:48-49",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "When the disciples saw Jesus walking on the lake, what did they think he was?",
+  "options": [
+    "An angel",
+    "Elijah",
+    "A ghost",
+    "A big fish"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they saw him walking on the lake, they thought he was a ghost and cried out."
+}

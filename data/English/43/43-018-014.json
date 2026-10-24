@@ -1,0 +1,41 @@
+{
+  "id": "43-018-014",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 18,
+  "verse_reference": "John 18:38",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What famous question did Pilate ask Jesus?",
+  "options": [
+    "Who sent you?",
+    "What is truth?",
+    "Why are you silent?",
+    "Where is your kingdom?"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Pilate",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Palace of the Roman governor",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 18:38, Pilate asked, \"What is truth?\" Then he went out and said he found no basis for a charge against him."
+}

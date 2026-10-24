@@ -1,0 +1,37 @@
+{
+  "id": "26-043-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 43,
+  "verse_reference": "Ezekiel 43:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Ezekiel do when he saw this vision, like the one by the Kebar River?",
+  "options": [
+    "He sang a song",
+    "He ran to tell the priests",
+    "He wrote it on a scroll",
+    "He fell facedown"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Kebar River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The vision was like the visions he had seen by the Kebar River, and Ezekiel fell facedown."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "40-016-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 16,
+  "verse_reference": "Matthew 16:22",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "When Jesus spoke of his death, Peter took him aside and rebuked him. Complete Peter's words: \"______, Lord! This shall never happen to you!\"",
+  "options": [
+    "Please",
+    "Never",
+    "Wait",
+    "Surely"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 16:22 says Peter began to rebuke him: \"Never, Lord! This shall never happen to you!\""
+}

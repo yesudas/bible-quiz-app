@@ -1,0 +1,15 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Thyatira",
+    "label": "Thyatira",
+    "count": 5,
+    "paths": [
+        "English/44/44-016-007.json",
+        "English/66/66-002-014.json",
+        "English/66/66-002-015.json",
+        "English/66/66-002-016.json",
+        "English/66/66-002-017.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

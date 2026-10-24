@@ -1,0 +1,33 @@
+{
+  "id": "43-010-003",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 10,
+  "verse_reference": "John 10:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: \"Very truly I tell you, I am the ___ for the sheep.\"",
+  "options": [
+    "gate",
+    "shepherd",
+    "pen",
+    "light"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 10:7, Jesus said, \"Very truly I tell you, I am the gate for the sheep.\""
+}

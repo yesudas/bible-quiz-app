@@ -1,0 +1,41 @@
+{
+  "id": "42-009-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 9,
+  "verse_reference": "Luke 9:28",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which three disciples went up the mountain with Jesus to pray?",
+  "options": [
+    "Andrew, Philip and Thomas",
+    "Peter, John and James",
+    "Peter, Andrew and Levi",
+    "James, John and Matthew"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon Peter",
+    "John",
+    "James"
+  ],
+  "places": [
+    {
+      "name": "Mountain",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus took Peter, John and James with him and went up onto a mountain to pray."
+}

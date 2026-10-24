@@ -1,0 +1,35 @@
+{
+  "id": "58-003-009",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 3,
+  "verse_reference": "Hebrews 3:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Because of their rebellion, God declared on oath that those people would never enter what?",
+  "options": [
+    "His rest",
+    "His temple",
+    "His city",
+    "His garden"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 3:11 says God declared on oath in his anger, \"They shall never enter my rest.\""
+}

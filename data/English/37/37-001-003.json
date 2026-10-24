@@ -1,0 +1,33 @@
+{
+  "id": "37-001-003",
+  "language": "en",
+  "book_no": 37,
+  "book": "Haggai",
+  "chapter": 1,
+  "verse_reference": "Haggai 1:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was the high priest that received Haggai's message?",
+  "options": [
+    "Eliashib",
+    "Joshua son of Jozadak",
+    "Zadok",
+    "Ezra"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [
+    "Joshua",
+    "Haggai"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The message also came to Joshua son of Jozadak, the high priest."
+}

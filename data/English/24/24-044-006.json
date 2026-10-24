@@ -1,0 +1,35 @@
+{
+  "id": "24-044-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 44,
+  "verse_reference": "Jeremiah 44:17-18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the people say they wanted to go back to worshiping the Queen of Heaven?",
+  "options": [
+    "Their king commanded it",
+    "The Egyptians forced them",
+    "They said that when they did, they had plenty of food and were well off",
+    "Their priests told them to"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They said that when they burned incense to her, they had plenty of food and were well off; since they stopped, they had perished by sword and famine."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "24-038-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 38,
+  "verse_reference": "Jeremiah 38:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Jeremiah say would happen if Zedekiah surrendered to the officers of the king of Babylon?",
+  "options": [
+    "He would be killed immediately",
+    "His life would be spared and the city would not be burned",
+    "He would become a slave",
+    "His family would be scattered"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jeremiah",
+    "Zedekiah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah said, \"If you surrender… your life will be spared and this city will not be burned down; you and your family will live.\""
+}

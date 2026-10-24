@@ -1,0 +1,39 @@
+{
+  "id": "38-001-009",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 1,
+  "verse_reference": "Zechariah 1:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"I am very _____ for Jerusalem and Zion.\"",
+  "options": [
+    "angry",
+    "jealous",
+    "sorry",
+    "tired"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord said He was very jealous for Jerusalem and Zion."
+}

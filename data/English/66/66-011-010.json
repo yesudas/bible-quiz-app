@@ -1,0 +1,35 @@
+{
+  "id": "66-011-010",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 11,
+  "verse_reference": "Revelation 11:12",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the two witnesses go when the loud voice said, \"Come up here\"?",
+  "options": [
+    "Into the temple",
+    "To Mount Zion",
+    "Up to heaven in a cloud",
+    "Into the wilderness"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They heard a loud voice from heaven saying, \"Come up here,\" and they went up to heaven in a cloud while their enemies looked on."
+}

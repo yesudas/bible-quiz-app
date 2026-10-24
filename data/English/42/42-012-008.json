@@ -1,0 +1,33 @@
+{
+  "id": "42-012-008",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 12,
+  "verse_reference": "Luke 12:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' warning: 'Be on your guard against all kinds of greed; life does not consist in an abundance of ____.'",
+  "options": [
+    "food",
+    "possessions",
+    "friends",
+    "years"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Temptation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Watch out! Be on your guard against all kinds of greed; life does not consist in an abundance of possessions.'"
+}

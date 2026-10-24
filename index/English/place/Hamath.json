@@ -3,10 +3,12 @@
     "language": "English",
     "place": "Hamath",
     "label": "Hamath",
-    "count": 2,
+    "count": 4,
     "paths": [
         "English/10/10-008-008.json",
-        "English/13/13-018-007.json"
+        "English/13/13-018-007.json",
+        "English/24/24-039-006.json",
+        "English/30/30-006-002.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

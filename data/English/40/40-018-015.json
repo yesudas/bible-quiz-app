@@ -1,0 +1,33 @@
+{
+  "id": "40-018-015",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 18,
+  "verse_reference": "Matthew 18:21",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which disciple asked Jesus how many times he should forgive a brother or sister who sins against him?",
+  "options": [
+    "John",
+    "Peter",
+    "Thomas",
+    "Andrew"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Forgiveness"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 18:21 says Peter came to Jesus and asked, \"Lord, how many times shall I forgive my brother or sister who sins against me? Up to seven times?\""
+}

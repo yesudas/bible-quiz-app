@@ -1,0 +1,32 @@
+{
+  "id": "42-004-025",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 4,
+  "verse_reference": "Luke 4:41",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jesus not allow the demons to speak?",
+  "options": [
+    "They knew he was the Messiah",
+    "They spoke false things",
+    "The Sabbath had begun",
+    "The crowd was afraid of them"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Satan",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus rebuked the demons and would not allow them to speak, because they knew he was the Messiah."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "65-001-004",
+  "language": "en",
+  "book_no": 65,
+  "book": "Jude",
+  "chapter": 1,
+  "verse_reference": "Jude 1:5",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Out of which land did the Lord deliver His people, as Jude reminds his readers?",
+  "options": [
+    "Babylon",
+    "Egypt",
+    "Assyria",
+    "Persia"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jude reminded them that the Lord delivered His people out of Egypt but later destroyed those who did not believe."
+}

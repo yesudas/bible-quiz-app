@@ -1,0 +1,35 @@
+{
+  "id": "27-001-017",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 1,
+  "verse_reference": "Daniel 1:20",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "The king found the four young men how many times better than all his magicians and enchanters?",
+  "options": [
+    "Two times",
+    "Seven times",
+    "Ten times",
+    "Twelve times"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Daniel",
+    "Hananiah",
+    "Mishael",
+    "Azariah",
+    "Nebuchadnezzar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In every matter of wisdom and understanding, the king found them ten times better than all the magicians and enchanters in his kingdom."
+}

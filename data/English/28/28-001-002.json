@@ -1,0 +1,38 @@
+{
+  "id": "28-001-002",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 1,
+  "verse_reference": "Hosea 1:1",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which king of Israel was ruling when the word of the LORD came to Hosea?",
+  "options": [
+    "Ahab son of Omri",
+    "Jehu son of Jehoshaphat",
+    "Jeroboam son of Jehoash",
+    "Pekah son of Remaliah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Hosea",
+    "Jeroboam II"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea prophesied during the reign of Jeroboam son of Jehoash king of Israel, while Uzziah, Jotham, Ahaz and Hezekiah were kings of Judah."
+}

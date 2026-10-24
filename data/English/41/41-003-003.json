@@ -1,0 +1,38 @@
+{
+  "id": "41-003-003",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 3,
+  "verse_reference": "Mark 3:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' question: \"Which is lawful on the Sabbath: to do good or to do evil, to save life or to ____?\"",
+  "options": [
+    "rest",
+    "work",
+    "fast",
+    "kill"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Synagogue",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked whether it was lawful on the Sabbath to save life or to kill, but the people stayed silent."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "66-017-005",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 17,
+  "verse_reference": "Revelation 17:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was the first part of the name written on the woman's forehead, before \"Babylon the Great\"?",
+  "options": [
+    "Woe",
+    "Mystery",
+    "Fallen",
+    "Wicked"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The name written on her forehead was a mystery: \"Babylon the Great, the mother of prostitutes and of the abominations of the earth.\""
+}

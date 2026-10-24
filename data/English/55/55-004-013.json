@@ -1,0 +1,35 @@
+{
+  "id": "55-004-013",
+  "language": "en",
+  "book_no": 55,
+  "book": "2 Timothy",
+  "chapter": 4,
+  "verse_reference": "2 Timothy 4:19",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which couple did Paul ask Timothy to greet?",
+  "options": [
+    "Ananias and Sapphira",
+    "Priscilla and Aquila",
+    "Zechariah and Elizabeth",
+    "Joseph and Mary"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Love"
+  ],
+  "characters": [
+    "Priscilla",
+    "Aquila",
+    "Timothy"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul asked Timothy to greet Priscilla and Aquila and the household of Onesiphorus."
+}

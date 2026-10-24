@@ -1,0 +1,30 @@
+{
+  "id": "24-009-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 9,
+  "verse_reference": "Jeremiah 9:17",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did God tell the people to call to come and mourn?",
+  "options": [
+    "The priests",
+    "The prophets",
+    "The wailing women",
+    "The elders"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told them to call for the wailing women, the most skillful of them, to wail over them."
+}

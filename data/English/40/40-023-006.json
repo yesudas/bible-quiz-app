@@ -1,0 +1,31 @@
+{
+  "id": "40-023-006",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 23,
+  "verse_reference": "Matthew 23:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Jesus tell his followers not to be called 'Rabbi'?",
+  "options": [
+    "Rabbis must be older",
+    "It is a Roman title",
+    "Only priests may use it",
+    "They have one Teacher, and they are all brothers"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 23:8 says, \"But you are not to be called 'Rabbi,' for you have one Teacher, and you are all brothers.\""
+}

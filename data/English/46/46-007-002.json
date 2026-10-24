@@ -1,0 +1,32 @@
+{
+  "id": "46-007-002",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 7,
+  "verse_reference": "1 Corinthians 7:10",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Paul said the command that a wife must not separate from her husband came from whom?",
+  "options": [
+    "The Lord",
+    "Paul himself",
+    "Peter",
+    "The church in Jerusalem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Marriage",
+    "Law"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote, \"To the married I give this command (not I, but the Lord).\""
+}

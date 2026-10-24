@@ -1,0 +1,43 @@
+{
+  "id": "24-031-016",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 31,
+  "verse_reference": "Jeremiah 31:38",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "God said the city would be rebuilt for Him from the Tower of Hananel to which gate?",
+  "options": [
+    "The Fish Gate",
+    "The Sheep Gate",
+    "The Water Gate",
+    "The Corner Gate"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tower of Hananel",
+      "type": "tower"
+    },
+    {
+      "name": "Corner Gate",
+      "type": "gate"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said the city would be rebuilt for Him from the Tower of Hananel to the Corner Gate."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "42-006-023",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:44",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Jesus say each tree is recognized?",
+  "options": [
+    "By its height",
+    "By its leaves",
+    "By its own fruit",
+    "By its roots"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said each tree is recognized by its own fruit; people do not pick figs from thornbushes."
+}

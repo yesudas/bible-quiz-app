@@ -1,0 +1,38 @@
+{
+  "id": "41-009-014",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 9,
+  "verse_reference": "Mark 9:33-34",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What had the disciples argued about on the road to Capernaum?",
+  "options": [
+    "Where to eat",
+    "Who was the greatest",
+    "Who would carry the bag",
+    "Which way to go"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They kept quiet because on the way they had argued about who was the greatest."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "62-001-008",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 1,
+  "verse_reference": "1 John 1:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does John say about someone who claims fellowship with God but walks in darkness?",
+  "options": [
+    "They are very wise",
+    "They are a prophet",
+    "They lie and do not live out the truth",
+    "They will become a leader"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Truth",
+    "Fellowship"
+  ],
+  "characters": [
+    "God",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says if we claim fellowship with God yet walk in darkness, we lie and do not live out the truth."
+}

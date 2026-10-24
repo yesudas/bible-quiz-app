@@ -1,0 +1,41 @@
+{
+  "id": "40-028-012",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 28,
+  "verse_reference": "Matthew 28:16",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the eleven disciples go to meet Jesus?",
+  "options": [
+    "To the temple in Jerusalem",
+    "To the tomb",
+    "To the mountain in Galilee where Jesus told them to go",
+    "To Bethany"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Galilee",
+      "type": "region"
+    },
+    {
+      "name": "Mountain in Galilee",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 28:16 says the eleven disciples went to Galilee, to the mountain where Jesus had told them to go."
+}

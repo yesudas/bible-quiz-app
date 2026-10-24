@@ -1,0 +1,30 @@
+{
+  "id": "48-004-001",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 4,
+  "verse_reference": "Galatians 4:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Paul said that while an heir is still a child, he is no different from what?",
+  "options": [
+    "A king",
+    "A slave",
+    "A priest",
+    "A stranger"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said an heir who is underage is no different from a slave, though he owns everything, until the time set by his father."
+}

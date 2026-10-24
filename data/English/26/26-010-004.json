@@ -1,0 +1,35 @@
+{
+  "id": "26-010-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 10,
+  "verse_reference": "Ezekiel 10:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"The sound of the wings of the cherubim could be heard as far away as the outer court, like the voice of God ______.\"",
+  "options": [
+    "Most High",
+    "the Creator",
+    "Eternal",
+    "Almighty"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Angels"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The sound of the cherubim's wings was like the voice of God Almighty when He speaks."
+}

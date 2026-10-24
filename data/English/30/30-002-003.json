@@ -1,0 +1,37 @@
+{
+  "id": "30-002-003",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 2,
+  "verse_reference": "Amos 2:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why would God punish Judah?",
+  "options": [
+    "They sold captives to Edom",
+    "They rejected the law of the LORD",
+    "They burned the bones of a king",
+    "They attacked Gilead"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Judah rejected the law of the LORD and did not keep His decrees."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42-001-002",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:3-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Luke write an orderly account?",
+  "options": [
+    "To list the kings of Israel",
+    "So Theophilus would know the certainty of what he was taught",
+    "To record the laws of Moses",
+    "To answer critics in Rome"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Truth"
+  ],
+  "characters": [
+    "Luke",
+    "Theophilus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Luke said he wrote so that Theophilus might know the certainty of the things he had been taught."
+}

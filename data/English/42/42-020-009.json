@@ -1,0 +1,32 @@
+{
+  "id": "42-020-009",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 20,
+  "verse_reference": "Luke 20:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the teachers of the law and chief priests want to arrest Jesus after this parable?",
+  "options": [
+    "He had broken the Sabbath",
+    "They knew he had spoken this parable against them",
+    "He refused to pay taxes",
+    "He had entered the temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They looked for a way to arrest him immediately, because they knew he had spoken this parable against them, but they were afraid of the people."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42-001-001",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:3-4",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "To whom did Luke write his orderly account?",
+  "options": [
+    "Timothy",
+    "Titus",
+    "Theophilus",
+    "Philemon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Gospel"
+  ],
+  "characters": [
+    "Luke",
+    "Theophilus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Luke wrote his careful account to 'most excellent Theophilus' so he could know the certainty of what he had been taught."
+}

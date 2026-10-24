@@ -1,0 +1,40 @@
+{
+  "id": "43-008-008",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 8,
+  "verse_reference": "John 8:20",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where in the temple courts was Jesus speaking when he talked about being the light of the world and his testimony?",
+  "options": [
+    "At Solomon's Colonnade",
+    "At the Beautiful Gate",
+    "In the Most Holy Place",
+    "Near the place where the offerings were put"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 8:20 says he spoke these words while teaching in the temple courts near the place where the offerings were put."
+}

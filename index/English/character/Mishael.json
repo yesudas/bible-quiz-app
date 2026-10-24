@@ -1,0 +1,16 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Mishael",
+    "label": "Mishael",
+    "count": 6,
+    "paths": [
+        "English/27/27-001-007.json",
+        "English/27/27-001-014.json",
+        "English/27/27-001-015.json",
+        "English/27/27-001-017.json",
+        "English/27/27-002-007.json",
+        "English/27/27-002-022.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

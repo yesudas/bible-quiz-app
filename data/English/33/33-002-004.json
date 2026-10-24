@@ -1,0 +1,31 @@
+{
+  "id": "33-002-004",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 2,
+  "verse_reference": "Micah 2:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the people say to the true prophets in Micah 2:6?",
+  "options": [
+    "\"Pray for us.\"",
+    "\"Do not prophesy.\"",
+    "\"Speak louder.\"",
+    "\"Come to Jerusalem.\""
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people told the prophets, 'Do not prophesy about these things; disgrace will not overtake us.'"
+}

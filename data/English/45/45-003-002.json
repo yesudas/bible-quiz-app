@@ -1,0 +1,31 @@
+{
+  "id": "45-003-002",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 3,
+  "verse_reference": "Romans 3:3-4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"Let God be ______, and every human being a liar.\"",
+  "options": [
+    "praised",
+    "feared",
+    "honored",
+    "true"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says that even if people are unfaithful, God remains true to His word."
+}

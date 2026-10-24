@@ -1,0 +1,30 @@
+{
+  "id": "58-010-007",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 10,
+  "verse_reference": "Hebrews 10:15",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 10:15, who also testifies to us about the new covenant?",
+  "options": [
+    "Moses",
+    "The angels",
+    "The Holy Spirit",
+    "The prophet Elijah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 10:15 says the Holy Spirit also testifies to us about this, quoting the promise of the new covenant."
+}

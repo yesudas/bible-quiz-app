@@ -1,0 +1,34 @@
+{
+  "id": "66-004-005",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 4,
+  "verse_reference": "Revelation 4:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What came from the throne in Revelation 4:5?",
+  "options": [
+    "Flashes of lightning, rumblings and peals of thunder",
+    "Rivers of living water",
+    "Songs of the angels",
+    "Clouds of incense"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "From the throne came flashes of lightning, rumblings and peals of thunder."
+}

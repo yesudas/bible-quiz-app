@@ -1,0 +1,33 @@
+{
+  "id": "42-003-019",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 3,
+  "verse_reference": "Luke 3:22",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In what form did the Holy Spirit descend on Jesus?",
+  "options": [
+    "Like tongues of fire",
+    "Like a strong wind",
+    "Like a bright cloud",
+    "In bodily form like a dove"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Holy Spirit",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Holy Spirit descended on Jesus in bodily form like a dove."
+}

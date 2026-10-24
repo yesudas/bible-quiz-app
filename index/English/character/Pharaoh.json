@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Pharaoh",
     "label": "Pharaoh",
-    "count": 7,
+    "count": 18,
     "paths": [
         "English/11/11-003-001.json",
         "English/11/11-009-009.json",
@@ -11,7 +11,18 @@
         "English/19/19-136-006.json",
         "English/22/22-001-006.json",
         "English/23/23-019-005.json",
-        "English/23/23-030-001.json"
+        "English/23/23-030-001.json",
+        "English/26/26-029-001.json",
+        "English/26/26-029-002.json",
+        "English/26/26-029-003.json",
+        "English/26/26-030-008.json",
+        "English/26/26-030-009.json",
+        "English/26/26-031-001.json",
+        "English/26/26-031-008.json",
+        "English/26/26-032-001.json",
+        "English/26/26-032-002.json",
+        "English/26/26-032-003.json",
+        "English/45/45-009-009.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

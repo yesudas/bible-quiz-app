@@ -1,0 +1,38 @@
+{
+  "id": "30-007-013",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 7,
+  "verse_reference": "Amos 7:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Amos say he became a prophet?",
+  "options": [
+    "His father was a prophet",
+    "He trained under Elisha",
+    "The LORD took him from tending the flock",
+    "Amaziah appointed him"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Calling",
+    "Prophecy"
+  ],
+  "characters": [
+    "Amos"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos said he was not a prophet or a prophet's son, but the LORD took him from the flock and sent him to Israel."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "47-012-008",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 12,
+  "verse_reference": "2 Corinthians 12:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"For when I am weak, then I am ______.\"",
+  "options": [
+    "humble",
+    "blessed",
+    "strong",
+    "free"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Suffering"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul delighted in weaknesses and hardships for Christ's sake, for when he was weak, then he was strong."
+}

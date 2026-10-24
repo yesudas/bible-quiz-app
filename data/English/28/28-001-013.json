@@ -1,0 +1,40 @@
+{
+  "id": "28-001-013",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 1,
+  "verse_reference": "Hosea 1:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God promise would happen to the people of Judah and Israel?",
+  "options": [
+    "They would be scattered forever",
+    "They would come together and appoint one leader",
+    "They would each choose their own king",
+    "They would return to Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Hope",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "kingdom"
+    },
+    {
+      "name": "Israel",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised the people of Judah and Israel would come together, appoint one leader and come up out of the land, for great will be the day of Jezreel."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "43-003-014",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 3,
+  "verse_reference": "John 3:36",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to John 3:36, who has eternal life?",
+  "options": [
+    "Whoever keeps the Sabbath",
+    "Whoever believes in the Son",
+    "Whoever is born in Israel",
+    "Whoever is baptized by John"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 3:36 says whoever believes in the Son has eternal life."
+}

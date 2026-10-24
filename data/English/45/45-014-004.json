@@ -1,0 +1,31 @@
+{
+  "id": "45-014-004",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 14,
+  "verse_reference": "Romans 14:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"So, whether we live or die, we ______ to the Lord.\"",
+  "options": [
+    "speak",
+    "sing",
+    "belong",
+    "return"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says that whether we live or die, we belong to the Lord."
+}

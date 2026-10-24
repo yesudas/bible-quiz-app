@@ -1,0 +1,36 @@
+{
+  "id": "44-023-001",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 23,
+  "verse_reference": "Acts 23:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Paul told the Sanhedrin, \"I have fulfilled my duty to God in all good ______ to this day.\"",
+  "options": [
+    "faith",
+    "courage",
+    "hope",
+    "conscience"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul looked straight at the Sanhedrin and said he had fulfilled his duty to God in all good conscience to this day."
+}

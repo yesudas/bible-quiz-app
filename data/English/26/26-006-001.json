@@ -1,0 +1,38 @@
+{
+  "id": "26-006-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 6,
+  "verse_reference": "Ezekiel 6:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Against what did God tell Ezekiel to set his face and prophesy?",
+  "options": [
+    "The mountains of Israel",
+    "The rivers of Babylon",
+    "The walls of Jerusalem",
+    "The sea of Galilee"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Mountains of Israel",
+      "type": "mountain range"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Ezekiel to set his face against the mountains of Israel and prophesy against them."
+}

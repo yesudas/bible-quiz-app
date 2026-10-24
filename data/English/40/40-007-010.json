@@ -1,0 +1,33 @@
+{
+  "id": "40-007-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 7,
+  "verse_reference": "Matthew 7:16,20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"By their ______ you will recognize them.\"",
+  "options": [
+    "fruit",
+    "words",
+    "faces",
+    "clothes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 7:16 and 20 say, \"By their fruit you will recognize them.\""
+}

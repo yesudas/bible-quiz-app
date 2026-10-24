@@ -1,0 +1,34 @@
+{
+  "id": "40-022-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 22,
+  "verse_reference": "Matthew 22:32",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Jesus' words about God: \"He is not the God of the dead but of the ______.\"",
+  "options": [
+    "faithful",
+    "righteous",
+    "chosen",
+    "living"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [
+    "Jesus",
+    "Abraham",
+    "Isaac",
+    "Jacob"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 22:32 says, \"'I am the God of Abraham, the God of Isaac, and the God of Jacob'? He is not the God of the dead but of the living.\""
+}

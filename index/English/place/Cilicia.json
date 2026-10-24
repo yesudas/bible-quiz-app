@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Cilicia",
+    "label": "Cilicia",
+    "count": 4,
+    "paths": [
+        "English/44/44-015-019.json",
+        "English/44/44-021-019.json",
+        "English/44/44-023-019.json",
+        "English/48/48-001-019.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "66-014-001",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 14,
+  "verse_reference": "Revelation 14:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did John see the Lamb standing with the 144,000?",
+  "options": [
+    "On Mount Sinai",
+    "On Mount Zion",
+    "On the Mount of Olives",
+    "By the sea of glass"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus",
+    "John"
+  ],
+  "places": [
+    {
+      "name": "Mount Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John looked, and there before him was the Lamb, standing on Mount Zion, and with him 144,000."
+}

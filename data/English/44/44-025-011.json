@@ -1,0 +1,38 @@
+{
+  "id": "44-025-011",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 25,
+  "verse_reference": "Acts 25:13",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which king arrived at Caesarea with Bernice to pay respects to Festus?",
+  "options": [
+    "King Herod Antipas",
+    "King Aretas",
+    "King Agrippa",
+    "King Claudius"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Agrippa",
+    "Bernice",
+    "Festus"
+  ],
+  "places": [
+    {
+      "name": "Caesarea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A few days later King Agrippa and Bernice arrived at Caesarea to pay their respects to Festus."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "49-005-009",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 5,
+  "verse_reference": "Ephesians 5:19",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "With what does Paul tell believers to speak to one another?",
+  "options": [
+    "Riddles and proverbs",
+    "Psalms, hymns and songs from the Spirit",
+    "Laws and commands",
+    "Stories of the kings"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Speak to one another with psalms, hymns, and songs from the Spirit, singing and making music to the Lord."
+}

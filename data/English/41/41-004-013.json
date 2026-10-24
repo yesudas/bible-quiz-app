@@ -1,0 +1,32 @@
+{
+  "id": "41-004-013",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 4,
+  "verse_reference": "Mark 4:26-29",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In the parable of the growing seed, what does the man know about how the seed grows?",
+  "options": [
+    "He knows exactly how",
+    "He learned it from a teacher",
+    "He does not know how",
+    "He makes it grow by watering it"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The seed sprouts and grows night and day, though the man does not know how, until the harvest comes."
+}

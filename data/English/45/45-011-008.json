@@ -1,0 +1,29 @@
+{
+  "id": "45-011-008",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 11,
+  "verse_reference": "Romans 11:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What warning does Paul give to the grafted-in branches?",
+  "options": [
+    "Do not eat olives",
+    "Do not pray for Israel",
+    "Do not read the law",
+    "Do not consider yourself superior"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul tells the Gentile believers not to consider themselves superior to the other branches, since the root supports them."
+}

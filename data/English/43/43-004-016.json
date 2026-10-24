@@ -1,0 +1,38 @@
+{
+  "id": "43-004-016",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 4,
+  "verse_reference": "John 4:50",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the royal official do after Jesus said, \"Go, your son will live\"?",
+  "options": [
+    "He asked Jesus to come with him",
+    "He took Jesus at his word and left",
+    "He stayed in Cana for a week",
+    "He asked for a sign"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Cana",
+      "type": "village"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 4:50 says the man took Jesus at his word and departed."
+}

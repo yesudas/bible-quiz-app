@@ -1,0 +1,32 @@
+{
+  "id": "42-012-017",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 12,
+  "verse_reference": "Luke 12:34",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' words: 'For where your treasure is, there your ____ will be also.'",
+  "options": [
+    "mind",
+    "money",
+    "heart",
+    "home"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'For where your treasure is, there your heart will be also.'"
+}

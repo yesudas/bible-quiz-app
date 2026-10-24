@@ -1,0 +1,32 @@
+{
+  "id": "42-012-019",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 12,
+  "verse_reference": "Luke 12:40",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Jesus tell his followers to be ready?",
+  "options": [
+    "The Son of Man will come at an hour when you do not expect him",
+    "A thief will come tonight",
+    "The master is in the next room",
+    "The wedding begins soon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'You also must be ready, because the Son of Man will come at an hour when you do not expect him.'"
+}

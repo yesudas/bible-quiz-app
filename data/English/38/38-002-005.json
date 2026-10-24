@@ -1,0 +1,39 @@
+{
+  "id": "38-002-005",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 2,
+  "verse_reference": "Zechariah 2:6-7",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "God called His people in Zion to escape from which place?",
+  "options": [
+    "Babylon",
+    "Egypt",
+    "Nineveh",
+    "Edom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "mountain"
+    },
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'Come, Zion! Escape, you who live in Daughter Babylon!'"
+}

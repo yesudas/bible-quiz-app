@@ -1,0 +1,37 @@
+{
+  "id": "33-001-001",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 1,
+  "verse_reference": "Micah 1:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Whose prophecy begins in Micah 1, as the word of the LORD came to him?",
+  "options": [
+    "Hosea",
+    "Micah",
+    "Amos",
+    "Jonah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Micah"
+  ],
+  "places": [
+    {
+      "name": "Moresheth",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The book begins by saying the word of the LORD came to Micah of Moresheth."
+}

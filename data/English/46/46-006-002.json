@@ -1,0 +1,30 @@
+{
+  "id": "46-006-002",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 6,
+  "verse_reference": "1 Corinthians 6:2",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Paul, whom will the Lord's people one day judge?",
+  "options": [
+    "Only the apostles",
+    "The world",
+    "Only the Romans",
+    "The prophets"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Kingdom of God"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul asked, \"Do you not know that the Lord's people will judge the world?\""
+}

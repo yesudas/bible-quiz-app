@@ -1,0 +1,30 @@
+{
+  "id": "24-014-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 14,
+  "verse_reference": "Jeremiah 14:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In their prayer, what did the people ask God not to do?",
+  "options": [
+    "Not to send rain",
+    "Not to forsake them",
+    "Not to speak to them",
+    "Not to forgive them"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They prayed, \"You are among us, LORD, and we bear your name; do not forsake us!\""
+}

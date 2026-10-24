@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Cyrus",
     "label": "Cyrus",
-    "count": 17,
+    "count": 20,
     "paths": [
         "English/14/14-036-013.json",
         "English/14/14-036-014.json",
@@ -21,7 +21,10 @@
         "English/23/23-044-006.json",
         "English/23/23-044-007.json",
         "English/23/23-045-001.json",
-        "English/23/23-045-002.json"
+        "English/23/23-045-002.json",
+        "English/27/27-001-018.json",
+        "English/27/27-006-017.json",
+        "English/27/27-010-001.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

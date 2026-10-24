@@ -1,0 +1,36 @@
+{
+  "id": "43-007-017",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 7,
+  "verse_reference": "John 7:52",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "The Pharisees told Nicodemus that a prophet does not come out of which region?",
+  "options": [
+    "Galilee",
+    "Judea",
+    "Samaria",
+    "Egypt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Nicodemus"
+  ],
+  "places": [
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 7:52, they replied, \"Look into it, and you will find that a prophet does not come out of Galilee.\""
+}

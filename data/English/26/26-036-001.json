@@ -1,0 +1,34 @@
+{
+  "id": "26-036-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 36,
+  "verse_reference": "Ezekiel 36:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Israel's enemy say about the ancient heights of Israel?",
+  "options": [
+    "\"They are holy to the LORD.\"",
+    "\"Aha! The ancient heights have become our possession.\"",
+    "\"Let us leave them alone.\"",
+    "\"They are too high to climb.\""
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mountains of Israel",
+      "type": "mountain range"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The enemy said of Israel, 'Aha! The ancient heights have become our possession.'"
+}

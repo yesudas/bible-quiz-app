@@ -1,0 +1,36 @@
+{
+  "id": "28-011-001",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 11,
+  "verse_reference": "Hosea 11:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"When Israel was a child, I loved him, and out of ______ I called my son.\"",
+  "options": [
+    "Babylon",
+    "Egypt",
+    "Assyria",
+    "Canaan"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God loved Israel when he was a child and called His son out of Egypt."
+}

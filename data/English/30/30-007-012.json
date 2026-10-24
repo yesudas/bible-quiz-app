@@ -1,0 +1,31 @@
+{
+  "id": "30-007-012",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 7,
+  "verse_reference": "Amos 7:14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Besides being a shepherd, what else did Amos say he took care of?",
+  "options": [
+    "Vineyards",
+    "Olive groves",
+    "Wheat fields",
+    "Sycamore-fig trees"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Calling"
+  ],
+  "characters": [
+    "Amos"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 7:14 says he was a shepherd and also took care of sycamore-fig trees."
+}

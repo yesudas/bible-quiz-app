@@ -1,0 +1,38 @@
+{
+  "id": "58-009-004",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 9,
+  "verse_reference": "Hebrews 9:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 9:4, whose staff that had budded was kept in the ark of the covenant?",
+  "options": [
+    "Moses' staff",
+    "Joshua's staff",
+    "Levi's staff",
+    "Aaron's staff"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Worship"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "places": [
+    {
+      "name": "Most Holy Place",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 9:4 says the ark contained Aaron's staff that had budded."
+}

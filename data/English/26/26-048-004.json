@@ -1,0 +1,35 @@
+{
+  "id": "26-048-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 48,
+  "verse_reference": "Ezekiel 48:19",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who were to farm the land belonging to the city?",
+  "options": [
+    "Workers from all the tribes of Israel",
+    "Only the Levites",
+    "Foreign slaves",
+    "Only the prince's family"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Family"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The workers from the city who farm it would come from all the tribes of Israel."
+}

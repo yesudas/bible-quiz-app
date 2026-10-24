@@ -1,0 +1,40 @@
+{
+  "id": "66-022-002",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 22,
+  "verse_reference": "Revelation 22:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Which tree stood on each side of the river in the new Jerusalem?",
+  "options": [
+    "The olive tree",
+    "The fig tree",
+    "The tree of life",
+    "The cedar tree"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "River of the water of life",
+      "type": "river"
+    },
+    {
+      "name": "New Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On each side of the river stood the tree of life, bearing twelve crops of fruit."
+}

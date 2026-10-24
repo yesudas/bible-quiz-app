@@ -1,0 +1,31 @@
+{
+  "id": "40-007-003",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 7,
+  "verse_reference": "Matthew 7:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Jesus said not to throw your pearls to which animals?",
+  "options": [
+    "Dogs",
+    "Goats",
+    "Wolves",
+    "Pigs"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 7:6 says do not give dogs what is sacred and do not throw your pearls to pigs."
+}

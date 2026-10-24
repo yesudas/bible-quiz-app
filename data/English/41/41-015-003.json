@@ -1,0 +1,38 @@
+{
+  "id": "41-015-003",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 15,
+  "verse_reference": "Mark 15:3-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was Pilate amazed while the chief priests accused Jesus of many things?",
+  "options": [
+    "Jesus called down angels",
+    "Jesus still made no reply",
+    "The crowd defended Jesus",
+    "Jesus confessed everything"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Pontius Pilate"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pilate asked, \"Aren't you going to answer?\" But Jesus still made no reply, and Pilate was amazed."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "27-006-011",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 6,
+  "verse_reference": "Daniel 6:17",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the king use to seal the stone over the mouth of the den?",
+  "options": [
+    "Wax and rope",
+    "Iron chains",
+    "Clay and water",
+    "His own signet ring and the rings of his nobles"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Darius"
+  ],
+  "places": [
+    {
+      "name": "Lions' den",
+      "type": "den"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A stone was placed over the mouth of the den, and the king sealed it with his own signet ring and the rings of his nobles."
+}

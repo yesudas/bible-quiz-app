@@ -1,0 +1,41 @@
+{
+  "id": "27-003-002",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 3,
+  "verse_reference": "Daniel 3:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Nebuchadnezzar set up the image of gold?",
+  "options": [
+    "In the temple in Jerusalem",
+    "By the river Tigris",
+    "On the plain of Dura",
+    "Inside the king's palace"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Idolatry"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Plain of Dura",
+      "type": "plain"
+    },
+    {
+      "name": "Province of Babylon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The image was set up on the plain of Dura in the province of Babylon."
+}

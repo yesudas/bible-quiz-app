@@ -1,0 +1,33 @@
+{
+  "id": "26-001-006",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 1,
+  "verse_reference": "Ezekiel 1:5-6",
+  "question_type": "DIRECT",
+  "difficulty": "Easy",
+  "question": "How many living creatures did Ezekiel see in the storm?",
+  "options": [
+    "Two",
+    "Seven",
+    "Four",
+    "Twelve"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Angels"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezekiel saw four living creatures, and each had four faces and four wings."
+}

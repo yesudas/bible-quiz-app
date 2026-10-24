@@ -1,0 +1,39 @@
+{
+  "id": "28-011-010",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 11,
+  "verse_reference": "Hosea 11:11",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "God's people would come from Egypt trembling like what birds?",
+  "options": [
+    "Eagles",
+    "Sparrows",
+    "Ravens",
+    "Owls"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They would come from Egypt trembling like sparrows, and from Assyria fluttering like doves, and God would settle them in their homes."
+}

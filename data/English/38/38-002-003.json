@@ -1,0 +1,35 @@
+{
+  "id": "38-002-003",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 2,
+  "verse_reference": "Zechariah 2:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why would Jerusalem be a city without walls?",
+  "options": [
+    "Its enemies would tear them down",
+    "God wanted it to be poor",
+    "There would be so many people and animals in it",
+    "The people refused to build them"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jerusalem would be a city without walls because of the great number of people and animals in it."
+}

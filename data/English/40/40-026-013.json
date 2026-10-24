@@ -1,0 +1,34 @@
+{
+  "id": "40-026-013",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:28",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Jesus said the cup was his blood of the covenant, poured out for many for what?",
+  "options": [
+    "A long life",
+    "The healing of Israel",
+    "The building of the temple",
+    "The forgiveness of sins"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Forgiveness",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:28 says, \"This is my blood of the covenant, which is poured out for many for the forgiveness of sins.\""
+}

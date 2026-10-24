@@ -1,0 +1,36 @@
+{
+  "id": "48-002-001",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 2,
+  "verse_reference": "Galatians 2:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How many years later did Paul go up to Jerusalem again?",
+  "options": [
+    "Three",
+    "Seven",
+    "Fourteen",
+    "Forty"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said that fourteen years later he went up again to Jerusalem."
+}

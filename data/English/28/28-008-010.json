@@ -1,0 +1,39 @@
+{
+  "id": "28-008-010",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 8,
+  "verse_reference": "Hosea 8:14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Israel forgot their Maker and built what?",
+  "options": [
+    "Palaces",
+    "Ships",
+    "Altars to Baal",
+    "Walls of bronze"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "kingdom"
+    },
+    {
+      "name": "Judah",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel forgot their Maker and built palaces, and Judah fortified many towns, but God would send fire on their cities."
+}

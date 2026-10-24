@@ -1,0 +1,32 @@
+{
+  "id": "58-007-002",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 7,
+  "verse_reference": "Hebrews 7:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 7:1, when did Melchizedek meet Abraham and bless him?",
+  "options": [
+    "When Abraham was leaving Ur",
+    "When Abraham was offering Isaac",
+    "When Abraham was returning from the defeat of the kings",
+    "When Abraham was buying a burial cave"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Melchizedek",
+    "Abraham"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 7:1 says Melchizedek met Abraham returning from the defeat of the kings and blessed him."
+}

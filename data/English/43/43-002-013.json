@@ -1,0 +1,41 @@
+{
+  "id": "43-002-013",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 2,
+  "verse_reference": "John 2:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When Jesus cleared the temple, what Scripture did his disciples remember?",
+  "options": [
+    "Zeal for your house will consume me",
+    "My house will be called a house of prayer",
+    "The Lord is in his holy temple",
+    "Unless the Lord builds the house, the builders labor in vain"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 2:17 says his disciples remembered that it is written, \"Zeal for your house will consume me.\""
+}

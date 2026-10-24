@@ -1,0 +1,30 @@
+{
+  "id": "45-006-011",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 6,
+  "verse_reference": "Romans 6:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Having been set free from sin, believers have become slaves to what?",
+  "options": [
+    "Fear",
+    "The law",
+    "Righteousness",
+    "Money"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says believers have been set free from sin and have become slaves to righteousness."
+}

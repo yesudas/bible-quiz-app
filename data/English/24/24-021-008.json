@@ -1,0 +1,39 @@
+{
+  "id": "24-021-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 21,
+  "verse_reference": "Jeremiah 21:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Jeremiah 21:9, who would escape with their lives?",
+  "options": [
+    "Those who stayed and fought in the city",
+    "Those who hid in the temple",
+    "Those who ran to Egypt",
+    "Those who went out and surrendered to the Babylonians"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Whoever stayed in the city would die, but whoever surrendered to the Babylonians besieging them would live."
+}

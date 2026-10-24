@@ -1,0 +1,34 @@
+{
+  "id": "33-007-003",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 7,
+  "verse_reference": "Micah 7:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"But as for me, I watch in hope for the LORD, I wait for God my ______.\"",
+  "options": [
+    "King",
+    "Shepherd",
+    "Savior",
+    "Rock"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Faith",
+    "Salvation"
+  ],
+  "characters": [
+    "Micah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Even in a corrupt land, Micah waited in hope for God his Savior, trusting that God would hear him."
+}

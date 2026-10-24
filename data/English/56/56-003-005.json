@@ -1,0 +1,32 @@
+{
+  "id": "56-003-005",
+  "language": "en",
+  "book_no": 56,
+  "book": "Titus",
+  "chapter": 3,
+  "verse_reference": "Titus 3:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"...so that, having been justified by his grace, we might become heirs having the hope of eternal ____.\"",
+  "options": [
+    "peace",
+    "life",
+    "glory",
+    "rest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Hope",
+    "Grace"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Being justified by God's grace, believers become heirs with the hope of eternal life."
+}

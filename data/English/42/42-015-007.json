@@ -1,0 +1,34 @@
+{
+  "id": "42-015-007",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 15,
+  "verse_reference": "Luke 15:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'There is rejoicing in the presence of the ____ of God over one sinner who repents.'",
+  "options": [
+    "people",
+    "prophets",
+    "saints",
+    "angels"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Repentance",
+    "Joy",
+    "Angels"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'There is rejoicing in the presence of the angels of God over one sinner who repents.'"
+}

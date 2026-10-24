@@ -1,0 +1,31 @@
+{
+  "id": "27-008-004",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 8,
+  "verse_reference": "Daniel 8:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was true about the ram's two horns?",
+  "options": [
+    "One was longer than the other and grew up later",
+    "Both were broken",
+    "They were made of iron",
+    "They were short and equal"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The horns were long, but one was longer than the other, though it grew up later."
+}

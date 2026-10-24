@@ -1,0 +1,30 @@
+{
+  "id": "45-009-010",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 9,
+  "verse_reference": "Romans 9:20-21",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "What picture does Paul use to show that God has the right to shape people as He chooses?",
+  "options": [
+    "A potter and clay",
+    "A shepherd and sheep",
+    "A farmer and seed",
+    "A builder and stones"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul asks if the potter does not have the right to make out of the same lump of clay some pottery for special purposes and some for common use."
+}

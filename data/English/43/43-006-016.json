@@ -1,0 +1,38 @@
+{
+  "id": "43-006-016",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 6,
+  "verse_reference": "John 6:31-32",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "The crowd said their ancestors ate manna in the wilderness. Who did Jesus say gave them true bread from heaven?",
+  "options": [
+    "Moses",
+    "Aaron",
+    "Elijah",
+    "His Father"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus",
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 6:32, Jesus said it is not Moses who has given the bread from heaven, but his Father who gives the true bread from heaven."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42-011-007",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'Ask and it will be given to you; seek and you will find; ____ and the door will be opened to you.'",
+  "options": [
+    "wait",
+    "call",
+    "knock",
+    "pray"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Promise"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.'"
+}

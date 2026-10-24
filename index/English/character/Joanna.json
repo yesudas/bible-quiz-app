@@ -1,0 +1,12 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Joanna",
+    "label": "Joanna",
+    "count": 2,
+    "paths": [
+        "English/42/42-008-002.json",
+        "English/42/42-024-005.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

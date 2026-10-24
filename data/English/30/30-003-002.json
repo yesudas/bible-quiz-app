@@ -1,0 +1,30 @@
+{
+  "id": "30-003-002",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 3,
+  "verse_reference": "Amos 3:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"Do two walk together unless they have ____ to do so?\"",
+  "options": [
+    "agreed",
+    "prayed",
+    "decided",
+    "promised"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 3:3 asks, 'Do two walk together unless they have agreed to do so?'"
+}

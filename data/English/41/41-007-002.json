@@ -1,0 +1,31 @@
+{
+  "id": "41-007-002",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 7,
+  "verse_reference": "Mark 7:3-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the Pharisees and all the Jews wash their hands in a special way before eating?",
+  "options": [
+    "Because Moses commanded it on Mount Sinai",
+    "To keep away sickness",
+    "Because the Romans required it",
+    "To hold to the tradition of the elders"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They did not eat unless they gave their hands a ceremonial washing, holding to the tradition of the elders."
+}

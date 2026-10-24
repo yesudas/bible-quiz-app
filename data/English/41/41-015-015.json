@@ -1,0 +1,38 @@
+{
+  "id": "41-015-015",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 15,
+  "verse_reference": "Mark 15:24",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the soldiers divide Jesus' clothes?",
+  "options": [
+    "By cutting them up equally",
+    "By casting lots",
+    "By giving them to the poor",
+    "By selling them"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Golgotha",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They crucified him. Dividing up his clothes, they cast lots to see what each would get."
+}

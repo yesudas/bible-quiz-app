@@ -1,0 +1,34 @@
+{
+  "id": "40-011-015",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 11,
+  "verse_reference": "Matthew 11:25",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Jesus praised the Father for revealing these things to whom?",
+  "options": [
+    "Little children",
+    "The wise and learned",
+    "The kings of the earth",
+    "The priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Worship",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 11:25 says the Father hid these things from the wise and learned and revealed them to little children."
+}

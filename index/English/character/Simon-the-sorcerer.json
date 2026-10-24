@@ -1,0 +1,15 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Simon-the-sorcerer",
+    "label": "Simon the sorcerer",
+    "count": 5,
+    "paths": [
+        "English/44/44-008-006.json",
+        "English/44/44-008-007.json",
+        "English/44/44-008-010.json",
+        "English/44/44-008-011.json",
+        "English/44/44-008-012.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "51-004-009",
+  "language": "en",
+  "book_no": 51,
+  "book": "Colossians",
+  "chapter": 4,
+  "verse_reference": "Colossians 4:14",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which man in Colossians 4 is called \"the doctor\"?",
+  "options": [
+    "Luke",
+    "Demas",
+    "Mark",
+    "Aristarchus"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Luke"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that our dear friend Luke, the doctor, sent greetings."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "40-001-005",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 1,
+  "verse_reference": "Matthew 1:6",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Matthew says David was the father of Solomon, whose mother 'had been' whose wife?",
+  "options": [
+    "Nabal's wife",
+    "Saul's wife",
+    "Uriah's wife",
+    "Absalom's wife"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Sin"
+  ],
+  "characters": [
+    "David",
+    "Solomon",
+    "Uriah"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors",
+    "teens"
+  ],
+  "explanation": "Matthew 1:6 says Solomon's mother had been Uriah's wife."
+}

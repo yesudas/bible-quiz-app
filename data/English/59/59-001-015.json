@@ -1,0 +1,30 @@
+{
+  "id": "59-001-015",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 1,
+  "verse_reference": "James 1:25",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"But whoever looks intently into the perfect law that gives ______, and continues in it... will be blessed in what they do.\"",
+  "options": [
+    "life",
+    "freedom",
+    "peace",
+    "wisdom"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James calls God's word the perfect law that gives freedom, and those who keep doing it will be blessed."
+}

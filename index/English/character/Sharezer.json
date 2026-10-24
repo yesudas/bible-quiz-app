@@ -3,9 +3,11 @@
     "language": "English",
     "character": "Sharezer",
     "label": "Sharezer",
-    "count": 1,
+    "count": 3,
     "paths": [
-        "English/23/23-037-009.json"
+        "English/23/23-037-009.json",
+        "English/38/38-007-002.json",
+        "English/38/38-007-003.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

@@ -1,0 +1,30 @@
+{
+  "id": "46-002-008",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 2,
+  "verse_reference": "1 Corinthians 2:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Paul, who alone knows the thoughts of God?",
+  "options": [
+    "The Spirit of God",
+    "The wise people of this world",
+    "The church leaders",
+    "The rulers of this age"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holy Spirit",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Just as only a person's own spirit knows their thoughts, no one knows God's thoughts except the Spirit of God."
+}

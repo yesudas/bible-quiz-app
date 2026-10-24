@@ -1,0 +1,34 @@
+{
+  "id": "25-004-004",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 4,
+  "verse_reference": "Lamentations 4:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does Lamentations 4:9 say was better than dying of famine?",
+  "options": [
+    "Going into exile",
+    "Hiding in caves",
+    "Being killed by the sword",
+    "Running to Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Those killed by the sword were better off than those who died of famine, wasting away for lack of food."
+}

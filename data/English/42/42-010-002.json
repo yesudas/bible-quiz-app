@@ -1,0 +1,33 @@
+{
+  "id": "42-010-002",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' words: 'The harvest is plentiful, but the ____ are few.'",
+  "options": [
+    "workers",
+    "fields",
+    "seeds",
+    "days"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Mission",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'The harvest is plentiful, but the workers are few. Ask the Lord of the harvest to send out workers into his harvest field.'"
+}

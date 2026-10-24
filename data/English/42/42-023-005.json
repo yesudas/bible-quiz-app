@@ -1,0 +1,33 @@
+{
+  "id": "42-023-005",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 23,
+  "verse_reference": "Luke 23:8-9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Herod hope Jesus would do, and how did Jesus respond?",
+  "options": [
+    "Pay a fine; Jesus refused",
+    "Perform a sign; Jesus gave him no answer",
+    "Bow to him; Jesus walked away",
+    "Heal his son; Jesus agreed"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Persecution"
+  ],
+  "characters": [
+    "Herod",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Herod hoped to see Jesus perform a sign. He plied him with many questions, but Jesus gave him no answer."
+}

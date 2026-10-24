@@ -1,0 +1,31 @@
+{
+  "id": "28-011-003",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 11,
+  "verse_reference": "Hosea 11:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "God said He taught Ephraim to do what, taking them by the arms?",
+  "options": [
+    "Sing",
+    "Read",
+    "Walk",
+    "Pray"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'It was I who taught Ephraim to walk, taking them by the arms; but they did not realize it was I who healed them.'"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "66-020-012",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 20,
+  "verse_reference": "Revelation 20:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Revelation 20:15, whose fate is the lake of fire?",
+  "options": [
+    "Anyone whose name was not found written in the book of life",
+    "Only the kings of the earth",
+    "Only the angels who fell",
+    "Anyone who lived in Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Lake of fire",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Anyone whose name was not found written in the book of life was thrown into the lake of fire."
+}

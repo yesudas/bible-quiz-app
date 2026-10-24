@@ -1,0 +1,33 @@
+{
+  "id": "40-025-018",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:32",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Jesus said the Son of Man will separate the nations as a shepherd separates what?",
+  "options": [
+    "The lambs from the wolves",
+    "The sheep from the goats",
+    "The wheat from the weeds",
+    "The fish from the net"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:32 says all the nations will be gathered before him, and he will separate the people one from another as a shepherd separates the sheep from the goats."
+}

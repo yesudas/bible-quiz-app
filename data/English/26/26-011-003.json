@@ -1,0 +1,33 @@
+{
+  "id": "26-011-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 11,
+  "verse_reference": "Ezekiel 11:13",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who died while Ezekiel was prophesying?",
+  "options": [
+    "Jaazaniah",
+    "Benaiah",
+    "Pelatiah",
+    "Azzur"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Pelatiah",
+    "Ezekiel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While Ezekiel was prophesying, Pelatiah son of Benaiah died."
+}

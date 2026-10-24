@@ -1,0 +1,35 @@
+{
+  "id": "66-013-011",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 13,
+  "verse_reference": "Revelation 13:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "The second beast had two horns like a lamb. How did it speak?",
+  "options": [
+    "Like a prophet",
+    "Like a lion",
+    "Like an angel",
+    "Like a dragon"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Temptation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Earth",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The second beast had two horns like a lamb, but it spoke like a dragon."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "40-018-014",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 18,
+  "verse_reference": "Matthew 18:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete: \"For where two or three gather in my ______, there am I with them.\"",
+  "options": [
+    "house",
+    "temple",
+    "name",
+    "city"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Church",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 18:20 says, \"For where two or three gather in my name, there am I with them.\""
+}

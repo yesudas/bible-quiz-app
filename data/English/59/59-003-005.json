@@ -1,0 +1,30 @@
+{
+  "id": "59-003-005",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 3,
+  "verse_reference": "James 3:7-8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does James say no human being can tame?",
+  "options": [
+    "The tongue",
+    "The lion",
+    "The sea",
+    "The wind"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "People have tamed all kinds of animals, but no human being can tame the tongue; it is a restless evil, full of deadly poison."
+}

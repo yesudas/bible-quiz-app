@@ -1,0 +1,37 @@
+{
+  "id": "24-038-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 38,
+  "verse_reference": "Jeremiah 38:6",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was at the bottom of the cistern?",
+  "options": [
+    "Only mud",
+    "Deep water",
+    "Snakes",
+    "Sharp stones"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Cistern of Malkijah",
+      "type": "cistern"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They lowered Jeremiah by ropes into the cistern; it had no water in it, only mud, and Jeremiah sank down into the mud."
+}

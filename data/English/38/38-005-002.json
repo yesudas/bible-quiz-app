@@ -1,0 +1,31 @@
+{
+  "id": "38-005-002",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 5,
+  "verse_reference": "Zechariah 5:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the angel say the flying scroll was?",
+  "options": [
+    "The curse going out over the whole land",
+    "A song of praise",
+    "A letter from the king",
+    "A list of the priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Sin",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel said it was the curse going out over the whole land."
+}

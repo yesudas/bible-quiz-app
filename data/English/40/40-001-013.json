@@ -1,0 +1,35 @@
+{
+  "id": "40-001-013",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 1,
+  "verse_reference": "Matthew 1:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why was the baby to be given the name Jesus?",
+  "options": [
+    "Because he would be a great king",
+    "Because he would save his people from their sins",
+    "Because he was born in Bethlehem",
+    "Because he was from David's family"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Jesus",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus",
+    "Joseph"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 1:21 says he was to be named Jesus because he would save his people from their sins."
+}

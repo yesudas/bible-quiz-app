@@ -1,0 +1,36 @@
+{
+  "id": "29-003-013",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 3,
+  "verse_reference": "Joel 3:21",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where does the book of Joel end by saying the LORD dwells?",
+  "options": [
+    "Bethel",
+    "Samaria",
+    "Sinai",
+    "Zion"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joel ends with the promise: 'The LORD dwells in Zion!'"
+}

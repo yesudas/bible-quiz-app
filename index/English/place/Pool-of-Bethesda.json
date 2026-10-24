@@ -1,0 +1,19 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Pool-of-Bethesda",
+    "label": "Pool of Bethesda",
+    "count": 9,
+    "paths": [
+        "English/43/43-005-001.json",
+        "English/43/43-005-002.json",
+        "English/43/43-005-003.json",
+        "English/43/43-005-004.json",
+        "English/43/43-005-005.json",
+        "English/43/43-005-006.json",
+        "English/43/43-005-007.json",
+        "English/43/43-005-008.json",
+        "English/43/43-005-009.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

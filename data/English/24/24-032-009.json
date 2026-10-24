@@ -1,0 +1,34 @@
+{
+  "id": "24-032-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 32,
+  "verse_reference": "Jeremiah 32:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jeremiah's prayer: \"Ah, Sovereign LORD, you have made the heavens and the earth… Nothing is too ____ for you.\"",
+  "options": [
+    "big",
+    "hard",
+    "far",
+    "great"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Creation",
+    "Faith"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah prayed that God made the heavens and earth by His great power, and nothing is too hard for Him."
+}

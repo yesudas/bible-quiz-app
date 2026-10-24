@@ -1,0 +1,32 @@
+{
+  "id": "41-004-005",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 4,
+  "verse_reference": "Mark 4:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How much did the seed on good soil produce?",
+  "options": [
+    "Two or three times",
+    "Seven times",
+    "Exactly one thousand times",
+    "Thirty, sixty, or even a hundred times"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Still other seed fell on good soil and produced a crop, some multiplying thirty, some sixty, some a hundred times."
+}

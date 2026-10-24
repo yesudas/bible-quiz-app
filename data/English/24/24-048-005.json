@@ -1,0 +1,35 @@
+{
+  "id": "24-048-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 48,
+  "verse_reference": "Jeremiah 48:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "God said Moab had been at rest from youth like what?",
+  "options": [
+    "Wine left on its dregs, not poured from one jar to another",
+    "A lion asleep in its den",
+    "A ship in a calm harbor",
+    "A field left unplowed"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moab had been at rest from youth, like wine left on its dregs, not poured from one jar to another; so she tasted as she did, and her aroma was unchanged."
+}

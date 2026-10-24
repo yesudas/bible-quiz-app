@@ -1,0 +1,32 @@
+{
+  "id": "24-021-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 21,
+  "verse_reference": "Jeremiah 21:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "God told the house of David to administer justice when?",
+  "options": [
+    "Every morning",
+    "Once a year",
+    "Only on the Sabbath",
+    "At the new moon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Law"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"Administer justice every morning; rescue from the hand of the oppressor the one who has been robbed.\""
+}

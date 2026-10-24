@@ -1,0 +1,33 @@
+{
+  "id": "54-005-009",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 5,
+  "verse_reference": "1 Timothy 5:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Paul warn Timothy not to be hasty in doing?",
+  "options": [
+    "Laying on of hands",
+    "Eating with believers",
+    "Writing letters",
+    "Leaving Ephesus"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Church"
+  ],
+  "characters": [
+    "Paul",
+    "Timothy"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul told Timothy not to be hasty in the laying on of hands and not to share in the sins of others."
+}

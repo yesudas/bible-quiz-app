@@ -1,0 +1,39 @@
+{
+  "id": "42-022-007",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 22,
+  "verse_reference": "Luke 22:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words over the cup: 'This cup is the new ____ in my blood, which is poured out for you.'",
+  "options": [
+    "covenant",
+    "promise",
+    "law",
+    "kingdom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant",
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Large upstairs room",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After the supper Jesus took the cup, saying, 'This cup is the new covenant in my blood, which is poured out for you.'"
+}

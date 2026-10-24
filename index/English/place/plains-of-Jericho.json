@@ -1,12 +1,12 @@
 {
     "type": "place",
     "language": "English",
-    "place": "plains-of-Jericho",
-    "label": "plains of Jericho",
+    "place": "Plains-of-Jericho",
+    "label": "Plains of Jericho",
     "count": 2,
     "paths": [
-        "English/06/06-004-006.json",
-        "English/06/06-005-006.json"
+        "English/12/12-025-003.json",
+        "English/24/24-039-005.json"
     ],
-    "generated": "2026-10-16T11:07:53-05:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

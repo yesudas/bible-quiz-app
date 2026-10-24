@@ -1,0 +1,32 @@
+{
+  "id": "40-016-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 16,
+  "verse_reference": "Matthew 16:17",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Jesus called Peter \"Simon son of\" whom?",
+  "options": [
+    "Zebedee",
+    "Alphaeus",
+    "Joseph",
+    "Jonah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 16:17 says Jesus replied, \"Blessed are you, Simon son of Jonah.\""
+}

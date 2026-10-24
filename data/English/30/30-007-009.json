@@ -1,0 +1,38 @@
+{
+  "id": "30-007-009",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 7,
+  "verse_reference": "Amos 7:10",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "To which king did Amaziah send a message about Amos?",
+  "options": [
+    "Jeroboam",
+    "Ahab",
+    "Uzziah",
+    "Jehu"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Persecution"
+  ],
+  "characters": [
+    "Amaziah",
+    "Jeroboam son of Jehoash"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amaziah sent a message to Jeroboam king of Israel, accusing Amos of a conspiracy."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "42-004-023",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 4,
+  "verse_reference": "Luke 4:39",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "What did Simon's mother-in-law do right after she was healed?",
+  "options": [
+    "She went to the synagogue",
+    "She told the neighbors",
+    "She went to sleep",
+    "She got up and began to wait on them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Service"
+  ],
+  "characters": [
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Simon's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The fever left her, and she got up at once and began to wait on them."
+}

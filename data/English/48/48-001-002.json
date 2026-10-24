@@ -1,0 +1,34 @@
+{
+  "id": "48-001-002",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 1,
+  "verse_reference": "Galatians 1:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Paul said he was sent as an apostle not by men but by whom?",
+  "options": [
+    "The church in Antioch",
+    "The elders in Jerusalem",
+    "Jesus Christ and God the Father",
+    "Barnabas and Silas"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Jesus"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said he was an apostle sent by Jesus Christ and God the Father, who raised Jesus from the dead."
+}

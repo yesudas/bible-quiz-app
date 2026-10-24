@@ -1,0 +1,38 @@
+{
+  "id": "24-022-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 22,
+  "verse_reference": "Jeremiah 22:18-19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "God said Jehoiakim would have the burial of which animal?",
+  "options": [
+    "A donkey",
+    "A dog",
+    "A goat",
+    "An ox"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoiakim",
+    "Josiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jehoiakim son of Josiah would not be mourned; he would have the burial of a donkey, dragged away and thrown outside the gates of Jerusalem."
+}

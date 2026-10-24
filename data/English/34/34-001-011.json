@@ -1,0 +1,35 @@
+{
+  "id": "34-001-011",
+  "language": "en",
+  "book_no": 34,
+  "book": "Nahum",
+  "chapter": 1,
+  "verse_reference": "Nahum 1:15",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Nahum 1:15, what is seen on the mountains?",
+  "options": [
+    "An army marching",
+    "The feet of one who brings good news",
+    "A burning fire",
+    "A cloud of smoke"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Evangelism"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nahum 1:15 says to look, there on the mountains are the feet of one who brings good news and proclaims peace."
+}

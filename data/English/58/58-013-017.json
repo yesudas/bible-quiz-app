@@ -1,0 +1,34 @@
+{
+  "id": "58-013-017",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 13,
+  "verse_reference": "Hebrews 13:24",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Hebrews 13:24, those from which place sent their greetings?",
+  "options": [
+    "Italy",
+    "Greece",
+    "Egypt",
+    "Syria"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Italy",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 13:24 says, \"Those from Italy send you their greetings.\""
+}

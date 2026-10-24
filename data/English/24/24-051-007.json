@@ -1,0 +1,43 @@
+{
+  "id": "24-051-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 51,
+  "verse_reference": "Jeremiah 51:63",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Seraiah told to do with the scroll after reading it?",
+  "options": [
+    "Burn it in the fire",
+    "Bury it in the sand",
+    "Tie a stone to it and throw it into the Euphrates",
+    "Give it to the king of Babylon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Seraiah",
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Euphrates",
+      "type": "river"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah said, \"When you finish reading this scroll, tie a stone to it and throw it into the Euphrates.\""
+}

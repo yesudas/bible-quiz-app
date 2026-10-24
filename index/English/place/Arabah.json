@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Arabah",
+    "label": "Arabah",
+    "count": 3,
+    "paths": [
+        "English/24/24-039-004.json",
+        "English/26/26-047-004.json",
+        "English/30/30-006-010.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

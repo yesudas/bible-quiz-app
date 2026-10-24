@@ -1,0 +1,31 @@
+{
+  "id": "39-001-011",
+  "language": "en",
+  "book_no": 39,
+  "book": "Malachi",
+  "chapter": 1,
+  "verse_reference": "Malachi 1:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"My name will be great among the ______, from where the sun rises to where it sets.\"",
+  "options": [
+    "priests",
+    "nations",
+    "mountains",
+    "angels"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God declared that His name would be great among the nations everywhere on earth."
+}

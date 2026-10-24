@@ -1,0 +1,41 @@
+{
+  "id": "24-040-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 40,
+  "verse_reference": "Jeremiah 40:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom had the king of Babylon appointed over the towns of Judah?",
+  "options": [
+    "Ishmael son of Nethaniah",
+    "Johanan son of Kareah",
+    "Baruch son of Neriah",
+    "Gedaliah son of Ahikam"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Gedaliah",
+    "Ahikam"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nebuzaradan told Jeremiah to go back to Gedaliah son of Ahikam, whom the king of Babylon had appointed over the towns of Judah."
+}

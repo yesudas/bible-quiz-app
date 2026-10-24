@@ -1,0 +1,33 @@
+{
+  "id": "41-004-009",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 4,
+  "verse_reference": "Mark 4:16-17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What makes people like the rocky soil quickly fall away?",
+  "options": [
+    "Too much rain",
+    "Having too many friends",
+    "Living far from the temple",
+    "Trouble or persecution because of the word"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Persecution",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They receive the word with joy but have no root, so when trouble or persecution comes because of the word, they quickly fall away."
+}

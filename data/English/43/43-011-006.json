@@ -1,0 +1,33 @@
+{
+  "id": "43-011-006",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 11,
+  "verse_reference": "John 11:11-14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Jesus said, \"Our friend Lazarus has fallen asleep.\" What did he mean?",
+  "options": [
+    "Lazarus was resting",
+    "Lazarus was getting better",
+    "Lazarus was dead",
+    "Lazarus was dreaming"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [
+    "Jesus",
+    "Lazarus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 11:13-14 says Jesus had been speaking of his death, so he told them plainly, \"Lazarus is dead.\""
+}

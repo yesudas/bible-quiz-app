@@ -1,0 +1,39 @@
+{
+  "id": "30-002-004",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 2,
+  "verse_reference": "Amos 2:5",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Which city's fortresses would God's fire consume in His judgment on Judah?",
+  "options": [
+    "Samaria",
+    "Bethel",
+    "Jerusalem",
+    "Damascus"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 2:5 says God would send fire on Judah to consume the fortresses of Jerusalem."
+}

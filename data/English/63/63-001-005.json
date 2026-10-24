@@ -1,0 +1,31 @@
+{
+  "id": "63-001-005",
+  "language": "en",
+  "book_no": 63,
+  "book": "2 John",
+  "chapter": 1,
+  "verse_reference": "2 John 1:5-6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to 2 John, how do we show love?",
+  "options": [
+    "By giving away all our money",
+    "By walking in obedience to God's commands",
+    "By praying long prayers in public",
+    "By fasting every week"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Verse 6 says, \"This is love: that we walk in obedience to his commands.\" The command is to love one another."
+}

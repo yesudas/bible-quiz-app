@@ -1,0 +1,36 @@
+{
+  "id": "40-014-023",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 14,
+  "verse_reference": "Matthew 14:34",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "After crossing over the lake, where did Jesus and his disciples land?",
+  "options": [
+    "Capernaum",
+    "Gennesaret",
+    "Bethsaida",
+    "Tiberias"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Gennesaret",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 14:34 says when they had crossed over, they landed at Gennesaret."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42-018-017",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 18,
+  "verse_reference": "Luke 18:27",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'What is impossible with man is ____ with God.'",
+  "options": [
+    "hidden",
+    "possible",
+    "forgiven",
+    "known"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus replied, 'What is impossible with man is possible with God.'"
+}

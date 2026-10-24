@@ -1,0 +1,38 @@
+{
+  "id": "26-037-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 37,
+  "verse_reference": "Ezekiel 37:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was the valley full of when the Spirit of the LORD set Ezekiel there?",
+  "options": [
+    "Water",
+    "Bones",
+    "Sheep",
+    "Flowers"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Hope"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Valley of dry bones",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Spirit of the LORD set Ezekiel in the middle of a valley full of bones, and they were very dry."
+}

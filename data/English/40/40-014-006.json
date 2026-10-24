@@ -1,0 +1,34 @@
+{
+  "id": "40-014-006",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 14,
+  "verse_reference": "Matthew 14:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Prompted by her mother, what did the girl ask Herod to give her?",
+  "options": [
+    "Half of his kingdom",
+    "A golden crown",
+    "The head of John the Baptist on a platter",
+    "John's freedom"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Persecution"
+  ],
+  "characters": [
+    "Herod",
+    "Herodias",
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 14:8 says, prompted by her mother, she said, \"Give me here on a platter the head of John the Baptist.\""
+}

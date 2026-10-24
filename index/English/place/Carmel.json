@@ -3,12 +3,15 @@
     "language": "English",
     "place": "Carmel",
     "label": "Carmel",
-    "count": 4,
+    "count": 7,
     "paths": [
         "English/09/09-015-006.json",
         "English/09/09-025-002.json",
         "English/09/09-025-004.json",
-        "English/09/09-027-003.json"
+        "English/09/09-027-003.json",
+        "English/30/30-001-007.json",
+        "English/30/30-009-002.json",
+        "English/34/34-001-006.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

@@ -1,0 +1,38 @@
+{
+  "id": "40-013-012",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 13,
+  "verse_reference": "Matthew 13:24-25",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "In the parable of the weeds, who sowed weeds among the wheat?",
+  "options": [
+    "The owner's servants",
+    "The harvesters",
+    "An enemy",
+    "A neighbor's child"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Field",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 13:25 says while everyone was sleeping, his enemy came and sowed weeds among the wheat."
+}

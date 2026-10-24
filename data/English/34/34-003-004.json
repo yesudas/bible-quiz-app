@@ -1,0 +1,38 @@
+{
+  "id": "34-003-004",
+  "language": "en",
+  "book_no": 34,
+  "book": "Nahum",
+  "chapter": 3,
+  "verse_reference": "Nahum 3:8",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Thebes was situated on which river?",
+  "options": [
+    "The Jordan",
+    "The Euphrates",
+    "The Tigris",
+    "The Nile"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Thebes",
+      "type": "city"
+    },
+    {
+      "name": "Nile",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nahum 3:8 says Thebes was situated on the Nile, with water around her."
+}

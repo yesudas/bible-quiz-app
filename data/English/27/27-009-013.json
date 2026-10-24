@@ -1,0 +1,37 @@
+{
+  "id": "27-009-013",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 9,
+  "verse_reference": "Daniel 9:24",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "How many 'sevens' did Gabriel say were decreed for Daniel's people and the holy city?",
+  "options": [
+    "Seven 'sevens'",
+    "Sixty-two 'sevens'",
+    "Seventy 'sevens'",
+    "Ten 'sevens'"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel",
+    "Gabriel"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gabriel said seventy 'sevens' are decreed for your people and your holy city to finish transgression, put an end to sin and bring in everlasting righteousness."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "41-005-021",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 5,
+  "verse_reference": "Mark 5:42",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How old was Jairus's daughter?",
+  "options": [
+    "Seven",
+    "Ten",
+    "Fifteen",
+    "Twelve"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Family"
+  ],
+  "characters": [
+    "Jairus"
+  ],
+  "places": [
+    {
+      "name": "Jairus's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Immediately the girl stood up and began to walk around; she was twelve years old."
+}

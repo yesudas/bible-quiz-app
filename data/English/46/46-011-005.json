@@ -1,0 +1,33 @@
+{
+  "id": "46-011-005",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 11,
+  "verse_reference": "1 Corinthians 11:23",
+  "question_type": "WHEN",
+  "difficulty": "Easy",
+  "question": "On which night did the Lord Jesus take bread?",
+  "options": [
+    "The night he was betrayed",
+    "The night he was born",
+    "The night he walked on water",
+    "The night he rose again"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that the Lord Jesus, on the night he was betrayed, took bread."
+}

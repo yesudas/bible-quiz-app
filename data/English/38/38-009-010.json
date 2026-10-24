@@ -1,0 +1,31 @@
+{
+  "id": "38-009-010",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 9,
+  "verse_reference": "Zechariah 9:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Return to your fortress, you prisoners of _____.\"",
+  "options": [
+    "war",
+    "sin",
+    "hope",
+    "Babylon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God called them 'prisoners of hope' and promised to restore twice as much to them."
+}

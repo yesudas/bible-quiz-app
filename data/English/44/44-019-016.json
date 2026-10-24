@@ -1,0 +1,42 @@
+{
+  "id": "44-019-016",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 19,
+  "verse_reference": "Acts 19:26-27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was Demetrius angry with Paul?",
+  "options": [
+    "Paul had stolen from the temple",
+    "Paul refused to buy a shrine",
+    "Paul taught that gods made by hands are no gods, which hurt their trade",
+    "Paul insulted the city clerk"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Worship"
+  ],
+  "characters": [
+    "Demetrius",
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Ephesus",
+      "type": "city"
+    },
+    {
+      "name": "Temple of Artemis",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul taught that gods made by human hands are no gods at all, so their trade and the temple of Artemis would lose their good name."
+}

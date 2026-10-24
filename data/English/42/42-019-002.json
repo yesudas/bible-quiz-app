@@ -1,0 +1,37 @@
+{
+  "id": "42-019-002",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 19,
+  "verse_reference": "Luke 19:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "Why could Zacchaeus not see Jesus because of the crowd?",
+  "options": [
+    "He was blind",
+    "He came too late",
+    "He was short",
+    "He was standing far away"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "Zacchaeus"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zacchaeus wanted to see who Jesus was, but because he was short he could not see over the crowd."
+}

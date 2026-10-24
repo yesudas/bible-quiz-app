@@ -1,0 +1,22 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Centurion",
+    "label": "Centurion",
+    "count": 12,
+    "paths": [
+        "English/40/40-008-004.json",
+        "English/40/40-008-005.json",
+        "English/40/40-008-006.json",
+        "English/40/40-008-007.json",
+        "English/40/40-008-009.json",
+        "English/40/40-027-026.json",
+        "English/42/42-007-001.json",
+        "English/42/42-007-002.json",
+        "English/42/42-007-003.json",
+        "English/42/42-007-004.json",
+        "English/42/42-007-005.json",
+        "English/42/42-023-021.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "41-008-001",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 8,
+  "verse_reference": "Mark 8:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Jesus have compassion on the crowd before feeding the four thousand?",
+  "options": [
+    "They were all sick",
+    "They had lost their way home",
+    "They had been with him three days and had nothing to eat",
+    "Their houses had burned down"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"I have compassion for these people; they have already been with me three days and have nothing to eat.\""
+}

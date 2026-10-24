@@ -1,0 +1,39 @@
+{
+  "id": "40-004-003",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 4,
+  "verse_reference": "Matthew 4:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In the first temptation, what did the devil tell Jesus to turn into bread?",
+  "options": [
+    "Stones",
+    "Sand",
+    "Leaves",
+    "Water"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Temptation",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus",
+    "Satan"
+  ],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 4:3 says the tempter told Jesus, if he was the Son of God, to tell these stones to become bread."
+}

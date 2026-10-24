@@ -1,0 +1,33 @@
+{
+  "id": "41-013-017",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 13,
+  "verse_reference": "Mark 13:31",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' words: \"Heaven and earth will pass away, but my ____ will never pass away.\"",
+  "options": [
+    "kingdom",
+    "love",
+    "people",
+    "words"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"Heaven and earth will pass away, but my words will never pass away.\""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42-010-001",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How many others did the Lord appoint and send out two by two?",
+  "options": [
+    "Twelve",
+    "Forty",
+    "Seventy-two",
+    "One hundred"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mission",
+    "Evangelism"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord appointed seventy-two others and sent them two by two ahead of him to every town and place where he was about to go."
+}

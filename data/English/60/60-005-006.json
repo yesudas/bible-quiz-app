@@ -1,0 +1,31 @@
+{
+  "id": "60-005-006",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 5,
+  "verse_reference": "1 Peter 5:7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What does Peter tell believers to cast on God, because He cares for them?",
+  "options": [
+    "Their money",
+    "All their anxiety",
+    "Their sins against others",
+    "Their enemies"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Cast all your anxiety on Him because He cares for you."
+}

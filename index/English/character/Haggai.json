@@ -3,11 +3,19 @@
     "language": "English",
     "character": "Haggai",
     "label": "Haggai",
-    "count": 3,
+    "count": 11,
     "paths": [
         "English/15/15-005-001.json",
         "English/15/15-005-002.json",
-        "English/15/15-006-006.json"
+        "English/15/15-006-006.json",
+        "English/37/37-001-001.json",
+        "English/37/37-001-002.json",
+        "English/37/37-001-003.json",
+        "English/37/37-001-010.json",
+        "English/37/37-001-011.json",
+        "English/37/37-002-006.json",
+        "English/37/37-002-009.json",
+        "English/37/37-002-011.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

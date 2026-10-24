@@ -1,0 +1,38 @@
+{
+  "id": "24-030-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 30,
+  "verse_reference": "Jeremiah 30:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"So do not be afraid, Jacob my ____; do not be dismayed, Israel.\"",
+  "options": [
+    "son",
+    "servant",
+    "friend",
+    "people"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"So do not be afraid, Jacob my servant; do not be dismayed, Israel.\""
+}

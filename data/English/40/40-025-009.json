@@ -1,0 +1,32 @@
+{
+  "id": "40-025-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "On what basis did the master give each servant a different amount?",
+  "options": [
+    "By drawing lots",
+    "By their age",
+    "According to each one's ability",
+    "By how long they had served"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:15 says he gave to each according to his ability, and then he went on his journey."
+}

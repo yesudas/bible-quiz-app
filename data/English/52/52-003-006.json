@@ -1,0 +1,33 @@
+{
+  "id": "52-003-006",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 3,
+  "verse_reference": "1 Thessalonians 3:10",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When did Paul say he prayed most earnestly to see the Thessalonians again?",
+  "options": [
+    "Only on the Sabbath",
+    "Night and day",
+    "Once each year",
+    "Only at the temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Love"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said they prayed night and day most earnestly that they might see them again and supply what was lacking in their faith."
+}

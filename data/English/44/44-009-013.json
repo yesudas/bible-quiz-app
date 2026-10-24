@@ -1,0 +1,37 @@
+{
+  "id": "44-009-013",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 9,
+  "verse_reference": "Acts 9:23-25",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did Saul escape from Damascus when people plotted to kill him?",
+  "options": [
+    "He hid in a cart of hay",
+    "He swam across a river",
+    "He disguised himself as a soldier",
+    "He was lowered in a basket through an opening in the wall"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Damascus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "His followers took him by night and lowered him in a basket through an opening in the city wall."
+}

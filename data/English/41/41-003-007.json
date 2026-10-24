@@ -1,0 +1,38 @@
+{
+  "id": "41-003-007",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 3,
+  "verse_reference": "Mark 3:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When impure spirits saw Jesus, what did they cry out?",
+  "options": [
+    "You are the Son of God",
+    "You are the son of Joseph",
+    "You are a prophet like Elijah",
+    "You are the king of Galilee"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Whenever the impure spirits saw him, they fell down before him and cried out, \"You are the Son of God.\""
+}

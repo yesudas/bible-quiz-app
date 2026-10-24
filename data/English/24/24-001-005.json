@@ -1,0 +1,33 @@
+{
+  "id": "24-001-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 1,
+  "verse_reference": "Jeremiah 1:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Before I formed you in the ____ I knew you.\"",
+  "options": [
+    "dust",
+    "womb",
+    "world",
+    "garden"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Jeremiah that He knew him before He formed him in the womb and set him apart before he was born."
+}

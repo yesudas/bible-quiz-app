@@ -1,0 +1,32 @@
+{
+  "id": "44-023-016",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 23,
+  "verse_reference": "Acts 23:26",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "What was the name of the commander who wrote the letter to Felix?",
+  "options": [
+    "Julius",
+    "Cornelius",
+    "Claudius Lysias",
+    "Sergius Paulus"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Claudius Lysias",
+    "Felix"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The letter began: 'Claudius Lysias, To His Excellency, Governor Felix: Greetings.'"
+}

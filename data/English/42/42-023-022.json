@@ -1,0 +1,40 @@
+{
+  "id": "42-023-022",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 23,
+  "verse_reference": "Luke 23:50-52",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which member of the Council asked Pilate for Jesus' body?",
+  "options": [
+    "Nicodemus",
+    "Caiaphas",
+    "Joseph from Arimathea",
+    "Gamaliel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Joseph of Arimathea",
+    "Pontius Pilate",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Arimathea",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph, a member of the Council from Arimathea, a good and upright man, went to Pilate and asked for Jesus' body."
+}

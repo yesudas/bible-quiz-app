@@ -1,0 +1,32 @@
+{
+  "id": "40-009-020",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 9,
+  "verse_reference": "Matthew 9:28-29",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Jesus' words as he touched the blind men's eyes: \"According to your ______ let it be done to you.\"",
+  "options": [
+    "wish",
+    "faith",
+    "prayer",
+    "word"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 9:29 says he touched their eyes and said, \"According to your faith let it be done to you.\""
+}

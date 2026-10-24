@@ -1,0 +1,35 @@
+{
+  "id": "66-009-001",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 9,
+  "verse_reference": "Revelation 9:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "At the fifth trumpet, what was the star that fell from the sky given?",
+  "options": [
+    "A golden crown",
+    "The key to the shaft of the Abyss",
+    "A sharp sword",
+    "A scroll"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Abyss",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John saw a star that had fallen from the sky to the earth. The star was given the key to the shaft of the Abyss."
+}

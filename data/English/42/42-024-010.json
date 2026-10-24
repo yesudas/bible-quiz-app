@@ -1,0 +1,32 @@
+{
+  "id": "42-024-010",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 24,
+  "verse_reference": "Luke 24:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the two travelers not recognize Jesus?",
+  "options": [
+    "It was too dark",
+    "He was wearing a disguise",
+    "They were kept from recognizing him",
+    "They had never seen him before"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Resurrection",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus himself came up and walked along with them, but they were kept from recognizing him."
+}

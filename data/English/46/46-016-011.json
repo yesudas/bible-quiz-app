@@ -1,0 +1,38 @@
+{
+  "id": "46-016-011",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 16,
+  "verse_reference": "1 Corinthians 16:15",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Whose household did Paul describe as the first converts in Achaia, devoted to serving the Lord's people?",
+  "options": [
+    "Chloe",
+    "Crispus",
+    "Stephanas",
+    "Gaius"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Church",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul",
+    "Stephanas"
+  ],
+  "places": [
+    {
+      "name": "Achaia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said the household of Stephanas were the first converts in Achaia and had devoted themselves to the service of the Lord's people."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "46-004-011",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 4,
+  "verse_reference": "1 Corinthians 4:17",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Whom did Paul send to Corinth to remind them of his way of life in Christ?",
+  "options": [
+    "Timothy",
+    "Titus",
+    "Silas",
+    "Apollos"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul",
+    "Timothy"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul sent Timothy, his son whom he loved, who was faithful in the Lord."
+}

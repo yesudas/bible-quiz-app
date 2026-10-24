@@ -1,0 +1,33 @@
+{
+  "id": "42-003-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 3,
+  "verse_reference": "Luke 3:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "John said the one coming after him would baptize with what?",
+  "options": [
+    "Water and oil",
+    "Fire and stones",
+    "The Holy Spirit and fire",
+    "Wind and rain"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit"
+  ],
+  "characters": [
+    "John the Baptist",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John said, 'I baptize you with water. But one who is more powerful than I will come... He will baptize you with the Holy Spirit and fire.'"
+}

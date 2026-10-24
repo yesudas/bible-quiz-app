@@ -1,0 +1,32 @@
+{
+  "id": "40-025-020",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:34",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the King say had been prepared for the blessed since the creation of the world?",
+  "options": [
+    "A new temple",
+    "A great city",
+    "A golden throne",
+    "The kingdom"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Kingdom of God",
+    "Promise"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:34 says, \"Come, you who are blessed by my Father; take your inheritance, the kingdom prepared for you since the creation of the world.\""
+}

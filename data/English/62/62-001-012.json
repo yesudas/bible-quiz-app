@@ -1,0 +1,33 @@
+{
+  "id": "62-001-012",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 1,
+  "verse_reference": "1 John 1:9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "When we confess our sins, God forgives us and purifies us from what?",
+  "options": [
+    "All unrighteousness",
+    "All sickness",
+    "All enemies",
+    "All hard work"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Forgiveness",
+    "Salvation"
+  ],
+  "characters": [
+    "God",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God will forgive us our sins and purify us from all unrighteousness."
+}

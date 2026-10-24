@@ -1,0 +1,36 @@
+{
+  "id": "37-002-008",
+  "language": "en",
+  "book_no": 37,
+  "book": "Haggai",
+  "chapter": 2,
+  "verse_reference": "Haggai 2:18-19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"From this day on I will ____ you.\"",
+  "options": [
+    "test",
+    "bless",
+    "forgive",
+    "protect"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "The LORD's house (temple)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "From the day the temple foundation was laid, God promised to bless them."
+}

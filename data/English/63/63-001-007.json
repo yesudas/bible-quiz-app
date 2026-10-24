@@ -1,0 +1,32 @@
+{
+  "id": "63-001-007",
+  "language": "en",
+  "book_no": 63,
+  "book": "2 John",
+  "chapter": 1,
+  "verse_reference": "2 John 1:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What do the many deceivers in 2 John refuse to acknowledge?",
+  "options": [
+    "That God created the world",
+    "That the temple will be destroyed",
+    "That Jesus will return on the clouds",
+    "Jesus Christ as coming in the flesh"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Verse 7 says many deceivers do not acknowledge Jesus Christ as coming in the flesh, and calls such a person the deceiver and the antichrist."
+}

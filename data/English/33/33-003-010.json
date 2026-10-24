@@ -1,0 +1,42 @@
+{
+  "id": "33-003-010",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 3,
+  "verse_reference": "Micah 3:12",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Because of the leaders' sin, what did Micah say would happen to Zion?",
+  "options": [
+    "It would become the richest city",
+    "It would be moved to Egypt",
+    "It would be covered by the sea",
+    "It would be plowed like a field"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Micah"
+  ],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micah said Zion would be plowed like a field and Jerusalem would become a heap of rubble."
+}

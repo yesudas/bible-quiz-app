@@ -1,0 +1,36 @@
+{
+  "id": "26-047-008",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 47,
+  "verse_reference": "Ezekiel 47:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What would the leaves of the fruit trees by the river be used for?",
+  "options": [
+    "For healing",
+    "For building roofs",
+    "For feeding animals",
+    "For making clothes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The fruit trees would bear fruit every month because the water from the sanctuary flowed to them; their fruit will serve for food and their leaves for healing."
+}

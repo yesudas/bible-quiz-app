@@ -1,0 +1,31 @@
+{
+  "id": "45-010-011",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 10,
+  "verse_reference": "Romans 10:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Romans 10:17, faith comes from what?",
+  "options": [
+    "Seeing miracles",
+    "Doing good works",
+    "Keeping the Sabbath",
+    "Hearing the message"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Evangelism"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says faith comes from hearing the message, and the message is heard through the word about Christ."
+}

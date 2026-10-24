@@ -1,0 +1,34 @@
+{
+  "id": "26-047-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 47,
+  "verse_reference": "Ezekiel 47:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What would be left for salt and not become fresh?",
+  "options": [
+    "The deep middle of the sea",
+    "The rivers flowing in",
+    "The whole sea",
+    "The swamps and marshes"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Dead Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The swamps and marshes would not become fresh; they would be left for salt."
+}

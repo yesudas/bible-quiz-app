@@ -1,0 +1,38 @@
+{
+  "id": "42-024-020",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 24,
+  "verse_reference": "Luke 24:42-43",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus eat in front of the disciples?",
+  "options": [
+    "A piece of broiled fish",
+    "Bread and honey",
+    "A bowl of lentils",
+    "Figs and grapes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Resurrection",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They gave him a piece of broiled fish, and he took it and ate it in their presence."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "36-002-007",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 2,
+  "verse_reference": "Zephaniah 2:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Surely Moab will become like ____, the Ammonites like Gomorrah.\"",
+  "options": [
+    "Egypt",
+    "Sodom",
+    "Babylon",
+    "Nineveh"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    },
+    {
+      "name": "Ammon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zephaniah 2:9 says Moab would become like Sodom and the Ammonites like Gomorrah."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "44-024-006",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 24,
+  "verse_reference": "Acts 24:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Paul say he worshiped the God of his ancestors?",
+  "options": [
+    "By rejecting the Law",
+    "By following Greek gods",
+    "In secret only",
+    "As a follower of the Way, believing everything in the Law and the Prophets"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Law",
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Caesarea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul admitted that he worshiped the God of their ancestors as a follower of the Way, believing everything in the Law and the Prophets."
+}

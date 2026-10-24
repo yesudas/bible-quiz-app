@@ -1,0 +1,38 @@
+{
+  "id": "66-005-011",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 5,
+  "verse_reference": "Revelation 5:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to the new song, from where did the Lamb purchase people for God?",
+  "options": [
+    "Only from Israel",
+    "Only from the churches of Asia",
+    "From every tribe and language and people and nation",
+    "Only from the city of Jerusalem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Mission"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lamb purchased people for God from every tribe and language and people and nation."
+}

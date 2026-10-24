@@ -1,0 +1,34 @@
+{
+  "id": "54-002-004",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 2,
+  "verse_reference": "1 Timothy 2:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"For there is one God and one ____ between God and mankind, the man Christ Jesus.\"",
+  "options": [
+    "prophet",
+    "priest",
+    "king",
+    "mediator"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus",
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul taught that Christ Jesus is the one mediator between God and mankind."
+}

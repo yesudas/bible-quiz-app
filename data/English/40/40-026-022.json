@@ -1,0 +1,38 @@
+{
+  "id": "40-026-022",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:48-49",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What sign did Judas use to show the crowd which man was Jesus?",
+  "options": [
+    "A wave of his hand",
+    "Pointing with a torch",
+    "A kiss",
+    "Calling his name loudly"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Jesus",
+    "Judas Iscariot"
+  ],
+  "places": [
+    {
+      "name": "Gethsemane",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:48-49 says the betrayer had arranged a signal: \"The one I kiss is the man; arrest him.\" Going at once to Jesus, Judas said, \"Greetings, Rabbi!\" and kissed him."
+}

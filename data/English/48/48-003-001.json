@@ -1,0 +1,38 @@
+{
+  "id": "48-003-001",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 3,
+  "verse_reference": "Galatians 3:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Paul call the Galatians because they were turning away from the gospel?",
+  "options": [
+    "Faithful friends",
+    "Foolish Galatians",
+    "Brave believers",
+    "Wise children"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Galatia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul called them foolish Galatians and asked who had bewitched them."
+}

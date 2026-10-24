@@ -1,0 +1,36 @@
+{
+  "id": "28-001-012",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 1,
+  "verse_reference": "Hosea 1:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Instead of 'You are not my people', what did God promise the Israelites would one day be called?",
+  "options": [
+    "Servants of the king",
+    "Children of Abraham",
+    "Children of the living God",
+    "Friends of the prophets"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Hope",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised that where they were told 'You are not my people', they would be called 'children of the living God'."
+}

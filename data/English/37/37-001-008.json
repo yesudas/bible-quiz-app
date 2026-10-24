@@ -1,0 +1,36 @@
+{
+  "id": "37-001-008",
+  "language": "en",
+  "book_no": 37,
+  "book": "Haggai",
+  "chapter": 1,
+  "verse_reference": "Haggai 1:8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did God tell the people to bring down from the mountains?",
+  "options": [
+    "Stones",
+    "Gold",
+    "Water",
+    "Timber"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Obedience",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "The LORD's house (temple)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told them to go up into the mountains, bring down timber and build His house."
+}

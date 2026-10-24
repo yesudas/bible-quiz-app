@@ -1,0 +1,33 @@
+{
+  "id": "42-020-019",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 20,
+  "verse_reference": "Luke 20:42-44",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which writer in the Book of Psalms called the Messiah 'Lord'?",
+  "options": [
+    "Solomon",
+    "Moses",
+    "Asaph",
+    "David"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Prophecy"
+  ],
+  "characters": [
+    "David",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said David himself declared in the Book of Psalms, 'The Lord said to my Lord,' so David calls him Lord."
+}

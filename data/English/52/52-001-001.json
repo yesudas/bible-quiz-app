@@ -1,0 +1,40 @@
+{
+  "id": "52-001-001",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 1,
+  "verse_reference": "1 Thessalonians 1:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which two men joined Paul in writing this letter to the church of the Thessalonians?",
+  "options": [
+    "Silas and Timothy",
+    "Barnabas and Mark",
+    "Titus and Luke",
+    "Apollos and Peter"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church",
+    "Leadership"
+  ],
+  "characters": [
+    "Paul",
+    "Silas",
+    "Timothy"
+  ],
+  "places": [
+    {
+      "name": "Thessalonica",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The letter opens with greetings from Paul, Silas and Timothy to the church of the Thessalonians."
+}

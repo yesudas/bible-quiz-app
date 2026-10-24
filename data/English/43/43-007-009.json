@@ -1,0 +1,41 @@
+{
+  "id": "43-007-009",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 7,
+  "verse_reference": "John 7:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: \"Stop judging by mere appearances, but instead judge ___.\"",
+  "options": [
+    "quickly",
+    "with mercy",
+    "yourselves",
+    "correctly"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 7:24, Jesus said, \"Stop judging by mere appearances, but instead judge correctly.\""
+}

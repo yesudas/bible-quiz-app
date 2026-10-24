@@ -1,0 +1,36 @@
+{
+  "id": "66-017-001",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 17,
+  "verse_reference": "Revelation 17:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "One of the seven angels told John he would show him the punishment of the great prostitute. Where did she sit?",
+  "options": [
+    "On a high mountain",
+    "By many waters",
+    "On a golden throne",
+    "At the city gate"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel said, \"Come, I will show you the punishment of the great prostitute, who sits by many waters.\""
+}

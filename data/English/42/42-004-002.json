@@ -1,0 +1,38 @@
+{
+  "id": "42-004-002",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 4,
+  "verse_reference": "Luke 4:2",
+  "question_type": "WHEN",
+  "difficulty": "Easy",
+  "question": "For how many days was Jesus tempted by the devil in the wilderness?",
+  "options": [
+    "Seven",
+    "Twelve",
+    "Forty",
+    "Three"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Temptation"
+  ],
+  "characters": [
+    "Jesus",
+    "Satan"
+  ],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus was tempted by the devil for forty days, and he ate nothing during those days."
+}

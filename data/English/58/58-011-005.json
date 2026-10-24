@@ -1,0 +1,30 @@
+{
+  "id": "58-011-005",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 11,
+  "verse_reference": "Hebrews 11:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Without faith it is impossible to ____ God.\"",
+  "options": [
+    "see",
+    "please",
+    "know",
+    "find"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 11:6 says without faith it is impossible to please God, because anyone who comes to him must believe that he exists and that he rewards those who earnestly seek him."
+}

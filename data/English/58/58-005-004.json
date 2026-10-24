@@ -1,0 +1,31 @@
+{
+  "id": "58-005-004",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 5,
+  "verse_reference": "Hebrews 5:4",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Hebrews 5:4 says a high priest must be called by God, just as which man was?",
+  "options": [
+    "Moses",
+    "Samuel",
+    "Melchizedek",
+    "Aaron"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Aaron"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 5:4 says no one takes this honor on himself, but he receives it when called by God, just as Aaron was."
+}

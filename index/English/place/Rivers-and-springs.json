@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Rivers-and-springs",
+    "label": "Rivers and springs",
+    "count": 3,
+    "paths": [
+        "English/66/66-008-009.json",
+        "English/66/66-008-010.json",
+        "English/66/66-016-003.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

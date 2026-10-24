@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Inn",
+    "label": "Inn",
+    "count": 2,
+    "paths": [
+        "English/42/42-010-018.json",
+        "English/42/42-010-019.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

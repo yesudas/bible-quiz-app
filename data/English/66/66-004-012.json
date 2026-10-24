@@ -1,0 +1,35 @@
+{
+  "id": "66-004-012",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 4,
+  "verse_reference": "Revelation 4:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the twenty-four elders lay before the throne when they worshipped?",
+  "options": [
+    "Their crowns",
+    "Their swords",
+    "Their scrolls",
+    "Their robes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elders fell down before the one on the throne, worshipped him, and laid their crowns before the throne."
+}

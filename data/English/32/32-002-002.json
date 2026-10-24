@@ -1,0 +1,33 @@
+{
+  "id": "32-002-002",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 2,
+  "verse_reference": "Jonah 2:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Jonah say happened when he called to the LORD in his distress?",
+  "options": [
+    "The LORD answered him",
+    "The LORD stayed silent",
+    "The sailors heard him",
+    "An angel appeared"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Salvation"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonah said that in his distress he called to the LORD, and the LORD answered him."
+}

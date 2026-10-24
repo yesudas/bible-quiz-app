@@ -1,0 +1,32 @@
+{
+  "id": "45-006-005",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 6,
+  "verse_reference": "Romans 6:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"...since Christ was raised from the dead, he cannot die again; death no longer has ______ over him.\"",
+  "options": [
+    "mastery",
+    "power to call",
+    "a claim",
+    "a voice"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says Christ, raised from the dead, cannot die again; death no longer has mastery over Him."
+}

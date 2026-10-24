@@ -1,0 +1,18 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Large-upstairs-room",
+    "label": "Large upstairs room",
+    "count": 8,
+    "paths": [
+        "English/42/42-022-005.json",
+        "English/42/42-022-006.json",
+        "English/42/42-022-007.json",
+        "English/42/42-022-008.json",
+        "English/42/42-022-009.json",
+        "English/42/42-022-010.json",
+        "English/42/42-022-011.json",
+        "English/42/42-022-012.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

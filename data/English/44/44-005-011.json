@@ -1,0 +1,36 @@
+{
+  "id": "44-005-011",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 5,
+  "verse_reference": "Acts 5:19",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who opened the jail doors and brought the apostles out?",
+  "options": [
+    "An angel of the Lord",
+    "A friendly guard",
+    "Gamaliel",
+    "Barnabas"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Angels",
+    "Miracles"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Public jail",
+      "type": "prison"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "During the night an angel of the Lord opened the doors of the jail and brought them out."
+}

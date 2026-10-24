@@ -1,0 +1,33 @@
+{
+  "id": "54-001-005",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 1,
+  "verse_reference": "1 Timothy 1:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"The goal of this command is ____, which comes from a pure heart and a good conscience and a sincere faith.\"",
+  "options": [
+    "peace",
+    "wisdom",
+    "obedience",
+    "love"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said the goal of his command is love coming from a pure heart, a good conscience and a sincere faith."
+}

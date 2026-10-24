@@ -1,0 +1,38 @@
+{
+  "id": "42-006-009",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:13",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How many disciples did Jesus choose and name apostles?",
+  "options": [
+    "Twelve",
+    "Seven",
+    "Seventy",
+    "Three"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mountainside",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When morning came, Jesus called his disciples and chose twelve of them, whom he also designated apostles."
+}

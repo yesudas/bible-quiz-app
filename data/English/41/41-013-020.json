@@ -1,0 +1,33 @@
+{
+  "id": "41-013-020",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 13,
+  "verse_reference": "Mark 13:35-37",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' final words in this chapter: \"What I say to you, I say to everyone: '____!'\"",
+  "options": [
+    "Watch",
+    "Pray",
+    "Run",
+    "Listen"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said to keep watch because you do not know when the owner of the house will come, and ended, \"What I say to you, I say to everyone: 'Watch!'\""
+}

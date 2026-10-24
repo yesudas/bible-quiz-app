@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Assyria",
     "label": "Assyria",
-    "count": 42,
+    "count": 67,
     "paths": [
         "English/12/12-015-008.json",
         "English/12/12-015-009.json",
@@ -46,7 +46,32 @@
         "English/23/23-036-001.json",
         "English/23/23-036-002.json",
         "English/23/23-037-006.json",
-        "English/23/23-037-007.json"
+        "English/23/23-037-007.json",
+        "English/24/24-002-007.json",
+        "English/24/24-002-013.json",
+        "English/24/24-050-006.json",
+        "English/26/26-023-004.json",
+        "English/26/26-031-002.json",
+        "English/26/26-031-003.json",
+        "English/26/26-031-005.json",
+        "English/26/26-031-006.json",
+        "English/26/26-031-007.json",
+        "English/26/26-032-008.json",
+        "English/28/28-005-007.json",
+        "English/28/28-007-005.json",
+        "English/28/28-007-006.json",
+        "English/28/28-008-007.json",
+        "English/28/28-009-002.json",
+        "English/28/28-010-004.json",
+        "English/28/28-011-006.json",
+        "English/28/28-011-010.json",
+        "English/28/28-012-001.json",
+        "English/28/28-014-003.json",
+        "English/33/33-005-006.json",
+        "English/33/33-005-007.json",
+        "English/34/34-003-008.json",
+        "English/36/36-002-011.json",
+        "English/38/38-010-009.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

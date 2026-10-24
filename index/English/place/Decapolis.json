@@ -1,0 +1,17 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Decapolis",
+    "label": "Decapolis",
+    "count": 7,
+    "paths": [
+        "English/40/40-004-019.json",
+        "English/41/41-005-010.json",
+        "English/41/41-007-014.json",
+        "English/41/41-007-015.json",
+        "English/41/41-007-016.json",
+        "English/41/41-007-017.json",
+        "English/41/41-007-018.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

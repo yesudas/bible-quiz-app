@@ -1,0 +1,32 @@
+{
+  "id": "54-003-007",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 3,
+  "verse_reference": "1 Timothy 3:8-10",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Paul said these church servants must first be tested before they serve. Who were they?",
+  "options": [
+    "Prophets",
+    "Apostles",
+    "Deacons",
+    "Priests"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said deacons must first be tested, and if there is nothing against them, they may serve."
+}

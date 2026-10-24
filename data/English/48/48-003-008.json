@@ -1,0 +1,33 @@
+{
+  "id": "48-003-008",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 3,
+  "verse_reference": "Galatians 3:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Christ redeem us from the curse of the law?",
+  "options": [
+    "By becoming a curse for us",
+    "By writing a new law",
+    "By building a new temple",
+    "By defeating Rome"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Jesus",
+    "Law"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said Christ redeemed us from the curse of the law by becoming a curse for us, for it is written that everyone hung on a pole is cursed."
+}

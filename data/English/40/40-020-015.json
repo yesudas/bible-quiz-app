@@ -1,0 +1,33 @@
+{
+  "id": "40-020-015",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 20,
+  "verse_reference": "Matthew 20:26",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"Whoever wants to become great among you must be your ______.\"",
+  "options": [
+    "leader",
+    "teacher",
+    "king",
+    "servant"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 20:26 says, \"Instead, whoever wants to become great among you must be your servant.\""
+}

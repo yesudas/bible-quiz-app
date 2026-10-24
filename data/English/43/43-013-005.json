@@ -1,0 +1,37 @@
+{
+  "id": "43-013-005",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 13,
+  "verse_reference": "John 13:8-9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "After Jesus said, \"Unless I wash you, you have no part with me,\" what did Peter ask?",
+  "options": [
+    "Not just my feet but my hands and my head as well",
+    "Wash the others first",
+    "Let me wash your feet instead",
+    "Only my hands"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Simon Peter",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 13:9, Simon Peter replied, \"Then, Lord, not just my feet but my hands and my head as well!\""
+}

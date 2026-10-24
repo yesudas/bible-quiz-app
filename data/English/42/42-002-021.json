@@ -1,0 +1,43 @@
+{
+  "id": "42-002-021",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 2,
+  "verse_reference": "Luke 2:39-40",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did Jesus grow up after the family finished everything required by the Law?",
+  "options": [
+    "Jerusalem",
+    "Bethlehem",
+    "Nazareth",
+    "Capernaum"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jesus",
+    "Mary",
+    "Joseph"
+  ],
+  "places": [
+    {
+      "name": "Nazareth",
+      "type": "town"
+    },
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They returned to Galilee, to their own town of Nazareth, and the child grew and became strong."
+}

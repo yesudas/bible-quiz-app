@@ -1,0 +1,39 @@
+{
+  "id": "58-008-007",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 8,
+  "verse_reference": "Hebrews 8:8",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 8:8, with whom did the Lord say he would make a new covenant?",
+  "options": [
+    "The people of Egypt and Babylon",
+    "Only the priests",
+    "The angels in heaven",
+    "The people of Israel and the people of Judah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 8:8 says the days are coming when the Lord will make a new covenant with the people of Israel and with the people of Judah."
+}

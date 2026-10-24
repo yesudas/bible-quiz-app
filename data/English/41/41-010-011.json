@@ -1,0 +1,32 @@
+{
+  "id": "41-010-011",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 10,
+  "verse_reference": "Mark 10:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Jesus' reply: \"Why do you call me good? No one is good—except God ____.\"",
+  "options": [
+    "alone",
+    "above",
+    "in heaven",
+    "the Father"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Rich young man"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus answered, \"Why do you call me good? No one is good—except God alone.\""
+}

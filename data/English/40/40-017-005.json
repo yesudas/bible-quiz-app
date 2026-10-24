@@ -1,0 +1,40 @@
+{
+  "id": "40-017-005",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 17,
+  "verse_reference": "Matthew 17:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What covered them on the mountain while Peter was still speaking?",
+  "options": [
+    "Thick darkness",
+    "A strong wind",
+    "A bright cloud",
+    "A pillar of fire"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter",
+    "James",
+    "John"
+  ],
+  "places": [
+    {
+      "name": "High mountain",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 17:5 says while he was still speaking, a bright cloud covered them."
+}

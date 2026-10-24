@@ -1,0 +1,33 @@
+{
+  "id": "24-042-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 42,
+  "verse_reference": "Jeremiah 42:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Johanan and all the people ask Jeremiah to do?",
+  "options": [
+    "Lead them to Egypt",
+    "Pray to the LORD for them and ask where they should go",
+    "Write a letter to Babylon",
+    "Make Johanan king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Leadership"
+  ],
+  "characters": [
+    "Johanan",
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They asked Jeremiah, \"Please hear our petition and pray to the LORD your God… that the LORD your God will tell us where we should go and what we should do.\""
+}

@@ -1,0 +1,34 @@
+{
+  "id": "42-017-017",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 17,
+  "verse_reference": "Luke 17:26-27",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Jesus compared the days of the Son of Man to the days of which man, when people ate and drank until the flood came?",
+  "options": [
+    "Moses",
+    "Noah",
+    "Abraham",
+    "Jonah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Noah",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Just as it was in the days of Noah, so also will it be in the days of the Son of Man.'"
+}

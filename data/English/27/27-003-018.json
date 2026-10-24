@@ -1,0 +1,41 @@
+{
+  "id": "27-003-018",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 3,
+  "verse_reference": "Daniel 3:30",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the king do for Shadrach, Meshach and Abednego at the end?",
+  "options": [
+    "Sent them home",
+    "Gave them a feast",
+    "Promoted them in the province of Babylon",
+    "Made them his sons"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Faith"
+  ],
+  "characters": [
+    "Shadrach",
+    "Meshach",
+    "Abednego",
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Province of Babylon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king promoted Shadrach, Meshach and Abednego in the province of Babylon."
+}

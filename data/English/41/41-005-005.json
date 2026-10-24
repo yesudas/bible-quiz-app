@@ -1,0 +1,38 @@
+{
+  "id": "41-005-005",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 5,
+  "verse_reference": "Mark 5:11-13",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Into which animals did Jesus allow the impure spirits to go?",
+  "options": [
+    "Pigs",
+    "Goats",
+    "Sheep",
+    "Camels"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Region of the Gerasenes",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The impure spirits begged to be sent among the pigs. Jesus allowed them, and they went into the pigs."
+}

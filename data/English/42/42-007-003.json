@@ -1,0 +1,39 @@
+{
+  "id": "42-007-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 7,
+  "verse_reference": "Luke 7:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did the centurion send friends to tell Jesus not to come to his house?",
+  "options": [
+    "He did not deserve to have Jesus come under his roof",
+    "He was afraid of the crowd",
+    "His servant had already died",
+    "He was going to visit Jesus himself"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Humility"
+  ],
+  "characters": [
+    "Centurion",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The centurion said, 'Lord, don't trouble yourself, for I do not deserve to have you come under my roof.'"
+}

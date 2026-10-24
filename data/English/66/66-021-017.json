@@ -1,0 +1,38 @@
+{
+  "id": "66-021-017",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 21,
+  "verse_reference": "Revelation 21:27",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Revelation 21:27, who will enter the new Jerusalem?",
+  "options": [
+    "Only the kings of the earth",
+    "Everyone who comes to the gate",
+    "Only those whose names are written in the Lamb's book of life",
+    "Only the angels"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Holiness"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "New Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nothing impure will ever enter it, but only those whose names are written in the Lamb's book of life."
+}

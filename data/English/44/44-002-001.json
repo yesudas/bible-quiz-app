@@ -1,0 +1,36 @@
+{
+  "id": "44-002-001",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 2,
+  "verse_reference": "Acts 2:1",
+  "question_type": "WHEN",
+  "difficulty": "Easy",
+  "question": "On which day were the believers all together when the Holy Spirit came?",
+  "options": [
+    "The Day of Pentecost",
+    "The Day of Atonement",
+    "The Passover",
+    "The Festival of Tabernacles"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holy Spirit",
+    "Church"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the day of Pentecost came, the believers were all together in one place."
+}

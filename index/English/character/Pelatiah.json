@@ -3,9 +3,12 @@
     "language": "English",
     "character": "Pelatiah",
     "label": "Pelatiah",
-    "count": 1,
+    "count": 4,
     "paths": [
-        "English/13/13-004-011.json"
+        "English/13/13-004-011.json",
+        "English/26/26-011-001.json",
+        "English/26/26-011-003.json",
+        "English/26/26-011-004.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

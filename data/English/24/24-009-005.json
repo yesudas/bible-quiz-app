@@ -1,0 +1,38 @@
+{
+  "id": "24-009-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 9,
+  "verse_reference": "Jeremiah 9:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "God said He would make Jerusalem a heap of ruins and a haunt of which animals?",
+  "options": [
+    "Lions",
+    "Wolves",
+    "Owls",
+    "Jackals"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would make Jerusalem a heap of ruins, a haunt of jackals, and lay waste the towns of Judah."
+}

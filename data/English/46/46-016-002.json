@@ -1,0 +1,33 @@
+{
+  "id": "46-016-002",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 16,
+  "verse_reference": "1 Corinthians 16:2",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "On which day did Paul tell each believer to set aside money for the collection?",
+  "options": [
+    "The last day of each month",
+    "The Sabbath",
+    "The first day of every week",
+    "The day of Pentecost"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Worship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said that on the first day of every week, each one should set aside a sum of money in keeping with their income."
+}

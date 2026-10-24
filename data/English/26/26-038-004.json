@@ -1,0 +1,36 @@
+{
+  "id": "26-038-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 38,
+  "verse_reference": "Ezekiel 38:8",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When did God say Gog would invade the land?",
+  "options": [
+    "In the days of Hezekiah",
+    "During the reign of David",
+    "Before the exile",
+    "After many days, in future years"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Gog"
+  ],
+  "places": [
+    {
+      "name": "Mountains of Israel",
+      "type": "mountain range"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'After many days you will be called to arms. In future years you will invade a land that has recovered from war.'"
+}

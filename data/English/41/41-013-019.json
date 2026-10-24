@@ -1,0 +1,32 @@
+{
+  "id": "41-013-019",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 13,
+  "verse_reference": "Mark 13:34",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "In Jesus' story of a man going away, whom did he tell to keep watch?",
+  "options": [
+    "His wife",
+    "The cook",
+    "The one at the door",
+    "His oldest son"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "It is like a man going away who leaves his servants in charge, each with their assigned task, and tells the one at the door to keep watch."
+}

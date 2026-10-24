@@ -1,0 +1,36 @@
+{
+  "id": "43-013-001",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 13,
+  "verse_reference": "John 13:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When did the events of the foot washing in John 13 take place?",
+  "options": [
+    "Just before the Passover Festival",
+    "After the Festival of Tabernacles",
+    "On the Day of Pentecost",
+    "At the Festival of Dedication"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 13:1 says it was just before the Passover Festival, and Jesus knew the hour had come for him to leave this world and go to the Father."
+}

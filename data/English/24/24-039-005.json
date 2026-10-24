@@ -1,0 +1,36 @@
+{
+  "id": "24-039-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 39,
+  "verse_reference": "Jeremiah 39:5",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the Babylonian army overtake Zedekiah?",
+  "options": [
+    "At the Jordan River",
+    "Near Bethlehem",
+    "At the border of Egypt",
+    "In the plains of Jericho"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Zedekiah"
+  ],
+  "places": [
+    {
+      "name": "Plains of Jericho",
+      "type": "plain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Babylonian army pursued them and overtook Zedekiah in the plains of Jericho."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42-001-025",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:63-64",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "What happened right after Zechariah wrote, 'His name is John'?",
+  "options": [
+    "The angel appeared again",
+    "Elizabeth went to Nazareth",
+    "His mouth was opened and he began praising God",
+    "The baby was taken to the temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Worship"
+  ],
+  "characters": [
+    "Zechariah",
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Immediately after he wrote the name, Zechariah's mouth was opened and his tongue set free, and he began to speak, praising God."
+}

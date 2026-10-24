@@ -1,0 +1,34 @@
+{
+  "id": "27-005-012",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 5,
+  "verse_reference": "Daniel 5:27",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete: \"You have been weighed on the scales and found ______.\"",
+  "options": [
+    "wanting",
+    "faithful",
+    "heavy",
+    "worthy"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [
+    "Daniel",
+    "Belshazzar"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daniel explained that TEKEL meant the king had been weighed on the scales and found wanting."
+}

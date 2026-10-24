@@ -1,0 +1,36 @@
+{
+  "id": "40-015-021",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 15,
+  "verse_reference": "Matthew 15:39",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "After feeding the four thousand, Jesus got into a boat and went to the vicinity of which place?",
+  "options": [
+    "Magadan",
+    "Capernaum",
+    "Gennesaret",
+    "Bethsaida"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Magadan",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 15:39 says after Jesus sent the crowd away, he got into the boat and went to the vicinity of Magadan."
+}

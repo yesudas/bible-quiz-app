@@ -1,0 +1,41 @@
+{
+  "id": "24-039-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 39,
+  "verse_reference": "Jeremiah 39:1",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "In which year of Zedekiah's reign did Nebuchadnezzar begin the siege of Jerusalem?",
+  "options": [
+    "The first year",
+    "The fourth year",
+    "The ninth year",
+    "The eleventh year"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Zedekiah",
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the ninth year of Zedekiah, in the tenth month, Nebuchadnezzar marched against Jerusalem with his whole army and laid siege to it."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "41-011-010",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 11,
+  "verse_reference": "Mark 11:15",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jesus do in the temple courts?",
+  "options": [
+    "Drove out those buying and selling and overturned the tables of the money changers",
+    "Sold doves to the people",
+    "Counted the offerings",
+    "Lit the lamps"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus began driving out those who were buying and selling there. He overturned the tables of the money changers and the benches of those selling doves."
+}

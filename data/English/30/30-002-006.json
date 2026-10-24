@@ -1,0 +1,35 @@
+{
+  "id": "30-002-006",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 2,
+  "verse_reference": "Amos 2:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Israel treat the poor, according to Amos 2:7?",
+  "options": [
+    "They shared their food with them",
+    "They trampled on their heads",
+    "They gave them land",
+    "They freed them every seventh year"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Justice"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos says they trampled on the heads of the poor and denied justice to the oppressed."
+}

@@ -3,12 +3,14 @@
     "language": "English",
     "place": "Tabernacle",
     "label": "Tabernacle",
-    "count": 4,
+    "count": 6,
     "paths": [
         "English/04/04-001-007.json",
         "English/04/04-007-001.json",
         "English/04/04-009-004.json",
-        "English/04/04-019-006.json"
+        "English/04/04-019-006.json",
+        "English/58/58-009-001.json",
+        "English/58/58-009-002.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

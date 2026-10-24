@@ -1,0 +1,33 @@
+{
+  "id": "45-004-014",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 4,
+  "verse_reference": "Romans 4:20-21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Abraham fully persuaded about?",
+  "options": [
+    "That God had power to do what He had promised",
+    "That he would become king",
+    "That he would live forever on earth",
+    "That Sarah would build a city"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham did not waver through unbelief but was fully persuaded that God had power to do what He had promised."
+}

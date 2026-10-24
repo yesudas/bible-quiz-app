@@ -1,0 +1,30 @@
+{
+  "id": "66-006-004",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 6,
+  "verse_reference": "Revelation 6:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the rider on the black horse hold in his hand?",
+  "options": [
+    "A crown",
+    "A lamp",
+    "A key",
+    "A pair of scales"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the third seal was opened, John saw a black horse, and its rider was holding a pair of scales in his hand."
+}

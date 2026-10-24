@@ -1,0 +1,36 @@
+{
+  "id": "38-001-011",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 1,
+  "verse_reference": "Zechariah 1:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God promise would be rebuilt in Jerusalem?",
+  "options": [
+    "His house",
+    "The palace",
+    "The city wall of Jericho",
+    "The tower of Babel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would return to Jerusalem with mercy, and His house would be rebuilt there."
+}

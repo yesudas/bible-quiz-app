@@ -1,0 +1,36 @@
+{
+  "id": "47-007-002",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 7,
+  "verse_reference": "2 Corinthians 7:5",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Paul said that when they came into which region, their bodies had no rest?",
+  "options": [
+    "Asia",
+    "Galatia",
+    "Macedonia",
+    "Achaia"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Macedonia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said that when they came into Macedonia they had no rest, with conflicts on the outside and fears within."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "41-007-004",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 7,
+  "verse_reference": "Mark 7:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say the Pharisees were doing with God's commands?",
+  "options": [
+    "Letting them go and holding on to human traditions",
+    "Teaching them to the Gentiles",
+    "Writing them on their doors",
+    "Keeping them better than anyone"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"You have let go of the commands of God and are holding on to human traditions.\""
+}

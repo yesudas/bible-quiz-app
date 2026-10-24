@@ -1,0 +1,39 @@
+{
+  "id": "39-002-008",
+  "language": "en",
+  "book_no": 39,
+  "book": "Malachi",
+  "chapter": 2,
+  "verse_reference": "Malachi 2:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What unfaithful act did Malachi say Judah had done?",
+  "options": [
+    "Married women who worshiped a foreign god",
+    "Built an altar in Babylon",
+    "Refused to rebuild the temple",
+    "Made a treaty with Egypt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Marriage"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Judah desecrated the sanctuary by marrying women who worshiped a foreign god."
+}

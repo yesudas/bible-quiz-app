@@ -1,0 +1,32 @@
+{
+  "id": "36-003-012",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 3,
+  "verse_reference": "Zephaniah 3:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"He will take great delight in you; in his love he will no longer rebuke you, but will rejoice over you with ____.\"",
+  "options": [
+    "singing",
+    "dancing",
+    "trumpets",
+    "gifts"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zephaniah 3:17 says the LORD will rejoice over His people with singing."
+}

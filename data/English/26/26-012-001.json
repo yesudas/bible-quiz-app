@@ -1,0 +1,33 @@
+{
+  "id": "26-012-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 12,
+  "verse_reference": "Ezekiel 12:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did God tell Ezekiel to pack, as a sign to the people?",
+  "options": [
+    "Food for a feast",
+    "His belongings for exile",
+    "Weapons for war",
+    "Gifts for the king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Exile",
+    "Prophecy"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Ezekiel to pack his belongings for exile and set out in the daytime while the people watched."
+}

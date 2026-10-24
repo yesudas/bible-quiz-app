@@ -1,0 +1,44 @@
+{
+  "id": "27-011-013",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 11,
+  "verse_reference": "Daniel 11:41",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which of these would be delivered from the king's hand?",
+  "options": [
+    "Egypt and Libya",
+    "Edom, Moab and the leaders of Ammon",
+    "Persia and Media",
+    "Greece and the coastlands"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    },
+    {
+      "name": "Moab",
+      "type": "country"
+    },
+    {
+      "name": "Ammon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Edom, Moab and the leaders of Ammon would be delivered from his hand."
+}

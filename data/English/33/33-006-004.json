@@ -1,0 +1,39 @@
+{
+  "id": "33-006-004",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 6,
+  "verse_reference": "Micah 6:5",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Micah 6:5 mentions Israel's journey from Shittim to which place?",
+  "options": [
+    "Jericho",
+    "Gilgal",
+    "Bethel",
+    "Shiloh"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Shittim",
+      "type": "camp"
+    },
+    {
+      "name": "Gilgal",
+      "type": "camp"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God reminded them of their journey from Shittim to Gilgal, so they would know His righteous acts."
+}

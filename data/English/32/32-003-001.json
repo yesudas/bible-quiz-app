@@ -1,0 +1,38 @@
+{
+  "id": "32-003-001",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 3,
+  "verse_reference": "Jonah 3:1-2",
+  "question_type": "WHEN",
+  "difficulty": "Easy",
+  "question": "How many times did the word of the LORD come to Jonah telling him to go to Nineveh?",
+  "options": [
+    "Once",
+    "A second time",
+    "Three times",
+    "Seven times"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mercy",
+    "Mission"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonah 3:1 says the word of the LORD came to Jonah a second time, telling him again to go to Nineveh."
+}

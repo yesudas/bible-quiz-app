@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Balaam",
     "label": "Balaam",
-    "count": 25,
+    "count": 30,
     "paths": [
         "English/04/04-022-002.json",
         "English/04/04-022-003.json",
@@ -29,7 +29,12 @@
         "English/05/05-023-002.json",
         "English/06/06-013-008.json",
         "English/06/06-024-003.json",
-        "English/16/16-013-002.json"
+        "English/16/16-013-002.json",
+        "English/33/33-006-003.json",
+        "English/61/61-002-009.json",
+        "English/61/61-002-010.json",
+        "English/65/65-001-009.json",
+        "English/66/66-002-012.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

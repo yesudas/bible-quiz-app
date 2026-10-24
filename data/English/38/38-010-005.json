@@ -1,0 +1,35 @@
+{
+  "id": "38-010-005",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 10,
+  "verse_reference": "Zechariah 10:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Zechariah 10:4, which of these would come from Judah?",
+  "options": [
+    "The golden calf",
+    "The flying scroll",
+    "The cornerstone",
+    "The lampstand"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "From Judah would come the cornerstone, the tent peg, the battle bow and every ruler."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "41-008-006",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 8,
+  "verse_reference": "Mark 8:11-12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Jesus respond when the Pharisees asked him for a sign from heaven to test him?",
+  "options": [
+    "He called down fire",
+    "He healed a man in front of them",
+    "He sent his disciples to show them",
+    "He sighed deeply and said no sign would be given to that generation"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus sighed deeply and said, \"Why does this generation ask for a sign? Truly I tell you, no sign will be given to it.\""
+}

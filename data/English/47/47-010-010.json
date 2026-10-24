@@ -1,0 +1,33 @@
+{
+  "id": "47-010-010",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 10,
+  "verse_reference": "2 Corinthians 10:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Who is truly approved, according to Paul?",
+  "options": [
+    "The one who commends himself",
+    "The one whom the Lord commends",
+    "The one who has many letters of recommendation",
+    "The one who speaks the best"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "It is not the one who commends himself who is approved, but the one whom the Lord commends."
+}

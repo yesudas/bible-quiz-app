@@ -1,0 +1,31 @@
+{
+  "id": "58-013-016",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 13,
+  "verse_reference": "Hebrews 13:23",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 13:23, which brother had been released?",
+  "options": [
+    "Barnabas",
+    "Silas",
+    "Titus",
+    "Timothy"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Timothy"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 13:23 says, \"I want you to know that our brother Timothy has been released.\""
+}

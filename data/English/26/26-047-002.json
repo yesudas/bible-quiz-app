@@ -1,0 +1,37 @@
+{
+  "id": "26-047-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 47,
+  "verse_reference": "Ezekiel 47:3-5",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "As the man measured further, how did the depth of the water change?",
+  "options": [
+    "Waist-deep, then knee-deep, then ankle-deep",
+    "It stayed ankle-deep",
+    "Ankle-deep, then knee-deep, then waist-deep, then too deep to cross",
+    "It dried up"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The water was ankle-deep, then knee-deep, then up to the waist, and then it was a river too deep to cross, deep enough to swim in."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "66-007-005",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 7,
+  "verse_reference": "Revelation 7:5",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which tribe is named first in the list of the sealed in Revelation 7?",
+  "options": [
+    "Reuben",
+    "Levi",
+    "Judah",
+    "Benjamin"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The list of the sealed begins with the tribe of Judah, then Reuben, Gad and the others."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Simon-s-house",
+    "label": "Simon's house",
+    "count": 2,
+    "paths": [
+        "English/42/42-004-022.json",
+        "English/42/42-004-023.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

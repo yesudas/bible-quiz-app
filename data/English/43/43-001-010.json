@@ -1,0 +1,33 @@
+{
+  "id": "43-001-010",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 1,
+  "verse_reference": "John 1:26-27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did John the Baptist say he was not worthy to do for the one coming after him?",
+  "options": [
+    "Wash his feet",
+    "Carry his cloak",
+    "Untie his sandals",
+    "Pour water on his head"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Worship"
+  ],
+  "characters": [
+    "John the Baptist",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 1:27, John said he was not worthy to untie the straps of his sandals."
+}

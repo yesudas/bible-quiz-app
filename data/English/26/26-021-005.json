@@ -1,0 +1,47 @@
+{
+  "id": "26-021-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 21,
+  "verse_reference": "Ezekiel 21:19-20",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "At the fork in the road, which two places could the king of Babylon's sword go against?",
+  "options": [
+    "Rabbah of the Ammonites, or Judah and Jerusalem",
+    "Egypt or Tyre",
+    "Samaria or Damascus",
+    "Moab or Edom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Rabbah",
+      "type": "city"
+    },
+    {
+      "name": "Ammon",
+      "type": "country"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezekiel was to mark out one road for the sword to come against Rabbah of the Ammonites, and another against Judah and fortified Jerusalem."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "42-021-014",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 21,
+  "verse_reference": "Luke 21:27",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Jesus say people will see the Son of Man coming?",
+  "options": [
+    "Riding a white horse",
+    "Walking on the sea",
+    "In a cloud with power and great glory",
+    "With an army of soldiers"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Jesus",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'At that time they will see the Son of Man coming in a cloud with power and great glory.'"
+}

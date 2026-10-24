@@ -1,0 +1,32 @@
+{
+  "id": "42-020-008",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 20,
+  "verse_reference": "Luke 20:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the Scripture Jesus quoted: 'The stone the builders rejected has become the ____.'",
+  "options": [
+    "cornerstone",
+    "foundation",
+    "altar",
+    "gate"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus quoted, 'The stone the builders rejected has become the cornerstone.'"
+}

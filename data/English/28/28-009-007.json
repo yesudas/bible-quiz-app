@@ -1,0 +1,36 @@
+{
+  "id": "28-009-007",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 9,
+  "verse_reference": "Hosea 9:10",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "When God first found Israel, He said it was like finding what in the desert?",
+  "options": [
+    "Water",
+    "Gold",
+    "Grapes",
+    "Honey"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'When I found Israel, it was like finding grapes in the desert.'"
+}

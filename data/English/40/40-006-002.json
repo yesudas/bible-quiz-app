@@ -1,0 +1,33 @@
+{
+  "id": "40-006-002",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 6,
+  "verse_reference": "Matthew 6:3-4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"When you give to the needy, do not let your left hand know what your right hand is ______.\"",
+  "options": [
+    "holding",
+    "giving",
+    "taking",
+    "doing"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 6:3 says not to let your left hand know what your right hand is doing, so your giving may be in secret."
+}

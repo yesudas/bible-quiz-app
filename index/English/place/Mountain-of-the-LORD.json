@@ -1,11 +1,11 @@
 {
     "type": "place",
     "language": "English",
-    "place": "Mountain-of-the-LORD",
-    "label": "Mountain of the LORD",
+    "place": "Mountain-of-the-Lord",
+    "label": "Mountain of the Lord",
     "count": 1,
     "paths": [
-        "English/23/23-025-003.json"
+        "English/38/38-008-002.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

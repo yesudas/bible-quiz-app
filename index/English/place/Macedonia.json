@@ -1,0 +1,28 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Macedonia",
+    "label": "Macedonia",
+    "count": 18,
+    "paths": [
+        "English/44/44-016-004.json",
+        "English/44/44-016-005.json",
+        "English/44/44-018-004.json",
+        "English/44/44-020-001.json",
+        "English/45/45-015-011.json",
+        "English/46/46-016-004.json",
+        "English/47/47-001-008.json",
+        "English/47/47-002-008.json",
+        "English/47/47-007-002.json",
+        "English/47/47-007-003.json",
+        "English/47/47-008-001.json",
+        "English/47/47-008-002.json",
+        "English/47/47-008-003.json",
+        "English/47/47-008-004.json",
+        "English/47/47-009-001.json",
+        "English/47/47-011-006.json",
+        "English/52/52-001-005.json",
+        "English/54/54-001-002.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

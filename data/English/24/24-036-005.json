@@ -1,0 +1,38 @@
+{
+  "id": "24-036-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 36,
+  "verse_reference": "Jeremiah 36:10",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "From whose room in the temple did Baruch read the scroll?",
+  "options": [
+    "The room of Gemariah son of Shaphan the secretary",
+    "The room of the high priest",
+    "The room of the king",
+    "The room of Pashhur"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Gemariah",
+    "Shaphan",
+    "Baruch"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Baruch read Jeremiah's words from the room of Gemariah son of Shaphan the secretary, at the New Gate of the temple."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "40-026-019",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:39",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Jesus pray after asking that the cup be taken from him?",
+  "options": [
+    "\"Send your angels now.\"",
+    "\"Yet not as I will, but as you will.\"",
+    "\"Give me strength to fight.\"",
+    "\"Let my disciples go free.\""
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Obedience"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Gethsemane",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:39 says, \"My Father, if it is possible, may this cup be taken from me. Yet not as I will, but as you will.\""
+}

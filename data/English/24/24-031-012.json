@@ -1,0 +1,35 @@
+{
+  "id": "24-031-012",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 31,
+  "verse_reference": "Jeremiah 31:32",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "God said the new covenant would not be like the covenant He made with their ancestors at what time?",
+  "options": [
+    "When He gave them a king",
+    "When He built the temple",
+    "When He brought them across the Jordan",
+    "When He took them by the hand to lead them out of Egypt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "It would not be like the covenant made when He took their ancestors by the hand to lead them out of Egypt, because they broke it."
+}

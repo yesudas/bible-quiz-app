@@ -1,0 +1,34 @@
+{
+  "id": "24-048-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 48,
+  "verse_reference": "Jeremiah 48:29",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God say He had heard about Moab?",
+  "options": [
+    "Her greed",
+    "Her pride, conceit and arrogance",
+    "Her laziness",
+    "Her drunkenness"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"We have heard of Moab's pride—how great is her arrogance!—of her insolence, her pride, her conceit and the haughtiness of her heart.\""
+}

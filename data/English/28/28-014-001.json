@@ -1,0 +1,36 @@
+{
+  "id": "28-014-001",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 14,
+  "verse_reference": "Hosea 14:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"Return, Israel, to the LORD your God. Your ______ have been your downfall!\"",
+  "options": [
+    "enemies",
+    "kings",
+    "sins",
+    "idols"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea called Israel to return to the LORD, because their sins had been their downfall."
+}

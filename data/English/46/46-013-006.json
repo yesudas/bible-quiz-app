@@ -1,0 +1,31 @@
+{
+  "id": "46-013-006",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 13,
+  "verse_reference": "1 Corinthians 13:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"It is not easily angered, it keeps no ______ of wrongs.\"",
+  "options": [
+    "list",
+    "memory",
+    "record",
+    "count"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Forgiveness"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul taught that love does not keep a record of the wrongs others have done."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "40-022-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 22,
+  "verse_reference": "Matthew 22:19-20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus ask them to show him?",
+  "options": [
+    "The scroll of the law",
+    "Their tax records",
+    "The coin used for paying the tax",
+    "Caesar's letter"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 22:19 says, \"Show me the coin used for paying the tax.\" They brought him a denarius."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "45-011-013",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 11,
+  "verse_reference": "Romans 11:29",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"For God's gifts and his call are ______.\"",
+  "options": [
+    "hidden",
+    "temporary",
+    "irrevocable",
+    "small"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Romans 11:29 says God's gifts and His call can never be taken back; they are irrevocable."
+}

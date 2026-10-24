@@ -1,0 +1,35 @@
+{
+  "id": "25-001-005",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 1,
+  "verse_reference": "Lamentations 1:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why do the roads to Zion mourn?",
+  "options": [
+    "Because they are flooded",
+    "Because no one comes to her appointed festivals",
+    "Because the king closed them",
+    "Because robbers wait on them"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The roads mourn because no one travels on them to Zion's appointed festivals anymore."
+}

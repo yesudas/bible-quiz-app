@@ -1,0 +1,39 @@
+{
+  "id": "24-046-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 46,
+  "verse_reference": "Jeremiah 46:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "God said Egypt rises like which river?",
+  "options": [
+    "The Nile",
+    "The Jordan",
+    "The Euphrates",
+    "The Tigris"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Nile",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Egypt rises like the Nile, like rivers of surging waters.\""
+}

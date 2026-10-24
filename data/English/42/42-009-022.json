@@ -1,0 +1,38 @@
+{
+  "id": "42-009-022",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 9,
+  "verse_reference": "Luke 9:51",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Toward which city did Jesus resolutely set out as the time approached for him to be taken up?",
+  "options": [
+    "Nazareth",
+    "Capernaum",
+    "Jerusalem",
+    "Samaria"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Mission"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As the time approached for him to be taken up to heaven, Jesus resolutely set out for Jerusalem."
+}

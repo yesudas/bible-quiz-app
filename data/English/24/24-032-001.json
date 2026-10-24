@@ -1,0 +1,39 @@
+{
+  "id": "24-032-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 32,
+  "verse_reference": "Jeremiah 32:1",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "The word in Jeremiah 32 came in the tenth year of Zedekiah. Which year of Nebuchadnezzar's reign was this?",
+  "options": [
+    "The first year",
+    "The eighteenth year",
+    "The tenth year",
+    "The twenty-third year"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Zedekiah",
+    "Nebuchadnezzar",
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "It came in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar."
+}

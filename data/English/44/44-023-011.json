@@ -1,0 +1,37 @@
+{
+  "id": "44-023-011",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 23,
+  "verse_reference": "Acts 23:12-13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "More than forty men took an oath not to eat or drink until they had done what?",
+  "options": [
+    "Found Paul guilty",
+    "Killed Paul",
+    "Sent Paul to Rome",
+    "Destroyed the barracks"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution",
+    "Sin"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "More than forty men bound themselves with an oath not to eat or drink until they had killed Paul."
+}

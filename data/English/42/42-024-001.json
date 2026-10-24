@@ -1,0 +1,36 @@
+{
+  "id": "42-024-001",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 24,
+  "verse_reference": "Luke 24:1",
+  "question_type": "WHEN",
+  "difficulty": "Easy",
+  "question": "When did the women go to the tomb with the spices?",
+  "options": [
+    "On the Sabbath evening",
+    "On the first day of the week, very early in the morning",
+    "Three days after the Sabbath",
+    "At midnight"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Resurrection",
+    "Jesus"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On the first day of the week, very early in the morning, the women took the spices they had prepared and went to the tomb."
+}

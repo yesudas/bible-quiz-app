@@ -1,0 +1,39 @@
+{
+  "id": "46-016-003",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 16,
+  "verse_reference": "1 Corinthians 16:3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "To which city would the Corinthians' gift be taken?",
+  "options": [
+    "Rome",
+    "Antioch",
+    "Ephesus",
+    "Jerusalem"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money",
+    "Love",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said he would send men with letters of introduction to take their gift to Jerusalem."
+}

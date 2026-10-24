@@ -1,0 +1,39 @@
+{
+  "id": "38-013-001",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 13,
+  "verse_reference": "Zechariah 13:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What would be opened to cleanse the house of David and the people of Jerusalem from sin?",
+  "options": [
+    "A fountain",
+    "A gate",
+    "A window",
+    "A book"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Forgiveness",
+    "Salvation",
+    "Sin"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On that day a fountain would be opened to cleanse them from sin and impurity."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "24-051-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 51,
+  "verse_reference": "Jeremiah 51:64",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Jeremiah 51 ends with the words: \"The words of Jeremiah ____ here.\"",
+  "options": [
+    "begin",
+    "are written",
+    "stop",
+    "end"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah 51:64 closes with the note, \"The words of Jeremiah end here.\""
+}

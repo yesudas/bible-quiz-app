@@ -1,0 +1,32 @@
+{
+  "id": "47-006-002",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 6,
+  "verse_reference": "2 Corinthians 6:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Now is the time of God's favor, now is the day of ______.\"",
+  "options": [
+    "judgment",
+    "rest",
+    "salvation",
+    "worship"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said that now is the time of God's favor, now is the day of salvation."
+}

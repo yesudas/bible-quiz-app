@@ -1,0 +1,31 @@
+{
+  "id": "24-033-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 33,
+  "verse_reference": "Jeremiah 33:12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "God said the desolate land would again have pastures for whom to rest their flocks?",
+  "options": [
+    "Kings",
+    "Shepherds",
+    "Soldiers",
+    "Merchants"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "There would again be pastures for shepherds to rest their flocks."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42-008-008",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What chokes those represented by the seed among thorns?",
+  "options": [
+    "Fear of the Romans",
+    "Persecution and hunger",
+    "Lack of teaching",
+    "Life's worries, riches and pleasures"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Money",
+    "Temptation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The seed among thorns stands for those who hear, but are choked by life's worries, riches and pleasures, and they do not mature."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "42-001-021",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:46-47",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Mary's song: 'My soul glorifies the Lord and my spirit rejoices in God my ____.'",
+  "options": [
+    "King",
+    "Shepherd",
+    "Savior",
+    "Father"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Salvation"
+  ],
+  "characters": [
+    "Mary"
+  ],
+  "places": [
+    {
+      "name": "Hill country of Judea",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mary praised God, saying her spirit rejoiced in God her Savior."
+}

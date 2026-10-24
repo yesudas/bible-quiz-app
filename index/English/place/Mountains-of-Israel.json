@@ -1,0 +1,21 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Mountains-of-Israel",
+    "label": "Mountains of Israel",
+    "count": 11,
+    "paths": [
+        "English/26/26-006-001.json",
+        "English/26/26-006-002.json",
+        "English/26/26-017-010.json",
+        "English/26/26-017-011.json",
+        "English/26/26-019-005.json",
+        "English/26/26-020-010.json",
+        "English/26/26-034-005.json",
+        "English/26/26-036-001.json",
+        "English/26/26-036-002.json",
+        "English/26/26-038-004.json",
+        "English/26/26-039-002.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

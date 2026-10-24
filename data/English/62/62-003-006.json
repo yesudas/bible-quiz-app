@@ -1,0 +1,32 @@
+{
+  "id": "62-003-006",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 3,
+  "verse_reference": "1 John 3:11",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What is the message John's readers heard from the beginning?",
+  "options": [
+    "We should fast every day",
+    "We should love one another",
+    "We should leave our homes",
+    "We should offer animal sacrifices"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John reminds them that the message they heard from the beginning is that we should love one another."
+}

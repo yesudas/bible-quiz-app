@@ -1,0 +1,31 @@
+{
+  "id": "61-002-005",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 2,
+  "verse_reference": "2 Peter 2:5",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "Besides Noah, how many other people did God protect during the flood?",
+  "options": [
+    "Seven",
+    "Three",
+    "Ten",
+    "Twelve"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "Noah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter says God protected Noah and seven others, eight people in all."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "54-001-007",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 1,
+  "verse_reference": "1 Timothy 1:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Before receiving mercy, what kind of man did Paul say he had been?",
+  "options": [
+    "A tax collector and a thief",
+    "A blasphemer, a persecutor and a violent man",
+    "A fisherman and a sinner",
+    "A soldier and a ruler"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Forgiveness",
+    "Persecution"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul admitted he was once a blasphemer, a persecutor and a violent man, but he was shown mercy."
+}

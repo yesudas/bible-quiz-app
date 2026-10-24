@@ -1,0 +1,33 @@
+{
+  "id": "66-016-009",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 16,
+  "verse_reference": "Revelation 16:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Look, I come like a ____! Blessed is the one who stays awake.\"",
+  "options": [
+    "thief",
+    "king",
+    "storm",
+    "lion"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Prophecy",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"Look, I come like a thief! Blessed is the one who stays awake and remains clothed.\""
+}

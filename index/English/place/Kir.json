@@ -3,10 +3,12 @@
     "language": "English",
     "place": "Kir",
     "label": "Kir",
-    "count": 2,
+    "count": 4,
     "paths": [
         "English/12/12-016-008.json",
-        "English/23/23-015-002.json"
+        "English/23/23-015-002.json",
+        "English/30/30-001-010.json",
+        "English/30/30-009-005.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

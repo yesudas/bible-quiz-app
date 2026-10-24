@@ -1,0 +1,34 @@
+{
+  "id": "48-003-013",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 3,
+  "verse_reference": "Galatians 3:24",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Paul said the law was put in charge of us for what purpose?",
+  "options": [
+    "To lead us to Christ",
+    "To make us rich",
+    "To keep us from praying",
+    "To choose our leaders"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Jesus",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said the law was put in charge of us until Christ came, so that we might be justified by faith."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "26-037-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 37,
+  "verse_reference": "Ezekiel 37:7-8",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "After the bones came together and tendons, flesh and skin covered them, what was still missing?",
+  "options": [
+    "Their eyes",
+    "Their clothes",
+    "Breath",
+    "Their names"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Valley of dry bones",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Tendons and flesh appeared on them and skin covered them, but there was no breath in them."
+}

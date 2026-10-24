@@ -1,0 +1,31 @@
+{
+  "id": "46-004-003",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 4,
+  "verse_reference": "1 Corinthians 4:4",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who did Paul say is the one who judges him?",
+  "options": [
+    "The Lord",
+    "The church in Corinth",
+    "The apostles",
+    "His own conscience"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said his clear conscience did not make him innocent; it is the Lord who judges him."
+}

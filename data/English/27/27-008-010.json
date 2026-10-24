@@ -1,0 +1,32 @@
+{
+  "id": "27-008-010",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 8,
+  "verse_reference": "Daniel 8:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Gabriel say the vision was about?",
+  "options": [
+    "The time of Moses",
+    "The building of Babylon",
+    "The time of the end",
+    "The flood of Noah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel",
+    "Gabriel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gabriel said, \"Understand that the vision concerns the time of the end.\""
+}

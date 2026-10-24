@@ -1,0 +1,35 @@
+{
+  "id": "30-002-011",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 2,
+  "verse_reference": "Amos 2:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How did Israel treat the Nazirites and prophets God gave them?",
+  "options": [
+    "They honored them with gifts",
+    "They made Nazirites drink wine and told prophets not to prophesy",
+    "They made them priests in the temple",
+    "They sent them to other nations"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel made the Nazirites drink wine and commanded the prophets not to prophesy."
+}

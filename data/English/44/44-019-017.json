@@ -1,0 +1,37 @@
+{
+  "id": "44-019-017",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 19,
+  "verse_reference": "Acts 19:28",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "The angry crowd began shouting: \"Great is ______ of the Ephesians!\"",
+  "options": [
+    "Artemis",
+    "Zeus",
+    "Hermes",
+    "Apollo"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Demetrius"
+  ],
+  "places": [
+    {
+      "name": "Ephesus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They were furious and began shouting, 'Great is Artemis of the Ephesians!'"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "26-032-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 32,
+  "verse_reference": "Ezekiel 32:2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "In the lament of Ezekiel 32, Pharaoh was like a lion among the nations and like what in the seas?",
+  "options": [
+    "A great ship",
+    "A monster",
+    "A mighty wave",
+    "A great fish"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Parables"
+  ],
+  "characters": [
+    "Pharaoh"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said to Pharaoh, 'You are like a lion among the nations; you are like a monster in the seas.'"
+}

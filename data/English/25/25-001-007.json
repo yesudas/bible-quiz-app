@@ -1,0 +1,35 @@
+{
+  "id": "25-001-007",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 1,
+  "verse_reference": "Lamentations 1:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Lamentations 1:6, what are the princes of Daughter Zion compared to?",
+  "options": [
+    "Lions without food",
+    "Sheep without a shepherd",
+    "Deer that find no pasture",
+    "Birds without nests"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Her princes are like deer that find no pasture and flee weakly before their pursuers."
+}

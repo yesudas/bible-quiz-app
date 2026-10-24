@@ -1,0 +1,35 @@
+{
+  "id": "26-010-009",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 10,
+  "verse_reference": "Ezekiel 10:18-19",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the cherubim stop with the glory of the God of Israel above them?",
+  "options": [
+    "At the entrance of the east gate of the LORD's house",
+    "At the north gate of the city",
+    "On the Mount of Olives",
+    "Beside the bronze altar"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The glory of the LORD left the threshold, and the cherubim stopped at the entrance of the east gate of the LORD's house."
+}

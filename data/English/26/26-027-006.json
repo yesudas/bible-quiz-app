@@ -1,0 +1,38 @@
+{
+  "id": "26-027-006",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 27,
+  "verse_reference": "Ezekiel 27:12",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Which place did business with Tyre, trading silver, iron, tin and lead?",
+  "options": [
+    "Damascus",
+    "Sheba",
+    "Tarshish",
+    "Rhodes"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tarshish",
+      "type": "city"
+    },
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Tarshish did business with Tyre because of its great wealth, exchanging silver, iron, tin and lead for its merchandise."
+}

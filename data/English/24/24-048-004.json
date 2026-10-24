@@ -1,0 +1,35 @@
+{
+  "id": "24-048-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 48,
+  "verse_reference": "Jeremiah 48:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"A curse on anyone who is ____ in doing the LORD's work!\"",
+  "options": [
+    "proud",
+    "slow",
+    "weak",
+    "lax"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah 48:10 says, \"A curse on anyone who is lax in doing the LORD's work!\""
+}

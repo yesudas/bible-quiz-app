@@ -1,0 +1,38 @@
+{
+  "id": "40-002-016",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 2,
+  "verse_reference": "Matthew 2:17-18",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Matthew says the weeping in Ramah fulfilled words spoken through which prophet?",
+  "options": [
+    "Isaiah",
+    "Micah",
+    "Jeremiah",
+    "Hosea"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Suffering"
+  ],
+  "characters": [
+    "Jeremiah",
+    "Rachel"
+  ],
+  "places": [
+    {
+      "name": "Ramah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 2:17-18 says this fulfilled what was said through the prophet Jeremiah about Rachel weeping for her children."
+}

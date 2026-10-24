@@ -1,0 +1,36 @@
+{
+  "id": "44-011-003",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 11,
+  "verse_reference": "Acts 11:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many brothers went with Peter to Cornelius's house?",
+  "options": [
+    "Six",
+    "Three",
+    "Twelve",
+    "Two"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Caesarea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter said, 'These six brothers also went with me, and we entered the man's house.'"
+}

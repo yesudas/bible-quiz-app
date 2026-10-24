@@ -1,0 +1,33 @@
+{
+  "id": "41-012-014",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 12,
+  "verse_reference": "Mark 12:25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Jesus, what will people be like when the dead rise?",
+  "options": [
+    "Like the angels in heaven, neither marrying nor being given in marriage",
+    "Like kings on thrones",
+    "Like they were as children",
+    "Like the stars"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Angels",
+    "Hope",
+    "Marriage"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said when the dead rise, they will neither marry nor be given in marriage; they will be like the angels in heaven."
+}

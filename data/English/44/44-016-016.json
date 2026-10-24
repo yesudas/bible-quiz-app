@@ -1,0 +1,37 @@
+{
+  "id": "44-016-016",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 16,
+  "verse_reference": "Acts 16:27-28",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Paul shout, \"Don't harm yourself! We are all here!\"?",
+  "options": [
+    "The jailer was attacking Silas",
+    "The jailer was about to kill himself, thinking the prisoners had escaped",
+    "The roof was falling",
+    "The guards were coming"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Courage"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Prison in Philippi",
+      "type": "prison"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The jailer drew his sword to kill himself because he thought the prisoners had escaped."
+}

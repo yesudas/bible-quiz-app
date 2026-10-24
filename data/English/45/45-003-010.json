@@ -1,0 +1,32 @@
+{
+  "id": "45-003-010",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 3,
+  "verse_reference": "Romans 3:23",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"For all have ______ and fall short of the glory of God.\"",
+  "options": [
+    "prayed",
+    "wandered",
+    "believed",
+    "sinned"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Romans 3:23 says that all people have sinned and fall short of God's glory."
+}

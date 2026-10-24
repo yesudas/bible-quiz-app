@@ -1,0 +1,38 @@
+{
+  "id": "42-022-017",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 22,
+  "verse_reference": "Luke 22:48",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Judas betray Jesus, according to Jesus' own words?",
+  "options": [
+    "With a letter",
+    "With a shout",
+    "With a kiss",
+    "With a sign of his hand"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Jesus",
+    "Judas Iscariot"
+  ],
+  "places": [
+    {
+      "name": "Mount of Olives",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked him, 'Judas, are you betraying the Son of Man with a kiss?'"
+}

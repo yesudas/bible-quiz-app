@@ -1,0 +1,31 @@
+{
+  "id": "29-001-012",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 1,
+  "verse_reference": "Joel 1:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Joel, why were even the wild animals panting for the LORD?",
+  "options": [
+    "The streams of water had dried up",
+    "Hunters were chasing them",
+    "Winter had come early",
+    "The locusts were attacking them"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The wild animals panted for God because the streams of water had dried up and fire had burned the pastures."
+}

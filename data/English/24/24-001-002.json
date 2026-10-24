@@ -1,0 +1,40 @@
+{
+  "id": "24-001-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 1,
+  "verse_reference": "Jeremiah 1:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In which town did Jeremiah's family of priests live?",
+  "options": [
+    "Bethlehem",
+    "Shiloh",
+    "Anathoth",
+    "Gibeah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Anathoth",
+      "type": "town"
+    },
+    {
+      "name": "Benjamin",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah came from the priests at Anathoth, in the territory of Benjamin."
+}

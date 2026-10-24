@@ -1,0 +1,38 @@
+{
+  "id": "26-038-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 38,
+  "verse_reference": "Ezekiel 38:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Against whom did God tell Ezekiel to set his face in Ezekiel 38?",
+  "options": [
+    "Gog, of the land of Magog",
+    "Pharaoh of Egypt",
+    "The king of Tyre",
+    "Nebuchadnezzar of Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Gog",
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Magog",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Ezekiel to set his face against Gog, of the land of Magog, the chief prince of Meshek and Tubal."
+}

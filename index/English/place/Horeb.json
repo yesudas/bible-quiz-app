@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Horeb",
     "label": "Horeb",
-    "count": 18,
+    "count": 20,
     "paths": [
         "English/05/05-001-002.json",
         "English/05/05-004-005.json",
@@ -22,7 +22,9 @@
         "English/11/11-019-012.json",
         "English/11/11-019-013.json",
         "English/14/14-005-009.json",
-        "English/19/19-106-007.json"
+        "English/19/19-106-007.json",
+        "English/39/39-004-005.json",
+        "English/39/39-004-006.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

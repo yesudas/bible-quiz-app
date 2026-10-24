@@ -1,0 +1,33 @@
+{
+  "id": "45-010-003",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 10,
+  "verse_reference": "Romans 10:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"Christ is the ______ of the law so that there may be righteousness for everyone who believes.\"",
+  "options": [
+    "beginning",
+    "enemy",
+    "servant",
+    "culmination"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Law",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Romans 10:4 says Christ is the culmination of the law, so that there may be righteousness for everyone who believes."
+}

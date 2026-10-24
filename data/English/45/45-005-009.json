@@ -1,0 +1,33 @@
+{
+  "id": "45-005-009",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 5,
+  "verse_reference": "Romans 5:14",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Death reigned from the time of Adam to the time of which person?",
+  "options": [
+    "Moses",
+    "Noah",
+    "Abraham",
+    "David"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Law"
+  ],
+  "characters": [
+    "Adam",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says death reigned from the time of Adam to the time of Moses."
+}

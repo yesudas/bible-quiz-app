@@ -1,0 +1,37 @@
+{
+  "id": "41-016-002",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 16,
+  "verse_reference": "Mark 16:1",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which of these women went to the tomb with spices along with Mary Magdalene and Mary the mother of James?",
+  "options": [
+    "Martha",
+    "Salome",
+    "Joanna",
+    "Lydia"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Mary Magdalene",
+    "Salome"
+  ],
+  "places": [
+    {
+      "name": "Tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mark names Mary Magdalene, Mary the mother of James, and Salome as the women who bought spices to anoint Jesus' body."
+}

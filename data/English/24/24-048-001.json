@@ -1,0 +1,43 @@
+{
+  "id": "24-048-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 48,
+  "verse_reference": "Jeremiah 48:1",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "At the start of the message about Moab, which town did God say would be ruined?",
+  "options": [
+    "Nebo",
+    "Dibon",
+    "Aroer",
+    "Medeba"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Nebo",
+      "type": "town"
+    },
+    {
+      "name": "Kiriathaim",
+      "type": "town"
+    },
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Woe to Nebo, for it will be ruined. Kiriathaim will be disgraced and captured.\""
+}

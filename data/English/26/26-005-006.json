@@ -1,0 +1,36 @@
+{
+  "id": "26-005-006",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 5,
+  "verse_reference": "Ezekiel 5:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Jerusalem's rebellion compare with that of the nations around her?",
+  "options": [
+    "She had rebelled less than the nations",
+    "She had rebelled the same as the nations",
+    "She had rebelled more than the nations",
+    "She had not rebelled at all"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Law",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said Jerusalem had rebelled against His laws and decrees more than the nations and countries around her."
+}

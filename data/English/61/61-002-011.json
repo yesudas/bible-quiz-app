@@ -1,0 +1,29 @@
+{
+  "id": "61-002-011",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 2,
+  "verse_reference": "2 Peter 2:17",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Peter compares false teachers to springs without what?",
+  "options": [
+    "Fish",
+    "Stones",
+    "Water",
+    "Shade"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter calls these people springs without water and mists driven by a storm, because they promise much but give nothing."
+}

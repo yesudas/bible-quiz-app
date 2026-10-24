@@ -1,0 +1,37 @@
+{
+  "id": "24-038-010",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 38,
+  "verse_reference": "Jeremiah 38:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Whom did Zedekiah say he was afraid of?",
+  "options": [
+    "The Egyptians",
+    "The prophets of Baal",
+    "The Jews who had gone over to the Babylonians",
+    "His own sons"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Faith"
+  ],
+  "characters": [
+    "Zedekiah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zedekiah said, \"I am afraid of the Jews who have gone over to the Babylonians, for the Babylonians may hand me over to them and they will mistreat me.\""
+}

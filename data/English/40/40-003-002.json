@@ -1,0 +1,33 @@
+{
+  "id": "40-003-002",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 3,
+  "verse_reference": "Matthew 3:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete John's message: \"Repent, for the kingdom of heaven has come ______.\"",
+  "options": [
+    "near",
+    "today",
+    "down",
+    "soon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Repentance",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Matthew 3:2 John said, \"Repent, for the kingdom of heaven has come near.\""
+}

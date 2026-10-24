@@ -1,0 +1,35 @@
+{
+  "id": "26-042-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 42,
+  "verse_reference": "Ezekiel 42:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the priests have to do before going out to the outer court where the people were?",
+  "options": [
+    "Leave behind the garments they ministered in and put on other clothes",
+    "Wash their hands seven times",
+    "Offer another sacrifice",
+    "Wait until evening"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Once the priests entered the holy precincts, they were to leave behind the garments in which they ministered, because these are holy, and put on other clothes before going near the people's places."
+}

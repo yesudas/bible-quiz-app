@@ -1,0 +1,42 @@
+{
+  "id": "30-008-012",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 8,
+  "verse_reference": "Amos 8:14",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which places' gods did people swear by in Amos 8:14?",
+  "options": [
+    "Bethel and Gilgal",
+    "Dan and Beersheba",
+    "Tyre and Sidon",
+    "Hebron and Shiloh"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Dan",
+      "type": "city"
+    },
+    {
+      "name": "Beersheba",
+      "type": "town"
+    },
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They swore by the shame of Samaria and by the gods of Dan and Beersheba; they would fall and never rise again."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "43-001-005",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 1,
+  "verse_reference": "John 1:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What right did God give to those who received Jesus and believed in his name?",
+  "options": [
+    "To become children of God",
+    "To become kings",
+    "To rule over angels",
+    "To never be tested"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 1:12 says that to all who received him and believed in his name, he gave the right to become children of God."
+}

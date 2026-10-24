@@ -1,0 +1,46 @@
+{
+  "id": "43-004-007",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 4,
+  "verse_reference": "John 4:16-18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus reveal about the Samaritan woman that she had not told him?",
+  "options": [
+    "She was from Jerusalem",
+    "She had five husbands, and the man she had now was not her husband",
+    "She was a widow",
+    "She was a priest's daughter"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Samaritan woman"
+  ],
+  "places": [
+    {
+      "name": "Sychar",
+      "type": "town"
+    },
+    {
+      "name": "Samaria",
+      "type": "region"
+    },
+    {
+      "name": "Jacob's well",
+      "type": "well"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 4:17-18, Jesus told her she had had five husbands, and the man she now had was not her husband."
+}

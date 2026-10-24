@@ -1,0 +1,32 @@
+{
+  "id": "49-001-005",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 1,
+  "verse_reference": "Ephesians 1:4",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When did God choose believers in Christ, according to Ephesians 1?",
+  "options": [
+    "Before the creation of the world",
+    "At the time of Abraham",
+    "On the day of Pentecost",
+    "When they were baptized"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Creation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says God chose us in Christ before the creation of the world to be holy and blameless."
+}

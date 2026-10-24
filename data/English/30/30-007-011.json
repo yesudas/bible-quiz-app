@@ -1,0 +1,36 @@
+{
+  "id": "30-007-011",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 7,
+  "verse_reference": "Amos 7:13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Amaziah call Bethel?",
+  "options": [
+    "The city of David",
+    "The house of prayer",
+    "The king's sanctuary",
+    "The holy mountain"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [
+    "Amaziah"
+  ],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amaziah said Bethel is the king's sanctuary and the temple of the kingdom."
+}

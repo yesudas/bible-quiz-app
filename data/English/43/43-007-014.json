@@ -1,0 +1,36 @@
+{
+  "id": "43-007-014",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 7,
+  "verse_reference": "John 7:42",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to the crowd, from which town did Scripture say the Messiah would come?",
+  "options": [
+    "Nazareth",
+    "Bethlehem",
+    "Capernaum",
+    "Jericho"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 7:42, some asked whether Scripture does not say the Messiah will come from David's descendants and from Bethlehem, the town where David lived."
+}

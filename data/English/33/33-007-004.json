@@ -1,0 +1,33 @@
+{
+  "id": "33-007-004",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 7,
+  "verse_reference": "Micah 7:8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Though Micah sat in darkness, what did he say the LORD would be?",
+  "options": [
+    "His light",
+    "His sword",
+    "His crown",
+    "His house"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Faith"
+  ],
+  "characters": [
+    "Micah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micah said, 'Though I have fallen, I will rise. Though I sit in darkness, the LORD will be my light.'"
+}

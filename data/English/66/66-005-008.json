@@ -1,0 +1,36 @@
+{
+  "id": "66-005-008",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 5,
+  "verse_reference": "Revelation 5:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "The elders held golden bowls full of incense. What was the incense?",
+  "options": [
+    "The tears of the saints",
+    "The songs of angels",
+    "The gifts of the nations",
+    "The prayers of God's people"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The golden bowls full of incense are the prayers of God's people."
+}

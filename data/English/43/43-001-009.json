@@ -1,0 +1,37 @@
+{
+  "id": "43-001-009",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 1,
+  "verse_reference": "John 1:19-21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When the priests and Levites questioned John the Baptist, what did he say about himself?",
+  "options": [
+    "He was the Messiah",
+    "He was not the Messiah",
+    "He was Elijah",
+    "He was the Prophet"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 1:20-21, John openly said he was not the Messiah, and he also said he was not Elijah or the Prophet."
+}

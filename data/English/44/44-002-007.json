@@ -1,0 +1,30 @@
+{
+  "id": "44-002-007",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 2,
+  "verse_reference": "Acts 2:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did some people in the crowd say to make fun of the believers?",
+  "options": [
+    "They are crazy",
+    "They are Roman spies",
+    "They have had too much wine",
+    "They are actors"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some made fun of them and said they had had too much wine."
+}

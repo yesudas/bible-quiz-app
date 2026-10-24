@@ -1,0 +1,32 @@
+{
+  "id": "40-023-004",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 23,
+  "verse_reference": "Matthew 23:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jesus say the Pharisees make their phylacteries wide and the tassels on their garments long?",
+  "options": [
+    "To keep them warm",
+    "For people to see",
+    "Because Moses commanded it",
+    "To carry money"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 23:5 says, \"Everything they do is done for people to see: They make their phylacteries wide and the tassels on their garments long.\""
+}

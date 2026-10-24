@@ -1,0 +1,36 @@
+{
+  "id": "24-014-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 14,
+  "verse_reference": "Jeremiah 14:8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In the prayer of Jeremiah 14:8, what is the LORD called?",
+  "options": [
+    "The Rock of Ages",
+    "The Hope of Israel, its Savior in times of distress",
+    "The Mighty Warrior of Judah",
+    "The Shepherd of Zion"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Salvation",
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The prayer calls the LORD \"the Hope of Israel, its Savior in times of distress.\""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "40-025-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:16-17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the servant with two bags of gold do with them?",
+  "options": [
+    "Hid them in the ground",
+    "Gained two more",
+    "Spent them",
+    "Gave them to the poor"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:17 says the one with two bags of gold gained two more."
+}

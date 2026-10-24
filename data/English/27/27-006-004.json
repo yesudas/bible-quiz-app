@@ -1,0 +1,33 @@
+{
+  "id": "27-006-004",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 6,
+  "verse_reference": "Daniel 6:7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the new law forbid for thirty days?",
+  "options": [
+    "Praying to any god or human except the king",
+    "Eating meat",
+    "Leaving the city",
+    "Speaking the Hebrew language"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Persecution"
+  ],
+  "characters": [
+    "Darius"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The decree said anyone who prayed to any god or human being except the king during the next thirty days would be thrown into the lions' den."
+}

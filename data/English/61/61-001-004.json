@@ -1,0 +1,31 @@
+{
+  "id": "61-001-004",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 1,
+  "verse_reference": "2 Peter 1:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does Peter tell believers to add first to their faith?",
+  "options": [
+    "Love",
+    "Self-control",
+    "Knowledge",
+    "Goodness"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter says to add goodness to faith, and then knowledge to goodness."
+}

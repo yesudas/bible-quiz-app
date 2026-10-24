@@ -1,0 +1,35 @@
+{
+  "id": "30-003-010",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 3,
+  "verse_reference": "Amos 3:15",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What kind of houses did God say would be destroyed in Amos 3:15?",
+  "options": [
+    "Houses of cedar and gold",
+    "Houses adorned with ivory",
+    "Houses of the priests",
+    "Houses of the poor"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Money"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would tear down the winter house and summer house, and the houses adorned with ivory would be destroyed."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "42-008-017",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:30",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What name did the man give when Jesus asked him?",
+  "options": [
+    "Legion",
+    "Beelzebul",
+    "Abaddon",
+    "Lucifer"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Region of the Gerasenes",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He replied, 'Legion,' because many demons had gone into him."
+}

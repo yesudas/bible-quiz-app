@@ -1,0 +1,32 @@
+{
+  "id": "41-010-020",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 10,
+  "verse_reference": "Mark 10:41-44",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Jesus, what must whoever wants to become great among his followers do?",
+  "options": [
+    "Be the richest",
+    "Lead the strongest army",
+    "Be their servant",
+    "Know the most scripture"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"Whoever wants to become great among you must be your servant, and whoever wants to be first must be slave of all.\""
+}

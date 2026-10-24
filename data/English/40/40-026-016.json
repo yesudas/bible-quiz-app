@@ -1,0 +1,34 @@
+{
+  "id": "40-026-016",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:33-34",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Jesus told Peter that before the rooster crowed, Peter would disown him how many times?",
+  "options": [
+    "Three",
+    "Two",
+    "Seven",
+    "Once"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:34 says, \"This very night, before the rooster crows, you will disown me three times.\""
+}

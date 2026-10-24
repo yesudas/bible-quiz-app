@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "The-church",
+    "label": "The church",
+    "count": 2,
+    "paths": [
+        "English/64/64-001-005.json",
+        "English/64/64-001-006.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

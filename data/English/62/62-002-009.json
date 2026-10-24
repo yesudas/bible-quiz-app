@@ -1,0 +1,32 @@
+{
+  "id": "62-002-009",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 2,
+  "verse_reference": "1 John 2:16",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which of these does John list as coming from the world, not from the Father?",
+  "options": [
+    "Love and joy",
+    "Faith and hope",
+    "Patience and kindness",
+    "The lust of the eyes and the pride of life"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Temptation",
+    "Sin"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John lists the lust of the flesh, the lust of the eyes, and the pride of life as coming from the world, not the Father."
+}

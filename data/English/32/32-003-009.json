@@ -1,0 +1,35 @@
+{
+  "id": "32-003-009",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 3,
+  "verse_reference": "Jonah 3:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the king's words: \"Who knows? God may yet relent and with compassion turn from his fierce anger so that we will not ____.\"",
+  "options": [
+    "suffer",
+    "perish",
+    "be scattered",
+    "be defeated"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Mercy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king hoped God might relent and turn from His anger \"so that we will not perish.\""
+}

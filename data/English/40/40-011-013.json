@@ -1,0 +1,36 @@
+{
+  "id": "40-011-013",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 11,
+  "verse_reference": "Matthew 11:23",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Jesus said which town would go down to Hades instead of being lifted to the heavens?",
+  "options": [
+    "Bethlehem",
+    "Nazareth",
+    "Capernaum",
+    "Jerusalem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 11:23 says, \"And you, Capernaum, will you be lifted to the heavens? No, you will go down to Hades.\""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "40-004-007",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 4,
+  "verse_reference": "Matthew 4:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' reply: \"Do not put the Lord your God to the ______.\"",
+  "options": [
+    "test",
+    "side",
+    "shame",
+    "sword"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Temptation",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus",
+    "Satan"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Matthew 4:7 Jesus answered, \"Do not put the Lord your God to the test.\""
+}

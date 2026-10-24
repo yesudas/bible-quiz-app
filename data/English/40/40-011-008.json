@@ -1,0 +1,36 @@
+{
+  "id": "40-011-008",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 11,
+  "verse_reference": "Matthew 11:16-17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Jesus compared his generation to children in the marketplaces. What did those children say?",
+  "options": [
+    "\"We gave you bread, and you did not eat\"",
+    "\"We called you, and you did not come\"",
+    "\"We built a house, and you did not live in it\"",
+    "\"We played the pipe for you, and you did not dance\""
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Repentance"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Marketplaces",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 11:16-17 says the children call out, \"We played the pipe for you, and you did not dance; we sang a dirge and you did not mourn.\""
+}

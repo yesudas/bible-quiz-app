@@ -1,0 +1,30 @@
+{
+  "id": "66-014-010",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 14,
+  "verse_reference": "Revelation 14:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Blessed are the dead who die in the ____ from now on.\"",
+  "options": [
+    "faith",
+    "Spirit",
+    "Lord",
+    "light"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A voice from heaven said, \"Blessed are the dead who die in the Lord from now on.\" The Spirit said they will rest from their labour, for their deeds will follow them."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "42-024-009",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 24,
+  "verse_reference": "Luke 24:13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "About how far was Emmaus from Jerusalem?",
+  "options": [
+    "Two miles",
+    "About seven miles",
+    "Twenty miles",
+    "A day's journey"
+  ],
+  "correct_option": 1,
+  "themes": [],
+  "characters": [],
+  "places": [
+    {
+      "name": "Emmaus",
+      "type": "village"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Luke says Emmaus was about seven miles from Jerusalem."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "26-039-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 39,
+  "verse_reference": "Ezekiel 39:6",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "On which land did God say He would send fire?",
+  "options": [
+    "Babylon",
+    "Edom",
+    "Egypt",
+    "Magog"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Magog",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'I will send fire on Magog and on those who live in safety in the coastlands.'"
+}

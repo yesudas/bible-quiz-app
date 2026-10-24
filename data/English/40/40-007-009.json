@@ -1,0 +1,33 @@
+{
+  "id": "40-007-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 7,
+  "verse_reference": "Matthew 7:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Jesus warned against false prophets who come in what kind of clothing?",
+  "options": [
+    "Royal robes",
+    "Sheep's clothing",
+    "Priests' garments",
+    "Camel's hair"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 7:15 says false prophets come in sheep's clothing, but inwardly they are ferocious wolves."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "42-022-004",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 22,
+  "verse_reference": "Luke 22:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Whom would Peter and John meet as they entered the city?",
+  "options": [
+    "A Roman soldier",
+    "A man carrying a jar of water",
+    "A priest with a lamb",
+    "A woman at a well"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [
+    "Simon Peter",
+    "John"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'As you enter the city, a man carrying a jar of water will meet you. Follow him to the house that he enters.'"
+}

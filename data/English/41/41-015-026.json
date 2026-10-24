@@ -1,0 +1,40 @@
+{
+  "id": "41-015-026",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 15,
+  "verse_reference": "Mark 15:42-43",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who went boldly to Pilate and asked for Jesus' body?",
+  "options": [
+    "Simon of Cyrene",
+    "Nicodemus",
+    "John",
+    "Joseph of Arimathea"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Joseph of Arimathea",
+    "Pontius Pilate",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Arimathea",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph of Arimathea, a prominent member of the Council, who was himself waiting for the kingdom of God, went boldly to Pilate and asked for Jesus' body."
+}

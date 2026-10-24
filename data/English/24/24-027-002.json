@@ -1,0 +1,57 @@
+{
+  "id": "24-027-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 27,
+  "verse_reference": "Jeremiah 27:3",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which of these was one of the kingdoms whose kings were to receive God's message through their envoys in Jerusalem?",
+  "options": [
+    "Egypt",
+    "Assyria",
+    "Moab",
+    "Philistia"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Zedekiah"
+  ],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    },
+    {
+      "name": "Moab",
+      "type": "country"
+    },
+    {
+      "name": "Ammon",
+      "type": "country"
+    },
+    {
+      "name": "Tyre",
+      "type": "city"
+    },
+    {
+      "name": "Sidon",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The message went to the kings of Edom, Moab, Ammon, Tyre and Sidon through the envoys who had come to Jerusalem to Zedekiah."
+}

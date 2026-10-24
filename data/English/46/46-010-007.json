@@ -1,0 +1,36 @@
+{
+  "id": "46-010-007",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 10,
+  "verse_reference": "1 Corinthians 10:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What sin did Paul say led to people being killed by the destroying angel?",
+  "options": [
+    "Stealing",
+    "Lying",
+    "Fighting",
+    "Grumbling"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Angels"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul warned the Corinthians not to grumble, as some Israelites did and were killed by the destroying angel."
+}

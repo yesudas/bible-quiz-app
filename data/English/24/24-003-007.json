@@ -1,0 +1,36 @@
+{
+  "id": "24-003-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 3,
+  "verse_reference": "Jeremiah 3:12-13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God ask faithless Israel to do so He would no longer frown on them?",
+  "options": [
+    "Build a new altar",
+    "Pay a large fine",
+    "Go to war against their enemies",
+    "Acknowledge their guilt and return"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Repentance",
+    "Forgiveness"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God called, \"Return, faithless Israel,\" and said, \"Only acknowledge your guilt,\" because He is faithful and will not be angry forever."
+}

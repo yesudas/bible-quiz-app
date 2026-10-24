@@ -1,0 +1,32 @@
+{
+  "id": "38-004-002",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 4,
+  "verse_reference": "Zechariah 4:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Zechariah see in this vision?",
+  "options": [
+    "A golden altar",
+    "A flying scroll",
+    "A golden crown",
+    "A solid gold lampstand"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Zechariah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zechariah saw a solid gold lampstand with a bowl at the top and seven lamps on it."
+}

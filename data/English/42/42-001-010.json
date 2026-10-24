@@ -1,0 +1,38 @@
+{
+  "id": "42-001-010",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:19",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "What was the name of the angel who spoke to Zechariah?",
+  "options": [
+    "Michael",
+    "Gabriel",
+    "Raphael",
+    "Uriel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels"
+  ],
+  "characters": [
+    "Gabriel",
+    "Zechariah"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel said, 'I am Gabriel. I stand in the presence of God.'"
+}

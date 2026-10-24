@@ -1,0 +1,35 @@
+{
+  "id": "28-006-005",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 6,
+  "verse_reference": "Hosea 6:4",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "God said the love of Ephraim and Judah was like what?",
+  "options": [
+    "A strong tower",
+    "A flowing river",
+    "The morning mist and early dew",
+    "A deep well"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'Your love is like the morning mist, like the early dew that disappears.' Their love did not last."
+}

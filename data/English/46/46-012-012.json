@@ -1,0 +1,32 @@
+{
+  "id": "46-012-012",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 12,
+  "verse_reference": "1 Corinthians 12:26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What happens to the body when one part suffers?",
+  "options": [
+    "Only that part feels it",
+    "The other parts get stronger",
+    "Nothing changes",
+    "Every part suffers with it"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Church",
+    "Suffering",
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "If one part suffers, every part suffers with it; if one part is honored, every part rejoices with it."
+}

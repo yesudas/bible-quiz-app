@@ -1,0 +1,37 @@
+{
+  "id": "44-023-002",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 23,
+  "verse_reference": "Acts 23:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which high priest ordered those near Paul to strike him on the mouth?",
+  "options": [
+    "Ananias",
+    "Caiaphas",
+    "Annas",
+    "Sceva"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Ananias the high priest",
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At this the high priest Ananias ordered those standing near Paul to strike him on the mouth."
+}

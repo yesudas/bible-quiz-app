@@ -1,0 +1,33 @@
+{
+  "id": "41-006-009",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 6,
+  "verse_reference": "Mark 6:14-16",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "When King Herod heard about Jesus, who did he think Jesus was?",
+  "options": [
+    "Elijah",
+    "Moses",
+    "Jeremiah",
+    "John, whom he had beheaded, raised from the dead"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Herod Antipas",
+    "John the Baptist",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Herod said, \"John, whom I beheaded, has been raised from the dead!\""
+}

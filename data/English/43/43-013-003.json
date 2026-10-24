@@ -1,0 +1,38 @@
+{
+  "id": "43-013-003",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 13,
+  "verse_reference": "John 13:4-5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jesus do for his disciples during the evening meal?",
+  "options": [
+    "He gave each one a gift",
+    "He anointed their heads with oil",
+    "He washed their feet",
+    "He gave each one a new name"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 13:4-5 says Jesus wrapped a towel around his waist, poured water into a basin and began to wash his disciples' feet."
+}

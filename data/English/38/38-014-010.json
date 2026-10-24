@@ -1,0 +1,35 @@
+{
+  "id": "38-014-010",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 14,
+  "verse_reference": "Zechariah 14:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What will happen to any people who do not go up to Jerusalem to worship the King?",
+  "options": [
+    "They will receive no rain",
+    "They will be given extra land",
+    "Nothing will happen to them",
+    "They will become priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "If any of the peoples do not go up to Jerusalem to worship the King, they will have no rain."
+}

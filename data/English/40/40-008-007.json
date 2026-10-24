@@ -1,0 +1,37 @@
+{
+  "id": "40-008-007",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 8,
+  "verse_reference": "Matthew 8:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say about the centurion's faith?",
+  "options": [
+    "His faith was too small",
+    "He had not found anyone in Israel with such great faith",
+    "His faith was like a mustard seed",
+    "He needed to believe more"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jesus",
+    "Centurion"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 8:10 says Jesus was amazed and said he had not found anyone in Israel with such great faith."
+}

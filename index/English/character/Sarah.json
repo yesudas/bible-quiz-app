@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Sarah",
     "label": "Sarah",
-    "count": 26,
+    "count": 30,
     "paths": [
         "English/01/01-011-005.json",
         "English/01/01-012-003.json",
@@ -30,7 +30,11 @@
         "English/01/01-023-002.json",
         "English/01/01-023-003.json",
         "English/01/01-023-009.json",
-        "English/23/23-051-001.json"
+        "English/23/23-051-001.json",
+        "English/45/45-004-013.json",
+        "English/45/45-009-005.json",
+        "English/58/58-011-011.json",
+        "English/60/60-003-003.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

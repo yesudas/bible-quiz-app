@@ -1,0 +1,35 @@
+{
+  "id": "43-009-015",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 9,
+  "verse_reference": "John 9:33-34",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened after the healed man said, \"If this man were not from God, he could do nothing\"?",
+  "options": [
+    "The Pharisees believed",
+    "He was made a priest",
+    "They threw him out",
+    "Jesus was arrested"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 9:34 says they replied, \"You were steeped in sin at birth; how dare you lecture us!\" And they threw him out."
+}

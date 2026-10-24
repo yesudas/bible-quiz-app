@@ -1,0 +1,34 @@
+{
+  "id": "64-001-001",
+  "language": "en",
+  "book_no": 64,
+  "book": "3 John",
+  "chapter": 1,
+  "verse_reference": "3 John 1:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "To whom did the elder write the letter of 3 John?",
+  "options": [
+    "Titus",
+    "Timothy",
+    "Gaius",
+    "Philemon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Church"
+  ],
+  "characters": [
+    "John",
+    "Gaius"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elder wrote to his dear friend Gaius, whom he loved in the truth."
+}

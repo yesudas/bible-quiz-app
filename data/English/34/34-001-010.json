@@ -1,0 +1,37 @@
+{
+  "id": "34-001-010",
+  "language": "en",
+  "book_no": 34,
+  "book": "Nahum",
+  "chapter": 1,
+  "verse_reference": "Nahum 1:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the LORD promise to break from Judah's neck?",
+  "options": [
+    "Their yoke",
+    "Their chains of gold",
+    "Their idols",
+    "Their armor"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised to break the yoke from their neck and tear their shackles away."
+}

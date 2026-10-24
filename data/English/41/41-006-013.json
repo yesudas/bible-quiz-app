@@ -1,0 +1,38 @@
+{
+  "id": "41-006-013",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 6,
+  "verse_reference": "Mark 6:24-25",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did the girl ask about what she should request from Herod?",
+  "options": [
+    "Her father",
+    "Her mother",
+    "John's disciples",
+    "The guests"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Sin"
+  ],
+  "characters": [
+    "Herodias"
+  ],
+  "places": [
+    {
+      "name": "Herod's palace",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "She went out and said to her mother, \"What shall I ask for?\" Her mother answered, \"The head of John the Baptist.\""
+}

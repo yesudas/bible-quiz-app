@@ -1,0 +1,34 @@
+{
+  "id": "41-013-009",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 13,
+  "verse_reference": "Mark 13:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: \"Everyone will hate you because of me, but the one who stands firm to the end will be ____.\"",
+  "options": [
+    "rewarded",
+    "honored",
+    "healed",
+    "saved"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Persecution",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"Everyone will hate you because of me, but the one who stands firm to the end will be saved.\""
+}

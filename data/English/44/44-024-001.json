@@ -1,0 +1,38 @@
+{
+  "id": "44-024-001",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 24,
+  "verse_reference": "Acts 24:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which lawyer came with the high priest Ananias to bring charges against Paul?",
+  "options": [
+    "Gallio",
+    "Lysias",
+    "Tertullus",
+    "Demetrius"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution",
+    "Justice"
+  ],
+  "characters": [
+    "Tertullus",
+    "Ananias the high priest"
+  ],
+  "places": [
+    {
+      "name": "Caesarea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Five days later the high priest Ananias went down to Caesarea with some elders and a lawyer named Tertullus."
+}

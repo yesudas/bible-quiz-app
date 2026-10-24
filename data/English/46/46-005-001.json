@@ -1,0 +1,38 @@
+{
+  "id": "46-005-001",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 5,
+  "verse_reference": "1 Corinthians 5:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Instead of being proud, how did Paul say the Corinthians should have responded to the sin in their church?",
+  "options": [
+    "By writing to Jerusalem",
+    "By going into mourning",
+    "By ignoring it",
+    "By choosing new leaders"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Repentance",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said they should have gone into mourning and put the man who did this out of their fellowship."
+}

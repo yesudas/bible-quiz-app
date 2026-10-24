@@ -1,0 +1,38 @@
+{
+  "id": "44-017-021",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 17,
+  "verse_reference": "Acts 17:34",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two people are named among those in Athens who believed?",
+  "options": [
+    "Jason and Lydia",
+    "Aquila and Priscilla",
+    "Dionysius and Damaris",
+    "Crispus and Sosthenes"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Salvation"
+  ],
+  "characters": [
+    "Dionysius",
+    "Damaris"
+  ],
+  "places": [
+    {
+      "name": "Athens",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some people believed, including Dionysius, a member of the Areopagus, and a woman named Damaris."
+}

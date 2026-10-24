@@ -1,0 +1,36 @@
+{
+  "id": "66-021-003",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 21,
+  "verse_reference": "Revelation 21:2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "The Holy City, the new Jerusalem, came down out of heaven prepared like what?",
+  "options": [
+    "A king on his throne",
+    "A shining star",
+    "A tent in the desert",
+    "A bride beautifully dressed for her husband"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Church"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "New Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband."
+}

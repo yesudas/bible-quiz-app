@@ -1,0 +1,39 @@
+{
+  "id": "28-007-006",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 7,
+  "verse_reference": "Hosea 7:11",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which two nations did Ephraim turn to, instead of the LORD?",
+  "options": [
+    "Moab and Edom",
+    "Egypt and Assyria",
+    "Babylon and Persia",
+    "Aram and Philistia"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said Ephraim was now calling to Egypt, now turning to Assyria."
+}

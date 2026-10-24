@@ -1,0 +1,33 @@
+{
+  "id": "58-013-010",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 13,
+  "verse_reference": "Hebrews 13:12",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 13:12, where did Jesus suffer to make the people holy through his own blood?",
+  "options": [
+    "Inside the temple",
+    "Outside the city gate",
+    "In the Most Holy Place",
+    "On Mount Sinai"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Salvation",
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 13:12 says Jesus also suffered outside the city gate to make the people holy through his own blood."
+}

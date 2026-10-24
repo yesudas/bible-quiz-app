@@ -1,0 +1,34 @@
+{
+  "id": "24-047-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 47,
+  "verse_reference": "Jeremiah 47:1",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "The message about the Philistines came before Pharaoh attacked which city?",
+  "options": [
+    "Gaza",
+    "Ashdod",
+    "Gath",
+    "Ekron"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gaza",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The word came to Jeremiah concerning the Philistines before Pharaoh attacked Gaza."
+}

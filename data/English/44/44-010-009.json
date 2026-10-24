@@ -1,0 +1,32 @@
+{
+  "id": "44-010-009",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 10,
+  "verse_reference": "Acts 10:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"Do not call anything impure that God has made ______.\"",
+  "options": [
+    "holy",
+    "clean",
+    "good",
+    "pure"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The voice said, 'Do not call anything impure that God has made clean.'"
+}

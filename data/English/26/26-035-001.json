@@ -1,0 +1,41 @@
+{
+  "id": "26-035-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 35,
+  "verse_reference": "Ezekiel 35:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Against which mountain did God tell Ezekiel to prophesy in Ezekiel 35?",
+  "options": [
+    "Mount Seir",
+    "Mount Sinai",
+    "Mount Carmel",
+    "Mount Zion"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Mount Seir",
+      "type": "mountain"
+    },
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Ezekiel to set his face against Mount Seir and prophesy against it."
+}

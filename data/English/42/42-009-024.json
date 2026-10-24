@@ -1,0 +1,32 @@
+{
+  "id": "42-009-024",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 9,
+  "verse_reference": "Luke 9:58",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'Foxes have dens and birds have nests, but the Son of Man has no place to lay his ____.'",
+  "options": [
+    "head",
+    "bed",
+    "tent",
+    "feet"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said the Son of Man has no place to lay his head."
+}

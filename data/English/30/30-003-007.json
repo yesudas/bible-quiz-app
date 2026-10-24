@@ -1,0 +1,36 @@
+{
+  "id": "30-003-007",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 3,
+  "verse_reference": "Amos 3:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the people of Samaria store up in their fortresses?",
+  "options": [
+    "Grain for the poor",
+    "Weapons for war",
+    "What they had plundered and looted",
+    "Offerings for the temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Money",
+    "Justice"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God says they do not know how to do right; they store up plunder and loot in their fortresses."
+}

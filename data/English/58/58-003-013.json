@@ -1,0 +1,36 @@
+{
+  "id": "58-003-013",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 3,
+  "verse_reference": "Hebrews 3:17",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 3:17, where did the bodies of those who sinned perish?",
+  "options": [
+    "In the wilderness",
+    "In the Red Sea",
+    "In Egypt",
+    "In Jericho"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 3:17 says God was angry with those who sinned, whose bodies perished in the wilderness."
+}

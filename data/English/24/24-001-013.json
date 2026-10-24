@@ -1,0 +1,36 @@
+{
+  "id": "24-001-013",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 1,
+  "verse_reference": "Jeremiah 1:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did God say He would judge His people?",
+  "options": [
+    "They refused to pay taxes",
+    "They worshiped other gods and forsook Him",
+    "They moved to Egypt",
+    "They killed the king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God would judge them because they forsook Him, burned incense to other gods and worshiped what their hands had made."
+}

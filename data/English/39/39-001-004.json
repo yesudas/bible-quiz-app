@@ -1,0 +1,42 @@
+{
+  "id": "39-001-004",
+  "language": "en",
+  "book_no": 39,
+  "book": "Malachi",
+  "chapter": 1,
+  "verse_reference": "Malachi 1:2-3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When Israel asked, \"How have you loved us?\", what did God point to as proof?",
+  "options": [
+    "The fall of Babylon",
+    "His choice of Jacob over Esau",
+    "The rebuilding of the temple",
+    "The gift of rain"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Covenant"
+  ],
+  "characters": [
+    "Jacob",
+    "Esau"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God answered by reminding them that He chose Jacob over his brother Esau, whose land He made a wasteland."
+}

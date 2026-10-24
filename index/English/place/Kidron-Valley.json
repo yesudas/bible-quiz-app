@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Kidron-Valley",
     "label": "Kidron Valley",
-    "count": 8,
+    "count": 13,
     "paths": [
         "English/10/10-015-010.json",
         "English/11/11-002-015.json",
@@ -12,7 +12,12 @@
         "English/14/14-015-011.json",
         "English/14/14-015-012.json",
         "English/14/14-029-007.json",
-        "English/14/14-030-009.json"
+        "English/14/14-030-009.json",
+        "English/43/43-018-001.json",
+        "English/43/43-018-002.json",
+        "English/43/43-018-003.json",
+        "English/43/43-018-004.json",
+        "English/43/43-018-005.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

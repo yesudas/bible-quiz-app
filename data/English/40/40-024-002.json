@@ -1,0 +1,37 @@
+{
+  "id": "40-024-002",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 24,
+  "verse_reference": "Matthew 24:3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where was Jesus sitting when the disciples asked him about the sign of his coming and the end of the age?",
+  "options": [
+    "On the Mount of Olives",
+    "In the temple courts",
+    "In a boat",
+    "At Bethany"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mount of Olives",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 24:3 says as Jesus was sitting on the Mount of Olives, the disciples came to him privately."
+}

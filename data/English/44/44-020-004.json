@@ -1,0 +1,42 @@
+{
+  "id": "44-020-004",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 20,
+  "verse_reference": "Acts 20:9",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which young man fell asleep and fell from a window while Paul talked?",
+  "options": [
+    "Tychicus",
+    "Eutychus",
+    "Timothy",
+    "Trophimus"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Eutychus",
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Troas",
+      "type": "city"
+    },
+    {
+      "name": "Upstairs room in Troas",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A young man named Eutychus, sitting in a window, sank into a deep sleep as Paul talked on and on."
+}

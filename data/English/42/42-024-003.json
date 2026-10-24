@@ -1,0 +1,37 @@
+{
+  "id": "42-024-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 24,
+  "verse_reference": "Luke 24:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How were the two men who stood beside the women dressed?",
+  "options": [
+    "In white wool",
+    "In priestly robes",
+    "In soldiers' armor",
+    "In clothes that gleamed like lightning"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Resurrection",
+    "Jesus",
+    "Angels"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Suddenly two men in clothes that gleamed like lightning stood beside them."
+}

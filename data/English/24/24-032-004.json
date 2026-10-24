@@ -1,0 +1,43 @@
+{
+  "id": "24-032-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 32,
+  "verse_reference": "Jeremiah 32:8",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "In which town was the field Jeremiah bought?",
+  "options": [
+    "Bethlehem",
+    "Shiloh",
+    "Ramah",
+    "Anathoth"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [
+    "Jeremiah",
+    "Hanamel"
+  ],
+  "places": [
+    {
+      "name": "Anathoth",
+      "type": "town"
+    },
+    {
+      "name": "Benjamin",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hanamel asked Jeremiah to buy his field at Anathoth in the territory of Benjamin."
+}

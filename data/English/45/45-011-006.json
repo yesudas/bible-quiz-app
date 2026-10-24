@@ -1,0 +1,32 @@
+{
+  "id": "45-011-006",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 11,
+  "verse_reference": "Romans 11:13",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Paul calls himself the apostle to whom?",
+  "options": [
+    "The priests",
+    "The Gentiles",
+    "The Pharisees",
+    "The Samaritans"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says that since he is the apostle to the Gentiles, he takes pride in his ministry."
+}

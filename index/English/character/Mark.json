@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Mark",
+    "label": "Mark",
+    "count": 3,
+    "paths": [
+        "English/51/51-004-007.json",
+        "English/55/55-004-009.json",
+        "English/60/60-005-010.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

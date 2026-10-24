@@ -1,0 +1,39 @@
+{
+  "id": "24-043-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 43,
+  "verse_reference": "Jeremiah 43:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Azariah, Johanan and the arrogant men respond to Jeremiah's message?",
+  "options": [
+    "\"You are lying! The LORD has not sent you\"",
+    "\"We will obey every word\"",
+    "\"Let us pray again\"",
+    "\"Lead us to Babylon\""
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Persecution"
+  ],
+  "characters": [
+    "Azariah",
+    "Johanan",
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Azariah son of Hoshaiah, Johanan son of Kareah and all the arrogant men said to Jeremiah, \"You are lying! The LORD our God has not sent you.\""
+}

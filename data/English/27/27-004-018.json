@@ -1,0 +1,33 @@
+{
+  "id": "27-004-018",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 4,
+  "verse_reference": "Daniel 4:37",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete: \"And those who walk in ______ he is able to humble.\"",
+  "options": [
+    "darkness",
+    "sin",
+    "pride",
+    "fear"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Pride",
+    "Worship"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king ended by praising the King of heaven, saying God is able to humble those who walk in pride."
+}

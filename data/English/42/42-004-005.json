@@ -1,0 +1,33 @@
+{
+  "id": "42-004-005",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 4,
+  "verse_reference": "Luke 4:5-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the devil offer Jesus if he would worship him?",
+  "options": [
+    "Authority and splendor over all the kingdoms of the world",
+    "A crown of gold",
+    "The temple in Jerusalem",
+    "Victory over Rome"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Temptation",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus",
+    "Satan"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The devil showed Jesus all the kingdoms of the world and offered him their authority and splendor if he would worship him."
+}

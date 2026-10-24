@@ -1,0 +1,37 @@
+{
+  "id": "40-028-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 28,
+  "verse_reference": "Matthew 28:12-13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What story did the chief priests pay the soldiers to tell?",
+  "options": [
+    "An angel took him away",
+    "He was never buried",
+    "The Romans moved his body",
+    "His disciples came during the night and stole him away while they were asleep"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jesus' tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 28:12-13 says they gave the soldiers a large sum of money, telling them, \"You are to say, 'His disciples came during the night and stole him away while we were asleep.'\""
+}

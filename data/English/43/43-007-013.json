@@ -1,0 +1,40 @@
+{
+  "id": "43-007-013",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 7,
+  "verse_reference": "John 7:40-41",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "After hearing Jesus, what did some people in the crowd say?",
+  "options": [
+    "He is the Messiah",
+    "He is a Samaritan",
+    "He is the son of Herod",
+    "He is an angel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 7:40-41 says some said, \"Surely this man is the Prophet,\" and others said, \"He is the Messiah.\""
+}

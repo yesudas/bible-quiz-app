@@ -1,0 +1,38 @@
+{
+  "id": "42-002-011",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 2,
+  "verse_reference": "Luke 2:16-18",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "What did the shepherds do after they saw baby Jesus?",
+  "options": [
+    "They went back to sleep",
+    "They spread the word about what they had been told",
+    "They took Jesus to the temple",
+    "They stayed in Bethlehem for a month"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Evangelism",
+    "Joy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After seeing him, the shepherds spread the word about the child, and all who heard it were amazed."
+}

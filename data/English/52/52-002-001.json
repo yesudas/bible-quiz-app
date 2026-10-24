@@ -1,0 +1,42 @@
+{
+  "id": "52-002-001",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 2,
+  "verse_reference": "1 Thessalonians 2:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Before coming to Thessalonica, in which city had Paul and his companions suffered and been treated outrageously?",
+  "options": [
+    "Corinth",
+    "Athens",
+    "Philippi",
+    "Ephesus"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Persecution",
+    "Evangelism"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Philippi",
+      "type": "city"
+    },
+    {
+      "name": "Thessalonica",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul reminded them that they had already suffered and been treated outrageously in Philippi, yet with God's help they dared to share the gospel."
+}

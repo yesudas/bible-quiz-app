@@ -1,0 +1,44 @@
+{
+  "id": "24-027-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 27,
+  "verse_reference": "Jeremiah 27:21-22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God say would happen to the articles left in the temple and the palace?",
+  "options": [
+    "They would be taken to Babylon and stay there until He came for them, then He would bring them back",
+    "They would stay in Jerusalem forever",
+    "They would be melted down",
+    "They would be given to Egypt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Promise",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said they would be taken to Babylon and remain there until the day He came for them; then He would bring them back and restore them to this place."
+}

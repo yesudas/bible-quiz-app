@@ -1,0 +1,34 @@
+{
+  "id": "24-051-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 51,
+  "verse_reference": "Jeremiah 51:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "God said Babylon had been a gold cup in His hand. What did it do?",
+  "options": [
+    "It made the whole earth drunk",
+    "It held the tears of Israel",
+    "It was used in the temple",
+    "It was given to Pharaoh"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Babylon was a gold cup in the LORD's hand; she made the whole earth drunk. The nations drank her wine; therefore they have now gone mad.\""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "47-003-008",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 3,
+  "verse_reference": "2 Corinthians 3:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Moses put over his face?",
+  "options": [
+    "A veil",
+    "A crown",
+    "A cloth of sackcloth",
+    "A helmet"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Covenant"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Moses put a veil over his face to prevent the Israelites from seeing the end of what was passing away."
+}

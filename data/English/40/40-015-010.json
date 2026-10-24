@@ -1,0 +1,40 @@
+{
+  "id": "40-015-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 15,
+  "verse_reference": "Matthew 15:21",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Jesus withdrew to the region of which two cities?",
+  "options": [
+    "Sodom and Gomorrah",
+    "Bethsaida and Chorazin",
+    "Jericho and Bethany",
+    "Tyre and Sidon"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    },
+    {
+      "name": "Sidon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 15:21 says Jesus withdrew to the region of Tyre and Sidon."
+}

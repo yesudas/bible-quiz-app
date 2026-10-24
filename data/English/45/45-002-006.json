@@ -1,0 +1,32 @@
+{
+  "id": "45-002-006",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 2,
+  "verse_reference": "Romans 2:7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "To those who keep doing good and seek glory, honor and immortality, what will God give?",
+  "options": [
+    "Earthly riches",
+    "Eternal life",
+    "A long life on earth",
+    "A place in the king's palace"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Hope"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says God will give eternal life to those who persist in doing good and seek glory, honor and immortality."
+}

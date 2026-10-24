@@ -1,0 +1,32 @@
+{
+  "id": "49-001-016",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 1,
+  "verse_reference": "Ephesians 1:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"I pray that the ______ of your heart may be enlightened.\"",
+  "options": [
+    "doors",
+    "eyes",
+    "walls",
+    "gates"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Hope"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul prayed that the eyes of their heart may be enlightened so they would know the hope of God's calling."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "43-009-007",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 9,
+  "verse_reference": "John 9:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does the name Siloam mean?",
+  "options": [
+    "Peace",
+    "Light",
+    "Sent",
+    "Living water"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Pool of Siloam",
+      "type": "pool"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 9:7 explains that Siloam means \"Sent.\""
+}

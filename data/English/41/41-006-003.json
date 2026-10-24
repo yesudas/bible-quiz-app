@@ -1,0 +1,37 @@
+{
+  "id": "41-006-003",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 6,
+  "verse_reference": "Mark 6:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: \"A prophet is not without honor except in his own town, among his relatives and in his own ____.\"",
+  "options": [
+    "home",
+    "country",
+    "temple",
+    "family"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Nazareth",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said a prophet is not without honor except in his own town, among his relatives and in his own home."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Joseph-s-tomb",
+    "label": "Joseph's tomb",
+    "count": 3,
+    "paths": [
+        "English/40/40-027-029.json",
+        "English/40/40-027-030.json",
+        "English/40/40-027-031.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

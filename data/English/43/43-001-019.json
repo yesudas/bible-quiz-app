@@ -1,0 +1,41 @@
+{
+  "id": "43-001-019",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 1,
+  "verse_reference": "John 1:43-45",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "In John 1, what is the correct order of these events?",
+  "options": [
+    "Philip finds Nathanael, Jesus finds Philip, Andrew finds Simon",
+    "Jesus finds Philip, Andrew finds Simon, Philip finds Nathanael",
+    "Andrew finds Simon, Philip finds Nathanael, Jesus finds Philip",
+    "Andrew finds Simon, Jesus finds Philip, Philip finds Nathanael"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Discipleship",
+    "Evangelism"
+  ],
+  "characters": [
+    "Andrew",
+    "Simon Peter",
+    "Jesus",
+    "Philip",
+    "Nathanael"
+  ],
+  "places": [
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Andrew first found Simon (1:41). The next day Jesus found Philip (1:43), and then Philip found Nathanael (1:45)."
+}

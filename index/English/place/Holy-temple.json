@@ -3,9 +3,11 @@
     "language": "English",
     "place": "Holy-temple",
     "label": "Holy temple",
-    "count": 1,
+    "count": 3,
     "paths": [
-        "English/19/19-138-001.json"
+        "English/19/19-138-001.json",
+        "English/32/32-002-004.json",
+        "English/35/35-002-012.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

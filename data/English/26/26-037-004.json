@@ -1,0 +1,38 @@
+{
+  "id": "26-037-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 37,
+  "verse_reference": "Ezekiel 37:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What sound did Ezekiel hear as he prophesied to the bones?",
+  "options": [
+    "A rattling sound",
+    "A trumpet blast",
+    "A roar of thunder",
+    "A song of praise"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Prophecy"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Valley of dry bones",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As Ezekiel was prophesying, there was a noise, a rattling sound, and the bones came together, bone to bone."
+}

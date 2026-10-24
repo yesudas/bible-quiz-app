@@ -1,0 +1,30 @@
+{
+  "id": "59-005-004",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 5,
+  "verse_reference": "James 5:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"Don't grumble against one another, brothers and sisters, or you will be judged. The Judge is standing at the ______!\"",
+  "options": [
+    "gate",
+    "throne",
+    "table",
+    "door"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Church",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James warns against grumbling because the Judge is standing at the door."
+}

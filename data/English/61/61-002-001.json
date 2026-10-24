@@ -1,0 +1,30 @@
+{
+  "id": "61-002-001",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 2,
+  "verse_reference": "2 Peter 2:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Peter warns that false teachers will secretly bring in what?",
+  "options": [
+    "Destructive heresies",
+    "New temples",
+    "Foreign kings",
+    "Strange foods"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter warns that false teachers will secretly introduce destructive heresies, even denying the Lord who bought them."
+}

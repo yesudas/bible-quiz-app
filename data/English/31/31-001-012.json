@@ -1,0 +1,34 @@
+{
+  "id": "31-001-012",
+  "language": "en",
+  "book_no": 31,
+  "book": "Obadiah",
+  "chapter": 1,
+  "verse_reference": "Obadiah 18",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "In Obadiah 18, the house of Jacob is a fire and the house of Joseph a flame. What is the house of Esau?",
+  "options": [
+    "Ashes",
+    "Water",
+    "Smoke",
+    "Stubble"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jacob",
+    "Joseph",
+    "Esau"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The house of Esau would be stubble that the fire would set on fire and destroy, leaving no survivors."
+}

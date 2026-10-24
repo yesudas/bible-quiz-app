@@ -1,0 +1,33 @@
+{
+  "id": "50-004-007",
+  "language": "en",
+  "book_no": 50,
+  "book": "Philippians",
+  "chapter": 4,
+  "verse_reference": "Philippians 4:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"I can do all this through him who gives me ______.\"",
+  "options": [
+    "hope",
+    "peace",
+    "strength",
+    "wisdom"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Jesus"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said he could do all this through Christ, who gives him strength."
+}

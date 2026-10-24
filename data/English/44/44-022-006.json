@@ -1,0 +1,36 @@
+{
+  "id": "44-022-006",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 22,
+  "verse_reference": "Acts 22:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Paul's companions experience on the road?",
+  "options": [
+    "They saw Jesus clearly",
+    "They saw the light but did not understand the voice",
+    "They heard every word",
+    "They saw nothing at all"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Damascus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said his companions saw the light, but they did not understand the voice of Him who was speaking."
+}

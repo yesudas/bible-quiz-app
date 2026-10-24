@@ -1,0 +1,33 @@
+{
+  "id": "40-009-008",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 9,
+  "verse_reference": "Matthew 9:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' answer: \"It is not the healthy who need a ______, but the sick.\"",
+  "options": [
+    "teacher",
+    "doctor",
+    "king",
+    "friend"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 9:12 says, \"It is not the healthy who need a doctor, but the sick.\""
+}

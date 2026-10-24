@@ -1,0 +1,31 @@
+{
+  "id": "45-014-010",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 14,
+  "verse_reference": "Romans 14:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"For the kingdom of God is not a matter of eating and drinking, but of righteousness, peace and ______ in the Holy Spirit.\"",
+  "options": [
+    "joy",
+    "power",
+    "rest",
+    "wisdom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingdom of God",
+    "Holy Spirit"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Romans 14:17 says the kingdom of God is about righteousness, peace and joy in the Holy Spirit, not eating and drinking."
+}

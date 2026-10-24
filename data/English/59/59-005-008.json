@@ -1,0 +1,30 @@
+{
+  "id": "59-005-008",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 5,
+  "verse_reference": "James 5:13",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What should a person who is happy do?",
+  "options": [
+    "Tell everyone",
+    "Give a gift",
+    "Rest",
+    "Sing songs of praise"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James says: Is anyone among you in trouble? Let them pray. Is anyone happy? Let them sing songs of praise."
+}

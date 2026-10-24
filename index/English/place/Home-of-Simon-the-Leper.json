@@ -1,0 +1,19 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Home-of-Simon-the-Leper",
+    "label": "Home of Simon the Leper",
+    "count": 9,
+    "paths": [
+        "English/40/40-026-004.json",
+        "English/40/40-026-005.json",
+        "English/40/40-026-006.json",
+        "English/40/40-026-007.json",
+        "English/41/41-014-002.json",
+        "English/41/41-014-003.json",
+        "English/41/41-014-004.json",
+        "English/41/41-014-005.json",
+        "English/41/41-014-006.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

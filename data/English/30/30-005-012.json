@@ -1,0 +1,30 @@
+{
+  "id": "30-005-012",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 5,
+  "verse_reference": "Amos 5:21",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"I hate, I despise your religious ____; your assemblies are a stench to me.\"",
+  "options": [
+    "festivals",
+    "prayers",
+    "songs",
+    "priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Amos 5:21 God says He hates and despises their religious festivals."
+}

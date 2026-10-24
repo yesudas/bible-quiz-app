@@ -1,0 +1,39 @@
+{
+  "id": "30-001-009",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 1,
+  "verse_reference": "Amos 1:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Damascus do to Gilead?",
+  "options": [
+    "Sold its people to Edom",
+    "Burned its cities with fire",
+    "Threshed it with sledges having iron teeth",
+    "Ripped open its pregnant women"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Damascus",
+      "type": "city"
+    },
+    {
+      "name": "Gilead",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 1:3 says Damascus threshed Gilead with sledges having iron teeth."
+}

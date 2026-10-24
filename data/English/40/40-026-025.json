@@ -1,0 +1,36 @@
+{
+  "id": "40-026-025",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:53",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Jesus said his Father would put at his disposal more than how many legions of angels?",
+  "options": [
+    "Seven",
+    "Three",
+    "Forty",
+    "Twelve"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Angels"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Gethsemane",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:53 says, \"Do you think I cannot call on my Father, and he will at once put at my disposal more than twelve legions of angels?\""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "42-017-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 17,
+  "verse_reference": "Luke 17:20-21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus tell the Pharisees about the coming of the kingdom of God?",
+  "options": [
+    "It is not something that can be observed; it is in your midst",
+    "It will come next year",
+    "It will come with a great army",
+    "It has already ended"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus",
+    "Pharisees"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said the coming of the kingdom of God is not something that can be observed, because the kingdom of God is in your midst."
+}

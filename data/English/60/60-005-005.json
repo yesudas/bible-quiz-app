@@ -1,0 +1,31 @@
+{
+  "id": "60-005-005",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 5,
+  "verse_reference": "1 Peter 5:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"God opposes the proud but shows favor to the ____.\"",
+  "options": [
+    "strong",
+    "wise",
+    "rich",
+    "humble"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Humility",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter quotes Scripture: God opposes the proud but shows favor to the humble."
+}

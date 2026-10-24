@@ -1,0 +1,32 @@
+{
+  "id": "45-007-005",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 7,
+  "verse_reference": "Romans 7:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which commandment does Paul say taught him what coveting really was?",
+  "options": [
+    "You shall not steal",
+    "You shall not murder",
+    "You shall not lie",
+    "You shall not covet"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says he would not have known what coveting really was if the law had not said, \"You shall not covet.\""
+}

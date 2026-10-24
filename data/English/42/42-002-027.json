@@ -1,0 +1,40 @@
+{
+  "id": "42-002-027",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 2,
+  "verse_reference": "Luke 2:51",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Jesus treat his parents after they returned to Nazareth?",
+  "options": [
+    "He left to live in the temple",
+    "He traveled alone",
+    "He was obedient to them",
+    "He became a priest"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience",
+    "Family"
+  ],
+  "characters": [
+    "Jesus",
+    "Mary",
+    "Joseph"
+  ],
+  "places": [
+    {
+      "name": "Nazareth",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus went down to Nazareth with them and was obedient to them."
+}

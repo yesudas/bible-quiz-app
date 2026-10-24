@@ -1,0 +1,32 @@
+{
+  "id": "56-001-005",
+  "language": "en",
+  "book_no": 56,
+  "book": "Titus",
+  "chapter": 1,
+  "verse_reference": "Titus 1:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Titus 1, which of these should an overseer NOT be?",
+  "options": [
+    "Hospitable",
+    "Quick-tempered",
+    "Self-controlled",
+    "Disciplined"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "An overseer must not be quick-tempered. Being hospitable, self-controlled and disciplined are good qualities he should have."
+}

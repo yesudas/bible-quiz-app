@@ -1,0 +1,40 @@
+{
+  "id": "30-001-006",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 1,
+  "verse_reference": "Amos 1:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"The LORD roars from ____ and thunders from Jerusalem.\"",
+  "options": [
+    "Sinai",
+    "Bethel",
+    "Zion",
+    "Carmel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "mountain"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 1:2 says the LORD roars from Zion and thunders from Jerusalem."
+}

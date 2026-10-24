@@ -1,0 +1,30 @@
+{
+  "id": "24-006-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 6,
+  "verse_reference": "Jeremiah 6:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "God appointed watchmen to say, \"Listen to the sound of the trumpet!\" How did the people respond?",
+  "options": [
+    "\"We will not listen.\"",
+    "\"We will run to the hills.\"",
+    "\"We will fight.\"",
+    "\"We will pray.\""
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God appointed watchmen, but the people said, \"We will not listen.\""
+}

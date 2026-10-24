@@ -1,0 +1,38 @@
+{
+  "id": "43-002-015",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 2,
+  "verse_reference": "John 2:20",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many years did the Jews say it had taken to build the temple?",
+  "options": [
+    "Twelve years",
+    "Seventy years",
+    "Forty-six years",
+    "Forty years"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 2:20, the Jews replied that it had taken forty-six years to build this temple."
+}

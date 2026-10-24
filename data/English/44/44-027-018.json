@@ -1,0 +1,33 @@
+{
+  "id": "44-027-018",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 27,
+  "verse_reference": "Acts 27:42-43",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the centurion stop the soldiers from killing the prisoners?",
+  "options": [
+    "He was afraid of Caesar",
+    "The prisoners begged him",
+    "He wanted to spare Paul's life",
+    "There was no time"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Protection",
+    "Promise"
+  ],
+  "characters": [
+    "Julius",
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The soldiers planned to kill the prisoners so none would escape, but the centurion wanted to spare Paul's life and kept them from it."
+}

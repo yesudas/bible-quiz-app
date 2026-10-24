@@ -1,0 +1,34 @@
+{
+  "id": "42-020-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 20,
+  "verse_reference": "Luke 20:25",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' answer: 'Then give back to Caesar what is Caesar's, and to ____ what is God's.'",
+  "options": [
+    "the temple",
+    "God",
+    "the priests",
+    "the poor"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus",
+    "Caesar"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Then give back to Caesar what is Caesar's, and to God what is God's.'"
+}

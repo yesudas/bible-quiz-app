@@ -1,0 +1,39 @@
+{
+  "id": "40-023-018",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 23,
+  "verse_reference": "Matthew 23:35",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Jesus spoke of righteous blood shed on earth, from the blood of righteous Abel to the blood of whom?",
+  "options": [
+    "John the Baptist",
+    "Isaiah son of Amoz",
+    "Uriah the Hittite",
+    "Zechariah son of Berekiah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus",
+    "Abel",
+    "Zechariah"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 23:35 says, \"from the blood of righteous Abel to the blood of Zechariah son of Berekiah, whom you murdered between the temple and the altar.\""
+}

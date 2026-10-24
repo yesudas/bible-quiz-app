@@ -1,0 +1,29 @@
+{
+  "id": "25-005-002",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 5,
+  "verse_reference": "Lamentations 5:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Lamentations 5:2, what happened to the people's inheritance and homes?",
+  "options": [
+    "They were turned over to strangers and foreigners",
+    "They were sold to Egypt",
+    "They were burned by fire",
+    "They were given to the priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Their inheritance was turned over to strangers, and their homes to foreigners."
+}

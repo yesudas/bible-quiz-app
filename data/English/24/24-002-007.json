@@ -1,0 +1,47 @@
+{
+  "id": "24-002-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 2,
+  "verse_reference": "Jeremiah 2:18",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "God asked why His people went to Egypt to drink water from the Nile. Which other nation did He mention, where they went to drink from the Euphrates?",
+  "options": [
+    "Babylon",
+    "Moab",
+    "Edom",
+    "Assyria"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    },
+    {
+      "name": "Nile",
+      "type": "river"
+    },
+    {
+      "name": "Euphrates",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God asked why they went to Egypt to drink from the Nile and to Assyria to drink from the Euphrates, instead of trusting Him."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "40-025-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:28",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "To whom did the master give the one bag of gold taken from the lazy servant?",
+  "options": [
+    "The one who had four bags",
+    "The poor",
+    "The one who had ten bags",
+    "The bankers"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:28 says, \"So take the bag of gold from him and give it to the one who has ten bags.\""
+}

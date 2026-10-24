@@ -1,0 +1,15 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Lazarus-tomb",
+    "label": "Lazarus' tomb",
+    "count": 5,
+    "paths": [
+        "English/43/43-011-008.json",
+        "English/43/43-011-012.json",
+        "English/43/43-011-013.json",
+        "English/43/43-011-014.json",
+        "English/43/43-011-015.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

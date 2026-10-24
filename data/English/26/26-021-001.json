@@ -1,0 +1,37 @@
+{
+  "id": "26-021-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 21,
+  "verse_reference": "Ezekiel 21:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Against which city did God tell Ezekiel to set his face at the start of Ezekiel 21?",
+  "options": [
+    "Babylon",
+    "Jerusalem",
+    "Samaria",
+    "Tyre"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Ezekiel to set his face against Jerusalem and preach against the sanctuary."
+}

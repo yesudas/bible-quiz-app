@@ -1,0 +1,38 @@
+{
+  "id": "43-006-012",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 6,
+  "verse_reference": "John 6:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete what Jesus said to the frightened disciples: \"It is I; don't be ___.\"",
+  "options": [
+    "afraid",
+    "troubled",
+    "doubtful",
+    "worried"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 6:20, Jesus said to them, \"It is I; don't be afraid.\""
+}

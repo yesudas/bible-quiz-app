@@ -1,0 +1,32 @@
+{
+  "id": "42-014-005",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 14,
+  "verse_reference": "Luke 14:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'For all those who exalt themselves will be humbled, and those who humble themselves will be ____.'",
+  "options": [
+    "forgiven",
+    "exalted",
+    "blessed",
+    "rewarded"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Humility"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'All those who exalt themselves will be humbled, and those who humble themselves will be exalted.'"
+}

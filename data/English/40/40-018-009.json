@@ -1,0 +1,39 @@
+{
+  "id": "40-018-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 18,
+  "verse_reference": "Matthew 18:12",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Jesus' parable, how many sheep does the man leave on the hills to look for the one that wandered off?",
+  "options": [
+    "Forty",
+    "Ten",
+    "Twelve",
+    "Ninety-nine"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Love",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Hills",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 18:12 says if a man owns a hundred sheep and one wanders away, he will leave the ninety-nine on the hills and go to look for the one."
+}

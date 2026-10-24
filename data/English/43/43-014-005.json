@@ -1,0 +1,33 @@
+{
+  "id": "43-014-005",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 14,
+  "verse_reference": "John 14:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' words: \"I am the way and the truth and the ___. No one comes to the Father except through me.\"",
+  "options": [
+    "life",
+    "light",
+    "door",
+    "shepherd"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 14:6, Jesus answered, \"I am the way and the truth and the life. No one comes to the Father except through me.\""
+}

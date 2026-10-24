@@ -1,0 +1,30 @@
+{
+  "id": "59-002-008",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 2,
+  "verse_reference": "James 2:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Who does James say believe that there is one God and shudder?",
+  "options": [
+    "The Pharisees",
+    "The Gentiles",
+    "The angels",
+    "The demons"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Satan"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James says even the demons believe there is one God and shudder, showing that belief alone is not enough."
+}

@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Susa",
     "label": "Susa",
-    "count": 21,
+    "count": 22,
     "paths": [
         "English/16/16-001-002.json",
         "English/16/16-001-006.json",
@@ -25,7 +25,8 @@
         "English/17/17-008-010.json",
         "English/17/17-009-005.json",
         "English/17/17-009-006.json",
-        "English/17/17-009-007.json"
+        "English/17/17-009-007.json",
+        "English/27/27-008-002.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

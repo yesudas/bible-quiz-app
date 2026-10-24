@@ -1,0 +1,38 @@
+{
+  "id": "24-025-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 25,
+  "verse_reference": "Jeremiah 25:18",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which place was named first among those that had to drink the cup of God's wrath?",
+  "options": [
+    "Egypt",
+    "Babylon",
+    "Edom",
+    "Jerusalem and the towns of Judah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The list begins with Jerusalem and the towns of Judah, its kings and officials, to make them a ruin."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "45-002-014",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 2,
+  "verse_reference": "Romans 2:29",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"Circumcision is circumcision of the ______, by the Spirit, not by the written code.\"",
+  "options": [
+    "mind",
+    "heart",
+    "body",
+    "tongue"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Covenant"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says true circumcision is of the heart, by the Spirit, not by the written code."
+}

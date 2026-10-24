@@ -1,0 +1,36 @@
+{
+  "id": "42-010-006",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:15",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "To which town did Jesus say, 'Will you be lifted to the heavens? No, you will go down to Hades'?",
+  "options": [
+    "Nazareth",
+    "Jerusalem",
+    "Capernaum",
+    "Bethany"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus warned Capernaum that it would not be lifted to the heavens but would go down to Hades."
+}

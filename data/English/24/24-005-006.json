@@ -1,0 +1,35 @@
+{
+  "id": "24-005-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 5,
+  "verse_reference": "Jeremiah 5:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did God describe the nation He would bring against Israel?",
+  "options": [
+    "A nation from across the sea with ships",
+    "A small nation that would be easily defeated",
+    "A distant, ancient nation whose language they did not know",
+    "A nation of giants from the south"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He was bringing a distant nation, enduring and ancient, whose language they did not know."
+}

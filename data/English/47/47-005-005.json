@@ -1,0 +1,34 @@
+{
+  "id": "47-005-005",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 5,
+  "verse_reference": "2 Corinthians 5:10",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Before what must we all appear, according to Paul?",
+  "options": [
+    "The judgment seat of Christ",
+    "The council in Jerusalem",
+    "The court of Caesar",
+    "The altar of the temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Judgment"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that we must all appear before the judgment seat of Christ, to receive what is due for what we have done in the body."
+}

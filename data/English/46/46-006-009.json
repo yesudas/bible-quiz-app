@@ -1,0 +1,30 @@
+{
+  "id": "46-006-009",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 6,
+  "verse_reference": "1 Corinthians 6:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Paul command believers to flee from?",
+  "options": [
+    "Sexual immorality",
+    "Rich people",
+    "The city of Corinth",
+    "Hard work"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Temptation",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said, \"Flee from sexual immorality,\" because it is a sin against one's own body."
+}

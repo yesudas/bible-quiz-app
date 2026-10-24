@@ -1,0 +1,34 @@
+{
+  "id": "46-015-001",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 15,
+  "verse_reference": "1 Corinthians 15:3-4",
+  "question_type": "WHEN",
+  "difficulty": "Easy",
+  "question": "On which day was Christ raised, according to the Scriptures?",
+  "options": [
+    "The first day",
+    "The third day",
+    "The seventh day",
+    "The fortieth day"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Salvation",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that Christ died for our sins, was buried, and was raised on the third day according to the Scriptures."
+}

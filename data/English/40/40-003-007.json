@@ -1,0 +1,32 @@
+{
+  "id": "40-003-007",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 3,
+  "verse_reference": "Matthew 3:7",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "John called a group \"You brood of vipers!\" Which two groups had come to where he was baptizing?",
+  "options": [
+    "Priests and Levites",
+    "Pharisees and Sadducees",
+    "Romans and Greeks",
+    "Scribes and shepherds"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Sin"
+  ],
+  "characters": [
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 3:7 says John spoke this way when he saw many Pharisees and Sadducees coming."
+}

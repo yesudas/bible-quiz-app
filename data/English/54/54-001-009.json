@@ -1,0 +1,35 @@
+{
+  "id": "54-001-009",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 1,
+  "verse_reference": "1 Timothy 1:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Christ Jesus came into the world to save ____—of whom I am the worst.\"",
+  "options": [
+    "sinners",
+    "the righteous",
+    "kings",
+    "the Jews"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Salvation",
+    "Sin"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said Christ Jesus came into the world to save sinners, and he saw himself as the worst of them."
+}

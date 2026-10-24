@@ -1,0 +1,20 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Cana",
+    "label": "Cana",
+    "count": 10,
+    "paths": [
+        "English/43/43-002-001.json",
+        "English/43/43-002-002.json",
+        "English/43/43-002-003.json",
+        "English/43/43-002-004.json",
+        "English/43/43-002-005.json",
+        "English/43/43-002-006.json",
+        "English/43/43-002-007.json",
+        "English/43/43-002-008.json",
+        "English/43/43-004-015.json",
+        "English/43/43-004-016.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

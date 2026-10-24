@@ -1,0 +1,32 @@
+{
+  "id": "52-004-001",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 4,
+  "verse_reference": "1 Thessalonians 4:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"It is God's will that you should be ____: that you should avoid sexual immorality.\"",
+  "options": [
+    "sanctified",
+    "rich",
+    "famous",
+    "strong"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holiness",
+    "Sin"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul taught that God's will is for believers to be sanctified, which includes avoiding sexual immorality."
+}

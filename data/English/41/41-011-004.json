@@ -1,0 +1,38 @@
+{
+  "id": "41-011-004",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 11,
+  "verse_reference": "Mark 11:7-8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did many people spread on the road as Jesus rode toward Jerusalem?",
+  "options": [
+    "Flowers and gold coins",
+    "Their cloaks and branches from the fields",
+    "Carpets and silk",
+    "Sand and stones"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Many people spread their cloaks on the road, while others spread branches they had cut in the fields."
+}

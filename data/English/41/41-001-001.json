@@ -1,0 +1,38 @@
+{
+  "id": "41-001-001",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 1,
+  "verse_reference": "Mark 1:2-4",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which prophet's words does Mark quote about a messenger who would prepare the way?",
+  "options": [
+    "Jeremiah",
+    "Isaiah",
+    "Ezekiel",
+    "Daniel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "John the Baptist",
+    "Isaiah"
+  ],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mark quotes Isaiah the prophet, whose words were fulfilled when John the Baptist appeared in the wilderness preparing the way for the Lord."
+}

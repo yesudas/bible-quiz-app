@@ -1,0 +1,33 @@
+{
+  "id": "42-005-018",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:25",
+  "question_type": "SEQUENCE",
+  "difficulty": "Easy",
+  "question": "What did the healed man do right after he stood up?",
+  "options": [
+    "He thanked his friends at the door",
+    "He took his mat and went home praising God",
+    "He ran to the temple",
+    "He asked to follow Jesus"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Immediately he stood up, took what he had been lying on and went home praising God."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "47-001-007",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 1,
+  "verse_reference": "2 Corinthians 1:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Paul say the Corinthians could help him and his companions?",
+  "options": [
+    "By sending them money",
+    "By helping them through their prayers",
+    "By visiting them in prison",
+    "By writing letters to the rulers"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said the Corinthians helped them by their prayers, so that many would give thanks for God's gracious favor."
+}

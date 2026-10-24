@@ -1,0 +1,31 @@
+{
+  "id": "25-003-003",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 3,
+  "verse_reference": "Lamentations 3:22-23",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"His compassions never fail. They are new every ____.\"",
+  "options": [
+    "day",
+    "year",
+    "morning",
+    "season"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Lamentations 3:22-23 says the LORD's compassions never fail and are new every morning."
+}

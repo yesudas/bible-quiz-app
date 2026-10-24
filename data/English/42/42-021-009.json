@@ -1,0 +1,32 @@
+{
+  "id": "42-021-009",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 21,
+  "verse_reference": "Luke 21:16",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who did Jesus say would betray his followers?",
+  "options": [
+    "Only the Romans",
+    "Even parents, brothers and sisters, relatives and friends",
+    "Only the priests",
+    "Only strangers"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution",
+    "Family"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'You will be betrayed even by parents, brothers and sisters, relatives and friends.'"
+}

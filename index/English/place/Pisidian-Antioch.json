@@ -1,0 +1,16 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Pisidian-Antioch",
+    "label": "Pisidian Antioch",
+    "count": 6,
+    "paths": [
+        "English/44/44-013-013.json",
+        "English/44/44-013-017.json",
+        "English/44/44-013-018.json",
+        "English/44/44-013-019.json",
+        "English/44/44-013-021.json",
+        "English/44/44-013-022.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

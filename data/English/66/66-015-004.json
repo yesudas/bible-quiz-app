@@ -1,0 +1,39 @@
+{
+  "id": "66-015-004",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 15,
+  "verse_reference": "Revelation 15:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "The victorious sang the song of the Lamb and the song of which servant of God?",
+  "options": [
+    "Moses",
+    "David",
+    "Elijah",
+    "Abraham"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Jesus"
+  ],
+  "characters": [
+    "Moses",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They sang the song of God's servant Moses and of the Lamb."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "61-001-006",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 1,
+  "verse_reference": "2 Peter 1:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Peter's list, what should be added to knowledge?",
+  "options": [
+    "Love",
+    "Self-control",
+    "Faith",
+    "Goodness"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter says to add self-control to knowledge, and perseverance to self-control."
+}

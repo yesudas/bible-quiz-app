@@ -1,0 +1,39 @@
+{
+  "id": "26-016-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 16,
+  "verse_reference": "Ezekiel 16:3",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "In God's picture of Jerusalem's beginnings, who were her father and mother?",
+  "options": [
+    "An Amorite and a Hittite",
+    "An Egyptian and a Moabite",
+    "A Canaanite and a Philistine",
+    "An Edomite and an Ammonite"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Canaan",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said to Jerusalem, 'Your ancestry and birth were in the land of the Canaanites; your father was an Amorite and your mother a Hittite.'"
+}

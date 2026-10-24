@@ -1,0 +1,37 @@
+{
+  "id": "66-011-008",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 11,
+  "verse_reference": "Revelation 11:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "The great city where the witnesses' bodies lay is figuratively called by which two names?",
+  "options": [
+    "Sodom and Egypt",
+    "Babylon and Nineveh",
+    "Tyre and Sidon",
+    "Rome and Athens"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Great city",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Their bodies lay in the public square of the great city, which is figuratively called Sodom and Egypt, where also their Lord was crucified."
+}

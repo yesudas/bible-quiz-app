@@ -1,0 +1,35 @@
+{
+  "id": "34-003-008",
+  "language": "en",
+  "book_no": 34,
+  "book": "Nahum",
+  "chapter": 3,
+  "verse_reference": "Nahum 3:18",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Nahum 3:18, whose shepherds were slumbering?",
+  "options": [
+    "The king of Egypt",
+    "The king of Assyria",
+    "The king of Judah",
+    "The king of Babylon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nahum 3:18 says, \"King of Assyria, your shepherds slumber; your nobles lie down to rest.\""
+}

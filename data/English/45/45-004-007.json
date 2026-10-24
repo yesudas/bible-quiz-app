@@ -1,0 +1,32 @@
+{
+  "id": "45-004-007",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 4,
+  "verse_reference": "Romans 4:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Romans 4:11, what was Abraham's circumcision?",
+  "options": [
+    "The way he earned righteousness",
+    "A seal of the righteousness he had by faith",
+    "A punishment for his sin",
+    "A sign that he was a priest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Faith"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says Abraham received circumcision as a sign, a seal of the righteousness he already had by faith."
+}

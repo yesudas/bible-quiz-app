@@ -1,0 +1,36 @@
+{
+  "id": "38-002-004",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 2,
+  "verse_reference": "Zechariah 2:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"'And I myself will be a wall of _____ around it,' declares the Lord.\"",
+  "options": [
+    "stone",
+    "fire",
+    "water",
+    "light"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Protection"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised that He Himself would be a wall of fire around Jerusalem and its glory within."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "61-001-012",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 1,
+  "verse_reference": "2 Peter 1:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "God's voice said: 'This is my Son, whom I love; with him I am well ____.'",
+  "options": [
+    "known",
+    "glorified",
+    "honored",
+    "pleased"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus",
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter heard the voice from the Majestic Glory say these words about Jesus."
+}

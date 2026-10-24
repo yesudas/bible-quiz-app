@@ -1,0 +1,42 @@
+{
+  "id": "24-043-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 43,
+  "verse_reference": "Jeremiah 43:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the buried stones show would happen?",
+  "options": [
+    "Nebuchadnezzar would set his throne over them and spread his royal canopy",
+    "A new temple would be built there",
+    "Pharaoh would become king of Judah",
+    "The people would return home"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Nebuchadnezzar",
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Tahpanhes",
+      "type": "city"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would send for Nebuchadnezzar, \"and I will set his throne over these stones I have buried here; he will spread his royal canopy above them.\""
+}

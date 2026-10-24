@@ -1,0 +1,37 @@
+{
+  "id": "40-027-019",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 27,
+  "verse_reference": "Matthew 27:37",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the written charge placed above Jesus' head: \"THIS IS JESUS, THE ______ OF THE JEWS.\"",
+  "options": [
+    "PROPHET",
+    "SAVIOR",
+    "KING",
+    "TEACHER"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Golgotha",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 27:37 says above his head they placed the written charge against him: THIS IS JESUS, THE KING OF THE JEWS."
+}

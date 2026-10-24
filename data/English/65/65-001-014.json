@@ -1,0 +1,31 @@
+{
+  "id": "65-001-014",
+  "language": "en",
+  "book_no": 65,
+  "book": "Jude",
+  "chapter": 1,
+  "verse_reference": "Jude 1:22-23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Jude, how should believers treat those who doubt?",
+  "options": [
+    "Ignore them",
+    "Be merciful to them",
+    "Send them away",
+    "Correct them harshly"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jude says to be merciful to those who doubt and to save others by snatching them from the fire."
+}

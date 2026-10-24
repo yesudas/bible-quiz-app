@@ -1,0 +1,44 @@
+{
+  "id": "27-008-002",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 8,
+  "verse_reference": "Daniel 8:2",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where was Daniel in his vision?",
+  "options": [
+    "In Jerusalem by the temple",
+    "By the Jordan River",
+    "In the citadel of Susa, beside the Ulai Canal",
+    "On the plain of Dura"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [
+    {
+      "name": "Susa",
+      "type": "city"
+    },
+    {
+      "name": "Elam",
+      "type": "region"
+    },
+    {
+      "name": "Ulai Canal",
+      "type": "canal"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In his vision Daniel was in the citadel of Susa in the province of Elam, beside the Ulai Canal."
+}

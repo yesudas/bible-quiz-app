@@ -1,0 +1,31 @@
+{
+  "id": "60-003-007",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 3,
+  "verse_reference": "1 Peter 3:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Always be prepared to give an answer to everyone who asks you to give the reason for the ____ that you have.\"",
+  "options": [
+    "faith",
+    "joy",
+    "hope",
+    "love"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Evangelism"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Believers should always be ready to explain the reason for their hope, with gentleness and respect."
+}

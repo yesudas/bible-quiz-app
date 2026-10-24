@@ -1,0 +1,36 @@
+{
+  "id": "24-039-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 39,
+  "verse_reference": "Jeremiah 39:2",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "In which year of Zedekiah's reign was the city wall broken through?",
+  "options": [
+    "The eleventh year",
+    "The ninth year",
+    "The tenth year",
+    "The twelfth year"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Zedekiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On the ninth day of the fourth month of Zedekiah's eleventh year, the city wall was broken through."
+}

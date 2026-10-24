@@ -1,0 +1,43 @@
+{
+  "id": "24-026-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 26,
+  "verse_reference": "Jeremiah 26:20-21",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which other prophet prophesied like Jeremiah, then fled to Egypt when King Jehoiakim sought to kill him?",
+  "options": [
+    "Hananiah",
+    "Uriah son of Shemaiah",
+    "Zephaniah",
+    "Baruch"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution",
+    "Prophecy"
+  ],
+  "characters": [
+    "Uriah",
+    "Shemaiah",
+    "Jehoiakim"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Kiriath Jearim",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Uriah son of Shemaiah from Kiriath Jearim prophesied the same things, and when Jehoiakim sought to kill him, he fled to Egypt."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "40-021-013",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 21,
+  "verse_reference": "Matthew 21:22",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"If you believe, you will receive whatever you ask for in ______.\"",
+  "options": [
+    "faith",
+    "heaven",
+    "prayer",
+    "time"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 21:22 says, \"If you believe, you will receive whatever you ask for in prayer.\""
+}

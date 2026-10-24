@@ -1,0 +1,33 @@
+{
+  "id": "40-019-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 19,
+  "verse_reference": "Matthew 19:26",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete: \"With man this is impossible, but with God all things are ______.\"",
+  "options": [
+    "possible",
+    "good",
+    "known",
+    "new"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 19:26 says, \"With man this is impossible, but with God all things are possible.\""
+}

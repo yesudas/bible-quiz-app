@@ -1,0 +1,34 @@
+{
+  "id": "43-001-023",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 1,
+  "verse_reference": "John 1:51",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Jesus tell Nathanael he would see?",
+  "options": [
+    "Fire coming down from heaven",
+    "Heaven open and angels going up and down on the Son of Man",
+    "Moses and Elijah on a mountain",
+    "The temple torn down"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels",
+    "Jesus",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus",
+    "Nathanael"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 1:51, Jesus said they would see heaven open and the angels of God ascending and descending on the Son of Man."
+}

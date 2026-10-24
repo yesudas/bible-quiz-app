@@ -1,0 +1,39 @@
+{
+  "id": "40-014-002",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 14,
+  "verse_reference": "Matthew 14:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Herod had arrested John the Baptist because of whom?",
+  "options": [
+    "His own mother",
+    "A Roman governor",
+    "Herodias, his brother Philip's wife",
+    "The chief priests"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Marriage"
+  ],
+  "characters": [
+    "Herod",
+    "Herodias",
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Prison",
+      "type": "prison"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 14:3 says Herod had arrested John because of Herodias, his brother Philip's wife."
+}

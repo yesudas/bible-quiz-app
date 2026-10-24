@@ -1,0 +1,40 @@
+{
+  "id": "43-007-002",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 7,
+  "verse_reference": "John 7:2",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "Which Jewish festival was near in John 7?",
+  "options": [
+    "Passover",
+    "Pentecost",
+    "Festival of Tabernacles",
+    "Festival of Dedication"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 7:2 says the Jewish Festival of Tabernacles was near."
+}

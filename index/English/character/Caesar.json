@@ -1,0 +1,17 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Caesar",
+    "label": "Caesar",
+    "count": 7,
+    "paths": [
+        "English/40/40-022-011.json",
+        "English/40/40-022-012.json",
+        "English/41/41-012-009.json",
+        "English/41/41-012-010.json",
+        "English/42/42-020-010.json",
+        "English/42/42-020-012.json",
+        "English/42/42-020-013.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

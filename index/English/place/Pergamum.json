@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Pergamum",
+    "label": "Pergamum",
+    "count": 4,
+    "paths": [
+        "English/66/66-002-010.json",
+        "English/66/66-002-011.json",
+        "English/66/66-002-012.json",
+        "English/66/66-002-013.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

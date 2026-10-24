@@ -1,0 +1,32 @@
+{
+  "id": "42-018-004",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 18,
+  "verse_reference": "Luke 18:4-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the judge finally decide to help the widow?",
+  "options": [
+    "Because she kept bothering him",
+    "Because God told him",
+    "Because she paid him",
+    "Because the king ordered it"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The judge said, 'Because this widow keeps bothering me, I will see that she gets justice, so that she won't eventually come and attack me!'"
+}

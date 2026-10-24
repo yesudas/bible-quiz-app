@@ -1,0 +1,37 @@
+{
+  "id": "27-001-001",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 1,
+  "verse_reference": "Daniel 1:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which king of Babylon came to Jerusalem and besieged it?",
+  "options": [
+    "Cyrus",
+    "Darius",
+    "Nebuchadnezzar",
+    "Belshazzar"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daniel 1:1 says Nebuchadnezzar king of Babylon came to Jerusalem and besieged it."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "43-019-002",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 19,
+  "verse_reference": "John 19:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the soldiers put on Jesus as they mocked him?",
+  "options": [
+    "A white robe",
+    "A purple robe",
+    "A linen cloth",
+    "A soldier's cloak"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Palace of the Roman governor",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 19:2-3 says they clothed him in a purple robe and went up to him saying, \"Hail, king of the Jews!\""
+}

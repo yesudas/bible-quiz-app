@@ -1,0 +1,43 @@
+{
+  "id": "26-035-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 35,
+  "verse_reference": "Ezekiel 35:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did God say Mount Seir and all Edom would become desolate?",
+  "options": [
+    "Because they rejoiced when Israel's inheritance became desolate",
+    "Because they had no rain",
+    "Because they moved to Egypt",
+    "Because their king died"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mount Seir",
+      "type": "mountain"
+    },
+    {
+      "name": "Edom",
+      "type": "country"
+    },
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'Because you rejoiced when the inheritance of Israel became desolate, that is how I will treat you.'"
+}

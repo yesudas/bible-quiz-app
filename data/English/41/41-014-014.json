@@ -1,0 +1,37 @@
+{
+  "id": "41-014-014",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 14,
+  "verse_reference": "Mark 14:27-28",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "After he had risen, where did Jesus say he would go ahead of the disciples?",
+  "options": [
+    "To Bethany",
+    "To Emmaus",
+    "To Rome",
+    "Into Galilee"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"You will all fall away... But after I have risen, I will go ahead of you into Galilee.\""
+}

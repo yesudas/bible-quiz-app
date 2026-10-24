@@ -1,0 +1,36 @@
+{
+  "id": "44-024-002",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 24,
+  "verse_reference": "Acts 24:1",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How many days after Paul was sent to Caesarea did Ananias come down?",
+  "options": [
+    "Three days",
+    "Seven days",
+    "Twelve days",
+    "Five days"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Justice"
+  ],
+  "characters": [
+    "Ananias the high priest"
+  ],
+  "places": [
+    {
+      "name": "Caesarea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Five days later the high priest Ananias went down to Caesarea."
+}

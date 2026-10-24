@@ -1,0 +1,35 @@
+{
+  "id": "36-001-006",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 1,
+  "verse_reference": "Zephaniah 1:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Where did some people bow down to worship the starry host?",
+  "options": [
+    "On the roofs",
+    "In the temple courts",
+    "Under green trees",
+    "At the city gate"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God condemned those who bowed down on the roofs to worship the starry host."
+}

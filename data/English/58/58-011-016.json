@@ -1,0 +1,37 @@
+{
+  "id": "58-011-016",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 11,
+  "verse_reference": "Hebrews 11:22",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Hebrews 11:22, what instructions did Joseph give at the end of his life?",
+  "options": [
+    "Instructions about building the temple",
+    "Instructions about choosing a king",
+    "Instructions about the Passover meal",
+    "Instructions concerning the burial of his bones"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 11:22 says by faith Joseph, when his end was near, spoke about the exodus of the Israelites from Egypt and gave instructions concerning the burial of his bones."
+}

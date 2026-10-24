@@ -1,0 +1,30 @@
+{
+  "id": "45-016-006",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 16,
+  "verse_reference": "Romans 16:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How does Paul tell the believers to greet one another?",
+  "options": [
+    "With a bow",
+    "With a song",
+    "With a gift",
+    "With a holy kiss"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Church",
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says, \"Greet one another with a holy kiss.\""
+}

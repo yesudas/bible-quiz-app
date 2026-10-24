@@ -1,0 +1,37 @@
+{
+  "id": "66-019-009",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 19,
+  "verse_reference": "Revelation 19:13",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "According to Revelation 19:13, what is the name of the rider on the white horse?",
+  "options": [
+    "The Lion of Judah",
+    "The Word of God",
+    "The Son of David",
+    "The Bright Morning Star"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He is dressed in a robe dipped in blood, and his name is the Word of God."
+}

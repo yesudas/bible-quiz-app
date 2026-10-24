@@ -1,0 +1,31 @@
+{
+  "id": "45-012-010",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 12,
+  "verse_reference": "Romans 12:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Rejoice with those who rejoice; ______ with those who mourn.\"",
+  "options": [
+    "pray",
+    "mourn",
+    "sit",
+    "eat"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul tells believers to share in others' joy and sorrow: rejoice with those who rejoice; mourn with those who mourn."
+}

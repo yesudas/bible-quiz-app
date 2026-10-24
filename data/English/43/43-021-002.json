@@ -1,0 +1,41 @@
+{
+  "id": "43-021-002",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 21,
+  "verse_reference": "John 21:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Simon Peter say he was going to do?",
+  "options": [
+    "Go fishing",
+    "Go to Jerusalem",
+    "Go home to Bethsaida",
+    "Go to the tomb"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "sea"
+    },
+    {
+      "name": "Sea of Tiberias",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 21:3, Simon Peter told them, \"I'm going out to fish,\" and the others went with him."
+}

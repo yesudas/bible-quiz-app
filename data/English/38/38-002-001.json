@@ -1,0 +1,32 @@
+{
+  "id": "38-002-001",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 2,
+  "verse_reference": "Zechariah 2:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Zechariah's vision, what was the man holding in his hand?",
+  "options": [
+    "A sword",
+    "A trumpet",
+    "A scroll",
+    "A measuring line"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Zechariah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zechariah saw a man with a measuring line in his hand."
+}

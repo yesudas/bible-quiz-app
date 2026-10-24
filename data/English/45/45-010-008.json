@@ -1,0 +1,31 @@
+{
+  "id": "45-010-008",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 10,
+  "verse_reference": "Romans 10:14",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "According to Romans 10:14, what must happen before people can believe in the Lord?",
+  "options": [
+    "They must see Him",
+    "They must visit Jerusalem",
+    "They must hear about Him",
+    "They must keep the law"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Evangelism",
+    "Mission",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul asks how people can believe in the One of whom they have not heard, and how they can hear without someone preaching to them."
+}

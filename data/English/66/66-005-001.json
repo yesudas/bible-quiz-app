@@ -1,0 +1,35 @@
+{
+  "id": "66-005-001",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 5,
+  "verse_reference": "Revelation 5:1",
+  "question_type": "DIRECT",
+  "difficulty": "Easy",
+  "question": "How many seals was the scroll in the right hand of the one on the throne sealed with?",
+  "options": [
+    "Four",
+    "Seven",
+    "Ten",
+    "Twelve"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John saw in the right hand of the one on the throne a scroll with writing on both sides, sealed with seven seals."
+}

@@ -1,0 +1,17 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Gaius",
+    "label": "Gaius",
+    "count": 7,
+    "paths": [
+        "English/44/44-019-018.json",
+        "English/46/46-001-007.json",
+        "English/64/64-001-001.json",
+        "English/64/64-001-002.json",
+        "English/64/64-001-004.json",
+        "English/64/64-001-007.json",
+        "English/64/64-001-009.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

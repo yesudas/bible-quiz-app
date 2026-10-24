@@ -1,0 +1,31 @@
+{
+  "id": "45-001-012",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 1,
+  "verse_reference": "Romans 1:16",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "According to Romans 1:16, the gospel brings salvation to everyone who believes in what order?",
+  "options": [
+    "First to the Gentile, then to the Jew",
+    "First to the Jew, then to the Gentile",
+    "First to the Romans, then to the Greeks",
+    "First to the wise, then to the foolish"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul writes that the gospel is first to the Jew, then to the Gentile."
+}

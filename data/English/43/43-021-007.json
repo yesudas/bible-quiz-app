@@ -1,0 +1,41 @@
+{
+  "id": "43-021-007",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 21,
+  "verse_reference": "John 21:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the disciples see when they landed on shore?",
+  "options": [
+    "Jesus sitting on a rock",
+    "Two angels",
+    "A fire of burning coals with fish on it, and some bread",
+    "A crowd of people"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "sea"
+    },
+    {
+      "name": "Sea of Tiberias",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 21:9 says when they landed, they saw a fire of burning coals there with fish on it, and some bread."
+}

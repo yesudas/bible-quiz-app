@@ -1,0 +1,38 @@
+{
+  "id": "66-005-012",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 5,
+  "verse_reference": "Revelation 5:11",
+  "question_type": "DIRECT",
+  "difficulty": "Medium",
+  "question": "How does John describe the number of angels around the throne?",
+  "options": [
+    "Twelve legions",
+    "Seventy times seven",
+    "As many as the sand of the sea",
+    "Thousands upon thousands, and ten thousand times ten thousand"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Angels",
+    "Worship"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John heard the voice of angels numbering thousands upon thousands, and ten thousand times ten thousand."
+}

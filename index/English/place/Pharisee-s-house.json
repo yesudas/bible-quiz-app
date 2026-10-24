@@ -1,0 +1,20 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Pharisee-s-house",
+    "label": "Pharisee's house",
+    "count": 10,
+    "paths": [
+        "English/42/42-007-014.json",
+        "English/42/42-007-015.json",
+        "English/42/42-007-016.json",
+        "English/42/42-007-017.json",
+        "English/42/42-007-018.json",
+        "English/42/42-007-019.json",
+        "English/42/42-007-020.json",
+        "English/42/42-007-021.json",
+        "English/42/42-011-020.json",
+        "English/42/42-011-021.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

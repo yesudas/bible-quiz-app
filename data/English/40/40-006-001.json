@@ -1,0 +1,32 @@
+{
+  "id": "40-006-001",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 6,
+  "verse_reference": "Matthew 6:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Jesus warned against doing acts of righteousness for what reason?",
+  "options": [
+    "To be seen by others",
+    "To help the poor",
+    "To please God",
+    "To obey the law"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 6:1 warns not to practice righteousness in front of others to be seen by them, or you will have no reward from your Father in heaven."
+}

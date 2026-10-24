@@ -1,0 +1,33 @@
+{
+  "id": "42-020-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 20,
+  "verse_reference": "Luke 20:35-36",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say about those who take part in the resurrection from the dead?",
+  "options": [
+    "They will neither marry nor be given in marriage, and they are like the angels",
+    "They will marry again",
+    "They will live in the temple",
+    "They will have new families on earth"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Angels",
+    "Marriage"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said those considered worthy of the resurrection will neither marry nor be given in marriage, and they can no longer die; they are like the angels."
+}

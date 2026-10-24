@@ -1,0 +1,18 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Roadside-near-Jericho",
+    "label": "Roadside near Jericho",
+    "count": 8,
+    "paths": [
+        "English/40/40-020-017.json",
+        "English/40/40-020-018.json",
+        "English/40/40-020-019.json",
+        "English/40/40-020-020.json",
+        "English/42/42-018-020.json",
+        "English/42/42-018-021.json",
+        "English/42/42-018-022.json",
+        "English/42/42-018-023.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

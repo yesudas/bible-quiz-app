@@ -1,0 +1,39 @@
+{
+  "id": "42-024-022",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 24,
+  "verse_reference": "Luke 24:47",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say would be preached in his name to all nations, beginning at Jerusalem?",
+  "options": [
+    "Rules for keeping the Sabbath",
+    "How to build a new temple",
+    "Repentance for the forgiveness of sins",
+    "The coming war with Rome"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Forgiveness",
+    "Mission",
+    "Evangelism"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said repentance for the forgiveness of sins will be preached in his name to all nations, beginning at Jerusalem."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "62-003-011",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 3,
+  "verse_reference": "1 John 3:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does John ask about someone who has material things but has no pity on a brother or sister in need?",
+  "options": [
+    "How can they be a prophet?",
+    "How can they be rich?",
+    "How can the love of God be in that person?",
+    "How can they be a king?"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Money"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John asks how the love of God can be in someone who has material possessions but has no pity on a brother or sister in need."
+}

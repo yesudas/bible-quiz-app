@@ -1,0 +1,38 @@
+{
+  "id": "66-015-002",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 15,
+  "verse_reference": "Revelation 15:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the sea of glass that John saw in Revelation 15 glowing with?",
+  "options": [
+    "Blood",
+    "Water",
+    "Fire",
+    "Gold"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Worship"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John saw what looked like a sea of glass glowing with fire."
+}

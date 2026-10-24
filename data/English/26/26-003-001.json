@@ -1,0 +1,33 @@
+{
+  "id": "26-003-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 3,
+  "verse_reference": "Ezekiel 3:1-3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did God tell Ezekiel to eat?",
+  "options": [
+    "Bread",
+    "Honey",
+    "A scroll",
+    "Locusts"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Obedience"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Ezekiel to eat the scroll and then go and speak to the people of Israel."
+}

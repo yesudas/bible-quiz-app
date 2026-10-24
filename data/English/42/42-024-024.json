@@ -1,0 +1,37 @@
+{
+  "id": "42-024-024",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 24,
+  "verse_reference": "Luke 24:50-51",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Near which village was Jesus taken up into heaven while blessing his disciples?",
+  "options": [
+    "Bethany",
+    "Bethlehem",
+    "Nazareth",
+    "Emmaus"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Bethany",
+      "type": "village"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus led them out to the vicinity of Bethany, lifted up his hands and blessed them. While he was blessing them, he was taken up into heaven."
+}

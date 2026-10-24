@@ -1,0 +1,38 @@
+{
+  "id": "30-007-001",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 7,
+  "verse_reference": "Amos 7:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Amos's first vision, what did God prepare to strip the land?",
+  "options": [
+    "Swarms of locusts",
+    "A great flood",
+    "A burning wind",
+    "An army of horses"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Amos"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 7:1 says the LORD was preparing swarms of locusts after the king's share had been harvested."
+}

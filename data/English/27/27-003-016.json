@@ -1,0 +1,37 @@
+{
+  "id": "27-003-016",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 3,
+  "verse_reference": "Daniel 3:28",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to the king, how did God rescue the three men?",
+  "options": [
+    "He sent His angel",
+    "He sent a great rain",
+    "He made the king change his mind",
+    "He sent an army"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Angels",
+    "Miracles",
+    "Faith"
+  ],
+  "characters": [
+    "Shadrach",
+    "Meshach",
+    "Abednego",
+    "Nebuchadnezzar"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king praised God, who sent His angel and rescued His servants who trusted in Him."
+}

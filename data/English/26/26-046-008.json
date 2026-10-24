@@ -1,0 +1,34 @@
+{
+  "id": "26-046-008",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 46,
+  "verse_reference": "Ezekiel 46:20-24",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was in the four corners of the outer court?",
+  "options": [
+    "Wells of water",
+    "Guard towers",
+    "Kitchens for cooking the sacrifices",
+    "Rooms for the singers"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the four corners of the outer court were kitchens where those who minister at the temple would cook the sacrifices of the people."
+}

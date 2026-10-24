@@ -1,0 +1,37 @@
+{
+  "id": "42-016-017",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 16,
+  "verse_reference": "Luke 16:26",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Abraham say separated the rich man from Lazarus?",
+  "options": [
+    "A high wall",
+    "A great chasm",
+    "A river of fire",
+    "A locked gate"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Judgment"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "places": [
+    {
+      "name": "Hades",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Abraham said, 'Between us and you a great chasm has been set in place,' so no one can cross over."
+}

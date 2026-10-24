@@ -1,0 +1,32 @@
+{
+  "id": "42-014-018",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 14,
+  "verse_reference": "Luke 14:33",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Jesus, what must his followers give up to be his disciples?",
+  "options": [
+    "Only their bad habits",
+    "Half of what they have",
+    "Everything they have",
+    "Their homes only"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Those of you who do not give up everything you have cannot be my disciples.'"
+}

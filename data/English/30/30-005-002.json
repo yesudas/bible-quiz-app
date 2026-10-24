@@ -1,0 +1,33 @@
+{
+  "id": "30-005-002",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 5,
+  "verse_reference": "Amos 5:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "If a town in Israel marched out with a thousand soldiers, how many would be left?",
+  "options": [
+    "Ten",
+    "A hundred",
+    "Five hundred",
+    "Fifty"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 5:3 says a town that marches out a thousand strong will have only a hundred left."
+}

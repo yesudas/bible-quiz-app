@@ -1,0 +1,32 @@
+{
+  "id": "24-004-010",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 4,
+  "verse_reference": "Jeremiah 4:23",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Jeremiah said, \"I looked at the earth, and it was ____ and empty.\"",
+  "options": [
+    "dark",
+    "dry",
+    "broken",
+    "formless"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Creation"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In his vision of judgment, Jeremiah saw the earth formless and empty, and the heavens with no light."
+}

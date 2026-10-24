@@ -1,0 +1,32 @@
+{
+  "id": "41-010-013",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 10,
+  "verse_reference": "Mark 10:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the man go away sad?",
+  "options": [
+    "He was sick",
+    "He had great wealth",
+    "He could not find Jesus",
+    "His family was angry"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Rich young man"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At this the man's face fell. He went away sad, because he had great wealth."
+}

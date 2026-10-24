@@ -1,0 +1,30 @@
+{
+  "id": "59-001-012",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 1,
+  "verse_reference": "James 1:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why should we be slow to become angry?",
+  "options": [
+    "Anger makes us tired",
+    "Anger is always forbidden by law",
+    "Human anger does not produce the righteousness God desires",
+    "Anger makes others angry"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James explains that human anger does not produce the righteousness that God desires."
+}

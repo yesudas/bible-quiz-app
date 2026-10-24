@@ -1,0 +1,38 @@
+{
+  "id": "24-039-011",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 39,
+  "verse_reference": "Jeremiah 39:14",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "To whom was Jeremiah handed over after he was taken out of the courtyard of the guard?",
+  "options": [
+    "Baruch son of Neriah",
+    "Gedaliah son of Ahikam, the son of Shaphan",
+    "Ebed-Melek the Cushite",
+    "Ishmael son of Nethaniah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Gedaliah",
+    "Ahikam",
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Courtyard of the guard",
+      "type": "prison"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They had Jeremiah taken out of the courtyard of the guard and turned him over to Gedaliah son of Ahikam, the son of Shaphan."
+}

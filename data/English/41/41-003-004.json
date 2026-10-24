@@ -1,0 +1,37 @@
+{
+  "id": "41-003-004",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 3,
+  "verse_reference": "Mark 3:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Jesus feel when the people in the synagogue stayed silent?",
+  "options": [
+    "Happy and joyful",
+    "Angry and deeply distressed at their stubborn hearts",
+    "Afraid of the Pharisees",
+    "Tired and wanting to rest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Synagogue",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus looked at them in anger and was deeply distressed at their stubborn hearts, then healed the man's hand."
+}

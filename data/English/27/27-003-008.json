@@ -1,0 +1,36 @@
+{
+  "id": "27-003-008",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 3,
+  "verse_reference": "Daniel 3:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the king's words: \"Then what god will be able to ______ you from my hand?\"",
+  "options": [
+    "rescue",
+    "hide",
+    "keep",
+    "take"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Persecution"
+  ],
+  "characters": [
+    "Shadrach",
+    "Meshach",
+    "Abednego",
+    "Nebuchadnezzar"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king threatened the three men, asking what god would be able to rescue them from his hand."
+}

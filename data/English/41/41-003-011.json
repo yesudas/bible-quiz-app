@@ -1,0 +1,34 @@
+{
+  "id": "41-003-011",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 3,
+  "verse_reference": "Mark 3:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What name did Jesus give to James and John, the sons of Zebedee?",
+  "options": [
+    "Boanerges",
+    "Bartimaeus",
+    "Barabbas",
+    "Bethsaida"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "James son of Zebedee",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus gave James and John the name Boanerges, which means \"sons of thunder.\""
+}

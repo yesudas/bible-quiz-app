@@ -1,0 +1,31 @@
+{
+  "id": "38-007-006",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 7,
+  "verse_reference": "Zechariah 7:10",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which of these did God NOT list among the people they must not oppress?",
+  "options": [
+    "The widow",
+    "The fatherless",
+    "The foreigner",
+    "The priest"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'Do not oppress the widow or the fatherless, the foreigner or the poor.' The priest was not in this list."
+}

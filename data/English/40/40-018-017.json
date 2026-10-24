@@ -1,0 +1,32 @@
+{
+  "id": "40-018-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 18,
+  "verse_reference": "Matthew 18:24",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In the parable of the unmerciful servant, how much did the first servant owe the king?",
+  "options": [
+    "A hundred silver coins",
+    "One gold coin",
+    "Fifty pieces of silver",
+    "Ten thousand bags of gold"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 18:24 says a man who owed him ten thousand bags of gold was brought to him."
+}

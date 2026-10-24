@@ -1,0 +1,40 @@
+{
+  "id": "44-019-014",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 19,
+  "verse_reference": "Acts 19:21",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Paul said, \"After I have been there, I must visit ______ also.\"",
+  "options": [
+    "Spain",
+    "Rome",
+    "Athens",
+    "Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Rome",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul decided to go to Jerusalem, saying, 'After I have been there, I must visit Rome also.'"
+}

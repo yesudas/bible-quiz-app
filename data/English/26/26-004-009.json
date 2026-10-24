@@ -1,0 +1,38 @@
+{
+  "id": "26-004-009",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 4,
+  "verse_reference": "Ezekiel 4:16-17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did these signs show would happen in Jerusalem?",
+  "options": [
+    "The city would have a great harvest",
+    "The people would flee to Egypt",
+    "The walls would be rebuilt",
+    "Food and water would become scarce"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Sin",
+    "Suffering"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would cut off the food supply in Jerusalem, and the people would eat rationed food and drink rationed water in despair."
+}

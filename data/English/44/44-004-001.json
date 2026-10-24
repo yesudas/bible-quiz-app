@@ -1,0 +1,38 @@
+{
+  "id": "44-004-001",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 4,
+  "verse_reference": "Acts 4:1-3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened to Peter and John while they were speaking to the people?",
+  "options": [
+    "They were seized and put in jail",
+    "They were taken up to heaven",
+    "They were stoned",
+    "They were sent to Rome"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Peter",
+    "John"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priests, the captain of the temple guard and the Sadducees seized them and put them in jail until the next day."
+}

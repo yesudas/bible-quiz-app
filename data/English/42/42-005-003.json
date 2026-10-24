@@ -1,0 +1,39 @@
+{
+  "id": "42-005-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' words to Simon: 'Put out into ____ water, and let down the nets for a catch.'",
+  "options": [
+    "calm",
+    "shallow",
+    "deep",
+    "clear"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Obedience"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Lake of Gennesaret",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told Simon, 'Put out into deep water, and let down the nets for a catch.'"
+}

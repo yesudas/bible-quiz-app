@@ -1,0 +1,36 @@
+{
+  "id": "40-027-014",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 27,
+  "verse_reference": "Matthew 27:28",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What color robe did the soldiers put on Jesus?",
+  "options": [
+    "White",
+    "Purple",
+    "Black",
+    "Scarlet"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Praetorium",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 27:28 says they stripped him and put a scarlet robe on him."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "49-003-002",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 3,
+  "verse_reference": "Ephesians 3:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How was the mystery made known to Paul?",
+  "options": [
+    "By revelation",
+    "By reading Isaiah",
+    "By the apostles in Jerusalem",
+    "By a dream in Egypt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says the mystery was made known to him by revelation."
+}

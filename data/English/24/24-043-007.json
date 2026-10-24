@@ -1,0 +1,37 @@
+{
+  "id": "24-043-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 43,
+  "verse_reference": "Jeremiah 43:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God say Nebuchadnezzar would do to the temples of the gods of Egypt?",
+  "options": [
+    "Rebuild them",
+    "Worship in them",
+    "Set fire to them",
+    "Fill them with gold"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would set fire to the temples of the gods of Egypt; Nebuchadnezzar would burn their temples and take their gods captive."
+}

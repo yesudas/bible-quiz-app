@@ -1,0 +1,32 @@
+{
+  "id": "46-008-004",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 8,
+  "verse_reference": "1 Corinthians 8:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Paul say about an idol?",
+  "options": [
+    "An idol is nothing at all in the world",
+    "An idol has some power",
+    "An idol must be destroyed by fire",
+    "An idol belongs in the temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said an idol is nothing at all in the world, and there is no God but one."
+}

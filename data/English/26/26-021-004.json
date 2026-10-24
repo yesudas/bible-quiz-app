@@ -1,0 +1,29 @@
+{
+  "id": "26-021-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 21,
+  "verse_reference": "Ezekiel 21:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the song of the sword: \"A sword, a sword, sharpened and ______.\"",
+  "options": [
+    "shining",
+    "golden",
+    "ready",
+    "polished"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezekiel was told to say, 'A sword, a sword, sharpened and polished.'"
+}

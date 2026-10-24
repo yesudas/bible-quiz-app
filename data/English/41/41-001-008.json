@@ -1,0 +1,38 @@
+{
+  "id": "41-001-008",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 1,
+  "verse_reference": "Mark 1:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "As Jesus came up out of the water, what came down on him like a dove?",
+  "options": [
+    "An angel",
+    "The Spirit",
+    "A bright cloud",
+    "Fire from heaven"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus saw heaven being torn open and the Spirit descending on him like a dove."
+}

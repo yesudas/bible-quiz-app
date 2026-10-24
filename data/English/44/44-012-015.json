@@ -1,0 +1,41 @@
+{
+  "id": "44-012-015",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 12,
+  "verse_reference": "Acts 12:20",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "The people of which two cities sought peace with Herod because they depended on his country for food?",
+  "options": [
+    "Joppa and Lydda",
+    "Gaza and Azotus",
+    "Tyre and Sidon",
+    "Antioch and Tarsus"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Herod",
+    "Blastus"
+  ],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    },
+    {
+      "name": "Sidon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people of Tyre and Sidon won over Blastus and asked for peace, because they depended on the king's country for food."
+}

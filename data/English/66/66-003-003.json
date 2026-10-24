@@ -1,0 +1,38 @@
+{
+  "id": "66-003-003",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 3,
+  "verse_reference": "Revelation 3:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus promise to the few people in Sardis who had not soiled their clothes?",
+  "options": [
+    "They would rule over the city",
+    "They would be given gold",
+    "They would never be sick",
+    "They would walk with him, dressed in white"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sardis",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said those few were worthy and would walk with him, dressed in white."
+}

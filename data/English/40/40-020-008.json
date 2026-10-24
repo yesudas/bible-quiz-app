@@ -1,0 +1,32 @@
+{
+  "id": "40-020-008",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 20,
+  "verse_reference": "Matthew 20:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the landowner's question: \"Or are you envious because I am ______?\"",
+  "options": [
+    "rich",
+    "kind",
+    "generous",
+    "fair"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 20:15 says, \"Don't I have the right to do what I want with my own money? Or are you envious because I am generous?\""
+}

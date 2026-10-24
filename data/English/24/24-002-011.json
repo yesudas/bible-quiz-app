@@ -1,0 +1,35 @@
+{
+  "id": "24-002-011",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 2,
+  "verse_reference": "Jeremiah 2:28",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How many gods did God say Judah had?",
+  "options": [
+    "As many as its tribes",
+    "As many as its kings",
+    "As many as its towns",
+    "As many as its priests"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"You, Judah, have as many gods as you have towns.\""
+}

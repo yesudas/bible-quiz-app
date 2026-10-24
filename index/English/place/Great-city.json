@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Great-city",
+    "label": "Great city",
+    "count": 2,
+    "paths": [
+        "English/66/66-011-008.json",
+        "English/66/66-011-011.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

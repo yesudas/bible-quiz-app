@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Moresheth",
+    "label": "Moresheth",
+    "count": 3,
+    "paths": [
+        "English/24/24-026-007.json",
+        "English/33/33-001-001.json",
+        "English/33/33-001-002.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

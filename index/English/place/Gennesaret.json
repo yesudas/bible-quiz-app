@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Gennesaret",
+    "label": "Gennesaret",
+    "count": 3,
+    "paths": [
+        "English/40/40-014-023.json",
+        "English/40/40-014-024.json",
+        "English/41/41-006-027.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

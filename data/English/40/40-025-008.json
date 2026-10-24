@@ -1,0 +1,33 @@
+{
+  "id": "40-025-008",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:15",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In the parable of the bags of gold, how many bags did the master give to the first servant?",
+  "options": [
+    "Two",
+    "One",
+    "Ten",
+    "Five"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:15 says to one he gave five bags of gold, to another two bags, and to another one bag, each according to his ability."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "61-003-010",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 3,
+  "verse_reference": "2 Peter 3:15-16",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which 'dear brother' does Peter say wrote with wisdom, though some things in his letters are hard to understand?",
+  "options": [
+    "John",
+    "Paul",
+    "James",
+    "Barnabas"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Church"
+  ],
+  "characters": [
+    "Paul",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter mentions Paul, whose letters contain some things hard to understand that ignorant people distort."
+}

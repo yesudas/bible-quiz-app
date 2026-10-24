@@ -1,0 +1,33 @@
+{
+  "id": "51-001-006",
+  "language": "en",
+  "book_no": 51,
+  "book": "Colossians",
+  "chapter": 1,
+  "verse_reference": "Colossians 1:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"For he has rescued us from the dominion of ____ and brought us into the kingdom of the Son he loves.\"",
+  "options": [
+    "darkness",
+    "sin",
+    "death",
+    "fear"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God rescued believers from the dominion of darkness and brought them into the kingdom of the Son he loves."
+}

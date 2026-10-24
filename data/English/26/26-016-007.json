@@ -1,0 +1,36 @@
+{
+  "id": "26-016-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 16,
+  "verse_reference": "Ezekiel 16:20-21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What terrible thing did God say Jerusalem did with the sons and daughters she bore to Him?",
+  "options": [
+    "Sent them to Babylon",
+    "Made them slaves",
+    "Sacrificed them to idols",
+    "Gave them to Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Worship",
+    "Family"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said she took the sons and daughters she bore to Him and sacrificed them as food to the idols."
+}

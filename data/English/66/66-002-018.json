@@ -1,0 +1,31 @@
+{
+  "id": "66-002-018",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 2,
+  "verse_reference": "Revelation 2:7,11,17,29",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the saying repeated in each letter: \"Whoever has ears, let them hear what the ____ says to the churches.\"",
+  "options": [
+    "Angel",
+    "Spirit",
+    "Prophet",
+    "Elder"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Church"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Each letter in Revelation 2 ends with a call to listen to what the Spirit says to the churches."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "43-018-004",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 18,
+  "verse_reference": "John 18:10",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "What was the name of the high priest's servant whose right ear Simon Peter cut off?",
+  "options": [
+    "Barabbas",
+    "Caiaphas",
+    "Annas",
+    "Malchus"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Simon Peter",
+    "Malchus"
+  ],
+  "places": [
+    {
+      "name": "Kidron Valley",
+      "type": "valley"
+    },
+    {
+      "name": "Olive grove",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 18:10 says Simon Peter drew a sword and struck the high priest's servant, cutting off his right ear. The servant's name was Malchus."
+}

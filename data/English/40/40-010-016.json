@@ -1,0 +1,33 @@
+{
+  "id": "40-010-016",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 10,
+  "verse_reference": "Matthew 10:29",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Jesus said two of which birds are sold for a penny, yet none falls to the ground outside the Father's care?",
+  "options": [
+    "Doves",
+    "Ravens",
+    "Sparrows",
+    "Eagles"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 10:29 says two sparrows are sold for a penny, yet not one will fall to the ground outside your Father's care."
+}

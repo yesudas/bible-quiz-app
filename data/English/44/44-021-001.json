@@ -1,0 +1,40 @@
+{
+  "id": "44-021-001",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 21,
+  "verse_reference": "Acts 21:3-4",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In which city did disciples, through the Spirit, urge Paul not to go to Jerusalem?",
+  "options": [
+    "Sidon",
+    "Tyre",
+    "Joppa",
+    "Antioch"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At Tyre they found disciples and stayed seven days; through the Spirit they urged Paul not to go on to Jerusalem."
+}

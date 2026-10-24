@@ -1,0 +1,37 @@
+{
+  "id": "42-023-001",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 23,
+  "verse_reference": "Luke 23:2",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which of these was one of the charges brought against Jesus before Pilate?",
+  "options": [
+    "He had stolen from the temple",
+    "He opposed payment of taxes to Caesar",
+    "He had killed a man",
+    "He had broken out of prison"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus",
+    "Pontius Pilate"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They accused him of subverting the nation, opposing payment of taxes to Caesar and claiming to be Messiah, a king."
+}

@@ -1,0 +1,16 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Crete",
+    "label": "Crete",
+    "count": 6,
+    "paths": [
+        "English/44/44-027-005.json",
+        "English/44/44-027-008.json",
+        "English/56/56-001-002.json",
+        "English/56/56-001-003.json",
+        "English/56/56-001-008.json",
+        "English/56/56-001-009.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

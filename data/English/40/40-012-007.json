@@ -1,0 +1,38 @@
+{
+  "id": "40-012-007",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 12,
+  "verse_reference": "Matthew 12:13",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jesus tell the man with the shriveled hand to do?",
+  "options": [
+    "Wash in the river",
+    "Go to the priest",
+    "Stretch out his hand",
+    "Pray for seven days"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Obedience"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Synagogue",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 12:13 says Jesus said, \"Stretch out your hand,\" and it was completely restored."
+}

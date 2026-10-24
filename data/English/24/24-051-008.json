@@ -1,0 +1,41 @@
+{
+  "id": "24-051-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 51,
+  "verse_reference": "Jeremiah 51:64",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the sinking scroll picture?",
+  "options": [
+    "Babylon would sink to rise no more",
+    "Israel would cross the river",
+    "The temple would be rebuilt",
+    "The Euphrates would dry up"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Seraiah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    },
+    {
+      "name": "Euphrates",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Seraiah was to say, \"So will Babylon sink to rise no more because of the disaster I will bring on her.\""
+}

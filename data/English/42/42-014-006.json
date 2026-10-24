@@ -1,0 +1,38 @@
+{
+  "id": "42-014-006",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 14,
+  "verse_reference": "Luke 14:12-13",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did Jesus tell his host to invite when giving a banquet?",
+  "options": [
+    "Friends and relatives",
+    "Rich neighbors",
+    "The poor, the crippled, the lame and the blind",
+    "The priests and Levites"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "House of a prominent Pharisee",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'When you give a banquet, invite the poor, the crippled, the lame, the blind, and you will be blessed.'"
+}

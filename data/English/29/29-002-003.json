@@ -1,0 +1,30 @@
+{
+  "id": "29-002-003",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 2,
+  "verse_reference": "Joel 2:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What animals does Joel say the invading army looked like?",
+  "options": [
+    "Lions",
+    "Wolves",
+    "Eagles",
+    "Horses"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joel said the army had the appearance of horses and galloped along like cavalry."
+}

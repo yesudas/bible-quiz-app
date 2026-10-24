@@ -1,0 +1,34 @@
+{
+  "id": "44-003-010",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 3,
+  "verse_reference": "Acts 3:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"You killed the author of life, but God raised him from the ______.\"",
+  "options": [
+    "tomb",
+    "earth",
+    "grave",
+    "dead"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Resurrection",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter said God raised Jesus from the dead, and they were witnesses of this."
+}

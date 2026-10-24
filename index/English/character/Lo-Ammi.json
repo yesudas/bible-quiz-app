@@ -1,0 +1,12 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Lo-Ammi",
+    "label": "Lo-Ammi",
+    "count": 2,
+    "paths": [
+        "English/28/28-001-010.json",
+        "English/28/28-001-014.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

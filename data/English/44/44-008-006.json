@@ -1,0 +1,36 @@
+{
+  "id": "44-008-006",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 8,
+  "verse_reference": "Acts 8:9-10",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which man practiced sorcery in Samaria and was called 'the Great Power of God'?",
+  "options": [
+    "Elymas",
+    "Ananias",
+    "Simon",
+    "Demetrius"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Simon the sorcerer"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Simon practiced sorcery and amazed the people, who called him 'the Great Power of God'."
+}

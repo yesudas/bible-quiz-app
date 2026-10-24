@@ -1,0 +1,32 @@
+{
+  "id": "42-012-005",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 12,
+  "verse_reference": "Luke 12:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Jesus, which sin will not be forgiven?",
+  "options": [
+    "Speaking a word against the Son of Man",
+    "Breaking the Sabbath",
+    "Blaspheming against the Holy Spirit",
+    "Doubting God"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said anyone who speaks a word against the Son of Man will be forgiven, but anyone who blasphemes against the Holy Spirit will not be forgiven."
+}

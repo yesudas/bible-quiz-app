@@ -1,0 +1,38 @@
+{
+  "id": "42-021-001",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 21,
+  "verse_reference": "Luke 21:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the poor widow put into the temple treasury?",
+  "options": [
+    "One gold coin",
+    "Two very small copper coins",
+    "Five silver coins",
+    "A bag of grain"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus saw a poor widow put in two very small copper coins."
+}

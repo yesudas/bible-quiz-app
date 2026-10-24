@@ -1,0 +1,39 @@
+{
+  "id": "42-006-026",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:48",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Jesus' parable, where did the wise man lay the foundation of his house?",
+  "options": [
+    "On sand",
+    "On rock",
+    "On a hill",
+    "By the river"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Obedience",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "House on the rock",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man who hears and obeys Jesus is like a man who dug down deep and laid the foundation on rock."
+}

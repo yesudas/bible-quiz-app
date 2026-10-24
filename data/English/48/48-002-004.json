@@ -1,0 +1,36 @@
+{
+  "id": "48-002-004",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 2,
+  "verse_reference": "Galatians 2:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Titus not forced to do, even though he was a Greek?",
+  "options": [
+    "Leave the church",
+    "Be circumcised",
+    "Stop preaching",
+    "Go back to Greece"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Titus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said that not even Titus, who was a Greek, was compelled to be circumcised."
+}

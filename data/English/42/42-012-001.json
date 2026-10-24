@@ -1,0 +1,33 @@
+{
+  "id": "42-012-001",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 12,
+  "verse_reference": "Luke 12:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' warning: 'Be on your guard against the yeast of the Pharisees, which is ____.'",
+  "options": [
+    "pride",
+    "greed",
+    "hypocrisy",
+    "anger"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus",
+    "Pharisees"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus warned his disciples to beware of the yeast of the Pharisees, which is hypocrisy."
+}

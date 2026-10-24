@@ -1,0 +1,37 @@
+{
+  "id": "41-005-019",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 5,
+  "verse_reference": "Mark 5:39-40",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the people at Jairus's house react when Jesus said the child was not dead but asleep?",
+  "options": [
+    "They praised God",
+    "They laughed at him",
+    "They ran away",
+    "They began to pray"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jairus's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said the child was not dead but asleep, and they laughed at him."
+}

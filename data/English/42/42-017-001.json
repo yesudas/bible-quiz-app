@@ -1,0 +1,37 @@
+{
+  "id": "42-017-001",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 17,
+  "verse_reference": "Luke 17:2",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Jesus said it would be better to be thrown into the sea with what tied around the neck than to cause a little one to stumble?",
+  "options": [
+    "A heavy chain",
+    "A millstone",
+    "A large stone jar",
+    "An anchor"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said it would be better to be thrown into the sea with a millstone tied around one's neck than to cause one of these little ones to stumble."
+}

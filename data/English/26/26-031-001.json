@@ -1,0 +1,38 @@
+{
+  "id": "26-031-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 31,
+  "verse_reference": "Ezekiel 31:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "To whom did God tell Ezekiel to speak the message of Ezekiel 31?",
+  "options": [
+    "Pharaoh king of Egypt and his hordes",
+    "The king of Assyria",
+    "The princes of Lebanon",
+    "The king of Tyre"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Pharaoh",
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Ezekiel to say to Pharaoh king of Egypt and to his hordes, 'Who can be compared with you in majesty?'"
+}

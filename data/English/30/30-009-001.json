@@ -1,0 +1,32 @@
+{
+  "id": "30-009-001",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 9,
+  "verse_reference": "Amos 9:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In Amos's last vision, where did he see the Lord standing?",
+  "options": [
+    "On a high mountain",
+    "Beside the altar",
+    "By the Jordan River",
+    "At the city gate"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Amos"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 9:1 says Amos saw the Lord standing by the altar."
+}

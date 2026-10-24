@@ -1,0 +1,32 @@
+{
+  "id": "59-002-001",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 2,
+  "verse_reference": "James 2:1-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does James warn believers not to do in their meetings?",
+  "options": [
+    "Sing too loudly",
+    "Show favoritism to the rich",
+    "Collect offerings",
+    "Read the Scriptures"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Money",
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James warns that believers must not show favoritism, such as giving a rich man a good seat while telling a poor man to stand."
+}

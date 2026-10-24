@@ -1,0 +1,33 @@
+{
+  "id": "47-005-007",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 5,
+  "verse_reference": "2 Corinthians 5:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Christ died for all, so that those who live should no longer live for whom?",
+  "options": [
+    "The Romans",
+    "Their parents",
+    "Themselves",
+    "Their enemies"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship",
+    "Jesus"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Christ died for all so that those who live should no longer live for themselves but for Him who died and was raised again."
+}

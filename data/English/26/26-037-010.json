@@ -1,0 +1,41 @@
+{
+  "id": "26-037-010",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 37,
+  "verse_reference": "Ezekiel 37:16-17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God tell Ezekiel to do with the two sticks?",
+  "options": [
+    "Burn them",
+    "Break them",
+    "Plant them",
+    "Join them into one stick in his hand"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Covenant"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Ephraim",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezekiel wrote on one stick for Judah and on the other for Joseph (Ephraim), then joined them into one stick in his hand."
+}

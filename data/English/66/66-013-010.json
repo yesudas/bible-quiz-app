@@ -1,0 +1,34 @@
+{
+  "id": "66-013-010",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 13,
+  "verse_reference": "Revelation 13:11",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the second beast in Revelation 13 come out of?",
+  "options": [
+    "The sea",
+    "The sky",
+    "The earth",
+    "The river Euphrates"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Earth",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John saw a second beast, coming out of the earth."
+}

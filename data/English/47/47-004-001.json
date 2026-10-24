@@ -1,0 +1,32 @@
+{
+  "id": "47-004-001",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 4,
+  "verse_reference": "2 Corinthians 4:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Therefore, since through God's mercy we have this ministry, we do not lose ______.\"",
+  "options": [
+    "hope",
+    "heart",
+    "faith",
+    "strength"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said that because they had their ministry through God's mercy, they did not lose heart."
+}

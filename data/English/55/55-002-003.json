@@ -1,0 +1,32 @@
+{
+  "id": "55-002-003",
+  "language": "en",
+  "book_no": 55,
+  "book": "2 Timothy",
+  "chapter": 2,
+  "verse_reference": "2 Timothy 2:5",
+  "question_type": "DIRECT",
+  "difficulty": "Medium",
+  "question": "According to Paul, what must an athlete do to receive the victor's crown?",
+  "options": [
+    "Run faster than everyone",
+    "Compete according to the rules",
+    "Train for many years",
+    "Pay the entry money"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said an athlete does not receive the victor's crown unless he competes according to the rules."
+}

@@ -3,10 +3,11 @@
     "language": "English",
     "place": "Mount-Tabor",
     "label": "Mount Tabor",
-    "count": 2,
+    "count": 3,
     "paths": [
         "English/07/07-004-009.json",
-        "English/19/19-089-005.json"
+        "English/19/19-089-005.json",
+        "English/28/28-005-001.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

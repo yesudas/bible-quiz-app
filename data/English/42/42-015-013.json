@@ -1,0 +1,34 @@
+{
+  "id": "42-015-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 15,
+  "verse_reference": "Luke 15:18-19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete what the son planned to say: 'Father, I have ____ against heaven and against you.'",
+  "options": [
+    "worked",
+    "sinned",
+    "spoken",
+    "failed"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Repentance",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He planned to say, 'Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.'"
+}

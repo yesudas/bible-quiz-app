@@ -1,0 +1,42 @@
+{
+  "id": "24-034-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 34,
+  "verse_reference": "Jeremiah 34:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "To which king did God send Jeremiah to say the city would be handed over to the king of Babylon?",
+  "options": [
+    "Jehoiakim",
+    "Jehoiachin",
+    "Josiah",
+    "Zedekiah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Zedekiah",
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Jeremiah to go to Zedekiah king of Judah and say the city would be handed over to the king of Babylon, who would burn it down."
+}

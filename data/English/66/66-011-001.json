@@ -1,0 +1,37 @@
+{
+  "id": "66-011-001",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 11,
+  "verse_reference": "Revelation 11:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was John given to measure the temple of God and the altar?",
+  "options": [
+    "A golden chain",
+    "A reed like a measuring rod",
+    "A rope of silver",
+    "A stone tablet"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Worship"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [
+    {
+      "name": "Temple of God",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John was given a reed like a measuring rod and told to go and measure the temple of God and the altar, and count the worshippers there."
+}

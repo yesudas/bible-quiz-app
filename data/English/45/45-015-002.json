@@ -1,0 +1,33 @@
+{
+  "id": "45-015-002",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 15,
+  "verse_reference": "Romans 15:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom does Paul give as the example of one who did not please himself?",
+  "options": [
+    "Abraham",
+    "Moses",
+    "David",
+    "Christ"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says even Christ did not please Himself, but bore the insults of others."
+}

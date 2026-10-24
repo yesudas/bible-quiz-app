@@ -1,0 +1,30 @@
+{
+  "id": "46-006-005",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 6,
+  "verse_reference": "1 Corinthians 6:9-10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Paul warned that wrongdoers will not inherit what?",
+  "options": [
+    "The kingdom of God",
+    "The land of Israel",
+    "The temple",
+    "The riches of Corinth"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingdom of God",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said wrongdoers, such as thieves, the greedy and slanderers, will not inherit the kingdom of God."
+}

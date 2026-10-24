@@ -1,0 +1,33 @@
+{
+  "id": "52-002-007",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 2,
+  "verse_reference": "1 Thessalonians 2:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the Thessalonians accept the message Paul preached to them?",
+  "options": [
+    "As the word of God, which it really is",
+    "As a good story from long ago",
+    "As just a human idea",
+    "As a new law of the Romans"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Scripture"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul thanked God that they accepted the message not as a human word, but as it actually is, the word of God, which works in those who believe."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "26-025-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 25,
+  "verse_reference": "Ezekiel 25:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God say He would turn Rabbah into?",
+  "options": [
+    "A city of refuge",
+    "A royal palace",
+    "A pasture for camels",
+    "A fortress"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Rabbah",
+      "type": "city"
+    },
+    {
+      "name": "Ammon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'I will turn Rabbah into a pasture for camels and Ammon into a resting place for sheep.'"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "65-001-005",
+  "language": "en",
+  "book_no": 65,
+  "book": "Jude",
+  "chapter": 1,
+  "verse_reference": "Jude 1:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Jude, how are the angels who did not keep their positions of authority being kept for judgment?",
+  "options": [
+    "In a locked tower",
+    "Bound with everlasting chains in darkness",
+    "In the depths of the sea",
+    "In a fiery furnace"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jude says these angels are kept in darkness, bound with everlasting chains, for judgment on the great Day."
+}

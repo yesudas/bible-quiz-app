@@ -1,0 +1,38 @@
+{
+  "id": "42-024-017",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 24,
+  "verse_reference": "Luke 24:36",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' first words when he stood among his disciples: '____ be with you.'",
+  "options": [
+    "Grace",
+    "Peace",
+    "Joy",
+    "Love"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Resurrection",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While they were still talking about this, Jesus himself stood among them and said to them, 'Peace be with you.'"
+}

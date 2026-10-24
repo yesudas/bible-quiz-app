@@ -1,0 +1,38 @@
+{
+  "id": "44-016-013",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 16,
+  "verse_reference": "Acts 16:24",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the jailer put Paul and Silas?",
+  "options": [
+    "In the inner cell with their feet in the stocks",
+    "In a pit with water",
+    "In the city tower",
+    "In the courtyard"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution",
+    "Suffering"
+  ],
+  "characters": [
+    "Paul",
+    "Silas"
+  ],
+  "places": [
+    {
+      "name": "Prison in Philippi",
+      "type": "prison"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He put them in the inner cell and fastened their feet in the stocks."
+}

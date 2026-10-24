@@ -1,0 +1,37 @@
+{
+  "id": "46-004-013",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 4,
+  "verse_reference": "1 Corinthians 4:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Paul asked if he should come to them with a rod of discipline or in what way?",
+  "options": [
+    "With gifts of money",
+    "With an army",
+    "With many letters",
+    "In love and with a gentle spirit"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul asked whether he should come with a rod of discipline, or in love and with a gentle spirit."
+}

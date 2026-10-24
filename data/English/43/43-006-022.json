@@ -1,0 +1,42 @@
+{
+  "id": "43-006-022",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 6,
+  "verse_reference": "John 6:70-71",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "When Jesus said one of the Twelve was a devil, whom did he mean?",
+  "options": [
+    "Thomas",
+    "Judas, the son of Simon Iscariot",
+    "Simon the Zealot",
+    "Matthew"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Satan",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus",
+    "Judas Iscariot"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    },
+    {
+      "name": "Synagogue in Capernaum",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 6:71 says he meant Judas, the son of Simon Iscariot, who, though one of the Twelve, was later to betray him."
+}

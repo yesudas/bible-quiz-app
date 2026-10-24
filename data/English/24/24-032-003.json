@@ -1,0 +1,39 @@
+{
+  "id": "24-032-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 32,
+  "verse_reference": "Jeremiah 32:7",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which relative came to Jeremiah asking him to buy a field?",
+  "options": [
+    "Hanamel, his cousin",
+    "Baruch, his scribe",
+    "Hilkiah, his father",
+    "Shallum, his brother"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Hope"
+  ],
+  "characters": [
+    "Hanamel",
+    "Shallum",
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Anathoth",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hanamel son of Shallum, Jeremiah's uncle, came and said, \"Buy my field at Anathoth.\""
+}

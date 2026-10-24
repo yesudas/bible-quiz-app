@@ -1,0 +1,32 @@
+{
+  "id": "45-002-007",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 2,
+  "verse_reference": "Romans 2:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"For God does not show ______.\"",
+  "options": [
+    "anger",
+    "mercy",
+    "favoritism",
+    "weakness"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Romans 2:11 says God does not show favoritism; He judges Jews and Gentiles alike."
+}

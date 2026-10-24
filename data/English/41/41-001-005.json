@@ -1,0 +1,33 @@
+{
+  "id": "41-001-005",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 1,
+  "verse_reference": "Mark 1:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete John's words: \"After me comes the one more powerful than I, the straps of whose sandals I am not worthy to stoop down and ____.\"",
+  "options": [
+    "carry",
+    "untie",
+    "wash",
+    "polish"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Humility"
+  ],
+  "characters": [
+    "John the Baptist",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John said he was not worthy even to stoop down and untie the sandals of the one coming after him, showing Jesus' greatness."
+}

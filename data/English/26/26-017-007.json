@@ -1,0 +1,39 @@
+{
+  "id": "26-017-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 17,
+  "verse_reference": "Ezekiel 17:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did the king from the royal family rebel against the king of Babylon?",
+  "options": [
+    "He fled to Lebanon",
+    "He refused to pay tribute",
+    "He sent envoys to Egypt to get horses and a large army",
+    "He burned the city of Babylon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He rebelled by sending his envoys to Egypt to get horses and a large army."
+}

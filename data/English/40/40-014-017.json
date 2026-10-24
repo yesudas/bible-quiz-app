@@ -1,0 +1,37 @@
+{
+  "id": "40-014-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 14,
+  "verse_reference": "Matthew 14:26",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "When the disciples saw Jesus walking on the lake, what did they think he was?",
+  "options": [
+    "An angel",
+    "A fisherman",
+    "Elijah",
+    "A ghost"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 14:26 says they were terrified. \"It's a ghost,\" they said, and cried out in fear."
+}

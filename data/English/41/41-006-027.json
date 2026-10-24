@@ -1,0 +1,38 @@
+{
+  "id": "41-006-027",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 6,
+  "verse_reference": "Mark 6:53-56",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Jesus and the disciples land, where people brought the sick to touch even the edge of his cloak?",
+  "options": [
+    "Gennesaret",
+    "Capernaum",
+    "Tyre",
+    "Jericho"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Gennesaret",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They landed at Gennesaret, and people begged to touch even the edge of his cloak, and all who touched it were healed."
+}

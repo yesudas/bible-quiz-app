@@ -1,0 +1,40 @@
+{
+  "id": "43-011-014",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 11,
+  "verse_reference": "John 11:41-42",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "After they took away the stone, what did Jesus do before calling Lazarus out?",
+  "options": [
+    "He anointed the body",
+    "He touched the tomb",
+    "He looked up and thanked the Father for hearing him",
+    "He sent everyone away"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Bethany",
+      "type": "village"
+    },
+    {
+      "name": "Lazarus' tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 11:41-42, Jesus looked up and said, \"Father, I thank you that you have heard me,\" and then called in a loud voice."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "42-008-022",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:42-43",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "What age was Jairus's daughter, and how long had the woman in the crowd been bleeding?",
+  "options": [
+    "Ten years and ten years",
+    "About twelve years old, and twelve years",
+    "Twelve years old, and seven years",
+    "Seven years old, and twelve years"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Jairus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jairus's only daughter was about twelve, and the woman who touched Jesus had been subject to bleeding for twelve years."
+}

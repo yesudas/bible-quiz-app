@@ -1,0 +1,37 @@
+{
+  "id": "26-048-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 48,
+  "verse_reference": "Ezekiel 48:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the priests descended from Zadok receive a special portion?",
+  "options": [
+    "They were the oldest family",
+    "They paid for the temple",
+    "They fought in the war",
+    "They were faithful and did not go astray when Israel did"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Worship"
+  ],
+  "characters": [
+    "Zadok"
+  ],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The portion was for the consecrated priests, the Zadokites, who were faithful in serving God and did not go astray as the Levites did when the Israelites went astray."
+}

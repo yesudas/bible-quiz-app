@@ -1,0 +1,34 @@
+{
+  "id": "45-015-004",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 15,
+  "verse_reference": "Romans 15:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Accept one another, then, just as Christ ______ you.\"",
+  "options": [
+    "taught",
+    "accepted",
+    "called",
+    "forgave"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Church",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul tells believers to accept one another just as Christ accepted them, to bring praise to God."
+}

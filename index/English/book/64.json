@@ -1,0 +1,18 @@
+{
+    "type": "book",
+    "language": "English",
+    "book": 64,
+    "count": 9,
+    "paths": [
+        "English/64/64-001-001.json",
+        "English/64/64-001-002.json",
+        "English/64/64-001-003.json",
+        "English/64/64-001-004.json",
+        "English/64/64-001-005.json",
+        "English/64/64-001-006.json",
+        "English/64/64-001-007.json",
+        "English/64/64-001-008.json",
+        "English/64/64-001-009.json"
+    ],
+    "generated": "2026-10-23T11:29:42+00:00"
+}

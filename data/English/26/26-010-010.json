@@ -1,0 +1,37 @@
+{
+  "id": "26-010-010",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 10,
+  "verse_reference": "Ezekiel 10:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Ezekiel realize about the living creatures he had seen by the Kebar River?",
+  "options": [
+    "They were angels of judgment",
+    "They were cherubim",
+    "They were seraphim",
+    "They were idols"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels",
+    "Prophecy"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Kebar River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezekiel said these were the living creatures he had seen by the Kebar River, and he realized they were cherubim."
+}

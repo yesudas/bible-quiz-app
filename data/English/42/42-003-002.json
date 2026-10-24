@@ -1,0 +1,36 @@
+{
+  "id": "42-003-002",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 3,
+  "verse_reference": "Luke 3:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was governor of Judea when John began his ministry?",
+  "options": [
+    "Pontius Pilate",
+    "Herod",
+    "Quirinius",
+    "Felix"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Pontius Pilate"
+  ],
+  "places": [
+    {
+      "name": "Judea",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Luke says Pontius Pilate was governor of Judea at that time."
+}

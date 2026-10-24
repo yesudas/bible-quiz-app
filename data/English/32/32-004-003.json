@@ -1,0 +1,33 @@
+{
+  "id": "32-004-003",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 4,
+  "verse_reference": "Jonah 4:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jonah's words to God: \"I knew that you are a gracious and compassionate God, slow to anger and abounding in ____.\"",
+  "options": [
+    "power",
+    "wisdom",
+    "love",
+    "glory"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Mercy"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonah described God as slow to anger and abounding in love."
+}

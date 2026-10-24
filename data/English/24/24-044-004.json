@@ -1,0 +1,35 @@
+{
+  "id": "24-044-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 44,
+  "verse_reference": "Jeremiah 44:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What sin were the Jews committing in Egypt that God said was provoking Him?",
+  "options": [
+    "Refusing to work",
+    "Marrying Egyptians",
+    "Building a temple",
+    "Burning incense to other gods in Egypt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God asked, \"Why arouse my anger with what your hands have made, burning incense to other gods in Egypt, where you have come to live?\""
+}

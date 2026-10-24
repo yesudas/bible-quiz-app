@@ -1,0 +1,38 @@
+{
+  "id": "41-004-019",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 4,
+  "verse_reference": "Mark 4:39",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' words to the waves: \"Quiet! Be ____!\"",
+  "options": [
+    "still",
+    "calm",
+    "silent",
+    "gone"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus rebuked the wind and said to the waves, \"Quiet! Be still!\" Then the wind died down and it was completely calm."
+}

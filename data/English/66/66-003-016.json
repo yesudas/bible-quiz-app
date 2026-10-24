@@ -1,0 +1,38 @@
+{
+  "id": "66-003-016",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 3,
+  "verse_reference": "Revelation 3:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus promise to the victorious in Laodicea?",
+  "options": [
+    "The right to sit with him on his throne",
+    "A house of gold",
+    "A seat at the city gate",
+    "Long life on earth"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Laodicea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus promised the victor the right to sit with him on his throne, just as he sat down with his Father on his throne."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "42-024-023",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 24,
+  "verse_reference": "Luke 24:49",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'Stay in the city until you have been clothed with ____ from on high.'",
+  "options": [
+    "glory",
+    "light",
+    "wisdom",
+    "power"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Holy Spirit",
+    "Promise"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'I am going to send you what my Father has promised; but stay in the city until you have been clothed with power from on high.'"
+}

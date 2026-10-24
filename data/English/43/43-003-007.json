@@ -1,0 +1,34 @@
+{
+  "id": "43-003-007",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 3,
+  "verse_reference": "John 3:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have ___.\"",
+  "options": [
+    "peace on earth",
+    "eternal life",
+    "great riches",
+    "a long life"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Love",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 3:16 says whoever believes in God's one and only Son shall not perish but have eternal life."
+}

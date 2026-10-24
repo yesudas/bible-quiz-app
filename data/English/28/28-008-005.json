@@ -1,0 +1,35 @@
+{
+  "id": "28-008-005",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 8,
+  "verse_reference": "Hosea 8:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was the calf of Samaria not God?",
+  "options": [
+    "It was too small",
+    "A metalworker had made it",
+    "It was made of wood",
+    "It had been stolen"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Idolatry",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said a metalworker had made it, so it was not God; it would be broken in pieces."
+}

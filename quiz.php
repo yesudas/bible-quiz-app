@@ -257,6 +257,9 @@ $embedQuery = $embed ? '&embed=1' : '';
             <button type="button" class="btn btn-outline-primary" id="downloadPdfBtn"><i class="bi bi-file-earmark-pdf" aria-hidden="true"></i> <?= htmlspecialchars($leaderboardLabels['downloadPdf']) ?></button>
             <a href="<?= htmlspecialchars($homeHref) ?>?lang=<?= urlencode($lang) ?><?= $embedQuery ?>" class="btn btn-link">Back to home</a>
         </div>
+        <p class="pdf-download-ready" id="downloadPdfLinkWrap" hidden>
+            <a href="#" id="downloadPdfLink" class="btn btn-primary btn-sm"><i class="bi bi-download" aria-hidden="true"></i> Click to download Results</a>
+        </p>
     </section>
 
     <section id="quizReview" class="quiz-review" hidden>

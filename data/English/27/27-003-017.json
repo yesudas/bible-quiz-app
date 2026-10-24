@@ -1,0 +1,31 @@
+{
+  "id": "27-003-017",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 3,
+  "verse_reference": "Daniel 3:29",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What decree did the king make after the three men were saved?",
+  "options": [
+    "Everyone must leave Babylon",
+    "Anyone who said anything against their God would be cut into pieces",
+    "The image of gold must be destroyed",
+    "All Jews must go back to Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sovereignty of God"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king decreed that anyone who said anything against the God of Shadrach, Meshach and Abednego would be cut into pieces, for no other god can save this way."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "45-013-002",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 13,
+  "verse_reference": "Romans 13:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Romans 13:1, where does all authority come from?",
+  "options": [
+    "The people choose it alone",
+    "The strongest army",
+    "The richest families",
+    "God has established it"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says there is no authority except that which God has established."
+}

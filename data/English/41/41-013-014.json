@@ -1,0 +1,34 @@
+{
+  "id": "41-013-014",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 13,
+  "verse_reference": "Mark 13:26",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did Jesus say people will see the Son of Man coming?",
+  "options": [
+    "Riding a white donkey",
+    "In a fiery chariot",
+    "Walking across the sea",
+    "In clouds with great power and glory"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Jesus",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"At that time people will see the Son of Man coming in clouds with great power and glory.\""
+}

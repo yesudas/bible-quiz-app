@@ -1,0 +1,36 @@
+{
+  "id": "43-020-004",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 20,
+  "verse_reference": "John 20:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Peter see inside the tomb besides the strips of linen?",
+  "options": [
+    "An angel",
+    "Jesus' sandals",
+    "The jar of spices",
+    "The cloth that had been wrapped around Jesus' head, still lying in its place, separate from the linen"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Jesus' tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 20:6-7 says Peter saw the strips of linen lying there, as well as the cloth that had been wrapped around Jesus' head. The cloth was still lying in its place, separate from the linen."
+}

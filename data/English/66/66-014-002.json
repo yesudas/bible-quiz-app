@@ -1,0 +1,38 @@
+{
+  "id": "66-014-002",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 14,
+  "verse_reference": "Revelation 14:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was written on the foreheads of the 144,000 who stood with the Lamb?",
+  "options": [
+    "The mark of the beast",
+    "The names of the twelve tribes",
+    "His name and his Father's name",
+    "The number seven"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mount Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The 144,000 had the Lamb's name and his Father's name written on their foreheads."
+}

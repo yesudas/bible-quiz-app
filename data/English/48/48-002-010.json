@@ -1,0 +1,37 @@
+{
+  "id": "48-002-010",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 2,
+  "verse_reference": "Galatians 2:11",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Paul oppose Cephas to his face?",
+  "options": [
+    "Jerusalem",
+    "Rome",
+    "Antioch",
+    "Damascus"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Paul",
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Antioch",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Cephas came to Antioch, Paul opposed him to his face because he stood condemned."
+}

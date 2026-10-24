@@ -1,0 +1,38 @@
+{
+  "id": "66-005-013",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 5,
+  "verse_reference": "Revelation 5:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the angels' song: \"Worthy is the ____, who was slain, to receive power and wealth and wisdom and strength.\"",
+  "options": [
+    "Lamb",
+    "King",
+    "Lion",
+    "Prophet"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In a loud voice the angels sang, \"Worthy is the Lamb, who was slain, to receive power and wealth and wisdom and strength and honour and glory and praise!\""
+}

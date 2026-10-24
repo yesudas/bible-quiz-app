@@ -1,0 +1,33 @@
+{
+  "id": "40-010-007",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 10,
+  "verse_reference": "Matthew 10:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "What message did Jesus tell the Twelve to proclaim? \"The kingdom of heaven has come ______.\"",
+  "options": [
+    "down",
+    "late",
+    "quietly",
+    "near"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Kingdom of God",
+    "Evangelism"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 10:7 says, \"As you go, proclaim this message: 'The kingdom of heaven has come near.'\""
+}

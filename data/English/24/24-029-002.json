@@ -1,0 +1,39 @@
+{
+  "id": "24-029-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 29,
+  "verse_reference": "Jeremiah 29:3",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who carried Jeremiah's letter to Babylon?",
+  "options": [
+    "Baruch son of Neriah and Seraiah",
+    "Pashhur and Zephaniah",
+    "Elasah son of Shaphan and Gemariah son of Hilkiah",
+    "Ahikam and Gedaliah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Elasah",
+    "Gemariah",
+    "Zedekiah",
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah entrusted the letter to Elasah son of Shaphan and Gemariah son of Hilkiah, whom Zedekiah sent to Nebuchadnezzar."
+}

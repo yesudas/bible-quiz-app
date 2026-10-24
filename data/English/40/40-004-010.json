@@ -1,0 +1,37 @@
+{
+  "id": "40-004-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 4,
+  "verse_reference": "Matthew 4:11",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "After the devil left Jesus, who came and attended him?",
+  "options": [
+    "His disciples",
+    "His mother",
+    "Angels",
+    "John the Baptist"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Angels"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 4:11 says the devil left him, and angels came and attended him."
+}

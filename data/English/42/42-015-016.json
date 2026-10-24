@@ -1,0 +1,39 @@
+{
+  "id": "42-015-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 15,
+  "verse_reference": "Luke 15:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the father tell his servants to put on his son?",
+  "options": [
+    "The best robe, a ring and sandals",
+    "A crown and a cloak",
+    "A belt and a staff",
+    "New shoes only"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Forgiveness",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Father's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The father said, 'Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet.'"
+}

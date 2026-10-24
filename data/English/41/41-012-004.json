@@ -1,0 +1,37 @@
+{
+  "id": "41-012-004",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 12,
+  "verse_reference": "Mark 12:7-8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the tenants kill the owner's son?",
+  "options": [
+    "He refused to pay them",
+    "They thought the inheritance would then be theirs",
+    "He damaged the vineyard",
+    "He was a stranger to them"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Vineyard",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The tenants said, \"This is the heir. Come, let's kill him, and the inheritance will be ours.\" So they killed him and threw him out of the vineyard."
+}

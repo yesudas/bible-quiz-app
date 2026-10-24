@@ -1,0 +1,33 @@
+{
+  "id": "40-018-004",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 18,
+  "verse_reference": "Matthew 18:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Jesus, who is the greatest in the kingdom of heaven?",
+  "options": [
+    "Whoever takes the lowly position of this child",
+    "Whoever knows the most law",
+    "Whoever is the oldest",
+    "Whoever has the most followers"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingdom of God",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 18:4 says whoever takes the lowly position of this child is the greatest in the kingdom of heaven."
+}

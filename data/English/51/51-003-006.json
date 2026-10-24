@@ -1,0 +1,32 @@
+{
+  "id": "51-003-006",
+  "language": "en",
+  "book_no": 51,
+  "book": "Colossians",
+  "chapter": 3,
+  "verse_reference": "Colossians 3:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Forgive as the ____ forgave you.\"",
+  "options": [
+    "Lord",
+    "prophet",
+    "king",
+    "priest"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Forgiveness"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul told believers to bear with each other and forgive one another, as the Lord forgave them."
+}

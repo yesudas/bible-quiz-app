@@ -1,0 +1,36 @@
+{
+  "id": "26-030-008",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 30,
+  "verse_reference": "Ezekiel 30:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What part of Pharaoh did God say He had broken?",
+  "options": [
+    "His crown",
+    "His leg",
+    "His heart",
+    "His arm"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Pharaoh"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'I have broken the arm of Pharaoh king of Egypt. It has not been bound up to heal.'"
+}

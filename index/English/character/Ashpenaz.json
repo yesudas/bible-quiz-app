@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Ashpenaz",
+    "label": "Ashpenaz",
+    "count": 3,
+    "paths": [
+        "English/27/27-001-004.json",
+        "English/27/27-001-011.json",
+        "English/27/27-001-012.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

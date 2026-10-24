@@ -1,0 +1,40 @@
+{
+  "id": "40-010-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 10,
+  "verse_reference": "Matthew 10:15",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Jesus said it would be more bearable on the day of judgment for which places than for a town that rejects his disciples?",
+  "options": [
+    "Tyre and Sidon",
+    "Egypt and Babylon",
+    "Nineveh and Assyria",
+    "Sodom and Gomorrah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sodom",
+      "type": "city"
+    },
+    {
+      "name": "Gomorrah",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 10:15 says it will be more bearable for Sodom and Gomorrah on the day of judgment than for that town."
+}

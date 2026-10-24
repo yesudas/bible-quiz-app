@@ -1,0 +1,37 @@
+{
+  "id": "42-005-022",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:32",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Whom did Jesus say he came to call to repentance?",
+  "options": [
+    "The righteous",
+    "Sinners",
+    "The priests",
+    "The Romans"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Levi's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'I have not come to call the righteous, but sinners to repentance.'"
+}

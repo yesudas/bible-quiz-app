@@ -1,0 +1,37 @@
+{
+  "id": "58-009-012",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 9,
+  "verse_reference": "Hebrews 9:24",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 9:24, where did Christ enter to appear for us in God's presence?",
+  "options": [
+    "A man-made sanctuary",
+    "The temple in Jerusalem",
+    "The tabernacle in the wilderness",
+    "Heaven itself"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "heavenly realm"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 9:24 says Christ did not enter a sanctuary made with human hands; he entered heaven itself, now to appear for us in God's presence."
+}

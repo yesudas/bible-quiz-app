@@ -1,0 +1,38 @@
+{
+  "id": "41-010-024",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 10,
+  "verse_reference": "Mark 10:49-50",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Bartimaeus do when he was told Jesus was calling him?",
+  "options": [
+    "Threw his cloak aside, jumped to his feet and came to Jesus",
+    "Stayed where he was",
+    "Asked for money first",
+    "Ran away in fear"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Bartimaeus",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Throwing his cloak aside, he jumped to his feet and came to Jesus."
+}

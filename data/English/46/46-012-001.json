@@ -1,0 +1,32 @@
+{
+  "id": "46-012-001",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 12,
+  "verse_reference": "1 Corinthians 12:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Paul, no one can say \"Jesus is Lord\" except by whom?",
+  "options": [
+    "The apostles",
+    "The Holy Spirit",
+    "The angels",
+    "The prophets"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that no one can say \"Jesus is Lord,\" except by the Holy Spirit."
+}

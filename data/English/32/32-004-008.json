@@ -1,0 +1,32 @@
+{
+  "id": "32-004-008",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 4,
+  "verse_reference": "Jonah 4:7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did God send to chew the plant so that it withered?",
+  "options": [
+    "A locust",
+    "A goat",
+    "A worm",
+    "A bird"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "God's Power"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At dawn the next day God provided a worm, which chewed the plant so that it withered."
+}

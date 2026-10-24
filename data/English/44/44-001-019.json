@@ -1,0 +1,40 @@
+{
+  "id": "44-001-019",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 1,
+  "verse_reference": "Acts 1:19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the people of Jerusalem call the field connected with Judas?",
+  "options": [
+    "Gethsemane",
+    "Golgotha",
+    "Akeldama",
+    "Bethany"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Judas"
+  ],
+  "places": [
+    {
+      "name": "Akeldama",
+      "type": "field"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They called it Akeldama, which means Field of Blood."
+}

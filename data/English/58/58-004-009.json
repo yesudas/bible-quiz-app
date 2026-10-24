@@ -1,0 +1,30 @@
+{
+  "id": "58-004-009",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 4,
+  "verse_reference": "Hebrews 4:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"For the word of God is alive and active. Sharper than any double-edged ____.\"",
+  "options": [
+    "sword",
+    "knife",
+    "arrow",
+    "spear"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 4:12 says the word of God is alive and active, sharper than any double-edged sword."
+}

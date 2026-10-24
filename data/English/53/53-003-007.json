@@ -1,0 +1,32 @@
+{
+  "id": "53-003-007",
+  "language": "en",
+  "book_no": 53,
+  "book": "2 Thessalonians",
+  "chapter": 3,
+  "verse_reference": "2 Thessalonians 3:11",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Paul heard that some believers were idle. What did he say they were busy being instead?",
+  "options": [
+    "Busybodies",
+    "Teachers",
+    "Travellers",
+    "Shepherds"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church",
+    "Sin"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul heard that some among them were idle and disruptive; they were not busy, they were busybodies."
+}

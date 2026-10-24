@@ -1,0 +1,32 @@
+{
+  "id": "46-002-006",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 2,
+  "verse_reference": "1 Corinthians 2:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"What no eye has seen, what no ear has heard, and what no human mind has conceived — the things God has prepared for those who ______ him.\"",
+  "options": [
+    "fear",
+    "obey",
+    "love",
+    "seek"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God has prepared wonderful things for those who love him."
+}

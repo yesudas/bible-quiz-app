@@ -1,0 +1,35 @@
+{
+  "id": "26-016-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 16,
+  "verse_reference": "Ezekiel 16:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete God's words when He passed by the helpless baby: \"I said to you, '______!'\"",
+  "options": [
+    "Rise",
+    "Come",
+    "Live",
+    "Grow"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'Then I passed by and saw you kicking about in your blood, and as you lay there in your blood I said to you, \"Live!\"'"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "41-014-027",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 14,
+  "verse_reference": "Mark 14:65",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After condemning Jesus, what did some begin to do to him?",
+  "options": [
+    "Spit at him, blindfold him and strike him, saying \"Prophesy!\"",
+    "Give him a crown of gold",
+    "Wash his feet",
+    "Carry him on their shoulders"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Courtyard of the high priest",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some began to spit at him; they blindfolded him, struck him with their fists, and said, \"Prophesy!\" And the guards took him and beat him."
+}

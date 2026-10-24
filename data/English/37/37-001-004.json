@@ -1,0 +1,36 @@
+{
+  "id": "37-001-004",
+  "language": "en",
+  "book_no": 37,
+  "book": "Haggai",
+  "chapter": 1,
+  "verse_reference": "Haggai 1:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What were the people saying about rebuilding the LORD's house?",
+  "options": [
+    "They had no wood",
+    "God did not want it",
+    "The enemies would stop them",
+    "The time had not yet come"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "The LORD's house (temple)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people said the time had not yet come to rebuild the LORD's house."
+}

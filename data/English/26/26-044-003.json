@@ -1,0 +1,36 @@
+{
+  "id": "26-044-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 44,
+  "verse_reference": "Ezekiel 44:10-11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What work did God give the Levites who had wandered from Him after idols?",
+  "options": [
+    "They were sent out of Israel",
+    "They were made kings",
+    "They were made judges",
+    "They served as gatekeepers and helpers in the sanctuary, but could not serve as priests"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Those Levites would bear the consequences of their sin; they could serve in the sanctuary as gatekeepers and helpers, but could not come near to serve as priests."
+}

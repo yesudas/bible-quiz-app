@@ -1,0 +1,33 @@
+{
+  "id": "40-019-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 19,
+  "verse_reference": "Matthew 19:16",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the man who came to Jesus ask him?",
+  "options": [
+    "\"Teacher, where do you live?\"",
+    "\"Teacher, can you heal my son?\"",
+    "\"Teacher, should we pay taxes?\"",
+    "\"Teacher, what good thing must I do to get eternal life?\""
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus",
+    "Rich young man"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 19:16 says a man came up to Jesus and asked, \"Teacher, what good thing must I do to get eternal life?\""
+}

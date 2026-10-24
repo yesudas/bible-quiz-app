@@ -1,0 +1,30 @@
+{
+  "id": "39-003-006",
+  "language": "en",
+  "book_no": 39,
+  "book": "Malachi",
+  "chapter": 3,
+  "verse_reference": "Malachi 3:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Return to me, and I will ______ to you.\"",
+  "options": [
+    "speak",
+    "listen",
+    "return",
+    "come down"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God invited His people to come back to Him, promising He would return to them."
+}

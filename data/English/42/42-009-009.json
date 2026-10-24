@@ -1,0 +1,34 @@
+{
+  "id": "42-009-009",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 9,
+  "verse_reference": "Luke 9:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "When Jesus asked, 'Who do you say I am?', Peter answered: 'God's ____.'",
+  "options": [
+    "Prophet",
+    "Messiah",
+    "Servant",
+    "Lamb"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Faith"
+  ],
+  "characters": [
+    "Simon Peter",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter answered, 'God's Messiah.'"
+}

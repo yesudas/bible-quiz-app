@@ -1,0 +1,39 @@
+{
+  "id": "44-013-003",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 13,
+  "verse_reference": "Acts 13:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The Holy Spirit said, \"Set apart for me ______ for the work to which I have called them.\"",
+  "options": [
+    "Peter and John",
+    "Simeon and Lucius",
+    "Paul and Silas",
+    "Barnabas and Saul"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Holy Spirit",
+    "Mission"
+  ],
+  "characters": [
+    "Barnabas",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Antioch",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While they were worshiping and fasting, the Holy Spirit said, 'Set apart for me Barnabas and Saul.'"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "40-020-002",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 20,
+  "verse_reference": "Matthew 20:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How much did the landowner agree to pay the first workers for the day?",
+  "options": [
+    "A denarius",
+    "Ten silver coins",
+    "A gold coin",
+    "Half a shekel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Vineyard",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 20:2 says he agreed to pay them a denarius for the day and sent them into his vineyard."
+}

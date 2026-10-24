@@ -3,7 +3,7 @@
     "language": "English",
     "topic": "Holiness",
     "label": "Holiness",
-    "count": 95,
+    "count": 107,
     "paths": [
         "English/03/03-001-003.json",
         "English/03/03-002-003.json",
@@ -99,7 +99,19 @@
         "English/23/23-052-005.json",
         "English/23/23-053-009.json",
         "English/23/23-057-003.json",
-        "English/23/23-062-006.json"
+        "English/23/23-062-006.json",
+        "English/35/35-001-011.json",
+        "English/42/42-001-009.json",
+        "English/44/44-007-012.json",
+        "English/44/44-024-008.json",
+        "English/52/52-004-001.json",
+        "English/52/52-004-002.json",
+        "English/52/52-005-011.json",
+        "English/60/60-001-009.json",
+        "English/60/60-003-002.json",
+        "English/66/66-018-004.json",
+        "English/66/66-019-004.json",
+        "English/66/66-021-017.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:42+00:00"
 }

@@ -1,0 +1,36 @@
+{
+  "id": "30-007-006",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 7,
+  "verse_reference": "Amos 7:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the plumb line vision show about God's plan for Israel?",
+  "options": [
+    "He would rebuild their walls",
+    "He would measure them and spare them no longer",
+    "He would make them builders",
+    "He would forgive them again"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Amos"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God set a plumb line among His people and said, 'I will spare them no longer.'"
+}

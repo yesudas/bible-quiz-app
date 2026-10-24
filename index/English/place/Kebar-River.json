@@ -1,0 +1,15 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Kebar-River",
+    "label": "Kebar River",
+    "count": 5,
+    "paths": [
+        "English/26/26-001-001.json",
+        "English/26/26-001-004.json",
+        "English/26/26-003-005.json",
+        "English/26/26-010-010.json",
+        "English/26/26-043-003.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

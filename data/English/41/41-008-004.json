@@ -1,0 +1,32 @@
+{
+  "id": "41-008-004",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 8,
+  "verse_reference": "Mark 8:9",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "About how many people were present at this second feeding?",
+  "options": [
+    "Five thousand",
+    "Four thousand",
+    "Two thousand",
+    "Ten thousand"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "About four thousand were present, and after he sent them away, Jesus got into the boat with his disciples."
+}

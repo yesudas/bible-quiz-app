@@ -1,0 +1,38 @@
+{
+  "id": "27-003-004",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 3,
+  "verse_reference": "Daniel 3:4-5",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When were the people commanded to bow down and worship the image?",
+  "options": [
+    "When they heard the sound of the music",
+    "At sunrise each day",
+    "When the king walked by",
+    "On the Sabbath"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Idolatry"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Plain of Dura",
+      "type": "plain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The herald said that as soon as they heard the sound of the horn, flute, zither, lyre, harp, pipe and all kinds of music, they must fall down and worship the image."
+}

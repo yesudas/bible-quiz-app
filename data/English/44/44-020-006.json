@@ -1,0 +1,39 @@
+{
+  "id": "44-020-006",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 20,
+  "verse_reference": "Acts 20:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Paul threw himself on the young man and said, \"Don't be alarmed. He's ______!\"",
+  "options": [
+    "asleep",
+    "healed",
+    "alive",
+    "breathing"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Resurrection"
+  ],
+  "characters": [
+    "Paul",
+    "Eutychus"
+  ],
+  "places": [
+    {
+      "name": "Troas",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul put his arms around him and said, 'Don't be alarmed. He's alive!'"
+}

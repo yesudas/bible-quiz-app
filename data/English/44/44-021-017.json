@@ -1,0 +1,37 @@
+{
+  "id": "44-021-017",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 21,
+  "verse_reference": "Acts 21:35",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the soldiers have to carry Paul up the steps?",
+  "options": [
+    "He was too sick to walk",
+    "The violence of the mob was so great",
+    "He refused to walk",
+    "The steps were broken"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution",
+    "Suffering"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Barracks",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Paul reached the steps, the violence of the mob was so great he had to be carried by the soldiers."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "46-008-005",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 8,
+  "verse_reference": "1 Corinthians 8:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"Yet for us there is but one God, the Father... and there is but one Lord, ______, through whom all things came and through whom we live.\"",
+  "options": [
+    "the Holy Spirit",
+    "Moses",
+    "the Son of David",
+    "Jesus Christ"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Creation",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said there is one God, the Father, and one Lord, Jesus Christ, through whom all things came."
+}

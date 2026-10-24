@@ -1,0 +1,35 @@
+{
+  "id": "26-036-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 36,
+  "verse_reference": "Ezekiel 36:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God promise would happen to Israel's towns and ruins?",
+  "options": [
+    "They would be given to Edom",
+    "They would stay empty",
+    "They would become a desert",
+    "The towns would be inhabited and the ruins rebuilt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would multiply the people, and the towns would be inhabited and the ruins rebuilt."
+}

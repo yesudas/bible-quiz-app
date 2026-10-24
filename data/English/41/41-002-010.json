@@ -1,0 +1,39 @@
+{
+  "id": "41-002-010",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 2,
+  "verse_reference": "Mark 2:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: \"It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but ____.\"",
+  "options": [
+    "the poor",
+    "sinners",
+    "the children",
+    "the faithful"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Sin",
+    "Repentance"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Levi's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said he came to call sinners, just as a doctor comes for the sick."
+}

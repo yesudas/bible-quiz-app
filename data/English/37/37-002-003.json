@@ -1,0 +1,35 @@
+{
+  "id": "37-002-003",
+  "language": "en",
+  "book_no": 37,
+  "book": "Haggai",
+  "chapter": 2,
+  "verse_reference": "Haggai 2:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which covenant did God remind the people of when He said, \"Do not fear\"?",
+  "options": [
+    "The covenant with Noah",
+    "The covenant with David",
+    "The covenant at Mount Carmel",
+    "The covenant made when they came out of Egypt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Holy Spirit"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said His Spirit remained among them, as He covenanted when they came out of Egypt."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "62-001-013",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 1,
+  "verse_reference": "1 John 1:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "If we claim we have not sinned, what does John say we make God out to be?",
+  "options": [
+    "A judge",
+    "A liar",
+    "A king",
+    "A stranger"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Truth"
+  ],
+  "characters": [
+    "God",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says if we claim we have not sinned, we make God out to be a liar and His word is not in us."
+}

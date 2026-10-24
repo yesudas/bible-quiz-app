@@ -1,0 +1,32 @@
+{
+  "id": "45-004-013",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 4,
+  "verse_reference": "Romans 4:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "About how old was Abraham when he faced the fact that his body was as good as dead?",
+  "options": [
+    "About fifty years old",
+    "About seventy-five years old",
+    "About forty years old",
+    "About a hundred years old"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Abraham",
+    "Sarah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says Abraham, about a hundred years old, faced the fact that his body and Sarah's womb were as good as dead, yet his faith did not weaken."
+}

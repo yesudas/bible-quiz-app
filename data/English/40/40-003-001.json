@@ -1,0 +1,38 @@
+{
+  "id": "40-003-001",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 3,
+  "verse_reference": "Matthew 3:1",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did John the Baptist preach?",
+  "options": [
+    "In the temple",
+    "In the wilderness of Judea",
+    "In Nazareth",
+    "On a mountain in Galilee"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Mission"
+  ],
+  "characters": [
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Wilderness of Judea",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 3:1 says John the Baptist came preaching in the wilderness of Judea."
+}

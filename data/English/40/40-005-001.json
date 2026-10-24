@@ -1,0 +1,37 @@
+{
+  "id": "40-005-001",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 5,
+  "verse_reference": "Matthew 5:1-2",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "When Jesus saw the crowds, where did he go to sit down and teach?",
+  "options": [
+    "Up on a mountainside",
+    "Into a boat",
+    "Into the temple",
+    "Beside a well"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mountainside",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 5:1-2 says Jesus went up on a mountainside, sat down and began to teach."
+}

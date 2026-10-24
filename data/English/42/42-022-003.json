@@ -1,0 +1,39 @@
+{
+  "id": "42-022-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 22,
+  "verse_reference": "Luke 22:8",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which two disciples did Jesus send to prepare the Passover?",
+  "options": [
+    "Peter and John",
+    "James and John",
+    "Andrew and Philip",
+    "Peter and Andrew"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [
+    "Simon Peter",
+    "John",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus sent Peter and John, saying, 'Go and make preparations for us to eat the Passover.'"
+}

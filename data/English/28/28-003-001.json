@@ -1,0 +1,34 @@
+{
+  "id": "28-003-001",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 3,
+  "verse_reference": "Hosea 3:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "God told Hosea to love his wife again in the same way the LORD loves whom?",
+  "options": [
+    "The Egyptians",
+    "The Israelites",
+    "The prophets",
+    "The angels"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Forgiveness",
+    "Marriage"
+  ],
+  "characters": [
+    "Hosea"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Hosea to love his wife as the LORD loves the Israelites, even though they turned to other gods."
+}

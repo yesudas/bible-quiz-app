@@ -1,0 +1,33 @@
+{
+  "id": "47-001-002",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 1,
+  "verse_reference": "2 Corinthians 1:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Praise be to the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all ______.\"",
+  "options": [
+    "comfort",
+    "peace",
+    "grace",
+    "hope"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Hope"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul praises God as the Father of compassion and the God of all comfort."
+}

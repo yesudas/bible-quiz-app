@@ -1,0 +1,38 @@
+{
+  "id": "47-002-002",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 2,
+  "verse_reference": "2 Corinthians 2:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Paul say he wrote his earlier letter to the Corinthians?",
+  "options": [
+    "With great anger",
+    "In a hurry",
+    "With many tears",
+    "While in prison"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Suffering"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote out of great distress and anguish of heart and with many tears."
+}

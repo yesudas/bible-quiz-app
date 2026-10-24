@@ -1,0 +1,35 @@
+{
+  "id": "36-003-008",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 3,
+  "verse_reference": "Zephaniah 3:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does Zephaniah say about the remnant of Israel?",
+  "options": [
+    "They will rule over Egypt",
+    "They will do no wrong and tell no lies",
+    "They will build a new temple",
+    "They will forget the LORD"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The remnant of Israel will do no wrong, tell no lies, and live in safety with no one to make them afraid."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "66-012-007",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 12,
+  "verse_reference": "Revelation 12:7",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who led the angels in heaven who fought against the dragon?",
+  "options": [
+    "Gabriel",
+    "Moses",
+    "Michael",
+    "Elijah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Angels",
+    "Satan"
+  ],
+  "characters": [
+    "Michael",
+    "Satan"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Then war broke out in heaven. Michael and his angels fought against the dragon."
+}

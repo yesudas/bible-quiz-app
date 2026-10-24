@@ -1,0 +1,32 @@
+{
+  "id": "41-004-004",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 4,
+  "verse_reference": "Mark 4:7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In the parable of the sower, what choked the seed so that it bore no grain?",
+  "options": [
+    "Rocks",
+    "Weeds of the wheat",
+    "Thorns",
+    "Hot wind"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Other seed fell among thorns, which grew up and choked the plants, so they did not bear grain."
+}

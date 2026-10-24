@@ -1,0 +1,31 @@
+{
+  "id": "49-001-012",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 1,
+  "verse_reference": "Ephesians 1:13",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "What order does Ephesians 1:13 give for the Ephesians?",
+  "options": [
+    "Sealed, believed, heard",
+    "Believed, heard, sealed",
+    "Heard the message, believed, were sealed with the Spirit",
+    "Sealed, heard, believed"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Evangelism",
+    "Holy Spirit",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They heard the message of truth, the gospel, then believed, and were marked with the seal of the promised Holy Spirit."
+}

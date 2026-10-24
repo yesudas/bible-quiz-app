@@ -1,0 +1,35 @@
+{
+  "id": "38-005-009",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 5,
+  "verse_reference": "Zechariah 5:11",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where was the basket taken?",
+  "options": [
+    "To Egypt",
+    "To the country of Babylonia",
+    "To the sea",
+    "To Mount Zion"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylonia",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The basket was taken to the country of Babylonia, where a house would be built for it."
+}

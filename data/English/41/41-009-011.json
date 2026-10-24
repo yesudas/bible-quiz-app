@@ -1,0 +1,33 @@
+{
+  "id": "41-009-011",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 9,
+  "verse_reference": "Mark 9:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the father's cry: \"I do believe; help me overcome my ____!\"",
+  "options": [
+    "unbelief",
+    "fear",
+    "sin",
+    "weakness"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Immediately the boy's father exclaimed, \"I do believe; help me overcome my unbelief!\""
+}

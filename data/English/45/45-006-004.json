@@ -1,0 +1,32 @@
+{
+  "id": "45-006-004",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 6,
+  "verse_reference": "Romans 6:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Romans 6:6, what was crucified with Christ?",
+  "options": [
+    "Our family",
+    "Our old self",
+    "Our enemies",
+    "The law of Moses"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says our old self was crucified with Him so that we should no longer be slaves to sin."
+}

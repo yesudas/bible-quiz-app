@@ -1,0 +1,33 @@
+{
+  "id": "24-028-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 28,
+  "verse_reference": "Jeremiah 28:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Jeremiah first respond to Hananiah's prophecy?",
+  "options": [
+    "\"Amen! May the LORD do so!\"",
+    "\"You are a liar!\"",
+    "\"I will tell the king!\"",
+    "\"Leave the temple!\""
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Hope"
+  ],
+  "characters": [
+    "Jeremiah",
+    "Hananiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah said, \"Amen! May the LORD do so! May the LORD fulfill the words you have prophesied.\""
+}

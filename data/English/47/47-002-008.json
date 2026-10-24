@@ -1,0 +1,41 @@
+{
+  "id": "47-002-008",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 2,
+  "verse_reference": "2 Corinthians 2:13",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Paul had no peace of mind in Troas because he did not find which brother there?",
+  "options": [
+    "Titus",
+    "Timothy",
+    "Silas",
+    "Apollos"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Paul",
+    "Titus"
+  ],
+  "places": [
+    {
+      "name": "Troas",
+      "type": "city"
+    },
+    {
+      "name": "Macedonia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul had no peace of mind because he did not find his brother Titus in Troas, so he went on to Macedonia."
+}

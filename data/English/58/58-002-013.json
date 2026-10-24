@@ -1,0 +1,32 @@
+{
+  "id": "58-002-013",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 2,
+  "verse_reference": "Hebrews 2:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"...that he might become a merciful and faithful ____ in service to God.\"",
+  "options": [
+    "king",
+    "prophet",
+    "shepherd",
+    "high priest"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 2:17 says Jesus was made like his brothers and sisters so he might become a merciful and faithful high priest and make atonement for the sins of the people."
+}

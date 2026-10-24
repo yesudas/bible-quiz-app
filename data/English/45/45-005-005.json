@@ -1,0 +1,34 @@
+{
+  "id": "45-005-005",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 5,
+  "verse_reference": "Romans 5:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"But God demonstrates his own love for us in this: While we were still ______, Christ died for us.\"",
+  "options": [
+    "sinners",
+    "children",
+    "strangers",
+    "servants"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Romans 5:8 shows God's love: Christ died for us while we were still sinners."
+}

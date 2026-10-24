@@ -1,0 +1,34 @@
+{
+  "id": "66-013-003",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 13,
+  "verse_reference": "Revelation 13:2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "The beast from the sea resembled a leopard and had a mouth like a lion. What were its feet like?",
+  "options": [
+    "The feet of an eagle",
+    "The feet of an ox",
+    "The feet of a horse",
+    "The feet of a bear"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The beast resembled a leopard, but had feet like those of a bear and a mouth like that of a lion."
+}

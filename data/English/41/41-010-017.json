@@ -1,0 +1,32 @@
+{
+  "id": "41-010-017",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 10,
+  "verse_reference": "Mark 10:31",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: \"Many who are first will be last, and the last ____.\"",
+  "options": [
+    "forgotten",
+    "rich",
+    "strong",
+    "first"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"But many who are first will be last, and the last first.\""
+}

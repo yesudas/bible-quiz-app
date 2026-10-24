@@ -1,0 +1,33 @@
+{
+  "id": "43-003-002",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 3,
+  "verse_reference": "John 3:2",
+  "question_type": "WHEN",
+  "difficulty": "Easy",
+  "question": "At what time of day did Nicodemus come to Jesus?",
+  "options": [
+    "At night",
+    "At dawn",
+    "At noon",
+    "In the evening at the temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Nicodemus",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 3:2 says Nicodemus came to Jesus at night."
+}

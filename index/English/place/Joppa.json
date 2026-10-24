@@ -3,10 +3,19 @@
     "language": "English",
     "place": "Joppa",
     "label": "Joppa",
-    "count": 2,
+    "count": 11,
     "paths": [
         "English/14/14-002-012.json",
-        "English/15/15-003-006.json"
+        "English/15/15-003-006.json",
+        "English/32/32-001-005.json",
+        "English/44/44-009-018.json",
+        "English/44/44-009-019.json",
+        "English/44/44-009-020.json",
+        "English/44/44-009-021.json",
+        "English/44/44-010-004.json",
+        "English/44/44-010-005.json",
+        "English/44/44-010-006.json",
+        "English/44/44-010-011.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

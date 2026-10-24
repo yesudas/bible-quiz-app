@@ -1,0 +1,38 @@
+{
+  "id": "66-003-006",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 3,
+  "verse_reference": "Revelation 3:8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What had Jesus placed before the church in Philadelphia that no one could shut?",
+  "options": [
+    "A golden table",
+    "A wide road",
+    "An open door",
+    "A bright lamp"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mission",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Philadelphia",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said he had placed before them an open door that no one could shut, because they had kept his word with little strength."
+}

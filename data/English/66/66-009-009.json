@@ -1,0 +1,35 @@
+{
+  "id": "66-009-009",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 9,
+  "verse_reference": "Revelation 9:11",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "What is the Hebrew name of the angel of the Abyss who was king over the locusts?",
+  "options": [
+    "Abaddon",
+    "Apollyon",
+    "Wormwood",
+    "Beelzebub"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Satan"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Abyss",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Their king was the angel of the Abyss, whose name in Hebrew is Abaddon and in Greek is Apollyon (that is, Destroyer)."
+}

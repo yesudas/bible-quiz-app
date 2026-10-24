@@ -1,0 +1,37 @@
+{
+  "id": "41-012-013",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 12,
+  "verse_reference": "Mark 12:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say was the reason the Sadducees were in error?",
+  "options": [
+    "They did not keep the Sabbath",
+    "They did not pay their taxes",
+    "They did not fast",
+    "They did not know the Scriptures or the power of God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus replied, \"Are you not in error because you do not know the Scriptures or the power of God?\""
+}

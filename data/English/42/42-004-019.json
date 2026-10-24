@@ -1,0 +1,41 @@
+{
+  "id": "42-004-019",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 4,
+  "verse_reference": "Luke 4:31-32",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "To which town in Galilee did Jesus go after leaving Nazareth?",
+  "options": [
+    "Bethsaida",
+    "Capernaum",
+    "Cana",
+    "Nain"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    },
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus went down to Capernaum, a town in Galilee, and taught on the Sabbath."
+}

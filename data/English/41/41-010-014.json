@@ -1,0 +1,33 @@
+{
+  "id": "41-010-014",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 10,
+  "verse_reference": "Mark 10:25",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jesus say is easier than for someone who is rich to enter the kingdom of God?",
+  "options": [
+    "For a fish to fly",
+    "For a mountain to move",
+    "For a sheep to swim",
+    "For a camel to go through the eye of a needle"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"It is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God.\""
+}

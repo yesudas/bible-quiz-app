@@ -1,0 +1,37 @@
+{
+  "id": "41-005-003",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 5,
+  "verse_reference": "Mark 5:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the man shout when he saw Jesus?",
+  "options": [
+    "Have mercy on me, Son of David!",
+    "Teacher, come to my house!",
+    "Lord, save me from the storm!",
+    "What do you want with me, Jesus, Son of the Most High God?"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Region of the Gerasenes",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He shouted, \"What do you want with me, Jesus, Son of the Most High God? In God's name don't torture me!\""
+}

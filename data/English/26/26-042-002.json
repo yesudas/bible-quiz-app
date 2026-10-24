@@ -1,0 +1,35 @@
+{
+  "id": "26-042-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 42,
+  "verse_reference": "Ezekiel 42:13",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which offerings were to be placed in the priests' rooms, because the place is holy?",
+  "options": [
+    "Firstfruits, tithes and vows",
+    "Fellowship, thank and freewill offerings",
+    "Drink, wave and peace offerings",
+    "Grain offerings, sin offerings and guilt offerings"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "There they would put the most holy offerings\u2014the grain offerings, the sin offerings and the guilt offerings\u2014for the place is holy."
+}

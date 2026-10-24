@@ -1,0 +1,38 @@
+{
+  "id": "43-013-014",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 13,
+  "verse_reference": "John 13:35",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Jesus, how will everyone know that we are his disciples?",
+  "options": [
+    "If we keep the Sabbath",
+    "If we love one another",
+    "If we perform miracles",
+    "If we go to the temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 13:35, Jesus said, \"By this everyone will know that you are my disciples, if you love one another.\""
+}

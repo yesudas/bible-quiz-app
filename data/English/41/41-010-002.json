@@ -1,0 +1,38 @@
+{
+  "id": "41-010-002",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 10,
+  "verse_reference": "Mark 10:2-4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Pharisees say Moses permitted a man to do?",
+  "options": [
+    "Marry two wives",
+    "Write a certificate of divorce and send his wife away",
+    "Never marry again",
+    "Leave his parents' house"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage",
+    "Law"
+  ],
+  "characters": [
+    "Jesus",
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Judea",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They said, \"Moses permitted a man to write a certificate of divorce and send her away.\""
+}

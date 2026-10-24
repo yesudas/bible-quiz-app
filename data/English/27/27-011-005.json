@@ -1,0 +1,32 @@
+{
+  "id": "27-011-005",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 11,
+  "verse_reference": "Daniel 11:21",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "How is the person who would seize the kingdom through intrigue described?",
+  "options": [
+    "A wise and humble ruler",
+    "A contemptible person",
+    "A mighty warrior from the sea",
+    "A faithful servant of God"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Sin"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A contemptible person who had not been given the honour of royalty would invade the kingdom and seize it through intrigue."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "66-019-003",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 19,
+  "verse_reference": "Revelation 19:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Revelation 19:7, what has come?",
+  "options": [
+    "The day of the harvest",
+    "The fall of the dragon",
+    "The end of the night",
+    "The wedding of the Lamb"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Church",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Let us rejoice and be glad and give him glory! For the wedding of the Lamb has come, and his bride has made herself ready.\""
+}

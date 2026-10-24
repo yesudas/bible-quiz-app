@@ -1,0 +1,32 @@
+{
+  "id": "45-002-013",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 2,
+  "verse_reference": "Romans 2:25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Paul, when does circumcision have value?",
+  "options": [
+    "If you observe the law",
+    "If it is done in Jerusalem",
+    "If a priest performs it",
+    "If it is done on the Sabbath"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Covenant"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says circumcision has value if you observe the law, but breaking the law makes it as though you were uncircumcised."
+}

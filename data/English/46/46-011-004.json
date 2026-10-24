@@ -1,0 +1,33 @@
+{
+  "id": "46-011-004",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 11,
+  "verse_reference": "1 Corinthians 11:20-21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Paul say their meetings were not really the Lord's Supper?",
+  "options": [
+    "They used the wrong bread",
+    "They met on the wrong day",
+    "No one prayed",
+    "Each went ahead with their own meal, so one stayed hungry while another got drunk"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Church",
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Each person went ahead with their own private supper, so one person remained hungry while another got drunk."
+}

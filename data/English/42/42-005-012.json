@@ -1,0 +1,33 @@
+{
+  "id": "42-005-012",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "After healing the leper, what did Jesus tell him to do?",
+  "options": [
+    "Tell everyone in town",
+    "Follow him as a disciple",
+    "Go back to his family at once",
+    "Show himself to the priest and offer the sacrifices Moses commanded"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Obedience"
+  ],
+  "characters": [
+    "Jesus",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus ordered him not to tell anyone, but to show himself to the priest and offer the sacrifices Moses commanded as a testimony."
+}

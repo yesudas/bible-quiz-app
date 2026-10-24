@@ -1,0 +1,32 @@
+{
+  "id": "43-010-006",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 10,
+  "verse_reference": "John 10:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What does the hired hand do when he sees the wolf coming?",
+  "options": [
+    "He fights the wolf",
+    "He calls the shepherd",
+    "He abandons the sheep and runs away",
+    "He hides the sheep in the pen"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 10:12 says the hired hand is not the shepherd and does not own the sheep, so when he sees the wolf coming, he abandons the sheep and runs away."
+}

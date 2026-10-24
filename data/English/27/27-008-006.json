@@ -1,0 +1,32 @@
+{
+  "id": "27-008-006",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 8,
+  "verse_reference": "Daniel 8:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened when the goat attacked the ram?",
+  "options": [
+    "The ram won",
+    "They became friends",
+    "The goat shattered the ram's two horns",
+    "The goat ran away"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The goat attacked the ram furiously, shattered its two horns, knocked it to the ground and trampled on it."
+}

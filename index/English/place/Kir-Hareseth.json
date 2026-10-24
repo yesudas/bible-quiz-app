@@ -3,10 +3,11 @@
     "language": "English",
     "place": "Kir-Hareseth",
     "label": "Kir Hareseth",
-    "count": 2,
+    "count": 3,
     "paths": [
         "English/12/12-003-017.json",
-        "English/12/12-003-018.json"
+        "English/12/12-003-018.json",
+        "English/24/24-048-008.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

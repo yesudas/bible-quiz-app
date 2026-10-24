@@ -1,0 +1,33 @@
+{
+  "id": "24-002-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 2,
+  "verse_reference": "Jeremiah 2:8",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "By which false god did the prophets prophesy?",
+  "options": [
+    "Molek",
+    "Dagon",
+    "Baal",
+    "Chemosh"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Prophecy",
+    "Worship"
+  ],
+  "characters": [
+    "Baal"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said the prophets prophesied by Baal and followed worthless idols."
+}

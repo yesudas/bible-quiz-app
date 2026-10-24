@@ -1,0 +1,42 @@
+{
+  "id": "43-002-016",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 2,
+  "verse_reference": "John 2:21-22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When Jesus spoke of raising the temple in three days, what temple did he mean?",
+  "options": [
+    "The temple in Jerusalem",
+    "A new temple in Galilee",
+    "The heavenly temple",
+    "His body"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Prophecy",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 2:21-22 says the temple he had spoken of was his body. After he was raised from the dead, his disciples remembered this."
+}

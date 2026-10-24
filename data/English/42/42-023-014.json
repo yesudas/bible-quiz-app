@@ -1,0 +1,37 @@
+{
+  "id": "42-023-014",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 23,
+  "verse_reference": "Luke 23:34",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the soldiers divide Jesus' clothes?",
+  "options": [
+    "They burned them",
+    "They gave them to his mother",
+    "By casting lots",
+    "They tore them into pieces"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "The Skull",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They divided up his clothes by casting lots."
+}

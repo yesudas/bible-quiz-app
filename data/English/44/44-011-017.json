@@ -1,0 +1,40 @@
+{
+  "id": "44-011-017",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 11,
+  "verse_reference": "Acts 11:30",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "By whom did the church in Antioch send its gift to the elders?",
+  "options": [
+    "Peter and John",
+    "Barnabas and Saul",
+    "Silas and Timothy",
+    "Agabus and Simeon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Love",
+    "Leadership"
+  ],
+  "characters": [
+    "Barnabas",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Judea",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They sent their gift to the elders by Barnabas and Saul."
+}

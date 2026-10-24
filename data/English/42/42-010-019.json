@@ -1,0 +1,38 @@
+{
+  "id": "42-010-019",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:35",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How much did the Samaritan give the innkeeper the next day?",
+  "options": [
+    "Ten silver coins",
+    "Thirty pieces of silver",
+    "Two denarii",
+    "One gold coin"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Money",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Inn",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The next day he took out two denarii and gave them to the innkeeper, promising to pay back any extra expense."
+}

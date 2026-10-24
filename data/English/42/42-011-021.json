@@ -1,0 +1,38 @@
+{
+  "id": "42-011-021",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:39",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus say the Pharisees cleaned while being full of greed inside?",
+  "options": [
+    "The outside of the cup and dish",
+    "Their hands only",
+    "The temple steps",
+    "Their sandals"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus",
+    "Pharisees"
+  ],
+  "places": [
+    {
+      "name": "Pharisee's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'You Pharisees clean the outside of the cup and dish, but inside you are full of greed and wickedness.'"
+}

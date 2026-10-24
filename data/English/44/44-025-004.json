@@ -1,0 +1,40 @@
+{
+  "id": "44-025-004",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 25,
+  "verse_reference": "Acts 25:6",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How long did Festus spend in Jerusalem before going back to Caesarea?",
+  "options": [
+    "Two or three days",
+    "Three months",
+    "One day",
+    "Eight or ten days"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Festus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Caesarea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After spending eight or ten days with them, Festus went down to Caesarea."
+}

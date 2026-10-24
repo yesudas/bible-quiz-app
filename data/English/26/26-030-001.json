@@ -1,0 +1,35 @@
+{
+  "id": "26-030-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 30,
+  "verse_reference": "Ezekiel 30:2-3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"For the day is near, the day of the ______ is near\u2014a day of clouds, a time of doom for the nations.\"",
+  "options": [
+    "LORD",
+    "king",
+    "harvest",
+    "battle"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezekiel was told to wail, 'Alas for that day!' because the day of the LORD was near, a day of clouds and a time of doom for the nations."
+}

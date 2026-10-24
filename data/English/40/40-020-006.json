@@ -1,0 +1,38 @@
+{
+  "id": "40-020-006",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 20,
+  "verse_reference": "Matthew 20:9-10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How much did the workers who started at five in the afternoon receive?",
+  "options": [
+    "A denarius",
+    "Nothing",
+    "A tenth of a denarius",
+    "Half a denarius"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Vineyard",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 20:9 says the workers hired about five in the afternoon each received a denarius."
+}

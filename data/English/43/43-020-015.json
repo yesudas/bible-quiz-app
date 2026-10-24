@@ -1,0 +1,44 @@
+{
+  "id": "43-020-015",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 20,
+  "verse_reference": "John 20:28",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "After seeing Jesus, Thomas said: \"My Lord and my ___!\"",
+  "options": [
+    "Master",
+    "Savior",
+    "God",
+    "King"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Worship",
+    "Jesus"
+  ],
+  "characters": [
+    "Thomas",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "House with locked doors",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 20:28, Thomas said to him, \"My Lord and my God!\""
+}

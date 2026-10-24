@@ -1,0 +1,33 @@
+{
+  "id": "47-004-010",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 4,
+  "verse_reference": "2 Corinthians 4:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Though outwardly we are wasting away, what did Paul say is happening inwardly?",
+  "options": [
+    "We are becoming tired",
+    "We are being renewed day by day",
+    "We are growing weaker",
+    "We are becoming angry"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said that though outwardly we are wasting away, inwardly we are being renewed day by day."
+}

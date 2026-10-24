@@ -1,0 +1,39 @@
+{
+  "id": "24-002-013",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 2,
+  "verse_reference": "Jeremiah 2:36",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "God said His people would be disappointed by Egypt, just as they had been disappointed by which nation?",
+  "options": [
+    "Assyria",
+    "Philistia",
+    "Aram",
+    "Edom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God warned that they would be disappointed by Egypt as they were by Assyria."
+}

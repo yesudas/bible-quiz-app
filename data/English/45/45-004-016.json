@@ -1,0 +1,32 @@
+{
+  "id": "45-004-016",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 4,
+  "verse_reference": "Romans 4:25",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Romans 4:25, why was Jesus raised to life?",
+  "options": [
+    "To become king of Rome",
+    "To rebuild the temple",
+    "For our justification",
+    "To give a new law"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says Jesus was delivered over to death for our sins and was raised to life for our justification."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "42-002-014",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 2,
+  "verse_reference": "Luke 2:24",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What sacrifice did Joseph and Mary offer at the temple?",
+  "options": [
+    "A lamb and a goat",
+    "A pair of doves or two young pigeons",
+    "A young bull",
+    "Grain and oil"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Worship"
+  ],
+  "characters": [
+    "Joseph",
+    "Mary"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They offered a sacrifice as the Law said: a pair of doves or two young pigeons."
+}

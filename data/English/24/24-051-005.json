@@ -1,0 +1,36 @@
+{
+  "id": "24-051-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 51,
+  "verse_reference": "Jeremiah 51:45",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete God's call: \"Come out of her, my people! Run for your ____!\"",
+  "options": [
+    "lives",
+    "homes",
+    "children",
+    "God"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God called His people to leave Babylon: \"Come out of her, my people! Run for your lives! Run from the fierce anger of the LORD.\""
+}

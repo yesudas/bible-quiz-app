@@ -1,0 +1,38 @@
+{
+  "id": "42-014-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 14,
+  "verse_reference": "Luke 14:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus ask the Pharisees to show that healing on the Sabbath was right?",
+  "options": [
+    "Would you not fast on the Sabbath?",
+    "Would you not light a lamp?",
+    "Would you not go to the synagogue?",
+    "If your child or ox falls into a well on the Sabbath, will you not pull it out?"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Love"
+  ],
+  "characters": [
+    "Jesus",
+    "Pharisees"
+  ],
+  "places": [
+    {
+      "name": "House of a prominent Pharisee",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked, 'If one of you has a child or an ox that falls into a well on the Sabbath day, will you not immediately pull it out?'"
+}

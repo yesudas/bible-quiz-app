@@ -1,0 +1,41 @@
+{
+  "id": "41-001-017",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 1,
+  "verse_reference": "Mark 1:21-22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why were the people in the Capernaum synagogue amazed at Jesus' teaching?",
+  "options": [
+    "He taught as one who had authority, not as the teachers of the law",
+    "He read from a scroll no one had seen",
+    "He spoke in many languages",
+    "He taught only in parables"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    },
+    {
+      "name": "Synagogue in Capernaum",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people were amazed because Jesus taught them as one who had authority, not as the teachers of the law."
+}

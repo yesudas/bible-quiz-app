@@ -1,0 +1,31 @@
+{
+  "id": "28-006-004",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 6,
+  "verse_reference": "Hosea 6:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Hosea said the LORD would come to His people like what?",
+  "options": [
+    "A strong wind",
+    "The winter rains and spring rains",
+    "A fire in the night",
+    "A great flood"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As surely as the sun rises, He will appear; He will come like the winter rains and the spring rains that water the earth."
+}

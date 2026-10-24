@@ -1,0 +1,38 @@
+{
+  "id": "24-039-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 39,
+  "verse_reference": "Jeremiah 39:3",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the officials of the king of Babylon take their seats after entering Jerusalem?",
+  "options": [
+    "At the Benjamin Gate",
+    "In the temple court",
+    "At the Middle Gate",
+    "In the royal palace"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Middle Gate",
+      "type": "gate"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All the officials of the king of Babylon came and took seats in the Middle Gate."
+}

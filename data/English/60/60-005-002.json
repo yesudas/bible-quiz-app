@@ -1,0 +1,31 @@
+{
+  "id": "60-005-002",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 5,
+  "verse_reference": "1 Peter 5:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What does Peter tell the elders to be?",
+  "options": [
+    "Judges of the people",
+    "Shepherds of God's flock",
+    "Rulers of the nations",
+    "Guards of the temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Church"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter tells the elders to be shepherds of God's flock that is under their care."
+}

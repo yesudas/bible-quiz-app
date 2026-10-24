@@ -1,0 +1,38 @@
+{
+  "id": "40-021-021",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 21,
+  "verse_reference": "Matthew 21:37-39",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "Last of all, whom did the landowner send to the tenants?",
+  "options": [
+    "His wife",
+    "His steward",
+    "His son",
+    "His soldiers"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Vineyard",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 21:37-39 says last of all he sent his son, saying, \"They will respect my son,\" but they took him, threw him out of the vineyard and killed him."
+}

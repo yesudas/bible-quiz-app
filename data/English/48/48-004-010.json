@@ -1,0 +1,38 @@
+{
+  "id": "48-004-010",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 4,
+  "verse_reference": "Galatians 4:19",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Paul compared himself to a mother in pain until what happened in the Galatians?",
+  "options": [
+    "They built a church",
+    "They were baptized",
+    "Christ was formed in them",
+    "They paid their debts"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship",
+    "Jesus",
+    "Love"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Galatia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul called them his dear children and said he was again in the pains of childbirth until Christ is formed in them."
+}

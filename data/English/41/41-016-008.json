@@ -1,0 +1,38 @@
+{
+  "id": "41-016-008",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 16,
+  "verse_reference": "Mark 16:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Which disciple did the young man mention by name when telling the women to go and tell the disciples?",
+  "options": [
+    "John",
+    "Thomas",
+    "James",
+    "Peter"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Forgiveness",
+    "Discipleship"
+  ],
+  "characters": [
+    "Simon Peter",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He said, \"But go, tell his disciples and Peter, 'He is going ahead of you into Galilee. There you will see him, just as he told you.'\""
+}

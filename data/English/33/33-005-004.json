@@ -1,0 +1,35 @@
+{
+  "id": "33-005-004",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 5,
+  "verse_reference": "Micah 5:1",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Micah 5:1, how would Israel's ruler be struck?",
+  "options": [
+    "On the cheek with a rod",
+    "On the head with a stone",
+    "On the back with a whip",
+    "On the hand with a sword"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micah said the enemy would strike Israel's ruler on the cheek with a rod."
+}

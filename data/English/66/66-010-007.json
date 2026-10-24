@@ -1,0 +1,29 @@
+{
+  "id": "66-010-007",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 10,
+  "verse_reference": "Revelation 10:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the angel's oath: \"There will be no more ____!\"",
+  "options": [
+    "delay",
+    "night",
+    "tears",
+    "war"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel raised his right hand to heaven and swore by him who lives for ever and ever, \"There will be no more delay!\""
+}

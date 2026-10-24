@@ -1,0 +1,30 @@
+{
+  "id": "61-001-015",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 1,
+  "verse_reference": "2 Peter 1:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Peter, how did the prophets speak from God?",
+  "options": [
+    "They used their own wisdom",
+    "They copied older writings",
+    "They were carried along by the Holy Spirit",
+    "They learned it from angels"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Holy Spirit"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter says prophecy never came from human will; prophets spoke from God as they were carried along by the Holy Spirit."
+}

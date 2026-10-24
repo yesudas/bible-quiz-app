@@ -1,0 +1,35 @@
+{
+  "id": "66-018-009",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 18,
+  "verse_reference": "Revelation 18:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the merchants of the earth weep and mourn over Babylon?",
+  "options": [
+    "Because their families had died",
+    "Because no one buys their cargoes any more",
+    "Because they were put in prison",
+    "Because the sea had dried up"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The merchants of the earth will weep and mourn over her because no one buys their cargoes any more."
+}

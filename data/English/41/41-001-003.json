@@ -1,0 +1,37 @@
+{
+  "id": "41-001-003",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 1,
+  "verse_reference": "Mark 1:6",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did John the Baptist eat?",
+  "options": [
+    "Bread and fish",
+    "Figs and olives",
+    "Locusts and wild honey",
+    "Manna and quail"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John wore clothing made of camel's hair and ate locusts and wild honey."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "26-045-008",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 45,
+  "verse_reference": "Ezekiel 45:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What kind of bread was eaten during the seven days of Passover?",
+  "options": [
+    "Bread made with honey",
+    "Bread made without yeast",
+    "Barley loaves",
+    "Bread baked with oil"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "During the seven-day Passover festival they were to eat bread made without yeast."
+}

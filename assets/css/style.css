@@ -147,6 +147,27 @@ a:hover { color: var(--navy); }
     cursor: pointer;
 }
 
+.header-help {
+    flex-shrink: 0;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    background: rgba(255, 255, 255, 0.12);
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.header-help:hover {
+    background: rgba(255, 255, 255, 0.22);
+    color: #fff;
+}
+
 .brand-title {
     display: block;
     font-family: var(--font-brand);
@@ -1010,6 +1031,13 @@ input[type="radio"] {
     margin-top: 16px;
 }
 
+.pdf-download-ready {
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
 .review-list {
     margin-top: 4px;
 }
@@ -1342,13 +1370,6 @@ input[type="radio"] {
     gap: 10px;
 }
 
-.modal-field-plain input {
-    width: auto;
-    box-sizing: content-box;
-    padding: 0;
-    border: 0;
-    border-radius: 0;
-}
 
 .modal-field-country {
     flex: 0 0 42%;
@@ -1768,4 +1789,80 @@ body.embed-page {
 .embed-code-input {
     font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
     resize: vertical;
+}
+
+/* help.php — step-by-step manual */
+.help-intro p {
+    margin: 0 0 16px;
+}
+
+.help-toc {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.help-toc a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 8px 14px;
+    border-radius: 999px;
+    background: #f6f2ff;
+    color: var(--navy);
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 800;
+}
+
+.help-toc a:hover {
+    background: var(--navy);
+    color: #fff;
+}
+
+.help-section-intro {
+    margin: 0 0 20px;
+}
+
+.help-steps {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.help-step {
+    border-left: 4px solid var(--teal);
+    padding-left: 16px;
+}
+
+.help-step h3 {
+    margin: 0 0 6px;
+    font-family: var(--font-brand);
+    font-size: 1.05rem;
+    color: var(--ink);
+}
+
+.help-step p {
+    margin: 0 0 10px;
+    color: var(--muted);
+}
+
+.help-mockup {
+    max-width: 600px;
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+.help-mockup-svg {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width: 480px) {
+    .help-toc a { font-size: 0.82rem; padding: 7px 12px; }
+    .help-step { padding-left: 12px; }
 }

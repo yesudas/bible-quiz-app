@@ -1,0 +1,35 @@
+{
+  "id": "66-008-004",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 8,
+  "verse_reference": "Revelation 8:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the angel do after filling the censer with fire from the altar?",
+  "options": [
+    "Placed it on the throne",
+    "Gave it to the elders",
+    "Poured it into the sea",
+    "Hurled it on the earth"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Angels",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel filled the censer with fire from the altar and hurled it on the earth, and there came thunder, rumblings, flashes of lightning and an earthquake."
+}

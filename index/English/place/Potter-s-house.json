@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Potter-s-house",
+    "label": "Potter's house",
+    "count": 3,
+    "paths": [
+        "English/24/24-018-001.json",
+        "English/24/24-018-002.json",
+        "English/24/24-018-003.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,21 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Malta",
+    "label": "Malta",
+    "count": 11,
+    "paths": [
+        "English/44/44-027-019.json",
+        "English/44/44-028-001.json",
+        "English/44/44-028-002.json",
+        "English/44/44-028-003.json",
+        "English/44/44-028-004.json",
+        "English/44/44-028-005.json",
+        "English/44/44-028-006.json",
+        "English/44/44-028-007.json",
+        "English/44/44-028-008.json",
+        "English/44/44-028-009.json",
+        "English/44/44-028-010.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

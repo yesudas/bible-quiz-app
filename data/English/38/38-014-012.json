@@ -1,0 +1,38 @@
+{
+  "id": "38-014-012",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 14,
+  "verse_reference": "Zechariah 14:20-21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What do the holy cooking pots and horse bells in Zechariah 14:20-21 show?",
+  "options": [
+    "Only the temple will be holy",
+    "Everyday things will be holy to the Lord",
+    "The priests will leave Jerusalem",
+    "Horses will be used in the temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "House of the Lord",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Even ordinary things like horse bells and every pot in Jerusalem and Judah will be holy to the Lord."
+}

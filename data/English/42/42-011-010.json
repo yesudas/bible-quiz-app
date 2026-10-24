@@ -1,0 +1,33 @@
+{
+  "id": "42-011-010",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "By whom did some people claim Jesus was driving out demons?",
+  "options": [
+    "By Moses",
+    "By Beelzebul, the prince of demons",
+    "By the high priest",
+    "By the Roman gods"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Satan",
+    "Unbelief"
+  ],
+  "characters": [
+    "Jesus",
+    "Beelzebul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some said, 'By Beelzebul, the prince of demons, he is driving out demons.'"
+}

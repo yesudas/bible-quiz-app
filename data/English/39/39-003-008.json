@@ -1,0 +1,36 @@
+{
+  "id": "39-003-008",
+  "language": "en",
+  "book_no": 39,
+  "book": "Malachi",
+  "chapter": 3,
+  "verse_reference": "Malachi 3:10",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did God tell the people to bring the whole tithe?",
+  "options": [
+    "Into the palace",
+    "Into the storehouse",
+    "To the city gate",
+    "To the high places"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Storehouse",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said to bring the whole tithe into the storehouse so there would be food in His house."
+}

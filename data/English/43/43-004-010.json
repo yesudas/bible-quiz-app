@@ -1,0 +1,46 @@
+{
+  "id": "43-004-010",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 4,
+  "verse_reference": "John 4:25-26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When the woman spoke about the coming Messiah, what did Jesus tell her?",
+  "options": [
+    "The Messiah will come in three days",
+    "John the Baptist is the Messiah",
+    "The Messiah will come from Samaria",
+    "I, the one speaking to you—I am he"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus",
+    "Samaritan woman"
+  ],
+  "places": [
+    {
+      "name": "Sychar",
+      "type": "town"
+    },
+    {
+      "name": "Samaria",
+      "type": "region"
+    },
+    {
+      "name": "Jacob's well",
+      "type": "well"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 4:26, Jesus told her, \"I, the one speaking to you—I am he.\""
+}

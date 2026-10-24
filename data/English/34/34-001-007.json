@@ -1,0 +1,33 @@
+{
+  "id": "34-001-007",
+  "language": "en",
+  "book_no": 34,
+  "book": "Nahum",
+  "chapter": 1,
+  "verse_reference": "Nahum 1:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"The LORD is good, a ______ in times of trouble.\"",
+  "options": [
+    "light",
+    "refuge",
+    "shepherd",
+    "king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nahum 1:7 says the LORD is good, a refuge in times of trouble, and He cares for those who trust in Him."
+}

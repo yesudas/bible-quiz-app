@@ -3,13 +3,17 @@
     "language": "English",
     "place": "Ashkelon",
     "label": "Ashkelon",
-    "count": 5,
+    "count": 9,
     "paths": [
         "English/06/06-013-002.json",
         "English/07/07-001-013.json",
         "English/07/07-014-015.json",
         "English/09/09-006-011.json",
-        "English/10/10-001-010.json"
+        "English/10/10-001-010.json",
+        "English/24/24-047-005.json",
+        "English/30/30-001-013.json",
+        "English/36/36-002-005.json",
+        "English/38/38-009-003.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

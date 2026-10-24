@@ -1,0 +1,33 @@
+{
+  "id": "46-003-007",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 3,
+  "verse_reference": "1 Corinthians 3:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"For no one can lay any foundation other than the one already laid, which is ______.\"",
+  "options": [
+    "the law",
+    "Jesus Christ",
+    "the gospel",
+    "the church"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Church"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus Christ is the only true foundation for God's people."
+}

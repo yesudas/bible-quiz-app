@@ -1,0 +1,33 @@
+{
+  "id": "54-004-003",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 4,
+  "verse_reference": "1 Timothy 4:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"For everything God created is ____, and nothing is to be rejected if it is received with thanksgiving.\"",
+  "options": [
+    "holy",
+    "clean",
+    "good",
+    "pure"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation",
+    "Prayer"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul taught that everything God created is good and nothing is to be rejected if received with thanksgiving."
+}

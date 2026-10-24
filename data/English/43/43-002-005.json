@@ -1,0 +1,41 @@
+{
+  "id": "43-002-005",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 2,
+  "verse_reference": "John 2:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus tell the servants to fill with water?",
+  "options": [
+    "Six stone water jars",
+    "Twelve baskets",
+    "Seven wineskins",
+    "The well"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Cana",
+      "type": "village"
+    },
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 2:6-7 says there were six stone water jars nearby, and Jesus told the servants to fill them with water."
+}

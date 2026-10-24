@@ -1,0 +1,32 @@
+{
+  "id": "54-006-003",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 6,
+  "verse_reference": "1 Timothy 6:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "What did Paul say we can take out of the world?",
+  "options": [
+    "Our money",
+    "Our houses",
+    "Nothing",
+    "Our good name"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said we brought nothing into the world, and we can take nothing out of it."
+}

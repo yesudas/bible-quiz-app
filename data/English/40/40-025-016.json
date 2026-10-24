@@ -1,0 +1,32 @@
+{
+  "id": "40-025-016",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:27",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "The master said the servant should at least have put his money on deposit with whom, to earn interest?",
+  "options": [
+    "The priests",
+    "The tax collectors",
+    "His neighbors",
+    "The bankers"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:27 says, \"Well then, you should have put my money on deposit with the bankers, so that when I returned I would have received it back with interest.\""
+}

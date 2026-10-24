@@ -1,0 +1,38 @@
+{
+  "id": "40-018-020",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 18,
+  "verse_reference": "Matthew 18:30",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "What did the forgiven servant do to the fellow servant who could not pay?",
+  "options": [
+    "Had him thrown into prison",
+    "Forgave him",
+    "Gave him a job",
+    "Took him to the temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Prison",
+      "type": "prison"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 18:30 says he refused and had the man thrown into prison until he could pay the debt."
+}

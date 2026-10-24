@@ -1,0 +1,38 @@
+{
+  "id": "42-007-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 7,
+  "verse_reference": "Luke 7:40",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "What was the name of the Pharisee who invited Jesus to eat with him?",
+  "options": [
+    "Nicodemus",
+    "Gamaliel",
+    "Simon",
+    "Joseph"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Forgiveness"
+  ],
+  "characters": [
+    "Simon the Pharisee",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Pharisee's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said to him, 'Simon, I have something to tell you.'"
+}

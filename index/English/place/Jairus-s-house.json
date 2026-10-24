@@ -1,0 +1,18 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Jairus-s-house",
+    "label": "Jairus's house",
+    "count": 8,
+    "paths": [
+        "English/41/41-005-018.json",
+        "English/41/41-005-019.json",
+        "English/41/41-005-020.json",
+        "English/41/41-005-021.json",
+        "English/41/41-005-022.json",
+        "English/42/42-008-021.json",
+        "English/42/42-008-026.json",
+        "English/42/42-008-027.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

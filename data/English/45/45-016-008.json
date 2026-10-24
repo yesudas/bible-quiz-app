@@ -1,0 +1,30 @@
+{
+  "id": "45-016-008",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 16,
+  "verse_reference": "Romans 16:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"I want you to be wise about what is good, and ______ about what is evil.\"",
+  "options": [
+    "careful",
+    "innocent",
+    "silent",
+    "angry"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wants believers to be wise about what is good and innocent about what is evil."
+}

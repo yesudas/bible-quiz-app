@@ -1,0 +1,34 @@
+{
+  "id": "26-039-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 39,
+  "verse_reference": "Ezekiel 39:9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "For how many years would the Israelites use the enemy's weapons for fuel?",
+  "options": [
+    "Three years",
+    "Seven years",
+    "Forty years",
+    "Seventy years"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Israelites would use the weapons for fuel and burn them up; for seven years they would use them for fuel."
+}

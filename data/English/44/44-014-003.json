@@ -1,0 +1,45 @@
+{
+  "id": "44-014-003",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 14,
+  "verse_reference": "Acts 14:5-6",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "When a plot to stone them arose in Iconium, to which cities did Paul and Barnabas flee?",
+  "options": [
+    "Tyre and Sidon",
+    "Lystra and Derbe",
+    "Perga and Attalia",
+    "Philippi and Thessalonica"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Paul",
+    "Barnabas"
+  ],
+  "places": [
+    {
+      "name": "Lystra",
+      "type": "city"
+    },
+    {
+      "name": "Derbe",
+      "type": "city"
+    },
+    {
+      "name": "Lycaonia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They found out about the plot and fled to the Lycaonian cities of Lystra and Derbe."
+}

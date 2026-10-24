@@ -1,0 +1,31 @@
+{
+  "id": "53-003-010",
+  "language": "en",
+  "book_no": 53,
+  "book": "2 Thessalonians",
+  "chapter": 3,
+  "verse_reference": "2 Thessalonians 3:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Paul show that this letter was truly from him?",
+  "options": [
+    "He sealed it with a ring",
+    "He wrote a greeting in his own handwriting",
+    "He sent it with an angel",
+    "He signed it with Timothy's name"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote the greeting in his own hand, which he said was the distinguishing mark in all his letters."
+}

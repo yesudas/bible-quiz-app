@@ -1,0 +1,28 @@
+{
+  "id": "30-002-012",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 2,
+  "verse_reference": "Amos 2:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "\"Now then, I will crush you as a cart crushes when loaded with ____.\"",
+  "options": [
+    "stones",
+    "grain",
+    "wood",
+    "iron"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Amos 2:13 God compares His judgment to a cart crushing when it is loaded with grain."
+}

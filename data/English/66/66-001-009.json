@@ -1,0 +1,31 @@
+{
+  "id": "66-001-009",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 1,
+  "verse_reference": "Revelation 1:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"I am the Alpha and the ____,\" says the Lord God.",
+  "options": [
+    "Beginning",
+    "Ending",
+    "Almighty",
+    "Omega"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "God",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Alpha and Omega are the first and last letters of the Greek alphabet. God calls himself the Alpha and the Omega."
+}

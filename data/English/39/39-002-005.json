@@ -1,0 +1,30 @@
+{
+  "id": "39-002-005",
+  "language": "en",
+  "book_no": 39,
+  "book": "Malachi",
+  "chapter": 2,
+  "verse_reference": "Malachi 2:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"For the lips of a priest ought to preserve ______.\"",
+  "options": [
+    "peace",
+    "knowledge",
+    "honor",
+    "silence"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A priest's lips should preserve knowledge, because he is the messenger of the LORD Almighty."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "24-050-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 50,
+  "verse_reference": "Jeremiah 50:34",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Yet their ____ is strong; the LORD Almighty is his name.\"",
+  "options": [
+    "King",
+    "Redeemer",
+    "Shepherd",
+    "Shield"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah 50:34 says, \"Yet their Redeemer is strong; the LORD Almighty is his name.\""
+}

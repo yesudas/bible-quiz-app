@@ -1,0 +1,37 @@
+{
+  "id": "41-002-005",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 2,
+  "verse_reference": "Mark 2:6-7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did some teachers of the law think Jesus was blaspheming?",
+  "options": [
+    "He healed on the Sabbath",
+    "He touched a sick man",
+    "He ate with sinners",
+    "They believed only God can forgive sins"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Forgiveness",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "House in Capernaum",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The teachers of the law thought, \"Who can forgive sins but God alone?\""
+}

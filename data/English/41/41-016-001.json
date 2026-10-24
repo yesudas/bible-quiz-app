@@ -1,0 +1,39 @@
+{
+  "id": "41-016-001",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 16,
+  "verse_reference": "Mark 16:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did the women buy spices when the Sabbath was over?",
+  "options": [
+    "To sell in the market",
+    "To anoint Jesus' body",
+    "To burn in the temple",
+    "To give to the disciples"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Discipleship"
+  ],
+  "characters": [
+    "Mary Magdalene",
+    "Salome"
+  ],
+  "places": [
+    {
+      "name": "Tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the Sabbath was over, Mary Magdalene, Mary the mother of James, and Salome bought spices so that they might go to anoint Jesus' body."
+}

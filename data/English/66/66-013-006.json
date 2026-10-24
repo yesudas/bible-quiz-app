@@ -1,0 +1,30 @@
+{
+  "id": "66-013-006",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 13,
+  "verse_reference": "Revelation 13:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete what the people said as they worshipped the beast: \"Who is like the beast? Who can wage ____ against it?\"",
+  "options": [
+    "battle",
+    "words",
+    "war",
+    "judgment"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "People worshipped the dragon and the beast, asking, \"Who is like the beast? Who can wage war against it?\""
+}

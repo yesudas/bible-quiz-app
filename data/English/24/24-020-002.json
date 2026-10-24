@@ -1,0 +1,41 @@
+{
+  "id": "24-020-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 20,
+  "verse_reference": "Jeremiah 20:2",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Pashhur put Jeremiah in the stocks?",
+  "options": [
+    "At the Upper Gate of Benjamin",
+    "At the Potsherd Gate",
+    "In the king's prison",
+    "At the Fish Gate"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Pashhur",
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Upper Gate of Benjamin",
+      "type": "gate"
+    },
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pashhur had Jeremiah beaten and put in the stocks at the Upper Gate of Benjamin at the LORD's temple."
+}

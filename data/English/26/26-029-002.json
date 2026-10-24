@@ -1,0 +1,40 @@
+{
+  "id": "26-029-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 29,
+  "verse_reference": "Ezekiel 29:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Pharaoh proudly say about the Nile?",
+  "options": [
+    "\"The Nile is a gift from the gods.\"",
+    "\"The Nile will never dry up.\"",
+    "\"The Nile belongs to me; I made it for myself.\"",
+    "\"The Nile protects my kingdom.\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Pharaoh"
+  ],
+  "places": [
+    {
+      "name": "Nile River",
+      "type": "river"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God described Pharaoh as a great monster lying among his streams, who said, 'The Nile belongs to me; I made it for myself.'"
+}

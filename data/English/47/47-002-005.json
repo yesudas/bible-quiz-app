@@ -1,0 +1,32 @@
+{
+  "id": "47-002-005",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 2,
+  "verse_reference": "2 Corinthians 2:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"I urge you, therefore, to reaffirm your ______ for him.\"",
+  "options": [
+    "faith",
+    "love",
+    "trust",
+    "hope"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul urged the church to reaffirm their love for the man who had been punished."
+}

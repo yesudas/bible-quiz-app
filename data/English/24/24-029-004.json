@@ -1,0 +1,36 @@
+{
+  "id": "24-029-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 29,
+  "verse_reference": "Jeremiah 29:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God tell the exiles to seek for the city where He had carried them?",
+  "options": [
+    "Its peace and prosperity",
+    "Its destruction",
+    "Its gold",
+    "Its king's throne"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Love"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"Seek the peace and prosperity of the city to which I have carried you into exile. Pray to the LORD for it.\""
+}

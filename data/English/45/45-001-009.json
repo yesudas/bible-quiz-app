@@ -1,0 +1,36 @@
+{
+  "id": "45-001-009",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 1,
+  "verse_reference": "Romans 1:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What had happened when Paul planned many times to visit Rome?",
+  "options": [
+    "He was shipwrecked",
+    "He was prevented from coming",
+    "He changed his mind",
+    "He was forbidden by the Romans"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Rome",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says he planned many times to come to them but had been prevented until now."
+}

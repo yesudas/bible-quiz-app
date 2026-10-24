@@ -1,0 +1,39 @@
+{
+  "id": "28-011-006",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 11,
+  "verse_reference": "Hosea 11:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why would Assyria rule over the people?",
+  "options": [
+    "Because their army was small",
+    "Because they refused to repent",
+    "Because Egypt sold them",
+    "Because their king made a treaty"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said they would return to Egypt and Assyria would rule over them because they refused to repent."
+}

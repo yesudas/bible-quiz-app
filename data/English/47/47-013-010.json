@@ -1,0 +1,35 @@
+{
+  "id": "47-013-010",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 13,
+  "verse_reference": "2 Corinthians 13:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"May the grace of the Lord Jesus Christ, and the love of God, and the ______ of the Holy Spirit be with you all.\"",
+  "options": [
+    "power",
+    "fellowship",
+    "peace",
+    "joy"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Jesus",
+    "Love"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul ended the letter with a blessing of the grace of Jesus Christ, the love of God and the fellowship of the Holy Spirit."
+}

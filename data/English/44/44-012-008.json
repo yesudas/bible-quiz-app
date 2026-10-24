@@ -1,0 +1,38 @@
+{
+  "id": "44-012-008",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 12,
+  "verse_reference": "Acts 12:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened at the iron gate leading to the city?",
+  "options": [
+    "It opened for them by itself",
+    "The angel broke it",
+    "A guard unlocked it",
+    "Peter climbed over it"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Angels"
+  ],
+  "characters": [
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They came to the iron gate leading to the city, and it opened for them by itself."
+}

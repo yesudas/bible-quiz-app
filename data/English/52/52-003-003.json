@@ -1,0 +1,33 @@
+{
+  "id": "52-003-003",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 3,
+  "verse_reference": "1 Thessalonians 3:3-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What had Paul kept telling the Thessalonians while he was with them?",
+  "options": [
+    "That they would become rich",
+    "That they would never be troubled",
+    "That they would be persecuted",
+    "That they would soon move to Jerusalem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution",
+    "Suffering",
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said that when he was with them, he kept telling them they would be persecuted, and it turned out that way."
+}

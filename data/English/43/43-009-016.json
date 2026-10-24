@@ -1,0 +1,37 @@
+{
+  "id": "43-009-016",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 9,
+  "verse_reference": "John 9:35-38",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "After Jesus found the healed man again, what did the man finally do?",
+  "options": [
+    "He went back to the Pharisees",
+    "He went home to his parents",
+    "He asked for money",
+    "He said, \"Lord, I believe,\" and worshiped Jesus"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 9:38, after Jesus told him he was the Son of Man, the man said, \"Lord, I believe,\" and he worshiped him."
+}

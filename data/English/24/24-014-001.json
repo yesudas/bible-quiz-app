@@ -1,0 +1,42 @@
+{
+  "id": "24-014-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 14,
+  "verse_reference": "Jeremiah 14:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "The word of the LORD in Jeremiah 14 came to Jeremiah about what disaster?",
+  "options": [
+    "An earthquake",
+    "A flood",
+    "A drought",
+    "A plague of locusts"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah 14 begins with the word of the LORD to Jeremiah concerning the drought."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "44-005-009",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 5,
+  "verse_reference": "Acts 5:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "People laid the sick in the streets hoping what would fall on them?",
+  "options": [
+    "Peter's cloak",
+    "Water from the temple",
+    "Peter's shadow",
+    "The apostles' hands"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Faith"
+  ],
+  "characters": [
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "People brought the sick into the streets so that at least Peter's shadow might fall on some of them."
+}

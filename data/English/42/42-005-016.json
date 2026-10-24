@@ -1,0 +1,32 @@
+{
+  "id": "42-005-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:21",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who asked, 'Who can forgive sins but God alone?'",
+  "options": [
+    "The disciples",
+    "The Romans",
+    "The man's friends",
+    "The Pharisees and teachers of the law"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Forgiveness",
+    "Unbelief"
+  ],
+  "characters": [
+    "Pharisees"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Pharisees and the teachers of the law thought Jesus was speaking blasphemy and asked who could forgive sins but God alone."
+}

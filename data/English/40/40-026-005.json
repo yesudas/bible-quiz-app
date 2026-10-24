@@ -1,0 +1,38 @@
+{
+  "id": "40-026-005",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the woman pour on Jesus' head?",
+  "options": [
+    "Olive oil from a lamp",
+    "Water from a well",
+    "Wine from a cup",
+    "Very expensive perfume from an alabaster jar"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Home of Simon the Leper",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:7 says a woman came to him with an alabaster jar of very expensive perfume, which she poured on his head."
+}

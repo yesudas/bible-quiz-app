@@ -1,0 +1,40 @@
+{
+  "id": "36-002-011",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 2,
+  "verse_reference": "Zephaniah 2:13",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Which city did Zephaniah say would become desolate and dry as the desert?",
+  "options": [
+    "Jerusalem",
+    "Gaza",
+    "Nineveh",
+    "Bethel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD would destroy Assyria and leave Nineveh utterly desolate and dry as the desert."
+}

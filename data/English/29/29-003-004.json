@@ -1,0 +1,30 @@
+{
+  "id": "29-003-004",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 3,
+  "verse_reference": "Joel 3:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Beat your plowshares into ____ and your pruning hooks into spears.\"",
+  "options": [
+    "shields",
+    "arrows",
+    "swords",
+    "chariots"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God called the nations to prepare for war, turning farming tools into weapons."
+}

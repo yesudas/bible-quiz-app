@@ -1,0 +1,39 @@
+{
+  "id": "40-028-016",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 28,
+  "verse_reference": "Matthew 28:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In whose name did Jesus tell the disciples to baptize?",
+  "options": [
+    "Moses and Elijah",
+    "Peter and the apostles",
+    "The Father and the Son and the Holy Spirit",
+    "John the Baptist"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit",
+    "Mission",
+    "Church"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mountain in Galilee",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 28:19 says, \"baptizing them in the name of the Father and of the Son and of the Holy Spirit.\""
+}

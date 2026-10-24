@@ -1,0 +1,32 @@
+{
+  "id": "45-003-011",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 3,
+  "verse_reference": "Romans 3:24",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Romans 3:24, how are people justified?",
+  "options": [
+    "Freely by God's grace",
+    "By paying money",
+    "By their good deeds",
+    "By their family name"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says all are justified freely by God's grace through the redemption that came by Christ Jesus."
+}

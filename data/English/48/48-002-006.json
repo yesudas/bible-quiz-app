@@ -1,0 +1,34 @@
+{
+  "id": "48-002-006",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 2,
+  "verse_reference": "Galatians 2:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Paul had been entrusted with preaching the gospel to the uncircumcised. Who had been entrusted with the gospel to the circumcised?",
+  "options": [
+    "James",
+    "John",
+    "Barnabas",
+    "Peter"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Mission",
+    "Evangelism"
+  ],
+  "characters": [
+    "Paul",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said he was entrusted with the gospel to the Gentiles, just as Peter had been to the Jews."
+}

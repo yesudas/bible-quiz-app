@@ -1,0 +1,36 @@
+{
+  "id": "24-004-011",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 4,
+  "verse_reference": "Jeremiah 4:27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Even while announcing judgment, what did the LORD promise about the land?",
+  "options": [
+    "It would never be invaded",
+    "He would not destroy it completely",
+    "Its kings would stay on the throne",
+    "It would have rain every year"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said the whole land would be ruined, \"yet I will not destroy it completely.\""
+}

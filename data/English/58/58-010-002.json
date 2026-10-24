@@ -1,0 +1,30 @@
+{
+  "id": "58-010-002",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 10,
+  "verse_reference": "Hebrews 10:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Hebrews 10:3, what did the yearly sacrifices remind people of?",
+  "options": [
+    "Their freedom from Egypt",
+    "God's covenant with Abraham",
+    "Their sins",
+    "The building of the temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 10:3 says those sacrifices are an annual reminder of sins."
+}

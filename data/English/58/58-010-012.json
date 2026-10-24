@@ -1,0 +1,29 @@
+{
+  "id": "58-010-012",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 10,
+  "verse_reference": "Hebrews 10:30",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"It is mine to avenge; I will ____.\"",
+  "options": [
+    "forgive",
+    "forget",
+    "judge",
+    "repay"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 10:30 quotes the Lord: \"It is mine to avenge; I will repay.\""
+}

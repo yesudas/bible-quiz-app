@@ -1,0 +1,30 @@
+{
+  "id": "29-001-010",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 1,
+  "verse_reference": "Joel 1:18",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Why did the cattle moan and the herds wander about?",
+  "options": [
+    "They were sick",
+    "They had no pasture",
+    "A lion was near",
+    "They had no shepherd"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The cattle moaned and the herds milled about because they had no pasture."
+}

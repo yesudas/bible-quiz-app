@@ -1,0 +1,38 @@
+{
+  "id": "44-025-010",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 25,
+  "verse_reference": "Acts 25:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "After Festus conferred with his council, he said, \"You have appealed to Caesar. To Caesar you will ______!\"",
+  "options": [
+    "speak",
+    "go",
+    "answer",
+    "be sent"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Justice"
+  ],
+  "characters": [
+    "Festus",
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Caesarea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Festus declared, 'You have appealed to Caesar. To Caesar you will go!'"
+}

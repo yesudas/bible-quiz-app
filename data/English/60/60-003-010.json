@@ -1,0 +1,33 @@
+{
+  "id": "60-003-010",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 3,
+  "verse_reference": "1 Peter 3:20",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which man built the ark mentioned in 1 Peter 3?",
+  "options": [
+    "Moses",
+    "Abraham",
+    "Enoch",
+    "Noah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Judgment"
+  ],
+  "characters": [
+    "Noah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter mentions God's patience in the days of Noah while the ark was being built."
+}

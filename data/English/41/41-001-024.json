@@ -1,0 +1,33 @@
+{
+  "id": "41-001-024",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 1,
+  "verse_reference": "Mark 1:43-44",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "After healing the man with leprosy, what did Jesus tell him to do?",
+  "options": [
+    "Tell everyone in the town",
+    "Follow him as a disciple",
+    "Show himself to the priest and offer the sacrifices Moses commanded",
+    "Wash in the Jordan seven times"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told him not to tell anyone, but to show himself to the priest and offer the sacrifices Moses commanded as a testimony."
+}

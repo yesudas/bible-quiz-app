@@ -1,0 +1,33 @@
+{
+  "id": "54-006-011",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 6,
+  "verse_reference": "1 Timothy 6:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Paul told the rich to be rich in what?",
+  "options": [
+    "Good deeds",
+    "Land",
+    "Gold",
+    "Friends"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Love"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul commanded the rich to do good, to be rich in good deeds, and to be generous and willing to share."
+}

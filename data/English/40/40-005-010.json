@@ -1,0 +1,32 @@
+{
+  "id": "40-005-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 5,
+  "verse_reference": "Matthew 5:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' words: \"You are the ______ of the earth.\"",
+  "options": [
+    "light",
+    "salt",
+    "hope",
+    "bread"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Matthew 5:13 Jesus said, \"You are the salt of the earth.\""
+}

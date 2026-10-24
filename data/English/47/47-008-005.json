@@ -1,0 +1,33 @@
+{
+  "id": "47-008-005",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 8,
+  "verse_reference": "2 Corinthians 8:6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did Paul urge to help the Corinthians complete their act of giving?",
+  "options": [
+    "Timothy",
+    "Titus",
+    "Silas",
+    "Apollos"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Church"
+  ],
+  "characters": [
+    "Paul",
+    "Titus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul urged Titus, since he had earlier made a beginning, to bring this act of grace to completion."
+}

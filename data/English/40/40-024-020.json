@@ -1,0 +1,34 @@
+{
+  "id": "40-024-020",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 24,
+  "verse_reference": "Matthew 24:37-39",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Jesus said the coming of the Son of Man will be like the days of whom?",
+  "options": [
+    "Abraham",
+    "Moses",
+    "Noah",
+    "Lot"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus",
+    "Noah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 24:37 says, \"As it was in the days of Noah, so it will be at the coming of the Son of Man.\""
+}

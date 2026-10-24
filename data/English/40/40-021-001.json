@@ -1,0 +1,44 @@
+{
+  "id": "40-021-001",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 21,
+  "verse_reference": "Matthew 21:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "As Jesus approached Jerusalem, he came to Bethphage on which mountain?",
+  "options": [
+    "Mount Sinai",
+    "Mount Carmel",
+    "The Mount of Olives",
+    "Mount Zion"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Bethphage",
+      "type": "village"
+    },
+    {
+      "name": "Mount of Olives",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 21:1 says as they approached Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent two disciples."
+}

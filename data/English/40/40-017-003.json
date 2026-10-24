@@ -1,0 +1,41 @@
+{
+  "id": "40-017-003",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 17,
+  "verse_reference": "Matthew 17:3",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which two men appeared and talked with Jesus on the mountain?",
+  "options": [
+    "Moses and Elijah",
+    "Abraham and David",
+    "Isaiah and Jeremiah",
+    "Noah and Daniel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Law",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus",
+    "Moses",
+    "Elijah"
+  ],
+  "places": [
+    {
+      "name": "High mountain",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 17:3 says there appeared before them Moses and Elijah, talking with Jesus."
+}

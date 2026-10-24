@@ -1,0 +1,31 @@
+{
+  "id": "49-004-008",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 4,
+  "verse_reference": "Ephesians 4:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Instead, speaking the truth in ______, we will grow to become in every respect the mature body.\"",
+  "options": [
+    "anger",
+    "fear",
+    "love",
+    "silence"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Church"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Speaking the truth in love, we grow to become in every respect the mature body of him who is the head, that is, Christ."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "40-026-018",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:38",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Jesus' words in Gethsemane: \"My soul is overwhelmed with ______ to the point of death.\"",
+  "options": [
+    "fear",
+    "anger",
+    "sorrow",
+    "pain"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Gethsemane",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:38 says, \"My soul is overwhelmed with sorrow to the point of death. Stay here and keep watch with me.\""
+}

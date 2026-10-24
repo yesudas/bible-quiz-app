@@ -1,0 +1,33 @@
+{
+  "id": "46-012-013",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 12,
+  "verse_reference": "1 Corinthians 12:27",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Now you are the body of ______, and each one of you is a part of it.\"",
+  "options": [
+    "Christ",
+    "the church",
+    "God",
+    "the Spirit"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul told the believers that together they are the body of Christ, and each one is a part of it."
+}

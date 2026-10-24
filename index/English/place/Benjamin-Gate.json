@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Benjamin-Gate",
+    "label": "Benjamin Gate",
+    "count": 3,
+    "paths": [
+        "English/24/24-037-007.json",
+        "English/24/24-037-008.json",
+        "English/24/24-038-005.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

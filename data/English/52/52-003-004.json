@@ -1,0 +1,34 @@
+{
+  "id": "52-003-004",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 3,
+  "verse_reference": "1 Thessalonians 3:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Paul was afraid that someone might have tempted the Thessalonians and made his work useless. Whom did he call this one?",
+  "options": [
+    "The tempter",
+    "The false teacher",
+    "The ruler of the city",
+    "The jailer"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Temptation",
+    "Satan",
+    "Faith"
+  ],
+  "characters": [
+    "Paul",
+    "Satan"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul sent to find out about their faith, because he was afraid that the tempter had tempted them and his efforts might have been useless."
+}

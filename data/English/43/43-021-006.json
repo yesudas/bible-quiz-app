@@ -1,0 +1,42 @@
+{
+  "id": "43-021-006",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 21,
+  "verse_reference": "John 21:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Peter do when he heard, \"It is the Lord\"?",
+  "options": [
+    "He stayed in the boat",
+    "He wrapped his outer garment around him and jumped into the water",
+    "He pulled in the net alone",
+    "He began to pray"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Faith"
+  ],
+  "characters": [
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "sea"
+    },
+    {
+      "name": "Sea of Tiberias",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 21:7 says as soon as Simon Peter heard that, he wrapped his outer garment around him and jumped into the water."
+}

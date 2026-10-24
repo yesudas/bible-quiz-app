@@ -1,0 +1,30 @@
+{
+  "id": "60-004-007",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 4,
+  "verse_reference": "1 Peter 4:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does Peter say believers should not be surprised at?",
+  "options": [
+    "The fiery ordeal that has come to test them",
+    "The size of the church",
+    "The kindness of strangers",
+    "The coming of spring"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Persecution"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Do not be surprised at the fiery ordeal that has come on you to test you, as though something strange were happening."
+}

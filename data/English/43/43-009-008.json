@@ -1,0 +1,37 @@
+{
+  "id": "43-009-008",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 9,
+  "verse_reference": "John 9:14",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "On what day did Jesus make the mud and open the man's eyes?",
+  "options": [
+    "The first day of the week",
+    "The Passover",
+    "The Day of Atonement",
+    "The Sabbath"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 9:14 says the day on which Jesus had made the mud and opened the man's eyes was a Sabbath."
+}

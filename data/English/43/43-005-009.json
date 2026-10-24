@@ -1,0 +1,40 @@
+{
+  "id": "43-005-009",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 5,
+  "verse_reference": "John 5:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why could the healed man not tell who had healed him?",
+  "options": [
+    "Jesus was wearing a disguise",
+    "He was still blind",
+    "Jesus had slipped away into the crowd",
+    "He had fallen asleep"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Pool of Bethesda",
+      "type": "pool"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 5:13 says the man had no idea who it was, for Jesus had slipped away into the crowd."
+}

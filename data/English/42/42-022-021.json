@@ -1,0 +1,38 @@
+{
+  "id": "42-022-021",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 22,
+  "verse_reference": "Luke 22:61-62",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "What happened right after the rooster crowed during Peter's third denial?",
+  "options": [
+    "Peter ran to Jesus",
+    "Peter hid in the house",
+    "The Lord turned and looked straight at Peter, and Peter went out and wept bitterly",
+    "Peter was arrested"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Courtyard of the high priest",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord turned and looked straight at Peter. Peter remembered Jesus' words, went outside and wept bitterly."
+}

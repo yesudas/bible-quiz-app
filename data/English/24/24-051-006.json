@@ -1,0 +1,39 @@
+{
+  "id": "24-051-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 51,
+  "verse_reference": "Jeremiah 51:59",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was the staff officer who went to Babylon with King Zedekiah and carried Jeremiah's scroll?",
+  "options": [
+    "Baruch son of Neriah",
+    "Seraiah son of Neriah",
+    "Gemariah son of Shaphan",
+    "Ebed-Melek the Cushite"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Seraiah",
+    "Neriah",
+    "Zedekiah",
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah gave this message to the staff officer Seraiah son of Neriah when he went to Babylon with Zedekiah king of Judah in the fourth year of his reign."
+}

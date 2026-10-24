@@ -1,0 +1,37 @@
+{
+  "id": "41-014-006",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 14,
+  "verse_reference": "Mark 14:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say the woman had done by pouring perfume on him?",
+  "options": [
+    "She crowned him as king",
+    "She poured perfume on his body beforehand to prepare for his burial",
+    "She healed him of sickness",
+    "She paid for the Passover meal"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Home of Simon the Leper",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"She did what she could. She poured perfume on my body beforehand to prepare for my burial.\""
+}

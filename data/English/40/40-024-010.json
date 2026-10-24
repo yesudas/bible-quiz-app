@@ -1,0 +1,36 @@
+{
+  "id": "40-024-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 24,
+  "verse_reference": "Matthew 24:16",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Jesus said those in Judea should flee to where?",
+  "options": [
+    "The mountains",
+    "The sea",
+    "The desert of Egypt",
+    "The temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Judea",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 24:16 says, \"Then let those who are in Judea flee to the mountains.\""
+}

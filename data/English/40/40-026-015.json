@@ -1,0 +1,36 @@
+{
+  "id": "40-026-015",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:31",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the Scripture Jesus quoted: \"I will strike the shepherd, and the ______ of the flock will be scattered.\"",
+  "options": [
+    "lambs",
+    "sheep",
+    "goats",
+    "shepherds"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mount of Olives",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:31 says, \"For it is written: 'I will strike the shepherd, and the sheep of the flock will be scattered.'\""
+}

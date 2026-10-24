@@ -1,0 +1,39 @@
+{
+  "id": "24-003-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 3,
+  "verse_reference": "Jeremiah 3:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "God compared faithless Israel with unfaithful Judah. What did He say?",
+  "options": [
+    "Judah was more righteous than Israel",
+    "Both were equally faithful",
+    "Israel had already repented fully",
+    "Faithless Israel was more righteous than unfaithful Judah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said faithless Israel was more righteous than unfaithful Judah, since Judah had seen Israel's judgment and still sinned."
+}

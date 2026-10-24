@@ -1,0 +1,37 @@
+{
+  "id": "26-043-006",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 43,
+  "verse_reference": "Ezekiel 43:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did God tell Ezekiel to describe the temple to the people of Israel?",
+  "options": [
+    "So they would build it in Babylon",
+    "So they would be ashamed of their sins",
+    "So they would pay for it",
+    "So they would forget the old temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Sin"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Ezekiel to describe the temple to the people so that they would be ashamed of their sins."
+}

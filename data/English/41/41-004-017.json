@@ -1,0 +1,38 @@
+{
+  "id": "41-004-017",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 4,
+  "verse_reference": "Mark 4:37-38",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was Jesus doing in the boat during the furious storm?",
+  "options": [
+    "Rowing the boat",
+    "Praying on his knees",
+    "Bailing out water",
+    "Sleeping on a cushion"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While the waves broke over the boat, Jesus was in the stern, sleeping on a cushion."
+}

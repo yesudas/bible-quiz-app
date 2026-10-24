@@ -1,0 +1,32 @@
+{
+  "id": "38-003-003",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 3,
+  "verse_reference": "Zechariah 3:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"The Lord said to Satan, 'The Lord _____ you, Satan!'\"",
+  "options": [
+    "judge",
+    "bind",
+    "curse",
+    "rebuke"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Satan"
+  ],
+  "characters": [
+    "Satan"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord said, 'The Lord rebuke you, Satan!'"
+}

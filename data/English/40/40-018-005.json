@@ -1,0 +1,33 @@
+{
+  "id": "40-018-005",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 18,
+  "verse_reference": "Matthew 18:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Jesus said whoever welcomes one such child in his name welcomes whom?",
+  "options": [
+    "Moses",
+    "The angels",
+    "The prophets",
+    "Jesus himself"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 18:5 says, \"And whoever welcomes one such child in my name welcomes me.\""
+}

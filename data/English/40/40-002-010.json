@@ -1,0 +1,34 @@
+{
+  "id": "40-002-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 2,
+  "verse_reference": "Matthew 2:11",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Which gifts did the Magi give to Jesus?",
+  "options": [
+    "Gold, silver and bronze",
+    "Bread, wine and oil",
+    "Gold, frankincense and myrrh",
+    "Jewels, cloth and spices"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Jesus"
+  ],
+  "characters": [
+    "Magi",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 2:11 says they presented him with gifts of gold, frankincense and myrrh."
+}

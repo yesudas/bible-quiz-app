@@ -1,0 +1,32 @@
+{
+  "id": "40-014-008",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 14,
+  "verse_reference": "Matthew 14:12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "After John was beheaded, who took his body and buried it, then went and told Jesus?",
+  "options": [
+    "John's disciples",
+    "Herod's soldiers",
+    "Jesus' disciples",
+    "The chief priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "John the Baptist",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 14:12 says John's disciples came and took his body and buried it. Then they went and told Jesus."
+}

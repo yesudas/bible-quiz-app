@@ -1,0 +1,32 @@
+{
+  "id": "42-011-006",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the friend finally get up and give the man the bread?",
+  "options": [
+    "Because they were brothers",
+    "Because of the man's shameless audacity",
+    "Because the children woke up",
+    "Because he was paid"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said even though he would not get up because of friendship, because of the man's shameless audacity he would surely get up and give him what he needed."
+}

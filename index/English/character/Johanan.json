@@ -3,9 +3,18 @@
     "language": "English",
     "character": "Johanan",
     "label": "Johanan",
-    "count": 1,
+    "count": 10,
     "paths": [
-        "English/13/13-006-004.json"
+        "English/13/13-006-004.json",
+        "English/24/24-040-009.json",
+        "English/24/24-040-010.json",
+        "English/24/24-041-009.json",
+        "English/24/24-041-010.json",
+        "English/24/24-041-011.json",
+        "English/24/24-042-001.json",
+        "English/24/24-042-002.json",
+        "English/24/24-043-001.json",
+        "English/24/24-043-003.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

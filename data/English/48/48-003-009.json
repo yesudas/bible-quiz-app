@@ -1,0 +1,31 @@
+{
+  "id": "48-003-009",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 3,
+  "verse_reference": "Galatians 3:14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Through faith, what promise do believers receive?",
+  "options": [
+    "A land of their own",
+    "The promise of the Spirit",
+    "Long life on earth",
+    "Great riches"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Promise",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said Christ redeemed us so that by faith we might receive the promise of the Spirit."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "33-003-009",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 3,
+  "verse_reference": "Micah 3:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the corrupt leaders still claim, even while doing evil?",
+  "options": [
+    "\"The LORD has left us.\"",
+    "\"Is not the LORD among us?\"",
+    "\"We will build a new temple.\"",
+    "\"Our kings will save us.\""
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They leaned on the LORD and said, 'Is not the LORD among us? No disaster will come upon us.'"
+}

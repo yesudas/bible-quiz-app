@@ -1,0 +1,40 @@
+{
+  "id": "29-003-011",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 3,
+  "verse_reference": "Joel 3:18",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Joel 3:18, from where would a fountain flow out?",
+  "options": [
+    "The LORD's house",
+    "The Mount of Olives",
+    "The Jordan River",
+    "The palace of the king"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Hope",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "house of the LORD",
+      "type": "temple"
+    },
+    {
+      "name": "valley of acacias",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A fountain will flow out of the LORD's house and water the valley of acacias."
+}

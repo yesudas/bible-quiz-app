@@ -1,0 +1,34 @@
+{
+  "id": "33-007-010",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 7,
+  "verse_reference": "Micah 7:20",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "To which two ancestors did Micah say God would be faithful and show love, as He pledged on oath?",
+  "options": [
+    "Moses and Aaron",
+    "David and Solomon",
+    "Noah and Shem",
+    "Jacob and Abraham"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Promise",
+    "Love"
+  ],
+  "characters": [
+    "Jacob",
+    "Abraham"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micah ends by saying God will be faithful to Jacob and show love to Abraham, as He pledged on oath to their ancestors."
+}

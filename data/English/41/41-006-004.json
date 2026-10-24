@@ -1,0 +1,36 @@
+{
+  "id": "41-006-004",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 6,
+  "verse_reference": "Mark 6:5-6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What amazed Jesus in his hometown?",
+  "options": [
+    "Their great wealth",
+    "Their large synagogue",
+    "Their lack of faith",
+    "Their love for him"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Nazareth",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus could not do any miracles there except heal a few sick people, and he was amazed at their lack of faith."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "24-031-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 31,
+  "verse_reference": "Jeremiah 31:15",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where was a voice heard of mourning and great weeping?",
+  "options": [
+    "In Bethel",
+    "In Bethlehem",
+    "In Ramah",
+    "In Jerusalem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Prophecy"
+  ],
+  "characters": [
+    "Rachel"
+  ],
+  "places": [
+    {
+      "name": "Ramah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"A voice is heard in Ramah, mourning and great weeping, Rachel weeping for her children.\""
+}

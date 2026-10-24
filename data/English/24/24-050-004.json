@@ -1,0 +1,44 @@
+{
+  "id": "24-050-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 50,
+  "verse_reference": "Jeremiah 50:4-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When the people of Israel and Judah return, what will they do?",
+  "options": [
+    "Build a tower to the sky",
+    "Go weeping to seek the LORD and bind themselves to Him in an everlasting covenant",
+    "Rebuild Babylon",
+    "Make a treaty with Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Covenant",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They will go in tears to seek the LORD and ask the way to Zion, and bind themselves to the LORD in an everlasting covenant that will not be forgotten."
+}

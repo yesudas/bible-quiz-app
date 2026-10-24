@@ -1,0 +1,33 @@
+{
+  "id": "41-010-006",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 10,
+  "verse_reference": "Mark 10:13-14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Jesus feel when the disciples rebuked the people bringing little children to him?",
+  "options": [
+    "Pleased",
+    "Tired",
+    "Afraid",
+    "Indignant"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Family"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Jesus saw this, he was indignant and said, \"Let the little children come to me, and do not hinder them.\""
+}

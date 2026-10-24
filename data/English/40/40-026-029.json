@@ -1,0 +1,37 @@
+{
+  "id": "40-026-029",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:65",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the high priest do when he declared that Jesus had spoken blasphemy?",
+  "options": [
+    "Threw down his staff",
+    "Covered his face",
+    "Left the room",
+    "Tore his clothes"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus",
+    "Caiaphas"
+  ],
+  "places": [
+    {
+      "name": "Palace of the high priest",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:65 says the high priest tore his clothes and said, \"He has spoken blasphemy!\""
+}

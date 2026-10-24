@@ -1,0 +1,36 @@
+{
+  "id": "24-037-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 37,
+  "verse_reference": "Jeremiah 37:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jeremiah try to leave the city for the territory of Benjamin?",
+  "options": [
+    "To escape to Babylon",
+    "To get his share of the property among the people there",
+    "To find Baruch",
+    "To visit the king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Benjamin",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah started to leave the city to go to the territory of Benjamin to get his share of the property among the people there."
+}

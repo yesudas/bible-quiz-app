@@ -1,0 +1,34 @@
+{
+  "id": "40-026-012",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:26",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "When Jesus broke the bread and gave it to his disciples, he said, \"Take and eat; this is my ______.\"",
+  "options": [
+    "body",
+    "bread",
+    "life",
+    "gift"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Covenant",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:26 says Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, \"Take and eat; this is my body.\""
+}

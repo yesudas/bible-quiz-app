@@ -1,0 +1,31 @@
+{
+  "id": "60-004-006",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 4,
+  "verse_reference": "1 Peter 4:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does Peter say believers should do with whatever gift they have received?",
+  "options": [
+    "Keep it hidden",
+    "Use it to become famous",
+    "Use it to serve others",
+    "Sell it for money"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Church",
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "28-009-008",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 9,
+  "verse_reference": "Hosea 9:10",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Israel consecrate themselves to a shameful idol?",
+  "options": [
+    "Mount Carmel",
+    "Bethel",
+    "Dan",
+    "Baal Peor"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Idolatry",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Baal Peor",
+      "type": "place"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they came to Baal Peor, they consecrated themselves to that shameful idol."
+}

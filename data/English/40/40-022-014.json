@@ -1,0 +1,31 @@
+{
+  "id": "40-022-014",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 22,
+  "verse_reference": "Matthew 22:25-28",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In the Sadducees' question, how many brothers had married the same woman?",
+  "options": [
+    "Three",
+    "Five",
+    "Seven",
+    "Twelve"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 22:25-28 says there were seven brothers, and the woman had been married to all seven; they asked whose wife she would be at the resurrection."
+}

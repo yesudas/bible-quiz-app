@@ -1,0 +1,37 @@
+{
+  "id": "30-006-009",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 6,
+  "verse_reference": "Amos 6:13",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which places did Israel boast about conquering in Amos 6:13?",
+  "options": [
+    "Gath and Ekron",
+    "Lo Debar and Karnaim",
+    "Hamath and Kalneh",
+    "Bozrah and Teman"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Lo Debar",
+      "type": "town"
+    },
+    {
+      "name": "Karnaim",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Israel rejoiced in conquering Lo Debar and said, 'Did we not take Karnaim by our own strength?'"
+}

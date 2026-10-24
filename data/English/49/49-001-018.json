@@ -1,0 +1,34 @@
+{
+  "id": "49-001-018",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 1,
+  "verse_reference": "Ephesians 1:22-23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "For the church, what did God appoint Christ to be?",
+  "options": [
+    "Head over everything",
+    "A servant of the apostles",
+    "A prophet among many",
+    "A high priest only for Israel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church",
+    "Jesus",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God placed all things under Christ's feet and appointed him to be head over everything for the church."
+}

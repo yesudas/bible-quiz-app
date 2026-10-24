@@ -1,0 +1,37 @@
+{
+  "id": "40-012-001",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 12,
+  "verse_reference": "Matthew 12:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the Pharisees complain when Jesus' disciples picked heads of grain and ate them?",
+  "options": [
+    "It was the Sabbath",
+    "The field belonged to the priests",
+    "They had not washed their hands",
+    "The grain was for the temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Grainfields",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 12:1-2 says the disciples picked and ate grain on the Sabbath, and the Pharisees said this was unlawful on the Sabbath."
+}

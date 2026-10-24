@@ -1,0 +1,38 @@
+{
+  "id": "35-001-004",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 1,
+  "verse_reference": "Habakkuk 1:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Because of the wrongdoing, what did Habakkuk say had happened to the law?",
+  "options": [
+    "It was burned",
+    "It was lost in the temple",
+    "It was paralyzed",
+    "It was rewritten"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Justice",
+    "Sin"
+  ],
+  "characters": [
+    "Habakkuk"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Habakkuk said the law was paralyzed and justice never prevailed, because the wicked surrounded the righteous."
+}

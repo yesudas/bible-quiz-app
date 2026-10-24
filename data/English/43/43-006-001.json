@@ -1,0 +1,40 @@
+{
+  "id": "43-006-001",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 6,
+  "verse_reference": "John 6:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In John 6, what other name is given for the Sea of Galilee?",
+  "options": [
+    "The Dead Sea",
+    "The Great Sea",
+    "The Sea of Tiberias",
+    "The Red Sea"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "sea"
+    },
+    {
+      "name": "Sea of Tiberias",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 6:1 says Jesus crossed to the far shore of the Sea of Galilee, that is, the Sea of Tiberias."
+}

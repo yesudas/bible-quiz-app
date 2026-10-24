@@ -1,0 +1,38 @@
+{
+  "id": "66-002-011",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 2,
+  "verse_reference": "Revelation 2:13",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who was Jesus' faithful witness who was put to death in Pergamum?",
+  "options": [
+    "Stephen",
+    "James",
+    "Antipas",
+    "Timothy"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution",
+    "Faith"
+  ],
+  "characters": [
+    "Antipas",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Pergamum",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus spoke of Antipas, his faithful witness, who was put to death in Pergamum."
+}

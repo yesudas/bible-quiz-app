@@ -1,0 +1,36 @@
+{
+  "id": "43-012-012",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 12,
+  "verse_reference": "John 12:28-29",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When a voice came from heaven, what did some people in the crowd think it was?",
+  "options": [
+    "A trumpet",
+    "An earthquake",
+    "A prophet speaking",
+    "Thunder, or an angel speaking"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 12:29 says the crowd that heard it said it had thundered; others said an angel had spoken to him."
+}

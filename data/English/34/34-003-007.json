@@ -1,0 +1,35 @@
+{
+  "id": "34-003-007",
+  "language": "en",
+  "book_no": 34,
+  "book": "Nahum",
+  "chapter": 3,
+  "verse_reference": "Nahum 3:15-16",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which insect does Nahum mention many times in describing Nineveh's destruction?",
+  "options": [
+    "Bees",
+    "Flies",
+    "Ants",
+    "Locusts"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nahum 3:15-17 repeatedly speaks of locusts and grasshoppers, which strip the land and then fly away."
+}

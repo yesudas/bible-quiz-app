@@ -1,0 +1,36 @@
+{
+  "id": "26-028-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 28,
+  "verse_reference": "Ezekiel 28:4-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What made the ruler of Tyre's heart grow proud?",
+  "options": [
+    "His many children",
+    "His great army",
+    "His beautiful temple",
+    "His wealth gained by wisdom and trading"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money",
+    "Sin",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "By his wisdom and skill in trading he increased his wealth, and because of his wealth his heart grew proud."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "47-013-008",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 13,
+  "verse_reference": "2 Corinthians 13:11",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Paul said that if the Corinthians lived in peace, which God would be with them?",
+  "options": [
+    "The God of power and might",
+    "The God of the armies",
+    "The God of judgment",
+    "The God of love and peace"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Promise"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul promised that the God of love and peace would be with them."
+}

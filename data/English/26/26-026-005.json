@@ -1,0 +1,37 @@
+{
+  "id": "26-026-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 26,
+  "verse_reference": "Ezekiel 26:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete what God called Nebuchadnezzar in Ezekiel 26:7: \"Nebuchadnezzar king of Babylon, king of ______.\"",
+  "options": [
+    "the earth",
+    "kings",
+    "the north",
+    "nations"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Prophecy"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezekiel 26:7 calls him 'Nebuchadnezzar king of Babylon, king of kings.'"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "58-011-019",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 11,
+  "verse_reference": "Hebrews 11:28",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 11:28, what did Moses keep by faith so that the destroyer of the firstborn would not touch the Israelites?",
+  "options": [
+    "The Passover and the application of blood",
+    "The Day of Atonement",
+    "The Festival of Tabernacles",
+    "The Sabbath"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Salvation"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 11:28 says by faith Moses kept the Passover and the application of blood, so that the destroyer of the firstborn would not touch the firstborn of Israel."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "24-034-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 34,
+  "verse_reference": "Jeremiah 34:8-9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What covenant did King Zedekiah make with the people in Jerusalem?",
+  "options": [
+    "To build a new wall",
+    "To surrender to Babylon",
+    "To free their Hebrew slaves",
+    "To worship Baal"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Law"
+  ],
+  "characters": [
+    "Zedekiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zedekiah made a covenant with the people to proclaim freedom for the slaves; everyone was to free their Hebrew slaves."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "47-001-008",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 1,
+  "verse_reference": "2 Corinthians 1:15-16",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "What was Paul's first plan for travelling to Corinth?",
+  "options": [
+    "Visit Corinth only after returning from Judea",
+    "Go to Macedonia first and never come to Corinth",
+    "Visit Corinth on the way to Macedonia and again on the way back, then go to Judea",
+    "Go straight to Judea and then to Rome"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Church",
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    },
+    {
+      "name": "Macedonia",
+      "type": "region"
+    },
+    {
+      "name": "Judea",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul planned to visit the Corinthians on his way to Macedonia, come back to them from Macedonia, and then be sent on to Judea."
+}

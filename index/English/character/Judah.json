@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Judah",
     "label": "Judah",
-    "count": 19,
+    "count": 20,
     "paths": [
         "English/01/01-037-009.json",
         "English/01/01-038-001.json",
@@ -23,7 +23,8 @@
         "English/13/13-002-001.json",
         "English/13/13-002-002.json",
         "English/13/13-002-003.json",
-        "English/13/13-005-004.json"
+        "English/13/13-005-004.json",
+        "English/40/40-001-002.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

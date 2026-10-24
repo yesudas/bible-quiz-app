@@ -1,0 +1,37 @@
+{
+  "id": "41-014-009",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 14,
+  "verse_reference": "Mark 14:15",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did Jesus say the owner would show them to prepare the Passover?",
+  "options": [
+    "A courtyard by the temple",
+    "A large room upstairs, furnished and ready",
+    "A tent outside the city",
+    "A boat on the lake"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Large upper room",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"He will show you a large room upstairs, furnished and ready. Make preparations for us there.\""
+}

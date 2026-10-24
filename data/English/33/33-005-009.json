@@ -1,0 +1,30 @@
+{
+  "id": "33-005-009",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 5,
+  "verse_reference": "Micah 5:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Among the nations, the remnant of Jacob would also be like what animal?",
+  "options": [
+    "An eagle",
+    "A lion",
+    "A bear",
+    "A wolf"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The remnant will be like a lion among the beasts of the forest, which no one can rescue from."
+}

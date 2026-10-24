@@ -1,0 +1,37 @@
+{
+  "id": "34-001-009",
+  "language": "en",
+  "book_no": 34,
+  "book": "Nahum",
+  "chapter": 1,
+  "verse_reference": "Nahum 1:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "With what does Nahum say the LORD will make an end of Nineveh?",
+  "options": [
+    "A great fire",
+    "An overwhelming flood",
+    "A terrible famine",
+    "A plague of locusts"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nahum 1:8 says that with an overwhelming flood the LORD will make an end of Nineveh."
+}

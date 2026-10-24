@@ -1,0 +1,35 @@
+{
+  "id": "34-002-007",
+  "language": "en",
+  "book_no": 34,
+  "book": "Nahum",
+  "chapter": 2,
+  "verse_reference": "Nahum 2:11-12",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which animal does Nahum use to picture Nineveh's violent power?",
+  "options": [
+    "The bear",
+    "The wolf",
+    "The lion",
+    "The eagle"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nahum 2:11-12 pictures Nineveh as a lions' den, where the lion killed prey for its cubs and mate."
+}

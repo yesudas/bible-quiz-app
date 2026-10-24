@@ -1,0 +1,36 @@
+{
+  "id": "41-015-014",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 15,
+  "verse_reference": "Mark 15:23",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did they offer Jesus to drink before crucifying him, which he did not take?",
+  "options": [
+    "Water from a well",
+    "Milk and honey",
+    "Wine mixed with myrrh",
+    "Vinegar and salt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Golgotha",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They offered him wine mixed with myrrh, but he did not take it."
+}

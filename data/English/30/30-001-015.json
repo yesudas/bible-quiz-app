@@ -1,0 +1,35 @@
+{
+  "id": "30-001-015",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 1,
+  "verse_reference": "Amos 1:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What sin did God accuse Edom of?",
+  "options": [
+    "Selling captives to Gaza",
+    "Pursuing his brother with a sword",
+    "Worshiping Baal",
+    "Destroying the temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Family"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Edom pursued his brother with a sword and showed no compassion, with his anger raging continually."
+}

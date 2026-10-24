@@ -1,0 +1,38 @@
+{
+  "id": "40-009-001",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 9,
+  "verse_reference": "Matthew 9:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How was the paralyzed man brought to Jesus?",
+  "options": [
+    "Lying on a mat",
+    "Riding a donkey",
+    "Walking with a stick",
+    "In a boat"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "His own town",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 9:2 says some men brought to him a paralyzed man, lying on a mat."
+}

@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Gath",
     "label": "Gath",
-    "count": 29,
+    "count": 31,
     "paths": [
         "English/06/06-011-013.json",
         "English/06/06-013-002.json",
@@ -33,7 +33,9 @@
         "English/13/13-020-007.json",
         "English/13/13-020-008.json",
         "English/14/14-026-005.json",
-        "English/19/19-056-001.json"
+        "English/19/19-056-001.json",
+        "English/30/30-006-002.json",
+        "English/33/33-001-010.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

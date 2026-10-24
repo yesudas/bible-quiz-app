@@ -1,0 +1,34 @@
+{
+  "id": "46-006-006",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 6,
+  "verse_reference": "1 Corinthians 6:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"But you were ______, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God.\"",
+  "options": [
+    "forgiven",
+    "washed",
+    "chosen",
+    "healed"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Holy Spirit",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul reminded them that though some of them once lived in sin, they were washed, sanctified and justified."
+}

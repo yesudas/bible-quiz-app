@@ -1,0 +1,35 @@
+{
+  "id": "28-008-004",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 8,
+  "verse_reference": "Hosea 8:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God tell Samaria to throw out?",
+  "options": [
+    "Its foreign wives",
+    "Its false prophets",
+    "Its chariots",
+    "Its calf-idol"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Idolatry",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'Samaria, throw out your calf-idol! My anger burns against them.'"
+}

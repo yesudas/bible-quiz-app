@@ -1,0 +1,42 @@
+{
+  "id": "43-002-001",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 2,
+  "verse_reference": "John 2:1-2",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where was the wedding that Jesus and his disciples attended?",
+  "options": [
+    "Nazareth",
+    "Cana in Galilee",
+    "Capernaum",
+    "Bethany"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Marriage"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Cana",
+      "type": "village"
+    },
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 2:1-2 says a wedding took place at Cana in Galilee, and Jesus and his disciples were invited."
+}

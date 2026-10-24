@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Gibeon",
     "label": "Gibeon",
-    "count": 33,
+    "count": 35,
     "paths": [
         "English/06/06-009-002.json",
         "English/06/06-009-003.json",
@@ -37,7 +37,9 @@
         "English/14/14-001-002.json",
         "English/14/14-001-004.json",
         "English/14/14-001-005.json",
-        "English/14/14-001-006.json"
+        "English/14/14-001-006.json",
+        "English/24/24-028-002.json",
+        "English/24/24-041-009.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

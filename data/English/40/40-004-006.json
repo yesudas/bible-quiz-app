@@ -1,0 +1,39 @@
+{
+  "id": "40-004-006",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 4,
+  "verse_reference": "Matthew 4:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In the second temptation, what did the devil do to try to persuade Jesus?",
+  "options": [
+    "He offered him a crown",
+    "He quoted Scripture about angels protecting him",
+    "He showed him the Pharisees",
+    "He promised him bread"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Temptation",
+    "Satan",
+    "Angels"
+  ],
+  "characters": [
+    "Jesus",
+    "Satan"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 4:6 says the devil quoted Scripture saying God would command his angels to lift Jesus up so he would not strike his foot against a stone."
+}

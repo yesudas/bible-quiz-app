@@ -1,0 +1,40 @@
+{
+  "id": "43-008-012",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 8,
+  "verse_reference": "John 8:34",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Jesus in John 8:34, who is a slave to sin?",
+  "options": [
+    "Only the Gentiles",
+    "Only the Pharisees",
+    "Only those who break the Sabbath",
+    "Everyone who sins"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 8:34, Jesus said, \"Very truly I tell you, everyone who sins is a slave to sin.\""
+}

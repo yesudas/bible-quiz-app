@@ -1,0 +1,35 @@
+{
+  "id": "24-022-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 22,
+  "verse_reference": "Jeremiah 22:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the LORD command the king of Judah to do?",
+  "options": [
+    "Build more fortresses",
+    "Do what is just and right, and rescue the one who has been robbed",
+    "Collect more taxes",
+    "Make a treaty with Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, \"Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed.\""
+}

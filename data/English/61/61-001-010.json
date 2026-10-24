@@ -1,0 +1,33 @@
+{
+  "id": "61-001-010",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 1,
+  "verse_reference": "2 Peter 1:13-14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Peter mean when he said he would soon put aside 'the tent of this body'?",
+  "options": [
+    "He would move to a new city",
+    "He would soon die",
+    "He would stop preaching",
+    "He would go to prison"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Hope"
+  ],
+  "characters": [
+    "Peter",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter used the tent as a picture of his body, saying he would soon put it aside, as Jesus had made clear to him."
+}

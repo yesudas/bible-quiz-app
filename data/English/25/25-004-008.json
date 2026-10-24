@@ -1,0 +1,36 @@
+{
+  "id": "25-004-008",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 4,
+  "verse_reference": "Lamentations 4:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What good news is given to Daughter Zion at the end of Lamentations 4?",
+  "options": [
+    "She will rule over Babylon",
+    "Her walls will never fall",
+    "Her punishment will end and her exile will not be prolonged",
+    "She will become rich"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Lamentations 4:22 says Zion's punishment will end, and the LORD will not prolong her exile."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "46-015-004",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 15,
+  "verse_reference": "1 Corinthians 15:7-8",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "In Paul's list of resurrection appearances, who was \"last of all\"?",
+  "options": [
+    "James",
+    "The Twelve",
+    "Paul",
+    "Cephas"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After James and all the apostles, Christ appeared last of all to Paul, \"as to one abnormally born.\""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "40-010-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 10,
+  "verse_reference": "Matthew 10:30",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jesus say are all numbered?",
+  "options": [
+    "The stars in the sky",
+    "The very hairs of your head",
+    "The grains of sand",
+    "The days of your life"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 10:30 says, \"And even the very hairs of your head are all numbered.\""
+}

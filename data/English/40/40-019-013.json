@@ -1,0 +1,32 @@
+{
+  "id": "40-019-013",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 19,
+  "verse_reference": "Matthew 19:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After saying he had kept all the commandments, what did the young man ask?",
+  "options": [
+    "\"What do I still lack?\"",
+    "\"Can I be your disciple?\"",
+    "\"Where is your home?\"",
+    "\"Who is my neighbor?\""
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus",
+    "Rich young man"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 19:20 says the young man said, \"All these I have kept. What do I still lack?\""
+}

@@ -1,0 +1,39 @@
+{
+  "id": "29-003-003",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 3,
+  "verse_reference": "Joel 3:6",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "To which people were the people of Judah and Jerusalem sold, far from their homeland?",
+  "options": [
+    "The Greeks",
+    "The Romans",
+    "The Persians",
+    "The Egyptians"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Tyre and Sidon sold the people of Judah and Jerusalem to the Greeks, sending them far from their land."
+}

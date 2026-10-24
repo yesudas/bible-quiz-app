@@ -1,0 +1,19 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Priscilla",
+    "label": "Priscilla",
+    "count": 9,
+    "paths": [
+        "English/44/44-018-001.json",
+        "English/44/44-018-002.json",
+        "English/44/44-018-003.json",
+        "English/44/44-018-014.json",
+        "English/44/44-018-017.json",
+        "English/45/45-016-002.json",
+        "English/45/45-016-003.json",
+        "English/46/46-016-013.json",
+        "English/55/55-004-013.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

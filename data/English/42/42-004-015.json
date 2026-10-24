@@ -1,0 +1,41 @@
+{
+  "id": "42-004-015",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 4,
+  "verse_reference": "Luke 4:25-26",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "To a widow in which town was Elijah sent during the famine?",
+  "options": [
+    "Zarephath in Sidon",
+    "Bethel",
+    "Jericho",
+    "Samaria"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Mission",
+    "Faith"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [
+    {
+      "name": "Zarephath",
+      "type": "town"
+    },
+    {
+      "name": "Sidon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said there were many widows in Israel, yet Elijah was sent only to a widow in Zarephath in the region of Sidon."
+}

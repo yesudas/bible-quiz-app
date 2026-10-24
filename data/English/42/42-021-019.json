@@ -1,0 +1,33 @@
+{
+  "id": "42-021-019",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 21,
+  "verse_reference": "Luke 21:36",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' command: 'Be always on the watch, and ____.'",
+  "options": [
+    "fast",
+    "work",
+    "wait",
+    "pray"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Be always on the watch, and pray that you may be able to escape all that is about to happen.'"
+}

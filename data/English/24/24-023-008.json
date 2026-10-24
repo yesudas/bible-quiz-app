@@ -1,0 +1,30 @@
+{
+  "id": "24-023-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 23,
+  "verse_reference": "Jeremiah 23:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God say about the prophets who ran with their message?",
+  "options": [
+    "He had sent them early",
+    "He had told them to wait",
+    "He had given them dreams",
+    "He did not send them, yet they ran"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"I did not send these prophets, yet they have run with their message; I did not speak to them, yet they have prophesied.\""
+}

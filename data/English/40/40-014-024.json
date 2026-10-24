@@ -1,0 +1,38 @@
+{
+  "id": "40-014-024",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 14,
+  "verse_reference": "Matthew 14:36",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "At Gennesaret, what did the sick beg to touch?",
+  "options": [
+    "The edge of his cloak",
+    "His hands",
+    "His sandals",
+    "His staff"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Gennesaret",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 14:36 says they begged him to let the sick just touch the edge of his cloak, and all who touched it were healed."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "27-004-009",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 4,
+  "verse_reference": "Daniel 4:25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Daniel say the king would eat when he was driven away from people?",
+  "options": [
+    "Bread from heaven",
+    "Grass like the ox",
+    "Honey and locusts",
+    "Fruit from the trees"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Pride"
+  ],
+  "characters": [
+    "Daniel",
+    "Nebuchadnezzar"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daniel said the king would be driven away to live with wild animals and eat grass like the ox."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "40-024-023",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 24,
+  "verse_reference": "Matthew 24:42",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"Therefore keep ______, because you do not know on what day your Lord will come.\"",
+  "options": [
+    "praying",
+    "working",
+    "quiet",
+    "watch"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 24:42 says, \"Therefore keep watch, because you do not know on what day your Lord will come.\""
+}

@@ -1,0 +1,34 @@
+{
+  "id": "42-008-025",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:50",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "When Jairus heard his daughter had died, Jesus said: 'Don't be afraid; just ____, and she will be healed.'",
+  "options": [
+    "believe",
+    "pray",
+    "wait",
+    "hope"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Fear"
+  ],
+  "characters": [
+    "Jesus",
+    "Jairus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said to Jairus, 'Don't be afraid; just believe, and she will be healed.'"
+}

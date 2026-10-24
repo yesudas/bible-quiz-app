@@ -1,0 +1,38 @@
+{
+  "id": "44-008-005",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 8,
+  "verse_reference": "Acts 8:7-8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the result in the city after Philip's miracles?",
+  "options": [
+    "The city was destroyed",
+    "The people drove Philip away",
+    "The city became silent",
+    "There was great joy in that city"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Joy"
+  ],
+  "characters": [
+    "Philip"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Impure spirits came out, many paralyzed and lame were healed, and there was great joy in that city."
+}

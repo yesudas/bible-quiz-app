@@ -1,0 +1,38 @@
+{
+  "id": "41-006-025",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 6,
+  "verse_reference": "Mark 6:50",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words to the frightened disciples: \"Take courage! It is I. Don't be ____.\"",
+  "options": [
+    "troubled",
+    "sad",
+    "silent",
+    "afraid"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Immediately he spoke to them and said, \"Take courage! It is I. Don't be afraid.\""
+}

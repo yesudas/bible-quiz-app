@@ -1,0 +1,33 @@
+{
+  "id": "32-002-010",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 2,
+  "verse_reference": "Jonah 2:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jonah promise to do with a shout of grateful praise?",
+  "options": [
+    "Sacrifice to the LORD",
+    "Build an altar",
+    "Write a song",
+    "Go home"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Promise"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonah promised to sacrifice to God with grateful praise and to make good what he had vowed."
+}

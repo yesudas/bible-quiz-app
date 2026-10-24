@@ -1,0 +1,34 @@
+{
+  "id": "45-010-001",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 10,
+  "verse_reference": "Romans 10:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Paul's heart's desire and prayer to God for the Israelites?",
+  "options": [
+    "That they may defeat Rome",
+    "That they may be saved",
+    "That they may rebuild the temple",
+    "That they may become rich"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Salvation",
+    "Love"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says his heart's desire and prayer to God for the Israelites is that they may be saved."
+}

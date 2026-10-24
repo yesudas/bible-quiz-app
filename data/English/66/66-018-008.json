@@ -1,0 +1,34 @@
+{
+  "id": "66-018-008",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 18,
+  "verse_reference": "Revelation 18:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the cry of the kings: \"Woe! Woe to you, great city, you mighty city of Babylon! In one ____ your doom has come!\"",
+  "options": [
+    "hour",
+    "night",
+    "moment",
+    "week"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The kings of the earth stood far off, terrified, and cried, \"In one hour your doom has come!\""
+}

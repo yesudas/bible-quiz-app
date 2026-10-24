@@ -1,0 +1,38 @@
+{
+  "id": "44-026-017",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 26,
+  "verse_reference": "Acts 26:31",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the rulers agree after Paul's defense?",
+  "options": [
+    "He should be flogged",
+    "He was not doing anything that deserved death or imprisonment",
+    "He was a danger to Rome",
+    "He should be sent back to Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Justice"
+  ],
+  "characters": [
+    "Agrippa",
+    "Festus",
+    "Bernice"
+  ],
+  "places": [
+    {
+      "name": "Caesarea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They agreed, 'This man is not doing anything that deserves death or imprisonment.'"
+}

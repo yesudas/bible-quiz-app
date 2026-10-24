@@ -1,0 +1,43 @@
+{
+  "id": "40-004-005",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 4,
+  "verse_reference": "Matthew 4:5-6",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In the second temptation, where did the devil take Jesus and tell him to throw himself down?",
+  "options": [
+    "The top of a mountain",
+    "The highest point of the temple",
+    "A city wall in Galilee",
+    "A cliff near Nazareth"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Temptation",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus",
+    "Satan"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 4:5-6 says the devil took Jesus to the holy city and had him stand on the highest point of the temple."
+}

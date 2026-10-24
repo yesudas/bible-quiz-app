@@ -1,0 +1,39 @@
+{
+  "id": "46-001-006",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 1,
+  "verse_reference": "1 Corinthians 1:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When Paul asked, \"Was Paul crucified for you?\", what was he teaching?",
+  "options": [
+    "That he should be honoured as a leader",
+    "That only Christ died for them, so they should not divide over leaders",
+    "That baptism saves people",
+    "That the Corinthians should follow Apollos instead"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul pointed out that Christ, not Paul, was crucified for them, so they should not divide into groups behind human leaders."
+}

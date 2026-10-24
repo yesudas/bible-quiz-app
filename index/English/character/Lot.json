@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Lot",
     "label": "Lot",
-    "count": 17,
+    "count": 20,
     "paths": [
         "English/01/01-011-006.json",
         "English/01/01-012-003.json",
@@ -21,7 +21,10 @@
         "English/01/01-019-007.json",
         "English/01/01-019-010.json",
         "English/05/05-002-005.json",
-        "English/05/05-002-007.json"
+        "English/05/05-002-007.json",
+        "English/42/42-017-018.json",
+        "English/42/42-017-019.json",
+        "English/61/61-002-007.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

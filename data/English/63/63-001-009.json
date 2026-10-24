@@ -1,0 +1,35 @@
+{
+  "id": "63-001-009",
+  "language": "en",
+  "book_no": 63,
+  "book": "2 John",
+  "chapter": 1,
+  "verse_reference": "2 John 1:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does John tell believers to do if someone comes to them without the teaching of Christ?",
+  "options": [
+    "Argue with them in the synagogue",
+    "Report them to the Roman rulers",
+    "Not take them into their house or welcome them",
+    "Give them money and send them away"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Church",
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says not to take such a person into your house or welcome them, because welcoming them shares in their wicked work."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "42-002-025",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 2,
+  "verse_reference": "Luke 2:46-47",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Jesus doing when his parents found him in the temple?",
+  "options": [
+    "Sitting among the teachers, listening and asking questions",
+    "Offering a sacrifice",
+    "Selling doves",
+    "Reading from the scroll of Isaiah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus was sitting among the teachers, listening to them and asking them questions, and everyone was amazed at his understanding."
+}

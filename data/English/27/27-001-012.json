@@ -1,0 +1,33 @@
+{
+  "id": "27-001-012",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 1,
+  "verse_reference": "Daniel 1:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was the chief official afraid to let Daniel avoid the king's food?",
+  "options": [
+    "He feared the young men would run away",
+    "He feared Daniel's God",
+    "He feared the king would see them looking worse and he would lose his head",
+    "He feared there would not be enough vegetables"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Daniel",
+    "Ashpenaz",
+    "Nebuchadnezzar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The official feared that if the king saw them looking worse than the others, the king would have his head because of it."
+}

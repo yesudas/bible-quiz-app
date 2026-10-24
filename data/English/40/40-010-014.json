@@ -1,0 +1,32 @@
+{
+  "id": "40-010-014",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 10,
+  "verse_reference": "Matthew 10:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Jesus said who will be saved?",
+  "options": [
+    "The one who stands firm to the end",
+    "The one who is never hated",
+    "The one who runs away first",
+    "The one with the most friends"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 10:22 says you will be hated because of me, but the one who stands firm to the end will be saved."
+}

@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Elijah",
     "label": "Elijah",
-    "count": 82,
+    "count": 100,
     "paths": [
         "English/11/11-017-001.json",
         "English/11/11-017-002.json",
@@ -86,7 +86,25 @@
         "English/12/12-003-011.json",
         "English/12/12-009-017.json",
         "English/14/14-021-009.json",
-        "English/14/14-021-010.json"
+        "English/14/14-021-010.json",
+        "English/39/39-004-007.json",
+        "English/39/39-004-008.json",
+        "English/40/40-011-007.json",
+        "English/40/40-016-008.json",
+        "English/40/40-017-003.json",
+        "English/40/40-017-004.json",
+        "English/40/40-017-009.json",
+        "English/40/40-027-024.json",
+        "English/41/41-008-014.json",
+        "English/41/41-009-003.json",
+        "English/41/41-015-022.json",
+        "English/42/42-001-008.json",
+        "English/42/42-004-015.json",
+        "English/42/42-009-015.json",
+        "English/42/42-009-016.json",
+        "English/45/45-011-002.json",
+        "English/45/45-011-003.json",
+        "English/59/59-005-011.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

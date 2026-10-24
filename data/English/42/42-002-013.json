@@ -1,0 +1,32 @@
+{
+  "id": "42-002-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 2,
+  "verse_reference": "Luke 2:21",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "On which day after his birth was Jesus circumcised and named?",
+  "options": [
+    "The eighth day",
+    "The third day",
+    "The fortieth day",
+    "The seventh day"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Obedience"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On the eighth day, when it was time to circumcise the child, he was named Jesus."
+}

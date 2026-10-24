@@ -1,0 +1,20 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Lazarus",
+    "label": "Lazarus",
+    "count": 10,
+    "paths": [
+        "English/43/43-011-001.json",
+        "English/43/43-011-002.json",
+        "English/43/43-011-003.json",
+        "English/43/43-011-004.json",
+        "English/43/43-011-006.json",
+        "English/43/43-011-008.json",
+        "English/43/43-011-015.json",
+        "English/43/43-012-001.json",
+        "English/43/43-012-002.json",
+        "English/43/43-012-006.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

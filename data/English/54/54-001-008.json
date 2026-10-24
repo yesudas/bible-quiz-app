@@ -1,0 +1,32 @@
+{
+  "id": "54-001-008",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 1,
+  "verse_reference": "1 Timothy 1:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Paul say he was shown mercy?",
+  "options": [
+    "Because he was a Pharisee",
+    "Because he gave to the poor",
+    "Because he acted in ignorance and unbelief",
+    "Because he was born a Roman citizen"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Forgiveness",
+    "Salvation"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said he was shown mercy because he acted in ignorance and unbelief."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "38-011-009",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 11,
+  "verse_reference": "Zechariah 11:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did breaking the second staff, called Union, show?",
+  "options": [
+    "Judah would conquer Egypt",
+    "The priests would return",
+    "The family bond between Judah and Israel was broken",
+    "The covenant with David was renewed"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Judgment"
+  ],
+  "characters": [
+    "Zechariah"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He broke the staff called Union, breaking the family bond between Judah and Israel."
+}

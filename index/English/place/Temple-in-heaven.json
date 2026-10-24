@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Temple-in-heaven",
+    "label": "Temple in heaven",
+    "count": 4,
+    "paths": [
+        "English/66/66-011-013.json",
+        "English/66/66-015-007.json",
+        "English/66/66-015-008.json",
+        "English/66/66-015-009.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "42-013-005",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 13,
+  "verse_reference": "Luke 13:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the man who took care of the vineyard ask the owner to do with the fig tree?",
+  "options": [
+    "Cut it down at once",
+    "Leave it alone for one more year",
+    "Move it to a new place",
+    "Sell its wood"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Repentance"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Vineyard",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He said, 'Sir, leave it alone for one more year, and I'll dig around it and fertilize it.'"
+}

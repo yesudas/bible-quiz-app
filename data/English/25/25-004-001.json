@@ -1,0 +1,34 @@
+{
+  "id": "25-004-001",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 4,
+  "verse_reference": "Lamentations 4:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Lamentations 4:1-2, the precious people of Zion, once worth their weight in gold, are now thought of as what?",
+  "options": [
+    "Bronze shields",
+    "Broken swords",
+    "Dry branches",
+    "Pots of clay"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zion's precious people, once worth their weight in gold, are now considered as pots of clay made by a potter."
+}

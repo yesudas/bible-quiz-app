@@ -1,0 +1,35 @@
+{
+  "id": "66-010-004",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 10,
+  "verse_reference": "Revelation 10:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the mighty angel plant his feet?",
+  "options": [
+    "Both feet on a mountain",
+    "His right foot on the sea and his left foot on the land",
+    "On the steps of the temple",
+    "On the clouds of heaven"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He planted his right foot on the sea and his left foot on the land."
+}

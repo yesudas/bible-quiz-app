@@ -1,0 +1,30 @@
+{
+  "id": "51-004-002",
+  "language": "en",
+  "book_no": 51,
+  "book": "Colossians",
+  "chapter": 4,
+  "verse_reference": "Colossians 4:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Devote yourselves to ____, being watchful and thankful.\"",
+  "options": [
+    "prayer",
+    "work",
+    "study",
+    "fasting"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul told believers to devote themselves to prayer, being watchful and thankful."
+}

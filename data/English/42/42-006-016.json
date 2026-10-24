@@ -1,0 +1,32 @@
+{
+  "id": "42-006-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:27",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' command: 'Love your ____, do good to those who hate you.'",
+  "options": [
+    "friends",
+    "family",
+    "neighbors",
+    "enemies"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Love your enemies, do good to those who hate you.'"
+}

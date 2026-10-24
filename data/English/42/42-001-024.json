@@ -1,0 +1,33 @@
+{
+  "id": "42-001-024",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:59-61",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What name did the neighbors want to give Elizabeth's baby?",
+  "options": [
+    "Aaron",
+    "Levi",
+    "Elijah",
+    "Zechariah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Elizabeth",
+    "John the Baptist",
+    "Zechariah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On the eighth day they were going to name him after his father Zechariah, but Elizabeth said he must be called John."
+}

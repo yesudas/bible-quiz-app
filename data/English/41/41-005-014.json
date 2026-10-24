@@ -1,0 +1,33 @@
+{
+  "id": "41-005-014",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 5,
+  "verse_reference": "Mark 5:27-28",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the woman's thought: \"If I just touch his ____, I will be healed.\"",
+  "options": [
+    "clothes",
+    "hand",
+    "feet",
+    "staff"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "She came up behind Jesus in the crowd and touched his cloak, thinking, \"If I just touch his clothes, I will be healed.\""
+}

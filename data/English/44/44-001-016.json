@@ -1,0 +1,31 @@
+{
+  "id": "44-001-016",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 1,
+  "verse_reference": "Acts 1:15",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "About how many believers were gathered when Peter stood up to speak?",
+  "options": [
+    "About seventy",
+    "About one hundred and twenty",
+    "About five hundred",
+    "About three thousand"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter stood up among a group of about a hundred and twenty believers."
+}

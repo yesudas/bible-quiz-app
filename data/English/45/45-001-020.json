@@ -1,0 +1,30 @@
+{
+  "id": "45-001-020",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 1,
+  "verse_reference": "Romans 1:24-28",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What phrase does Paul repeat to describe God's response to people who rejected Him?",
+  "options": [
+    "God sent a flood",
+    "God gave them over",
+    "God called them back",
+    "God struck them blind"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul repeatedly says that God gave them over to their sinful desires and a depraved mind."
+}

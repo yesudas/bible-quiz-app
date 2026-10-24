@@ -1,0 +1,32 @@
+{
+  "id": "26-001-010",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 1,
+  "verse_reference": "Ezekiel 1:24",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the sound of the creatures' wings sound like?",
+  "options": [
+    "The roar of rushing waters",
+    "The blast of a trumpet",
+    "A gentle whisper",
+    "The sound of a harp"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Angels"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The sound of their wings was like the roar of rushing waters, like the voice of the Almighty."
+}

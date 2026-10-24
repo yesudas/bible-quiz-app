@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Level-place",
+    "label": "Level place",
+    "count": 3,
+    "paths": [
+        "English/42/42-006-013.json",
+        "English/42/42-006-014.json",
+        "English/42/42-006-015.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

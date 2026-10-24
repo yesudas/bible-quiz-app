@@ -1,0 +1,37 @@
+{
+  "id": "32-001-006",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 1,
+  "verse_reference": "Jonah 1:4",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the LORD send on the sea while Jonah was on the ship?",
+  "options": [
+    "A great wind",
+    "A thick darkness",
+    "A swarm of locusts",
+    "An earthquake"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "God's Power"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [
+    {
+      "name": "Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD sent a great wind, and such a violent storm arose that the ship threatened to break up."
+}

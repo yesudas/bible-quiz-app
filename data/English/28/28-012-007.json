@@ -1,0 +1,30 @@
+{
+  "id": "28-012-007",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 12,
+  "verse_reference": "Hosea 12:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Ephraim boast about?",
+  "options": [
+    "Being very strong",
+    "Being very wise",
+    "Being very rich",
+    "Being very holy"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ephraim boasted, 'I am very rich; I have become wealthy.'"
+}

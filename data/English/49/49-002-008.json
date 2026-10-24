@@ -1,0 +1,35 @@
+{
+  "id": "49-002-008",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 2,
+  "verse_reference": "Ephesians 2:11-12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which group did Paul say were once 'excluded from citizenship in Israel'?",
+  "options": [
+    "The priests",
+    "Gentiles",
+    "The Levites",
+    "The Pharisees"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul reminds the Gentiles that they were once separate from Christ and excluded from citizenship in Israel."
+}

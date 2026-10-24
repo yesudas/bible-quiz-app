@@ -1,0 +1,30 @@
+{
+  "id": "30-005-010",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 5,
+  "verse_reference": "Amos 5:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Amos say the day of the LORD would be for those who longed for it?",
+  "options": [
+    "Light, not darkness",
+    "A day of feasting",
+    "Darkness, not light",
+    "A day of rest"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 5:18 warns that the day of the LORD will be darkness, not light."
+}

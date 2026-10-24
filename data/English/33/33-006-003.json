@@ -1,0 +1,38 @@
+{
+  "id": "33-006-003",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 6,
+  "verse_reference": "Micah 6:5",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which king of Moab did God tell His people to remember in Micah 6:5?",
+  "options": [
+    "Eglon",
+    "Mesha",
+    "Og",
+    "Balak"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Salvation"
+  ],
+  "characters": [
+    "Balak",
+    "Balaam"
+  ],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told them to remember what Balak king of Moab plotted and how Balaam son of Beor answered."
+}

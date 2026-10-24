@@ -1,0 +1,38 @@
+{
+  "id": "28-010-003",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 10,
+  "verse_reference": "Hosea 10:5",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "The people of Samaria feared for the calf-idol of which place?",
+  "options": [
+    "Dan",
+    "Gilgal",
+    "Beth Aven",
+    "Shechem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Idolatry"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    },
+    {
+      "name": "Beth Aven",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said the people who live in Samaria fear for the calf-idol of Beth Aven."
+}

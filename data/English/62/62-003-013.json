@@ -1,0 +1,35 @@
+{
+  "id": "62-003-013",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 3,
+  "verse_reference": "1 John 3:23",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What two things does John say make up God's command?",
+  "options": [
+    "Fast and give offerings",
+    "Believe in the name of his Son, Jesus Christ, and love one another",
+    "Keep the Sabbath and visit the temple",
+    "Pray and sing psalms"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Love",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "God",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says God's command is to believe in the name of his Son, Jesus Christ, and to love one another."
+}

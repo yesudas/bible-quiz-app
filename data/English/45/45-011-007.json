@@ -1,0 +1,30 @@
+{
+  "id": "45-011-007",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 11,
+  "verse_reference": "Romans 11:17",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "In Paul's picture, what are the Gentile believers compared to?",
+  "options": [
+    "A wild olive shoot grafted in",
+    "A fig tree that withered",
+    "A vine that was cut down",
+    "A mustard seed that grew"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says the Gentiles, like a wild olive shoot, have been grafted in among the others and share in the nourishing sap of the olive root."
+}

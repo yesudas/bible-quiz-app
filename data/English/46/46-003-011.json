@@ -1,0 +1,31 @@
+{
+  "id": "46-003-011",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 3,
+  "verse_reference": "1 Corinthians 3:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Don't you know that you yourselves are God's ______ and that God's Spirit dwells in your midst?\"",
+  "options": [
+    "temple",
+    "children",
+    "servants",
+    "people"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holy Spirit",
+    "Church"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul reminded the Corinthians that together they are God's temple, where his Spirit lives."
+}

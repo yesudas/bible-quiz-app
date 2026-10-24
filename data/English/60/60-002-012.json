@@ -1,0 +1,33 @@
+{
+  "id": "60-002-012",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 2,
+  "verse_reference": "1 Peter 2:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"By his ____ you have been healed.\"",
+  "options": [
+    "love",
+    "words",
+    "wounds",
+    "power"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter says Christ bore our sins in His body on the cross, and by His wounds we have been healed."
+}

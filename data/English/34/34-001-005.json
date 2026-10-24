@@ -1,0 +1,32 @@
+{
+  "id": "34-001-005",
+  "language": "en",
+  "book_no": 34,
+  "book": "Nahum",
+  "chapter": 1,
+  "verse_reference": "Nahum 1:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does Nahum say the clouds are?",
+  "options": [
+    "The dust of the LORD's feet",
+    "The LORD's chariots",
+    "The LORD's robe",
+    "The LORD's tent"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nahum 1:3 says the LORD's way is in the whirlwind and the storm, and clouds are the dust of His feet."
+}

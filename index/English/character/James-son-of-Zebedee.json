@@ -1,0 +1,16 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "James-son-of-Zebedee",
+    "label": "James son of Zebedee",
+    "count": 6,
+    "paths": [
+        "English/41/41-001-016.json",
+        "English/41/41-003-011.json",
+        "English/41/41-005-018.json",
+        "English/41/41-009-001.json",
+        "English/41/41-010-019.json",
+        "English/41/41-013-003.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

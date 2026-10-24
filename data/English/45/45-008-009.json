@@ -1,0 +1,33 @@
+{
+  "id": "45-008-009",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 8,
+  "verse_reference": "Romans 8:17",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "According to Romans 8:17, if we are God's children, we are heirs of God and co-heirs with whom?",
+  "options": [
+    "Abraham",
+    "Moses",
+    "Christ",
+    "David"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Hope",
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says we are heirs of God and co-heirs with Christ, if indeed we share in His sufferings."
+}

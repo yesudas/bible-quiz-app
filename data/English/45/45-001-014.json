@@ -1,0 +1,30 @@
+{
+  "id": "45-001-014",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 1,
+  "verse_reference": "Romans 1:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What is being revealed from heaven against all the godlessness and wickedness of people?",
+  "options": [
+    "The wrath of God",
+    "The glory of angels",
+    "A new law",
+    "A great light"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says the wrath of God is being revealed from heaven against people who suppress the truth by their wickedness."
+}

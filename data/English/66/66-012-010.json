@@ -1,0 +1,36 @@
+{
+  "id": "66-012-010",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 12,
+  "verse_reference": "Revelation 12:10",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What does Revelation 12:10 call Satan, who accuses believers before God day and night?",
+  "options": [
+    "The deceiver of kings",
+    "The accuser of our brothers and sisters",
+    "The destroyer of cities",
+    "The father of lies"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Satan"
+  ],
+  "characters": [
+    "Satan"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A loud voice in heaven said that the accuser of our brothers and sisters, who accuses them before God day and night, has been hurled down."
+}

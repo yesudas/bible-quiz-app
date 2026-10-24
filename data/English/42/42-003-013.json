@@ -1,0 +1,33 @@
+{
+  "id": "42-003-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 3,
+  "verse_reference": "Luke 3:12-13",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who did John tell, 'Don't collect any more than you are required to'?",
+  "options": [
+    "Tax collectors",
+    "Soldiers",
+    "Priests",
+    "Fishermen"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Repentance"
+  ],
+  "characters": [
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Tax collectors asked John what they should do, and he told them not to collect more than required."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "32-003-005",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 3,
+  "verse_reference": "Jonah 3:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did the people of Nineveh respond to Jonah's message?",
+  "options": [
+    "They believed God, fasted and put on sackcloth",
+    "They threw Jonah out of the city",
+    "They laughed at Jonah",
+    "They prepared for war"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Repentance"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Ninevites believed God, declared a fast, and all of them put on sackcloth, from the greatest to the least."
+}

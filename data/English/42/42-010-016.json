@@ -1,0 +1,38 @@
+{
+  "id": "42-010-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:33",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who took pity on the wounded man in Jesus' parable?",
+  "options": [
+    "A Roman",
+    "A Pharisee",
+    "A shepherd",
+    "A Samaritan"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Road from Jerusalem to Jericho",
+      "type": "road"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A Samaritan, as he traveled, came where the man was, and when he saw him, he took pity on him."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "50-003-009",
+  "language": "en",
+  "book_no": 50,
+  "book": "Philippians",
+  "chapter": 3,
+  "verse_reference": "Philippians 3:13",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Paul said he forgets what is behind and strains toward what?",
+  "options": [
+    "what is ahead",
+    "what is below",
+    "what is easy",
+    "what is old"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul forgot what was behind and strained toward what was ahead."
+}

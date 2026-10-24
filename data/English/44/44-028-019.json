@@ -1,0 +1,38 @@
+{
+  "id": "44-028-019",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 28,
+  "verse_reference": "Acts 28:28",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"Therefore I want you to know that God's salvation has been sent to the ______, and they will listen!\"",
+  "options": [
+    "nations",
+    "poor",
+    "islands",
+    "Gentiles"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Rome",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said God's salvation has been sent to the Gentiles, and they will listen."
+}

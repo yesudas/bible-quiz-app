@@ -1,0 +1,32 @@
+{
+  "id": "41-008-002",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 8,
+  "verse_reference": "Mark 8:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How many loaves did the disciples have when Jesus fed the four thousand?",
+  "options": [
+    "Seven",
+    "Five",
+    "Two",
+    "Twelve"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked, \"How many loaves do you have?\" \"Seven,\" they replied."
+}

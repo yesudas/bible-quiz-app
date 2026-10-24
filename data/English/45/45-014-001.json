@@ -1,0 +1,31 @@
+{
+  "id": "45-014-001",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 14,
+  "verse_reference": "Romans 14:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How should believers treat the one whose faith is weak?",
+  "options": [
+    "Send them away from the church",
+    "Argue with them until they agree",
+    "Make them keep the law",
+    "Accept them without quarreling over disputable matters"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Church",
+    "Love",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says to accept the one whose faith is weak, without quarreling over disputable matters."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "31-001-010",
+  "language": "en",
+  "book_no": 31,
+  "book": "Obadiah",
+  "chapter": 1,
+  "verse_reference": "Obadiah 15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"The day of the LORD is near for all nations. As you have done, it will be ______ to you.\"",
+  "options": [
+    "given",
+    "done",
+    "returned",
+    "shown"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Obadiah 15 warns that as Edom had done, it would be done to Edom; its deeds would return on its own head."
+}

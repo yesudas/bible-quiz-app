@@ -1,0 +1,35 @@
+{
+  "id": "52-003-005",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 3,
+  "verse_reference": "1 Thessalonians 3:6",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What good news did Timothy bring back to Paul about the Thessalonians?",
+  "options": [
+    "They had built a new synagogue",
+    "They had moved to another city",
+    "They had chosen new elders",
+    "News about their faith and love"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Love",
+    "Church"
+  ],
+  "characters": [
+    "Paul",
+    "Timothy"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Timothy brought good news about their faith and love, and that they had pleasant memories of Paul and longed to see him."
+}

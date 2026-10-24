@@ -1,0 +1,43 @@
+{
+  "id": "30-005-004",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 5,
+  "verse_reference": "Amos 5:5",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which three places did God tell Israel not to seek or go to?",
+  "options": [
+    "Jerusalem, Hebron and Shiloh",
+    "Dan, Samaria and Gilead",
+    "Bethel, Gilgal and Beersheba",
+    "Tekoa, Bethlehem and Jericho"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    },
+    {
+      "name": "Gilgal",
+      "type": "town"
+    },
+    {
+      "name": "Beersheba",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 5:5 says, 'Do not seek Bethel, do not go to Gilgal, do not journey to Beersheba.'"
+}

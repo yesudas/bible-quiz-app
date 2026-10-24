@@ -1,0 +1,39 @@
+{
+  "id": "44-009-011",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 9,
+  "verse_reference": "Acts 9:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What fell from Saul's eyes when Ananias laid hands on him?",
+  "options": [
+    "Tears",
+    "Dust from the road",
+    "Something like scales",
+    "A cloth"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Saul",
+    "Ananias"
+  ],
+  "places": [
+    {
+      "name": "Damascus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Something like scales fell from Saul's eyes, he could see again, and he was baptized."
+}

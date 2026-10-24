@@ -1,0 +1,41 @@
+{
+  "id": "33-007-005",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 7,
+  "verse_reference": "Micah 7:14",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In Micah 7:14, where did Micah pray that God's flock would graze as in days long ago?",
+  "options": [
+    "Egypt and Moab",
+    "Edom and Seir",
+    "Bashan and Gilead",
+    "Sharon and Carmel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Leadership"
+  ],
+  "characters": [
+    "Micah"
+  ],
+  "places": [
+    {
+      "name": "Bashan",
+      "type": "region"
+    },
+    {
+      "name": "Gilead",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micah asked God to shepherd His people and let them feed in Bashan and Gilead as in days long ago."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "66-001-021",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 1,
+  "verse_reference": "Revelation 1:16,20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Jesus held seven stars in his right hand. According to Revelation 1:20, what are the seven stars?",
+  "options": [
+    "The seven lampstands",
+    "The seven apostles",
+    "The angels of the seven churches",
+    "The seven kings"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Angels",
+    "Church"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus explained that the seven stars are the angels of the seven churches."
+}

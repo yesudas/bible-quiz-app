@@ -1,0 +1,33 @@
+{
+  "id": "28-012-002",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 12,
+  "verse_reference": "Hosea 12:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which man grasped his brother's heel in the womb?",
+  "options": [
+    "Jacob",
+    "Esau",
+    "Isaac",
+    "Joseph"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Faith"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said of Jacob, 'In the womb he grasped his brother's heel; as a man he struggled with God.'"
+}

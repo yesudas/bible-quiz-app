@@ -1,0 +1,33 @@
+{
+  "id": "42-016-007",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 16,
+  "verse_reference": "Luke 16:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' words: 'You cannot serve both God and ____.'",
+  "options": [
+    "people",
+    "Caesar",
+    "yourself",
+    "money"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'No one can serve two masters... You cannot serve both God and money.'"
+}

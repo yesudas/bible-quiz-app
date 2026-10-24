@@ -1,0 +1,36 @@
+{
+  "id": "38-014-003",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 14,
+  "verse_reference": "Zechariah 14:5",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "The people would flee as they fled from the earthquake in the days of which king of Judah?",
+  "options": [
+    "Hezekiah",
+    "Josiah",
+    "Uzziah",
+    "Ahaz"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Uzziah"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They would flee as they fled from the earthquake in the days of Uzziah king of Judah."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "24-042-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 42,
+  "verse_reference": "Jeremiah 42:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete God's words: \"Do not be afraid of the king of Babylon, whom you now fear… for I am with you and will ____ you.\"",
+  "options": [
+    "punish",
+    "save",
+    "leave",
+    "test"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Promise",
+    "Salvation"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"Do not be afraid of him… for I am with you and will save you and deliver you from his hands.\""
+}

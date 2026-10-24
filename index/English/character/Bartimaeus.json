@@ -1,0 +1,14 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Bartimaeus",
+    "label": "Bartimaeus",
+    "count": 4,
+    "paths": [
+        "English/41/41-010-022.json",
+        "English/41/41-010-023.json",
+        "English/41/41-010-024.json",
+        "English/41/41-010-025.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

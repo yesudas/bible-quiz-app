@@ -1,0 +1,33 @@
+{
+  "id": "60-002-011",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 2,
+  "verse_reference": "1 Peter 2:22-23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When people insulted Jesus, what did He do?",
+  "options": [
+    "He insulted them back",
+    "He did not retaliate",
+    "He called down fire",
+    "He ran away"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they hurled insults at Him, He did not retaliate; He entrusted Himself to Him who judges justly."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "43-018-011",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 18,
+  "verse_reference": "John 18:28",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the Jewish leaders not enter the palace of the Roman governor?",
+  "options": [
+    "They were afraid of Pilate",
+    "It was the Sabbath",
+    "They wanted to avoid becoming unclean and be able to eat the Passover",
+    "The doors were locked"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Palace of the Roman governor",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 18:28 says to avoid ceremonial uncleanness they did not enter the palace, because they wanted to be able to eat the Passover."
+}

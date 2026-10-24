@@ -1,0 +1,38 @@
+{
+  "id": "42-019-001",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 19,
+  "verse_reference": "Luke 19:1-2",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which chief tax collector in Jericho wanted to see Jesus?",
+  "options": [
+    "Levi",
+    "Zacchaeus",
+    "Simon",
+    "Matthias"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "Zacchaeus",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A man named Zacchaeus, a chief tax collector who was wealthy, lived in Jericho."
+}

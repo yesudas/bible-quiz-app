@@ -1,0 +1,38 @@
+{
+  "id": "35-001-012",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 1,
+  "verse_reference": "Habakkuk 1:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was Habakkuk's second question to God?",
+  "options": [
+    "Why God would use the wicked to swallow up people more righteous than themselves",
+    "Why God would not let him become king",
+    "Why God chose Moses to lead Israel",
+    "Why the temple had no priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Justice",
+    "Prayer",
+    "Suffering"
+  ],
+  "characters": [
+    "Habakkuk"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "empire"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Habakkuk asked why a holy God would be silent while the wicked swallowed up those more righteous than themselves."
+}

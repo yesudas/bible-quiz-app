@@ -1,0 +1,33 @@
+{
+  "id": "24-020-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 20,
+  "verse_reference": "Jeremiah 20:3",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "When Pashhur released him, what new name did Jeremiah say the LORD had given Pashhur?",
+  "options": [
+    "Man of Sorrows",
+    "Lo-Ammi",
+    "Ichabod",
+    "Terror on Every Side"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Pashhur",
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah said, \"The LORD's name for you is not Pashhur, but Terror on Every Side.\""
+}

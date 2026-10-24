@@ -1,0 +1,39 @@
+{
+  "id": "44-009-014",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 9,
+  "verse_reference": "Acts 9:26-27",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who brought Saul to the apostles in Jerusalem when the disciples were afraid of him?",
+  "options": [
+    "Barnabas",
+    "Ananias",
+    "Philip",
+    "Silas"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Encouragement",
+    "Church"
+  ],
+  "characters": [
+    "Barnabas",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Barnabas took Saul, brought him to the apostles and told them how Saul had preached fearlessly in Damascus."
+}

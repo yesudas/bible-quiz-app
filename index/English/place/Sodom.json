@@ -3,11 +3,22 @@
     "language": "English",
     "place": "Sodom",
     "label": "Sodom",
-    "count": 3,
+    "count": 14,
     "paths": [
         "English/23/23-001-006.json",
         "English/23/23-003-004.json",
-        "English/23/23-013-007.json"
+        "English/23/23-013-007.json",
+        "English/24/24-023-006.json",
+        "English/24/24-049-006.json",
+        "English/25/25-004-003.json",
+        "English/26/26-016-009.json",
+        "English/30/30-004-008.json",
+        "English/40/40-010-011.json",
+        "English/40/40-011-014.json",
+        "English/42/42-017-018.json",
+        "English/61/61-002-006.json",
+        "English/61/61-002-007.json",
+        "English/65/65-001-006.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

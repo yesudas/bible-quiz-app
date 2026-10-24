@@ -1,0 +1,27 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Festus",
+    "label": "Festus",
+    "count": 17,
+    "paths": [
+        "English/44/44-024-017.json",
+        "English/44/44-025-001.json",
+        "English/44/44-025-002.json",
+        "English/44/44-025-003.json",
+        "English/44/44-025-004.json",
+        "English/44/44-025-005.json",
+        "English/44/44-025-007.json",
+        "English/44/44-025-010.json",
+        "English/44/44-025-011.json",
+        "English/44/44-025-012.json",
+        "English/44/44-025-013.json",
+        "English/44/44-025-016.json",
+        "English/44/44-025-017.json",
+        "English/44/44-026-012.json",
+        "English/44/44-026-013.json",
+        "English/44/44-026-017.json",
+        "English/44/44-026-018.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

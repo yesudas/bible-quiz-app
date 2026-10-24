@@ -1,0 +1,35 @@
+{
+  "id": "26-042-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 42,
+  "verse_reference": "Ezekiel 42:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was the purpose of the wall around the whole temple area?",
+  "options": [
+    "To keep out enemy armies",
+    "To hold up the roof",
+    "To separate the holy from the common",
+    "To mark the city boundary"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "It had a wall around it, 500 cubits long and 500 cubits wide, to separate the holy from the common."
+}

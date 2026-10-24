@@ -1,0 +1,33 @@
+{
+  "id": "24-022-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 22,
+  "verse_reference": "Jeremiah 22:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did God pronounce woe on the king who built his palace?",
+  "options": [
+    "He used too much gold",
+    "He built it too slowly",
+    "He built it in a foreign land",
+    "He built it by unrighteousness and did not pay his workers"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Leadership",
+    "Money"
+  ],
+  "characters": [
+    "Jehoiakim"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Woe to him who builds his palace by unrighteousness, making his own people work for nothing and not paying them for their labor."
+}

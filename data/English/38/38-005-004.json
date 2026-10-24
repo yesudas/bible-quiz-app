@@ -1,0 +1,35 @@
+{
+  "id": "38-005-004",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 5,
+  "verse_reference": "Zechariah 5:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What would the curse do to the house of the thief and the false swearer?",
+  "options": [
+    "Make it fall into the sea",
+    "Stay in it and destroy it, both timbers and stones",
+    "Fill it with gold",
+    "Lock its doors forever"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "House of the thief",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The curse would remain in that house and destroy it completely, both its timbers and its stones."
+}

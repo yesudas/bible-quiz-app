@@ -1,0 +1,31 @@
+{
+  "id": "42-019-009",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 19,
+  "verse_reference": "Luke 19:14",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the man's subjects send a delegation to say?",
+  "options": [
+    "'We want you to come back soon.'",
+    "'We don't want this man to be our king.'",
+    "'We will pay more taxes.'",
+    "'We will serve you.'"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "His subjects hated him and sent a delegation after him to say, 'We don't want this man to be our king.'"
+}

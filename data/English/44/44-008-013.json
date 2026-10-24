@@ -1,0 +1,42 @@
+{
+  "id": "44-008-013",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 8,
+  "verse_reference": "Acts 8:26",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "An angel told Philip to go to which road?",
+  "options": [
+    "The road to Damascus",
+    "The road to Emmaus",
+    "The road to Jericho",
+    "The desert road from Jerusalem to Gaza"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Angels",
+    "Obedience"
+  ],
+  "characters": [
+    "Philip"
+  ],
+  "places": [
+    {
+      "name": "Desert road from Jerusalem to Gaza",
+      "type": "road"
+    },
+    {
+      "name": "Gaza",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "An angel told Philip to go south to the road that goes down from Jerusalem to Gaza, the desert road."
+}

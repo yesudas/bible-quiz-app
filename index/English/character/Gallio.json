@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Gallio",
+    "label": "Gallio",
+    "count": 3,
+    "paths": [
+        "English/44/44-018-010.json",
+        "English/44/44-018-011.json",
+        "English/44/44-018-012.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "26-047-006",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 47,
+  "verse_reference": "Ezekiel 47:10",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "From where to where would fishermen stand along the shore spreading their nets?",
+  "options": [
+    "From Dan to Beersheba",
+    "From Jericho to Gilgal",
+    "From En Gedi to En Eglaim",
+    "From Bethel to Ai"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "En Gedi",
+      "type": "town"
+    },
+    {
+      "name": "En Eglaim",
+      "type": "town"
+    },
+    {
+      "name": "Dead Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Fishermen would stand along the shore from En Gedi to En Eglaim, and there would be places for spreading nets."
+}

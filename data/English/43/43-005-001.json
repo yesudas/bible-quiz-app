@@ -1,0 +1,38 @@
+{
+  "id": "43-005-001",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 5,
+  "verse_reference": "John 5:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Near which gate in Jerusalem was the pool of Bethesda?",
+  "options": [
+    "The Fish Gate",
+    "The Water Gate",
+    "The Sheep Gate",
+    "The Golden Gate"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Pool of Bethesda",
+      "type": "pool"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 5:2 says there is in Jerusalem near the Sheep Gate a pool called Bethesda, surrounded by five covered colonnades."
+}

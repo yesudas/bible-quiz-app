@@ -1,0 +1,38 @@
+{
+  "id": "43-012-010",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 12,
+  "verse_reference": "John 12:20-21",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Some Greeks who came to worship at the festival asked to see Jesus. Which disciple did they go to first?",
+  "options": [
+    "Andrew",
+    "Philip",
+    "Peter",
+    "John"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Philip",
+    "Andrew",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 12:21 says the Greeks came to Philip, who was from Bethsaida in Galilee, with a request: \"Sir, we would like to see Jesus.\""
+}

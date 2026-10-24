@@ -1,0 +1,42 @@
+{
+  "id": "24-052-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 52,
+  "verse_reference": "Jeremiah 52:12-13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Nebuzaradan set on fire in Jerusalem?",
+  "options": [
+    "Only the city gates",
+    "Only the king's palace",
+    "The temple of the LORD, the royal palace and all the houses of Jerusalem",
+    "Only the houses of the poor"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [
+    "Nebuzaradan"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nebuzaradan set fire to the temple of the LORD, the royal palace and all the houses of Jerusalem; every important building he burned down."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "38-011-010",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 11,
+  "verse_reference": "Zechariah 11:17",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "What kind of shepherd deserts the flock, according to Zechariah 11:17?",
+  "options": [
+    "A good shepherd",
+    "A young shepherd",
+    "A wise shepherd",
+    "A worthless shepherd"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'Woe to the worthless shepherd, who deserts the flock!'"
+}

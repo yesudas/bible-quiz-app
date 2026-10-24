@@ -1,0 +1,37 @@
+{
+  "id": "58-007-001",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 7,
+  "verse_reference": "Hebrews 7:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who was king of Salem and priest of God Most High?",
+  "options": [
+    "Aaron",
+    "Melchizedek",
+    "Jethro",
+    "Abimelek"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Melchizedek"
+  ],
+  "places": [
+    {
+      "name": "Salem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 7:1 says Melchizedek was king of Salem and priest of God Most High."
+}

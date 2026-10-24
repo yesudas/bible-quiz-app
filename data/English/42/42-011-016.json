@@ -1,0 +1,38 @@
+{
+  "id": "42-011-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:29-30",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "What sign did Jesus say would be given to this wicked generation?",
+  "options": [
+    "The sign of Moses",
+    "The sign of Elijah",
+    "The sign of a dove",
+    "The sign of Jonah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Repentance"
+  ],
+  "characters": [
+    "Jesus",
+    "Jonah"
+  ],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said none will be given except the sign of Jonah, for as Jonah was a sign to the Ninevites, so the Son of Man will be to this generation."
+}

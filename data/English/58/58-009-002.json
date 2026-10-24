@@ -1,0 +1,39 @@
+{
+  "id": "58-009-002",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 9,
+  "verse_reference": "Hebrews 9:3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 9:3, what was the room behind the second curtain called?",
+  "options": [
+    "The Holy Place",
+    "The outer court",
+    "The Most Holy Place",
+    "The court of the priests"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tabernacle",
+      "type": "temple"
+    },
+    {
+      "name": "Most Holy Place",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 9:3 says behind the second curtain was a room called the Most Holy Place."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "44-009-020",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 9,
+  "verse_reference": "Acts 9:40",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened when Peter prayed and said, \"Tabitha, get up\"?",
+  "options": [
+    "She was carried to her grave",
+    "She opened her eyes and sat up",
+    "She spoke from heaven",
+    "An angel appeared"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Prayer",
+    "Resurrection"
+  ],
+  "characters": [
+    "Peter",
+    "Tabitha"
+  ],
+  "places": [
+    {
+      "name": "Joppa",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter got down on his knees and prayed; she opened her eyes, saw Peter and sat up."
+}

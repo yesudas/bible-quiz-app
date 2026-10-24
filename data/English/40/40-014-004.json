@@ -1,0 +1,32 @@
+{
+  "id": "40-014-004",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 14,
+  "verse_reference": "Matthew 14:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Herod not kill John at first, even though he wanted to?",
+  "options": [
+    "He was afraid of the people, because they considered John a prophet",
+    "John was a Roman citizen",
+    "The priests would not allow it",
+    "John escaped from prison"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Herod",
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 14:5 says Herod wanted to kill John, but he was afraid of the people, because they considered John a prophet."
+}

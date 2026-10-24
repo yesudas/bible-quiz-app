@@ -1,0 +1,39 @@
+{
+  "id": "26-029-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 29,
+  "verse_reference": "Ezekiel 29:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "After God brought the Egyptians back, what kind of kingdom did He say Egypt would be?",
+  "options": [
+    "The strongest of kingdoms",
+    "A kingdom ruling over Israel",
+    "A kingdom of priests",
+    "A lowly kingdom, the weakest of kingdoms"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Pathros",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would bring them back to Upper Egypt, but they would be a lowly kingdom, the weakest of the kingdoms."
+}

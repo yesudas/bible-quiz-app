@@ -1,0 +1,31 @@
+{
+  "id": "54-001-006",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 1,
+  "verse_reference": "1 Timothy 1:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Paul say about the law?",
+  "options": [
+    "It has no use for anyone",
+    "It is good if one uses it properly",
+    "It saves those who keep it",
+    "It was only for priests"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said the law is good if one uses it properly."
+}

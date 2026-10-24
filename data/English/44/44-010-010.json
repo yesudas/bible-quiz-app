@@ -1,0 +1,31 @@
+{
+  "id": "44-010-010",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 10,
+  "verse_reference": "Acts 10:16",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many times did this happen in Peter's vision?",
+  "options": [
+    "Two times",
+    "Seven times",
+    "Three times",
+    "Once"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "This happened three times, and then the sheet was taken back to heaven."
+}

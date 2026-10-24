@@ -1,0 +1,38 @@
+{
+  "id": "42-019-017",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 19,
+  "verse_reference": "Luke 19:38",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the disciples' praise: 'Blessed is the ____ who comes in the name of the Lord!'",
+  "options": [
+    "prophet",
+    "king",
+    "priest",
+    "son"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mount of Olives",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The disciples praised God, saying, 'Blessed is the king who comes in the name of the Lord! Peace in heaven and glory in the highest!'"
+}

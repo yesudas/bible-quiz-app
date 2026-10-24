@@ -1,0 +1,37 @@
+{
+  "id": "42-006-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'Blessed are you who are poor, for yours is the ____ of God.'",
+  "options": [
+    "kingdom",
+    "love",
+    "house",
+    "mercy"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Level place",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Looking at his disciples, Jesus said, 'Blessed are you who are poor, for yours is the kingdom of God.'"
+}

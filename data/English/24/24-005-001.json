@@ -1,0 +1,37 @@
+{
+  "id": "24-005-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 5,
+  "verse_reference": "Jeremiah 5:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "God said He would forgive Jerusalem if He could find how many people who dealt honestly and sought the truth?",
+  "options": [
+    "Ten",
+    "Fifty",
+    "Just one",
+    "One hundred"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Forgiveness",
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told them to search Jerusalem's streets; if they could find but one person who dealt honestly and sought the truth, He would forgive the city."
+}

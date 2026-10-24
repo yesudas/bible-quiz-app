@@ -1,0 +1,33 @@
+{
+  "id": "40-017-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 17,
+  "verse_reference": "Matthew 17:16",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom had the father first asked to heal his son, without success?",
+  "options": [
+    "Jesus' disciples",
+    "The priests",
+    "A doctor",
+    "The Pharisees"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 17:16 says, \"I brought him to your disciples, but they could not heal him.\""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "42-001-022",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:52-53",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In Mary's song, what does God do for the humble and the hungry?",
+  "options": [
+    "He lifts up the humble and fills the hungry with good things",
+    "He sends them away empty",
+    "He makes them rulers over nations",
+    "He gives them long life"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Humility"
+  ],
+  "characters": [
+    "Mary"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mary sang that God brought down rulers but lifted up the humble, and filled the hungry with good things while sending the rich away empty."
+}

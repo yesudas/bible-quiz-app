@@ -1,0 +1,34 @@
+{
+  "id": "45-005-001",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 5,
+  "verse_reference": "Romans 5:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Since we have been justified through faith, what do we have with God?",
+  "options": [
+    "Peace",
+    "Fear",
+    "A debt",
+    "A contract"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Romans 5:1 says that since we have been justified through faith, we have peace with God through our Lord Jesus Christ."
+}

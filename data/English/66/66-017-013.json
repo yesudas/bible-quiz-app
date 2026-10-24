@@ -1,0 +1,34 @@
+{
+  "id": "66-017-013",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 17,
+  "verse_reference": "Revelation 17:18",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "According to Revelation 17:18, who is the woman John saw?",
+  "options": [
+    "The holy city",
+    "The great city that rules over the kings of the earth",
+    "The bride of the Lamb",
+    "The mother of the male child"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel said, \"The woman you saw is the great city that rules over the kings of the earth.\""
+}

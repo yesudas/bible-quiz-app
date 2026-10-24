@@ -1,0 +1,35 @@
+{
+  "id": "26-016-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 16,
+  "verse_reference": "Ezekiel 16:4-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In the picture God gives, what happened to Jerusalem on the day she was born?",
+  "options": [
+    "She was given to a king",
+    "She was thrown out into the open field",
+    "She was taken to the temple",
+    "She was carried to Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Love"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "No one cared for the newborn; she was thrown out into the open field because she was despised on the day she was born."
+}

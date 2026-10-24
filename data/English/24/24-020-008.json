@@ -1,0 +1,33 @@
+{
+  "id": "24-020-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 20,
+  "verse_reference": "Jeremiah 20:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"His word is in my heart like a ____, a fire shut up in my bones.\"",
+  "options": [
+    "light",
+    "song",
+    "river",
+    "fire"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Faith"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah said that when he tried not to speak, God's word was in his heart like a fire, a fire shut up in his bones."
+}

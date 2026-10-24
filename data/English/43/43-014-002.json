@@ -1,0 +1,33 @@
+{
+  "id": "43-014-002",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 14,
+  "verse_reference": "John 14:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Jesus say he was going to do in his Father's house?",
+  "options": [
+    "Build a temple",
+    "Prepare a place for his disciples",
+    "Rest for three days",
+    "Pray for the world"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 14:2, Jesus said his Father's house has many rooms, and he was going there to prepare a place for them."
+}

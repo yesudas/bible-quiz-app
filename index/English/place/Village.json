@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Village",
+    "label": "Village",
+    "count": 2,
+    "paths": [
+        "English/42/42-017-008.json",
+        "English/42/42-017-009.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

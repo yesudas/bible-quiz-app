@@ -1,0 +1,32 @@
+{
+  "id": "53-002-001",
+  "language": "en",
+  "book_no": 53,
+  "book": "2 Thessalonians",
+  "chapter": 2,
+  "verse_reference": "2 Thessalonians 2:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What false message did Paul warn the Thessalonians not to be alarmed by?",
+  "options": [
+    "That Jesus was not raised from the dead",
+    "That the day of the Lord had already come",
+    "That they must keep the Jewish law",
+    "That Paul had died in prison"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul told them not to be unsettled or alarmed by any teaching claiming that the day of the Lord had already come."
+}

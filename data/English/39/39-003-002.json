@@ -1,0 +1,34 @@
+{
+  "id": "39-003-002",
+  "language": "en",
+  "book_no": 39,
+  "book": "Malachi",
+  "chapter": 3,
+  "verse_reference": "Malachi 3:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Malachi say the Lord would suddenly come?",
+  "options": [
+    "To the Jordan River",
+    "To Mount Sinai",
+    "To his temple",
+    "To Bethlehem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Malachi said the Lord they were seeking would suddenly come to his temple."
+}

@@ -1,0 +1,17 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Ethiopian-eunuch",
+    "label": "Ethiopian eunuch",
+    "count": 7,
+    "paths": [
+        "English/44/44-008-014.json",
+        "English/44/44-008-015.json",
+        "English/44/44-008-016.json",
+        "English/44/44-008-017.json",
+        "English/44/44-008-018.json",
+        "English/44/44-008-019.json",
+        "English/44/44-008-020.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

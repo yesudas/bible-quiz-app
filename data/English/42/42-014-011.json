@@ -1,0 +1,33 @@
+{
+  "id": "42-014-011",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 14,
+  "verse_reference": "Luke 14:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What excuse did the third guest give for not coming to the banquet?",
+  "options": [
+    "He had no clothes",
+    "He had a field to plow",
+    "He was too tired",
+    "He had just gotten married"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Marriage"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Still another said, 'I just got married, so I can't come.'"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "48-003-005",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 3,
+  "verse_reference": "Galatians 3:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Scripture announced the gospel in advance to Abraham: \"All ______ will be blessed through you.\"",
+  "options": [
+    "nations",
+    "families of Israel",
+    "kings",
+    "priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Mission",
+    "Prophecy"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Scripture foresaw that God would justify the Gentiles by faith, and announced to Abraham that all nations would be blessed through him."
+}

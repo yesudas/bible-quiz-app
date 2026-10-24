@@ -1,0 +1,33 @@
+{
+  "id": "42-005-015",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When Jesus saw the faith of the men, what did he first say to the paralyzed man?",
+  "options": [
+    "'Get up and walk.'",
+    "'Go and wash.'",
+    "'Friend, your sins are forgiven.'",
+    "'Be clean.'"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Forgiveness",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Jesus saw their faith, he said, 'Friend, your sins are forgiven.'"
+}

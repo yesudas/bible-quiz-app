@@ -1,0 +1,40 @@
+{
+  "id": "40-004-008",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 4,
+  "verse_reference": "Matthew 4:8-9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the devil offer Jesus if he would bow down and worship him?",
+  "options": [
+    "Long life",
+    "All the kingdoms of the world and their splendor",
+    "The temple in Jerusalem",
+    "Twelve legions of angels"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Temptation",
+    "Satan",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus",
+    "Satan"
+  ],
+  "places": [
+    {
+      "name": "Very high mountain",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 4:8-9 says the devil showed Jesus all the kingdoms of the world and promised them to him if he would worship him."
+}

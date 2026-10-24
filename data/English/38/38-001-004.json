@@ -1,0 +1,30 @@
+{
+  "id": "38-001-004",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 1,
+  "verse_reference": "Zechariah 1:4-6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What warning did God give the people about their ancestors?",
+  "options": [
+    "Do not forget their names",
+    "Do not live in their land",
+    "Do not build their houses",
+    "Do not be like them, for they would not listen"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Repentance",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told them not to be like their ancestors, who did not listen when the prophets called them to turn from evil."
+}

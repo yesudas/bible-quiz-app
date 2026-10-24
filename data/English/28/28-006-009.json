@@ -1,0 +1,35 @@
+{
+  "id": "28-006-009",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 6,
+  "verse_reference": "Hosea 6:9",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "On the road to which place did the bands of priests murder people?",
+  "options": [
+    "Shechem",
+    "Jericho",
+    "Bethlehem",
+    "Hebron"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Shechem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said the priests were like marauders who murder on the road to Shechem."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "26-031-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 31,
+  "verse_reference": "Ezekiel 31:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What lived in the shade of the great cedar?",
+  "options": [
+    "Only the birds of the sky",
+    "Only the wild animals",
+    "All the great nations",
+    "No one at all"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All the birds nested in its boughs, the wild animals gave birth under its branches, and all the great nations lived in its shade."
+}

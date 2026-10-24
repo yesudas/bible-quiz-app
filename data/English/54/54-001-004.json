@@ -1,0 +1,32 @@
+{
+  "id": "54-001-004",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 1,
+  "verse_reference": "1 Timothy 1:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Besides myths, what did Paul warn people not to devote themselves to?",
+  "options": [
+    "Endless genealogies",
+    "Fasting rules",
+    "Temple sacrifices",
+    "Long prayers"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said myths and endless genealogies promote arguments rather than God's work, which is by faith."
+}

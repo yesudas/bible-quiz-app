@@ -1,0 +1,29 @@
+{
+  "id": "49-006-003",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 6,
+  "verse_reference": "Ephesians 6:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does Paul tell fathers not to do to their children?",
+  "options": [
+    "Teach them",
+    "Discipline them",
+    "Feed them",
+    "Exasperate them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord."
+}

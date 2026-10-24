@@ -1,0 +1,33 @@
+{
+  "id": "40-013-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 13,
+  "verse_reference": "Matthew 13:39",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "In the parable of the weeds, who are the harvesters?",
+  "options": [
+    "Apostles",
+    "Angels",
+    "Priests",
+    "Kings"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Angels",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 13:39 says the harvesters are angels."
+}

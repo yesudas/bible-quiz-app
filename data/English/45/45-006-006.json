@@ -1,0 +1,32 @@
+{
+  "id": "45-006-006",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 6,
+  "verse_reference": "Romans 6:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"In the same way, count yourselves dead to sin but ______ to God in Christ Jesus.\"",
+  "options": [
+    "close",
+    "known",
+    "loyal",
+    "alive"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul tells believers to count themselves dead to sin but alive to God in Christ Jesus."
+}

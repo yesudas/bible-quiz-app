@@ -1,0 +1,38 @@
+{
+  "id": "44-014-006",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 14,
+  "verse_reference": "Acts 14:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the crowd in Lystra think after the man was healed?",
+  "options": [
+    "Paul was a sorcerer",
+    "The man had been faking",
+    "The gods had come down in human form",
+    "An angel had healed him"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Miracles"
+  ],
+  "characters": [
+    "Paul",
+    "Barnabas"
+  ],
+  "places": [
+    {
+      "name": "Lystra",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The crowd shouted in Lycaonian, 'The gods have come down to us in human form!'"
+}

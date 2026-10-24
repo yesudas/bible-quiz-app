@@ -1,0 +1,30 @@
+{
+  "id": "46-010-013",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 10,
+  "verse_reference": "1 Corinthians 10:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"No one should seek their own good, but the good of ______.\"",
+  "options": [
+    "the church",
+    "others",
+    "their family",
+    "the poor"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul taught believers to look out for the good of other people."
+}

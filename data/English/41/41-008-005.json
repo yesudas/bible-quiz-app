@@ -1,0 +1,36 @@
+{
+  "id": "41-008-005",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 8,
+  "verse_reference": "Mark 8:10",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "To which region did Jesus go by boat after feeding the four thousand?",
+  "options": [
+    "Gennesaret",
+    "Tyre",
+    "Dalmanutha",
+    "Bethany"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Dalmanutha",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He got into the boat with his disciples and went to the region of Dalmanutha."
+}

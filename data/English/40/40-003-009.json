@@ -1,0 +1,33 @@
+{
+  "id": "40-003-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 3,
+  "verse_reference": "Matthew 3:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "John warned the Pharisees and Sadducees not to trust in saying, \"We have ___ as our father.\" Whom did they claim?",
+  "options": [
+    "Moses",
+    "David",
+    "Jacob",
+    "Abraham"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Repentance",
+    "Covenant"
+  ],
+  "characters": [
+    "John the Baptist",
+    "Abraham"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 3:9 says John warned them not to think, \"We have Abraham as our father,\" because God could raise up children for Abraham from stones."
+}

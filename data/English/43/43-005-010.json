@@ -1,0 +1,41 @@
+{
+  "id": "43-005-010",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 5,
+  "verse_reference": "John 5:14",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Jesus later find the man he had healed?",
+  "options": [
+    "At his home",
+    "At the temple",
+    "At the Sheep Gate",
+    "At the Jordan River"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Repentance"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 5:14 says Jesus found him at the temple and told him, \"Stop sinning or something worse may happen to you.\""
+}

@@ -1,0 +1,40 @@
+{
+  "id": "46-016-013",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 16,
+  "verse_reference": "1 Corinthians 16:19",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which couple sent warm greetings, along with the church that met at their house?",
+  "options": [
+    "Ananias and Sapphira",
+    "Aquila and Priscilla",
+    "Zechariah and Elizabeth",
+    "Joseph and Mary"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Marriage",
+    "Family"
+  ],
+  "characters": [
+    "Aquila",
+    "Priscilla"
+  ],
+  "places": [
+    {
+      "name": "Asia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Aquila and Priscilla greeted the Corinthians warmly in the Lord, and so did the church that met at their house."
+}

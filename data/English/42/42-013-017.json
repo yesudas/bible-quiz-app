@@ -1,0 +1,33 @@
+{
+  "id": "42-013-017",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 13,
+  "verse_reference": "Luke 13:31-32",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Jesus call Herod when the Pharisees warned that Herod wanted to kill him?",
+  "options": [
+    "That snake",
+    "That fox",
+    "That wolf",
+    "That lion"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus",
+    "Herod",
+    "Pharisees"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus replied, 'Go tell that fox, I will keep on driving out demons and healing people today and tomorrow.'"
+}

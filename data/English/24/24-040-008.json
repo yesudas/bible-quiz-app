@@ -1,0 +1,39 @@
+{
+  "id": "24-040-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 40,
+  "verse_reference": "Jeremiah 40:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Jews who returned to Judah harvest in abundance?",
+  "options": [
+    "Wheat and barley",
+    "Olives and dates",
+    "Figs and pomegranates",
+    "Wine and summer fruit"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Mizpah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All the Jews came back to the land of Judah, to Gedaliah at Mizpah, and they harvested an abundance of wine and summer fruit."
+}

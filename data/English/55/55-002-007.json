@@ -1,0 +1,32 @@
+{
+  "id": "55-002-007",
+  "language": "en",
+  "book_no": 55,
+  "book": "2 Timothy",
+  "chapter": 2,
+  "verse_reference": "2 Timothy 2:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What does Paul say about Christ when we are faithless?",
+  "options": [
+    "He forgets us",
+    "He remains faithful",
+    "He becomes angry",
+    "He leaves the church"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that if we are faithless, Christ remains faithful, for he cannot disown himself."
+}

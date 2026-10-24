@@ -1,0 +1,36 @@
+{
+  "id": "36-003-011",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 3,
+  "verse_reference": "Zephaniah 3:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Do not fear, Zion; do not let your ____ hang limp.\"",
+  "options": [
+    "heads",
+    "hands",
+    "harps",
+    "banners"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On that day Jerusalem would be told, 'Do not fear, Zion; do not let your hands hang limp.'"
+}

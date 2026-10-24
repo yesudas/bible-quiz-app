@@ -1,0 +1,34 @@
+{
+  "id": "62-005-002",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 5,
+  "verse_reference": "1 John 5:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"In fact, this is love for God: to keep his commands. And his commands are not ______.\"",
+  "options": [
+    "new",
+    "burdensome",
+    "written",
+    "secret"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Obedience"
+  ],
+  "characters": [
+    "God",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says love for God means keeping his commands, and his commands are not burdensome."
+}

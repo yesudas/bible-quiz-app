@@ -1,0 +1,33 @@
+{
+  "id": "44-005-003",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 5,
+  "verse_reference": "Acts 5:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Peter say about the land before and after Ananias sold it?",
+  "options": [
+    "It belonged to him, and the money was at his disposal",
+    "He was required to give all of it",
+    "It belonged to the apostles",
+    "It was stolen from the temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Honesty"
+  ],
+  "characters": [
+    "Peter",
+    "Ananias"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter said the land was his before it was sold, and the money was at his disposal afterward; his sin was lying to God."
+}

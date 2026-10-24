@@ -1,0 +1,37 @@
+{
+  "id": "44-010-013",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 10,
+  "verse_reference": "Acts 10:28",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Peter say God had shown him through the vision?",
+  "options": [
+    "He should only eat fish",
+    "He should not call anyone impure or unclean",
+    "He should stay away from Gentiles",
+    "He should return to fishing"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Mission"
+  ],
+  "characters": [
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Caesarea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter said God had shown him that he should not call anyone impure or unclean."
+}

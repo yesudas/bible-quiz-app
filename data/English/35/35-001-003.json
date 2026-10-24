@@ -1,0 +1,38 @@
+{
+  "id": "35-001-003",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 1,
+  "verse_reference": "Habakkuk 1:2-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was Habakkuk's first complaint to God?",
+  "options": [
+    "God let violence and injustice go on without stopping it",
+    "God had sent too much rain on the land",
+    "The people would not let him preach",
+    "The temple had been destroyed"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Sin",
+    "Justice"
+  ],
+  "characters": [
+    "Habakkuk"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Habakkuk complained that he saw violence, injustice and wrongdoing all around, and it seemed God was doing nothing."
+}

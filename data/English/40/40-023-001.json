@@ -1,0 +1,33 @@
+{
+  "id": "40-023-001",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 23,
+  "verse_reference": "Matthew 23:2",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Jesus said the teachers of the law and the Pharisees sit in whose seat?",
+  "options": [
+    "Moses' seat",
+    "David's seat",
+    "Aaron's seat",
+    "Solomon's seat"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 23:2 says, \"The teachers of the law and the Pharisees sit in Moses' seat.\""
+}

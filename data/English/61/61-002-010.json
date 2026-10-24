@@ -1,0 +1,32 @@
+{
+  "id": "61-002-010",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 2,
+  "verse_reference": "2 Peter 2:16",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What animal spoke with a human voice and stopped Balaam's madness?",
+  "options": [
+    "A camel",
+    "A donkey",
+    "A horse",
+    "An ox"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Balaam"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter reminds readers that a donkey spoke with a human voice and restrained the prophet's madness."
+}

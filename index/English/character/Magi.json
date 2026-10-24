@@ -1,0 +1,17 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Magi",
+    "label": "Magi",
+    "count": 7,
+    "paths": [
+        "English/40/40-002-003.json",
+        "English/40/40-002-004.json",
+        "English/40/40-002-008.json",
+        "English/40/40-002-009.json",
+        "English/40/40-002-010.json",
+        "English/40/40-002-011.json",
+        "English/40/40-002-012.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

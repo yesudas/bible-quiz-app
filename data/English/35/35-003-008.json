@@ -1,0 +1,33 @@
+{
+  "id": "35-003-008",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 3,
+  "verse_reference": "Habakkuk 3:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which of these did Habakkuk list as something that might fail?",
+  "options": [
+    "The olive crop",
+    "The rivers of Babylon",
+    "The temple walls",
+    "The king's treasury"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Faith"
+  ],
+  "characters": [
+    "Habakkuk"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Habakkuk spoke of the fig tree not budding, no grapes, the olive crop failing, and no sheep or cattle."
+}

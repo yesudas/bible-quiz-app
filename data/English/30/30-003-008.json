@@ -1,0 +1,33 @@
+{
+  "id": "30-003-008",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 3,
+  "verse_reference": "Amos 3:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "When a shepherd rescues a sheep from a lion's mouth, what does Amos say may be all that is left?",
+  "options": [
+    "Its wool and horns",
+    "Two leg bones or a piece of an ear",
+    "Its head and tail",
+    "Only its bell"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 3:12 says only two leg bones or a piece of an ear may be rescued, showing how little of Israel would be saved."
+}

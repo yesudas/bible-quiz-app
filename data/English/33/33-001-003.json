@@ -1,0 +1,40 @@
+{
+  "id": "33-001-003",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 1,
+  "verse_reference": "Micah 1:1",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "During the reigns of which kings of Judah did Micah prophesy?",
+  "options": [
+    "Uzziah, Jotham and Ahaz",
+    "Jotham, Ahaz and Hezekiah",
+    "Ahaz, Hezekiah and Manasseh",
+    "Hezekiah, Manasseh and Josiah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Micah",
+    "Jotham",
+    "Ahaz",
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micah received God's word during the reigns of Jotham, Ahaz and Hezekiah, kings of Judah."
+}

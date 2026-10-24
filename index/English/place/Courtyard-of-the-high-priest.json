@@ -1,0 +1,27 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Courtyard-of-the-high-priest",
+    "label": "Courtyard of the high priest",
+    "count": 17,
+    "paths": [
+        "English/40/40-026-030.json",
+        "English/40/40-026-031.json",
+        "English/40/40-026-032.json",
+        "English/41/41-014-024.json",
+        "English/41/41-014-025.json",
+        "English/41/41-014-026.json",
+        "English/41/41-014-027.json",
+        "English/41/41-014-028.json",
+        "English/41/41-014-029.json",
+        "English/41/41-014-030.json",
+        "English/42/42-022-020.json",
+        "English/42/42-022-021.json",
+        "English/43/43-018-006.json",
+        "English/43/43-018-007.json",
+        "English/43/43-018-008.json",
+        "English/43/43-018-009.json",
+        "English/43/43-018-010.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

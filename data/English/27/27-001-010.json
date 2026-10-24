@@ -1,0 +1,39 @@
+{
+  "id": "27-001-010",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 1,
+  "verse_reference": "Daniel 1:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete: \"But Daniel resolved not to ______ himself with the royal food and wine.\"",
+  "options": [
+    "defile",
+    "feed",
+    "trouble",
+    "tire"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Obedience",
+    "Temptation"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daniel resolved not to defile himself with the royal food and wine, and he asked permission not to eat it."
+}

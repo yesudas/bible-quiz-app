@@ -1,0 +1,31 @@
+{
+  "id": "58-001-002",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 1,
+  "verse_reference": "Hebrews 1:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "In the past, through whom did God speak to the ancestors at many times and in various ways?",
+  "options": [
+    "The prophets",
+    "The angels",
+    "The priests",
+    "The kings"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Revelation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 1:1 says God spoke to the ancestors through the prophets at many times and in various ways."
+}

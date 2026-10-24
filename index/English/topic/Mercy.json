@@ -3,7 +3,7 @@
     "language": "English",
     "topic": "Mercy",
     "label": "Mercy",
-    "count": 73,
+    "count": 84,
     "paths": [
         "English/05/05-004-015.json",
         "English/05/05-010-008.json",
@@ -77,7 +77,18 @@
         "English/23/23-055-005.json",
         "English/23/23-057-001.json",
         "English/23/23-065-001.json",
-        "English/23/23-065-002.json"
+        "English/23/23-065-002.json",
+        "English/32/32-001-013.json",
+        "English/32/32-003-001.json",
+        "English/32/32-003-009.json",
+        "English/32/32-003-010.json",
+        "English/32/32-004-002.json",
+        "English/32/32-004-003.json",
+        "English/32/32-004-007.json",
+        "English/32/32-004-010.json",
+        "English/32/32-004-011.json",
+        "English/32/32-004-012.json",
+        "English/34/34-001-003.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:42+00:00"
 }

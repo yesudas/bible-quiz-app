@@ -1,0 +1,30 @@
+{
+  "id": "30-005-005",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 5,
+  "verse_reference": "Amos 5:8",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which star groups does Amos say God made?",
+  "options": [
+    "The Pleiades and Orion",
+    "The Great Bear and the Little Bear",
+    "The morning star and the evening star",
+    "The sun and the moon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 5:8 describes God as the one who made the Pleiades and Orion."
+}

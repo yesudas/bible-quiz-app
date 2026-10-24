@@ -1,0 +1,37 @@
+{
+  "id": "41-015-029",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 15,
+  "verse_reference": "Mark 15:47",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which two women saw where Jesus was laid?",
+  "options": [
+    "Mary and Martha",
+    "Salome and Joanna",
+    "Mary Magdalene and Mary the mother of Joseph",
+    "Elizabeth and Mary"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Mary Magdalene",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Tomb cut out of rock",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mary Magdalene and Mary the mother of Joseph saw where he was laid."
+}

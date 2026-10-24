@@ -1,0 +1,33 @@
+{
+  "id": "40-011-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 11,
+  "verse_reference": "Matthew 11:28",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete: \"Come to me, all you who are weary and burdened, and I will give you ______.\"",
+  "options": [
+    "bread",
+    "gold",
+    "rest",
+    "peace"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 11:28 says, \"Come to me, all you who are weary and burdened, and I will give you rest.\""
+}

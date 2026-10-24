@@ -1,0 +1,36 @@
+{
+  "id": "41-014-029",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 14,
+  "verse_reference": "Mark 14:70",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did those standing near say to Peter, \"Surely you are one of them\"?",
+  "options": [
+    "Because he carried a sword",
+    "Because he was crying",
+    "Because he wore a linen garment",
+    "Because he was a Galilean"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Courtyard of the high priest",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Those standing near said to Peter, \"Surely you are one of them, for you are a Galilean.\""
+}

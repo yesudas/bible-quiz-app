@@ -1,0 +1,33 @@
+{
+  "id": "26-005-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 5,
+  "verse_reference": "Ezekiel 5:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did God tell Ezekiel to use as a barber's razor?",
+  "options": [
+    "A knife",
+    "A sharp sword",
+    "A sharp stone",
+    "A spear"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Ezekiel to take a sharp sword and use it as a barber's razor to shave his head and beard."
+}

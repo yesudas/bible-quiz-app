@@ -1,0 +1,37 @@
+{
+  "id": "24-011-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 11,
+  "verse_reference": "Jeremiah 11:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How many altars had the people of Jerusalem set up to burn incense to Baal?",
+  "options": [
+    "As many as there were streets in Jerusalem",
+    "Seven",
+    "As many as there were tribes",
+    "Twelve"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Baal"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The altars they set up to burn incense to Baal were as many as the streets of Jerusalem."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "60-005-003",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 5,
+  "verse_reference": "1 Peter 5:2-3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How does Peter say elders should lead the flock?",
+  "options": [
+    "By forcing people to obey",
+    "By being examples to the flock",
+    "By seeking dishonest gain",
+    "By lording it over others"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Church"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elders should serve willingly and eagerly, not lording it over those entrusted to them, but being examples to the flock."
+}

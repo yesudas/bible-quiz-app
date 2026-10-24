@@ -1,0 +1,37 @@
+{
+  "id": "44-027-001",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 27,
+  "verse_reference": "Acts 27:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which centurion of the Imperial Regiment was in charge of Paul on the voyage to Italy?",
+  "options": [
+    "Cornelius",
+    "Claudius",
+    "Lysias",
+    "Julius"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Julius",
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Italy",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul and some other prisoners were handed over to a centurion named Julius, who belonged to the Imperial Regiment."
+}

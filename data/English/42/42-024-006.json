@@ -1,0 +1,29 @@
+{
+  "id": "42-024-006",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 24,
+  "verse_reference": "Luke 24:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the apostles first react to the women's report?",
+  "options": [
+    "They ran to tell the crowds",
+    "They went to the temple to pray",
+    "They did not believe them, because their words seemed like nonsense",
+    "They hid in fear"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Unbelief"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The apostles did not believe the women, because their words seemed to them like nonsense."
+}

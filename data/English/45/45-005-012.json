@@ -1,0 +1,33 @@
+{
+  "id": "45-005-012",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 5,
+  "verse_reference": "Romans 5:19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Through the obedience of one man, what will the many be made?",
+  "options": [
+    "Sinners",
+    "Kings",
+    "Priests",
+    "Righteous"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Adam",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says that through one man's disobedience many were made sinners, and through one man's obedience many will be made righteous."
+}

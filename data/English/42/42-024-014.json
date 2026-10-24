@@ -1,0 +1,39 @@
+{
+  "id": "42-024-014",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 24,
+  "verse_reference": "Luke 24:30-31",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "When were the travelers' eyes opened so they recognized Jesus?",
+  "options": [
+    "When he showed them his hands",
+    "When they reached the temple",
+    "When he took bread, gave thanks, broke it and gave it to them",
+    "When he called them by name"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Resurrection",
+    "Jesus",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Emmaus",
+      "type": "village"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When he was at the table with them, he took bread, gave thanks, broke it and began to give it to them. Then their eyes were opened and they recognized him."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "51-002-004",
+  "language": "en",
+  "book_no": 51,
+  "book": "Colossians",
+  "chapter": 2,
+  "verse_reference": "Colossians 2:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Paul warn the Colossians not to be taken captive by?",
+  "options": [
+    "Roman soldiers",
+    "Hollow and deceptive philosophy",
+    "Wild animals",
+    "Heavy taxes"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Temptation",
+    "Wisdom"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul warned against hollow and deceptive philosophy that depends on human tradition rather than on Christ."
+}

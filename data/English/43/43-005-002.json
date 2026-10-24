@@ -1,0 +1,40 @@
+{
+  "id": "43-005-002",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 5,
+  "verse_reference": "John 5:2-3",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "What kind of people lay near the pool of Bethesda?",
+  "options": [
+    "Priests and Levites",
+    "Soldiers",
+    "Merchants",
+    "Disabled people, the blind, the lame and the paralyzed"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Pool of Bethesda",
+      "type": "pool"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 5:3 says a great number of disabled people used to lie there: the blind, the lame and the paralyzed."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "62-002-003",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 2,
+  "verse_reference": "1 John 2:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "John says Jesus is the atoning sacrifice for whose sins?",
+  "options": [
+    "Only the apostles' sins",
+    "Only the sins of Israel",
+    "Our sins and the sins of the whole world",
+    "Only the sins of children"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says Jesus is the atoning sacrifice for our sins, and not only ours but also for the sins of the whole world."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "44-023-017",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 23,
+  "verse_reference": "Acts 23:29",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to the commander's letter, what was the charge against Paul about?",
+  "options": [
+    "Stealing from the temple",
+    "Treason against Caesar",
+    "Murder",
+    "Questions about their law, with no charge deserving death or prison"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Justice",
+    "Law"
+  ],
+  "characters": [
+    "Claudius Lysias",
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He wrote that the accusation concerned questions about their law, but there was no charge against Paul that deserved death or imprisonment."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42-003-023",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 3,
+  "verse_reference": "Luke 3:31-32",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which famous king appears in Luke's genealogy of Jesus?",
+  "options": [
+    "Saul",
+    "Solomon's son Rehoboam",
+    "Ahab",
+    "David"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Covenant"
+  ],
+  "characters": [
+    "Jesus",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Luke's genealogy includes David, the son of Jesse."
+}

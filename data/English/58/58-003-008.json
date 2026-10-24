@@ -1,0 +1,36 @@
+{
+  "id": "58-003-008",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 3,
+  "verse_reference": "Hebrews 3:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 3:9, for how many years did the ancestors see what God did?",
+  "options": [
+    "Twelve years",
+    "Seventy years",
+    "Seven years",
+    "Forty years"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 3:9 says the ancestors tested and tried God, though for forty years they saw what he did."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "56-001-004",
+  "language": "en",
+  "book_no": 56,
+  "book": "Titus",
+  "chapter": 1,
+  "verse_reference": "Titus 1:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"...in the hope of eternal life, which God, who does not ____, promised before the beginning of time.\"",
+  "options": [
+    "change",
+    "sleep",
+    "forget",
+    "lie"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Promise",
+    "Salvation"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul reminds Titus that God does not lie, so His promise of eternal life is sure."
+}

@@ -1,0 +1,18 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Barracks",
+    "label": "Barracks",
+    "count": 8,
+    "paths": [
+        "English/44/44-021-017.json",
+        "English/44/44-022-015.json",
+        "English/44/44-022-016.json",
+        "English/44/44-022-017.json",
+        "English/44/44-022-018.json",
+        "English/44/44-023-009.json",
+        "English/44/44-023-012.json",
+        "English/44/44-023-013.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

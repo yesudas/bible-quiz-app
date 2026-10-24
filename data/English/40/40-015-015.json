@@ -1,0 +1,34 @@
+{
+  "id": "40-015-015",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 15,
+  "verse_reference": "Matthew 15:28",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Jesus say about the Canaanite woman before healing her daughter?",
+  "options": [
+    "\"Woman, you have little faith.\"",
+    "\"Woman, go and sin no more.\"",
+    "\"Woman, you have great faith!\"",
+    "\"Woman, wait until tomorrow.\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus",
+    "Canaanite woman"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 15:28 says Jesus answered, \"Woman, you have great faith! Your request is granted.\" And her daughter was healed at that moment."
+}

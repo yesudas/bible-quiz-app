@@ -1,0 +1,33 @@
+{
+  "id": "40-019-018",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 19,
+  "verse_reference": "Matthew 19:27",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who said to Jesus, \"We have left everything to follow you! What then will there be for us?\"",
+  "options": [
+    "James",
+    "Judas Iscariot",
+    "Matthew",
+    "Peter"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 19:27 says Peter answered him, \"We have left everything to follow you! What then will there be for us?\""
+}

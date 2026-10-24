@@ -1,0 +1,32 @@
+{
+  "id": "42-009-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 9,
+  "verse_reference": "Luke 9:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What were the Twelve to do when leaving a town that did not welcome them?",
+  "options": [
+    "Pray for rain on it",
+    "Call down fire",
+    "Return the next day",
+    "Shake the dust off their feet as a testimony against them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Mission",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said if people did not welcome them, they should shake the dust off their feet as a testimony against them."
+}

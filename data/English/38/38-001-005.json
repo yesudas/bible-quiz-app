@@ -1,0 +1,32 @@
+{
+  "id": "38-001-005",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 1,
+  "verse_reference": "Zechariah 1:8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Zechariah's night vision, what colour was the horse the man was riding?",
+  "options": [
+    "White",
+    "Black",
+    "Red",
+    "Brown"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Zechariah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zechariah saw a man riding a red horse."
+}

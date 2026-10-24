@@ -1,0 +1,14 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Tychicus",
+    "label": "Tychicus",
+    "count": 4,
+    "paths": [
+        "English/49/49-006-015.json",
+        "English/51/51-004-005.json",
+        "English/51/51-004-006.json",
+        "English/56/56-003-008.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

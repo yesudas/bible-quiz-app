@@ -1,0 +1,32 @@
+{
+  "id": "49-005-001",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 5,
+  "verse_reference": "Ephesians 5:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Follow God's example, therefore, as dearly loved ______.\"",
+  "options": [
+    "servants",
+    "friends",
+    "children",
+    "soldiers"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Family",
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul tells believers to follow God's example as dearly loved children."
+}

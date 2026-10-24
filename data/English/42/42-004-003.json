@@ -1,0 +1,38 @@
+{
+  "id": "42-004-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 4,
+  "verse_reference": "Luke 4:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the devil first tell Jesus to turn into bread?",
+  "options": [
+    "Sand",
+    "Water",
+    "Leaves",
+    "A stone"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Temptation"
+  ],
+  "characters": [
+    "Jesus",
+    "Satan"
+  ],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The devil said, 'If you are the Son of God, tell this stone to become bread.'"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "41-009-007",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 9,
+  "verse_reference": "Mark 9:17-18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the father bring his son to Jesus' disciples?",
+  "options": [
+    "The boy was blind",
+    "The boy had died",
+    "The boy was possessed by a spirit that robbed him of speech",
+    "The boy had leprosy"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Satan",
+    "Family"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The father said, \"I brought you my son, who is possessed by a spirit that has robbed him of speech,\" but the disciples could not drive it out."
+}

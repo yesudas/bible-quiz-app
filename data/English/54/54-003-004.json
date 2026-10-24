@@ -1,0 +1,33 @@
+{
+  "id": "54-003-004",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 3,
+  "verse_reference": "1 Timothy 3:4-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Paul say an overseer must manage his own family well?",
+  "options": [
+    "Because families pay the church",
+    "If he cannot manage his own family, how can he take care of God's church?",
+    "Because his children must become overseers",
+    "So he can live in the temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Family",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul asked how someone who cannot manage his own family could take care of God's church."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "45-001-004",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 1,
+  "verse_reference": "Romans 1:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "From whose family line was God's Son descended, as to His earthly life?",
+  "options": [
+    "Abraham's son Isaac",
+    "Moses",
+    "David",
+    "Aaron"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says that as to His earthly life, Jesus was a descendant of David."
+}

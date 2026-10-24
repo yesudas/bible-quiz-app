@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Tax-collector-s-booth",
+    "label": "Tax collector's booth",
+    "count": 2,
+    "paths": [
+        "English/40/40-009-006.json",
+        "English/41/41-002-008.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

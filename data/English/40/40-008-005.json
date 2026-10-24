@@ -1,0 +1,38 @@
+{
+  "id": "40-008-005",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 8,
+  "verse_reference": "Matthew 8:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was wrong with the centurion's servant?",
+  "options": [
+    "He was blind",
+    "He had leprosy",
+    "He had died",
+    "He was paralyzed and suffering terribly"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Miracles"
+  ],
+  "characters": [
+    "Centurion"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 8:6 says the servant lay at home paralyzed, suffering terribly."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "26-048-008",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 48,
+  "verse_reference": "Ezekiel 48:35",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the last verse of Ezekiel: \"And the name of the city from that time on will be: THE LORD IS ______.\"",
+  "options": [
+    "THERE",
+    "KING",
+    "HOLY",
+    "GOOD"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "The LORD Is There",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezekiel ends with the city's new name: 'THE LORD IS THERE.'"
+}

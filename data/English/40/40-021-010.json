@@ -1,0 +1,36 @@
+{
+  "id": "40-021-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 21,
+  "verse_reference": "Matthew 21:15-16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "The chief priests were indignant when children shouted praise in the temple. What Scripture did Jesus quote in reply?",
+  "options": [
+    "\"Train up a child in the way he should go\"",
+    "\"From the lips of children and infants you, Lord, have called forth your praise\"",
+    "\"Let the little children come to me\"",
+    "\"A child is born to us\""
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 21:16 says Jesus replied, \"Have you never read, 'From the lips of children and infants you, Lord, have called forth your praise'?\""
+}

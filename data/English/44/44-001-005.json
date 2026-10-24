@@ -1,0 +1,36 @@
+{
+  "id": "44-001-005",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 1,
+  "verse_reference": "Acts 1:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the apostles ask Jesus before He went up to heaven?",
+  "options": [
+    "Who would lead the church",
+    "When the temple would be destroyed",
+    "If He would now restore the kingdom to Israel",
+    "Where they should preach first"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They asked if He was at that time going to restore the kingdom to Israel."
+}

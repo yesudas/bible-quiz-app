@@ -1,0 +1,31 @@
+{
+  "id": "37-002-006",
+  "language": "en",
+  "book_no": 37,
+  "book": "Haggai",
+  "chapter": 2,
+  "verse_reference": "Haggai 2:11-13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the priests say happens when a person defiled by touching a dead body touches food?",
+  "options": [
+    "The food becomes holy",
+    "Nothing changes",
+    "The food becomes defiled",
+    "The person becomes clean"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [
+    "Haggai"
+  ],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priests answered that the food becomes defiled, showing that uncleanness spreads by contact."
+}

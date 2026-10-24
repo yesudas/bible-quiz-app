@@ -1,0 +1,31 @@
+{
+  "id": "40-018-013",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 18,
+  "verse_reference": "Matthew 18:17",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "If the person still refuses to listen to the witnesses, whom should you tell next?",
+  "options": [
+    "The king",
+    "The priests",
+    "The Romans",
+    "The church"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 18:17 says if they still refuse to listen, tell it to the church."
+}

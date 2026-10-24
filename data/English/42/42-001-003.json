@@ -1,0 +1,38 @@
+{
+  "id": "42-001-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:5",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who was king of Judea when Zechariah served as priest?",
+  "options": [
+    "Herod",
+    "Caesar Augustus",
+    "Pilate",
+    "David"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Herod",
+    "Zechariah"
+  ],
+  "places": [
+    {
+      "name": "Judea",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Luke says these events happened in the time of Herod king of Judea."
+}

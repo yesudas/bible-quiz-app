@@ -1,0 +1,38 @@
+{
+  "id": "44-015-010",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 15,
+  "verse_reference": "Acts 15:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was James's judgment about the Gentiles who were turning to God?",
+  "options": [
+    "They must be circumcised",
+    "We should not make it difficult for them",
+    "They must move to Jerusalem",
+    "They must offer sacrifices"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Church",
+    "Mission"
+  ],
+  "characters": [
+    "James"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James said, 'We should not make it difficult for the Gentiles who are turning to God.'"
+}

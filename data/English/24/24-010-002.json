@@ -1,0 +1,30 @@
+{
+  "id": "24-010-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 10,
+  "verse_reference": "Jeremiah 10:3-4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the nations make their idols?",
+  "options": [
+    "They molded them from clay by the river",
+    "They cut a tree, adorned it with silver and gold, and fastened it with hammer and nails",
+    "They carved them from mountain rock",
+    "They bought them from Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They cut a tree from the forest, a craftsman shaped it, they adorned it with silver and gold, and fastened it with hammer and nails so it would not totter."
+}

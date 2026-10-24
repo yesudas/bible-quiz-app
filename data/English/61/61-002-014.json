@@ -1,0 +1,30 @@
+{
+  "id": "61-002-014",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 2,
+  "verse_reference": "2 Peter 2:22",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "A dog returns to its ____.",
+  "options": [
+    "home",
+    "vomit",
+    "master",
+    "bed"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter quotes this proverb, along with a washed sow returning to the mud, to describe people who return to sin."
+}

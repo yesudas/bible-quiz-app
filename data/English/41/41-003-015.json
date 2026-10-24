@@ -1,0 +1,34 @@
+{
+  "id": "41-003-015",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 3,
+  "verse_reference": "Mark 3:24-26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What point did Jesus make by saying a kingdom divided against itself cannot stand?",
+  "options": [
+    "Israel would split into two kingdoms",
+    "His disciples should not argue",
+    "Satan would not drive out Satan",
+    "Rome would soon fall"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Satan",
+    "Kingdom of God",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus",
+    "Satan"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus showed it made no sense to say he drove out demons by Satan, because if Satan opposed himself his kingdom could not stand."
+}

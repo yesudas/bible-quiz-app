@@ -1,0 +1,36 @@
+{
+  "id": "24-052-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 52,
+  "verse_reference": "Jeremiah 52:30",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Jeremiah 52, what was the total number of people Nebuchadnezzar carried into exile?",
+  "options": [
+    "10,000",
+    "42,360",
+    "4,600",
+    "70,000"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah 52:30 says there were 4,600 people in all."
+}

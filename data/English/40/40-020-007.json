@@ -1,0 +1,36 @@
+{
+  "id": "40-020-007",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 20,
+  "verse_reference": "Matthew 20:11-12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the first workers grumble against the landowner?",
+  "options": [
+    "They were paid less than agreed",
+    "They were not paid at all",
+    "The landowner was late",
+    "They had worked all day in the heat but were paid the same as those who worked one hour"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Vineyard",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 20:12 says they complained that those hired last worked only one hour, and were made equal to us who have borne the burden of the work and the heat of the day."
+}

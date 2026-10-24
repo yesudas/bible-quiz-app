@@ -1,0 +1,33 @@
+{
+  "id": "42-008-023",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:44",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the bleeding woman touch to be healed?",
+  "options": [
+    "Jesus' hand",
+    "Jesus' sandals",
+    "The edge of Jesus' cloak",
+    "Jesus' head"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "She came up behind him and touched the edge of his cloak, and immediately her bleeding stopped."
+}

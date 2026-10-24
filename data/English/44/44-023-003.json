@@ -1,0 +1,38 @@
+{
+  "id": "44-023-003",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 23,
+  "verse_reference": "Acts 23:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Paul said, \"God will strike you, you ______ wall!\"",
+  "options": [
+    "crumbling",
+    "whitewashed",
+    "stone",
+    "broken"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Justice",
+    "Law"
+  ],
+  "characters": [
+    "Paul",
+    "Ananias the high priest"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul replied, 'God will strike you, you whitewashed wall! You sit there to judge me by the law, yet you yourself violate the law.'"
+}

@@ -3,12 +3,18 @@
     "language": "English",
     "character": "Abel",
     "label": "Abel",
-    "count": 4,
+    "count": 10,
     "paths": [
         "English/01/01-004-001.json",
         "English/01/01-004-002.json",
         "English/01/01-004-003.json",
-        "English/01/01-004-004.json"
+        "English/01/01-004-004.json",
+        "English/40/40-023-018.json",
+        "English/42/42-011-024.json",
+        "English/58/58-011-003.json",
+        "English/58/58-012-015.json",
+        "English/62/62-003-007.json",
+        "English/62/62-003-008.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

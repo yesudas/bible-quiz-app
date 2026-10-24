@@ -1,0 +1,36 @@
+{
+  "id": "26-008-006",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 8,
+  "verse_reference": "Ezekiel 8:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How many elders of Israel were standing in the room, each holding a censer?",
+  "options": [
+    "Twelve",
+    "Twenty-five",
+    "Forty",
+    "Seventy"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Seventy elders of the house of Israel stood in front of the images, each with a censer and a cloud of incense rising."
+}

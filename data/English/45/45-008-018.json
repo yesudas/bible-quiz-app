@@ -1,0 +1,34 @@
+{
+  "id": "45-008-018",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 8,
+  "verse_reference": "Romans 8:32",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Romans 8:32, whom did God not spare but gave up for us all?",
+  "options": [
+    "His angels",
+    "His prophets",
+    "His temple",
+    "His own Son"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Love",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says God did not spare His own Son, but gave Him up for us all."
+}

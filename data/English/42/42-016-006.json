@@ -1,0 +1,33 @@
+{
+  "id": "42-016-006",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 16,
+  "verse_reference": "Luke 16:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'Whoever can be trusted with very little can also be trusted with ____.'",
+  "options": [
+    "more",
+    "some",
+    "much",
+    "nothing"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Whoever can be trusted with very little can also be trusted with much.'"
+}

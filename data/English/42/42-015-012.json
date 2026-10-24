@@ -1,0 +1,37 @@
+{
+  "id": "42-015-012",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 15,
+  "verse_reference": "Luke 15:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the younger son realize when he came to his senses?",
+  "options": [
+    "His father's hired servants had food to spare",
+    "His brother was poor too",
+    "The famine had ended",
+    "He could become rich again"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Repentance"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Distant country",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When he came to his senses, he said, 'How many of my father's hired servants have food to spare, and here I am starving to death!'"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "40-026-008",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:15",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How much did the chief priests pay Judas Iscariot to hand Jesus over?",
+  "options": [
+    "Thirty pieces of silver",
+    "Forty pieces of gold",
+    "Ten silver coins",
+    "A hundred denarii"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus",
+    "Judas Iscariot"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:15 says they counted out for him thirty pieces of silver."
+}

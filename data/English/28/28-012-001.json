@@ -1,0 +1,39 @@
+{
+  "id": "28-012-001",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 12,
+  "verse_reference": "Hosea 12:1",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Ephraim made a treaty with Assyria and sent what to Egypt?",
+  "options": [
+    "Gold",
+    "Olive oil",
+    "Wine",
+    "Horses"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said Ephraim feeds on the wind, makes a treaty with Assyria and sends olive oil to Egypt."
+}

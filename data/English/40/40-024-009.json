@@ -1,0 +1,32 @@
+{
+  "id": "40-024-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 24,
+  "verse_reference": "Matthew 24:15",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Jesus said 'the abomination that causes desolation' was spoken of through which prophet?",
+  "options": [
+    "Ezekiel",
+    "Daniel",
+    "Isaiah",
+    "Zechariah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus",
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 24:15 says, \"So when you see standing in the holy place 'the abomination that causes desolation,' spoken of through the prophet Daniel.\""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "44-023-009",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 23,
+  "verse_reference": "Acts 23:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the commander take Paul back to the barracks?",
+  "options": [
+    "Paul asked to leave",
+    "The Sanhedrin ordered it",
+    "Paul was sick",
+    "He was afraid Paul would be torn to pieces"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Barracks",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The dispute became so violent that the commander was afraid Paul would be torn to pieces by them."
+}

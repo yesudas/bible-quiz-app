@@ -1,0 +1,35 @@
+{
+  "id": "66-013-002",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 13,
+  "verse_reference": "Revelation 13:1",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was written on each head of the beast from the sea?",
+  "options": [
+    "The number of its name",
+    "The name of a city",
+    "A blasphemous name",
+    "The name of the dragon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The beast had ten horns and seven heads, with ten crowns on its horns, and on each head a blasphemous name."
+}

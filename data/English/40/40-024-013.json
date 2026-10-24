@@ -1,0 +1,33 @@
+{
+  "id": "40-024-013",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 24,
+  "verse_reference": "Matthew 24:27",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Jesus compared the coming of the Son of Man to what, coming from the east and visible in the west?",
+  "options": [
+    "The sunrise",
+    "Lightning",
+    "A shooting star",
+    "A great fire"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 24:27 says, \"For as lightning that comes from the east is visible even in the west, so will be the coming of the Son of Man.\""
+}

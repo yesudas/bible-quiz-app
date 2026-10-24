@@ -1,0 +1,33 @@
+{
+  "id": "40-011-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 11,
+  "verse_reference": "Matthew 11:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "People called the Son of Man a friend of whom?",
+  "options": [
+    "Kings and rulers",
+    "Tax collectors and sinners",
+    "Priests and Levites",
+    "Romans and soldiers"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 11:19 says they called him a glutton and a drunkard, a friend of tax collectors and sinners."
+}

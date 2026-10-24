@@ -1,0 +1,15 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Onesimus",
+    "label": "Onesimus",
+    "count": 5,
+    "paths": [
+        "English/51/51-004-006.json",
+        "English/57/57-001-004.json",
+        "English/57/57-001-005.json",
+        "English/57/57-001-006.json",
+        "English/57/57-001-007.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

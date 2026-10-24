@@ -1,0 +1,36 @@
+{
+  "id": "28-014-006",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 14,
+  "verse_reference": "Hosea 14:5",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "God said He would be like the dew to Israel, and Israel would blossom like what flower?",
+  "options": [
+    "A rose",
+    "A lily",
+    "A tulip",
+    "A daisy"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'I will be like the dew to Israel; he will blossom like a lily.'"
+}

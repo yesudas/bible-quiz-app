@@ -1,0 +1,31 @@
+{
+  "id": "36-001-015",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 1,
+  "verse_reference": "Zephaniah 1:15",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which of these is one way Zephaniah described the day of the LORD?",
+  "options": [
+    "A day of feasting",
+    "A day of darkness and gloom",
+    "A day of rest",
+    "A day of harvest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "That day is called a day of wrath, distress, darkness and gloom, clouds and blackness."
+}

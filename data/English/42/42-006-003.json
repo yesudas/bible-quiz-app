@@ -1,0 +1,33 @@
+{
+  "id": "42-006-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'The Son of Man is Lord of the ____.'",
+  "options": [
+    "temple",
+    "harvest",
+    "Sabbath",
+    "law"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Law"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'The Son of Man is Lord of the Sabbath.'"
+}

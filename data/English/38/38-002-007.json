@@ -1,0 +1,37 @@
+{
+  "id": "38-002-007",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 2,
+  "verse_reference": "Zechariah 2:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did God tell Daughter Zion to shout and be glad?",
+  "options": [
+    "Her enemies had all died",
+    "The harvest was great",
+    "He was coming to live among them",
+    "The walls were finished"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'For I am coming, and I will live among you.'"
+}

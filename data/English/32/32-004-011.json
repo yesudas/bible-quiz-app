@@ -1,0 +1,37 @@
+{
+  "id": "32-004-011",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 4,
+  "verse_reference": "Jonah 4:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many people did God say lived in Nineveh who could not tell their right hand from their left?",
+  "options": [
+    "More than 12,000",
+    "More than 40,000",
+    "More than 120,000",
+    "More than a million"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mercy",
+    "Love"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said Nineveh had more than a hundred and twenty thousand people who could not tell their right hand from their left, and also many animals."
+}

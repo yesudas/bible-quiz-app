@@ -1,0 +1,15 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Canaanite-woman",
+    "label": "Canaanite woman",
+    "count": 5,
+    "paths": [
+        "English/40/40-015-011.json",
+        "English/40/40-015-012.json",
+        "English/40/40-015-013.json",
+        "English/40/40-015-014.json",
+        "English/40/40-015-015.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

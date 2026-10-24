@@ -1,0 +1,31 @@
+{
+  "id": "60-001-005",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 1,
+  "verse_reference": "1 Peter 1:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Peter says genuine faith is of greater worth than what?",
+  "options": [
+    "Silver",
+    "Gold",
+    "Precious jewels",
+    "Land"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Trials prove faith genuine, and such faith is of greater worth than gold, which perishes even though refined by fire."
+}

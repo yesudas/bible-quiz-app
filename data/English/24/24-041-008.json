@@ -1,0 +1,41 @@
+{
+  "id": "24-041-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 41,
+  "verse_reference": "Jeremiah 41:10",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where was Ishmael heading with the people he had taken captive, including the king's daughters?",
+  "options": [
+    "To the Ammonites",
+    "To Egypt",
+    "To Babylon",
+    "To Moab"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Suffering"
+  ],
+  "characters": [
+    "Ishmael"
+  ],
+  "places": [
+    {
+      "name": "Ammon",
+      "type": "country"
+    },
+    {
+      "name": "Mizpah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ishmael took captive the king's daughters and all the people left at Mizpah and set out to cross over to the Ammonites."
+}

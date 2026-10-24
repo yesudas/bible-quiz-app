@@ -1,0 +1,31 @@
+{
+  "id": "46-007-008",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 7,
+  "verse_reference": "1 Corinthians 7:21",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What advice did Paul give to a slave who could gain his freedom?",
+  "options": [
+    "Stay a slave forever",
+    "Run away",
+    "Gain his freedom",
+    "Ask the church to pay for it"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul told slaves not to let their situation trouble them, but if they could gain their freedom, they should do so."
+}

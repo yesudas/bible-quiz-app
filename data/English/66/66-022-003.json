@@ -1,0 +1,35 @@
+{
+  "id": "66-022-003",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 22,
+  "verse_reference": "Revelation 22:2",
+  "question_type": "DIRECT",
+  "difficulty": "Medium",
+  "question": "How often did the tree of life yield its fruit?",
+  "options": [
+    "Once a year",
+    "Every week",
+    "Every seven years",
+    "Every month"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "New Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The tree of life bore twelve crops of fruit, yielding its fruit every month."
+}

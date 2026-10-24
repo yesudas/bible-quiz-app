@@ -1,0 +1,39 @@
+{
+  "id": "52-004-008",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 4,
+  "verse_reference": "1 Thessalonians 4:17",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where will believers who are still alive be caught up to meet the Lord?",
+  "options": [
+    "On the Mount of Olives",
+    "In the temple courts",
+    "In the clouds, in the air",
+    "By the Jordan River"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Prophecy",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Clouds",
+      "type": "sky"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Believers who are still alive will be caught up together with the risen dead in the clouds to meet the Lord in the air, and so be with the Lord forever."
+}

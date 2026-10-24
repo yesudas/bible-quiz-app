@@ -1,0 +1,29 @@
+{
+  "id": "30-005-011",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 5,
+  "verse_reference": "Amos 5:19",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "Amos describes a man escaping danger. What happens to him in order?",
+  "options": [
+    "He meets a bear, then a lion, then falls in a pit",
+    "He flees a lion, meets a bear, then a snake bites him in his house",
+    "A snake bites him, then he meets a lion, then a bear",
+    "He flees a wolf, meets a lion, then a bear"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 5:19 says it is like a man fleeing a lion only to meet a bear, then going home and being bitten by a snake."
+}

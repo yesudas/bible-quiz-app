@@ -1,0 +1,34 @@
+{
+  "id": "40-004-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 4,
+  "verse_reference": "Matthew 4:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: \"Worship the Lord your God, and serve ______.\"",
+  "options": [
+    "him only",
+    "the king",
+    "your people",
+    "with joy"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus",
+    "Satan"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Matthew 4:10 Jesus told Satan to go away, quoting, \"Worship the Lord your God, and serve him only.\""
+}

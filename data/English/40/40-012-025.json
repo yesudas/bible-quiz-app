@@ -1,0 +1,34 @@
+{
+  "id": "40-012-025",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 12,
+  "verse_reference": "Matthew 12:50",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Jesus said who is his brother and sister and mother?",
+  "options": [
+    "Whoever does the will of his Father in heaven",
+    "Anyone born in Nazareth",
+    "Only his twelve disciples",
+    "Those who keep the Sabbath"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Obedience",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 12:50 says, \"For whoever does the will of my Father in heaven is my brother and sister and mother.\""
+}

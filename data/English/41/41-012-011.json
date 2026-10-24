@@ -1,0 +1,36 @@
+{
+  "id": "41-012-011",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 12,
+  "verse_reference": "Mark 12:18",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which group, who say there is no resurrection, asked Jesus about a woman who married seven brothers?",
+  "options": [
+    "The Pharisees",
+    "The Herodians",
+    "The Sadducees",
+    "The scribes"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Then the Sadducees, who say there is no resurrection, came to him with a question."
+}

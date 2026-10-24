@@ -1,0 +1,37 @@
+{
+  "id": "44-018-005",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 18,
+  "verse_reference": "Acts 18:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When the Jews opposed Paul in Corinth, what did he say he would do from then on?",
+  "options": [
+    "Return to Antioch",
+    "Stop preaching",
+    "Go to the Gentiles",
+    "Go to the high priest"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul shook out his clothes in protest and said, 'From now on I will go to the Gentiles.'"
+}

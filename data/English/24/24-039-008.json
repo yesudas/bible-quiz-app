@@ -1,0 +1,36 @@
+{
+  "id": "24-039-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 39,
+  "verse_reference": "Jeremiah 39:9",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was the commander of the imperial guard who carried the people into exile to Babylon?",
+  "options": [
+    "Nebuzaradan",
+    "Nergal-Sharezer",
+    "Belshazzar",
+    "Arioch"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Nebuzaradan"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nebuzaradan commander of the imperial guard carried into exile to Babylon the people who remained in the city."
+}

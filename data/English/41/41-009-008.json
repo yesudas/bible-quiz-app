@@ -1,0 +1,32 @@
+{
+  "id": "41-009-008",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 9,
+  "verse_reference": "Mark 9:21",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How long had the boy been like this, according to his father?",
+  "options": [
+    "From childhood",
+    "For one week",
+    "Since he was twelve",
+    "For forty days"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked the boy's father how long he had been like this, and he answered, \"From childhood.\""
+}

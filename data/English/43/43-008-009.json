@@ -1,0 +1,40 @@
+{
+  "id": "43-008-009",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 8,
+  "verse_reference": "John 8:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did no one seize Jesus while he taught in the temple courts in John 8?",
+  "options": [
+    "His hour had not yet come",
+    "The guards were afraid of the crowd",
+    "It was the Sabbath",
+    "He was hidden by his disciples"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 8:20 says no one seized him, because his hour had not yet come."
+}

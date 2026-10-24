@@ -1,0 +1,32 @@
+{
+  "id": "42-014-004",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 14,
+  "verse_reference": "Luke 14:7-10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Where did Jesus tell guests to sit when invited to a wedding feast?",
+  "options": [
+    "In the lowest place",
+    "In the place of honor",
+    "Next to the host",
+    "Near the door"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Humility"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'When you are invited, take the lowest place, so that when your host comes, he will say, Friend, move up to a better place.'"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "26-037-011",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 37,
+  "verse_reference": "Ezekiel 37:16",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "What names were written on the two sticks?",
+  "options": [
+    "Judah, and Joseph (Ephraim)",
+    "Israel and Egypt",
+    "Jerusalem and Samaria",
+    "Levi and Benjamin"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Ephraim",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "One stick was for Judah and the Israelites associated with him; the other for Joseph (that is, Ephraim) and all Israel associated with him."
+}

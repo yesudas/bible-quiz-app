@@ -1,0 +1,31 @@
+{
+  "id": "55-002-010",
+  "language": "en",
+  "book_no": 55,
+  "book": "2 Timothy",
+  "chapter": 2,
+  "verse_reference": "2 Timothy 2:17",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Paul said the teaching of false teachers spreads like what?",
+  "options": [
+    "Fire",
+    "Gangrene",
+    "Yeast",
+    "Weeds"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said godless chatter spreads like gangrene."
+}

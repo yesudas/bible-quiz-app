@@ -1,0 +1,37 @@
+{
+  "id": "43-011-002",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 11,
+  "verse_reference": "John 11:2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which sister of Lazarus is described as the one who poured perfume on the Lord and wiped his feet with her hair?",
+  "options": [
+    "Martha",
+    "Mary Magdalene",
+    "Mary",
+    "Salome"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Mary of Bethany",
+    "Lazarus"
+  ],
+  "places": [
+    {
+      "name": "Bethany",
+      "type": "village"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 11:2 says this Mary, whose brother Lazarus was sick, was the same one who poured perfume on the Lord and wiped his feet with her hair."
+}

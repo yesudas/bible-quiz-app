@@ -1,0 +1,41 @@
+{
+  "id": "42-008-015",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:26-27",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Jesus meet the man possessed by many demons?",
+  "options": [
+    "Capernaum",
+    "Bethsaida",
+    "The region of the Gerasenes",
+    "Samaria"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Region of the Gerasenes",
+      "type": "region"
+    },
+    {
+      "name": "Tombs",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They sailed to the region of the Gerasenes, across the lake from Galilee, and a demon-possessed man met Jesus there."
+}

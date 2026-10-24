@@ -1,0 +1,31 @@
+{
+  "id": "58-010-010",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 10,
+  "verse_reference": "Hebrews 10:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Let us consider how we may spur one another on toward love and good ____.\"",
+  "options": [
+    "words",
+    "deeds",
+    "thoughts",
+    "songs"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Church"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 10:24 says, \"Let us consider how we may spur one another on toward love and good deeds.\""
+}

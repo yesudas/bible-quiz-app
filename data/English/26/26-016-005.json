@@ -1,0 +1,34 @@
+{
+  "id": "26-016-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 16,
+  "verse_reference": "Ezekiel 16:10-12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which of these did God say He put on Jerusalem in the picture of His care?",
+  "options": [
+    "A beautiful crown",
+    "A soldier's helmet",
+    "A prophet's cloak",
+    "A shepherd's staff"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He clothed her with an embroidered dress, put leather sandals on her and jewelry on her, and a beautiful crown on her head."
+}

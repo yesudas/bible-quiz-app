@@ -1,0 +1,32 @@
+{
+  "id": "47-006-008",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 6,
+  "verse_reference": "2 Corinthians 6:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Do not be yoked together with ______.\"",
+  "options": [
+    "sinners",
+    "Gentiles",
+    "the rich",
+    "unbelievers"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Sin"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul told believers not to be yoked together with unbelievers, because righteousness and wickedness have nothing in common."
+}

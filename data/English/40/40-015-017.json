@@ -1,0 +1,38 @@
+{
+  "id": "40-015-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 15,
+  "verse_reference": "Matthew 15:32",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "Before feeding the four thousand, how long did Jesus say the crowd had already been with him?",
+  "options": [
+    "Three days",
+    "One day",
+    "Seven days",
+    "Forty days"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mountainside",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 15:32 says, \"I have compassion for these people; they have already been with me three days and have nothing to eat.\""
+}

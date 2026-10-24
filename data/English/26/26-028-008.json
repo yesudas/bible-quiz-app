@@ -1,0 +1,34 @@
+{
+  "id": "26-028-008",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 28,
+  "verse_reference": "Ezekiel 28:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the king of Tyre's heart become proud, according to the lament?",
+  "options": [
+    "Because of his beauty",
+    "Because of his strong walls",
+    "Because of his sons",
+    "Because of his ships"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The lament says, 'Your heart became proud on account of your beauty, and you corrupted your wisdom because of your splendor.'"
+}

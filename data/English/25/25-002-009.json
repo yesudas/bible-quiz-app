@@ -1,0 +1,35 @@
+{
+  "id": "25-002-009",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 2,
+  "verse_reference": "Lamentations 2:19",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Lamentations 2:19, what are the people told to pour out like water before the Lord?",
+  "options": [
+    "Their hearts",
+    "Their wine",
+    "Their gold",
+    "Their tears of joy"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They are told to arise, cry out in the night and pour out their hearts like water in the presence of the Lord."
+}

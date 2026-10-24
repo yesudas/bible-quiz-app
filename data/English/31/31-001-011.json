@@ -1,0 +1,37 @@
+{
+  "id": "31-001-011",
+  "language": "en",
+  "book_no": 31,
+  "book": "Obadiah",
+  "chapter": 1,
+  "verse_reference": "Obadiah 17",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Where did Obadiah say there would be deliverance?",
+  "options": [
+    "Mount Sinai",
+    "Mount Carmel",
+    "Mount Zion",
+    "Mount Seir"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Hope",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mount Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Obadiah promised that on Mount Zion there would be deliverance, and it would be holy."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "58-013-009",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 13,
+  "verse_reference": "Hebrews 13:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Jesus Christ is the same yesterday and today and ____.\"",
+  "options": [
+    "forever",
+    "tomorrow",
+    "always",
+    "never"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 13:8 says, \"Jesus Christ is the same yesterday and today and forever.\""
+}

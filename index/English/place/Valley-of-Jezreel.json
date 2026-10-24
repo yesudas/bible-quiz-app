@@ -3,9 +3,10 @@
     "language": "English",
     "place": "Valley-of-Jezreel",
     "label": "Valley of Jezreel",
-    "count": 1,
+    "count": 2,
     "paths": [
-        "English/07/07-006-017.json"
+        "English/07/07-006-017.json",
+        "English/28/28-001-007.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

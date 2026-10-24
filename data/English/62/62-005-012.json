@@ -1,0 +1,33 @@
+{
+  "id": "62-005-012",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 5,
+  "verse_reference": "1 John 5:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why does John say the Son of God has come?",
+  "options": [
+    "To build a temple",
+    "To gather an army",
+    "To give us gold",
+    "To give us understanding so that we may know him who is true"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Truth"
+  ],
+  "characters": [
+    "Jesus",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says the Son of God has come and has given us understanding, so that we may know him who is true."
+}

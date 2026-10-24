@@ -1,0 +1,30 @@
+{
+  "id": "45-001-016",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 1,
+  "verse_reference": "Romans 1:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Although people knew God, what did they fail to do?",
+  "options": [
+    "Build Him temples",
+    "Glorify Him as God or give thanks to Him",
+    "Offer sacrifices every day",
+    "Travel to Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says they neither glorified God nor gave thanks to Him, and their thinking became futile."
+}

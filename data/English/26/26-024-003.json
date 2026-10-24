@@ -1,0 +1,35 @@
+{
+  "id": "26-024-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 24,
+  "verse_reference": "Ezekiel 24:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God say was in the pot that would not go away?",
+  "options": [
+    "Burned bread",
+    "Bitter herbs",
+    "Dirty water",
+    "Encrusted deposit"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'Woe to the city of bloodshed, to the pot now encrusted, whose deposit will not go away!'"
+}

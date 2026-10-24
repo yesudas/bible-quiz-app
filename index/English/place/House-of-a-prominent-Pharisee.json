@@ -1,0 +1,15 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "House-of-a-prominent-Pharisee",
+    "label": "House of a prominent Pharisee",
+    "count": 5,
+    "paths": [
+        "English/42/42-014-001.json",
+        "English/42/42-014-002.json",
+        "English/42/42-014-003.json",
+        "English/42/42-014-006.json",
+        "English/42/42-014-008.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

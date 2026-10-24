@@ -1,0 +1,36 @@
+{
+  "id": "40-021-014",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 21,
+  "verse_reference": "Matthew 21:23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the chief priests and elders ask Jesus in the temple courts?",
+  "options": [
+    "\"Where were you born?\"",
+    "\"By what authority are you doing these things?\"",
+    "\"Who are your parents?\"",
+    "\"Why do you not fast?\""
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 21:23 says they asked, \"By what authority are you doing these things? And who gave you this authority?\""
+}

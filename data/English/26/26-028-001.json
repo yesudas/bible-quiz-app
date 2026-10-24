@@ -1,0 +1,34 @@
+{
+  "id": "26-028-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 28,
+  "verse_reference": "Ezekiel 28:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In the pride of his heart, what did the ruler of Tyre say about himself?",
+  "options": [
+    "\"I am a servant of the LORD.\"",
+    "\"I am a god.\"",
+    "\"I am the king of kings.\"",
+    "\"I am the richest man alive.\""
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said the ruler of Tyre's heart was proud and he said, 'I am a god; I sit on the throne of a god in the heart of the seas.'"
+}

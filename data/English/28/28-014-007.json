@@ -1,0 +1,35 @@
+{
+  "id": "28-014-007",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 14,
+  "verse_reference": "Hosea 14:5",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Israel would send down its roots like a cedar of which place?",
+  "options": [
+    "Bashan",
+    "Carmel",
+    "Lebanon",
+    "Gilead"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Lebanon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'Like a cedar of Lebanon he will send down his roots.'"
+}

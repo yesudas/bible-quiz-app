@@ -1,0 +1,38 @@
+{
+  "id": "42-004-026",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 4,
+  "verse_reference": "Luke 4:43",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jesus say he had to go to other towns instead of staying in Capernaum?",
+  "options": [
+    "The people there had rejected him",
+    "He wanted to rest",
+    "He had to proclaim the good news of the kingdom of God there too",
+    "Herod was looking for him"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Kingdom of God",
+    "Mission",
+    "Evangelism"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'I must proclaim the good news of the kingdom of God to the other towns also, because that is why I was sent.'"
+}

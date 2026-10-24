@@ -1,0 +1,31 @@
+{
+  "id": "24-050-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 50,
+  "verse_reference": "Jeremiah 50:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "God said His people had been lost what?",
+  "options": [
+    "Coins",
+    "Children",
+    "Sheep",
+    "Birds"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"My people have been lost sheep; their shepherds have led them astray.\""
+}

@@ -1,0 +1,34 @@
+{
+  "id": "40-005-019",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 5,
+  "verse_reference": "Matthew 5:44",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' command: \"Love your ______ and pray for those who persecute you.\"",
+  "options": [
+    "neighbors",
+    "friends",
+    "enemies",
+    "family"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Prayer",
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 5:44 says, \"Love your enemies and pray for those who persecute you.\""
+}

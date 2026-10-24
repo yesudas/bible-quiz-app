@@ -1,0 +1,33 @@
+{
+  "id": "50-004-001",
+  "language": "en",
+  "book_no": 50,
+  "book": "Philippians",
+  "chapter": 4,
+  "verse_reference": "Philippians 4:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which two women did Paul plead with to be of the same mind in the Lord?",
+  "options": [
+    "Mary and Martha",
+    "Euodia and Syntyche",
+    "Lydia and Priscilla",
+    "Phoebe and Dorcas"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Love"
+  ],
+  "characters": [
+    "Euodia",
+    "Syntyche"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul pleaded with Euodia and Syntyche to agree with each other in the Lord."
+}

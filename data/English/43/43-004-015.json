@@ -1,0 +1,42 @@
+{
+  "id": "43-004-015",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 4,
+  "verse_reference": "John 4:46",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "In John 4, who came to Jesus at Cana asking him to heal his son?",
+  "options": [
+    "A royal official",
+    "A centurion",
+    "A synagogue leader",
+    "A tax collector"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Cana",
+      "type": "village"
+    },
+    {
+      "name": "Capernaum",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 4:46-47 says a royal official whose son lay sick at Capernaum came to Jesus and begged him to heal his son."
+}

@@ -1,0 +1,30 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Stephen",
+    "label": "Stephen",
+    "count": 20,
+    "paths": [
+        "English/44/44-006-005.json",
+        "English/44/44-006-006.json",
+        "English/44/44-006-010.json",
+        "English/44/44-006-011.json",
+        "English/44/44-006-012.json",
+        "English/44/44-006-013.json",
+        "English/44/44-006-014.json",
+        "English/44/44-007-001.json",
+        "English/44/44-007-004.json",
+        "English/44/44-007-006.json",
+        "English/44/44-007-016.json",
+        "English/44/44-007-017.json",
+        "English/44/44-007-018.json",
+        "English/44/44-007-019.json",
+        "English/44/44-007-020.json",
+        "English/44/44-007-021.json",
+        "English/44/44-007-022.json",
+        "English/44/44-008-001.json",
+        "English/44/44-011-007.json",
+        "English/44/44-022-012.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

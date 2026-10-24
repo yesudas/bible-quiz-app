@@ -1,0 +1,32 @@
+{
+  "id": "24-001-011",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 1,
+  "verse_reference": "Jeremiah 1:11-12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the first thing God showed Jeremiah in a vision?",
+  "options": [
+    "A boiling pot",
+    "The branch of an almond tree",
+    "A basket of figs",
+    "A clay jar"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah saw the branch of an almond tree, and God said He was watching to see that His word is fulfilled."
+}

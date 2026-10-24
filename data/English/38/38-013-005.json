@@ -1,0 +1,29 @@
+{
+  "id": "38-013-005",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 13,
+  "verse_reference": "Zechariah 13:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"I am not a prophet. I am a _____.\"",
+  "options": [
+    "shepherd",
+    "builder",
+    "farmer",
+    "fisherman"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The false prophet would say, 'I am not a prophet. I am a farmer; the land has been my livelihood since my youth.'"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "24-044-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 44,
+  "verse_reference": "Jeremiah 44:26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the LORD swear about His name among the people of Judah in Egypt?",
+  "options": [
+    "They would carry His name to all nations",
+    "They would build Him a temple in Egypt",
+    "His name would be written on their doors",
+    "No one from Judah living in Egypt would ever again invoke His name"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, \"I swear by my great name… that no one from Judah living anywhere in Egypt will ever again invoke my name.\""
+}

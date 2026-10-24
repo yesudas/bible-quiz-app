@@ -1,0 +1,35 @@
+{
+  "id": "40-001-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 1,
+  "verse_reference": "Matthew 1:18",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Mary was found to be pregnant through whom?",
+  "options": [
+    "An angel",
+    "The Holy Spirit",
+    "Joseph",
+    "Elijah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Jesus",
+    "Miracles"
+  ],
+  "characters": [
+    "Mary",
+    "Joseph"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 1:18 says Mary was found to be pregnant through the Holy Spirit before she and Joseph came together."
+}

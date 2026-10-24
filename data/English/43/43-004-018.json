@@ -1,0 +1,36 @@
+{
+  "id": "43-004-018",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 4,
+  "verse_reference": "John 4:54",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to John 4:54, healing the royal official's son was which sign Jesus performed after coming from Judea to Galilee?",
+  "options": [
+    "The first",
+    "The second",
+    "The third",
+    "The seventh"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 4:54 says this was the second sign Jesus performed after coming from Judea to Galilee."
+}

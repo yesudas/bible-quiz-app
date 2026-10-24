@@ -1,0 +1,20 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Synagogue-in-Capernaum",
+    "label": "Synagogue in Capernaum",
+    "count": 10,
+    "paths": [
+        "English/41/41-001-017.json",
+        "English/41/41-001-018.json",
+        "English/43/43-006-014.json",
+        "English/43/43-006-015.json",
+        "English/43/43-006-017.json",
+        "English/43/43-006-018.json",
+        "English/43/43-006-019.json",
+        "English/43/43-006-020.json",
+        "English/43/43-006-021.json",
+        "English/43/43-006-022.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "24-031-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 31,
+  "verse_reference": "Jeremiah 31:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What would the watchmen cry out on the hills of Ephraim?",
+  "options": [
+    "\"Flee to the mountains!\"",
+    "\"The enemy is coming!\"",
+    "\"Come, let us go up to Zion, to the LORD our God\"",
+    "\"Build the walls!\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ephraim",
+      "type": "region"
+    },
+    {
+      "name": "Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Watchmen would cry out on the hills of Ephraim, \"Come, let us go up to Zion, to the LORD our God.\""
+}

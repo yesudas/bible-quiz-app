@@ -1,0 +1,40 @@
+{
+  "id": "40-010-006",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 10,
+  "verse_reference": "Matthew 10:5-6",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "When Jesus first sent out the Twelve, to whom did he tell them to go?",
+  "options": [
+    "The lost sheep of Israel",
+    "The Gentiles",
+    "The towns of the Samaritans",
+    "The people of Rome"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Samaria",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 10:5-6 says not to go among the Gentiles or enter any town of the Samaritans, but go to the lost sheep of Israel."
+}

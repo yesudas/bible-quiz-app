@@ -1,0 +1,32 @@
+{
+  "id": "42-007-012",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 7,
+  "verse_reference": "Luke 7:28",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say about John and the one who is least in the kingdom of God?",
+  "options": [
+    "John was the least in the kingdom",
+    "No one in the kingdom would be like John",
+    "The least in the kingdom of God is greater than John",
+    "John was greater than the angels"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus",
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said no one born of women is greater than John, yet the one who is least in the kingdom of God is greater than he."
+}

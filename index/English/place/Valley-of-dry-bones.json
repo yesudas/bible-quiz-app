@@ -1,0 +1,16 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Valley-of-dry-bones",
+    "label": "Valley of dry bones",
+    "count": 6,
+    "paths": [
+        "English/26/26-037-001.json",
+        "English/26/26-037-002.json",
+        "English/26/26-037-003.json",
+        "English/26/26-037-004.json",
+        "English/26/26-037-005.json",
+        "English/26/26-037-007.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

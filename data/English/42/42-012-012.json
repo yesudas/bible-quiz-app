@@ -1,0 +1,33 @@
+{
+  "id": "42-012-012",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 12,
+  "verse_reference": "Luke 12:24",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which birds did Jesus tell his disciples to consider, since God feeds them?",
+  "options": [
+    "Sparrows",
+    "Ravens",
+    "Doves",
+    "Eagles"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Consider the ravens: They do not sow or reap, they have no storeroom or barn; yet God feeds them.'"
+}

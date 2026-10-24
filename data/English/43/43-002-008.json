@@ -1,0 +1,42 @@
+{
+  "id": "43-002-008",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 2,
+  "verse_reference": "John 2:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to John 2:11, what happened because of the first sign at Cana?",
+  "options": [
+    "The Pharisees believed",
+    "The crowd tried to make Jesus king",
+    "The servants left their work",
+    "Jesus revealed his glory and his disciples believed in him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Faith",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Cana",
+      "type": "village"
+    },
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 2:11 says this first sign revealed Jesus' glory, and his disciples believed in him."
+}

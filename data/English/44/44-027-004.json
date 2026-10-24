@@ -1,0 +1,40 @@
+{
+  "id": "44-027-004",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 27,
+  "verse_reference": "Acts 27:6",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "At Myra, what kind of ship did the centurion find sailing for Italy?",
+  "options": [
+    "An Alexandrian ship",
+    "A Roman warship",
+    "A Phoenician fishing boat",
+    "A Greek merchant ship from Corinth"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Julius"
+  ],
+  "places": [
+    {
+      "name": "Myra",
+      "type": "city"
+    },
+    {
+      "name": "Lycia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "There the centurion found an Alexandrian ship sailing for Italy and put them on board."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "48-002-007",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 2,
+  "verse_reference": "Galatians 2:9",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which three men were known as pillars of the church?",
+  "options": [
+    "Peter, Andrew and Philip",
+    "James, Cephas and John",
+    "Barnabas, Silas and Mark",
+    "Matthew, Thomas and James"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Leadership"
+  ],
+  "characters": [
+    "James",
+    "Peter",
+    "John"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said James, Cephas and John were esteemed as pillars."
+}

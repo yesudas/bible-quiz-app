@@ -1,0 +1,31 @@
+{
+  "id": "40-022-013",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 22,
+  "verse_reference": "Matthew 22:23",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which group, who say there is no resurrection, came to Jesus with a question?",
+  "options": [
+    "The Pharisees",
+    "The Herodians",
+    "The scribes",
+    "The Sadducees"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 22:23 says that same day the Sadducees, who say there is no resurrection, came to him with a question."
+}

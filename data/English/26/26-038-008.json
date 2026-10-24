@@ -1,0 +1,35 @@
+{
+  "id": "26-038-008",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 38,
+  "verse_reference": "Ezekiel 38:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God say would shake the land of Israel at that time?",
+  "options": [
+    "A great flood",
+    "A strong wind",
+    "A plague of locusts",
+    "A great earthquake"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said that at that time there would be a great earthquake in the land of Israel."
+}

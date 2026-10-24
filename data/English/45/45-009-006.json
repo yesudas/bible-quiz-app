@@ -1,0 +1,33 @@
+{
+  "id": "45-009-006",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 9,
+  "verse_reference": "Romans 9:10-12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Before her twins were born, who was told, \"The older will serve the younger\"?",
+  "options": [
+    "Rebekah",
+    "Sarah",
+    "Leah",
+    "Rachel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Family"
+  ],
+  "characters": [
+    "Rebekah",
+    "Isaac"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says Rebekah's children had one father, Isaac, and before they were born she was told, \"The older will serve the younger.\""
+}

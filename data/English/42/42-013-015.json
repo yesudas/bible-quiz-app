@@ -1,0 +1,35 @@
+{
+  "id": "42-013-015",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 13,
+  "verse_reference": "Luke 13:28",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which three men did Jesus say people would see in the kingdom of God?",
+  "options": [
+    "Moses, Aaron and Joshua",
+    "David, Solomon and Elijah",
+    "Noah, Shem and Japheth",
+    "Abraham, Isaac and Jacob"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Kingdom of God",
+    "Judgment"
+  ],
+  "characters": [
+    "Abraham",
+    "Isaac",
+    "Jacob",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said people would see Abraham, Isaac and Jacob and all the prophets in the kingdom of God, but themselves thrown out."
+}

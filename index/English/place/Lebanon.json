@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Lebanon",
     "label": "Lebanon",
-    "count": 23,
+    "count": 33,
     "paths": [
         "English/05/05-011-007.json",
         "English/06/06-001-006.json",
@@ -27,7 +27,17 @@
         "English/22/22-007-003.json",
         "English/23/23-002-010.json",
         "English/23/23-010-010.json",
-        "English/23/23-014-003.json"
+        "English/23/23-014-003.json",
+        "English/24/24-018-008.json",
+        "English/24/24-022-002.json",
+        "English/26/26-017-002.json",
+        "English/26/26-017-003.json",
+        "English/26/26-027-003.json",
+        "English/26/26-031-002.json",
+        "English/28/28-014-007.json",
+        "English/34/34-001-006.json",
+        "English/38/38-010-010.json",
+        "English/38/38-011-001.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

@@ -1,0 +1,31 @@
+{
+  "id": "42-015-021",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 15,
+  "verse_reference": "Luke 15:29",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the older son say his father had never given him?",
+  "options": [
+    "A fattened calf",
+    "Even a young goat to celebrate with his friends",
+    "A new robe",
+    "A share of the estate"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He said, 'You never gave me even a young goat so I could celebrate with my friends.'"
+}

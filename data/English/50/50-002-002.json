@@ -1,0 +1,33 @@
+{
+  "id": "50-002-002",
+  "language": "en",
+  "book_no": 50,
+  "book": "Philippians",
+  "chapter": 2,
+  "verse_reference": "Philippians 2:4",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Paul said each of you should look not only to your own interests, but to whose interests?",
+  "options": [
+    "the interests of others",
+    "the interests of the king",
+    "the interests of the priests",
+    "the interests of your family only"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Believers should care about the interests of others, not just their own."
+}

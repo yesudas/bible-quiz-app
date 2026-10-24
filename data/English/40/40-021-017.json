@@ -1,0 +1,39 @@
+{
+  "id": "40-021-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 21,
+  "verse_reference": "Matthew 21:28-31",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In the parable of the two sons, which son did what his father wanted?",
+  "options": [
+    "The second, who said \"I will\" but did not go",
+    "Neither son",
+    "The first, who said \"I will not\" but later changed his mind and went",
+    "Both sons"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Repentance",
+    "Obedience"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Vineyard",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 21:29-31 says the first son said \"I will not,\" but later changed his mind and went; they answered that the first did what his father wanted."
+}

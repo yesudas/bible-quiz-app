@@ -1,0 +1,38 @@
+{
+  "id": "66-012-002",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 12,
+  "verse_reference": "Revelation 12:3",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "What colour was the enormous dragon that appeared in heaven?",
+  "options": [
+    "Black",
+    "Green",
+    "Red",
+    "Gold"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Satan",
+    "Prophecy"
+  ],
+  "characters": [
+    "Satan"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "An enormous red dragon appeared, with seven heads and ten horns and seven crowns on its heads."
+}

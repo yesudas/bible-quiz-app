@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Palace-of-the-high-priest",
+    "label": "Palace of the high priest",
+    "count": 4,
+    "paths": [
+        "English/40/40-026-002.json",
+        "English/40/40-026-027.json",
+        "English/40/40-026-028.json",
+        "English/40/40-026-029.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

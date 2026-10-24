@@ -1,0 +1,39 @@
+{
+  "id": "44-010-002",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 10,
+  "verse_reference": "Acts 10:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How is Cornelius described?",
+  "options": [
+    "Rich and proud",
+    "A cruel soldier who hated the Jews",
+    "Devout and God-fearing, giving generously and praying regularly",
+    "A priest of a Roman god"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Prayer",
+    "Money"
+  ],
+  "characters": [
+    "Cornelius"
+  ],
+  "places": [
+    {
+      "name": "Caesarea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He and his family were devout and God-fearing; he gave generously to those in need and prayed to God regularly."
+}

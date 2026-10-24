@@ -1,0 +1,33 @@
+{
+  "id": "47-010-001",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 10,
+  "verse_reference": "2 Corinthians 10:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "By what qualities of Christ did Paul appeal to the Corinthians?",
+  "options": [
+    "His power and glory",
+    "His humility and gentleness",
+    "His wisdom and knowledge",
+    "His anger and judgment"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Leadership"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul appealed to them by the humility and gentleness of Christ."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "42-008-027",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:54-55",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "After the girl stood up, what did Jesus tell them to do?",
+  "options": [
+    "Take her to the temple",
+    "Tell everyone in town",
+    "Give her something to eat",
+    "Let her sleep"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Love"
+  ],
+  "characters": [
+    "Jesus",
+    "Jairus"
+  ],
+  "places": [
+    {
+      "name": "Jairus's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'My child, get up!' Her spirit returned, she stood up, and Jesus told them to give her something to eat."
+}

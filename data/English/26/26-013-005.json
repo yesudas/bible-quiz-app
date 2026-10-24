@@ -1,0 +1,30 @@
+{
+  "id": "26-013-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 13,
+  "verse_reference": "Ezekiel 13:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the false prophets cover the flimsy wall with?",
+  "options": [
+    "Gold",
+    "Whitewash",
+    "Mud",
+    "Cloth"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When a flimsy wall was built, the false prophets covered it with whitewash."
+}

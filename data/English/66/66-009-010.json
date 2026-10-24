@@ -1,0 +1,35 @@
+{
+  "id": "66-009-010",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 9,
+  "verse_reference": "Revelation 9:13-14",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "At the sixth trumpet, the four angels were released from which river?",
+  "options": [
+    "The Jordan",
+    "The Euphrates",
+    "The Nile",
+    "The Tigris"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Euphrates",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A voice told the sixth angel, \"Release the four angels who are bound at the great river Euphrates.\""
+}

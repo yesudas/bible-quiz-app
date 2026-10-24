@@ -1,0 +1,31 @@
+{
+  "id": "61-003-009",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 3,
+  "verse_reference": "2 Peter 3:13",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to God's promise, what are believers looking forward to?",
+  "options": [
+    "A new heaven and a new earth",
+    "A new temple in Jerusalem",
+    "A new king of Israel",
+    "A new law"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter says believers wait for a new heaven and a new earth, where righteousness dwells."
+}

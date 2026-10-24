@@ -1,0 +1,31 @@
+{
+  "id": "59-003-004",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 3,
+  "verse_reference": "James 3:5-6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "James compares the tongue to what small thing that can set a great forest on fire?",
+  "options": [
+    "A torch",
+    "A lamp",
+    "A coal",
+    "A spark"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James says a great forest is set on fire by a small spark, and the tongue also is a fire."
+}

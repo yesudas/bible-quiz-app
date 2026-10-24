@@ -1,0 +1,37 @@
+{
+  "id": "45-001-007",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 1,
+  "verse_reference": "Romans 1:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did Paul thank God for the believers in Rome?",
+  "options": [
+    "Their faith was being reported all over the world",
+    "They had sent him money",
+    "They had built a large church",
+    "They had freed him from prison"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Prayer"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Rome",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul thanked God because their faith was being reported all over the world."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "24-007-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 7,
+  "verse_reference": "Jeremiah 7:12",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "God told the people to go and see what He did to which place, where He first made a dwelling for His Name?",
+  "options": [
+    "Bethel",
+    "Shiloh",
+    "Gilgal",
+    "Hebron"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Shiloh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"Go now to the place in Shiloh where I first made a dwelling for my Name, and see what I did to it.\""
+}

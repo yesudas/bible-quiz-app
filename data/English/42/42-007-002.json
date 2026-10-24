@@ -1,0 +1,40 @@
+{
+  "id": "42-007-002",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 7,
+  "verse_reference": "Luke 7:4-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the Jewish elders say the centurion deserved Jesus' help?",
+  "options": [
+    "He was a relative of Herod",
+    "He had given money to the poor",
+    "He loved their nation and had built their synagogue",
+    "He was a follower of John"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "Centurion"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    },
+    {
+      "name": "Synagogue",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elders said he deserved it because he loved their nation and had built their synagogue."
+}

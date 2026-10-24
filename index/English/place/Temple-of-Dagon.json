@@ -1,18 +1,11 @@
 {
     "type": "place",
     "language": "English",
-    "place": "Temple-of-Dagon",
-    "label": "Temple of Dagon",
-    "count": 8,
+    "place": "temple-of-Dagon",
+    "label": "temple of Dagon",
+    "count": 1,
     "paths": [
-        "English/07/07-016-017.json",
-        "English/07/07-016-018.json",
-        "English/07/07-016-019.json",
-        "English/07/07-016-021.json",
-        "English/09/09-005-002.json",
-        "English/09/09-005-003.json",
-        "English/09/09-005-004.json",
-        "English/09/09-005-005.json"
+        "English/13/13-010-005.json"
     ],
-    "generated": "2026-10-16T11:07:53-05:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

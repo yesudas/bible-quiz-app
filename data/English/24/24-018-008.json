@@ -1,0 +1,35 @@
+{
+  "id": "24-018-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 18,
+  "verse_reference": "Jeremiah 18:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "God asked if the snow of Lebanon ever vanished from its rocky slopes. What had His people done that was so unnatural?",
+  "options": [
+    "Forgotten Him and burned incense to worthless idols",
+    "Moved to the mountains",
+    "Stopped farming",
+    "Built too many cities"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Lebanon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Though Lebanon's snow never vanishes from its slopes, God's people had forgotten Him and burned incense to worthless idols."
+}

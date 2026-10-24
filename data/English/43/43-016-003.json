@@ -1,0 +1,32 @@
+{
+  "id": "43-016-003",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 16,
+  "verse_reference": "John 16:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Jesus said the Advocate would prove the world to be in the wrong about which three things?",
+  "options": [
+    "Sin, righteousness and judgment",
+    "Law, prophets and temple",
+    "Faith, hope and love",
+    "Money, power and fame"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holy Spirit",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 16:8, Jesus said when the Advocate comes, he will prove the world to be in the wrong about sin and righteousness and judgment."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42-006-027",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:49",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In the parable, what happened to the house built without a foundation when the torrent struck?",
+  "options": [
+    "It stood firm",
+    "It was washed out to sea",
+    "It collapsed and was completely destroyed",
+    "It lost only its roof"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The house built on the ground without a foundation collapsed when the torrent struck, and its destruction was complete."
+}

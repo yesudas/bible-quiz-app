@@ -1,0 +1,35 @@
+{
+  "id": "38-009-001",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 9,
+  "verse_reference": "Zechariah 9:3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Which city built herself a stronghold and heaped up silver like dust?",
+  "options": [
+    "Damascus",
+    "Tyre",
+    "Gaza",
+    "Nineveh"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Money"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Tyre built herself a stronghold and heaped up silver like dust and gold like the dirt of the streets."
+}

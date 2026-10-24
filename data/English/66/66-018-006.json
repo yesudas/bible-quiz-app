@@ -1,0 +1,35 @@
+{
+  "id": "66-018-006",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 18,
+  "verse_reference": "Revelation 18:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Babylon boast in her heart?",
+  "options": [
+    "\"I am the holy city\"",
+    "\"I will rule the angels\"",
+    "\"I sit enthroned as queen. I am not a widow; I will never mourn\"",
+    "\"I am stronger than the Lamb\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Pride"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In her heart she boasted, \"I sit enthroned as queen. I am not a widow; I will never mourn.\" Her pride led to torment and grief."
+}

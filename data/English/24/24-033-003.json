@@ -1,0 +1,36 @@
+{
+  "id": "24-033-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 33,
+  "verse_reference": "Jeremiah 33:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God promise to bring to the city of Jerusalem?",
+  "options": [
+    "Health and healing, and abundant peace and security",
+    "A great army",
+    "Gold from Ophir",
+    "A new temple in Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"I will bring health and healing to it; I will heal my people and will let them enjoy abundant peace and security.\""
+}

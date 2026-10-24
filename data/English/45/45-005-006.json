@@ -1,0 +1,32 @@
+{
+  "id": "45-005-006",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 5,
+  "verse_reference": "Romans 5:9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Having been justified by Christ's blood, from what will we be saved through Him?",
+  "options": [
+    "Hunger",
+    "God's wrath",
+    "Our enemies in battle",
+    "Old age"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says that since we have been justified by His blood, we will be saved from God's wrath through Him."
+}

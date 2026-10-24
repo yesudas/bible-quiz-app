@@ -1,0 +1,34 @@
+{
+  "id": "49-005-012",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 5,
+  "verse_reference": "Ephesians 5:25",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Husbands, love your wives, just as Christ loved the ______.\"",
+  "options": [
+    "world",
+    "disciples",
+    "church",
+    "nations"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Marriage",
+    "Love",
+    "Church"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Husbands are to love their wives just as Christ loved the church and gave himself up for her."
+}

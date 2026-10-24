@@ -1,0 +1,35 @@
+{
+  "id": "29-002-009",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 2,
+  "verse_reference": "Joel 2:17",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Joel tell the priests to weep?",
+  "options": [
+    "Between the portico and the altar",
+    "At the city gate",
+    "On the Mount of Olives",
+    "Beside the Jordan River"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "house of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priests who minister before the LORD were to weep between the portico and the altar, asking Him to spare His people."
+}

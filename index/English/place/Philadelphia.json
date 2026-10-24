@@ -1,0 +1,15 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Philadelphia",
+    "label": "Philadelphia",
+    "count": 5,
+    "paths": [
+        "English/66/66-003-005.json",
+        "English/66/66-003-006.json",
+        "English/66/66-003-007.json",
+        "English/66/66-003-008.json",
+        "English/66/66-003-009.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Garden-near-Golgotha",
+    "label": "Garden near Golgotha",
+    "count": 2,
+    "paths": [
+        "English/43/43-019-017.json",
+        "English/43/43-019-018.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

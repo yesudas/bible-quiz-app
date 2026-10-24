@@ -1,0 +1,30 @@
+{
+  "id": "38-009-008",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 9,
+  "verse_reference": "Zechariah 9:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"His rule will extend from sea to sea and from the River to the _____ of the earth.\"",
+  "options": [
+    "heights",
+    "corners",
+    "depths",
+    "ends"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Kingdom of God",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king's rule would extend from sea to sea and from the River to the ends of the earth."
+}

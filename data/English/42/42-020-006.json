@@ -1,0 +1,38 @@
+{
+  "id": "42-020-006",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 20,
+  "verse_reference": "Luke 20:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the owner's words: 'I will send my ____, whom I love; perhaps they will respect him.'",
+  "options": [
+    "servant",
+    "friend",
+    "son",
+    "brother"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Vineyard",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The owner said, 'What shall I do? I will send my son, whom I love; perhaps they will respect him.'"
+}

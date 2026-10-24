@@ -1,0 +1,36 @@
+{
+  "id": "31-001-005",
+  "language": "en",
+  "book_no": 31,
+  "book": "Obadiah",
+  "chapter": 1,
+  "verse_reference": "Obadiah 4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Though you soar like the ______ and make your nest among the stars, from there I will bring you down,\" declares the LORD.",
+  "options": [
+    "dove",
+    "hawk",
+    "raven",
+    "eagle"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Pride",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told proud Edom that even if it soared like the eagle and nested among the stars, He would bring it down."
+}

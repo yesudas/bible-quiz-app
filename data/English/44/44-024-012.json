@@ -1,0 +1,37 @@
+{
+  "id": "44-024-012",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 24,
+  "verse_reference": "Acts 24:24",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was Felix's wife?",
+  "options": [
+    "Bernice",
+    "Drusilla",
+    "Herodias",
+    "Priscilla"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [
+    "Felix",
+    "Drusilla"
+  ],
+  "places": [
+    {
+      "name": "Caesarea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Several days later Felix came with his wife Drusilla, who was Jewish."
+}

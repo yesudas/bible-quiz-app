@@ -1,0 +1,37 @@
+{
+  "id": "43-013-012",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 13,
+  "verse_reference": "John 13:30",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "What time of day was it when Judas went out?",
+  "options": [
+    "Dawn",
+    "Midday",
+    "Afternoon",
+    "Night"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Judas Iscariot"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 13:30 says as soon as Judas had taken the bread, he went out. And it was night."
+}

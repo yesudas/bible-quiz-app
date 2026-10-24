@@ -1,0 +1,36 @@
+{
+  "id": "26-028-010",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 28,
+  "verse_reference": "Ezekiel 28:25-26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God promise Israel would do when He gathered them from the nations?",
+  "options": [
+    "Build a great army",
+    "Rule over Tyre",
+    "Live in safety, build houses and plant vineyards",
+    "Move to Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said that when He gathered Israel, they would live in safety in the land and build houses and plant vineyards."
+}

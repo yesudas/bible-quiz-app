@@ -1,0 +1,46 @@
+{
+  "id": "66-001-004",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 1,
+  "verse_reference": "Revelation 1:11",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which of these cities was NOT one of the seven churches named in Revelation 1?",
+  "options": [
+    "Corinth",
+    "Smyrna",
+    "Sardis",
+    "Laodicea"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    },
+    {
+      "name": "Smyrna",
+      "type": "city"
+    },
+    {
+      "name": "Sardis",
+      "type": "city"
+    },
+    {
+      "name": "Laodicea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The seven churches were Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia and Laodicea. Corinth was not one of them."
+}

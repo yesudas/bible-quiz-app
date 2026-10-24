@@ -1,0 +1,38 @@
+{
+  "id": "38-012-006",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 12,
+  "verse_reference": "Zechariah 12:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"I will pour out on the house of David and the inhabitants of Jerusalem a spirit of grace and _____.\"",
+  "options": [
+    "wisdom",
+    "supplication",
+    "power",
+    "peace"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Prayer",
+    "Repentance"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God would pour out a spirit of grace and supplication on the house of David and the people of Jerusalem."
+}

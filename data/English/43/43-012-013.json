@@ -1,0 +1,37 @@
+{
+  "id": "43-012-013",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 12,
+  "verse_reference": "John 12:32-33",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When Jesus said, \"I, when I am lifted up from the earth, will draw all people to myself,\" what was he showing?",
+  "options": [
+    "The kind of death he was going to die",
+    "That he would fly into heaven",
+    "That he would be made king",
+    "That he would climb a mountain"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 12:33 says he said this to show the kind of death he was going to die."
+}

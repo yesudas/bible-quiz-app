@@ -1,0 +1,32 @@
+{
+  "id": "27-002-015",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 2,
+  "verse_reference": "Daniel 2:32-33",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "Which is the correct order of materials in the statue from top to bottom?",
+  "options": [
+    "Gold, bronze, silver, iron",
+    "Silver, gold, iron, bronze",
+    "Gold, silver, iron, bronze",
+    "Gold, silver, bronze, iron"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel",
+    "Nebuchadnezzar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The statue had a head of gold, chest and arms of silver, belly and thighs of bronze, and legs of iron."
+}

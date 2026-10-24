@@ -1,0 +1,33 @@
+{
+  "id": "41-011-002",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 11,
+  "verse_reference": "Mark 11:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jesus tell two disciples they would find tied in the village ahead?",
+  "options": [
+    "A colt that no one had ever ridden",
+    "A white horse",
+    "A camel",
+    "A chariot"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said they would find a colt tied there, which no one had ever ridden, and told them to untie it and bring it."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "40-005-015",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 5,
+  "verse_reference": "Matthew 5:23-24",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "If you remember at the altar that your brother or sister has something against you, what should you do first?",
+  "options": [
+    "Offer your gift quickly",
+    "Pray louder",
+    "Leave your gift and first go and be reconciled",
+    "Ask the priest to decide"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Forgiveness",
+    "Worship",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Altar",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 5:23-24 says to leave your gift at the altar, first go and be reconciled, then come and offer your gift."
+}

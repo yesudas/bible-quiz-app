@@ -1,0 +1,37 @@
+{
+  "id": "47-002-001",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 2,
+  "verse_reference": "2 Corinthians 2:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What kind of visit did Paul decide not to make to the Corinthians again?",
+  "options": [
+    "A short visit",
+    "A painful visit",
+    "A secret visit",
+    "A visit with Titus"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Love"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul made up his mind that he would not make another painful visit to the Corinthians."
+}

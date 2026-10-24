@@ -1,0 +1,38 @@
+{
+  "id": "46-001-007",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 1,
+  "verse_reference": "1 Corinthians 1:14",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two people did Paul say he personally baptized in Corinth?",
+  "options": [
+    "Crispus and Gaius",
+    "Aquila and Priscilla",
+    "Titus and Timothy",
+    "Erastus and Silas"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Paul",
+    "Crispus",
+    "Gaius"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul was thankful he baptized none of them except Crispus and Gaius, so no one could say they were baptized in his name."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "40-002-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 2,
+  "verse_reference": "Matthew 2:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When the Magi saw the child with his mother Mary, what did they do?",
+  "options": [
+    "Bowed down and worshiped him",
+    "Took him to Herod",
+    "Gave him a new name",
+    "Prayed for him"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Jesus"
+  ],
+  "characters": [
+    "Magi",
+    "Mary",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 2:11 says they bowed down and worshiped him."
+}

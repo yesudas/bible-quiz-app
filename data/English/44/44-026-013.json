@@ -1,0 +1,37 @@
+{
+  "id": "44-026-013",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 26,
+  "verse_reference": "Acts 26:25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Paul answer Festus?",
+  "options": [
+    "You are right, I am tired",
+    "What I am saying is true and reasonable",
+    "I will be quiet now",
+    "Ask King Agrippa to decide"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Paul",
+    "Festus"
+  ],
+  "places": [
+    {
+      "name": "Caesarea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul replied, 'I am not insane, most excellent Festus. What I am saying is true and reasonable.'"
+}

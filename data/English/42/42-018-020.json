@@ -1,0 +1,41 @@
+{
+  "id": "42-018-020",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 18,
+  "verse_reference": "Luke 18:35",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Near which city was the blind man sitting by the roadside begging?",
+  "options": [
+    "Jericho",
+    "Bethany",
+    "Nazareth",
+    "Capernaum"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    },
+    {
+      "name": "Roadside near Jericho",
+      "type": "road"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As Jesus approached Jericho, a blind man was sitting by the roadside begging."
+}

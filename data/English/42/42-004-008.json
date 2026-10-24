@@ -1,0 +1,38 @@
+{
+  "id": "42-004-008",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 4,
+  "verse_reference": "Luke 4:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What Scripture did Jesus quote when the devil told him to throw himself from the temple?",
+  "options": [
+    "Do not put the Lord your God to the test",
+    "Man shall not live on bread alone",
+    "Love the Lord your God with all your heart",
+    "The Lord is my shepherd"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Temptation",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus",
+    "Satan"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus answered, 'It is said: Do not put the Lord your God to the test.'"
+}

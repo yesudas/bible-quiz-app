@@ -1,0 +1,38 @@
+{
+  "id": "40-026-026",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:56",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did all the disciples do after Jesus was arrested?",
+  "options": [
+    "Fought the crowd",
+    "Went with him to the trial",
+    "Deserted him and fled",
+    "Hid in the garden and prayed"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship",
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Gethsemane",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:56 says then all the disciples deserted him and fled."
+}

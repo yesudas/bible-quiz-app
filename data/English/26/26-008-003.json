@@ -1,0 +1,41 @@
+{
+  "id": "26-008-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 8,
+  "verse_reference": "Ezekiel 8:3-5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What stood at the north gate of the inner court of the temple?",
+  "options": [
+    "The idol that provokes to jealousy",
+    "The bronze altar",
+    "A golden lampstand",
+    "The ark of the covenant"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At the north gate stood the idol that provokes to jealousy, which God said would drive Him far from His sanctuary."
+}

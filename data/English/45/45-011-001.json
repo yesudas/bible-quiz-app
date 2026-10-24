@@ -1,0 +1,32 @@
+{
+  "id": "45-011-001",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 11,
+  "verse_reference": "Romans 11:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "From which tribe of Israel did Paul say he came?",
+  "options": [
+    "Judah",
+    "Levi",
+    "Benjamin",
+    "Ephraim"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says he is an Israelite, a descendant of Abraham, from the tribe of Benjamin."
+}

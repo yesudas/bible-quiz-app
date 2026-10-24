@@ -1,0 +1,31 @@
+{
+  "id": "27-012-005",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 12,
+  "verse_reference": "Daniel 12:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Daniel told to do with the words of the scroll?",
+  "options": [
+    "Read them to the king",
+    "Roll up and seal them until the time of the end",
+    "Burn them",
+    "Send them to Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daniel was told to roll up and seal the words of the scroll until the time of the end."
+}

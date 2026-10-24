@@ -1,0 +1,31 @@
+{
+  "id": "45-005-008",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 5,
+  "verse_reference": "Romans 5:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Romans 5:12, how did sin enter the world?",
+  "options": [
+    "Through the angels",
+    "Through the animals",
+    "Through the nations",
+    "Through one man"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Adam"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says sin entered the world through one man, and death through sin."
+}

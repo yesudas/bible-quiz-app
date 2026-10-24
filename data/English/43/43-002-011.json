@@ -1,0 +1,42 @@
+{
+  "id": "43-002-011",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 2,
+  "verse_reference": "John 2:15",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jesus make to drive the sellers and animals out of the temple courts?",
+  "options": [
+    "A wooden staff",
+    "A sling",
+    "A whip out of cords",
+    "A sword"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 2:15 says Jesus made a whip out of cords and drove all from the temple courts."
+}

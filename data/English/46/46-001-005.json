@@ -1,0 +1,40 @@
+{
+  "id": "46-001-005",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 1,
+  "verse_reference": "1 Corinthians 1:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which of these names was NOT one the Corinthians used when saying whom they followed?",
+  "options": [
+    "Apollos",
+    "Cephas",
+    "Peter's brother Andrew",
+    "Paul"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Church",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul",
+    "Apollos",
+    "Peter",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some said \"I follow Paul,\" others \"Apollos,\" \"Cephas,\" or \"Christ.\" Andrew was not named."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "24-028-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 28,
+  "verse_reference": "Jeremiah 28:1",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which town was the prophet Hananiah from?",
+  "options": [
+    "Gibeon",
+    "Anathoth",
+    "Bethel",
+    "Ramah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Hananiah"
+  ],
+  "places": [
+    {
+      "name": "Gibeon",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hananiah son of Azzur was from Gibeon."
+}

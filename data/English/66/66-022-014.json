@@ -1,0 +1,35 @@
+{
+  "id": "66-022-014",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 22,
+  "verse_reference": "Revelation 22:18-19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What warning is given to anyone who takes words away from this scroll of prophecy?",
+  "options": [
+    "They will be sent back to Patmos",
+    "They must write it again",
+    "God will take away from them their share in the tree of life and the Holy City",
+    "They will lose their wealth"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "New Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "If anyone takes words away from this scroll of prophecy, God will take away from that person any share in the tree of life and in the Holy City."
+}

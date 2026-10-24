@@ -1,0 +1,32 @@
+{
+  "id": "45-002-004",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 2,
+  "verse_reference": "Romans 2:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What does Paul say a stubborn and unrepentant heart stores up for itself?",
+  "options": [
+    "Treasure in heaven",
+    "Wisdom for old age",
+    "Blessing for its children",
+    "Wrath for the day of God's wrath"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Because of stubbornness and an unrepentant heart, a person stores up wrath against themselves for the day of God's wrath."
+}

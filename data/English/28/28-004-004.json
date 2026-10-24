@@ -1,0 +1,32 @@
+{
+  "id": "28-004-004",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 4,
+  "verse_reference": "Hosea 4:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"My people are destroyed from lack of ______.\"",
+  "options": [
+    "food",
+    "knowledge",
+    "money",
+    "strength"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said His people were destroyed because they lacked knowledge of Him and had rejected it."
+}

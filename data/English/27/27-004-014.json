@@ -1,0 +1,38 @@
+{
+  "id": "27-004-014",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 4,
+  "verse_reference": "Daniel 4:30",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What sin did the king show when he said, \"Is not this the great Babylon I have built\"?",
+  "options": [
+    "Greed",
+    "Anger",
+    "Pride",
+    "Fear"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Pride",
+    "Sin"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king took glory for himself, boasting that he built Babylon by his mighty power for his own majesty."
+}

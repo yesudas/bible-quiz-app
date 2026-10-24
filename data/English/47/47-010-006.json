@@ -1,0 +1,31 @@
+{
+  "id": "47-010-006",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 10,
+  "verse_reference": "2 Corinthians 10:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did some people say about Paul's letters compared with how he was in person?",
+  "options": [
+    "His letters were weak, but in person he was strong",
+    "His letters were weighty and forceful, but in person he was unimpressive",
+    "His letters were too short",
+    "His letters were written by Timothy"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some said, 'His letters are weighty and forceful, but in person he is unimpressive and his speaking amounts to nothing.'"
+}

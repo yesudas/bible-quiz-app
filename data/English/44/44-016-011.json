@@ -1,0 +1,39 @@
+{
+  "id": "44-016-011",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 16,
+  "verse_reference": "Acts 16:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Paul do when he became annoyed with the slave girl?",
+  "options": [
+    "Asked the magistrates to arrest her",
+    "Paid her owners",
+    "Commanded the spirit to come out of her in the name of Jesus Christ",
+    "Told her to go home"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Jesus",
+    "Satan"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Philippi",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul turned and said to the spirit, 'In the name of Jesus Christ I command you to come out of her!'"
+}

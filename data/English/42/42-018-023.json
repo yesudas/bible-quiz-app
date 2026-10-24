@@ -1,0 +1,38 @@
+{
+  "id": "42-018-023",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 18,
+  "verse_reference": "Luke 18:42-43",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "What did the man do immediately after he received his sight?",
+  "options": [
+    "He ran into Jericho",
+    "He washed his eyes",
+    "He went to the priest",
+    "He followed Jesus, praising God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Roadside near Jericho",
+      "type": "road"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Immediately he received his sight and followed Jesus, praising God."
+}

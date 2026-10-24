@@ -1,0 +1,36 @@
+{
+  "id": "25-002-005",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 2,
+  "verse_reference": "Lamentations 2:11-12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did children and infants faint in the streets of the city?",
+  "options": [
+    "Because of the heat",
+    "Because of a storm",
+    "Because they were hungry",
+    "Because of loud trumpets"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Family"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The children cried to their mothers for bread and wine and fainted in the streets."
+}

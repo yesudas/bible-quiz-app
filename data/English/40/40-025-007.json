@@ -1,0 +1,32 @@
+{
+  "id": "40-025-007",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:11-12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "When the foolish virgins cried, \"Lord, Lord, open the door for us!\" he replied, \"Truly I tell you, I don't ______ you.\"",
+  "options": [
+    "know",
+    "see",
+    "need",
+    "want"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:12 says he replied, \"Truly I tell you, I don't know you.\""
+}

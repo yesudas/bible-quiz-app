@@ -1,0 +1,36 @@
+{
+  "id": "66-015-006",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 15,
+  "verse_reference": "Revelation 15:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to the song in Revelation 15:4, what will all nations do?",
+  "options": [
+    "Fight against God",
+    "Hide in the mountains",
+    "Come and worship before him",
+    "Build a new temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The song says, \"For you alone are holy. All nations will come and worship before you, for your righteous acts have been revealed.\""
+}

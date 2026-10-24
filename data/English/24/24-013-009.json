@@ -1,0 +1,36 @@
+{
+  "id": "24-013-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 13,
+  "verse_reference": "Jeremiah 13:23",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Can an Ethiopian change his skin or a leopard its ____?\"",
+  "options": [
+    "spots",
+    "claws",
+    "color",
+    "stripes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ethiopia",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah 13:23 asks if an Ethiopian can change his skin or a leopard its spots."
+}

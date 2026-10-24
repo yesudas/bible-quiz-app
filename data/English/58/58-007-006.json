@@ -1,0 +1,32 @@
+{
+  "id": "58-007-006",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 7,
+  "verse_reference": "Hebrews 7:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 7:5, which descendants became priests and collected a tenth from the people?",
+  "options": [
+    "The descendants of Judah",
+    "The descendants of Joseph",
+    "The descendants of Levi",
+    "The descendants of Benjamin"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Worship"
+  ],
+  "characters": [
+    "Levi"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 7:5 says the descendants of Levi who become priests are commanded by the law to collect a tenth from the people."
+}

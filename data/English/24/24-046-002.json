@@ -1,0 +1,41 @@
+{
+  "id": "24-046-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 46,
+  "verse_reference": "Jeremiah 46:2",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "At which city on the Euphrates River was Pharaoh Necho's army defeated?",
+  "options": [
+    "Riblah",
+    "Hamath",
+    "Carchemish",
+    "Nineveh"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Necho",
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Carchemish",
+      "type": "city"
+    },
+    {
+      "name": "Euphrates",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pharaoh Necho's army was defeated at Carchemish on the Euphrates River by Nebuchadnezzar, in the fourth year of Jehoiakim."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "41-004-011",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 4,
+  "verse_reference": "Mark 4:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Where did Jesus say a lamp should be put, instead of under a bowl or a bed?",
+  "options": [
+    "In the ground",
+    "On its stand",
+    "Inside a chest",
+    "On the roof"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked, \"Do you bring in a lamp to put it under a bowl or a bed? Instead, don't you put it on its stand?\""
+}

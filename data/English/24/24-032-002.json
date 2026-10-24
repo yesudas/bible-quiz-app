@@ -1,0 +1,40 @@
+{
+  "id": "24-032-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 32,
+  "verse_reference": "Jeremiah 32:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where was Jeremiah confined while the Babylonian army besieged Jerusalem?",
+  "options": [
+    "In a cistern",
+    "In the temple",
+    "In the courtyard of the guard in the royal palace",
+    "In Anathoth"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Courtyard of the guard",
+      "type": "prison"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The army of Babylon was besieging Jerusalem, and Jeremiah was confined in the courtyard of the guard in the royal palace."
+}

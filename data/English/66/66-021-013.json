@@ -1,0 +1,35 @@
+{
+  "id": "66-021-013",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 21,
+  "verse_reference": "Revelation 21:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the great street of the city made of?",
+  "options": [
+    "White marble",
+    "Precious stones",
+    "Pure gold, like transparent glass",
+    "Polished silver"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "New Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The great street of the city was of gold, as pure as transparent glass."
+}

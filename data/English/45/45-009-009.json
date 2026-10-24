@@ -1,0 +1,36 @@
+{
+  "id": "45-009-009",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 9,
+  "verse_reference": "Romans 9:17",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Paul quotes Scripture telling which ruler, \"I raised you up for this very purpose, that I might display my power in you\"?",
+  "options": [
+    "Nebuchadnezzar",
+    "Herod",
+    "Caesar",
+    "Pharaoh"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Pharaoh"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quotes Scripture saying God raised up Pharaoh to display His power and make His name known in all the earth."
+}

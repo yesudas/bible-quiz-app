@@ -1,0 +1,34 @@
+{
+  "id": "26-032-006",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 32,
+  "verse_reference": "Ezekiel 32:16",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who would chant the lament over Egypt?",
+  "options": [
+    "The daughters of the nations",
+    "The priests of Israel",
+    "The sailors of Tyre",
+    "The elders of Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'This is the lament they will chant for her. The daughters of the nations will chant it.'"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42-013-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 13,
+  "verse_reference": "Luke 13:20-21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Jesus also compared the kingdom of God to what, mixed into about sixty pounds of flour?",
+  "options": [
+    "Salt",
+    "Yeast",
+    "Oil",
+    "Water"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Kingdom of God",
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said the kingdom of God is like yeast that a woman mixed into about sixty pounds of flour until it worked all through the dough."
+}

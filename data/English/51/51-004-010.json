@@ -1,0 +1,36 @@
+{
+  "id": "51-004-010",
+  "language": "en",
+  "book_no": 51,
+  "book": "Colossians",
+  "chapter": 4,
+  "verse_reference": "Colossians 4:15",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "In whose house did a church meet, according to Colossians 4?",
+  "options": [
+    "Lydia",
+    "Priscilla",
+    "Phoebe",
+    "Nympha"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Nympha"
+  ],
+  "places": [
+    {
+      "name": "Laodicea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul sent greetings to the brothers and sisters at Laodicea, and to Nympha and the church in her house."
+}

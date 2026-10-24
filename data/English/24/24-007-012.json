@@ -1,0 +1,39 @@
+{
+  "id": "24-007-012",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 7,
+  "verse_reference": "Jeremiah 7:34",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which joyful sounds did God say He would end in the towns of Judah?",
+  "options": [
+    "The songs of the temple choir",
+    "The voices of bride and bridegroom",
+    "The trumpets of victory",
+    "The laughter of children at play"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Marriage"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God would end the sounds of joy and gladness and the voices of bride and bridegroom, for the land would become desolate."
+}

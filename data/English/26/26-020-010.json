@@ -1,0 +1,36 @@
+{
+  "id": "26-020-010",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 20,
+  "verse_reference": "Ezekiel 20:40",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to Ezekiel 20, where did God say the whole house of Israel would serve Him?",
+  "options": [
+    "In Babylon",
+    "On His holy mountain, the high mountain of Israel",
+    "In the desert of Egypt",
+    "By the Kebar River"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mountains of Israel",
+      "type": "mountain range"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said on His holy mountain, the high mountain of Israel, the entire people of Israel would serve Him in the land."
+}

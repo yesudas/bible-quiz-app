@@ -1,0 +1,36 @@
+{
+  "id": "26-048-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 48,
+  "verse_reference": "Ezekiel 48:31",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After whom were the gates of the city named?",
+  "options": [
+    "The kings of Israel",
+    "The tribes of Israel",
+    "The prophets",
+    "The angels"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "The LORD Is There",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The gates of the city were named after the tribes of Israel."
+}

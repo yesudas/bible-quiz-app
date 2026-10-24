@@ -1,0 +1,32 @@
+{
+  "id": "54-003-011",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 3,
+  "verse_reference": "1 Timothy 3:16",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "In Paul's statement about the mystery of godliness, what is the last thing said about Jesus?",
+  "options": [
+    "He appeared in the flesh",
+    "He was preached among the nations",
+    "He was taken up in glory",
+    "He was seen by angels"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The statement ends by saying Jesus was believed on in the world and was taken up in glory."
+}

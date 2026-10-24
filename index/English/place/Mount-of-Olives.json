@@ -3,10 +3,33 @@
     "language": "English",
     "place": "Mount-of-Olives",
     "label": "Mount of Olives",
-    "count": 2,
+    "count": 25,
     "paths": [
         "English/10/10-015-013.json",
-        "English/10/10-015-014.json"
+        "English/10/10-015-014.json",
+        "English/38/38-014-001.json",
+        "English/38/38-014-002.json",
+        "English/40/40-021-001.json",
+        "English/40/40-024-002.json",
+        "English/40/40-026-014.json",
+        "English/40/40-026-015.json",
+        "English/41/41-011-001.json",
+        "English/41/41-013-002.json",
+        "English/41/41-013-003.json",
+        "English/41/41-013-004.json",
+        "English/41/41-014-013.json",
+        "English/41/41-014-015.json",
+        "English/42/42-019-013.json",
+        "English/42/42-019-017.json",
+        "English/42/42-021-020.json",
+        "English/42/42-022-013.json",
+        "English/42/42-022-014.json",
+        "English/42/42-022-015.json",
+        "English/42/42-022-016.json",
+        "English/42/42-022-017.json",
+        "English/42/42-022-018.json",
+        "English/43/43-008-001.json",
+        "English/44/44-001-012.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

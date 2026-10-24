@@ -1,0 +1,32 @@
+{
+  "id": "40-022-018",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 22,
+  "verse_reference": "Matthew 22:35-36",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did an expert in the law ask Jesus to test him?",
+  "options": [
+    "\"Teacher, who wrote the Law?\"",
+    "\"Teacher, how often should we pray?\"",
+    "\"Teacher, which is the greatest commandment in the Law?\"",
+    "\"Teacher, what is the Sabbath for?\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 22:35-36 says one of them, an expert in the law, tested him with this question: \"Teacher, which is the greatest commandment in the Law?\""
+}

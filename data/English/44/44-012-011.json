@@ -1,0 +1,33 @@
+{
+  "id": "44-012-011",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 12,
+  "verse_reference": "Acts 12:14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Rhoda do when she recognized Peter's voice?",
+  "options": [
+    "She opened the door at once",
+    "She fainted",
+    "She ran back without opening the door",
+    "She called the guards"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Joy"
+  ],
+  "characters": [
+    "Rhoda",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "She was so overjoyed that she ran back without opening it and said, 'Peter is at the door!'"
+}

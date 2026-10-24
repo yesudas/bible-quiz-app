@@ -1,0 +1,35 @@
+{
+  "id": "66-015-009",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 15,
+  "verse_reference": "Revelation 15:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why could no one enter the temple at the end of Revelation 15?",
+  "options": [
+    "Because the doors were locked",
+    "Because it was filled with smoke from the glory of God until the plagues were completed",
+    "Because the angels guarded it with swords",
+    "Because it had been destroyed"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple in heaven",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The temple was filled with smoke from the glory of God and from his power, and no one could enter until the seven plagues of the seven angels were completed."
+}

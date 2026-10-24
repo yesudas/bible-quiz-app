@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Large-upper-room",
+    "label": "Large upper room",
+    "count": 4,
+    "paths": [
+        "English/41/41-014-009.json",
+        "English/41/41-014-010.json",
+        "English/41/41-014-011.json",
+        "English/41/41-014-012.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

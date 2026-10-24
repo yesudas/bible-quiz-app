@@ -1,0 +1,35 @@
+{
+  "id": "36-001-011",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 1,
+  "verse_reference": "Zephaniah 1:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the LORD say He would use to search Jerusalem?",
+  "options": [
+    "Lamps",
+    "Soldiers",
+    "Angels",
+    "Trumpets"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would search Jerusalem with lamps and punish those who were complacent."
+}

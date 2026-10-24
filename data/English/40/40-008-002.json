@@ -1,0 +1,33 @@
+{
+  "id": "40-008-002",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 8,
+  "verse_reference": "Matthew 8:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jesus do before healing the man with leprosy?",
+  "options": [
+    "He spat on the ground",
+    "He sent him to wash in a pool",
+    "He reached out his hand and touched the man",
+    "He prayed all night"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 8:3 says Jesus reached out his hand and touched the man, and immediately he was cleansed of his leprosy."
+}

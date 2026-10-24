@@ -1,0 +1,31 @@
+{
+  "id": "40-016-003",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 16,
+  "verse_reference": "Matthew 16:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Jesus, what do people say when the sky is red in the evening?",
+  "options": [
+    "\"A storm is coming\"",
+    "\"It will snow\"",
+    "\"The harvest is ready\"",
+    "\"It will be fair weather\""
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 16:2 says, \"When evening comes, you say, 'It will be fair weather, for the sky is red.'\""
+}

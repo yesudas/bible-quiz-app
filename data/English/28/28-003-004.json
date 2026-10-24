@@ -1,0 +1,32 @@
+{
+  "id": "28-003-004",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 3,
+  "verse_reference": "Hosea 3:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Along with silver, what grain did Hosea give to buy his wife back?",
+  "options": [
+    "Wheat",
+    "Millet",
+    "Oats",
+    "Barley"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Hosea"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea gave fifteen shekels of silver and about a homer and a lethek of barley."
+}

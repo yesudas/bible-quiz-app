@@ -1,0 +1,32 @@
+{
+  "id": "27-004-004",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 4,
+  "verse_reference": "Daniel 4:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Which of these was true about the tree in the dream?",
+  "options": [
+    "Wild animals found shelter under it and birds lived in its branches",
+    "It had no fruit",
+    "It was dying",
+    "It was made of gold"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The tree had beautiful leaves and plenty of fruit; animals found shelter under it and birds lived in its branches."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "40-027-015",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 27,
+  "verse_reference": "Matthew 27:32",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who was forced to carry Jesus' cross?",
+  "options": [
+    "Joseph of Arimathea",
+    "Peter",
+    "Simon from Cyrene",
+    "A Roman soldier"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon of Cyrene"
+  ],
+  "places": [
+    {
+      "name": "Cyrene",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 27:32 says they met a man from Cyrene, named Simon, and they forced him to carry the cross."
+}

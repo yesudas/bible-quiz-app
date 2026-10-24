@@ -1,0 +1,36 @@
+{
+  "id": "41-006-019",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 6,
+  "verse_reference": "Mark 6:39-40",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How did the people sit down before Jesus fed them?",
+  "options": [
+    "In twelve rows by the lake",
+    "On the sand in a circle",
+    "In groups of hundreds and fifties on the green grass",
+    "Inside the synagogue"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Solitary place",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus had them sit down in groups on the green grass, in groups of hundreds and fifties."
+}

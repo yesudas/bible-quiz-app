@@ -1,0 +1,32 @@
+{
+  "id": "42-017-014",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 17,
+  "verse_reference": "Luke 17:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' question: 'Were not all ten cleansed? Where are the other ____?'",
+  "options": [
+    "seven",
+    "eight",
+    "nine",
+    "five"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Gratitude"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked, 'Were not all ten cleansed? Where are the other nine?'"
+}

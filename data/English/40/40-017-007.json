@@ -1,0 +1,41 @@
+{
+  "id": "40-017-007",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 17,
+  "verse_reference": "Matthew 17:6-7",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "When the disciples fell facedown in terror, what did Jesus do?",
+  "options": [
+    "He touched them and said, \"Get up. Don't be afraid.\"",
+    "He left them on the mountain",
+    "He called Moses back",
+    "He told them to keep praying"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter",
+    "James",
+    "John"
+  ],
+  "places": [
+    {
+      "name": "High mountain",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 17:7 says Jesus came and touched them. \"Get up,\" he said. \"Don't be afraid.\""
+}

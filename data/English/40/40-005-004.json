@@ -1,0 +1,32 @@
+{
+  "id": "40-005-004",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 5,
+  "verse_reference": "Matthew 5:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Jesus, who will inherit the earth?",
+  "options": [
+    "The strong",
+    "The wise",
+    "The rich",
+    "The meek"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 5:5 says, \"Blessed are the meek, for they will inherit the earth.\""
+}

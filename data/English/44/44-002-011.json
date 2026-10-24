@@ -1,0 +1,34 @@
+{
+  "id": "44-002-011",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 2,
+  "verse_reference": "Acts 2:23-24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Peter, what did God do after Jesus was put to death?",
+  "options": [
+    "He sent Him to Egypt",
+    "He hid His body",
+    "He raised Him from the dead",
+    "He punished Jerusalem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Resurrection",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter said God raised Jesus from the dead, because it was impossible for death to keep its hold on Him."
+}

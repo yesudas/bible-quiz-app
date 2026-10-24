@@ -1,0 +1,33 @@
+{
+  "id": "42-005-011",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus do when he healed the man with leprosy?",
+  "options": [
+    "He sent him to wash in the Jordan",
+    "He spat on the ground",
+    "He reached out his hand and touched the man",
+    "He spoke from far away"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus reached out his hand and touched the man, saying, 'I am willing. Be clean!' Immediately the leprosy left him."
+}

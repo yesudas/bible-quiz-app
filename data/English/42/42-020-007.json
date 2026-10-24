@@ -1,0 +1,38 @@
+{
+  "id": "42-020-007",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 20,
+  "verse_reference": "Luke 20:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the tenants do to the owner's son?",
+  "options": [
+    "They welcomed him",
+    "They made him their king",
+    "They sent him back",
+    "They threw him out of the vineyard and killed him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Persecution",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Vineyard",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They threw him out of the vineyard and killed him."
+}

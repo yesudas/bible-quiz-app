@@ -1,0 +1,29 @@
+{
+  "id": "25-003-001",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 3,
+  "verse_reference": "Lamentations 3:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who speaks in Lamentations 3:1, saying he has seen affliction by the rod of the LORD's wrath?",
+  "options": [
+    "A king of Babylon",
+    "A priest in Egypt",
+    "An angel of the LORD",
+    "A man who has seen affliction"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The chapter begins with a man speaking about the affliction he has suffered under the LORD's wrath."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "40-003-014",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 3,
+  "verse_reference": "Matthew 3:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When John tried to stop Jesus from being baptized, what reason did Jesus give for going ahead?",
+  "options": [
+    "To show he was a prophet",
+    "To please the crowd",
+    "To fulfill all righteousness",
+    "To make John famous"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Obedience"
+  ],
+  "characters": [
+    "Jesus",
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 3:15 says Jesus answered that it was proper for them to do this to fulfill all righteousness."
+}

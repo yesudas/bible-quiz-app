@@ -1,0 +1,41 @@
+{
+  "id": "66-003-009",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 3,
+  "verse_reference": "Revelation 3:12",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say he would make the victorious in Philadelphia?",
+  "options": [
+    "A king over the nations",
+    "A pillar in the temple of his God",
+    "A star in the sky",
+    "A gate of the city"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Philadelphia",
+      "type": "city"
+    },
+    {
+      "name": "new Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus promised to make the victor a pillar in the temple of his God, and to write on them the name of the new Jerusalem."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "32-003-006",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 3,
+  "verse_reference": "Jonah 3:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the king of Nineveh do when he heard Jonah's warning?",
+  "options": [
+    "He arrested Jonah",
+    "He got up from his throne, put on sackcloth and sat in the dust",
+    "He ran away from the city",
+    "He built a stronger wall"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Humility"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king rose from his throne, took off his royal robes, covered himself with sackcloth and sat down in the dust."
+}

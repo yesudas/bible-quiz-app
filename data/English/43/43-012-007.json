@@ -1,0 +1,38 @@
+{
+  "id": "43-012-007",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 12,
+  "verse_reference": "John 12:13",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the great crowd take to go out and meet Jesus as he came to Jerusalem?",
+  "options": [
+    "Olive branches",
+    "Their cloaks",
+    "Palm branches",
+    "Lamps"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 12:13 says they took palm branches and went out to meet him, shouting, \"Hosanna!\""
+}

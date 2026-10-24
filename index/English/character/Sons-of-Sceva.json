@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Sons-of-Sceva",
+    "label": "Sons of Sceva",
+    "count": 3,
+    "paths": [
+        "English/44/44-019-009.json",
+        "English/44/44-019-010.json",
+        "English/44/44-019-011.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

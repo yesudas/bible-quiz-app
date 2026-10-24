@@ -1,0 +1,34 @@
+{
+  "id": "54-002-009",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 2,
+  "verse_reference": "1 Timothy 2:13",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "Which person did Paul say was formed first?",
+  "options": [
+    "Eve",
+    "Adam",
+    "Abel",
+    "Seth"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [
+    "Adam",
+    "Eve",
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that Adam was formed first, then Eve."
+}

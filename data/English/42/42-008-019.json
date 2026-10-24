@@ -1,0 +1,37 @@
+{
+  "id": "42-008-019",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:37",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did the people of the region respond after the man was healed?",
+  "options": [
+    "They asked Jesus to stay",
+    "They brought him their sick",
+    "They asked Jesus to leave because they were afraid",
+    "They made him their king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Fear",
+    "Unbelief"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Region of the Gerasenes",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All the people of the region asked Jesus to leave them, because they were overcome with fear."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "36-003-004",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 3,
+  "verse_reference": "Zephaniah 3:5",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "In contrast to the city's wicked leaders, who is described as righteous and doing no wrong?",
+  "options": [
+    "The king of Judah",
+    "The LORD within her",
+    "The high priest",
+    "The people of the land"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Justice",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Though the leaders were wicked, the LORD within the city is righteous; He does no wrong and dispenses His justice every morning."
+}

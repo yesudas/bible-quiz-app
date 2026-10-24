@@ -1,0 +1,36 @@
+{
+  "id": "66-007-011",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 7,
+  "verse_reference": "Revelation 7:14",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to the elder, what had the great multitude come out of?",
+  "options": [
+    "The great tribulation",
+    "The land of Egypt",
+    "The city of Babylon",
+    "The bottomless pit"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Persecution",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elder told John, \"These are they who have come out of the great tribulation.\""
+}

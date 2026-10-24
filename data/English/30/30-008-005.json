@@ -1,0 +1,31 @@
+{
+  "id": "30-008-005",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 8,
+  "verse_reference": "Amos 8:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the dishonest merchants cheat people?",
+  "options": [
+    "They gave extra grain for free",
+    "They refused to sell on weekdays",
+    "They skimped on the measure and used dishonest scales",
+    "They paid the poor too much"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Money",
+    "Justice"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 8:5 says they skimped on the measure, boosted the price and cheated with dishonest scales."
+}

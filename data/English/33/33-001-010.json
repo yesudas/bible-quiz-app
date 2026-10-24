@@ -1,0 +1,34 @@
+{
+  "id": "33-001-010",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 1,
+  "verse_reference": "Micah 1:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "\"Tell it not in ______; weep not at all.\"",
+  "options": [
+    "Gath",
+    "Gaza",
+    "Ashkelon",
+    "Ekron"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gath",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micah warned, 'Tell it not in Gath,' so the Philistines would not rejoice over Israel's disaster."
+}

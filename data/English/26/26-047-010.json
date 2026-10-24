@@ -1,0 +1,36 @@
+{
+  "id": "26-047-010",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 47,
+  "verse_reference": "Ezekiel 47:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How were foreigners who had settled among the Israelites and had children to be treated when the land was divided?",
+  "options": [
+    "They were to be sent away",
+    "They could work but not own land",
+    "They were to receive an inheritance like native-born Israelites",
+    "They had to pay to stay"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Love",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Foreigners who had settled among them and had children were to be considered as native-born Israelites and allotted an inheritance among the tribes."
+}

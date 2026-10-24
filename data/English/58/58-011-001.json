@@ -1,0 +1,31 @@
+{
+  "id": "58-011-001",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 11,
+  "verse_reference": "Hebrews 11:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Now faith is confidence in what we hope for and assurance about what we do not ____.\"",
+  "options": [
+    "know",
+    "see",
+    "have",
+    "hear"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 11:1 says faith is confidence in what we hope for and assurance about what we do not see."
+}

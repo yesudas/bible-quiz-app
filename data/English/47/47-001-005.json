@@ -1,0 +1,37 @@
+{
+  "id": "47-001-005",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 1,
+  "verse_reference": "2 Corinthians 1:8",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In which province did Paul and his companions face troubles so hard that they despaired of life itself?",
+  "options": [
+    "Macedonia",
+    "Galatia",
+    "Judea",
+    "Asia"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Persecution"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Asia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul told the Corinthians about the troubles they experienced in the province of Asia, which were far beyond their ability to endure."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "34-001-002",
+  "language": "en",
+  "book_no": 34,
+  "book": "Nahum",
+  "chapter": 1,
+  "verse_reference": "Nahum 1:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who received the vision written in the book of Nahum?",
+  "options": [
+    "Nahum the Elkoshite",
+    "Micah of Moresheth",
+    "Amos of Tekoa",
+    "Jonah son of Amittai"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Nahum"
+  ],
+  "places": [
+    {
+      "name": "Elkosh",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The book is called the vision of Nahum the Elkoshite."
+}

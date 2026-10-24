@@ -1,0 +1,32 @@
+{
+  "id": "42-023-009",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 23,
+  "verse_reference": "Luke 23:21",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "What did the crowd keep shouting about Jesus? '____ him! ____ him!'",
+  "options": [
+    "Release",
+    "Crucify",
+    "Stone",
+    "Free"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The crowd kept shouting, 'Crucify him! Crucify him!'"
+}

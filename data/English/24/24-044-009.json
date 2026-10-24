@@ -1,0 +1,40 @@
+{
+  "id": "24-044-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 44,
+  "verse_reference": "Jeremiah 44:30",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "As a sign, God said He would hand over which Pharaoh to his enemies, just as He handed Zedekiah to Nebuchadnezzar?",
+  "options": [
+    "Pharaoh Necho",
+    "Pharaoh Shishak",
+    "Pharaoh Hophra",
+    "Pharaoh So"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Hophra",
+    "Zedekiah",
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"I am going to deliver Pharaoh Hophra king of Egypt into the hands of his enemies… just as I gave Zedekiah king of Judah into the hands of Nebuchadnezzar.\""
+}

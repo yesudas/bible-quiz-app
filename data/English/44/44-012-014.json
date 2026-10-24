@@ -1,0 +1,32 @@
+{
+  "id": "44-012-014",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 12,
+  "verse_reference": "Acts 12:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Herod do after he could not find Peter?",
+  "options": [
+    "He set all the prisoners free",
+    "He cross-examined the guards and ordered their execution",
+    "He repented",
+    "He went looking for Peter himself"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution",
+    "Sin"
+  ],
+  "characters": [
+    "Herod"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After a thorough search, Herod cross-examined the guards and ordered that they be executed."
+}

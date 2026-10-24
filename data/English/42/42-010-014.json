@@ -1,0 +1,45 @@
+{
+  "id": "42-010-014",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:30",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In the parable, the man was going down from Jerusalem to which city when robbers attacked him?",
+  "options": [
+    "Bethlehem",
+    "Jericho",
+    "Samaria",
+    "Joppa"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Road from Jerusalem to Jericho",
+      "type": "road"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said a man was going down from Jerusalem to Jericho when he was attacked by robbers."
+}

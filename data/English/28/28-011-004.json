@@ -1,0 +1,30 @@
+{
+  "id": "28-011-004",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 11,
+  "verse_reference": "Hosea 11:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "God said He led His people with cords of human kindness and with ties of what?",
+  "options": [
+    "Iron",
+    "Gold",
+    "Silver",
+    "Love"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'I led them with cords of human kindness, with ties of love.'"
+}

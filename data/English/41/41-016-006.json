@@ -1,0 +1,37 @@
+{
+  "id": "41-016-006",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 16,
+  "verse_reference": "Mark 16:5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did the women see sitting on the right side as they entered the tomb?",
+  "options": [
+    "A young man dressed in a white robe",
+    "Peter and John",
+    "A Roman soldier",
+    "Joseph of Arimathea"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Angels"
+  ],
+  "characters": [
+    "Mary Magdalene"
+  ],
+  "places": [
+    {
+      "name": "Tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As they entered the tomb, they saw a young man dressed in a white robe sitting on the right side, and they were alarmed."
+}

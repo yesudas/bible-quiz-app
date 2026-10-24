@@ -1,0 +1,31 @@
+{
+  "id": "66-006-010",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 6,
+  "verse_reference": "Revelation 6:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the cry of the souls under the altar: \"How ____, Sovereign Lord, holy and true, until you judge the inhabitants of the earth?\"",
+  "options": [
+    "much",
+    "long",
+    "far",
+    "soon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution",
+    "Prayer",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They called out, \"How long, Sovereign Lord, holy and true, until you judge the inhabitants of the earth and avenge our blood?\""
+}

@@ -1,0 +1,35 @@
+{
+  "id": "45-011-012",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 11,
+  "verse_reference": "Romans 11:26",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Quoting Scripture, Paul says the deliverer will come from where?",
+  "options": [
+    "Egypt",
+    "Babylon",
+    "Rome",
+    "Zion"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quotes Scripture: \"The deliverer will come from Zion; he will turn godlessness away from Jacob.\""
+}

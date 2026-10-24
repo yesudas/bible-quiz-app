@@ -1,0 +1,33 @@
+{
+  "id": "30-007-003",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 7,
+  "verse_reference": "Amos 7:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the LORD respond to Amos's prayer after the locust vision?",
+  "options": [
+    "He sent more locusts",
+    "He told Amos to be quiet",
+    "He relented and said it will not happen",
+    "He moved Amos to Judah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Amos"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 7:3 says the LORD relented: 'This will not happen.'"
+}

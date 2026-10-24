@@ -1,0 +1,32 @@
+{
+  "id": "42-006-018",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:35",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say about lending to others?",
+  "options": [
+    "Only lend to friends",
+    "Lend without expecting to get anything back",
+    "Charge fair interest",
+    "Never lend money"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said to love your enemies, do good to them, and lend to them without expecting to get anything back."
+}

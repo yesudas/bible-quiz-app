@@ -1,0 +1,40 @@
+{
+  "id": "40-023-005",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 23,
+  "verse_reference": "Matthew 23:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Pharisees love to be called when greeted in the marketplaces?",
+  "options": [
+    "Rabbi",
+    "King",
+    "Prophet",
+    "Master of Israel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Marketplaces",
+      "type": "other"
+    },
+    {
+      "name": "Synagogues",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 23:7 says they love to be greeted with respect in the marketplaces and to be called 'Rabbi' by others."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "42-009-005",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 9,
+  "verse_reference": "Luke 9:10",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Near which town did Jesus feed the five thousand?",
+  "options": [
+    "Capernaum",
+    "Bethsaida",
+    "Nain",
+    "Cana"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Bethsaida",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus took the apostles and withdrew by themselves to a town called Bethsaida."
+}

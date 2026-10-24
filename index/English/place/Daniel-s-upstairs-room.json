@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Daniel-s-upstairs-room",
+    "label": "Daniel's upstairs room",
+    "count": 2,
+    "paths": [
+        "English/27/27-006-007.json",
+        "English/27/27-006-008.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

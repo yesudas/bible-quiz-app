@@ -1,0 +1,40 @@
+{
+  "id": "43-018-009",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 18,
+  "verse_reference": "John 18:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were Peter and the others doing while standing in the courtyard?",
+  "options": [
+    "Warming themselves around a fire",
+    "Eating bread",
+    "Praying",
+    "Washing their hands"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Temptation"
+  ],
+  "characters": [
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Courtyard of the high priest",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 18:18 says it was cold, and the servants and officials stood around a fire they had made to keep warm. Peter also was standing with them, warming himself."
+}

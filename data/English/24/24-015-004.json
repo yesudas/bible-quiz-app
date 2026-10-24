@@ -1,0 +1,43 @@
+{
+  "id": "24-015-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 15,
+  "verse_reference": "Jeremiah 15:4",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Because of what which king of Judah did in Jerusalem did God say He would make the people abhorrent to all the kingdoms of the earth?",
+  "options": [
+    "Ahaz",
+    "Jehoiakim",
+    "Amon",
+    "Manasseh"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Leadership"
+  ],
+  "characters": [
+    "Manasseh",
+    "Hezekiah"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said this would happen because of what Manasseh son of Hezekiah king of Judah did in Jerusalem."
+}

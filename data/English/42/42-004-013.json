@@ -1,0 +1,38 @@
+{
+  "id": "42-004-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 4,
+  "verse_reference": "Luke 4:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the people in Nazareth ask about Jesus after he spoke?",
+  "options": [
+    "'Isn't this Joseph's son?'",
+    "'Isn't this a priest?'",
+    "'Isn't this Elijah?'",
+    "'Isn't this John?'"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Unbelief"
+  ],
+  "characters": [
+    "Jesus",
+    "Joseph"
+  ],
+  "places": [
+    {
+      "name": "Nazareth",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All spoke well of him and were amazed, and they asked, 'Isn't this Joseph's son?'"
+}

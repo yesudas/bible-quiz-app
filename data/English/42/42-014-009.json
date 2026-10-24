@@ -1,0 +1,32 @@
+{
+  "id": "42-014-009",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 14,
+  "verse_reference": "Luke 14:18",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In the parable of the great banquet, what was the first guest's excuse?",
+  "options": [
+    "He was sick",
+    "He had just bought a field and had to see it",
+    "He was traveling",
+    "He had to work in the temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The first said, 'I have just bought a field, and I must go and see it. Please excuse me.'"
+}

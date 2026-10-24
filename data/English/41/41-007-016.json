@@ -1,0 +1,38 @@
+{
+  "id": "41-007-016",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 7,
+  "verse_reference": "Mark 7:34",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What word did Jesus say to the deaf man, which means \"Be opened!\"?",
+  "options": [
+    "Ephphatha",
+    "Talitha koum",
+    "Abba",
+    "Hosanna"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Decapolis",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus looked up to heaven, sighed deeply and said, \"Ephphatha!\" (which means \"Be opened!\")."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "40-025-021",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:35-36",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which of these did the King NOT list among the things the righteous did for him?",
+  "options": [
+    "Gave him something to eat",
+    "Looked after him when he was sick",
+    "Built him a house",
+    "Visited him in prison"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Prison",
+      "type": "prison"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:35-36 lists feeding the hungry, giving drink to the thirsty, inviting in the stranger, clothing, caring for the sick and visiting those in prison; building a house is not mentioned."
+}

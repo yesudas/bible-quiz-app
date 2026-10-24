@@ -1,0 +1,33 @@
+{
+  "id": "40-010-012",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 10,
+  "verse_reference": "Matthew 10:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"Therefore be as shrewd as snakes and as innocent as ______.\"",
+  "options": [
+    "lambs",
+    "children",
+    "doves",
+    "sparrows"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Mission"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 10:16 says, \"I am sending you out like sheep among wolves. Therefore be as shrewd as snakes and as innocent as doves.\""
+}

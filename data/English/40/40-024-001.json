@@ -1,0 +1,38 @@
+{
+  "id": "40-024-001",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 24,
+  "verse_reference": "Matthew 24:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When the disciples pointed out the temple buildings, what did Jesus say would happen to them?",
+  "options": [
+    "They would be made of gold",
+    "Not one stone would be left on another",
+    "They would last forever",
+    "They would be moved to Galilee"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 24:2 says, \"Truly I tell you, not one stone here will be left on another; every one will be thrown down.\""
+}

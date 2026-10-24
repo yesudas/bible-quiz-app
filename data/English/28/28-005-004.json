@@ -1,0 +1,39 @@
+{
+  "id": "28-005-004",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 5,
+  "verse_reference": "Hosea 5:8",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Hosea say to sound the trumpet, along with the horn in Ramah?",
+  "options": [
+    "Jericho",
+    "Samaria",
+    "Bethel",
+    "Gibeah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gibeah",
+      "type": "town"
+    },
+    {
+      "name": "Ramah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said, 'Sound the trumpet in Gibeah, the horn in Ramah.'"
+}

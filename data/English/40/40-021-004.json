@@ -1,0 +1,37 @@
+{
+  "id": "40-021-004",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 21,
+  "verse_reference": "Matthew 21:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to the prophecy Matthew quotes, how does the king come to Daughter Zion?",
+  "options": [
+    "Mighty and riding a war horse",
+    "With an army of angels",
+    "In a golden chariot",
+    "Gentle and riding on a donkey"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 21:5 says, \"See, your king comes to you, gentle and riding on a donkey, and on a colt, the foal of a donkey.\""
+}

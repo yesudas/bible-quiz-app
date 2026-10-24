@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Cistern-of-Malkijah",
+    "label": "Cistern of Malkijah",
+    "count": 3,
+    "paths": [
+        "English/24/24-038-003.json",
+        "English/24/24-038-004.json",
+        "English/24/24-038-006.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

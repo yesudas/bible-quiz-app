@@ -1,0 +1,38 @@
+{
+  "id": "27-010-005",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 10,
+  "verse_reference": "Daniel 10:5-6",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which of these describes the man Daniel saw in the vision?",
+  "options": [
+    "Dressed in purple with a crown of silver",
+    "Dressed in linen, with a face like lightning and eyes like flaming torches",
+    "Dressed in sackcloth with a shepherd's staff",
+    "Dressed in armour with a sword of iron"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels",
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [
+    {
+      "name": "Tigris",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man was dressed in linen with a belt of fine gold; his face was like lightning and his eyes like flaming torches."
+}

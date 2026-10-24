@@ -1,0 +1,36 @@
+{
+  "id": "43-012-006",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 12,
+  "verse_reference": "John 12:10-11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the chief priests make plans to kill Lazarus as well?",
+  "options": [
+    "He had insulted them",
+    "On account of him many Jews were going over to Jesus and believing in him",
+    "He refused to pay the temple tax",
+    "He had broken the Sabbath"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Lazarus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 12:10-11 says the chief priests planned to kill Lazarus too, for on account of him many Jews were believing in Jesus."
+}

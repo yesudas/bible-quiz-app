@@ -1,0 +1,38 @@
+{
+  "id": "43-001-022",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 1,
+  "verse_reference": "John 1:49",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "After Jesus said he saw him under the fig tree, what did Nathanael declare about Jesus?",
+  "options": [
+    "You are Elijah who was to come",
+    "You are a great prophet from Galilee",
+    "You are the Son of God; you are the king of Israel",
+    "You are the son of Joseph from Nazareth"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Jesus"
+  ],
+  "characters": [
+    "Nathanael",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 1:49, Nathanael said, \"Rabbi, you are the Son of God; you are the king of Israel.\""
+}

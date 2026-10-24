@@ -1,0 +1,30 @@
+{
+  "id": "46-001-014",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 1,
+  "verse_reference": "1 Corinthians 1:27",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Why did God choose the foolish things of the world?",
+  "options": [
+    "To shame the wise",
+    "To make the rich poorer",
+    "To please the leaders",
+    "To test the angels"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God chose the foolish things of the world to shame the wise, and the weak things to shame the strong."
+}

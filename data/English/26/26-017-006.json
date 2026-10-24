@@ -1,0 +1,39 @@
+{
+  "id": "26-017-006",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 17,
+  "verse_reference": "Ezekiel 17:12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to God's explanation, who did the first eagle stand for?",
+  "options": [
+    "The king of Egypt",
+    "The king of Babylon",
+    "The king of Tyre",
+    "The king of Assyria"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Parables"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God explained that the king of Babylon went to Jerusalem and carried off her king and nobles to Babylon."
+}

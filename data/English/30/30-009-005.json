@@ -1,0 +1,41 @@
+{
+  "id": "30-009-005",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 9,
+  "verse_reference": "Amos 9:7",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Amos 9:7, God brought the Philistines from where?",
+  "options": [
+    "Kir",
+    "Egypt",
+    "Caphtor",
+    "Edom"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Caphtor",
+      "type": "island"
+    },
+    {
+      "name": "Kir",
+      "type": "region"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God brought Israel up from Egypt, the Philistines from Caphtor and the Arameans from Kir."
+}

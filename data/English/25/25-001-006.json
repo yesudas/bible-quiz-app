@@ -1,0 +1,36 @@
+{
+  "id": "25-001-006",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 1,
+  "verse_reference": "Lamentations 1:5, 8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Lamentations 1, why did the LORD bring grief on Jerusalem?",
+  "options": [
+    "Because her enemies were stronger than God",
+    "Because of her many sins",
+    "Because she had no king",
+    "For no reason at all"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Verse 5 says the LORD brought her grief because of her many sins, and verse 8 says Jerusalem sinned greatly."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "42-007-019",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 7,
+  "verse_reference": "Luke 7:44-46",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus point out that Simon had not done for him?",
+  "options": [
+    "Paid for the meal",
+    "Given him water for his feet, a kiss, or oil for his head",
+    "Invited his disciples",
+    "Prayed before eating"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Humility"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon the Pharisee"
+  ],
+  "places": [
+    {
+      "name": "Pharisee's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said Simon gave him no water for his feet, no kiss, and no oil for his head, but the woman had done all these things."
+}

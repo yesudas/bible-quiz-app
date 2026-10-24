@@ -1,0 +1,30 @@
+{
+  "id": "59-004-011",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 4,
+  "verse_reference": "James 4:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Instead of boasting about tomorrow, what should we say about our plans?",
+  "options": [
+    "We will surely succeed",
+    "We will plan better next year",
+    "If it is the Lord's will, we will live and do this or that",
+    "Our money will keep us safe"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James teaches us to say, \"If it is the Lord's will, we will live and do this or that.\""
+}

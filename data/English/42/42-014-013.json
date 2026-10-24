@@ -1,0 +1,37 @@
+{
+  "id": "42-014-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 14,
+  "verse_reference": "Luke 14:23",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "When there was still room, where did the master send his servant next?",
+  "options": [
+    "To the temple courts",
+    "To the roads and country lanes",
+    "To the king's palace",
+    "To the sea shore"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Evangelism"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Roads and country lanes",
+      "type": "road"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The master said, 'Go out to the roads and country lanes and compel them to come in, so that my house will be full.'"
+}

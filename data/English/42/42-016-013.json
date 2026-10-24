@@ -1,0 +1,38 @@
+{
+  "id": "42-016-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 16,
+  "verse_reference": "Luke 16:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What animals came and licked the beggar's sores?",
+  "options": [
+    "Cats",
+    "Dogs",
+    "Pigs",
+    "Goats"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Suffering"
+  ],
+  "characters": [
+    "Lazarus the beggar"
+  ],
+  "places": [
+    {
+      "name": "Rich man's gate",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Lazarus longed to eat what fell from the rich man's table. Even the dogs came and licked his sores."
+}

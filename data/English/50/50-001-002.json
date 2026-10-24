@@ -1,0 +1,37 @@
+{
+  "id": "50-001-002",
+  "language": "en",
+  "book_no": 50,
+  "book": "Philippians",
+  "chapter": 1,
+  "verse_reference": "Philippians 1:1",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "In which city did the believers who received this letter live?",
+  "options": [
+    "Philippi",
+    "Ephesus",
+    "Corinth",
+    "Thessalonica"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Philippi",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote to God's holy people in Philippi, together with the overseers and deacons."
+}

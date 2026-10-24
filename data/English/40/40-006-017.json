@@ -1,0 +1,33 @@
+{
+  "id": "40-006-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 6,
+  "verse_reference": "Matthew 6:26",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Jesus said our heavenly Father feeds which creatures, even though they do not sow or reap?",
+  "options": [
+    "The birds of the air",
+    "The fish of the sea",
+    "The lions",
+    "The sheep"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Creation",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 6:26 says the birds do not sow or reap, yet your heavenly Father feeds them."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "45-003-001",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 3,
+  "verse_reference": "Romans 3:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Paul, what had the Jews been entrusted with?",
+  "options": [
+    "The keys of the kingdom",
+    "The gold of the temple",
+    "The very words of God",
+    "The armies of Israel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Covenant"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says the Jews had the great advantage of being entrusted with the very words of God."
+}

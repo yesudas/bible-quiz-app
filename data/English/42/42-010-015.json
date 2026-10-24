@@ -1,0 +1,38 @@
+{
+  "id": "42-010-015",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:31-32",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which two men passed by on the other side and did not help the wounded man?",
+  "options": [
+    "A Pharisee and a scribe",
+    "A soldier and a tax collector",
+    "A priest and a Levite",
+    "A merchant and a farmer"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Road from Jerusalem to Jericho",
+      "type": "road"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A priest happened to be going down the same road and passed by on the other side, and so too did a Levite."
+}

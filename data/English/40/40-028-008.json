@@ -1,0 +1,38 @@
+{
+  "id": "40-028-008",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 28,
+  "verse_reference": "Matthew 28:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the women feel as they hurried away from the tomb?",
+  "options": [
+    "Sad and confused",
+    "Angry and bitter",
+    "Afraid yet filled with joy",
+    "Calm and quiet"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [
+    "Mary Magdalene",
+    "Mary"
+  ],
+  "places": [
+    {
+      "name": "Jesus' tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 28:8 says the women hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples."
+}

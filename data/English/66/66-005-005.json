@@ -1,0 +1,38 @@
+{
+  "id": "66-005-005",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 5,
+  "verse_reference": "Revelation 5:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"See, the Lion of the tribe of Judah, the ____ of David, has triumphed.\"",
+  "options": [
+    "Son",
+    "Root",
+    "King",
+    "Branch"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elder called Jesus the Lion of the tribe of Judah and the Root of David."
+}

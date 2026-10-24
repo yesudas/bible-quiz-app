@@ -1,0 +1,39 @@
+{
+  "id": "41-010-023",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 10,
+  "verse_reference": "Mark 10:47-48",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete what Bartimaeus shouted: \"Jesus, Son of ____, have mercy on me!\"",
+  "options": [
+    "God",
+    "Joseph",
+    "David",
+    "Abraham"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Faith"
+  ],
+  "characters": [
+    "Bartimaeus",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When he heard it was Jesus of Nazareth, he began to shout, \"Jesus, Son of David, have mercy on me!\""
+}

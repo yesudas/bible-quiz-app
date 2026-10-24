@@ -1,0 +1,34 @@
+{
+  "id": "42-023-002",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 23,
+  "verse_reference": "Luke 23:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Pilate asked Jesus, 'Are you the king of the ____?'",
+  "options": [
+    "world",
+    "Romans",
+    "Jews",
+    "Galileans"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Pontius Pilate",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pilate asked Jesus, 'Are you the king of the Jews?' 'You have said so,' Jesus replied."
+}

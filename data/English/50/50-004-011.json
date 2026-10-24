@@ -1,0 +1,31 @@
+{
+  "id": "50-004-011",
+  "language": "en",
+  "book_no": 50,
+  "book": "Philippians",
+  "chapter": 4,
+  "verse_reference": "Philippians 4:22",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Paul sent greetings especially from God's people who belonged to whose household?",
+  "options": [
+    "Herod's household",
+    "Pilate's household",
+    "Caesar's household",
+    "Felix's household"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul sent greetings especially from those who belong to Caesar's household."
+}

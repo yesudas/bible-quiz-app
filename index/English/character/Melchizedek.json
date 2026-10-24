@@ -3,11 +3,19 @@
     "language": "English",
     "character": "Melchizedek",
     "label": "Melchizedek",
-    "count": 3,
+    "count": 11,
     "paths": [
         "English/01/01-014-003.json",
         "English/01/01-014-004.json",
-        "English/19/19-110-005.json"
+        "English/19/19-110-005.json",
+        "English/58/58-005-006.json",
+        "English/58/58-007-001.json",
+        "English/58/58-007-002.json",
+        "English/58/58-007-003.json",
+        "English/58/58-007-004.json",
+        "English/58/58-007-005.json",
+        "English/58/58-007-007.json",
+        "English/58/58-007-008.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

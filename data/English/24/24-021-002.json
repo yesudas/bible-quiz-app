@@ -1,0 +1,35 @@
+{
+  "id": "24-021-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 21,
+  "verse_reference": "Jeremiah 21:1",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two men did King Zedekiah send to Jeremiah?",
+  "options": [
+    "Pashhur son of Malkijah and the priest Zephaniah son of Maaseiah",
+    "Pashhur son of Immer and Hananiah",
+    "Baruch and Seraiah",
+    "Hilkiah and Shaphan"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Prophecy"
+  ],
+  "characters": [
+    "Zedekiah",
+    "Pashhur",
+    "Zephaniah",
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zedekiah sent Pashhur son of Malkijah and the priest Zephaniah son of Maaseiah to Jeremiah."
+}

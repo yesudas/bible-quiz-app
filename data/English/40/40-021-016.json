@@ -1,0 +1,37 @@
+{
+  "id": "40-021-016",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 21,
+  "verse_reference": "Matthew 21:27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the leaders answer Jesus' question about John's baptism?",
+  "options": [
+    "\"From heaven.\"",
+    "\"Of human origin.\"",
+    "\"From Moses.\"",
+    "\"We don't know.\""
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus",
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 21:27 says they answered, \"We don't know.\" Then he said, \"Neither will I tell you by what authority I am doing these things.\""
+}

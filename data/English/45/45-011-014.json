@@ -1,0 +1,31 @@
+{
+  "id": "45-011-014",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 11,
+  "verse_reference": "Romans 11:33",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Oh, the depth of the riches of the wisdom and ______ of God!\"",
+  "options": [
+    "power",
+    "knowledge",
+    "glory",
+    "mercy"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul bursts into praise at the depth of the riches of God's wisdom and knowledge."
+}

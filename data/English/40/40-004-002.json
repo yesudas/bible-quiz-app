@@ -1,0 +1,38 @@
+{
+  "id": "40-004-002",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 4,
+  "verse_reference": "Matthew 4:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "For how long did Jesus fast in the wilderness?",
+  "options": [
+    "Seven days and seven nights",
+    "Forty days and forty nights",
+    "Three days and three nights",
+    "Twelve days"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Temptation",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 4:2 says Jesus fasted forty days and forty nights and was hungry."
+}

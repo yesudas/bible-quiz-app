@@ -1,0 +1,35 @@
+{
+  "id": "47-002-009",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 2,
+  "verse_reference": "2 Corinthians 2:14-15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"For we are to God the pleasing ______ of Christ among those who are being saved and those who are perishing.\"",
+  "options": [
+    "light",
+    "aroma",
+    "word",
+    "image"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Jesus",
+    "Evangelism"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said believers are to God the pleasing aroma of Christ, spreading the knowledge of Him everywhere."
+}

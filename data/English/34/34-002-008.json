@@ -1,0 +1,38 @@
+{
+  "id": "34-002-008",
+  "language": "en",
+  "book_no": 34,
+  "book": "Nahum",
+  "chapter": 2,
+  "verse_reference": "Nahum 2:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the LORD Almighty declare to Nineveh in Nahum 2:13?",
+  "options": [
+    "\"I will forgive you\"",
+    "\"I am against you\"",
+    "\"I will protect you\"",
+    "\"I will make you great\""
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "God"
+  ],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Nahum 2:13 the LORD Almighty declares, \"I am against you,\" and promises to burn Nineveh's chariots."
+}

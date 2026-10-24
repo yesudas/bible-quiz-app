@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Ahaz",
     "label": "Ahaz",
-    "count": 32,
+    "count": 33,
     "paths": [
         "English/12/12-016-001.json",
         "English/12/12-016-002.json",
@@ -36,7 +36,8 @@
         "English/23/23-007-006.json",
         "English/23/23-007-007.json",
         "English/23/23-014-010.json",
-        "English/23/23-038-005.json"
+        "English/23/23-038-005.json",
+        "English/33/33-001-003.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

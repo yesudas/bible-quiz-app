@@ -1,0 +1,39 @@
+{
+  "id": "37-002-009",
+  "language": "en",
+  "book_no": 37,
+  "book": "Haggai",
+  "chapter": 2,
+  "verse_reference": "Haggai 2:20-21",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "To whom was Haggai's last message in this book given?",
+  "options": [
+    "Joshua the high priest",
+    "Darius the king",
+    "The priests",
+    "Zerubbabel, governor of Judah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Zerubbabel",
+    "Haggai"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Haggai's second message on the twenty-fourth day was for Zerubbabel, governor of Judah."
+}

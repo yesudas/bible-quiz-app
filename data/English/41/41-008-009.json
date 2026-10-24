@@ -1,0 +1,38 @@
+{
+  "id": "41-008-009",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 8,
+  "verse_reference": "Mark 8:16-21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When the disciples worried about having no bread, what did Jesus remind them of?",
+  "options": [
+    "The manna in the wilderness",
+    "The bread in the temple",
+    "Elijah and the widow's flour",
+    "The basketfuls left over when he fed the five thousand and the four thousand"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Discipleship",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked how many basketfuls they picked up after both feedings and said, \"Do you still not understand?\""
+}

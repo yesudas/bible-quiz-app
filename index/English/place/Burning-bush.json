@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Burning-bush",
+    "label": "Burning bush",
+    "count": 2,
+    "paths": [
+        "English/41/41-012-015.json",
+        "English/42/42-020-017.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

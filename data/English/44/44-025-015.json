@@ -1,0 +1,41 @@
+{
+  "id": "44-025-015",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 25,
+  "verse_reference": "Acts 25:23",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Agrippa and Bernice come into the audience room?",
+  "options": [
+    "In disguise",
+    "Quietly at night",
+    "With great pomp",
+    "In chains"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Agrippa",
+    "Bernice"
+  ],
+  "places": [
+    {
+      "name": "Caesarea",
+      "type": "city"
+    },
+    {
+      "name": "Audience room",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The next day Agrippa and Bernice came with great pomp and entered the audience room with high-ranking military officers and leading men."
+}

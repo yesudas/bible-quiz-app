@@ -1,0 +1,32 @@
+{
+  "id": "51-002-002",
+  "language": "en",
+  "book_no": 51,
+  "book": "Colossians",
+  "chapter": 2,
+  "verse_reference": "Colossians 2:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Colossians 2, what is hidden in Christ?",
+  "options": [
+    "The names of all the angels",
+    "The date of the end of the world",
+    "All the treasures of wisdom and knowledge",
+    "The tablets of the law"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that in Christ are hidden all the treasures of wisdom and knowledge."
+}

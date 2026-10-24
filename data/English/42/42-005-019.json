@@ -1,0 +1,38 @@
+{
+  "id": "42-005-019",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:27",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which tax collector was sitting at his tax booth when Jesus said, 'Follow me'?",
+  "options": [
+    "Zacchaeus",
+    "Simon",
+    "Levi",
+    "Bartholomew"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Levi",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Tax booth",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus saw a tax collector by the name of Levi sitting at his tax booth and said, 'Follow me.'"
+}

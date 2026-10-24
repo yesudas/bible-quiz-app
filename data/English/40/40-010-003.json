@@ -1,0 +1,32 @@
+{
+  "id": "40-010-003",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 10,
+  "verse_reference": "Matthew 10:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which apostle is called \"the tax collector\" in the list of the Twelve?",
+  "options": [
+    "Thomas",
+    "Bartholomew",
+    "Thaddaeus",
+    "Matthew"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Matthew"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 10:3 lists \"Thomas and Matthew the tax collector.\""
+}

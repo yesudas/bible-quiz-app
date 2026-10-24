@@ -1,0 +1,29 @@
+{
+  "id": "45-008-016",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 8,
+  "verse_reference": "Romans 8:30",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "What is the order Paul gives in Romans 8:30?",
+  "options": [
+    "Called, glorified, justified, predestined",
+    "Predestined, called, justified, glorified",
+    "Justified, predestined, glorified, called",
+    "Glorified, called, predestined, justified"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul writes that those God predestined, He also called; those He called, He also justified; those He justified, He also glorified."
+}

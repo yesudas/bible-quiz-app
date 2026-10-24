@@ -1,0 +1,37 @@
+{
+  "id": "26-008-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 8,
+  "verse_reference": "Ezekiel 8:7-8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God tell Ezekiel to do when he saw a hole in the wall?",
+  "options": [
+    "Look through it",
+    "Close it with stones",
+    "Call the priests",
+    "Dig into the wall"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Prophecy"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Ezekiel to dig into the wall, and when he did, he saw a doorway."
+}

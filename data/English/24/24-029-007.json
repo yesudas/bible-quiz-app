@@ -1,0 +1,31 @@
+{
+  "id": "24-029-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 29,
+  "verse_reference": "Jeremiah 29:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"For I know the plans I have for you… plans to prosper you and not to harm you, plans to give you hope and a ____.\"",
+  "options": [
+    "home",
+    "kingdom",
+    "future",
+    "reward"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah 29:11 says God's plans are to prosper them and not to harm them, to give them hope and a future."
+}

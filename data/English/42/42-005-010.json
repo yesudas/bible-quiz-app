@@ -1,0 +1,33 @@
+{
+  "id": "42-005-010",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the leper's words: 'Lord, if you are ____, you can make me clean.'",
+  "options": [
+    "able",
+    "willing",
+    "here",
+    "near"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A man covered with leprosy fell with his face to the ground and begged, 'Lord, if you are willing, you can make me clean.'"
+}

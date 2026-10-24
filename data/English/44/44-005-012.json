@@ -1,0 +1,36 @@
+{
+  "id": "44-005-012",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 5,
+  "verse_reference": "Acts 5:20-21",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the angel tell the apostles to go and speak?",
+  "options": [
+    "The marketplace",
+    "The temple courts",
+    "Galilee",
+    "Bethany"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels",
+    "Evangelism"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel said to go, stand in the temple courts and tell the people all about this new life."
+}

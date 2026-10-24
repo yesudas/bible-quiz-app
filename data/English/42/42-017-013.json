@@ -1,0 +1,38 @@
+{
+  "id": "42-017-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 17,
+  "verse_reference": "Luke 17:16",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was the one man who came back to thank Jesus?",
+  "options": [
+    "A priest",
+    "A Samaritan",
+    "A Roman",
+    "A Pharisee"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Gratitude",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man who threw himself at Jesus' feet and thanked him was a Samaritan."
+}

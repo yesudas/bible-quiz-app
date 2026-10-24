@@ -1,0 +1,36 @@
+{
+  "id": "42-020-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 20,
+  "verse_reference": "Luke 20:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why were the leaders afraid to say John's baptism was of human origin?",
+  "options": [
+    "The Romans would arrest them",
+    "Their families would leave them",
+    "They would lose their money",
+    "All the people would stone them, because they believed John was a prophet"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Fear"
+  ],
+  "characters": [
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They said, 'If we say, Of human origin, all the people will stone us, because they are persuaded that John was a prophet.'"
+}

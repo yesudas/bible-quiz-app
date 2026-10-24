@@ -1,0 +1,36 @@
+{
+  "id": "42-020-001",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 20,
+  "verse_reference": "Luke 20:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the chief priests, teachers of the law and elders ask Jesus in the temple courts?",
+  "options": [
+    "'Where were you born?'",
+    "'By what authority are you doing these things?'",
+    "'Why do you heal on the Sabbath?'",
+    "'Who are your disciples?'"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They asked, 'Tell us by what authority you are doing these things. Who gave you this authority?'"
+}

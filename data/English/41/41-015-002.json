@@ -1,0 +1,38 @@
+{
+  "id": "41-015-002",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 15,
+  "verse_reference": "Mark 15:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Pilate ask Jesus first?",
+  "options": [
+    "Are you the king of the Jews?",
+    "Where are your disciples?",
+    "Are you a prophet?",
+    "Why did you enter the temple?"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Pontius Pilate"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pilate asked, \"Are you the king of the Jews?\" \"You have said so,\" Jesus replied."
+}

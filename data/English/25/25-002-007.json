@@ -1,0 +1,34 @@
+{
+  "id": "25-002-007",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 2,
+  "verse_reference": "Lamentations 2:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did people passing by say Jerusalem was once called?",
+  "options": [
+    "The city of palms",
+    "The house of bread",
+    "The city of refuge",
+    "The perfection of beauty and the joy of the whole earth"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Those passing by scoffed, asking if this was the city called the perfection of beauty, the joy of the whole earth."
+}

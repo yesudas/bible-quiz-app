@@ -1,0 +1,32 @@
+{
+  "id": "26-002-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 2,
+  "verse_reference": "Ezekiel 2:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Whether the people listened or not, what did God say they would know?",
+  "options": [
+    "That the exile was over",
+    "That the temple would be rebuilt",
+    "That God had forgiven them",
+    "That a prophet had been among them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Mission"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said that whether they listened or failed to listen, they would know a prophet had been among them."
+}

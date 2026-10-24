@@ -1,0 +1,39 @@
+{
+  "id": "24-005-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 5,
+  "verse_reference": "Jeremiah 5:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What lie had the people told about the LORD?",
+  "options": [
+    "\"He will do nothing!\"",
+    "\"He lives only in the temple.\"",
+    "\"He loves only our enemies.\"",
+    "\"He has gone to sleep.\""
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They lied about the LORD and said, \"He will do nothing! No harm will come to us.\""
+}

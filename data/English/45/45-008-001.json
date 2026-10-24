@@ -1,0 +1,33 @@
+{
+  "id": "45-008-001",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 8,
+  "verse_reference": "Romans 8:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Therefore, there is now no ______ for those who are in Christ Jesus.\"",
+  "options": [
+    "sorrow",
+    "hunger",
+    "condemnation",
+    "fear"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Romans 8:1 says there is now no condemnation for those who are in Christ Jesus."
+}

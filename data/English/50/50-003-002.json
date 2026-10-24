@@ -1,0 +1,32 @@
+{
+  "id": "50-003-002",
+  "language": "en",
+  "book_no": 50,
+  "book": "Philippians",
+  "chapter": 3,
+  "verse_reference": "Philippians 3:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "On which day of his life did Paul say he was circumcised?",
+  "options": [
+    "the first day",
+    "the third day",
+    "the eighth day",
+    "the fortieth day"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Covenant"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said he was circumcised on the eighth day, as the law required."
+}

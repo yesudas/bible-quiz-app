@@ -1,0 +1,39 @@
+{
+  "id": "43-012-003",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 12,
+  "verse_reference": "John 12:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Mary pour on Jesus' feet at Bethany?",
+  "options": [
+    "Olive oil",
+    "Water",
+    "About a pint of pure nard, an expensive perfume",
+    "Wine"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Love"
+  ],
+  "characters": [
+    "Mary of Bethany",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Bethany",
+      "type": "village"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 12:3 says Mary took about a pint of pure nard, an expensive perfume, poured it on Jesus' feet and wiped his feet with her hair."
+}

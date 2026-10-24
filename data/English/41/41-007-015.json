@@ -1,0 +1,36 @@
+{
+  "id": "41-007-015",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 7,
+  "verse_reference": "Mark 7:33",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "After taking the deaf man aside, what did Jesus do?",
+  "options": [
+    "Washed him in the lake",
+    "Laid him on a mat",
+    "Put his fingers into the man's ears, then spat and touched his tongue",
+    "Asked the man to pray"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Decapolis",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus took him aside, put his fingers into the man's ears, then spit and touched the man's tongue."
+}

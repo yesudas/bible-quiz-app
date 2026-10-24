@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Thebes",
+    "label": "Thebes",
+    "count": 4,
+    "paths": [
+        "English/24/24-046-008.json",
+        "English/34/34-003-003.json",
+        "English/34/34-003-004.json",
+        "English/34/34-003-005.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

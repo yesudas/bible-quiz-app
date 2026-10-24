@@ -1,0 +1,37 @@
+{
+  "id": "44-013-011",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 13,
+  "verse_reference": "Acts 13:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did the proconsul do when he saw what happened to Elymas?",
+  "options": [
+    "He arrested Paul",
+    "He sent the apostles away",
+    "He became angry",
+    "He believed, amazed at the teaching about the Lord"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Evangelism"
+  ],
+  "characters": [
+    "Sergius Paulus"
+  ],
+  "places": [
+    {
+      "name": "Paphos",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the proconsul saw what had happened, he believed, for he was amazed at the teaching about the Lord."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "38-014-006",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 14,
+  "verse_reference": "Zechariah 14:8",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Into which two seas will the living water from Jerusalem flow?",
+  "options": [
+    "The Red Sea and the Dead Sea",
+    "The Sea of Galilee and the Red Sea",
+    "The Mediterranean Sea and the Red Sea",
+    "The Dead Sea and the Mediterranean Sea"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Dead Sea",
+      "type": "sea"
+    },
+    {
+      "name": "Mediterranean Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Half of the water will flow east to the Dead Sea and half west to the Mediterranean Sea."
+}

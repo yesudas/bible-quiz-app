@@ -1,0 +1,33 @@
+{
+  "id": "40-027-012",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 27,
+  "verse_reference": "Matthew 27:24",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Pilate do in front of the crowd to show he was innocent of Jesus' blood?",
+  "options": [
+    "Tore his robe",
+    "Washed his hands with water",
+    "Threw down his staff",
+    "Wrote a letter"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus",
+    "Pilate"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 27:24 says he took water and washed his hands in front of the crowd. \"I am innocent of this man's blood,\" he said. \"It is your responsibility!\""
+}

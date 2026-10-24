@@ -1,0 +1,37 @@
+{
+  "id": "48-001-005",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 1,
+  "verse_reference": "Galatians 1:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Paul astonished about?",
+  "options": [
+    "The Galatians were being persecuted",
+    "The Galatians had stopped meeting together",
+    "The Galatians were quickly turning to a different gospel",
+    "The Galatians had refused to send money"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Galatia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul was astonished that the Galatians were so quickly deserting the one who called them and turning to a different gospel."
+}

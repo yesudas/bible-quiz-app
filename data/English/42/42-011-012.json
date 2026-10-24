@@ -1,0 +1,32 @@
+{
+  "id": "42-011-012",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Jesus' words: 'But if I drive out demons by the ____ of God, then the kingdom of God has come upon you.'",
+  "options": [
+    "hand",
+    "power",
+    "name",
+    "finger"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Kingdom of God",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'If I drive out demons by the finger of God, then the kingdom of God has come upon you.'"
+}

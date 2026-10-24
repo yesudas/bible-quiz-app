@@ -1,0 +1,38 @@
+{
+  "id": "41-014-020",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 14,
+  "verse_reference": "Mark 14:44-45",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What signal did Judas use to show the crowd which man was Jesus?",
+  "options": [
+    "A handshake",
+    "Pointing his finger",
+    "A kiss",
+    "Calling his name loudly"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Judas Iscariot",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Gethsemane",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Judas had arranged a signal: \"The one I kiss is the man.\" He went to Jesus, said \"Rabbi!\" and kissed him."
+}

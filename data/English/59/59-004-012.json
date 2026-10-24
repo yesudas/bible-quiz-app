@@ -1,0 +1,30 @@
+{
+  "id": "59-004-012",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 4,
+  "verse_reference": "James 4:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to James, when is it sin for someone not to act?",
+  "options": [
+    "When others are watching",
+    "When it is the Sabbath",
+    "When they are told by a leader",
+    "When they know the good they ought to do and don't do it"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "If anyone knows the good they ought to do and doesn't do it, it is sin for them."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "28-012-009",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 12,
+  "verse_reference": "Hosea 12:12",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "To which country did Jacob flee?",
+  "options": [
+    "Aram",
+    "Egypt",
+    "Moab",
+    "Edom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Marriage"
+  ],
+  "characters": [
+    "Jacob"
+  ],
+  "places": [
+    {
+      "name": "Aram",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jacob fled to the country of Aram; Israel served to get a wife, and to pay for her he tended sheep."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "42-023-012",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 23,
+  "verse_reference": "Luke 23:33",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "What was the name of the place where Jesus was crucified?",
+  "options": [
+    "The Skull",
+    "Bethany",
+    "Gethsemane",
+    "The Valley of Kidron"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "The Skull",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they came to the place called the Skull, they crucified him there, along with the criminals."
+}

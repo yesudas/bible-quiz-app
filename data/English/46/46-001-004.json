@@ -1,0 +1,38 @@
+{
+  "id": "46-001-004",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 1,
+  "verse_reference": "1 Corinthians 1:11",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "From whose household did Paul hear about quarrels in the Corinthian church?",
+  "options": [
+    "Lydia's",
+    "Stephanas's",
+    "Crispus's",
+    "Chloe's"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Church",
+    "Sin"
+  ],
+  "characters": [
+    "Paul",
+    "Chloe"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some from Chloe's household told Paul that there were quarrels among the believers."
+}

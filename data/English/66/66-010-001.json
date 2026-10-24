@@ -1,0 +1,31 @@
+{
+  "id": "66-010-001",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 10,
+  "verse_reference": "Revelation 10:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was above the head of the mighty angel who came down from heaven?",
+  "options": [
+    "A crown of stars",
+    "A rainbow",
+    "A flame of fire",
+    "A golden halo"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The mighty angel was robed in a cloud, with a rainbow above his head. His face was like the sun, and his legs were like fiery pillars."
+}

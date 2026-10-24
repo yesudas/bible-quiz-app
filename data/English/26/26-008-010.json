@@ -1,0 +1,35 @@
+{
+  "id": "26-008-010",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 8,
+  "verse_reference": "Ezekiel 8:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were the twenty-five men between the portico and the altar doing?",
+  "options": [
+    "Offering sacrifices to the LORD",
+    "Bowing down to the sun in the east",
+    "Praying for the city",
+    "Singing psalms"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "About twenty-five men had their backs toward the temple and their faces toward the east, bowing down to the sun."
+}

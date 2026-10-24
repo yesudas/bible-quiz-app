@@ -1,0 +1,33 @@
+{
+  "id": "60-002-013",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 2,
+  "verse_reference": "1 Peter 2:25",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Peter says believers were like sheep going astray, but have returned to whom?",
+  "options": [
+    "Moses, the lawgiver",
+    "The Shepherd and Overseer of their souls",
+    "The elders of Jerusalem",
+    "The prophets of old"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Believers were like sheep going astray, but now have returned to the Shepherd and Overseer of their souls."
+}

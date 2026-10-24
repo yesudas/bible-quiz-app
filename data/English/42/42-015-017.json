@@ -1,0 +1,38 @@
+{
+  "id": "42-015-017",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 15,
+  "verse_reference": "Luke 15:23",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What animal did the father tell them to kill for the celebration?",
+  "options": [
+    "A lamb",
+    "The fattened calf",
+    "A goat",
+    "A young bull"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Joy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Father's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The father said, 'Bring the fattened calf and kill it. Let's have a feast and celebrate.'"
+}

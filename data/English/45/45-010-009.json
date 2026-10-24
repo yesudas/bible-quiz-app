@@ -1,0 +1,31 @@
+{
+  "id": "45-010-009",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 10,
+  "verse_reference": "Romans 10:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"How beautiful are the ______ of those who bring good news!\"",
+  "options": [
+    "voices",
+    "feet",
+    "hands",
+    "faces"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Evangelism",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quotes Scripture: \"How beautiful are the feet of those who bring good news!\""
+}

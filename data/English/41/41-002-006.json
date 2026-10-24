@@ -1,0 +1,38 @@
+{
+  "id": "41-002-006",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 2,
+  "verse_reference": "Mark 2:10-12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jesus heal the paralyzed man in front of the teachers of the law?",
+  "options": [
+    "To prove the man had faith",
+    "To show the roof could be fixed",
+    "So the man could go to the temple",
+    "So they would know the Son of Man has authority on earth to forgive sins"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Forgiveness",
+    "Miracles",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "House in Capernaum",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus healed the man so they would know that the Son of Man has authority on earth to forgive sins."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "24-031-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 31,
+  "verse_reference": "Jeremiah 31:15",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who was weeping for her children and refusing to be comforted?",
+  "options": [
+    "Leah",
+    "Sarah",
+    "Hannah",
+    "Rachel"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Family"
+  ],
+  "characters": [
+    "Rachel"
+  ],
+  "places": [
+    {
+      "name": "Ramah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Rachel was weeping for her children and refusing to be comforted, because they were no more."
+}

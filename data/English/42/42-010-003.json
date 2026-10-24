@@ -1,0 +1,33 @@
+{
+  "id": "42-010-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Jesus said he was sending the seventy-two out like what?",
+  "options": [
+    "Sheep with a shepherd",
+    "Lambs among wolves",
+    "Birds in the air",
+    "Soldiers into battle"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mission",
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Go! I am sending you out like lambs among wolves.'"
+}

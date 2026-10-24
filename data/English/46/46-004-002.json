@@ -1,0 +1,31 @@
+{
+  "id": "46-004-002",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 4,
+  "verse_reference": "1 Corinthians 4:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Now it is required that those who have been given a trust must prove ______.\"",
+  "options": [
+    "wise",
+    "strong",
+    "faithful",
+    "rich"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Those trusted with God's work must be faithful."
+}

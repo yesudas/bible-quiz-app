@@ -1,0 +1,32 @@
+{
+  "id": "46-016-008",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 16,
+  "verse_reference": "1 Corinthians 16:12",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which brother did Paul strongly urge to visit Corinth, though he was not willing to go yet?",
+  "options": [
+    "Apollos",
+    "Barnabas",
+    "Aquila",
+    "Stephanas"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Paul",
+    "Apollos"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul strongly urged Apollos to go, but he was quite unwilling to go just then; he would go when he had the opportunity."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "27-007-005",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 7,
+  "verse_reference": "Daniel 7:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "The third beast looked like a leopard. How many heads did it have?",
+  "options": [
+    "Seven",
+    "Four",
+    "Ten",
+    "Two"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The third beast looked like a leopard with four wings like a bird and four heads, and it was given authority to rule."
+}

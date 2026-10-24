@@ -1,0 +1,33 @@
+{
+  "id": "62-005-013",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 5,
+  "verse_reference": "1 John 5:21",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"Dear children, keep yourselves from ______.\"",
+  "options": [
+    "idols",
+    "friends",
+    "work",
+    "travel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John ends his letter by warning, \"Dear children, keep yourselves from idols.\""
+}

@@ -1,0 +1,34 @@
+{
+  "id": "24-010-012",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 10,
+  "verse_reference": "Jeremiah 10:23",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jeremiah's prayer: \"LORD, I know that people's lives are not their own; it is not for them to direct their ____.\"",
+  "options": [
+    "hearts",
+    "paths",
+    "steps",
+    "ways"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Faith",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah prayed that people's lives are not their own, and it is not for them to direct their steps."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "45-004-011",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 4,
+  "verse_reference": "Romans 4:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"I have made you a father of many ______.\"",
+  "options": [
+    "children",
+    "nations",
+    "kings",
+    "tribes"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quotes God's promise that Abraham would be the father of many nations."
+}

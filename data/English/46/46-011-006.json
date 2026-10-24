@@ -1,0 +1,33 @@
+{
+  "id": "46-011-006",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 11,
+  "verse_reference": "1 Corinthians 11:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' words: \"This is my body, which is for you; do this in ______ of me.\"",
+  "options": [
+    "honor",
+    "remembrance",
+    "praise",
+    "memory"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told his followers to take the bread in remembrance of him."
+}

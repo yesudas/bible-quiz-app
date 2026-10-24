@@ -1,0 +1,38 @@
+{
+  "id": "26-035-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 35,
+  "verse_reference": "Ezekiel 35:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Edom say about Israel and Judah, even though the LORD was there?",
+  "options": [
+    "\"Let us make peace with them.\"",
+    "\"Let us worship their God.\"",
+    "\"These two nations and countries will be ours.\"",
+    "\"Let us leave them alone.\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    },
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Edom said, 'These two nations and countries will be ours and we will take possession of them,' even though the LORD was there."
+}

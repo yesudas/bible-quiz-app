@@ -1,0 +1,37 @@
+{
+  "id": "41-014-008",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 14,
+  "verse_reference": "Mark 14:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What sign did Jesus give the two disciples to find the place for the Passover?",
+  "options": [
+    "A woman at a well",
+    "A star over a house",
+    "A boy with a lamb",
+    "A man carrying a jar of water"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told them, \"Go into the city, and a man carrying a jar of water will meet you. Follow him.\""
+}

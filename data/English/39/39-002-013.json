@@ -1,0 +1,30 @@
+{
+  "id": "39-002-013",
+  "language": "en",
+  "book_no": 39,
+  "book": "Malachi",
+  "chapter": 2,
+  "verse_reference": "Malachi 2:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the people's question: \"Where is the God of ______?\"",
+  "options": [
+    "mercy",
+    "peace",
+    "justice",
+    "Israel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people asked, \"Where is the God of justice?\" as though God did not care about evil."
+}

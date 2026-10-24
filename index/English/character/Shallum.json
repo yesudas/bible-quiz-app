@@ -3,12 +3,14 @@
     "language": "English",
     "character": "Shallum",
     "label": "Shallum",
-    "count": 4,
+    "count": 6,
     "paths": [
         "English/12/12-015-006.json",
         "English/12/12-015-007.json",
         "English/13/13-009-009.json",
-        "English/16/16-003-005.json"
+        "English/16/16-003-005.json",
+        "English/24/24-022-003.json",
+        "English/24/24-032-003.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

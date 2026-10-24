@@ -1,0 +1,29 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Pontius-Pilate",
+    "label": "Pontius Pilate",
+    "count": 19,
+    "paths": [
+        "English/41/41-015-001.json",
+        "English/41/41-015-002.json",
+        "English/41/41-015-003.json",
+        "English/41/41-015-004.json",
+        "English/41/41-015-005.json",
+        "English/41/41-015-007.json",
+        "English/41/41-015-008.json",
+        "English/41/41-015-026.json",
+        "English/41/41-015-027.json",
+        "English/42/42-003-002.json",
+        "English/42/42-013-001.json",
+        "English/42/42-023-001.json",
+        "English/42/42-023-002.json",
+        "English/42/42-023-003.json",
+        "English/42/42-023-004.json",
+        "English/42/42-023-007.json",
+        "English/42/42-023-008.json",
+        "English/42/42-023-022.json",
+        "English/54/54-006-008.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

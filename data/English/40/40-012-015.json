@@ -1,0 +1,31 @@
+{
+  "id": "40-012-015",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 12,
+  "verse_reference": "Matthew 12:30",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"Whoever is not with me is ______ me.\"",
+  "options": [
+    "behind",
+    "near",
+    "against",
+    "for"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 12:30 says, \"Whoever is not with me is against me.\""
+}

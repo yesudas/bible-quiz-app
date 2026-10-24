@@ -1,0 +1,39 @@
+{
+  "id": "47-001-009",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 1,
+  "verse_reference": "2 Corinthians 1:19",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who preached the Son of God among the Corinthians together with Paul and Timothy?",
+  "options": [
+    "Apollos",
+    "Peter",
+    "Titus",
+    "Silas"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Evangelism"
+  ],
+  "characters": [
+    "Paul",
+    "Timothy",
+    "Silas"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said Jesus Christ was preached among them by himself, Silas and Timothy."
+}

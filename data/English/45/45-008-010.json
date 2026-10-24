@@ -1,0 +1,33 @@
+{
+  "id": "45-008-010",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 8,
+  "verse_reference": "Romans 8:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How does Paul compare our present sufferings with the glory that will be revealed?",
+  "options": [
+    "They are equal",
+    "The sufferings are greater",
+    "The glory is smaller",
+    "They are not worth comparing"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Hope"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul considers that our present sufferings are not worth comparing with the glory that will be revealed in us."
+}

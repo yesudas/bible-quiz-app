@@ -1,0 +1,38 @@
+{
+  "id": "26-027-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 27,
+  "verse_reference": "Ezekiel 27:5",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "From where did the cedar come that was used to make the ship's mast?",
+  "options": [
+    "Bashan",
+    "Egypt",
+    "Senir",
+    "Lebanon"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Lebanon",
+      "type": "region"
+    },
+    {
+      "name": "Senir",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Its timbers were made of pine trees from Senir, and they took a cedar from Lebanon to make a mast."
+}

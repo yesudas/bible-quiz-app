@@ -1,0 +1,31 @@
+{
+  "id": "42-012-020",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 12,
+  "verse_reference": "Luke 12:48",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Jesus' words: 'From everyone who has been given much, much will be ____.'",
+  "options": [
+    "given",
+    "demanded",
+    "taken",
+    "added"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'From everyone who has been given much, much will be demanded; and from the one who has been entrusted with much, much more will be asked.'"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "47-011-001",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 11,
+  "verse_reference": "2 Corinthians 11:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Paul said he promised the Corinthians to one husband. Who was that husband?",
+  "options": [
+    "Paul himself",
+    "Christ",
+    "Abraham",
+    "Moses"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Jesus",
+    "Marriage"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said he promised them to one husband, to Christ, so that he might present them as a pure virgin to Him."
+}

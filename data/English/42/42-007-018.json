@@ -1,0 +1,40 @@
+{
+  "id": "42-007-018",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 7,
+  "verse_reference": "Luke 7:42-43",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In Jesus' story, which person would love the moneylender more?",
+  "options": [
+    "The one who had the bigger debt forgiven",
+    "The one who had the smaller debt",
+    "Neither of them",
+    "The one who paid first"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Forgiveness",
+    "Love"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon the Pharisee"
+  ],
+  "places": [
+    {
+      "name": "Pharisee's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Simon answered that it would be the one who had the bigger debt forgiven, and Jesus said he had judged correctly."
+}

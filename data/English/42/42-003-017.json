@@ -1,0 +1,39 @@
+{
+  "id": "42-003-017",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 3,
+  "verse_reference": "Luke 3:19-20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Herod the tetrarch lock John up in prison?",
+  "options": [
+    "John refused to pay taxes",
+    "John had rebuked him over Herodias and his other evil deeds",
+    "John spoke against Caesar",
+    "John healed on the Sabbath"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Persecution"
+  ],
+  "characters": [
+    "Herod",
+    "Herodias",
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Prison",
+      "type": "prison"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John rebuked Herod because of Herodias, his brother's wife, and all his other evil deeds, so Herod locked John up in prison."
+}

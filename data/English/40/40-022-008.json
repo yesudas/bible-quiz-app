@@ -1,0 +1,31 @@
+{
+  "id": "40-022-008",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 22,
+  "verse_reference": "Matthew 22:16",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "The Pharisees sent their disciples to Jesus along with which other group?",
+  "options": [
+    "The Herodians",
+    "The Sadducees",
+    "The Zealots",
+    "The priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 22:16 says they sent their disciples to him along with the Herodians."
+}

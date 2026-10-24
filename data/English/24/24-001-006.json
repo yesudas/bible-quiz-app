@@ -1,0 +1,33 @@
+{
+  "id": "24-001-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 1,
+  "verse_reference": "Jeremiah 1:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God appoint Jeremiah to be?",
+  "options": [
+    "A priest in the temple",
+    "A king over Judah",
+    "A prophet to the nations",
+    "A judge over Israel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Mission"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"I appointed you as a prophet to the nations.\""
+}

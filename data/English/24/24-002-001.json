@@ -1,0 +1,36 @@
+{
+  "id": "24-002-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 2,
+  "verse_reference": "Jeremiah 2:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "God remembered how Israel followed Him in their youth. How did God describe them?",
+  "options": [
+    "Like a soldier marching to war",
+    "Like a bride who loved Him",
+    "Like a shepherd with his sheep",
+    "Like a child learning to walk"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God remembered the devotion of their youth, how as a bride they loved Him and followed Him through the wilderness."
+}

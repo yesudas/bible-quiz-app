@@ -1,0 +1,33 @@
+{
+  "id": "32-004-007",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 4,
+  "verse_reference": "Jonah 4:6",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the LORD provide to give Jonah shade?",
+  "options": [
+    "A tent",
+    "A leafy plant",
+    "A cave",
+    "A large tree"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mercy",
+    "Provision"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD God provided a leafy plant that grew up over Jonah to give shade for his head."
+}

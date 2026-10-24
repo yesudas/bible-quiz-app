@@ -1,0 +1,33 @@
+{
+  "id": "43-003-008",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 3,
+  "verse_reference": "John 3:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to John 3:17, why did God send his Son into the world?",
+  "options": [
+    "To condemn the world",
+    "To rule over Rome",
+    "To build a new temple",
+    "To save the world through him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 3:17 says God did not send his Son to condemn the world, but to save the world through him."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "42-008-010",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:16",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "According to Jesus, where does someone put a lamp after lighting it?",
+  "options": [
+    "Under a jar",
+    "On a stand",
+    "Under a bed",
+    "In a cupboard"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "No one lights a lamp and hides it in a clay jar or puts it under a bed; they put it on a stand so those who come in can see the light."
+}

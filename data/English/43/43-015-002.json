@@ -1,0 +1,32 @@
+{
+  "id": "43-015-002",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 15,
+  "verse_reference": "John 15:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does the gardener do to every branch that does bear fruit?",
+  "options": [
+    "Cuts it off",
+    "Prunes it so that it will be even more fruitful",
+    "Leaves it alone",
+    "Throws it into the fire"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship",
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 15:2 says the Father cuts off every branch that bears no fruit, while every branch that does bear fruit he prunes so that it will be even more fruitful."
+}

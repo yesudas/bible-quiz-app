@@ -1,0 +1,38 @@
+{
+  "id": "40-013-014",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 13,
+  "verse_reference": "Matthew 13:31-32",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Jesus said the kingdom of heaven is like which seed, the smallest of all seeds?",
+  "options": [
+    "A mustard seed",
+    "A wheat seed",
+    "A fig seed",
+    "A barley seed"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Field",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 13:31-32 says the kingdom of heaven is like a mustard seed, which is the smallest of all seeds, but grows into a tree where birds perch."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "47-010-008",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 10,
+  "verse_reference": "2 Corinthians 10:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Where did Paul hope to preach the gospel after the Corinthians' faith grew?",
+  "options": [
+    "Back in Jerusalem",
+    "Only in Corinth",
+    "In Tarsus, his home town",
+    "In the regions beyond them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Mission",
+    "Evangelism"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul hoped that as their faith grew, his work would expand so that he could preach the gospel in the regions beyond them."
+}

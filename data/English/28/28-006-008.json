@@ -1,0 +1,35 @@
+{
+  "id": "28-006-008",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 6,
+  "verse_reference": "Hosea 6:8",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which place did Hosea call a city of evildoers, stained with footprints of blood?",
+  "options": [
+    "Samaria",
+    "Bethel",
+    "Shechem",
+    "Gilead"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gilead",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said, 'Gilead is a city of evildoers, stained with footprints of blood.'"
+}

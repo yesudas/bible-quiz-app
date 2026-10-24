@@ -1,0 +1,35 @@
+{
+  "id": "28-008-007",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 8,
+  "verse_reference": "Hosea 8:9",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Israel went up to Assyria like what animal wandering alone?",
+  "options": [
+    "A wild donkey",
+    "A lost lamb",
+    "A hungry lion",
+    "A stray dog"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said they had gone up to Assyria like a wild donkey wandering alone."
+}

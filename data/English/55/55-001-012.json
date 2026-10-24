@@ -1,0 +1,39 @@
+{
+  "id": "55-001-012",
+  "language": "en",
+  "book_no": 55,
+  "book": "2 Timothy",
+  "chapter": 1,
+  "verse_reference": "2 Timothy 1:16-17",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who often refreshed Paul and was not ashamed of his chains?",
+  "options": [
+    "Demas",
+    "Onesiphorus",
+    "Philemon",
+    "Silas"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Persecution"
+  ],
+  "characters": [
+    "Paul",
+    "Onesiphorus"
+  ],
+  "places": [
+    {
+      "name": "Rome",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Onesiphorus often refreshed Paul and was not ashamed of his chains."
+}

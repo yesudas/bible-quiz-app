@@ -1,0 +1,44 @@
+{
+  "id": "42-021-012",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 21,
+  "verse_reference": "Luke 21:20-21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus tell people in Judea to do when they saw Jerusalem surrounded by armies?",
+  "options": [
+    "Flee to the mountains",
+    "Go into the city",
+    "Fight the armies",
+    "Stay in the temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Judea",
+      "type": "region"
+    },
+    {
+      "name": "Mountains",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'When you see Jerusalem being surrounded by armies... let those who are in Judea flee to the mountains.'"
+}

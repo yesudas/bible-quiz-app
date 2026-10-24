@@ -1,0 +1,38 @@
+{
+  "id": "58-003-012",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 3,
+  "verse_reference": "Hebrews 3:16",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 3:16, who were the people who heard God and rebelled?",
+  "options": [
+    "Those who returned from Babylon",
+    "Those who lived in Jerusalem",
+    "The disciples of Jesus",
+    "All those Moses led out of Egypt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 3:16 asks who heard and rebelled, and answers that it was all those Moses led out of Egypt."
+}

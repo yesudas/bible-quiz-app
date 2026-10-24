@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Lachish",
     "label": "Lachish",
-    "count": 7,
+    "count": 9,
     "paths": [
         "English/06/06-010-015.json",
         "English/12/12-014-010.json",
@@ -11,7 +11,9 @@
         "English/14/14-011-005.json",
         "English/14/14-025-015.json",
         "English/14/14-032-006.json",
-        "English/23/23-036-003.json"
+        "English/23/23-036-003.json",
+        "English/24/24-034-004.json",
+        "English/33/33-001-011.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

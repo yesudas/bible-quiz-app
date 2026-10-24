@@ -1,0 +1,38 @@
+{
+  "id": "66-003-005",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 3,
+  "verse_reference": "Revelation 3:7",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "In the letter to Philadelphia, Jesus holds a key. Whose key is it?",
+  "options": [
+    "The key of Moses",
+    "The key of David",
+    "The key of Abraham",
+    "The key of Elijah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Philadelphia",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus is described as holy and true, holding the key of David. What he opens no one can shut, and what he shuts no one can open."
+}

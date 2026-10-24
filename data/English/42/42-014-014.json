@@ -1,0 +1,32 @@
+{
+  "id": "42-014-014",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 14,
+  "verse_reference": "Luke 14:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the master say about those who were first invited?",
+  "options": [
+    "They could come later",
+    "They would sit in the best places",
+    "Not one of them would get a taste of his banquet",
+    "They would be forgiven"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The master said, 'Not one of those who were invited will get a taste of my banquet.'"
+}

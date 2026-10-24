@@ -1,0 +1,31 @@
+{
+  "id": "43-015-011",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 15,
+  "verse_reference": "John 15:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Jesus tell his disciples to keep in mind if the world hates them?",
+  "options": [
+    "The world will soon love them",
+    "They should hate the world back",
+    "It hated him first",
+    "They should hide"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 15:18, Jesus said, \"If the world hates you, keep in mind that it hated me first.\""
+}

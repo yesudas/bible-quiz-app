@@ -1,0 +1,39 @@
+{
+  "id": "41-015-008",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 15,
+  "verse_reference": "Mark 15:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Pilate release Barabbas and hand Jesus over to be crucified?",
+  "options": [
+    "He believed Jesus was guilty",
+    "Caesar sent him a letter",
+    "He wanted to satisfy the crowd",
+    "Herod commanded him"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Sin"
+  ],
+  "characters": [
+    "Pontius Pilate",
+    "Jesus",
+    "Barabbas"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Wanting to satisfy the crowd, Pilate released Barabbas to them. He had Jesus flogged, and handed him over to be crucified."
+}

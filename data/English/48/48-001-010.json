@@ -1,0 +1,33 @@
+{
+  "id": "48-001-010",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 1,
+  "verse_reference": "Galatians 1:13",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Paul do to the church of God before he believed?",
+  "options": [
+    "He gave it money",
+    "He persecuted it and tried to destroy it",
+    "He built its first meeting house",
+    "He wrote its songs"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said that in his earlier life he intensely persecuted the church of God and tried to destroy it."
+}

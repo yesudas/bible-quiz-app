@@ -1,0 +1,38 @@
+{
+  "id": "44-028-005",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 28,
+  "verse_reference": "Acts 28:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What happened when Paul shook the snake off into the fire?",
+  "options": [
+    "He suffered no ill effects",
+    "His hand swelled up",
+    "He fell down dead",
+    "He became very sick"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Protection"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Malta",
+      "type": "island"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul shook the snake off into the fire and suffered no ill effects."
+}

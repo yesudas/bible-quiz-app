@@ -1,0 +1,33 @@
+{
+  "id": "40-022-021",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 22,
+  "verse_reference": "Matthew 22:41-42",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "When Jesus asked the Pharisees, \"Whose son is the Messiah?\" what did they answer?",
+  "options": [
+    "The son of Abraham",
+    "The son of Moses",
+    "The son of Joseph",
+    "The son of David"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus",
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 22:42 says, \"What do you think about the Messiah? Whose son is he?\" \"The son of David,\" they replied."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "42-005-014",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:19",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did the men get the paralyzed man to Jesus through the crowd?",
+  "options": [
+    "They broke down the door",
+    "They lowered him through the roof tiles",
+    "They called Jesus outside",
+    "They carried him through a window"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "House",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Since they could not get through the crowd, they went up on the roof and lowered him on his mat through the tiles."
+}

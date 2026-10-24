@@ -1,0 +1,32 @@
+{
+  "id": "40-024-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 24,
+  "verse_reference": "Matthew 24:20",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "Jesus told them to pray that their flight would not take place when?",
+  "options": [
+    "At night or at dawn",
+    "In summer or at Passover",
+    "In spring or at harvest",
+    "In winter or on the Sabbath"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 24:20 says, \"Pray that your flight will not take place in winter or on the Sabbath.\""
+}

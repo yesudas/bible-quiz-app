@@ -1,0 +1,32 @@
+{
+  "id": "40-017-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 17,
+  "verse_reference": "Matthew 17:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "The father said his son had seizures and often fell into what?",
+  "options": [
+    "A deep pit",
+    "The fire or the water",
+    "A thorn bush",
+    "The road"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 17:15 says, \"He has seizures and is suffering greatly. He often falls into the fire or into the water.\""
+}

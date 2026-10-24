@@ -1,0 +1,32 @@
+{
+  "id": "42-017-011",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 17,
+  "verse_reference": "Luke 17:14",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When were the ten men cleansed of leprosy?",
+  "options": [
+    "Before Jesus spoke to them",
+    "After they reached the temple",
+    "When Jesus touched them",
+    "As they went"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Luke says that as they went, they were cleansed."
+}

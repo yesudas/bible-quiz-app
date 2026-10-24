@@ -1,0 +1,41 @@
+{
+  "id": "27-011-002",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 11,
+  "verse_reference": "Daniel 11:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the messenger say about the fourth king who would arise in Persia?",
+  "options": [
+    "He would be the poorest of all",
+    "He would serve the God of Daniel",
+    "He would be far richer than the others and stir up everyone against Greece",
+    "He would rebuild Jerusalem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Money"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [
+    {
+      "name": "Persia",
+      "type": "country"
+    },
+    {
+      "name": "Greece",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Three more kings would arise in Persia, then a fourth far richer than all the others, who would stir up everyone against the kingdom of Greece."
+}

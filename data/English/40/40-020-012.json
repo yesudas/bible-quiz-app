@@ -1,0 +1,34 @@
+{
+  "id": "40-020-012",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 20,
+  "verse_reference": "Matthew 20:22",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Jesus' question to James and John: \"Can you drink the ______ I am going to drink?\"",
+  "options": [
+    "wine",
+    "water",
+    "cup",
+    "bitter herbs"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "James",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 20:22 says, \"You don't know what you are asking. Can you drink the cup I am going to drink?\" \"We can,\" they answered."
+}

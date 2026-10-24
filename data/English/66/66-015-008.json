@@ -1,0 +1,35 @@
+{
+  "id": "66-015-008",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 15,
+  "verse_reference": "Revelation 15:7",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did one of the four living creatures give to the seven angels?",
+  "options": [
+    "Seven golden bowls filled with the wrath of God",
+    "Seven trumpets",
+    "Seven crowns",
+    "Seven scrolls"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Angels"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple in heaven",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "One of the four living creatures gave the seven angels seven golden bowls filled with the wrath of God, who lives for ever and ever."
+}

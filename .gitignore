@@ -3,6 +3,11 @@ share-secret.php
 leaderboard-secret.php
 counters/*.txt
 bot.log
+pdf-temp/*.pdf
+# Pre-generated static PDFs (tools/generate-quiz-pdfs.py output) — large,
+# binary, and regenerable locally; uploaded to the server directly, never
+# via git.
+/pdf/
 
 .DS_Store
 **/.DS_Store

@@ -1,0 +1,35 @@
+{
+  "id": "40-008-008",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 8,
+  "verse_reference": "Matthew 8:11",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Jesus said many will come from the east and west and take their places at the feast with whom in the kingdom of heaven?",
+  "options": [
+    "Abraham, Isaac and Jacob",
+    "Moses, Aaron and Miriam",
+    "David, Solomon and Hezekiah",
+    "Elijah, Elisha and Isaiah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingdom of God",
+    "Promise"
+  ],
+  "characters": [
+    "Jesus",
+    "Abraham",
+    "Isaac",
+    "Jacob"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 8:11 says many will come from the east and the west and take their places at the feast with Abraham, Isaac and Jacob."
+}

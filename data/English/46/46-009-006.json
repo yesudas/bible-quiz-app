@@ -1,0 +1,33 @@
+{
+  "id": "46-009-006",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 9,
+  "verse_reference": "1 Corinthians 9:14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Paul say the Lord commanded about those who preach the gospel?",
+  "options": [
+    "They should receive their living from the gospel",
+    "They should never be paid",
+    "They should live in the temple",
+    "They should be priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Evangelism"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord commanded that those who preach the gospel should receive their living from the gospel."
+}

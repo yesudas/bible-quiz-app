@@ -1,0 +1,31 @@
+{
+  "id": "41-015-012",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 15,
+  "verse_reference": "Mark 15:21",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Simon of Cyrene, who carried the cross, was the father of which two men?",
+  "options": [
+    "James and John",
+    "Peter and Andrew",
+    "Joseph and Judas",
+    "Alexander and Rufus"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Simon of Cyrene"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Simon from Cyrene is described as the father of Alexander and Rufus."
+}

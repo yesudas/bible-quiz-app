@@ -1,0 +1,31 @@
+{
+  "id": "59-001-011",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 1,
+  "verse_reference": "James 1:19",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "James says everyone should be quick to do what?",
+  "options": [
+    "Speak",
+    "Listen",
+    "Become angry",
+    "Judge"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Everyone should be quick to listen, slow to speak and slow to become angry."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "26-032-008",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 32,
+  "verse_reference": "Ezekiel 32:22-26",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which of these nations does Ezekiel 32 say is already in the grave below?",
+  "options": [
+    "Persia",
+    "Greece",
+    "Rome",
+    "Elam"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    },
+    {
+      "name": "Elam",
+      "type": "country"
+    },
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezekiel 32 names Assyria, Elam, Meshek and Tubal, Edom, the princes of the north and the Sidonians as already lying in the grave below."
+}

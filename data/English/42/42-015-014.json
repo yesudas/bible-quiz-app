@@ -1,0 +1,33 @@
+{
+  "id": "42-015-014",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 15,
+  "verse_reference": "Luke 15:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the son plan to ask his father to make him?",
+  "options": [
+    "A manager of the estate",
+    "A son again",
+    "Like one of his hired servants",
+    "A guard at the gate"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Humility",
+    "Repentance"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He planned to say, 'Make me like one of your hired servants.'"
+}

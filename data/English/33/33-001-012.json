@@ -1,0 +1,31 @@
+{
+  "id": "33-001-012",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 1,
+  "verse_reference": "Micah 1:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why were the people told to shave their heads in mourning?",
+  "options": [
+    "Because of a famine",
+    "Because their children would go into exile",
+    "Because the temple had burned",
+    "Because their king had died"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Judgment",
+    "Family"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They were to mourn for the children they delighted in, because they would be taken from them into exile."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "59-001-002",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 1,
+  "verse_reference": "James 1:2-3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Because you know that the testing of your faith produces ______.\"",
+  "options": [
+    "perseverance",
+    "wisdom",
+    "joy",
+    "peace"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James says the testing of our faith produces perseverance, so believers can consider trials pure joy."
+}

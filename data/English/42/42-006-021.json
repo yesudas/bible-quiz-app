@@ -1,0 +1,33 @@
+{
+  "id": "42-006-021",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:39",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Jesus' parable, what happens when the blind lead the blind?",
+  "options": [
+    "They both fall into a pit",
+    "They find the way home",
+    "They reach the city",
+    "They meet a guide"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked, 'Can the blind lead the blind? Will they not both fall into a pit?'"
+}

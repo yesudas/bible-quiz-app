@@ -1,0 +1,38 @@
+{
+  "id": "26-033-006",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 33,
+  "verse_reference": "Ezekiel 33:21",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What news did the man who escaped from Jerusalem bring to Ezekiel?",
+  "options": [
+    "\"The king has repented!\"",
+    "\"The temple is rebuilt!\"",
+    "\"The city has fallen!\"",
+    "\"Babylon has fled!\""
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Exile"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the twelfth year of the exile, a man who had escaped from Jerusalem came to Ezekiel and said, 'The city has fallen!'"
+}

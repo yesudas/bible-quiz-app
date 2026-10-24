@@ -1,0 +1,31 @@
+{
+  "id": "48-006-005",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 6,
+  "verse_reference": "Galatians 6:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"Do not be deceived: God cannot be mocked. A man reaps what he ______.\"",
+  "options": [
+    "builds",
+    "buys",
+    "says",
+    "sows"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul warned that God cannot be mocked, because a person reaps what they sow."
+}

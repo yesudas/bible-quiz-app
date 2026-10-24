@@ -1,0 +1,33 @@
+{
+  "id": "42-017-019",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 17,
+  "verse_reference": "Luke 17:32",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Jesus' warning: 'Remember ____!'",
+  "options": [
+    "Noah's ark",
+    "Jonah's whale",
+    "Abraham's tent",
+    "Lot's wife"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "Lot"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus warned his hearers not to turn back, saying, 'Remember Lot's wife!'"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "44-019-005",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 19,
+  "verse_reference": "Acts 19:8",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "For how long did Paul speak boldly in the synagogue in Ephesus?",
+  "options": [
+    "Three months",
+    "Three years",
+    "One week",
+    "Two years"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Evangelism",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Ephesus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul spoke boldly there for three months, arguing persuasively about the kingdom of God."
+}

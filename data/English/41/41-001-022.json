@@ -1,0 +1,34 @@
+{
+  "id": "41-001-022",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 1,
+  "verse_reference": "Mark 1:36-38",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When everyone was looking for Jesus, what did he say was the reason he had come?",
+  "options": [
+    "To heal everyone in Capernaum",
+    "To preach in the nearby villages also",
+    "To rest from the crowds",
+    "To go up to Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mission",
+    "Jesus",
+    "Evangelism"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"Let us go somewhere else—to the nearby villages—so I can preach there also. That is why I have come.\""
+}

@@ -1,0 +1,31 @@
+{
+  "id": "38-003-010",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 3,
+  "verse_reference": "Zechariah 3:10",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "In that day, under what would each person invite their neighbour to sit?",
+  "options": [
+    "A palm tree",
+    "The temple roof",
+    "An oak tree",
+    "Their vine and fig tree"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In that day each of them would invite their neighbour to sit under their vine and fig tree."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "31-001-004",
+  "language": "en",
+  "book_no": 31,
+  "book": "Obadiah",
+  "chapter": 1,
+  "verse_reference": "Obadiah 3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the people of Edom make their home, according to Obadiah?",
+  "options": [
+    "Beside the Great Sea",
+    "In the plains of the Jordan",
+    "In the clefts of the rocks",
+    "In walled cities of the valley"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Pride"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Edom lived in the clefts of the rocks and made its home on the heights, so it thought no one could bring it down."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "45-008-015",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 8,
+  "verse_reference": "Romans 8:29",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Romans 8:29, God predestined believers to be conformed to the image of whom?",
+  "options": [
+    "His Son",
+    "Abraham",
+    "The angels",
+    "Adam"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says those God foreknew He also predestined to be conformed to the image of His Son."
+}

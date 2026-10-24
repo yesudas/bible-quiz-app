@@ -1,0 +1,32 @@
+{
+  "id": "40-015-003",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 15,
+  "verse_reference": "Matthew 15:4-6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Which command did Jesus say the Pharisees set aside by saying a gift was \"devoted to God\"?",
+  "options": [
+    "Do not steal",
+    "Keep the Sabbath holy",
+    "Honor your father and mother",
+    "Do not murder"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Family"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 15:4-6 says God said, \"Honor your father and mother,\" but their tradition let people avoid helping parents, nullifying the word of God."
+}

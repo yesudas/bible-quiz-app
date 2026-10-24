@@ -1,0 +1,40 @@
+{
+  "id": "41-009-003",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 9,
+  "verse_reference": "Mark 9:4",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which two people appeared and talked with Jesus on the mountain?",
+  "options": [
+    "Elijah and Moses",
+    "Abraham and David",
+    "Isaiah and Jeremiah",
+    "Noah and Elisha"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus",
+    "Elijah",
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "High mountain",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elijah and Moses appeared before them, and they were talking with Jesus."
+}

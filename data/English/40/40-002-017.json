@@ -1,0 +1,39 @@
+{
+  "id": "40-002-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 2,
+  "verse_reference": "Matthew 2:19-21",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "What happened that allowed Joseph to bring his family back to Israel?",
+  "options": [
+    "Herod died",
+    "The Magi returned",
+    "A new temple was built",
+    "The Romans left"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Angels",
+    "Obedience"
+  ],
+  "characters": [
+    "Joseph",
+    "Herod"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 2:19-20 says after Herod died an angel told Joseph to return to Israel."
+}

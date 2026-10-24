@@ -1,0 +1,34 @@
+{
+  "id": "24-042-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 42,
+  "verse_reference": "Jeremiah 42:15-16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God warn would happen if the people went to Egypt to escape war?",
+  "options": [
+    "Egypt would welcome them",
+    "They would become rich",
+    "The sword and famine they feared would overtake them there",
+    "They would return home in one year"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said the sword you fear will overtake you there, and the famine you dread will follow you into Egypt, and there you will die."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "46-009-002",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 9,
+  "verse_reference": "1 Corinthians 9:5",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Paul named which apostle as one who took a believing wife along with him?",
+  "options": [
+    "Cephas",
+    "Andrew",
+    "Thomas",
+    "Philip"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Marriage",
+    "Leadership"
+  ],
+  "characters": [
+    "Paul",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul asked if he did not have the same right as the other apostles, the Lord's brothers and Cephas, to take a believing wife along."
+}

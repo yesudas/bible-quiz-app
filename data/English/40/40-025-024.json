@@ -1,0 +1,33 @@
+{
+  "id": "40-025-024",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:46",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to the last verse of Matthew 25, where will the righteous go?",
+  "options": [
+    "To a new earth only",
+    "To the temple",
+    "To the wilderness",
+    "To eternal life"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Judgment",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:46 says, \"Then they will go away to eternal punishment, but the righteous to eternal life.\""
+}

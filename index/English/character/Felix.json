@@ -1,0 +1,22 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Felix",
+    "label": "Felix",
+    "count": 12,
+    "paths": [
+        "English/44/44-023-015.json",
+        "English/44/44-023-016.json",
+        "English/44/44-023-019.json",
+        "English/44/44-023-020.json",
+        "English/44/44-024-010.json",
+        "English/44/44-024-011.json",
+        "English/44/44-024-012.json",
+        "English/44/44-024-013.json",
+        "English/44/44-024-014.json",
+        "English/44/44-024-015.json",
+        "English/44/44-024-016.json",
+        "English/44/44-024-017.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

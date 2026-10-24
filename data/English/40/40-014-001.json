@@ -1,0 +1,33 @@
+{
+  "id": "40-014-001",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 14,
+  "verse_reference": "Matthew 14:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When Herod the tetrarch heard reports about Jesus, who did he think Jesus was?",
+  "options": [
+    "Elijah",
+    "Moses",
+    "An angel",
+    "John the Baptist risen from the dead"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Herod",
+    "Jesus",
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 14:2 says Herod said, \"This is John the Baptist; he has risen from the dead!\""
+}

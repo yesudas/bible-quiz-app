@@ -1,0 +1,32 @@
+{
+  "id": "47-005-003",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 5,
+  "verse_reference": "2 Corinthians 5:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"For we live by ______, not by sight.\"",
+  "options": [
+    "faith",
+    "hope",
+    "love",
+    "grace"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that we live by faith, not by sight."
+}

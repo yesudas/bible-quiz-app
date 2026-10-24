@@ -1,0 +1,30 @@
+{
+  "id": "61-002-013",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 2,
+  "verse_reference": "2 Peter 2:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What does Peter say would have been better for those who turn away from the sacred command?",
+  "options": [
+    "Not to have known the way of righteousness",
+    "To have never been born",
+    "To have stayed in Egypt",
+    "To have kept the law of Moses"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter says it would have been better not to know the way of righteousness than to know it and then turn away."
+}

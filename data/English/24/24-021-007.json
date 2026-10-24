@@ -1,0 +1,33 @@
+{
+  "id": "24-021-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 21,
+  "verse_reference": "Jeremiah 21:8",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What two ways did God set before the people?",
+  "options": [
+    "The way of life and the way of death",
+    "The way of peace and the way of war",
+    "The way of the north and the way of the south",
+    "The way of the rich and the way of the poor"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Judgment"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, \"See, I am setting before you the way of life and the way of death.\""
+}

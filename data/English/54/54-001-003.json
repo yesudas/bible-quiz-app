@@ -1,0 +1,38 @@
+{
+  "id": "54-001-003",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 1,
+  "verse_reference": "1 Timothy 1:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Timothy to command certain people not to do in Ephesus?",
+  "options": [
+    "Eat with Gentiles",
+    "Teach false doctrines",
+    "Collect money",
+    "Travel to Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Leadership",
+    "Wisdom"
+  ],
+  "characters": [
+    "Timothy"
+  ],
+  "places": [
+    {
+      "name": "Ephesus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Timothy was to command certain people not to teach false doctrines any longer."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "26-020-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 20,
+  "verse_reference": "Ezekiel 20:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God tell the Israelites to get rid of while they were still in Egypt?",
+  "options": [
+    "Their weapons",
+    "Their slaves",
+    "Their tents",
+    "The vile images and idols of Egypt"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told each of them to get rid of the vile images they had set their eyes on and not to defile themselves with the idols of Egypt."
+}

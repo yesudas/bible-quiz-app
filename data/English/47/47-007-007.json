@@ -1,0 +1,33 @@
+{
+  "id": "47-007-007",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 7,
+  "verse_reference": "2 Corinthians 7:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Godly sorrow brings repentance that leads to salvation and leaves no regret, but worldly sorrow brings ______.\"",
+  "options": [
+    "shame",
+    "anger",
+    "death",
+    "fear"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Salvation",
+    "Sin"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul contrasted godly sorrow, which leads to salvation, with worldly sorrow, which brings death."
+}

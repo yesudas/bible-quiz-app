@@ -1,0 +1,31 @@
+{
+  "id": "27-006-001",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 6,
+  "verse_reference": "Daniel 6:1-2",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "How many satraps did Darius appoint to rule throughout the kingdom?",
+  "options": [
+    "70",
+    "120",
+    "127",
+    "12"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Darius"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Darius appointed 120 satraps to rule the kingdom, with three administrators over them, one of whom was Daniel."
+}

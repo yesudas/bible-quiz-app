@@ -1,0 +1,40 @@
+{
+  "id": "43-007-012",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 7,
+  "verse_reference": "John 7:38-39",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When Jesus spoke of rivers of living water, what did he mean?",
+  "options": [
+    "The Jordan River",
+    "The water from Jacob's well",
+    "Water for baptism",
+    "The Spirit, whom those who believed would later receive"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 7:39 says by this he meant the Spirit, whom those who believed in him were later to receive."
+}

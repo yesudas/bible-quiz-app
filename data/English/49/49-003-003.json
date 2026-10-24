@@ -1,0 +1,36 @@
+{
+  "id": "49-003-003",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 3,
+  "verse_reference": "Ephesians 3:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What is the mystery Paul explains in Ephesians 3:6?",
+  "options": [
+    "The Gentiles are heirs together with Israel through the gospel",
+    "The temple will be rebuilt",
+    "The law will be given again",
+    "Israel will rule all nations"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church",
+    "Promise",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Through the gospel the Gentiles are heirs together with Israel, members together of one body, and sharers together in the promise in Christ Jesus."
+}

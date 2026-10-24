@@ -1,0 +1,38 @@
+{
+  "id": "41-015-011",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 15,
+  "verse_reference": "Mark 15:21",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was forced to carry Jesus' cross?",
+  "options": [
+    "Simon from Cyrene",
+    "Simon Peter",
+    "Joseph of Arimathea",
+    "Nicodemus"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Simon of Cyrene",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Cyrene",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A certain man from Cyrene, Simon, the father of Alexander and Rufus, was passing by, and they forced him to carry the cross."
+}

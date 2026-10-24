@@ -1,0 +1,31 @@
+{
+  "id": "40-026-003",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the leaders say they should not arrest Jesus during the festival?",
+  "options": [
+    "The Romans would be away",
+    "There might be a riot among the people",
+    "It was against the law",
+    "Jesus would be in Galilee"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Caiaphas"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:5 says, \"But not during the festival,\" they said, \"or there may be a riot among the people.\""
+}

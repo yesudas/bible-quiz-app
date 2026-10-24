@@ -1,0 +1,35 @@
+{
+  "id": "66-022-004",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 22,
+  "verse_reference": "Revelation 22:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What are the leaves of the tree of life for?",
+  "options": [
+    "The healing of the nations",
+    "Making crowns for the saints",
+    "Covering the throne",
+    "Feeding the animals"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Mission"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "New Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The leaves of the tree are for the healing of the nations."
+}

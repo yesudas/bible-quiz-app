@@ -1,0 +1,38 @@
+{
+  "id": "46-004-010",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 4,
+  "verse_reference": "1 Corinthians 4:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Paul call himself the Corinthians' father?",
+  "options": [
+    "Because he was older than them",
+    "Because he became their father through the gospel",
+    "Because he baptized all of them",
+    "Because he chose their leaders"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Evangelism",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Though they had many guardians, Paul became their father in Christ Jesus through the gospel."
+}

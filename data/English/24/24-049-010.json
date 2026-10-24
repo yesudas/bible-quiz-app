@@ -1,0 +1,35 @@
+{
+  "id": "24-049-010",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 49,
+  "verse_reference": "Jeremiah 49:39",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God promise about Elam at the end of chapter 49?",
+  "options": [
+    "It would be destroyed forever",
+    "He would restore its fortunes in days to come",
+    "It would rule over Babylon",
+    "It would become part of Judah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Elam",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Yet I will restore the fortunes of Elam in days to come,\" declares the LORD."
+}

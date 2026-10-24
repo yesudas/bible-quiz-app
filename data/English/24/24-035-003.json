@@ -1,0 +1,38 @@
+{
+  "id": "24-035-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 35,
+  "verse_reference": "Jeremiah 35:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jeremiah set before the Rekabites?",
+  "options": [
+    "Bread and fish",
+    "Gold and silver",
+    "Bowls full of wine and some cups",
+    "Scrolls of the law"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah set bowls full of wine and some cups before the Rekabites and said, \"Drink some wine.\""
+}

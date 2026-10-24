@@ -1,0 +1,33 @@
+{
+  "id": "40-009-005",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 9,
+  "verse_reference": "Matthew 9:7-8",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "What did the crowd do when the paralyzed man got up and went home?",
+  "options": [
+    "They were filled with awe and praised God",
+    "They ran away",
+    "They argued with Jesus",
+    "They stayed silent"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 9:8 says when the crowd saw this, they were filled with awe and praised God."
+}

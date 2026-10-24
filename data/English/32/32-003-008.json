@@ -1,0 +1,36 @@
+{
+  "id": "32-003-008",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 3,
+  "verse_reference": "Jonah 3:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Besides calling urgently on God, what did the king tell everyone to give up?",
+  "options": [
+    "Their gold",
+    "Their evil ways and their violence",
+    "Their homes",
+    "Their idols only"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king commanded everyone to call urgently on God and give up their evil ways and their violence."
+}

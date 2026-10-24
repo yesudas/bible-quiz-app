@@ -1,0 +1,39 @@
+{
+  "id": "27-006-013",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 6,
+  "verse_reference": "Daniel 6:22",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did Daniel say God saved him from the lions?",
+  "options": [
+    "The lions were already full",
+    "God sent His angel to shut the lions' mouths",
+    "The lions were asleep",
+    "Daniel fought the lions"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels",
+    "Miracles",
+    "Faith"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [
+    {
+      "name": "Lions' den",
+      "type": "den"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daniel said, \"My God sent his angel, and he shut the mouths of the lions.\""
+}

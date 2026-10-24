@@ -1,0 +1,39 @@
+{
+  "id": "44-013-019",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 13,
+  "verse_reference": "Acts 13:46",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After being rejected, to whom did Paul and Barnabas say they would now turn?",
+  "options": [
+    "The Samaritans",
+    "The priests",
+    "The Romans only",
+    "The Gentiles"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Mission",
+    "Evangelism"
+  ],
+  "characters": [
+    "Paul",
+    "Barnabas"
+  ],
+  "places": [
+    {
+      "name": "Pisidian Antioch",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul and Barnabas said, 'We had to speak the word of God to you first... We now turn to the Gentiles.'"
+}

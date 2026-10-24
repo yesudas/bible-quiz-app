@@ -1,0 +1,31 @@
+{
+  "id": "40-015-002",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 15,
+  "verse_reference": "Matthew 15:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Jesus answer the charge that his disciples broke the tradition of the elders?",
+  "options": [
+    "He told the disciples to wash",
+    "He said traditions are always right",
+    "He gave no answer",
+    "He asked why they broke the command of God for the sake of their tradition"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 15:3 says Jesus replied, \"And why do you break the command of God for the sake of your tradition?\""
+}

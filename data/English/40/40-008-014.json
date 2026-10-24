@@ -1,0 +1,31 @@
+{
+  "id": "40-008-014",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 8,
+  "verse_reference": "Matthew 8:21-22",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "A disciple asked first to bury his father. Complete Jesus' reply: \"Follow me, and let the dead bury their own ______.\"",
+  "options": [
+    "people",
+    "fathers",
+    "dead",
+    "family"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 8:22 says Jesus told him, \"Follow me, and let the dead bury their own dead.\""
+}

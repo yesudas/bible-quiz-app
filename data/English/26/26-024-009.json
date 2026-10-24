@@ -1,0 +1,31 @@
+{
+  "id": "26-024-009",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 24,
+  "verse_reference": "Ezekiel 24:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete God's words: \"Ezekiel will be a ______ to you; you will do just as he has done.\"",
+  "options": [
+    "prophet",
+    "sign",
+    "watchman",
+    "king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said Ezekiel would be a sign to them; when it happened, they would do just as he had done."
+}

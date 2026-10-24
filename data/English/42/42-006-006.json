@@ -1,0 +1,37 @@
+{
+  "id": "42-006-006",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete what Jesus said to the man with the shriveled hand: 'Stretch out your ____.'",
+  "options": [
+    "arm",
+    "hand",
+    "fingers",
+    "palm"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Synagogue",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said to the man, 'Stretch out your hand.' He did so, and his hand was completely restored."
+}

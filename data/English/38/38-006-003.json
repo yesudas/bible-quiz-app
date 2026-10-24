@@ -1,0 +1,29 @@
+{
+  "id": "38-006-003",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 6,
+  "verse_reference": "Zechariah 6:2-3",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "What colour were the horses of the first two chariots, in order?",
+  "options": [
+    "Red, then black",
+    "White, then red",
+    "Black, then dappled",
+    "Red, then white"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The first chariot had red horses and the second had black horses."
+}

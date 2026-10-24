@@ -1,0 +1,31 @@
+{
+  "id": "27-012-009",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 12,
+  "verse_reference": "Daniel 12:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"Go your way, Daniel, because the words are rolled up and ______ until the time of the end.\"",
+  "options": [
+    "hidden",
+    "sealed",
+    "kept",
+    "written"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daniel was told to go his way, because the words were rolled up and sealed until the time of the end."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "26-031-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 31,
+  "verse_reference": "Ezekiel 31:8-9",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Ezekiel 31, the trees of which garden envied the great cedar?",
+  "options": [
+    "The garden of Gethsemane",
+    "The king's garden in Jerusalem",
+    "The gardens of Babylon",
+    "Eden, the garden of God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation",
+    "Parables"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Eden",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The cedars in the garden of God could not rival it; all the trees of Eden, the garden of God, envied it."
+}

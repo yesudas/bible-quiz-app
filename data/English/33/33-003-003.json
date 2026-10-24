@@ -1,0 +1,30 @@
+{
+  "id": "33-003-003",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 3,
+  "verse_reference": "Micah 3:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When did the false prophets proclaim 'peace'?",
+  "options": [
+    "When the king was strong",
+    "When the temple was full",
+    "When the enemy had left",
+    "When they had something to eat"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The false prophets proclaimed peace if they had something to eat, but prepared war against anyone who did not feed them."
+}

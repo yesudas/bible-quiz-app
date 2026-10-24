@@ -1,0 +1,38 @@
+{
+  "id": "24-004-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 4,
+  "verse_reference": "Jeremiah 4:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Break up your unplowed ground and do not sow among ____.\"",
+  "options": [
+    "rocks",
+    "weeds",
+    "thorns",
+    "briers"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told the people of Judah and Jerusalem to break up their unplowed ground and not sow among thorns, a call to prepare their hearts."
+}

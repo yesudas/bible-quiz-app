@@ -1,0 +1,36 @@
+{
+  "id": "41-005-010",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 5,
+  "verse_reference": "Mark 5:20",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the healed man go to tell how much Jesus had done for him?",
+  "options": [
+    "Judea",
+    "Samaria",
+    "Jerusalem",
+    "The Decapolis"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Evangelism"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Decapolis",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man went away and began to tell in the Decapolis how much Jesus had done for him, and all the people were amazed."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "54-004-007",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 4,
+  "verse_reference": "1 Timothy 4:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which of these is one of the areas where Paul told Timothy to set an example for the believers?",
+  "options": [
+    "Wealth",
+    "Strength",
+    "Purity",
+    "Fame"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul",
+    "Timothy"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul told Timothy to set an example in speech, conduct, love, faith and purity."
+}

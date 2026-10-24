@@ -1,0 +1,37 @@
+{
+  "id": "27-010-013",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 10,
+  "verse_reference": "Daniel 10:20",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "After fighting the prince of Persia, which prince did the messenger say would come?",
+  "options": [
+    "The prince of Egypt",
+    "The prince of Greece",
+    "The prince of Babylon",
+    "The prince of Assyria"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels",
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [
+    {
+      "name": "Persia",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The messenger said he would return to fight the prince of Persia, and when he went, the prince of Greece would come."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "57-001-005",
+  "language": "en",
+  "book_no": 57,
+  "book": "Philemon",
+  "chapter": 1,
+  "verse_reference": "Philemon 1:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What change in Onesimus did Paul describe in verse 11?",
+  "options": [
+    "He was once useless to Philemon but had become useful",
+    "He had become very rich",
+    "He had become an apostle",
+    "He had learned to write letters"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Repentance",
+    "Discipleship"
+  ],
+  "characters": [
+    "Onesimus",
+    "Philemon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said that Onesimus was formerly useless to Philemon, but now he had become useful both to Philemon and to Paul."
+}

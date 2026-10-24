@@ -1,0 +1,41 @@
+{
+  "id": "40-008-019",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 8,
+  "verse_reference": "Matthew 8:28",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did Jesus meet two demon-possessed men coming from the tombs?",
+  "options": [
+    "Bethany",
+    "The region of the Gadarenes",
+    "Samaria",
+    "Tyre"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Region of the Gadarenes",
+      "type": "region"
+    },
+    {
+      "name": "Tombs",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 8:28 says when he arrived in the region of the Gadarenes, two demon-possessed men coming from the tombs met him."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "42-013-011",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 13,
+  "verse_reference": "Luke 13:16",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "What did Jesus call the woman he healed in the synagogue?",
+  "options": [
+    "A child of light",
+    "A servant of God",
+    "A sister of Israel",
+    "A daughter of Abraham"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus",
+    "Abraham"
+  ],
+  "places": [
+    {
+      "name": "Synagogue",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus called her a daughter of Abraham, whom Satan had kept bound for eighteen long years."
+}

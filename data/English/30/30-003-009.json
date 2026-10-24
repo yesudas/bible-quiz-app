@@ -1,0 +1,35 @@
+{
+  "id": "30-003-009",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 3,
+  "verse_reference": "Amos 3:14",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Which city's altars did God say He would destroy?",
+  "options": [
+    "Bethel",
+    "Dan",
+    "Gilgal",
+    "Jerusalem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Bethel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would destroy the altars of Bethel, and the horns of the altar would be cut off."
+}

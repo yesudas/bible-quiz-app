@@ -1,0 +1,33 @@
+{
+  "id": "47-003-005",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 3,
+  "verse_reference": "2 Corinthians 3:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"For the letter kills, but the Spirit gives ______.\"",
+  "options": [
+    "peace",
+    "hope",
+    "life",
+    "joy"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit",
+    "Covenant",
+    "Law"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said God made them ministers of a new covenant, not of the letter but of the Spirit, because the letter kills but the Spirit gives life."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42-011-008",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Jesus asked which father would give his son a snake instead of what?",
+  "options": [
+    "Bread",
+    "An egg",
+    "A coat",
+    "A fish"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Family"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked, 'Which of you fathers, if your son asks for a fish, will give him a snake instead?'"
+}

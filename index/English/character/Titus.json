@@ -1,0 +1,29 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Titus",
+    "label": "Titus",
+    "count": 19,
+    "paths": [
+        "English/47/47-002-008.json",
+        "English/47/47-007-003.json",
+        "English/47/47-007-005.json",
+        "English/47/47-007-009.json",
+        "English/47/47-008-005.json",
+        "English/47/47-008-010.json",
+        "English/48/48-002-002.json",
+        "English/48/48-002-004.json",
+        "English/55/55-004-007.json",
+        "English/56/56-001-001.json",
+        "English/56/56-001-002.json",
+        "English/56/56-001-003.json",
+        "English/56/56-002-001.json",
+        "English/56/56-002-003.json",
+        "English/56/56-002-004.json",
+        "English/56/56-003-001.json",
+        "English/56/56-003-006.json",
+        "English/56/56-003-008.json",
+        "English/56/56-003-009.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

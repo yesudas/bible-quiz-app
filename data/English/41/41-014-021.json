@@ -1,0 +1,37 @@
+{
+  "id": "41-014-021",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 14,
+  "verse_reference": "Mark 14:47",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened to the servant of the high priest when Jesus was arrested?",
+  "options": [
+    "He was healed of blindness",
+    "One of those standing near cut off his ear",
+    "He ran away naked",
+    "He became a disciple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Gethsemane",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "One of those standing near drew his sword and struck the servant of the high priest, cutting off his ear."
+}

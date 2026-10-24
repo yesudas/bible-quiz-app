@@ -1,0 +1,41 @@
+{
+  "id": "40-011-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 11,
+  "verse_reference": "Matthew 11:21",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Jesus said \"Woe to you\" to Chorazin and which other town?",
+  "options": [
+    "Bethsaida",
+    "Nazareth",
+    "Cana",
+    "Jericho"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Repentance"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Chorazin",
+      "type": "town"
+    },
+    {
+      "name": "Bethsaida",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 11:21 says, \"Woe to you, Chorazin! Woe to you, Bethsaida!\""
+}

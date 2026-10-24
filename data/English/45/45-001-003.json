@@ -1,0 +1,32 @@
+{
+  "id": "45-001-003",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 1,
+  "verse_reference": "Romans 1:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Paul, through whom had God promised the gospel beforehand?",
+  "options": [
+    "His angels",
+    "His prophets",
+    "The kings of Israel",
+    "The priests in the temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Promise"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says God promised the gospel beforehand through His prophets in the Holy Scriptures."
+}

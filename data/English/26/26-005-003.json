@@ -1,0 +1,37 @@
+{
+  "id": "26-005-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 5,
+  "verse_reference": "Ezekiel 5:2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "What was Ezekiel to do with the three parts of his hair?",
+  "options": [
+    "Burn a third, strike a third with the sword, scatter a third to the wind",
+    "Bury a third, burn a third, throw a third into the river",
+    "Burn all of it inside the city",
+    "Give a third to the priests, burn a third, keep a third"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezekiel was to burn a third inside the city, strike a third with the sword around the city, and scatter a third to the wind."
+}

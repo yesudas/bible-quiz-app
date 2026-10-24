@@ -1,0 +1,32 @@
+{
+  "id": "27-008-001",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 8,
+  "verse_reference": "Daniel 8:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "In which year of Belshazzar's reign did Daniel have the vision of the ram and the goat?",
+  "options": [
+    "The first year",
+    "The third year",
+    "The seventh year",
+    "The tenth year"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel",
+    "Belshazzar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the third year of King Belshazzar's reign, Daniel had another vision after the one that had already appeared to him."
+}

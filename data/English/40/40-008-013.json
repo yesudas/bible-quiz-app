@@ -1,0 +1,31 @@
+{
+  "id": "40-008-013",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 8,
+  "verse_reference": "Matthew 8:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When a teacher of the law offered to follow Jesus, what did Jesus say the Son of Man has no place to do?",
+  "options": [
+    "Eat his bread",
+    "Keep his money",
+    "Hide from enemies",
+    "Lay his head"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 8:20 says foxes have dens and birds have nests, but the Son of Man has no place to lay his head."
+}

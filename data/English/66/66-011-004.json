@@ -1,0 +1,29 @@
+{
+  "id": "66-011-004",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 11,
+  "verse_reference": "Revelation 11:3",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "For how many days would the two witnesses prophesy?",
+  "options": [
+    "40 days",
+    "365 days",
+    "1,000 days",
+    "1,260 days"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The two witnesses would prophesy for 1,260 days."
+}

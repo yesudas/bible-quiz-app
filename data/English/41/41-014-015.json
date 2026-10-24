@@ -1,0 +1,39 @@
+{
+  "id": "41-014-015",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 14,
+  "verse_reference": "Mark 14:30",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus say Peter would do before the rooster crowed twice?",
+  "options": [
+    "Cut off a servant's ear",
+    "Run away to Galilee",
+    "Disown him three times",
+    "Fall asleep twice"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Mount of Olives",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus answered, \"Truly I tell you, today—yes, tonight—before the rooster crows twice you yourself will disown me three times.\""
+}

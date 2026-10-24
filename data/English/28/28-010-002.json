@@ -1,0 +1,36 @@
+{
+  "id": "28-010-002",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 10,
+  "verse_reference": "Hosea 10:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "As Israel's fruit increased, what did they build more of?",
+  "options": [
+    "Altars",
+    "Barns",
+    "Palaces",
+    "Walls"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Idolatry",
+    "Money",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As his fruit increased, he built more altars; as his land prospered, he adorned his sacred stones."
+}

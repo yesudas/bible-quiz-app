@@ -1,0 +1,39 @@
+{
+  "id": "24-051-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 51,
+  "verse_reference": "Jeremiah 51:11",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which kings did the LORD stir up to destroy Babylon?",
+  "options": [
+    "The kings of Egypt",
+    "The kings of Assyria",
+    "The kings of the Medes",
+    "The kings of Moab"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Media",
+      "type": "country"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"The LORD has stirred up the kings of the Medes, because his purpose is to destroy Babylon.\""
+}

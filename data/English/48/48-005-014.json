@@ -1,0 +1,31 @@
+{
+  "id": "48-005-014",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 5,
+  "verse_reference": "Galatians 5:22",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"But the ______ of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness.\"",
+  "options": [
+    "gift",
+    "fruit",
+    "power",
+    "voice"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul called these good qualities the fruit of the Spirit."
+}

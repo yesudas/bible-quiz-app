@@ -1,0 +1,37 @@
+{
+  "id": "24-028-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 28,
+  "verse_reference": "Jeremiah 28:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Hananiah say the LORD would break?",
+  "options": [
+    "The walls of Jerusalem",
+    "The power of Egypt",
+    "The idols of Baal",
+    "The yoke of the king of Babylon"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Sin"
+  ],
+  "characters": [
+    "Hananiah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hananiah claimed the LORD said, \"I will break the yoke of the king of Babylon.\""
+}

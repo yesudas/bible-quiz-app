@@ -1,0 +1,32 @@
+{
+  "id": "43-005-011",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 5,
+  "verse_reference": "John 5:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Besides breaking the Sabbath, why did the Jewish leaders try all the more to kill Jesus?",
+  "options": [
+    "He called himself a priest",
+    "He refused to pay taxes",
+    "He spoke against Moses",
+    "He called God his own Father, making himself equal with God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 5:18 says they tried all the more to kill him because he was even calling God his own Father, making himself equal with God."
+}

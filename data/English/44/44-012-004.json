@@ -1,0 +1,38 @@
+{
+  "id": "44-012-004",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 12,
+  "verse_reference": "Acts 12:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was the church doing while Peter was in prison?",
+  "options": [
+    "Earnestly praying to God for him",
+    "Planning to break him out",
+    "Hiding from Herod",
+    "Choosing a new leader"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Church"
+  ],
+  "characters": [
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter was kept in prison, but the church was earnestly praying to God for him."
+}

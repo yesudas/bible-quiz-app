@@ -1,0 +1,35 @@
+{
+  "id": "28-007-009",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 7,
+  "verse_reference": "Hosea 7:16",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Hosea said the people who did not turn to the Most High were like a faulty what?",
+  "options": [
+    "Bow",
+    "Wall",
+    "Sword",
+    "Shield"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said, 'They are like a faulty bow'; their leaders would fall by the sword and be ridiculed in Egypt."
+}

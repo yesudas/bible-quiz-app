@@ -1,0 +1,36 @@
+{
+  "id": "66-004-008",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 4,
+  "verse_reference": "Revelation 4:6-7",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "The four living creatures were like a lion, an ox, a man, and what else?",
+  "options": [
+    "A bear",
+    "A flying eagle",
+    "A lamb",
+    "A horse"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Angels"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The first creature was like a lion, the second like an ox, the third had a face like a man, and the fourth was like a flying eagle."
+}

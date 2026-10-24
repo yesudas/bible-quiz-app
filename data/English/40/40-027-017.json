@@ -1,0 +1,36 @@
+{
+  "id": "40-027-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 27,
+  "verse_reference": "Matthew 27:34",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus do when he was offered wine mixed with gall?",
+  "options": [
+    "After tasting it, he refused to drink it",
+    "He drank it all",
+    "He poured it on the ground",
+    "He gave it to the soldiers"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Golgotha",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 27:34 says there they offered Jesus wine to drink, mixed with gall; but after tasting it, he refused to drink it."
+}

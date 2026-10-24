@@ -1,0 +1,30 @@
+{
+  "id": "46-005-009",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 5,
+  "verse_reference": "1 Corinthians 5:12-13",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Paul, who judges those outside the church?",
+  "options": [
+    "God",
+    "The apostles",
+    "The Roman rulers",
+    "The elders"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Church"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said God will judge those outside, and the church should expel the wicked person from among them."
+}

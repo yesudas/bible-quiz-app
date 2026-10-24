@@ -1,0 +1,30 @@
+{
+  "id": "25-005-003",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 5,
+  "verse_reference": "Lamentations 5:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the people now have to do to get water and wood?",
+  "options": [
+    "Steal them",
+    "Travel to Egypt",
+    "Wait for rain",
+    "Pay for them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Money"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Lamentations 5:4 says they had to buy the water they drank, and their wood came only at a price."
+}

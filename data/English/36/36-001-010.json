@@ -1,0 +1,38 @@
+{
+  "id": "36-001-010",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 1,
+  "verse_reference": "Zephaniah 1:10",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "From which gate of Jerusalem would a cry go up on that day?",
+  "options": [
+    "Sheep Gate",
+    "Fish Gate",
+    "East Gate",
+    "Valley Gate"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Fish Gate",
+      "type": "gate"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A cry would go up from the Fish Gate and wailing from the New Quarter."
+}

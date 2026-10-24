@@ -1,0 +1,34 @@
+{
+  "id": "62-004-011",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 4,
+  "verse_reference": "1 John 4:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "Why do we love, according to John?",
+  "options": [
+    "Because we are good people",
+    "Because we want a reward",
+    "Because he first loved us",
+    "Because the world tells us to"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "God"
+  ],
+  "characters": [
+    "God",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says simply: we love because he first loved us."
+}

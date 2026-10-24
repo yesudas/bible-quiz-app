@@ -1,0 +1,33 @@
+{
+  "id": "40-016-014",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 16,
+  "verse_reference": "Matthew 16:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Jesus said he would give Peter the keys of what?",
+  "options": [
+    "The kingdom of heaven",
+    "The temple",
+    "Jerusalem",
+    "The synagogue"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingdom of God",
+    "Church"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 16:19 says, \"I will give you the keys of the kingdom of heaven.\""
+}

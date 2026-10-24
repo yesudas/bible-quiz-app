@@ -1,0 +1,36 @@
+{
+  "id": "30-005-009",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 5,
+  "verse_reference": "Amos 5:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God tell Israel to do in the courts?",
+  "options": [
+    "Punish the poor",
+    "Keep silent",
+    "Maintain justice",
+    "Ask the king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Justice",
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 5:15 says, 'Hate evil, love good; maintain justice in the courts.'"
+}

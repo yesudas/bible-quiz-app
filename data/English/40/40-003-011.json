@@ -1,0 +1,34 @@
+{
+  "id": "40-003-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 3,
+  "verse_reference": "Matthew 3:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "John baptized with water. With what did he say the one coming after him would baptize?",
+  "options": [
+    "With oil and water",
+    "With the Holy Spirit and fire",
+    "With blood",
+    "With the river Jordan"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Jesus"
+  ],
+  "characters": [
+    "John the Baptist",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 3:11 says the one coming after John would baptize with the Holy Spirit and fire."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Tabitha",
+    "label": "Tabitha",
+    "count": 3,
+    "paths": [
+        "English/44/44-009-018.json",
+        "English/44/44-009-019.json",
+        "English/44/44-009-020.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

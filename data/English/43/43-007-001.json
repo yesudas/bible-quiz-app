@@ -1,0 +1,40 @@
+{
+  "id": "43-007-001",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 7,
+  "verse_reference": "John 7:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Jesus stay away from Judea at the start of John 7?",
+  "options": [
+    "He was sick",
+    "The Jewish leaders there were looking for a way to kill him",
+    "His family lived in Judea",
+    "There was a famine in Judea"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Galilee",
+      "type": "region"
+    },
+    {
+      "name": "Judea",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 7:1 says Jesus went around in Galilee, staying away from Judea because the Jewish leaders there were looking for a way to take his life."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "45-002-005",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 2,
+  "verse_reference": "Romans 2:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"God 'will repay each person according to what they have ______.'\"",
+  "options": [
+    "done",
+    "said",
+    "owned",
+    "learned"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Romans 2:6 says God will repay each person according to what they have done."
+}

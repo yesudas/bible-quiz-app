@@ -1,0 +1,38 @@
+{
+  "id": "30-006-010",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 6,
+  "verse_reference": "Amos 6:14",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "The nation God would stir up against Israel would oppress them from Lebo Hamath to where?",
+  "options": [
+    "The Jordan River",
+    "The valley of the Arabah",
+    "Mount Carmel",
+    "The Great Sea"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Lebo Hamath",
+      "type": "town"
+    },
+    {
+      "name": "Arabah",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 6:14 says the nation would oppress them all the way from Lebo Hamath to the valley of the Arabah."
+}

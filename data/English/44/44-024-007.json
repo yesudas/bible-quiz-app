@@ -1,0 +1,37 @@
+{
+  "id": "44-024-007",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 24,
+  "verse_reference": "Acts 24:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What hope did Paul say he had in God?",
+  "options": [
+    "That there will be a resurrection of both the righteous and the wicked",
+    "That he would be freed soon",
+    "That Israel would rule Rome",
+    "That the temple would be rebuilt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Resurrection",
+    "Hope"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Caesarea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said he had the same hope in God as these men: that there will be a resurrection of both the righteous and the wicked."
+}

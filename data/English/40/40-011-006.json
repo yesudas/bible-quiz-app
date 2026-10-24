@@ -1,0 +1,32 @@
+{
+  "id": "40-011-006",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 11,
+  "verse_reference": "Matthew 11:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Jesus said no one born of women is greater than John the Baptist. Who did he say is greater than John?",
+  "options": [
+    "Moses",
+    "Whoever is least in the kingdom of heaven",
+    "Elijah",
+    "The high priest"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus",
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 11:11 says whoever is least in the kingdom of heaven is greater than he."
+}

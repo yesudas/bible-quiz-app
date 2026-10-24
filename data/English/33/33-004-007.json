@@ -1,0 +1,30 @@
+{
+  "id": "33-004-007",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 4,
+  "verse_reference": "Micah 4:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "\"All the nations may walk in the name of their gods, but we will walk in the name of the ______ our God for ever and ever.\"",
+  "options": [
+    "Holy One",
+    "King",
+    "Mighty One",
+    "LORD"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Though other nations follow their gods, God's people commit to walk in the name of the LORD forever."
+}

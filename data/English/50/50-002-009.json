@@ -1,0 +1,39 @@
+{
+  "id": "50-002-009",
+  "language": "en",
+  "book_no": 50,
+  "book": "Philippians",
+  "chapter": 2,
+  "verse_reference": "Philippians 2:19-22",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Whom did Paul hope to send to the Philippians soon, saying he had no one else like him?",
+  "options": [
+    "Titus",
+    "Silas",
+    "Mark",
+    "Timothy"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Church"
+  ],
+  "characters": [
+    "Paul",
+    "Timothy"
+  ],
+  "places": [
+    {
+      "name": "Philippi",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul planned to send Timothy, who truly cared about their welfare."
+}

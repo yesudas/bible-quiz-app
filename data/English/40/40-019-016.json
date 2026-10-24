@@ -1,0 +1,33 @@
+{
+  "id": "40-019-016",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 19,
+  "verse_reference": "Matthew 19:24",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Jesus said it is easier for what to go through the eye of a needle than for someone rich to enter the kingdom of God?",
+  "options": [
+    "A horse",
+    "A camel",
+    "A donkey",
+    "An elephant"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 19:24 says it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God."
+}

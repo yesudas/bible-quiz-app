@@ -1,0 +1,38 @@
+{
+  "id": "41-003-009",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 3,
+  "verse_reference": "Mark 3:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "For what purposes did Jesus appoint the twelve?",
+  "options": [
+    "To collect taxes and guard the temple",
+    "To write down his teachings in books",
+    "To be with him, to preach, and to have authority to drive out demons",
+    "To lead the synagogues of Galilee"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship",
+    "Mission",
+    "Evangelism"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mountainside",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He appointed them so that they might be with him, be sent out to preach, and have authority to drive out demons."
+}

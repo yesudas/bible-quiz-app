@@ -1,0 +1,33 @@
+{
+  "id": "39-004-008",
+  "language": "en",
+  "book_no": 39,
+  "book": "Malachi",
+  "chapter": 4,
+  "verse_reference": "Malachi 4:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"He will turn the hearts of the parents to their ______.\"",
+  "options": [
+    "God",
+    "children",
+    "land",
+    "temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Repentance"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Elijah would turn the hearts of parents to their children, and the hearts of children to their parents."
+}

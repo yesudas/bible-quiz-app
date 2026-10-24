@@ -1,0 +1,29 @@
+{
+  "id": "38-005-007",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 5,
+  "verse_reference": "Zechariah 5:7-8",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was the cover of the basket made of?",
+  "options": [
+    "Lead",
+    "Gold",
+    "Bronze",
+    "Wood"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The basket had a lead cover, which the angel pushed down over its mouth."
+}

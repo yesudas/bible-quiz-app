@@ -1,0 +1,41 @@
+{
+  "id": "24-037-008",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 37,
+  "verse_reference": "Jeremiah 37:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Irijah accuse Jeremiah of doing?",
+  "options": [
+    "Stealing from the temple",
+    "Plotting to kill the king",
+    "Deserting to the Babylonians",
+    "Worshiping Baal"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Irijah",
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Benjamin Gate",
+      "type": "gate"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Irijah said, \"You are deserting to the Babylonians!\" Jeremiah answered, \"That's not true!\""
+}

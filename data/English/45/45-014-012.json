@@ -1,0 +1,30 @@
+{
+  "id": "45-014-012",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 14,
+  "verse_reference": "Romans 14:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Romans 14:21, when is it better not to eat meat or drink wine?",
+  "options": [
+    "When it is the Sabbath",
+    "When you are traveling",
+    "When it causes a brother or sister to fall",
+    "When you are in Rome"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Temptation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says it is better not to eat meat or drink wine or do anything else that will cause a brother or sister to fall."
+}

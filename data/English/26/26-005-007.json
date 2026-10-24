@@ -1,0 +1,36 @@
+{
+  "id": "26-005-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 5,
+  "verse_reference": "Ezekiel 5:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did God say the people had defiled with their vile images and detestable practices?",
+  "options": [
+    "His sanctuary",
+    "The Jordan River",
+    "The city gates",
+    "The king's palace"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Worship",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sanctuary",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said that because they had defiled His sanctuary with vile images and detestable practices, He would not look on them with pity."
+}

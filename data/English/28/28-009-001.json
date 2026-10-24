@@ -1,0 +1,35 @@
+{
+  "id": "28-009-001",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 9,
+  "verse_reference": "Hosea 9:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Hosea tell Israel not to rejoice like the other nations?",
+  "options": [
+    "Because their king had died",
+    "Because they had been unfaithful to their God",
+    "Because their harvest had failed",
+    "Because the temple was destroyed"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said, 'Do not rejoice, Israel... For you have been unfaithful to your God.'"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "45-008-004",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 8,
+  "verse_reference": "Romans 8:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Romans 8:9, who does not belong to Christ?",
+  "options": [
+    "Anyone who is not Jewish",
+    "Anyone who does not have the Spirit of Christ",
+    "Anyone who has suffered",
+    "Anyone who lives outside Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says if anyone does not have the Spirit of Christ, they do not belong to Christ."
+}

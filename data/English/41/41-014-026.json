@@ -1,0 +1,36 @@
+{
+  "id": "41-014-026",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 14,
+  "verse_reference": "Mark 14:63-64",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the high priest do after Jesus' answer?",
+  "options": [
+    "Tore his clothes and called it blasphemy",
+    "Set Jesus free",
+    "Bowed down to worship him",
+    "Sent him back to Galilee"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Courtyard of the high priest",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The high priest tore his clothes and said, \"You have heard the blasphemy.\" They all condemned him as worthy of death."
+}

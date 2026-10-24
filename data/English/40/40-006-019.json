@@ -1,0 +1,34 @@
+{
+  "id": "40-006-019",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 6,
+  "verse_reference": "Matthew 6:28-29",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Jesus said even which king in all his splendor was not dressed like the flowers of the field?",
+  "options": [
+    "David",
+    "Saul",
+    "Solomon",
+    "Herod"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Creation",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus",
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 6:29 says not even Solomon in all his splendor was dressed like one of these flowers."
+}

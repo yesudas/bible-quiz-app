@@ -1,0 +1,31 @@
+{
+  "id": "60-002-002",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 2,
+  "verse_reference": "1 Peter 2:4-5",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Peter says believers, like living stones, are being built into what?",
+  "options": [
+    "A strong city",
+    "A spiritual house",
+    "A high tower",
+    "A great wall"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As living stones, believers are being built into a spiritual house to be a holy priesthood."
+}

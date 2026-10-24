@@ -1,0 +1,38 @@
+{
+  "id": "43-001-020",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 1,
+  "verse_reference": "John 1:45-46",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Nathanael asked, \"Can anything good come from there?\" Which town was he talking about?",
+  "options": [
+    "Nazareth",
+    "Bethlehem",
+    "Jerusalem",
+    "Capernaum"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Nathanael",
+    "Philip"
+  ],
+  "places": [
+    {
+      "name": "Nazareth",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Philip said Jesus was from Nazareth, Nathanael asked if anything good could come from there (John 1:46)."
+}

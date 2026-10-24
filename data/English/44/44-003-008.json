@@ -1,0 +1,32 @@
+{
+  "id": "44-003-008",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 3,
+  "verse_reference": "Acts 3:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Peter say was NOT the reason the man was healed?",
+  "options": [
+    "Faith in Jesus' name",
+    "God's power",
+    "Peter and John's own power or godliness",
+    "The name of Jesus"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Humility"
+  ],
+  "characters": [
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter asked why they stared as if he and John had made the man walk by their own power or godliness."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "62-003-008",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 3,
+  "verse_reference": "1 John 3:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Cain murder his brother, according to John?",
+  "options": [
+    "Because his brother stole his land",
+    "Because his own actions were evil and his brother's were righteous",
+    "Because his brother lied to their father",
+    "Because God told him to"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Family"
+  ],
+  "characters": [
+    "Cain",
+    "Abel",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John explains that Cain murdered his brother because his own actions were evil and his brother's were righteous."
+}

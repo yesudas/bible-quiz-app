@@ -1,0 +1,35 @@
+{
+  "id": "34-001-012",
+  "language": "en",
+  "book_no": 34,
+  "book": "Nahum",
+  "chapter": 1,
+  "verse_reference": "Nahum 1:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was Judah told to celebrate its festivals and fulfill its vows?",
+  "options": [
+    "They had defeated Egypt",
+    "The temple was rebuilt",
+    "The wicked would no longer invade them",
+    "A new king was crowned"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nahum 1:15 says Judah should celebrate because the wicked would no more invade them; they would be completely destroyed."
+}

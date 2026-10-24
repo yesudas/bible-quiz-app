@@ -1,0 +1,31 @@
+{
+  "id": "26-013-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 13,
+  "verse_reference": "Ezekiel 13:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What animal did God compare Israel's prophets to?",
+  "options": [
+    "Wolves in the forest",
+    "Lions in the desert",
+    "Jackals among ruins",
+    "Foxes in a vineyard"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'Your prophets, Israel, are like jackals among ruins.'"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "59-004-010",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 4,
+  "verse_reference": "James 4:14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "James says our life is like what, which appears for a little while and then vanishes?",
+  "options": [
+    "A shadow",
+    "A mist",
+    "A flower",
+    "A wave"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James says we are a mist that appears for a little while and then vanishes."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "44-008-003",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 8,
+  "verse_reference": "Acts 8:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Saul do to the church?",
+  "options": [
+    "He gave money to the poor believers",
+    "He went from house to house and dragged believers off to prison",
+    "He wrote letters to defend them",
+    "He taught in their synagogues"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Saul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Saul began to destroy the church, dragging off both men and women and putting them in prison."
+}

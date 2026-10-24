@@ -1,0 +1,32 @@
+{
+  "id": "42-011-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the prayer: 'Give us each day our daily ____.'",
+  "options": [
+    "water",
+    "work",
+    "bread",
+    "blessing"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus taught them to pray, 'Give us each day our daily bread.'"
+}

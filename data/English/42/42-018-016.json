@@ -1,0 +1,33 @@
+{
+  "id": "42-018-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 18,
+  "verse_reference": "Luke 18:25",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Jesus said it is easier for which animal to go through the eye of a needle than for someone rich to enter the kingdom?",
+  "options": [
+    "A camel",
+    "A horse",
+    "An ox",
+    "A donkey"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "42-001-019",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:38",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Mary answer Gabriel's message?",
+  "options": [
+    "She asked for a sign from heaven",
+    "She ran to tell Joseph",
+    "She laughed in disbelief",
+    "She said, 'I am the Lord's servant. May your word to me be fulfilled.'"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Obedience"
+  ],
+  "characters": [
+    "Mary",
+    "Gabriel"
+  ],
+  "places": [
+    {
+      "name": "Nazareth",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mary humbly accepted God's plan, calling herself the Lord's servant."
+}

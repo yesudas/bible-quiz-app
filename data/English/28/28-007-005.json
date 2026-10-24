@@ -1,0 +1,40 @@
+{
+  "id": "28-007-005",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 7,
+  "verse_reference": "Hosea 7:11",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Hosea said Ephraim was like which bird, easily deceived and senseless?",
+  "options": [
+    "A dove",
+    "An eagle",
+    "A raven",
+    "A sparrow"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ephraim was like a dove, easily deceived and senseless — now calling to Egypt, now turning to Assyria."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "28-001-008",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 1,
+  "verse_reference": "Hosea 1:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God tell Hosea to name his daughter?",
+  "options": [
+    "Lo-Ammi",
+    "Hephzibah",
+    "Lo-Ruhamah",
+    "Beulah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Judgment"
+  ],
+  "characters": [
+    "Hosea",
+    "Gomer",
+    "Lo-Ruhamah"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Hosea to call her Lo-Ruhamah (which means 'not loved'), because He would no longer show love to Israel."
+}

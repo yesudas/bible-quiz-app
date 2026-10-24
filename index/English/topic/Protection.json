@@ -3,7 +3,7 @@
     "language": "English",
     "topic": "Protection",
     "label": "Protection",
-    "count": 45,
+    "count": 62,
     "paths": [
         "English/08/08-002-006.json",
         "English/08/08-002-009.json",
@@ -49,7 +49,24 @@
         "English/19/19-041-006.json",
         "English/19/19-046-001.json",
         "English/19/19-046-004.json",
-        "English/19/19-048-004.json"
+        "English/19/19-048-004.json",
+        "English/38/38-002-004.json",
+        "English/38/38-002-006.json",
+        "English/38/38-012-003.json",
+        "English/38/38-012-005.json",
+        "English/44/44-023-014.json",
+        "English/44/44-023-018.json",
+        "English/44/44-027-018.json",
+        "English/44/44-028-001.json",
+        "English/44/44-028-003.json",
+        "English/44/44-028-005.json",
+        "English/66/66-007-002.json",
+        "English/66/66-009-004.json",
+        "English/66/66-012-006.json",
+        "English/66/66-012-013.json",
+        "English/66/66-012-014.json",
+        "English/66/66-018-004.json",
+        "English/66/66-020-007.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:42+00:00"
 }

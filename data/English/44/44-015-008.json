@@ -1,0 +1,37 @@
+{
+  "id": "44-015-008",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 15,
+  "verse_reference": "Acts 15:13",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who spoke up after Barnabas and Paul finished and gave his judgment?",
+  "options": [
+    "Peter",
+    "John",
+    "James",
+    "Silas"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Wisdom"
+  ],
+  "characters": [
+    "James"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they finished, James spoke up and later said, 'It is my judgment...'"
+}

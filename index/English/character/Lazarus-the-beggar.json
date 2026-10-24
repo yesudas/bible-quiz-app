@@ -1,0 +1,15 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Lazarus-the-beggar",
+    "label": "Lazarus the beggar",
+    "count": 5,
+    "paths": [
+        "English/42/42-016-011.json",
+        "English/42/42-016-013.json",
+        "English/42/42-016-014.json",
+        "English/42/42-016-016.json",
+        "English/42/42-016-018.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

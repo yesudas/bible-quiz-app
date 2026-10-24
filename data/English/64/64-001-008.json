@@ -1,0 +1,33 @@
+{
+  "id": "64-001-008",
+  "language": "en",
+  "book_no": 64,
+  "book": "3 John",
+  "chapter": 1,
+  "verse_reference": "3 John 1:12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who is described in 3 John as being well spoken of by everyone?",
+  "options": [
+    "Diotrephes",
+    "Demetrius",
+    "Silas",
+    "Apollos"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Church"
+  ],
+  "characters": [
+    "Demetrius"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Demetrius was well spoken of by everyone and by the truth itself, and the elder also spoke well of him."
+}

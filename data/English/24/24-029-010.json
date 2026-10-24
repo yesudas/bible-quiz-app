@@ -1,0 +1,43 @@
+{
+  "id": "24-029-010",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 29,
+  "verse_reference": "Jeremiah 29:24-25",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which man in Babylon sent letters to the priest Zephaniah against Jeremiah?",
+  "options": [
+    "Hananiah of Gibeon",
+    "Pashhur son of Immer",
+    "Elnathan son of Akbor",
+    "Shemaiah the Nehelamite"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution",
+    "Prophecy"
+  ],
+  "characters": [
+    "Shemaiah",
+    "Zephaniah",
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Shemaiah the Nehelamite sent letters to Zephaniah son of Maaseiah the priest, urging him to put Jeremiah in the stocks."
+}

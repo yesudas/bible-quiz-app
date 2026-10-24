@@ -1,0 +1,37 @@
+{
+  "id": "44-024-003",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 24,
+  "verse_reference": "Acts 24:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Tertullus call Paul in his accusation?",
+  "options": [
+    "A troublemaker and ringleader of the Nazarene sect",
+    "A thief and liar",
+    "A Roman spy",
+    "A false priest"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Tertullus",
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Caesarea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Tertullus said, 'We have found this man to be a troublemaker... He is a ringleader of the Nazarene sect.'"
+}

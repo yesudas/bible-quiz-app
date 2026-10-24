@@ -1,0 +1,31 @@
+{
+  "id": "42-018-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 18,
+  "verse_reference": "Luke 18:18",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who asked Jesus, 'Good teacher, what must I do to inherit eternal life?'",
+  "options": [
+    "A Pharisee in the temple",
+    "A certain ruler",
+    "A Roman soldier",
+    "A blind beggar"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A certain ruler asked Jesus, 'Good teacher, what must I do to inherit eternal life?'"
+}

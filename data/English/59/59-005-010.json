@@ -1,0 +1,30 @@
+{
+  "id": "59-005-010",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 5,
+  "verse_reference": "James 5:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"The prayer of a righteous person is ______ and effective.\"",
+  "options": [
+    "holy",
+    "powerful",
+    "quiet",
+    "long"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James teaches believers to confess their sins and pray for each other, because the prayer of a righteous person is powerful and effective."
+}

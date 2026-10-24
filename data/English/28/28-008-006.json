@@ -1,0 +1,32 @@
+{
+  "id": "28-008-006",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 8,
+  "verse_reference": "Hosea 8:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"They sow the wind and reap the ______.\"",
+  "options": [
+    "storm",
+    "harvest",
+    "whirlwind",
+    "rain"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said, 'They sow the wind and reap the whirlwind' — their foolish choices would bring even greater trouble."
+}

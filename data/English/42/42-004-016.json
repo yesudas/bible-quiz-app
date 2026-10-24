@@ -1,0 +1,38 @@
+{
+  "id": "42-004-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 4,
+  "verse_reference": "Luke 4:27",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which leper did Jesus say was cleansed in the time of Elisha?",
+  "options": [
+    "Gehazi",
+    "Uzziah",
+    "Naaman the Syrian",
+    "Miriam"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Mission"
+  ],
+  "characters": [
+    "Elisha",
+    "Naaman"
+  ],
+  "places": [
+    {
+      "name": "Syria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said there were many lepers in Israel in Elisha's time, yet none were cleansed except Naaman the Syrian."
+}

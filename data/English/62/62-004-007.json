@@ -1,0 +1,35 @@
+{
+  "id": "62-004-007",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 4,
+  "verse_reference": "1 John 4:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What does John say love truly is?",
+  "options": [
+    "That we loved God first",
+    "That we kept all the commands",
+    "Not that we loved God, but that he loved us and sent his Son as an atoning sacrifice",
+    "That we gave money to the poor"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "God",
+    "Jesus",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says love is not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins."
+}

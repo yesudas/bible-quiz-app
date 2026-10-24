@@ -1,0 +1,34 @@
+{
+  "id": "38-010-011",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 10,
+  "verse_reference": "Zechariah 10:11",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Which river did God say would have all its depths dry up?",
+  "options": [
+    "The Nile",
+    "The Jordan",
+    "The Euphrates",
+    "The Tigris"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Nile",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All the depths of the Nile would dry up, the pride of Assyria would be brought down and Egypt's sceptre would pass away."
+}

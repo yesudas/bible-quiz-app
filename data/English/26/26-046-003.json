@@ -1,0 +1,35 @@
+{
+  "id": "26-046-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 46,
+  "verse_reference": "Ezekiel 46:4",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What burnt offering did the prince bring to the LORD on the Sabbath day?",
+  "options": [
+    "One bull and one ram",
+    "Two goats and a lamb",
+    "Seven bulls",
+    "Six male lambs and a ram, all without defect"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The burnt offering the prince brings to the LORD on the Sabbath day is to be six male lambs and a ram, all without defect."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "41-004-003",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 4,
+  "verse_reference": "Mark 4:5-6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did the seed on rocky places wither?",
+  "options": [
+    "It had no root",
+    "The birds ate it",
+    "The thorns choked it",
+    "It was planted too late"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The seed sprang up quickly because the soil was shallow, but when the sun came up the plants were scorched and withered because they had no root."
+}

@@ -1,0 +1,17 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Blazing-furnace",
+    "label": "Blazing furnace",
+    "count": 7,
+    "paths": [
+        "English/27/27-003-005.json",
+        "English/27/27-003-010.json",
+        "English/27/27-003-011.json",
+        "English/27/27-003-012.json",
+        "English/27/27-003-013.json",
+        "English/27/27-003-014.json",
+        "English/27/27-003-015.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

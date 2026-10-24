@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Joshua",
     "label": "Joshua",
-    "count": 162,
+    "count": 167,
     "paths": [
         "English/02/02-017-005.json",
         "English/02/02-033-003.json",
@@ -166,7 +166,12 @@
         "English/07/07-002-014.json",
         "English/11/11-016-014.json",
         "English/13/13-007-008.json",
-        "English/16/16-008-013.json"
+        "English/16/16-008-013.json",
+        "English/37/37-001-003.json",
+        "English/37/37-001-010.json",
+        "English/37/37-001-012.json",
+        "English/37/37-002-002.json",
+        "English/58/58-004-006.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

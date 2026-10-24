@@ -1,0 +1,31 @@
+{
+  "id": "28-006-001",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 6,
+  "verse_reference": "Hosea 6:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"Come, let us ______ to the LORD.\"",
+  "options": [
+    "sing",
+    "pray",
+    "return",
+    "listen"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea called the people to return to the LORD, who had torn them to pieces but would heal them."
+}

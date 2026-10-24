@@ -1,0 +1,35 @@
+{
+  "id": "24-002-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 2,
+  "verse_reference": "Jeremiah 2:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Israel was holy to the LORD, the ____ of his harvest.\"",
+  "options": [
+    "best grain",
+    "firstfruits",
+    "full basket",
+    "new wine"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Covenant",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah 2:3 says Israel was holy to the LORD, the firstfruits of His harvest."
+}

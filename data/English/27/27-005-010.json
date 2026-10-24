@@ -1,0 +1,33 @@
+{
+  "id": "27-005-010",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 5,
+  "verse_reference": "Daniel 5:25",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the writing on the wall: \"MENE, MENE, ______, PARSIN.\"",
+  "options": [
+    "PERES",
+    "DAREI",
+    "TEKEL",
+    "AMEN"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel",
+    "Belshazzar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The inscription that was written was MENE, MENE, TEKEL, PARSIN."
+}

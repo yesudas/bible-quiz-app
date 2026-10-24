@@ -1,0 +1,38 @@
+{
+  "id": "41-002-007",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 2,
+  "verse_reference": "Mark 2:12",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the healed man do in front of everyone?",
+  "options": [
+    "He got up, took his mat and walked out",
+    "He danced in the street",
+    "He climbed back onto the roof",
+    "He followed Jesus to the lake"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "House in Capernaum",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He got up, took his mat and walked out in full view of them all, and everyone praised God."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "41-001-011",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 1,
+  "verse_reference": "Mark 1:13",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who attended Jesus while he was in the wilderness?",
+  "options": [
+    "His disciples",
+    "John the Baptist",
+    "Angels",
+    "His mother Mary"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Angels",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus was with the wild animals, and angels attended him."
+}

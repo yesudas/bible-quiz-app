@@ -1,0 +1,32 @@
+{
+  "id": "62-005-003",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 5,
+  "verse_reference": "1 John 5:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does John call the victory that has overcome the world?",
+  "options": [
+    "Our strength",
+    "Our wisdom",
+    "Our faith",
+    "Our riches"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says this is the victory that has overcome the world, even our faith."
+}

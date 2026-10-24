@@ -1,0 +1,33 @@
+{
+  "id": "41-013-016",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 13,
+  "verse_reference": "Mark 13:28",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What lesson did Jesus teach from the fig tree?",
+  "options": [
+    "It never bears fruit in winter",
+    "Its roots go very deep",
+    "When its twigs get tender and leaves come out, summer is near",
+    "It grows only near water"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"As soon as its twigs get tender and its leaves come out, you know that summer is near.\""
+}

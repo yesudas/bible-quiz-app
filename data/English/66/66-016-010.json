@@ -1,0 +1,34 @@
+{
+  "id": "66-016-010",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 16,
+  "verse_reference": "Revelation 16:16",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "What is the Hebrew name of the place where the kings of the world were gathered?",
+  "options": [
+    "Gethsemane",
+    "Armageddon",
+    "Golgotha",
+    "Bethel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Armageddon",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The spirits gathered the kings together to the place that in Hebrew is called Armageddon."
+}

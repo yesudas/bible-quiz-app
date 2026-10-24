@@ -1,0 +1,32 @@
+{
+  "id": "45-004-006",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 4,
+  "verse_reference": "Romans 4:9-10",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When was Abraham's faith credited to him as righteousness?",
+  "options": [
+    "Before he was circumcised",
+    "After he was circumcised",
+    "After Isaac was born",
+    "After he went to Egypt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Covenant"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul points out that Abraham's faith was credited to him before he was circumcised, not after."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "32-001-007",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 1,
+  "verse_reference": "Jonah 1:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the frightened sailors do to make the ship lighter?",
+  "options": [
+    "Cut down the mast",
+    "Threw the cargo into the sea",
+    "Took the sails down",
+    "Left in a small boat"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Fear"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sea",
+      "type": "sea"
+    },
+    {
+      "name": "Ship",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The sailors threw the cargo into the sea to lighten the ship."
+}

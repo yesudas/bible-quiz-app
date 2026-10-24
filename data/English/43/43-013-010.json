@@ -1,0 +1,37 @@
+{
+  "id": "43-013-010",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 13,
+  "verse_reference": "John 13:26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Jesus show who would betray him?",
+  "options": [
+    "He pointed at him",
+    "He gave him the piece of bread after dipping it in the dish",
+    "He washed his feet last",
+    "He gave him the money bag"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Jesus",
+    "Judas Iscariot"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 13:26, Jesus said it was the one to whom he would give this piece of bread when he had dipped it in the dish. Then he gave it to Judas."
+}

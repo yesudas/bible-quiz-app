@@ -1,0 +1,33 @@
+{
+  "id": "26-003-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 3,
+  "verse_reference": "Ezekiel 3:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete God's words: \"Son of man, I have made you a ______ for the people of Israel.\"",
+  "options": [
+    "shepherd",
+    "judge",
+    "king",
+    "watchman"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God made Ezekiel a watchman for Israel, to hear His word and give them warning."
+}

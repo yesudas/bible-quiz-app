@@ -1,0 +1,39 @@
+{
+  "id": "40-026-032",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:74-75",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "What happened immediately after Peter's third denial, and what did Peter do?",
+  "options": [
+    "A rooster crowed, and Peter went outside and wept bitterly",
+    "An angel appeared, and Peter ran away",
+    "The soldiers arrested Peter",
+    "Jesus called Peter by name"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Repentance",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Courtyard of the high priest",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:74-75 says immediately a rooster crowed. Then Peter remembered what Jesus had said, and he went outside and wept bitterly."
+}

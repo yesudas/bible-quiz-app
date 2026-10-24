@@ -1,0 +1,40 @@
+{
+  "id": "44-018-017",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 18,
+  "verse_reference": "Acts 18:26",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Priscilla and Aquila do after hearing Apollos speak?",
+  "options": [
+    "Told him to stop teaching",
+    "Reported him to Paul",
+    "Invited him to their home and explained the way of God more adequately",
+    "Asked him to leave Ephesus"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship",
+    "Love"
+  ],
+  "characters": [
+    "Priscilla",
+    "Aquila",
+    "Apollos"
+  ],
+  "places": [
+    {
+      "name": "Ephesus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They invited him to their home and explained to him the way of God more adequately."
+}

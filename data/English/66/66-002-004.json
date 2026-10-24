@@ -1,0 +1,37 @@
+{
+  "id": "66-002-004",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 2,
+  "verse_reference": "Revelation 2:6,15",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Whose practices did both Jesus and the church in Ephesus hate?",
+  "options": [
+    "The Pharisees",
+    "The Samaritans",
+    "The Sadducees",
+    "The Nicolaitans"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Church"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Ephesus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said the Ephesians hated the practices of the Nicolaitans, which he also hated. The teaching of the Nicolaitans is also mentioned at Pergamum."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "42-003-008",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 3,
+  "verse_reference": "Luke 3:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the words from Isaiah: 'And all people will see God's ____.'",
+  "options": [
+    "glory",
+    "kingdom",
+    "salvation",
+    "power"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Luke ends the quote from Isaiah with the words, 'And all people will see God's salvation.'"
+}

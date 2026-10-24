@@ -1,0 +1,35 @@
+{
+  "id": "35-002-005",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 2,
+  "verse_reference": "Habakkuk 2:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In Habakkuk 2:4, who is contrasted with the righteous person who lives by faithfulness?",
+  "options": [
+    "The enemy who is puffed up and whose desires are not upright",
+    "The prophet who is tired of waiting",
+    "The priest who neglects the temple",
+    "The king of Judah who repents"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "empire"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God contrasted the proud enemy, whose desires are not upright, with the righteous person who lives by faithfulness."
+}

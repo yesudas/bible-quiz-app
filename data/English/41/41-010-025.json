@@ -1,0 +1,39 @@
+{
+  "id": "41-010-025",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 10,
+  "verse_reference": "Mark 10:51-52",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "What did Bartimaeus do immediately after he received his sight?",
+  "options": [
+    "He went home to his family",
+    "He went to the temple",
+    "He went back to begging",
+    "He followed Jesus along the road"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Discipleship",
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Bartimaeus",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jericho",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"Go, your faith has healed you.\" Immediately he received his sight and followed Jesus along the road."
+}

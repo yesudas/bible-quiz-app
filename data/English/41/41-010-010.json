@@ -1,0 +1,33 @@
+{
+  "id": "41-010-010",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 10,
+  "verse_reference": "Mark 10:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the man who ran up and knelt before Jesus ask him?",
+  "options": [
+    "Where do you live?",
+    "What must I do to inherit eternal life?",
+    "Can you heal my son?",
+    "Who is my neighbor?"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus",
+    "Rich young man"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A man ran up and fell on his knees and asked, \"Good teacher, what must I do to inherit eternal life?\""
+}

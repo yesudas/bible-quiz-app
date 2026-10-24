@@ -1,0 +1,32 @@
+{
+  "id": "42-021-018",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 21,
+  "verse_reference": "Luke 21:34",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus warn could weigh down his followers' hearts?",
+  "options": [
+    "Too much prayer",
+    "Hard work",
+    "Carousing, drunkenness and the anxieties of life",
+    "Helping the poor"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Temptation",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Be careful, or your hearts will be weighed down with carousing, drunkenness and the anxieties of life.'"
+}

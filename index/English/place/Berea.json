@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Berea",
+    "label": "Berea",
+    "count": 3,
+    "paths": [
+        "English/44/44-017-006.json",
+        "English/44/44-017-007.json",
+        "English/44/44-017-008.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

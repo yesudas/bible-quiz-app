@@ -1,0 +1,31 @@
+{
+  "id": "45-009-008",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 9,
+  "verse_reference": "Romans 9:15",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "To whom did God say, \"I will have mercy on whom I have mercy\"?",
+  "options": [
+    "Abraham",
+    "Pharaoh",
+    "Moses",
+    "Elijah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Forgiveness"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quotes what God said to Moses: \"I will have mercy on whom I have mercy.\""
+}

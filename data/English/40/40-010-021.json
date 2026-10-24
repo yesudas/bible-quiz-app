@@ -1,0 +1,31 @@
+{
+  "id": "40-010-021",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 10,
+  "verse_reference": "Matthew 10:39",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Jesus, who will find their life?",
+  "options": [
+    "Whoever finds riches",
+    "Whoever loses their life for his sake",
+    "Whoever avoids all danger",
+    "Whoever keeps the law perfectly"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 10:39 says whoever loses their life for my sake will find it."
+}

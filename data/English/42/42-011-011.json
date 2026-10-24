@@ -1,0 +1,32 @@
+{
+  "id": "42-011-011",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'Any kingdom divided against itself will be ____.'",
+  "options": [
+    "saved",
+    "strong",
+    "ruined",
+    "healed"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Kingdom of God",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Any kingdom divided against itself will be ruined, and a house divided against itself will fall.'"
+}

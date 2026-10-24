@@ -1,0 +1,32 @@
+{
+  "id": "44-022-013",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 22,
+  "verse_reference": "Acts 22:21",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The Lord said, \"Go; I will send you far away to the ______.\"",
+  "options": [
+    "islands",
+    "nations of the east",
+    "Gentiles",
+    "Romans"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord said to Paul, 'Go; I will send you far away to the Gentiles.'"
+}

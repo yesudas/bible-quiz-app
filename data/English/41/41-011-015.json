@@ -1,0 +1,32 @@
+{
+  "id": "41-011-015",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 11,
+  "verse_reference": "Mark 11:22",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' answer about the withered fig tree: \"Have ____ in God.\"",
+  "options": [
+    "faith",
+    "hope",
+    "peace",
+    "joy"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Have faith in God,\" Jesus answered."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "24-004-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 4,
+  "verse_reference": "Jeremiah 4:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "God told the people of Judah to circumcise what?",
+  "options": [
+    "Their sons",
+    "Their hearts",
+    "Their servants",
+    "Their animals"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"Circumcise yourselves to the LORD, circumcise your hearts,\" calling them to inward change."
+}

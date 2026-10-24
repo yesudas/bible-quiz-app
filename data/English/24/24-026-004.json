@@ -1,0 +1,41 @@
+{
+  "id": "24-026-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 26,
+  "verse_reference": "Jeremiah 26:10",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "At which gate of the LORD's house did the officials of Judah take their places to hear Jeremiah's case?",
+  "options": [
+    "The Potsherd Gate",
+    "The Sheep Gate",
+    "The Fish Gate",
+    "The New Gate"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Persecution"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "New Gate",
+      "type": "gate"
+    },
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The officials came up from the royal palace and took their places at the entrance of the New Gate of the LORD's house."
+}

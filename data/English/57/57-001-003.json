@@ -1,0 +1,34 @@
+{
+  "id": "57-001-003",
+  "language": "en",
+  "book_no": 57,
+  "book": "Philemon",
+  "chapter": 1,
+  "verse_reference": "Philemon 1:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Where did the church Paul greeted meet?",
+  "options": [
+    "In the temple",
+    "In a synagogue",
+    "In Philemon's home",
+    "In the marketplace"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Philemon",
+    "Apphia",
+    "Archippus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul greeted Apphia, Archippus and the church that met in Philemon's home."
+}

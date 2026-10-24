@@ -1,0 +1,39 @@
+{
+  "id": "42-018-018",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 18,
+  "verse_reference": "Luke 18:31-33",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "On which day did Jesus say he would rise again after being killed?",
+  "options": [
+    "The first day",
+    "The seventh day",
+    "The third day",
+    "The fortieth day"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said the Son of Man would be mocked, flogged and killed, and on the third day he would rise again."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "46-015-009",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 15,
+  "verse_reference": "1 Corinthians 15:22",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"For as in Adam all die, so in ______ all will be made alive.\"",
+  "options": [
+    "Abraham",
+    "Christ",
+    "Moses",
+    "David"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Salvation",
+    "Jesus",
+    "Sin"
+  ],
+  "characters": [
+    "Adam",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul compares Adam, through whom death came, with Christ, through whom people are made alive."
+}

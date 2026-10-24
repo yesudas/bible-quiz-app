@@ -1,0 +1,39 @@
+{
+  "id": "41-002-009",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 2,
+  "verse_reference": "Mark 2:15-16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the Pharisee teachers of the law complain about at Levi's house?",
+  "options": [
+    "Jesus ate with tax collectors and sinners",
+    "Jesus did not wash his hands",
+    "Jesus healed a man there",
+    "Jesus sat at the head of the table"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Levi"
+  ],
+  "places": [
+    {
+      "name": "Levi's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They asked the disciples, \"Why does he eat with tax collectors and sinners?\""
+}

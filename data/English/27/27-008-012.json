@@ -1,0 +1,32 @@
+{
+  "id": "27-008-012",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 8,
+  "verse_reference": "Daniel 8:20",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "According to Gabriel, what did the two-horned ram stand for?",
+  "options": [
+    "The kings of Media and Persia",
+    "The kings of Egypt and Assyria",
+    "The kings of Israel and Judah",
+    "The kings of Babylon and Greece"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel",
+    "Gabriel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gabriel explained that the two-horned ram represents the kings of Media and Persia."
+}

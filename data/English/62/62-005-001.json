@@ -1,0 +1,35 @@
+{
+  "id": "62-005-001",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 5,
+  "verse_reference": "1 John 5:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does John say about everyone who believes that Jesus is the Christ?",
+  "options": [
+    "They are born of God",
+    "They will become a priest",
+    "They will never be sad",
+    "They must live in Jerusalem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says everyone who believes that Jesus is the Christ is born of God."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "39-001-012",
+  "language": "en",
+  "book_no": 39,
+  "book": "Malachi",
+  "chapter": 1,
+  "verse_reference": "Malachi 1:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the priests say about serving God at the altar?",
+  "options": [
+    "\"What a joy!\"",
+    "\"What a gift!\"",
+    "\"What an honor!\"",
+    "\"What a burden!\""
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The priests called their service \"a burden\" and sniffed at it with contempt."
+}

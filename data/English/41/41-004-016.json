@@ -1,0 +1,33 @@
+{
+  "id": "41-004-016",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 4,
+  "verse_reference": "Mark 4:34",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Jesus do when he was alone with his own disciples?",
+  "options": [
+    "He sent them home",
+    "He explained everything",
+    "He told them new parables only",
+    "He asked them to fast"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship",
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus did not say anything to the crowd without using a parable, but when he was alone with his disciples he explained everything."
+}

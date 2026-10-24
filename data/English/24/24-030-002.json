@@ -1,0 +1,40 @@
+{
+  "id": "24-030-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 30,
+  "verse_reference": "Jeremiah 30:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God promise to do for His people Israel and Judah?",
+  "options": [
+    "Restore their fortunes and bring them back to the land",
+    "Make them rulers of Babylon",
+    "Give them a new language",
+    "Send them to Egypt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"I will bring my people Israel and Judah back from captivity and restore them to the land I gave their ancestors.\""
+}

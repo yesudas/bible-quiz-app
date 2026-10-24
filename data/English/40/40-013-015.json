@@ -1,0 +1,33 @@
+{
+  "id": "40-013-015",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 13,
+  "verse_reference": "Matthew 13:33",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Jesus said the kingdom of heaven is like what, mixed into a large amount of flour until it worked all through the dough?",
+  "options": [
+    "Salt",
+    "Oil",
+    "Honey",
+    "Yeast"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 13:33 says the kingdom of heaven is like yeast that a woman mixed into about sixty pounds of flour until it worked all through the dough."
+}

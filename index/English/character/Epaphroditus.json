@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Epaphroditus",
+    "label": "Epaphroditus",
+    "count": 3,
+    "paths": [
+        "English/50/50-002-010.json",
+        "English/50/50-002-011.json",
+        "English/50/50-004-009.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

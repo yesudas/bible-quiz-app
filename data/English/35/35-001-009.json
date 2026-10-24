@@ -1,0 +1,35 @@
+{
+  "id": "35-001-009",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 1,
+  "verse_reference": "Habakkuk 1:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God say was the \"god\" of the guilty Babylonians?",
+  "options": [
+    "Their own strength",
+    "The sun and moon",
+    "Their king",
+    "Their gold"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Idolatry"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "empire"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God called them guilty people whose own strength is their god."
+}

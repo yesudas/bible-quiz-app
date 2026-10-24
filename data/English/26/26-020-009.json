@@ -1,0 +1,30 @@
+{
+  "id": "26-020-009",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 20,
+  "verse_reference": "Ezekiel 20:37",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete God's words: \"I will take note of you as you pass under my rod, and I will bring you into the bond of the ______.\"",
+  "options": [
+    "covenant",
+    "kingdom",
+    "temple",
+    "law"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would make them pass under His rod and bring them into the bond of the covenant."
+}

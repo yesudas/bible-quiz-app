@@ -1,0 +1,31 @@
+{
+  "id": "45-016-012",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 16,
+  "verse_reference": "Romans 16:23",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which person, the city's director of public works, sent greetings?",
+  "options": [
+    "Gaius",
+    "Erastus",
+    "Quartus",
+    "Tertius"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Erastus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says Erastus, who is the city's director of public works, sends his greetings."
+}

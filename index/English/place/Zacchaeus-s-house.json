@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Zacchaeus-s-house",
+    "label": "Zacchaeus's house",
+    "count": 3,
+    "paths": [
+        "English/42/42-019-004.json",
+        "English/42/42-019-006.json",
+        "English/42/42-019-007.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "44-016-017",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 16,
+  "verse_reference": "Acts 16:30-31",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "The jailer asked what he must do to be saved. They replied, \"______ in the Lord Jesus, and you will be saved — you and your household.\"",
+  "options": [
+    "Believe",
+    "Trust",
+    "Pray",
+    "Hope"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Faith",
+    "Family"
+  ],
+  "characters": [
+    "Paul",
+    "Silas"
+  ],
+  "places": [
+    {
+      "name": "Prison in Philippi",
+      "type": "prison"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They replied, 'Believe in the Lord Jesus, and you will be saved — you and your household.'"
+}

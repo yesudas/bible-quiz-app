@@ -1,0 +1,30 @@
+{
+  "id": "35-003-012",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 3,
+  "verse_reference": "Habakkuk 3:19",
+  "question_type": "DIRECT",
+  "difficulty": "Medium",
+  "question": "According to the note at the end of Habakkuk 3, on what was this prayer to be played?",
+  "options": [
+    "Trumpets",
+    "Drums",
+    "Stringed instruments",
+    "Cymbals"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Music"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The chapter ends with a note for the director of music: on my stringed instruments."
+}

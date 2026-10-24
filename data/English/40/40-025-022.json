@@ -1,0 +1,33 @@
+{
+  "id": "40-025-022",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:40",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"Whatever you did for one of the ______ of these brothers and sisters of mine, you did for me.\"",
+  "options": [
+    "best",
+    "least",
+    "oldest",
+    "first"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:40 says, \"Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.\""
+}

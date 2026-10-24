@@ -1,0 +1,38 @@
+{
+  "id": "40-025-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:18",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "What did the servant who received one bag of gold do with it?",
+  "options": [
+    "Dug a hole in the ground and hid it",
+    "Put it in the bank",
+    "Gave it to a friend",
+    "Lost it at sea"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Hole in the ground",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:18 says the man who had received one bag went off, dug a hole in the ground and hid his master's money."
+}

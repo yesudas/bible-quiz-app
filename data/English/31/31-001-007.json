@@ -1,0 +1,39 @@
+{
+  "id": "31-001-007",
+  "language": "en",
+  "book_no": 31,
+  "book": "Obadiah",
+  "chapter": 1,
+  "verse_reference": "Obadiah 10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why would Edom be covered with shame?",
+  "options": [
+    "Because it refused to pay tribute to Assyria",
+    "Because of the violence against its brother Jacob",
+    "Because it built altars to Baal",
+    "Because it attacked Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Family"
+  ],
+  "characters": [
+    "Jacob",
+    "Esau"
+  ],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said Edom would be covered with shame because of the violence against its brother Jacob. Edom came from Esau, and Israel came from Jacob, his brother."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "52-003-007",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 3,
+  "verse_reference": "1 Thessalonians 3:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the prayer: \"May the Lord make your ____ increase and overflow for each other and for everyone else.\"",
+  "options": [
+    "love",
+    "joy",
+    "strength",
+    "peace"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Prayer"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul prayed that the Lord would make their love increase and overflow for each other and for everyone, just as his love did for them."
+}

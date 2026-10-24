@@ -1,0 +1,31 @@
+{
+  "id": "27-005-016",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 5,
+  "verse_reference": "Daniel 5:31",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who took over the kingdom after Belshazzar died?",
+  "options": [
+    "Darius the Mede",
+    "Cyrus the Persian",
+    "Nebuchadnezzar",
+    "Daniel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sovereignty of God"
+  ],
+  "characters": [
+    "Darius"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Darius the Mede took over the kingdom, at the age of sixty-two."
+}

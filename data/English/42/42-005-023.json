@@ -1,0 +1,32 @@
+{
+  "id": "42-005-023",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:34-35",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jesus say his disciples were not fasting?",
+  "options": [
+    "Fasting was no longer allowed",
+    "They were too poor",
+    "The bridegroom was still with them",
+    "It was the Sabbath"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said the guests of the bridegroom do not fast while he is with them, but the time will come when the bridegroom is taken and they will fast."
+}

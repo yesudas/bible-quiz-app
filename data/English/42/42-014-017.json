@@ -1,0 +1,32 @@
+{
+  "id": "42-014-017",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 14,
+  "verse_reference": "Luke 14:31",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In Jesus' example, a king with ten thousand men must consider whether he can face how many?",
+  "options": [
+    "Fifteen thousand",
+    "Twenty thousand",
+    "Fifty thousand",
+    "Five thousand"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked whether a king would first consider if he could oppose with ten thousand men the one coming against him with twenty thousand."
+}

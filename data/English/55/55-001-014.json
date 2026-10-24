@@ -1,0 +1,39 @@
+{
+  "id": "55-001-014",
+  "language": "en",
+  "book_no": 55,
+  "book": "2 Timothy",
+  "chapter": 1,
+  "verse_reference": "2 Timothy 1:18",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Besides Rome, where did Paul say Onesiphorus had helped him in many ways?",
+  "options": [
+    "Ephesus",
+    "Philippi",
+    "Athens",
+    "Tarsus"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Church"
+  ],
+  "characters": [
+    "Paul",
+    "Onesiphorus",
+    "Timothy"
+  ],
+  "places": [
+    {
+      "name": "Ephesus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said Timothy knew very well how Onesiphorus had helped him in many ways in Ephesus."
+}

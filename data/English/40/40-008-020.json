@@ -1,0 +1,36 @@
+{
+  "id": "40-008-020",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 8,
+  "verse_reference": "Matthew 8:28",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Matthew, how many demon-possessed men met Jesus in the region of the Gadarenes?",
+  "options": [
+    "Two",
+    "One",
+    "Three",
+    "Seven"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Region of the Gadarenes",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 8:28 says two demon-possessed men coming from the tombs met him."
+}

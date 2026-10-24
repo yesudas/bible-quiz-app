@@ -1,0 +1,39 @@
+{
+  "id": "30-004-001",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 4,
+  "verse_reference": "Amos 4:1",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Amos called the women on Mount Samaria who oppressed the poor 'cows of' which place?",
+  "options": [
+    "Gilead",
+    "Carmel",
+    "Sharon",
+    "Bashan"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Justice"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Bashan",
+      "type": "region"
+    },
+    {
+      "name": "Mount Samaria",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 4:1 calls them 'you cows of Bashan on Mount Samaria' because they oppressed the poor and crushed the needy."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "47-005-009",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 5,
+  "verse_reference": "2 Corinthians 5:18-19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What ministry did Paul say God gave us?",
+  "options": [
+    "The ministry of reconciliation",
+    "The ministry of the temple",
+    "The ministry of the law",
+    "The ministry of judgment"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Forgiveness",
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God reconciled us to Himself through Christ and gave us the ministry of reconciliation, not counting people's sins against them."
+}

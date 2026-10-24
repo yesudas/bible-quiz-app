@@ -1,0 +1,33 @@
+{
+  "id": "50-004-009",
+  "language": "en",
+  "book_no": 50,
+  "book": "Philippians",
+  "chapter": 4,
+  "verse_reference": "Philippians 4:18",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who brought the gifts from the Philippians to Paul?",
+  "options": [
+    "Epaphroditus",
+    "Timothy",
+    "Silas",
+    "Luke"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church",
+    "Worship"
+  ],
+  "characters": [
+    "Paul",
+    "Epaphroditus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul received the gifts from Epaphroditus, a fragrant offering pleasing to God."
+}

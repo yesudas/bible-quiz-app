@@ -1,0 +1,33 @@
+{
+  "id": "41-010-009",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 10,
+  "verse_reference": "Mark 10:16",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jesus do with the little children?",
+  "options": [
+    "Sent them home to their mothers",
+    "Asked them to sing",
+    "Gave them bread",
+    "Took them in his arms, put his hands on them and blessed them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Family"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He took the children in his arms, placed his hands on them and blessed them."
+}

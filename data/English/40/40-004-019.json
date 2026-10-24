@@ -1,0 +1,40 @@
+{
+  "id": "40-004-019",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 4,
+  "verse_reference": "Matthew 4:24-25",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "News about Jesus spread all over which land, where people brought him their sick?",
+  "options": [
+    "Egypt",
+    "Syria",
+    "Persia",
+    "Greece"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Syria",
+      "type": "country"
+    },
+    {
+      "name": "Decapolis",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 4:24 says news about him spread all over Syria, and people brought him all who were ill."
+}

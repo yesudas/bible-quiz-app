@@ -1,0 +1,37 @@
+{
+  "id": "42-021-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 21,
+  "verse_reference": "Luke 21:5-6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus say would happen to the beautiful temple?",
+  "options": [
+    "It would be made larger",
+    "It would be covered in gold",
+    "It would last forever",
+    "Not one stone would be left on another"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'The time will come when not one stone will be left on another; every one of them will be thrown down.'"
+}

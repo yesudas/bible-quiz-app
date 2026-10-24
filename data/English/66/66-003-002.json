@@ -1,0 +1,38 @@
+{
+  "id": "66-003-002",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 3,
+  "verse_reference": "Revelation 3:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus say he would do if the church in Sardis did not wake up?",
+  "options": [
+    "Send a famine on the city",
+    "Close the door of the church",
+    "Come like a thief",
+    "Take away their crown"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sardis",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus warned Sardis to wake up and repent, or he would come like a thief, and they would not know the hour."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "30-008-010",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 8,
+  "verse_reference": "Amos 8:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What would people search for but not find during the famine God described?",
+  "options": [
+    "Water",
+    "Bread",
+    "Gold",
+    "The word of the LORD"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 8:12 says people would wander from sea to sea searching for the word of the LORD but not find it."
+}

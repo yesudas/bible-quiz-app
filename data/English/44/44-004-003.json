@@ -1,0 +1,31 @@
+{
+  "id": "44-004-003",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 4,
+  "verse_reference": "Acts 4:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "About how many men believed after hearing the message?",
+  "options": [
+    "Three thousand",
+    "One thousand",
+    "Five thousand",
+    "Five hundred"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Church",
+    "Evangelism"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Many who heard believed, and the number of men who believed grew to about five thousand."
+}

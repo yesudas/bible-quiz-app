@@ -1,0 +1,37 @@
+{
+  "id": "47-009-002",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 9,
+  "verse_reference": "2 Corinthians 9:3-4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Paul send the brothers ahead to Corinth before he came?",
+  "options": [
+    "So the Corinthians would be ready and Paul's boasting would not prove hollow",
+    "To collect taxes for Rome",
+    "To warn the church about false teachers",
+    "To build a new meeting place"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul sent the brothers so the Corinthians would be ready, and so that he and they would not be ashamed if Macedonians came and found them unprepared."
+}

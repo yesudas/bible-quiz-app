@@ -1,0 +1,33 @@
+{
+  "id": "47-013-004",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 13,
+  "verse_reference": "2 Corinthians 13:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Examine yourselves to see whether you are in the ______; test yourselves.\"",
+  "options": [
+    "church",
+    "truth",
+    "light",
+    "faith"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul urged the Corinthians to examine and test themselves to see whether they were in the faith."
+}

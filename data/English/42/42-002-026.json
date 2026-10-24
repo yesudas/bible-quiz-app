@@ -1,0 +1,39 @@
+{
+  "id": "42-002-026",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 2,
+  "verse_reference": "Luke 2:49",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'Didn't you know I had to be in my ____ house?'",
+  "options": [
+    "Lord's",
+    "Father's",
+    "teacher's",
+    "God's holy"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Mary",
+    "Joseph"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked his parents, 'Why were you searching for me? Didn't you know I had to be in my Father's house?'"
+}

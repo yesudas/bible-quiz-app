@@ -1,0 +1,36 @@
+{
+  "id": "44-020-005",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 20,
+  "verse_reference": "Acts 20:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "From which story of the building did Eutychus fall?",
+  "options": [
+    "The second story",
+    "The roof",
+    "The tenth story",
+    "The third story"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Eutychus"
+  ],
+  "places": [
+    {
+      "name": "Troas",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sound asleep, he fell to the ground from the third story and was picked up dead."
+}

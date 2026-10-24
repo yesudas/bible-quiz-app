@@ -1,0 +1,42 @@
+{
+  "id": "44-021-012",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 21,
+  "verse_reference": "Acts 21:23-24",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did James and the elders ask Paul to do to show he lived in obedience to the law?",
+  "options": [
+    "Offer a lamb on the altar",
+    "Fast for forty days",
+    "Leave Jerusalem at once",
+    "Join four men under a vow, purify himself and pay their expenses"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law",
+    "Wisdom"
+  ],
+  "characters": [
+    "Paul",
+    "James"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They asked him to join four men who had made a vow, take part in their purification rites and pay their expenses."
+}

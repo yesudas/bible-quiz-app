@@ -1,0 +1,30 @@
+{
+  "id": "28-004-006",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 4,
+  "verse_reference": "Hosea 4:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "\"And it will be: Like people, like ______.\"",
+  "options": [
+    "priests",
+    "kings",
+    "prophets",
+    "fathers"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said the priests would be punished like the people, for both had sinned."
+}

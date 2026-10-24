@@ -1,0 +1,32 @@
+{
+  "id": "40-015-005",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 15,
+  "verse_reference": "Matthew 15:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Jesus said what defiles a person?",
+  "options": [
+    "What comes out of their mouth",
+    "What goes into their mouth",
+    "Unwashed hands",
+    "Eating with Gentiles"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 15:11 says what goes into someone's mouth does not defile them, but what comes out of their mouth, that is what defiles them."
+}

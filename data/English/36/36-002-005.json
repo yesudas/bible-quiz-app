@@ -1,0 +1,51 @@
+{
+  "id": "36-002-005",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 2,
+  "verse_reference": "Zephaniah 2:4-5",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Gaza, Ashkelon, Ashdod and Ekron were cities of which people?",
+  "options": [
+    "Moabites",
+    "Philistines",
+    "Ammonites",
+    "Assyrians"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gaza",
+      "type": "city"
+    },
+    {
+      "name": "Ashkelon",
+      "type": "city"
+    },
+    {
+      "name": "Ashdod",
+      "type": "city"
+    },
+    {
+      "name": "Ekron",
+      "type": "city"
+    },
+    {
+      "name": "Philistia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "These were cities of the Philistines; verse 5 speaks of 'Canaan, land of the Philistines.'"
+}

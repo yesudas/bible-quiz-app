@@ -1,0 +1,43 @@
+{
+  "id": "44-015-019",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 15,
+  "verse_reference": "Acts 15:40-41",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Whom did Paul choose as his new companion?",
+  "options": [
+    "Silas",
+    "Timothy",
+    "Luke",
+    "Titus"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Mission",
+    "Church"
+  ],
+  "characters": [
+    "Paul",
+    "Silas"
+  ],
+  "places": [
+    {
+      "name": "Syria",
+      "type": "region"
+    },
+    {
+      "name": "Cilicia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul chose Silas and went through Syria and Cilicia, strengthening the churches."
+}

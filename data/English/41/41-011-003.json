@@ -1,0 +1,32 @@
+{
+  "id": "41-011-003",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 11,
+  "verse_reference": "Mark 11:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "If anyone asked why they were untying the colt, the disciples were to say: \"The Lord ____ it and will send it back here shortly.\"",
+  "options": [
+    "owns",
+    "bought",
+    "borrowed",
+    "needs"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told them to say, \"The Lord needs it and will send it back here shortly.\""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "50-003-008",
+  "language": "en",
+  "book_no": 50,
+  "book": "Philippians",
+  "chapter": 3,
+  "verse_reference": "Philippians 3:13-14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"I press on toward the ______ to win the prize for which God has called me heavenward in Christ Jesus.\"",
+  "options": [
+    "finish",
+    "crown",
+    "kingdom",
+    "goal"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul pressed on toward the goal to win the prize of God's heavenward call in Christ."
+}

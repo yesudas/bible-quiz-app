@@ -1,0 +1,43 @@
+{
+  "id": "43-006-021",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 6,
+  "verse_reference": "John 6:67-68",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "When Jesus asked the Twelve if they wanted to leave too, Simon Peter said: \"Lord, to whom shall we go? You have the words of ___.\"",
+  "options": [
+    "wisdom",
+    "truth",
+    "comfort",
+    "eternal life"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Discipleship"
+  ],
+  "characters": [
+    "Simon Peter",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    },
+    {
+      "name": "Synagogue in Capernaum",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 6:68, Simon Peter answered, \"Lord, to whom shall we go? You have the words of eternal life.\""
+}

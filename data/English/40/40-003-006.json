@@ -1,0 +1,42 @@
+{
+  "id": "40-003-006",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 3,
+  "verse_reference": "Matthew 3:5-6",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "In which river did John baptize the people?",
+  "options": [
+    "The Nile",
+    "The Euphrates",
+    "The Jordan",
+    "The Tigris"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Sin"
+  ],
+  "characters": [
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 3:6 says people confessed their sins and were baptized by John in the Jordan River."
+}

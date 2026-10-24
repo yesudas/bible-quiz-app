@@ -1,0 +1,36 @@
+{
+  "id": "30-004-005",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 4,
+  "verse_reference": "Amos 4:6-11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "After each disaster God sent, He said, \"yet you have not ____ to me.\"",
+  "options": [
+    "listened",
+    "prayed",
+    "returned",
+    "sung"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Five times in Amos 4 God says, 'yet you have not returned to me.'"
+}

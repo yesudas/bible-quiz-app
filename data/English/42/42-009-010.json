@@ -1,0 +1,33 @@
+{
+  "id": "42-009-010",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 9,
+  "verse_reference": "Luke 9:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say must happen to the Son of Man?",
+  "options": [
+    "He must become king in Jerusalem",
+    "He must defeat the Romans",
+    "He must suffer, be killed and on the third day be raised to life",
+    "He must build a new temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said the Son of Man must suffer many things, be rejected, be killed and on the third day be raised to life."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "24-046-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 46,
+  "verse_reference": "Jeremiah 46:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Jeremiah 46:10, whose day was the day of battle against Egypt?",
+  "options": [
+    "The day of Pharaoh",
+    "The day of Babylon",
+    "The day of the Nile",
+    "The day of the Lord, the LORD Almighty"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"That day belongs to the Lord, the LORD Almighty—a day of vengeance, for vengeance on his foes.\""
+}

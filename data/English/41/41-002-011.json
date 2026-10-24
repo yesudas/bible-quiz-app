@@ -1,0 +1,33 @@
+{
+  "id": "41-002-011",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 2,
+  "verse_reference": "Mark 2:18-20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jesus say his disciples did not fast while he was with them?",
+  "options": [
+    "Fasting was no longer allowed",
+    "Guests do not fast while the bridegroom is with them",
+    "They were too busy traveling",
+    "They had already fasted forty days"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus",
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus compared himself to a bridegroom; the guests do not fast while he is with them, but they will fast when he is taken away."
+}

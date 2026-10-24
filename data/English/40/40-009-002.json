@@ -1,0 +1,33 @@
+{
+  "id": "40-009-002",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 9,
+  "verse_reference": "Matthew 9:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "When Jesus saw their faith, what did he say to the paralyzed man? \"Take heart, son; your ______ are forgiven.\"",
+  "options": [
+    "debts",
+    "troubles",
+    "fears",
+    "sins"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Forgiveness",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 9:2 says Jesus said, \"Take heart, son; your sins are forgiven.\""
+}

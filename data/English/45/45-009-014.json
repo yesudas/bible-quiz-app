@@ -1,0 +1,38 @@
+{
+  "id": "45-009-014",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 9,
+  "verse_reference": "Romans 9:32-33",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Because Israel pursued righteousness by works rather than faith, what did they stumble over?",
+  "options": [
+    "The stumbling stone",
+    "A wall in Jerusalem",
+    "The tablets of the law",
+    "The temple steps"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says they stumbled over the stumbling stone, quoting God's word about a stone He lays in Zion."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "37-001-011",
+  "language": "en",
+  "book_no": 37,
+  "book": "Haggai",
+  "chapter": 1,
+  "verse_reference": "Haggai 1:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Haggai, the LORD's messenger, gave this message: \"I am ____ you,\" declares the LORD.",
+  "options": [
+    "with",
+    "near",
+    "for",
+    "above"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [
+    "Haggai"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD encouraged the people through Haggai, saying, \"I am with you.\""
+}

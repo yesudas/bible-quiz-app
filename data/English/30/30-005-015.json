@@ -1,0 +1,34 @@
+{
+  "id": "30-005-015",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 5,
+  "verse_reference": "Amos 5:25",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "God asked if Israel brought Him sacrifices for forty years where?",
+  "options": [
+    "In Egypt",
+    "In Babylon",
+    "In the wilderness",
+    "In Jerusalem"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 5:25 asks, 'Did you bring me sacrifices and offerings forty years in the wilderness?'"
+}

@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Lake-of-Galilee",
+    "label": "Lake of Galilee",
+    "count": 4,
+    "paths": [
+        "English/42/42-008-012.json",
+        "English/42/42-008-013.json",
+        "English/42/42-008-014.json",
+        "English/42/42-008-018.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

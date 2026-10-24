@@ -1,0 +1,34 @@
+{
+  "id": "62-001-011",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 1,
+  "verse_reference": "1 John 1:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"If we ______ our sins, he is faithful and just and will forgive us our sins.\"",
+  "options": [
+    "hide",
+    "forget",
+    "count",
+    "confess"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Forgiveness",
+    "Repentance"
+  ],
+  "characters": [
+    "God",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John promises that if we confess our sins, God is faithful and just and will forgive us and purify us from all unrighteousness."
+}

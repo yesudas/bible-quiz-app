@@ -1,0 +1,34 @@
+{
+  "id": "26-023-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 23,
+  "verse_reference": "Ezekiel 23:31-33",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God say Oholibah would drink because she had gone the way of her sister?",
+  "options": [
+    "Bitter water",
+    "New wine",
+    "Her sister's cup",
+    "Water from the Nile"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'You have gone the way of your sister; so I will put her cup into your hand.' It was a cup of ruin and desolation."
+}

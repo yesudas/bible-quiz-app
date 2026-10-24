@@ -1,0 +1,38 @@
+{
+  "id": "47-008-002",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 8,
+  "verse_reference": "2 Corinthians 8:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "The Macedonian churches gave generously even though they were in what condition?",
+  "options": [
+    "They were very wealthy",
+    "They had just built a new church",
+    "Extreme poverty and a very severe trial",
+    "They had no believers left"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Suffering",
+    "Love"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Macedonia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the midst of a very severe trial, their overflowing joy and extreme poverty welled up in rich generosity."
+}

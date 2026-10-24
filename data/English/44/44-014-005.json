@@ -1,0 +1,38 @@
+{
+  "id": "44-014-005",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 14,
+  "verse_reference": "Acts 14:9-10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Paul see in the lame man before healing him?",
+  "options": [
+    "That he had faith to be healed",
+    "That he was very rich",
+    "That he was a priest",
+    "That he was asleep"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Lystra",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul saw that he had faith to be healed and called out, 'Stand up on your feet!'"
+}

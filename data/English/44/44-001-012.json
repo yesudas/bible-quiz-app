@@ -1,0 +1,39 @@
+{
+  "id": "44-001-012",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 1,
+  "verse_reference": "Acts 1:12",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "From which hill did the apostles return to Jerusalem after Jesus was taken up?",
+  "options": [
+    "Mount Sinai",
+    "Mount Carmel",
+    "Mount Zion",
+    "Mount of Olives"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Ascension"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mount of Olives",
+      "type": "mountain"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They returned to Jerusalem from the hill called the Mount of Olives, a Sabbath day's walk away."
+}

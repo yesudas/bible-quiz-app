@@ -1,0 +1,33 @@
+{
+  "id": "48-003-004",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 3,
+  "verse_reference": "Galatians 3:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Who did Paul say are the children of Abraham?",
+  "options": [
+    "Those who keep the Sabbath",
+    "Those who have faith",
+    "Those born in Israel",
+    "Those who live in Jerusalem"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Family"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said those who have faith are children of Abraham."
+}

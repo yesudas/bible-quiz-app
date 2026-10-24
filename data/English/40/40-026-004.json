@@ -1,0 +1,41 @@
+{
+  "id": "40-026-004",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:6",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In whose home in Bethany was Jesus when a woman poured perfume on his head?",
+  "options": [
+    "Simon the Leper",
+    "Lazarus",
+    "Zacchaeus",
+    "Simon the Pharisee"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon the Leper"
+  ],
+  "places": [
+    {
+      "name": "Bethany",
+      "type": "village"
+    },
+    {
+      "name": "Home of Simon the Leper",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:6 says while Jesus was in Bethany in the home of Simon the Leper, a woman came to him."
+}

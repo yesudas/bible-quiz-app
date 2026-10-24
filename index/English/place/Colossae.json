@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Colossae",
+    "label": "Colossae",
+    "count": 3,
+    "paths": [
+        "English/51/51-001-002.json",
+        "English/51/51-001-004.json",
+        "English/51/51-002-001.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

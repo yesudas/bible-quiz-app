@@ -1,0 +1,38 @@
+{
+  "id": "66-005-006",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 5,
+  "verse_reference": "Revelation 5:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When John looked, what did he see standing at the centre of the throne?",
+  "options": [
+    "A Lamb, looking as if it had been slain",
+    "A great lion with golden mane",
+    "A mighty angel with a sword",
+    "A king wearing many crowns"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Though the elder spoke of a Lion, John saw a Lamb, looking as if it had been slain, standing at the centre of the throne."
+}

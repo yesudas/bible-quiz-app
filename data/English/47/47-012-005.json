@@ -1,0 +1,33 @@
+{
+  "id": "47-012-005",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 12,
+  "verse_reference": "2 Corinthians 12:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How many times did Paul plead with the Lord to take the thorn away?",
+  "options": [
+    "Once",
+    "Seven times",
+    "Twice",
+    "Three times"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Suffering"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul pleaded with the Lord three times to take the thorn away."
+}

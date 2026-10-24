@@ -1,0 +1,37 @@
+{
+  "id": "66-001-010",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 1,
+  "verse_reference": "Revelation 1:9",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "On which island was John when he received the revelation?",
+  "options": [
+    "Cyprus",
+    "Crete",
+    "Patmos",
+    "Malta"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [
+    {
+      "name": "Patmos",
+      "type": "island"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John was on the island of Patmos when he received the revelation."
+}

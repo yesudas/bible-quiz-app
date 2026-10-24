@@ -1,0 +1,33 @@
+{
+  "id": "42-006-022",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:41-42",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus say to remove from your own eye before helping your brother?",
+  "options": [
+    "A speck of dust",
+    "The plank",
+    "A grain of sand",
+    "A tear"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'First take the plank out of your eye, and then you will see clearly to remove the speck from your brother's eye.'"
+}

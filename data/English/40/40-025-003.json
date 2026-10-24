@@ -1,0 +1,32 @@
+{
+  "id": "40-025-003",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened to all ten virgins while the bridegroom was a long time in coming?",
+  "options": [
+    "They became drowsy and fell asleep",
+    "They went home",
+    "They ate a meal",
+    "They sang songs"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:5 says the bridegroom was a long time in coming, and they all became drowsy and fell asleep."
+}

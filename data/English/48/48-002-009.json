@@ -1,0 +1,33 @@
+{
+  "id": "48-002-009",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 2,
+  "verse_reference": "Galatians 2:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the leaders ask Paul to keep remembering?",
+  "options": [
+    "The poor",
+    "The temple",
+    "The Sabbath",
+    "The prophets"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Love"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They asked Paul to continue remembering the poor, the very thing he was eager to do."
+}

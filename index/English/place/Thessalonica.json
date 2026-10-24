@@ -1,0 +1,33 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Thessalonica",
+    "label": "Thessalonica",
+    "count": 23,
+    "paths": [
+        "English/44/44-017-001.json",
+        "English/44/44-017-002.json",
+        "English/44/44-017-003.json",
+        "English/44/44-017-004.json",
+        "English/44/44-017-005.json",
+        "English/44/44-017-006.json",
+        "English/44/44-027-002.json",
+        "English/50/50-004-008.json",
+        "English/52/52-001-001.json",
+        "English/52/52-001-002.json",
+        "English/52/52-001-003.json",
+        "English/52/52-001-004.json",
+        "English/52/52-001-006.json",
+        "English/52/52-001-007.json",
+        "English/52/52-002-001.json",
+        "English/52/52-002-005.json",
+        "English/52/52-003-002.json",
+        "English/53/53-001-001.json",
+        "English/53/53-001-002.json",
+        "English/53/53-001-003.json",
+        "English/53/53-001-007.json",
+        "English/53/53-003-004.json",
+        "English/55/55-004-006.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

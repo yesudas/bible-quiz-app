@@ -1,0 +1,33 @@
+{
+  "id": "42-007-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 7,
+  "verse_reference": "Luke 7:33-34",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did people call the Son of Man because he came eating and drinking?",
+  "options": [
+    "A teacher of the law",
+    "A friend of the Pharisees",
+    "A false prophet",
+    "A glutton and a drunkard, a friend of tax collectors and sinners"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Unbelief"
+  ],
+  "characters": [
+    "Jesus",
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said people claimed John had a demon, and they called the Son of Man a glutton and a drunkard, a friend of tax collectors and sinners."
+}

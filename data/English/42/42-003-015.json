@@ -1,0 +1,32 @@
+{
+  "id": "42-003-015",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 3,
+  "verse_reference": "Luke 3:15-16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When people wondered if John might be the Messiah, what did he say?",
+  "options": [
+    "He said he was the Messiah",
+    "He said one more powerful than he would come",
+    "He said the Messiah had already died",
+    "He said he did not know"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Humility"
+  ],
+  "characters": [
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John said one more powerful than he would come, the straps of whose sandals he was not worthy to untie."
+}

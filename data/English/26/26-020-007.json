@@ -1,0 +1,35 @@
+{
+  "id": "26-020-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 20,
+  "verse_reference": "Ezekiel 20:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did God not destroy Israel in the wilderness even after they rebelled?",
+  "options": [
+    "Because they quickly repented",
+    "Because Moses offered a sacrifice",
+    "For the sake of His name among the nations",
+    "Because they had no idols"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He did what would keep His name from being profaned in the eyes of the nations who had seen Him bring Israel out."
+}

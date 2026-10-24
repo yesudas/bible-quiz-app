@@ -1,0 +1,41 @@
+{
+  "id": "33-005-001",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 5,
+  "verse_reference": "Micah 5:2",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "From which town did Micah say a ruler over Israel would come?",
+  "options": [
+    "Nazareth",
+    "Bethlehem",
+    "Hebron",
+    "Jericho"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Jesus",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Bethlehem Ephrathah",
+      "type": "town"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micah prophesied that out of Bethlehem Ephrathah would come one to be ruler over Israel."
+}

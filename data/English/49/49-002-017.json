@@ -1,0 +1,36 @@
+{
+  "id": "49-002-017",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 2,
+  "verse_reference": "Ephesians 2:21-22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does the whole building of believers rise to become?",
+  "options": [
+    "A holy temple in the Lord",
+    "A great city",
+    "A royal palace",
+    "A new ark"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church",
+    "Holy Spirit",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Holy temple in the Lord",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The building rises to become a holy temple in the Lord, a dwelling in which God lives by his Spirit."
+}

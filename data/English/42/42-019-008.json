@@ -1,0 +1,33 @@
+{
+  "id": "42-019-008",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 19,
+  "verse_reference": "Luke 19:12-13",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "In the parable, how many minas did the man of noble birth give to his ten servants?",
+  "options": [
+    "Ten minas",
+    "One hundred minas",
+    "Five minas",
+    "Twelve minas"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Money",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He called ten of his servants and gave them ten minas, saying, 'Put this money to work until I come back.'"
+}

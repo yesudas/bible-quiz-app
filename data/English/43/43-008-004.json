@@ -1,0 +1,42 @@
+{
+  "id": "43-008-004",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 8,
+  "verse_reference": "John 8:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Jesus' words: \"Let any one of you who is without ___ be the first to throw a stone at her.\"",
+  "options": [
+    "fear",
+    "doubt",
+    "shame",
+    "sin"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 8:7, Jesus said, \"Let any one of you who is without sin be the first to throw a stone at her.\" (The earliest manuscripts do not include John 7:53–8:11; the NIV prints it in brackets.)"
+}

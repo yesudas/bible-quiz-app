@@ -1,0 +1,33 @@
+{
+  "id": "45-005-011",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 5,
+  "verse_reference": "Romans 5:15-17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How does Paul compare the gift of grace with Adam's trespass?",
+  "options": [
+    "The gift is smaller than the trespass",
+    "The gift and the trespass are the same",
+    "The gift is not like the trespass; it overflows much more",
+    "The gift cancels only some sins"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Sin"
+  ],
+  "characters": [
+    "Adam",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says the gift is not like the trespass; God's grace and the gift through Jesus Christ overflow to the many."
+}

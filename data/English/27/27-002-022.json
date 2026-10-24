@@ -1,0 +1,41 @@
+{
+  "id": "27-002-022",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 2,
+  "verse_reference": "Daniel 2:49",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "At Daniel's request, who were made administrators over the province of Babylon?",
+  "options": [
+    "Arioch and Ashpenaz",
+    "The magicians and astrologers",
+    "Shadrach, Meshach and Abednego",
+    "Daniel's family from Judah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Friendship"
+  ],
+  "characters": [
+    "Daniel",
+    "Hananiah",
+    "Mishael",
+    "Azariah"
+  ],
+  "places": [
+    {
+      "name": "Province of Babylon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At Daniel's request the king appointed Shadrach, Meshach and Abednego as administrators, while Daniel remained at the royal court."
+}

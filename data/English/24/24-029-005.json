@@ -1,0 +1,35 @@
+{
+  "id": "24-029-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 29,
+  "verse_reference": "Jeremiah 29:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did God say the exiles should pray for the city where they lived?",
+  "options": [
+    "Because they would rule it soon",
+    "Because if it prospered, they too would prosper",
+    "Because it was their homeland",
+    "Because the king commanded it"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"Pray to the LORD for it, because if it prospers, you too will prosper.\""
+}

@@ -1,0 +1,35 @@
+{
+  "id": "34-003-006",
+  "language": "en",
+  "book_no": 34,
+  "book": "Nahum",
+  "chapter": 3,
+  "verse_reference": "Nahum 3:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"All your fortresses are like ______ trees with their first ripe fruit.\"",
+  "options": [
+    "fig",
+    "olive",
+    "palm",
+    "apple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nahum 3:12 says when the fig trees are shaken, the figs fall into the mouth of the eater, showing how easily Nineveh's fortresses would fall."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "24-018-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 18,
+  "verse_reference": "Jeremiah 18:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the potter do when the pot he was shaping was marred?",
+  "options": [
+    "Threw it away",
+    "Sold it anyway",
+    "Formed it into another pot as seemed best to him",
+    "Gave it to Jeremiah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Repentance"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Potter's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the pot was marred in his hands, the potter formed it into another pot, shaping it as seemed best to him."
+}

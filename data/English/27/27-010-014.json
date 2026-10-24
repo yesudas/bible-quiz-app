@@ -1,0 +1,32 @@
+{
+  "id": "27-010-014",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 10,
+  "verse_reference": "Daniel 10:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the messenger say he would tell Daniel about?",
+  "options": [
+    "The law of Moses",
+    "The names of the kings",
+    "What is written in the Book of Truth",
+    "The building of the temple"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel",
+    "Michael"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The messenger said, \"I will tell you what is written in the Book of Truth,\" and that no one supported him except Michael, Daniel's prince."
+}

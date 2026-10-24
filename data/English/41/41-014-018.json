@@ -1,0 +1,39 @@
+{
+  "id": "41-014-018",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 14,
+  "verse_reference": "Mark 14:37",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When Jesus came back from praying, what were Peter, James and John doing?",
+  "options": [
+    "Praying",
+    "Sleeping",
+    "Keeping watch",
+    "Singing"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Gethsemane",
+      "type": "garden"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He returned and found them sleeping. He said to Peter, \"Simon, are you asleep? Couldn't you keep watch for one hour?\""
+}

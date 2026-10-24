@@ -1,0 +1,38 @@
+{
+  "id": "42-002-009",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 2,
+  "verse_reference": "Luke 2:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What sign did the angel give the shepherds?",
+  "options": [
+    "A baby wrapped in cloths and lying in a manger",
+    "A bright star over a house",
+    "A dove resting on a roof",
+    "A light in the temple"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Angels",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The sign was a baby wrapped in cloths and lying in a manger."
+}

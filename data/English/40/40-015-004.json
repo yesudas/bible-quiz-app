@@ -1,0 +1,33 @@
+{
+  "id": "40-015-004",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 15,
+  "verse_reference": "Matthew 15:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the words from Isaiah that Jesus quoted: \"These people honor me with their lips, but their ______ are far from me.\"",
+  "options": [
+    "feet",
+    "hearts",
+    "eyes",
+    "hands"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus",
+    "Isaiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 15:7-8 quotes Isaiah: \"These people honor me with their lips, but their hearts are far from me.\""
+}

@@ -1,0 +1,34 @@
+{
+  "id": "26-027-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 27,
+  "verse_reference": "Ezekiel 27:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete what Tyre said about itself: \"I am ______ in beauty.\"",
+  "options": [
+    "rich",
+    "perfect",
+    "great",
+    "famous"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Tyre, 'You say, \"I am perfect in beauty.\"'"
+}

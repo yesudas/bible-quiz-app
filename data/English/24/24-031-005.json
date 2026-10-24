@@ -1,0 +1,36 @@
+{
+  "id": "24-031-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 31,
+  "verse_reference": "Jeremiah 31:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "God said He who scattered Israel would gather them and watch over His flock like what?",
+  "options": [
+    "A king",
+    "A shepherd",
+    "A father",
+    "A watchman"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"He who scattered Israel will gather them and will watch over his flock like a shepherd.\""
+}

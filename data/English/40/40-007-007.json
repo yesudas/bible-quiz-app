@@ -1,0 +1,32 @@
+{
+  "id": "40-007-007",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 7,
+  "verse_reference": "Matthew 7:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Jesus said, \"Do to others what you would have them do to you.\" What did he say this sums up?",
+  "options": [
+    "The Ten Commandments only",
+    "The psalms of David",
+    "The words of John the Baptist",
+    "The Law and the Prophets"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Law"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 7:12 says doing to others what you would have them do to you sums up the Law and the Prophets."
+}

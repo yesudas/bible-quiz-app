@@ -1,0 +1,30 @@
+{
+  "id": "30-004-009",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 4,
+  "verse_reference": "Amos 4:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "\"You were like a burning stick snatched from the ____, yet you have not returned to me.\"",
+  "options": [
+    "altar",
+    "fire",
+    "oven",
+    "furnace"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 4:11 compares Israel to a burning stick snatched from the fire."
+}

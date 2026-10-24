@@ -1,0 +1,39 @@
+{
+  "id": "24-006-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 6,
+  "verse_reference": "Jeremiah 6:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which tribe's people did God tell to flee for safety from Jerusalem?",
+  "options": [
+    "Judah",
+    "Benjamin",
+    "Levi",
+    "Ephraim"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Benjamin",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"Flee for safety, people of Benjamin! Flee from Jerusalem!\""
+}

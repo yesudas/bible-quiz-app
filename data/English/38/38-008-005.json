@@ -1,0 +1,31 @@
+{
+  "id": "38-008-005",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 8,
+  "verse_reference": "Zechariah 8:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"They will be my people, and I will be faithful and righteous to them as their _____.\"",
+  "options": [
+    "God",
+    "King",
+    "Father",
+    "Shepherd"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Covenant",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God promised to bring His people back to live in Jerusalem; they would be His people and He would be their God."
+}

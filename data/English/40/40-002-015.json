@@ -1,0 +1,37 @@
+{
+  "id": "40-002-015",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 2,
+  "verse_reference": "Matthew 2:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When Herod realized the Magi had outwitted him, what did he order?",
+  "options": [
+    "To kill all boys in Bethlehem two years old and under",
+    "To arrest the Magi",
+    "To close the city gates",
+    "To burn the town"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Sin"
+  ],
+  "characters": [
+    "Herod"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 2:16 says Herod gave orders to kill all the boys in Bethlehem and its vicinity who were two years old and under."
+}

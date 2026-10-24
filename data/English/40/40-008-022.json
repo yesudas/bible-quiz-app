@@ -1,0 +1,38 @@
+{
+  "id": "40-008-022",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 8,
+  "verse_reference": "Matthew 8:32",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "What happened to the herd of pigs after the demons went into them?",
+  "options": [
+    "They ran into the town",
+    "They attacked the herders",
+    "They rushed down the steep bank into the lake and died",
+    "They fell asleep"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Region of the Gadarenes",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 8:32 says the whole herd rushed down the steep bank into the lake and died in the water."
+}

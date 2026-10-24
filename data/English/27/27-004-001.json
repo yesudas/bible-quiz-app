@@ -1,0 +1,37 @@
+{
+  "id": "27-004-001",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 4,
+  "verse_reference": "Daniel 4:4-5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did Nebuchadnezzar feel after his dream in this chapter?",
+  "options": [
+    "Happy",
+    "Afraid",
+    "Angry",
+    "Proud"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Royal palace of Babylon",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nebuchadnezzar was at home in his palace, content and prosperous, when he had a dream that made him afraid."
+}

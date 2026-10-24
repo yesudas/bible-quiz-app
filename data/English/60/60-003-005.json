@@ -1,0 +1,31 @@
+{
+  "id": "60-003-005",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 3,
+  "verse_reference": "1 Peter 3:9",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What does Peter tell believers to do instead of repaying insult with insult?",
+  "options": [
+    "Stay silent forever",
+    "Repay with blessing",
+    "Walk away angry",
+    "Tell the leaders"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Forgiveness"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Do not repay evil with evil or insult with insult; instead repay evil with blessing."
+}

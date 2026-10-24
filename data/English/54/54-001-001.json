@@ -1,0 +1,35 @@
+{
+  "id": "54-001-001",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 1,
+  "verse_reference": "1 Timothy 1:2",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Paul called whom \"my true son in the faith\"?",
+  "options": [
+    "Titus",
+    "Timothy",
+    "Silas",
+    "Mark"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Discipleship",
+    "Family"
+  ],
+  "characters": [
+    "Paul",
+    "Timothy"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote this letter to Timothy and called him his true son in the faith."
+}

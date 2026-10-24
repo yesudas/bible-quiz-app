@@ -1,0 +1,35 @@
+{
+  "id": "66-004-004",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 4,
+  "verse_reference": "Revelation 4:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were the twenty-four elders wearing?",
+  "options": [
+    "Purple robes and silver rings",
+    "White clothes and crowns of gold",
+    "Sackcloth and ashes",
+    "Armour and helmets"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The elders were dressed in white and had crowns of gold on their heads."
+}

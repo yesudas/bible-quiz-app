@@ -1,0 +1,34 @@
+{
+  "id": "54-005-001",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 5,
+  "verse_reference": "1 Timothy 5:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did Paul tell Timothy to treat an older man?",
+  "options": [
+    "Rebuke him harshly",
+    "Ignore him",
+    "Exhort him as if he were his father",
+    "Send him away"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Church"
+  ],
+  "characters": [
+    "Paul",
+    "Timothy"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said not to rebuke an older man harshly, but to exhort him as if he were his father."
+}

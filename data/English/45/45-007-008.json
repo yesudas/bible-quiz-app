@@ -1,0 +1,33 @@
+{
+  "id": "45-007-008",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 7,
+  "verse_reference": "Romans 7:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"For what I want to do I do not do, but what I ______ I do.\"",
+  "options": [
+    "hate",
+    "love",
+    "forget",
+    "fear"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Temptation"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul describes his struggle: he does not do what he wants, but does what he hates."
+}

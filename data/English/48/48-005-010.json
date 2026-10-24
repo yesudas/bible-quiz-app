@@ -1,0 +1,31 @@
+{
+  "id": "48-005-010",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 5,
+  "verse_reference": "Galatians 5:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Paul said that if you walk by the Spirit, you will not do what?",
+  "options": [
+    "Pray every day",
+    "Gratify the desires of the flesh",
+    "Help the poor",
+    "Read the law"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Temptation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said, \"Walk by the Spirit, and you will not gratify the desires of the flesh.\""
+}

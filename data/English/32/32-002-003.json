@@ -1,0 +1,37 @@
+{
+  "id": "32-002-003",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 2,
+  "verse_reference": "Jonah 2:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to Jonah's prayer, who hurled him into the deep?",
+  "options": [
+    "The captain",
+    "The LORD",
+    "Satan",
+    "The storm"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "God's Power",
+    "Suffering"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [
+    {
+      "name": "Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonah prayed, \"You hurled me into the depths,\" seeing God's hand in what happened, even though the sailors had thrown him in."
+}

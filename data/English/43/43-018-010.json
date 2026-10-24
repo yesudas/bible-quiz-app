@@ -1,0 +1,42 @@
+{
+  "id": "43-018-010",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 18,
+  "verse_reference": "John 18:26-27",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "What happened right after Peter denied Jesus the third time?",
+  "options": [
+    "Jesus looked at him",
+    "A rooster began to crow",
+    "The soldiers arrested him",
+    "He ran to the tomb"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Prophecy"
+  ],
+  "characters": [
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Courtyard of the high priest",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 18:27 says Peter again denied it, and at that moment a rooster began to crow."
+}

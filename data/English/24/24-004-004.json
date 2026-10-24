@@ -1,0 +1,36 @@
+{
+  "id": "24-004-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 4,
+  "verse_reference": "Jeremiah 4:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What animal did God use to picture the destroyer of nations coming out of his lair?",
+  "options": [
+    "A bear",
+    "A wolf",
+    "A leopard",
+    "A lion"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A lion had come out of his lair; a destroyer of nations had set out to lay waste the land."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "45-008-003",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 8,
+  "verse_reference": "Romans 8:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Romans 8:6, the mind governed by the Spirit is what?",
+  "options": [
+    "Life and peace",
+    "Death",
+    "Fear and worry",
+    "Pride and power"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holy Spirit"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says the mind governed by the flesh is death, but the mind governed by the Spirit is life and peace."
+}

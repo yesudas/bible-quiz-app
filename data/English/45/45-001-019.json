@@ -1,0 +1,31 @@
+{
+  "id": "45-001-019",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 1,
+  "verse_reference": "Romans 1:25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did people worship and serve instead of the Creator?",
+  "options": [
+    "Created things",
+    "Angels only",
+    "Their kings",
+    "The prophets"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Worship",
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says they exchanged the truth about God for a lie and worshiped created things rather than the Creator."
+}

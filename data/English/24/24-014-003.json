@@ -1,0 +1,31 @@
+{
+  "id": "24-014-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 14,
+  "verse_reference": "Jeremiah 14:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Because there was no grass, what did the doe in the field do?",
+  "options": [
+    "She abandoned her newborn fawn",
+    "She ran to the city",
+    "She drank from the river",
+    "She hid in a cave"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Even the doe in the field deserted her newborn fawn because there was no grass."
+}

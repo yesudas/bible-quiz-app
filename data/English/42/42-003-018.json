@@ -1,0 +1,33 @@
+{
+  "id": "42-003-018",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 3,
+  "verse_reference": "Luke 3:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Jesus doing when heaven was opened after his baptism?",
+  "options": [
+    "Praying",
+    "Teaching the crowds",
+    "Walking out of the river",
+    "Eating with John"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Luke says that as Jesus was praying after his baptism, heaven was opened."
+}

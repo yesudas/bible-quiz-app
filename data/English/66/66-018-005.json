@@ -1,0 +1,35 @@
+{
+  "id": "66-018-005",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 18,
+  "verse_reference": "Revelation 18:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Revelation 18:5, how high were Babylon's sins piled up?",
+  "options": [
+    "Up to the mountains",
+    "Up to heaven",
+    "Up to the clouds",
+    "Up to the city walls"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Her sins are piled up to heaven, and God has remembered her crimes."
+}

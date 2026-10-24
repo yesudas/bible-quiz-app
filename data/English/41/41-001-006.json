@@ -1,0 +1,34 @@
+{
+  "id": "41-001-006",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 1,
+  "verse_reference": "Mark 1:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "John baptized with water. What did he say the one coming after him would baptize with?",
+  "options": [
+    "Fire only",
+    "Oil",
+    "The Holy Spirit",
+    "Blood"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit",
+    "Jesus"
+  ],
+  "characters": [
+    "John the Baptist",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John said, \"I baptize you with water, but he will baptize you with the Holy Spirit.\""
+}

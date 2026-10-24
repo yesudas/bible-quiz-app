@@ -1,0 +1,33 @@
+{
+  "id": "40-027-007",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 27,
+  "verse_reference": "Matthew 27:12-14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why was Pilate greatly amazed?",
+  "options": [
+    "Jesus called down angels",
+    "The crowd defended Jesus",
+    "Jesus made no reply, not even to a single charge",
+    "Jesus spoke Latin"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus",
+    "Pilate"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 27:14 says Jesus made no reply, not even to a single charge—to the great amazement of the governor."
+}

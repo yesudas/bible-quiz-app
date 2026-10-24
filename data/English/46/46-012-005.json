@@ -1,0 +1,29 @@
+{
+  "id": "46-012-005",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 12,
+  "verse_reference": "1 Corinthians 12:11",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who decides which gifts each believer receives?",
+  "options": [
+    "The apostles",
+    "The believer",
+    "The Spirit",
+    "The elders"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "All these gifts are the work of one Spirit, who distributes them to each one, just as he determines."
+}

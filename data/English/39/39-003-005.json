@@ -1,0 +1,30 @@
+{
+  "id": "39-003-005",
+  "language": "en",
+  "book_no": 39,
+  "book": "Malachi",
+  "chapter": 3,
+  "verse_reference": "Malachi 3:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"I the LORD do not ______.\"",
+  "options": [
+    "sleep",
+    "forget",
+    "change",
+    "fail"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He does not change, so the descendants of Jacob were not destroyed."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "44-020-008",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 20,
+  "verse_reference": "Acts 20:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Paul decide to sail past Ephesus?",
+  "options": [
+    "He was afraid of Demetrius",
+    "He was in a hurry to reach Jerusalem by the day of Pentecost",
+    "The ship could not stop there",
+    "The elders asked him not to come"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Ephesus",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wanted to avoid spending time in Asia, for he was in a hurry to reach Jerusalem, if possible, by the day of Pentecost."
+}

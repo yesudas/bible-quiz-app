@@ -1,0 +1,33 @@
+{
+  "id": "60-001-010",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 1,
+  "verse_reference": "1 Peter 1:18-19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "With what were believers redeemed, according to Peter?",
+  "options": [
+    "Silver and gold",
+    "The blood of bulls and goats",
+    "Good works",
+    "The precious blood of Christ"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Believers were not redeemed with perishable things like silver or gold, but with the precious blood of Christ."
+}

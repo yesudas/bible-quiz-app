@@ -1,0 +1,38 @@
+{
+  "id": "24-022-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 22,
+  "verse_reference": "Jeremiah 22:6",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "God said the palace of the king of Judah was to Him like the summit of Lebanon and like which other region?",
+  "options": [
+    "Bashan",
+    "Carmel",
+    "Gilead",
+    "Sharon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gilead",
+      "type": "region"
+    },
+    {
+      "name": "Lebanon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, \"Though you are like Gilead to me, like the summit of Lebanon, I will surely make you like a wasteland.\""
+}

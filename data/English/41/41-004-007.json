@@ -1,0 +1,33 @@
+{
+  "id": "41-004-007",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 4,
+  "verse_reference": "Mark 4:14",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "In Jesus' explanation of the parable of the sower, what does the seed stand for?",
+  "options": [
+    "Money",
+    "Good deeds",
+    "The word",
+    "Prayer"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus explained, \"The farmer sows the word.\""
+}

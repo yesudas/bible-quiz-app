@@ -1,0 +1,36 @@
+{
+  "id": "26-006-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 6,
+  "verse_reference": "Ezekiel 6:3-4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God say He would destroy on the mountains and hills?",
+  "options": [
+    "Their vineyards",
+    "Their high places",
+    "Their cities of refuge",
+    "Their wells"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Worship",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mountains of Israel",
+      "type": "mountain range"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would bring a sword against them and destroy their high places, and their altars would be demolished."
+}

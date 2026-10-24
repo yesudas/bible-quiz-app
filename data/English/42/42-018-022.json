@@ -1,0 +1,38 @@
+{
+  "id": "42-018-022",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 18,
+  "verse_reference": "Luke 18:39",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the blind man do when those in front rebuked him and told him to be quiet?",
+  "options": [
+    "He went home",
+    "He stopped calling",
+    "He shouted all the more",
+    "He followed silently"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Roadside near Jericho",
+      "type": "road"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Those who led the way rebuked him, but he shouted all the more, 'Son of David, have mercy on me!'"
+}

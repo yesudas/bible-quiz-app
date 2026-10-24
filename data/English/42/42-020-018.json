@@ -1,0 +1,31 @@
+{
+  "id": "42-020-018",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 20,
+  "verse_reference": "Luke 20:38",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Jesus' words: 'He is not the God of the dead, but of the ____, for to him all are alive.'",
+  "options": [
+    "righteous",
+    "faithful",
+    "living",
+    "chosen"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'He is not the God of the dead, but of the living, for to him all are alive.'"
+}

@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Province-of-Babylon",
+    "label": "Province of Babylon",
+    "count": 4,
+    "paths": [
+        "English/27/27-002-021.json",
+        "English/27/27-002-022.json",
+        "English/27/27-003-002.json",
+        "English/27/27-003-018.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

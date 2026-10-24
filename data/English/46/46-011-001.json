@@ -1,0 +1,34 @@
+{
+  "id": "46-011-001",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 11,
+  "verse_reference": "1 Corinthians 11:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Follow my example, as I follow the example of ______.\"",
+  "options": [
+    "Moses",
+    "Peter",
+    "Christ",
+    "Abraham"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship",
+    "Jesus"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul encouraged the Corinthians to follow him as he followed Christ."
+}

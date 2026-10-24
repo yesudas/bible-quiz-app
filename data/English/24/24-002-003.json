@@ -1,0 +1,39 @@
+{
+  "id": "24-002-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 2,
+  "verse_reference": "Jeremiah 2:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What question did the people fail to ask, even though God had led them out of Egypt?",
+  "options": [
+    "\"Where is the LORD?\"",
+    "\"Who will be our king?\"",
+    "\"When will we reach the land?\"",
+    "\"Why must we keep the law?\""
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people did not ask, \"Where is the LORD, who brought us up out of Egypt and led us through the wilderness?\""
+}

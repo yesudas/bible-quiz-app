@@ -1,0 +1,33 @@
+{
+  "id": "42-020-010",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 20,
+  "verse_reference": "Luke 20:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What tricky question did the spies ask Jesus?",
+  "options": [
+    "Who is the greatest prophet?",
+    "Should we fast on feast days?",
+    "Is it right for us to pay taxes to Caesar or not?",
+    "Where should we worship?"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus",
+    "Caesar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The spies asked, 'Is it right for us to pay taxes to Caesar or not?'"
+}

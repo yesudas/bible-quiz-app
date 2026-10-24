@@ -1,0 +1,35 @@
+{
+  "id": "25-001-014",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 1,
+  "verse_reference": "Lamentations 1:19",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to Lamentations 1:19, who perished in the city while searching for food?",
+  "options": [
+    "Her priests and her elders",
+    "Her kings and prophets",
+    "Her soldiers and judges",
+    "Her women and children"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Her priests and elders died in the city while they searched for food to keep themselves alive."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "26-039-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 39,
+  "verse_reference": "Ezekiel 39:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God say He would no longer let be profaned?",
+  "options": [
+    "His holy name",
+    "His temple",
+    "His priests",
+    "His land"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'I will make known my holy name among my people Israel. I will no longer let my holy name be profaned.'"
+}

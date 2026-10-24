@@ -1,0 +1,36 @@
+{
+  "id": "40-021-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 21,
+  "verse_reference": "Matthew 21:17",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "After leaving the temple, where did Jesus go to spend the night?",
+  "options": [
+    "Bethany",
+    "Bethlehem",
+    "Jericho",
+    "Emmaus"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Bethany",
+      "type": "village"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 21:17 says he left them and went out of the city to Bethany, where he spent the night."
+}

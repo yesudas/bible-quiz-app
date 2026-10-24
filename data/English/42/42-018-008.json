@@ -1,0 +1,38 @@
+{
+  "id": "42-018-008",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 18,
+  "verse_reference": "Luke 18:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How often did the Pharisee say he fasted?",
+  "options": [
+    "Twice a week",
+    "Once a month",
+    "Every day",
+    "Once a year"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Pride"
+  ],
+  "characters": [
+    "Jesus",
+    "Pharisees"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Pharisee prayed, 'I fast twice a week and give a tenth of all I get.'"
+}

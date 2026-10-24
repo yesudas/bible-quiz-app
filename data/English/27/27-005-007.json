@@ -1,0 +1,32 @@
+{
+  "id": "27-005-007",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 5,
+  "verse_reference": "Daniel 5:10-12",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who told the king about Daniel when the wise men could not read the writing?",
+  "options": [
+    "Arioch",
+    "Darius",
+    "Shadrach",
+    "The queen"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Daniel",
+    "Belshazzar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The queen came into the banquet hall and told the king about Daniel, a man with the spirit of the holy gods in him."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "41-011-006",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 11,
+  "verse_reference": "Mark 11:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Whose coming kingdom did the crowd bless as Jesus entered Jerusalem?",
+  "options": [
+    "The kingdom of Caesar",
+    "The kingdom of Solomon",
+    "The kingdom of our father David",
+    "The kingdom of Herod"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Kingdom of God",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The crowd shouted, \"Blessed is the coming kingdom of our father David!\""
+}

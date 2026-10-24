@@ -1,0 +1,32 @@
+{
+  "id": "42-010-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:29",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What question did the expert in the law ask to justify himself?",
+  "options": [
+    "'And who is my neighbor?'",
+    "'Who is my God?'",
+    "'Where is the kingdom?'",
+    "'Why should I love?'"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Wanting to justify himself, he asked Jesus, 'And who is my neighbor?'"
+}

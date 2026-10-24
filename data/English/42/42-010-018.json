@@ -1,0 +1,38 @@
+{
+  "id": "42-010-018",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:34-35",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did the Samaritan take the wounded man to be cared for?",
+  "options": [
+    "To the temple",
+    "To an inn",
+    "To his own house",
+    "To Jericho's synagogue"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Inn",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He put the man on his own donkey, brought him to an inn and took care of him."
+}

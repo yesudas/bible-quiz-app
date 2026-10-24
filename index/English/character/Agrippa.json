@@ -1,0 +1,22 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Agrippa",
+    "label": "Agrippa",
+    "count": 12,
+    "paths": [
+        "English/44/44-025-011.json",
+        "English/44/44-025-012.json",
+        "English/44/44-025-014.json",
+        "English/44/44-025-015.json",
+        "English/44/44-025-017.json",
+        "English/44/44-026-001.json",
+        "English/44/44-026-002.json",
+        "English/44/44-026-010.json",
+        "English/44/44-026-014.json",
+        "English/44/44-026-015.json",
+        "English/44/44-026-017.json",
+        "English/44/44-026-018.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

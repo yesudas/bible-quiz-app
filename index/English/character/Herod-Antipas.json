@@ -1,0 +1,16 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Herod-Antipas",
+    "label": "Herod Antipas",
+    "count": 6,
+    "paths": [
+        "English/41/41-006-009.json",
+        "English/41/41-006-010.json",
+        "English/41/41-006-011.json",
+        "English/41/41-006-012.json",
+        "English/41/41-006-014.json",
+        "English/41/41-008-008.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

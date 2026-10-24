@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Peter-s-house",
+    "label": "Peter's house",
+    "count": 2,
+    "paths": [
+        "English/40/40-008-010.json",
+        "English/40/40-008-011.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

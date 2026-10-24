@@ -1,0 +1,32 @@
+{
+  "id": "50-003-007",
+  "language": "en",
+  "book_no": 50,
+  "book": "Philippians",
+  "chapter": 3,
+  "verse_reference": "Philippians 3:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Paul, the righteousness he wanted to have comes from God on the basis of what?",
+  "options": [
+    "obeying the law",
+    "faith",
+    "good works",
+    "his family line"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Salvation"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wanted the righteousness that comes from God on the basis of faith in Christ, not his own from the law."
+}

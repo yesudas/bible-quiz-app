@@ -3,12 +3,13 @@
     "language": "English",
     "character": "Rekab",
     "label": "Rekab",
-    "count": 4,
+    "count": 5,
     "paths": [
         "English/10/10-004-002.json",
         "English/10/10-004-006.json",
         "English/10/10-004-007.json",
-        "English/10/10-004-008.json"
+        "English/10/10-004-008.json",
+        "English/24/24-035-004.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

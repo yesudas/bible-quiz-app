@@ -1,0 +1,38 @@
+{
+  "id": "44-007-020",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 7,
+  "verse_reference": "Acts 7:58",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "At whose feet did the witnesses lay their coats?",
+  "options": [
+    "Gamaliel",
+    "The high priest",
+    "Barnabas",
+    "A young man named Saul"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Saul",
+    "Stephen"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The witnesses laid their coats at the feet of a young man named Saul."
+}

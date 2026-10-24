@@ -1,0 +1,32 @@
+{
+  "id": "38-004-003",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 4,
+  "verse_reference": "Zechariah 4:2",
+  "question_type": "DIRECT",
+  "difficulty": "Easy",
+  "question": "How many lamps were on the gold lampstand?",
+  "options": [
+    "Three",
+    "Five",
+    "Seven",
+    "Twelve"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Zechariah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The lampstand had seven lamps on it."
+}

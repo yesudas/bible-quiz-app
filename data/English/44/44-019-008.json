@@ -1,0 +1,37 @@
+{
+  "id": "44-019-008",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 19,
+  "verse_reference": "Acts 19:11-12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What things that had touched Paul were taken to the sick, who were healed?",
+  "options": [
+    "Sandals and belts",
+    "Bread and cups",
+    "Handkerchiefs and aprons",
+    "Scrolls and pens"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Ephesus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God did extraordinary miracles; even handkerchiefs and aprons that had touched Paul were taken to the sick, and they were cured."
+}

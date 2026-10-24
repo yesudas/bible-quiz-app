@@ -1,0 +1,38 @@
+{
+  "id": "42-013-004",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 13,
+  "verse_reference": "Luke 13:6-7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Jesus' parable, how long had the owner been looking for fruit on the fig tree?",
+  "options": [
+    "Three years",
+    "One year",
+    "Seven years",
+    "Ten years"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Repentance"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Vineyard",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The owner said, 'For three years now I've been coming to look for fruit on this fig tree and haven't found any. Cut it down!'"
+}

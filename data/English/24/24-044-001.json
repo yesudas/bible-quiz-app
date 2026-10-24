@@ -1,0 +1,52 @@
+{
+  "id": "24-044-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 44,
+  "verse_reference": "Jeremiah 44:1",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which of these was one of the places in Egypt where Jews were living when Jeremiah gave the message of chapter 44?",
+  "options": [
+    "Memphis",
+    "Goshen",
+    "Alexandria",
+    "Rameses"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Migdol",
+      "type": "town"
+    },
+    {
+      "name": "Tahpanhes",
+      "type": "city"
+    },
+    {
+      "name": "Memphis",
+      "type": "city"
+    },
+    {
+      "name": "Upper Egypt",
+      "type": "region"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The word came concerning all the Jews living in Lower Egypt—in Migdol, Tahpanhes and Memphis—and in Upper Egypt."
+}

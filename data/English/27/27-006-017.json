@@ -1,0 +1,33 @@
+{
+  "id": "27-006-017",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 6,
+  "verse_reference": "Daniel 6:28",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "During whose reigns did Daniel prosper?",
+  "options": [
+    "Nebuchadnezzar and Belshazzar",
+    "Darius and Cyrus the Persian",
+    "Belshazzar and Darius",
+    "Cyrus and Artaxerxes"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Daniel",
+    "Darius",
+    "Cyrus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daniel prospered during the reign of Darius and the reign of Cyrus the Persian."
+}

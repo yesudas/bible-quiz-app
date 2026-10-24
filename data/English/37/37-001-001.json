@@ -1,0 +1,32 @@
+{
+  "id": "37-001-001",
+  "language": "en",
+  "book_no": 37,
+  "book": "Haggai",
+  "chapter": 1,
+  "verse_reference": "Haggai 1:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "In the reign of which king did the word of the LORD come through Haggai?",
+  "options": [
+    "Cyrus",
+    "Artaxerxes",
+    "Darius",
+    "Nebuchadnezzar"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Haggai",
+    "Darius"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The word came in the second year of King Darius, on the first day of the sixth month."
+}

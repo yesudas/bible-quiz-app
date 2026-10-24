@@ -1,0 +1,36 @@
+{
+  "id": "24-003-011",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 3,
+  "verse_reference": "Jeremiah 3:17",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What would Jerusalem be called at that time?",
+  "options": [
+    "The City of Peace",
+    "The Throne of the LORD",
+    "The Holy Mountain",
+    "The City of David"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Kingdom of God",
+    "Prophecy",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At that time Jerusalem would be called The Throne of the LORD, and all nations would gather there."
+}

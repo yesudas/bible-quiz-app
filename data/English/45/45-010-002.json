@@ -1,0 +1,32 @@
+{
+  "id": "45-010-002",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 10,
+  "verse_reference": "Romans 10:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What does Paul say about the Israelites' zeal for God?",
+  "options": [
+    "It is not based on knowledge",
+    "It is perfect in every way",
+    "It is only pretended",
+    "It is stronger than the Gentiles' faith"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Wisdom"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says the Israelites are zealous for God, but their zeal is not based on knowledge."
+}

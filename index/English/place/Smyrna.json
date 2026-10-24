@@ -1,0 +1,15 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Smyrna",
+    "label": "Smyrna",
+    "count": 5,
+    "paths": [
+        "English/66/66-001-004.json",
+        "English/66/66-002-006.json",
+        "English/66/66-002-007.json",
+        "English/66/66-002-008.json",
+        "English/66/66-002-009.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

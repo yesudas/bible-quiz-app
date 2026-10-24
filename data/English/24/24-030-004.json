@@ -1,0 +1,33 @@
+{
+  "id": "24-030-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 30,
+  "verse_reference": "Jeremiah 30:9",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "God said His people would serve the LORD their God and which king whom He would raise up for them?",
+  "options": [
+    "Solomon",
+    "Josiah",
+    "Hezekiah",
+    "David"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Kingdom of God",
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They will serve the LORD their God and David their king, whom I will raise up for them."
+}

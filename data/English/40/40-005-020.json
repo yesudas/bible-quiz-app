@@ -1,0 +1,32 @@
+{
+  "id": "40-005-020",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 5,
+  "verse_reference": "Matthew 5:45",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What example from nature did Jesus use to show that God is kind to both the good and the evil?",
+  "options": [
+    "He makes the grass grow for all",
+    "He feeds every bird",
+    "He gives stars to every land",
+    "He causes his sun to rise and sends rain on both"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Creation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 5:45 says the Father causes his sun to rise on the evil and the good and sends rain on the righteous and the unrighteous."
+}

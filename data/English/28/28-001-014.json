@@ -1,0 +1,35 @@
+{
+  "id": "28-001-014",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 1,
+  "verse_reference": "Hosea 1:3-9",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "In what order were Gomer's three children born?",
+  "options": [
+    "Lo-Ruhamah, Jezreel, Lo-Ammi",
+    "Jezreel, Lo-Ammi, Lo-Ruhamah",
+    "Jezreel, Lo-Ruhamah, Lo-Ammi",
+    "Lo-Ammi, Lo-Ruhamah, Jezreel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family",
+    "Prophecy"
+  ],
+  "characters": [
+    "Gomer",
+    "Jezreel",
+    "Lo-Ruhamah",
+    "Lo-Ammi"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gomer first bore a son, Jezreel, then a daughter, Lo-Ruhamah, and after weaning her, another son, Lo-Ammi."
+}

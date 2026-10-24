@@ -1,0 +1,33 @@
+{
+  "id": "47-003-004",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 3,
+  "verse_reference": "2 Corinthians 3:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Where did Paul say his competence came from?",
+  "options": [
+    "From his training as a Pharisee",
+    "From the other apostles",
+    "From his own hard work",
+    "From God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said they were not competent in themselves to claim anything; their competence came from God."
+}

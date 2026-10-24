@@ -1,0 +1,34 @@
+{
+  "id": "40-001-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 1,
+  "verse_reference": "Matthew 1:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Before the angel spoke to him, what did Joseph plan to do about Mary?",
+  "options": [
+    "Expose her to public disgrace",
+    "Send her to Elizabeth",
+    "Divorce her quietly",
+    "Marry her at once"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Marriage",
+    "Love"
+  ],
+  "characters": [
+    "Joseph",
+    "Mary"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 1:19 says Joseph was faithful to the law but did not want to disgrace Mary, so he planned to divorce her quietly."
+}

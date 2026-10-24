@@ -1,0 +1,34 @@
+{
+  "id": "48-001-009",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 1,
+  "verse_reference": "Galatians 1:11-12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Paul receive the gospel he preached?",
+  "options": [
+    "He learned it from Peter",
+    "He studied it in Jerusalem",
+    "He was taught it by the Galatians",
+    "By revelation from Jesus Christ"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said he did not receive the gospel from any man, nor was he taught it; he received it by revelation from Jesus Christ."
+}

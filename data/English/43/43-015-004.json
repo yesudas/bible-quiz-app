@@ -1,0 +1,32 @@
+{
+  "id": "43-015-004",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 15,
+  "verse_reference": "John 15:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: \"I am the vine; you are the branches... apart from me you can do ___.\"",
+  "options": [
+    "little",
+    "great things",
+    "many things",
+    "nothing"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 15:5, Jesus said, \"If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing.\""
+}

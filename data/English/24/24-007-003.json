@@ -1,0 +1,31 @@
+{
+  "id": "24-007-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 7,
+  "verse_reference": "Jeremiah 7:6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "God said they must not oppress the foreigner, the fatherless and whom else?",
+  "options": [
+    "The priest",
+    "The widow",
+    "The soldier",
+    "The king"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told them not to oppress the foreigner, the fatherless or the widow if they wanted to live in the land."
+}

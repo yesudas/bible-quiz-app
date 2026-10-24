@@ -1,0 +1,37 @@
+{
+  "id": "32-004-006",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 4,
+  "verse_reference": "Jonah 4:5",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Jonah sit to see what would happen to Nineveh?",
+  "options": [
+    "Inside the city gate",
+    "On a hill by the sea",
+    "East of the city in a shelter he made",
+    "In the king's palace"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Anger"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonah went out and sat down at a place east of the city, made himself a shelter, and waited to see what would happen."
+}

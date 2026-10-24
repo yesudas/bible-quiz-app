@@ -1,0 +1,33 @@
+{
+  "id": "35-001-002",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 1,
+  "verse_reference": "Habakkuk 1:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete Habakkuk's cry: \"How long, LORD, must I call for ____, but you do not listen?\"",
+  "options": [
+    "mercy",
+    "help",
+    "rain",
+    "peace"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Suffering"
+  ],
+  "characters": [
+    "Habakkuk"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Habakkuk asked God how long he must call for help while it seemed God was not listening."
+}

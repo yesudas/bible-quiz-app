@@ -1,0 +1,30 @@
+{
+  "id": "45-012-005",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 12,
+  "verse_reference": "Romans 12:6-8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which of these is listed as one of the gifts in Romans 12:6-8?",
+  "options": [
+    "Encouraging",
+    "Speaking in tongues",
+    "Healing",
+    "Working miracles"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holy Spirit",
+    "Church"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul's list in Romans 12 includes prophesying, serving, teaching, encouraging, giving, leading and showing mercy."
+}

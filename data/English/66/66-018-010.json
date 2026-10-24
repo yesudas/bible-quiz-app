@@ -1,0 +1,34 @@
+{
+  "id": "66-018-010",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 18,
+  "verse_reference": "Revelation 18:19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the sea captains and sailors throw on their heads as they mourned for Babylon?",
+  "options": [
+    "Ashes",
+    "Water",
+    "Dust",
+    "Sackcloth"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They threw dust on their heads, and with weeping and mourning cried out over the great city."
+}

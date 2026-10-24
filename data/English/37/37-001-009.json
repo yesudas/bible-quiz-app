@@ -1,0 +1,35 @@
+{
+  "id": "37-001-009",
+  "language": "en",
+  "book_no": 37,
+  "book": "Haggai",
+  "chapter": 1,
+  "verse_reference": "Haggai 1:9-11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did God call for a drought on the land?",
+  "options": [
+    "Because the people worshiped Baal",
+    "Because His house remained a ruin while each person was busy with his own house",
+    "Because they married foreign women",
+    "Because they did not keep the Sabbath"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "The LORD's house (temple)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He sent the drought because His house was in ruins while each of them was busy with their own house."
+}

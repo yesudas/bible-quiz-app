@@ -1,0 +1,40 @@
+{
+  "id": "26-036-009",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 36,
+  "verse_reference": "Ezekiel 36:35",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Ezekiel 36, people would say the desolate land had become like what place?",
+  "options": [
+    "The land of Egypt",
+    "The garden of Eden",
+    "The city of Babylon",
+    "The valley of Jordan"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Hope",
+    "Creation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Eden",
+      "type": "garden"
+    },
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "People will say, 'This land that was laid waste has become like the garden of Eden.'"
+}

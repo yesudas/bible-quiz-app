@@ -1,0 +1,34 @@
+{
+  "id": "27-012-001",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 12,
+  "verse_reference": "Daniel 12:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who is called the great prince who protects Daniel's people?",
+  "options": [
+    "Gabriel",
+    "Michael",
+    "Cyrus",
+    "Darius"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels",
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel",
+    "Michael"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At that time Michael, the great prince who protects Daniel's people, will arise."
+}

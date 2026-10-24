@@ -1,0 +1,34 @@
+{
+  "id": "66-001-008",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 1,
+  "verse_reference": "Revelation 1:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Revelation 1:7, how will Jesus come?",
+  "options": [
+    "Riding a white donkey",
+    "With the clouds",
+    "Through the temple gate",
+    "As a small child"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Prophecy",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Revelation 1:7 says, \"Look, he is coming with the clouds,\" and every eye will see him."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "46-013-005",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 13,
+  "verse_reference": "1 Corinthians 13:4",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Which of these does Paul say love does NOT do?",
+  "options": [
+    "Boast",
+    "Protect",
+    "Trust",
+    "Hope"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that love does not envy, does not boast, and is not proud. Protecting, trusting and hoping are things love always does."
+}

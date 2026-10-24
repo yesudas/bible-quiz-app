@@ -1,0 +1,35 @@
+{
+  "id": "38-012-004",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 12,
+  "verse_reference": "Zechariah 12:6",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "What did God say He would make the clans of Judah like?",
+  "options": [
+    "A firepot in a woodpile",
+    "A tree by the water",
+    "A flock of sheep",
+    "A tower of stone"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God would make the clans of Judah like a firepot in a woodpile, like a flaming torch among sheaves."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "43-015-003",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 15,
+  "verse_reference": "John 15:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why must the disciples remain in Jesus?",
+  "options": [
+    "So they can rule the world",
+    "So they can become rich",
+    "Because a branch cannot bear fruit by itself unless it remains in the vine",
+    "Because the vine needs the branches"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 15:4, Jesus said no branch can bear fruit by itself; it must remain in the vine. Neither can they bear fruit unless they remain in him."
+}

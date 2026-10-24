@@ -1,0 +1,41 @@
+{
+  "id": "24-034-010",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 34,
+  "verse_reference": "Jeremiah 34:21-22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "The Babylonian army had withdrawn from Jerusalem. What did God say would happen?",
+  "options": [
+    "He would bring them back to fight against the city, take it and burn it",
+    "They would never return",
+    "They would make peace",
+    "Egypt would defeat them"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Zedekiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would give the order to bring the army back to this city; they would fight against it, take it and burn it down."
+}

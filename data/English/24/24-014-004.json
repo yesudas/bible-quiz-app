@@ -1,0 +1,32 @@
+{
+  "id": "24-014-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 14,
+  "verse_reference": "Jeremiah 14:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the prayer: \"Although our sins testify against us, do something, LORD, for the sake of your ____.\"",
+  "options": [
+    "people",
+    "city",
+    "temple",
+    "name"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Repentance"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people confessed their sins and asked the LORD to act for the sake of His name."
+}

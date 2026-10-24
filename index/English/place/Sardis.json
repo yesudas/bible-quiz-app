@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Sardis",
+    "label": "Sardis",
+    "count": 4,
+    "paths": [
+        "English/66/66-001-004.json",
+        "English/66/66-003-001.json",
+        "English/66/66-003-002.json",
+        "English/66/66-003-003.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

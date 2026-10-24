@@ -1,0 +1,33 @@
+{
+  "id": "42-021-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 21,
+  "verse_reference": "Luke 21:29-30",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus say the leaves on the fig tree show?",
+  "options": [
+    "That summer is near",
+    "That winter is coming",
+    "That the fruit is ripe",
+    "That rain will come"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'When they sprout leaves, you can see for yourselves and know that summer is near.'"
+}

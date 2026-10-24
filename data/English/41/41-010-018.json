@@ -1,0 +1,39 @@
+{
+  "id": "41-010-018",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 10,
+  "verse_reference": "Mark 10:32-34",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "On the way to Jerusalem, what did Jesus say would happen to the Son of Man after three days?",
+  "options": [
+    "He would be set free from prison",
+    "He would rise",
+    "He would return to Galilee",
+    "He would become king in Rome"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said the Son of Man would be mocked, flogged and killed, and three days later he would rise."
+}

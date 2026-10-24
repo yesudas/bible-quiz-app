@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Earth",
+    "label": "Earth",
+    "count": 3,
+    "paths": [
+        "English/66/66-012-009.json",
+        "English/66/66-013-010.json",
+        "English/66/66-013-011.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

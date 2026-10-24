@@ -1,0 +1,38 @@
+{
+  "id": "41-005-007",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 5,
+  "verse_reference": "Mark 5:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the people find the man after the spirits left him?",
+  "options": [
+    "Running through the hills",
+    "Still chained among the tombs",
+    "Asleep on the shore",
+    "Sitting there, dressed and in his right mind"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Region of the Gerasenes",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They saw the man sitting there, dressed and in his right mind, and they were afraid."
+}

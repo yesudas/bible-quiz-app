@@ -1,0 +1,39 @@
+{
+  "id": "66-002-015",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 2,
+  "verse_reference": "Revelation 2:20-21",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which woman, who called herself a prophet, did the church in Thyatira tolerate?",
+  "options": [
+    "Delilah",
+    "Herodias",
+    "Jezebel",
+    "Sapphira"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Repentance",
+    "Church"
+  ],
+  "characters": [
+    "Jezebel",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Thyatira",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The church in Thyatira tolerated Jezebel, who called herself a prophet and misled Jesus' servants. He gave her time to repent, but she was unwilling."
+}

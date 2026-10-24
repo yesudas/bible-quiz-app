@@ -1,0 +1,32 @@
+{
+  "id": "54-001-012",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 1,
+  "verse_reference": "1 Timothy 1:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened to the faith of some who rejected a good conscience?",
+  "options": [
+    "It grew stronger",
+    "It was rebuilt",
+    "It suffered shipwreck",
+    "It was hidden"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Sin"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said some rejected a good conscience and so suffered shipwreck with regard to the faith."
+}

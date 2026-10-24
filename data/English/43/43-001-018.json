@@ -1,0 +1,38 @@
+{
+  "id": "43-001-018",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 1,
+  "verse_reference": "John 1:43-44",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Philip, like Andrew and Peter, was from which town?",
+  "options": [
+    "Nazareth",
+    "Cana",
+    "Bethsaida",
+    "Jericho"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Philip",
+    "Andrew",
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Bethsaida",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 1:44 says Philip, like Andrew and Peter, was from the town of Bethsaida."
+}

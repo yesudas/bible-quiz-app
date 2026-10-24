@@ -1,0 +1,37 @@
+{
+  "id": "43-010-016",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 10,
+  "verse_reference": "John 10:41-42",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the people across the Jordan say about John the Baptist?",
+  "options": [
+    "John never performed a sign, but all he said about this man was true",
+    "John was the Messiah",
+    "John was Elijah who had come back",
+    "John performed many signs"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "John the Baptist",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jordan River",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 10:41-42 says many people said, \"Though John never performed a sign, all that John said about this man was true.\" And many believed in Jesus there."
+}

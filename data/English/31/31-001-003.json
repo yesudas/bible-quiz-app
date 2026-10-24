@@ -1,0 +1,36 @@
+{
+  "id": "31-001-003",
+  "language": "en",
+  "book_no": 31,
+  "book": "Obadiah",
+  "chapter": 1,
+  "verse_reference": "Obadiah 3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Obadiah, what had deceived the people of Edom?",
+  "options": [
+    "Their false gods",
+    "The pride of their heart",
+    "Their wealth",
+    "Their allies' promises"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Pride"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said the pride of Edom's heart had deceived them, because they lived high in the rocks and felt safe."
+}

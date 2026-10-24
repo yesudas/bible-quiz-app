@@ -1,0 +1,35 @@
+{
+  "id": "66-015-005",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 15,
+  "verse_reference": "Revelation 15:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the song: \"Great and marvellous are your deeds, Lord God Almighty. Just and true are your ways, King of the ____.\"",
+  "options": [
+    "earth",
+    "nations",
+    "heavens",
+    "angels"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They sang, \"Great and marvellous are your deeds, Lord God Almighty. Just and true are your ways, King of the nations.\""
+}

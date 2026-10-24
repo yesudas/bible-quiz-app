@@ -1,0 +1,38 @@
+{
+  "id": "42-007-014",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 7,
+  "verse_reference": "Luke 7:36-37",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the sinful woman bring to the Pharisee's house where Jesus was eating?",
+  "options": [
+    "An alabaster jar of perfume",
+    "A basket of bread",
+    "A jar of wine",
+    "A bag of coins"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Pharisee's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A woman in that town who lived a sinful life brought an alabaster jar of perfume to the house."
+}

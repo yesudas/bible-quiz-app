@@ -1,0 +1,39 @@
+{
+  "id": "43-013-006",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 13,
+  "verse_reference": "John 13:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Jesus say he washed his disciples' feet?",
+  "options": [
+    "To make them clean for the Passover",
+    "To set an example, so they should do as he had done",
+    "Because it was the law of Moses",
+    "Because they asked him to"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Discipleship",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 13:15, Jesus said, \"I have set you an example that you should do as I have done for you.\""
+}

@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Bethlehem",
     "label": "Bethlehem",
-    "count": 32,
+    "count": 47,
     "paths": [
         "English/07/07-012-008.json",
         "English/07/07-017-007.json",
@@ -36,7 +36,22 @@
         "English/10/10-023-011.json",
         "English/13/13-011-010.json",
         "English/13/13-011-011.json",
-        "English/14/14-011-005.json"
+        "English/14/14-011-005.json",
+        "English/24/24-041-011.json",
+        "English/40/40-002-001.json",
+        "English/40/40-002-006.json",
+        "English/40/40-002-007.json",
+        "English/40/40-002-008.json",
+        "English/40/40-002-009.json",
+        "English/40/40-002-015.json",
+        "English/42/42-002-003.json",
+        "English/42/42-002-004.json",
+        "English/42/42-002-005.json",
+        "English/42/42-002-006.json",
+        "English/42/42-002-008.json",
+        "English/42/42-002-009.json",
+        "English/42/42-002-011.json",
+        "English/43/43-007-014.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

@@ -1,0 +1,39 @@
+{
+  "id": "30-002-001",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 2,
+  "verse_reference": "Amos 2:1",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Moab do to the bones of Edom's king?",
+  "options": [
+    "Buried them in Bethel",
+    "Burned them to ashes like lime",
+    "Threw them into the Dead Sea",
+    "Hung them on the city wall"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    },
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 2:1 says Moab burned the bones of Edom's king as if to lime."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "24-022-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 22,
+  "verse_reference": "Jeremiah 22:29",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"O land, land, land, hear the ____ of the LORD!\"",
+  "options": [
+    "voice",
+    "word",
+    "song",
+    "call"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah 22:29 says, \"O land, land, land, hear the word of the LORD!\""
+}

@@ -1,0 +1,41 @@
+{
+  "id": "32-001-005",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 1,
+  "verse_reference": "Jonah 1:3",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "At which port did Jonah find a ship going to Tarshish?",
+  "options": [
+    "Tyre",
+    "Sidon",
+    "Joppa",
+    "Caesarea"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Disobedience"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [
+    {
+      "name": "Joppa",
+      "type": "city"
+    },
+    {
+      "name": "Tarshish",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonah went down to Joppa, paid the fare, and boarded a ship bound for Tarshish."
+}

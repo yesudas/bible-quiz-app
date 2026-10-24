@@ -1,0 +1,37 @@
+{
+  "id": "41-008-010",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 8,
+  "verse_reference": "Mark 8:22-23",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In which village did Jesus heal a blind man in two stages?",
+  "options": [
+    "Nazareth",
+    "Cana",
+    "Bethsaida",
+    "Emmaus"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Bethsaida",
+      "type": "village"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They came to Bethsaida, and some people brought a blind man and begged Jesus to touch him."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "66-020-001",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 20,
+  "verse_reference": "Revelation 20:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the angel coming down from heaven holding in his hand?",
+  "options": [
+    "A golden bowl and a sickle",
+    "The key to the Abyss and a great chain",
+    "A scroll and a pen",
+    "A trumpet and a sword"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels",
+    "Satan"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Abyss",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John saw an angel coming down out of heaven, having the key to the Abyss and holding in his hand a great chain."
+}

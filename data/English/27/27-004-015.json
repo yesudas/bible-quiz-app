@@ -1,0 +1,32 @@
+{
+  "id": "27-004-015",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 4,
+  "verse_reference": "Daniel 4:33",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "While he lived among the animals, what did the king's hair grow like?",
+  "options": [
+    "A lion's mane",
+    "The wool of a sheep",
+    "Grass in a field",
+    "The feathers of an eagle"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "His hair grew like the feathers of an eagle and his nails like the claws of a bird."
+}

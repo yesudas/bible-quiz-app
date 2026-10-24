@@ -1,0 +1,34 @@
+{
+  "id": "58-001-008",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 1,
+  "verse_reference": "Hebrews 1:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Let all God's angels ____ him.\"",
+  "options": [
+    "serve",
+    "follow",
+    "obey",
+    "worship"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Angels",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 1:6 says that when God brings his firstborn into the world, he says, \"Let all God's angels worship him.\""
+}

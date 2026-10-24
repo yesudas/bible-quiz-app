@@ -1,0 +1,38 @@
+{
+  "id": "37-001-012",
+  "language": "en",
+  "book_no": 37,
+  "book": "Haggai",
+  "chapter": 1,
+  "verse_reference": "Haggai 1:14",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the LORD do so that the people began work on His house?",
+  "options": [
+    "He sent an angel",
+    "He sent rain",
+    "He gave them gold",
+    "He stirred up their spirit"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Holy Spirit",
+    "Worship"
+  ],
+  "characters": [
+    "Zerubbabel",
+    "Joshua"
+  ],
+  "places": [
+    {
+      "name": "The LORD's house (temple)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD stirred up the spirit of Zerubbabel, Joshua and the remnant, and they began work on His house."
+}

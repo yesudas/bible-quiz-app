@@ -1,0 +1,35 @@
+{
+  "id": "25-001-003",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 1,
+  "verse_reference": "Lamentations 1:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Lamentations 1:2, what had happened to all of the city's friends?",
+  "options": [
+    "They had come to help her",
+    "They had died in battle",
+    "They had betrayed her and become her enemies",
+    "They had gone into exile with her"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Among all her lovers no one comforted her; her friends betrayed her and became her enemies."
+}

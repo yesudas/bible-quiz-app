@@ -1,0 +1,37 @@
+{
+  "id": "41-012-001",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 12,
+  "verse_reference": "Mark 12:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In the parable of the tenants, what did the man plant before renting it to farmers?",
+  "options": [
+    "A vineyard",
+    "A wheat field",
+    "An olive grove",
+    "A fig orchard"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Vineyard",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told a parable about a man who planted a vineyard, put a wall around it, dug a pit for the winepress and built a watchtower, then rented it to farmers."
+}

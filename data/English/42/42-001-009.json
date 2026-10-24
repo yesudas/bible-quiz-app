@@ -1,0 +1,32 @@
+{
+  "id": "42-001-009",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:15",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the angel say John must never take?",
+  "options": [
+    "Meat or bread",
+    "Wine or other fermented drink",
+    "Oil or honey",
+    "Gold or silver"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holiness",
+    "Holy Spirit"
+  ],
+  "characters": [
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John was never to take wine or other fermented drink, and he would be filled with the Holy Spirit even before he was born."
+}

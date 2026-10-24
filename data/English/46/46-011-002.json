@@ -1,0 +1,32 @@
+{
+  "id": "46-011-002",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 11,
+  "verse_reference": "1 Corinthians 11:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In verse 3, whom did Paul say is the head of every man?",
+  "options": [
+    "Christ",
+    "Moses",
+    "The king",
+    "The apostles"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Church"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that the head of every man is Christ, and the head of Christ is God."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "43-008-003",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 8,
+  "verse_reference": "John 8:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus do when they kept questioning him about the woman?",
+  "options": [
+    "He walked away",
+    "He called the guards",
+    "He bent down and wrote on the ground with his finger",
+    "He read from the scroll of Moses"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 8:6 says Jesus bent down and started to write on the ground with his finger. (The earliest manuscripts do not include John 7:53–8:11; the NIV prints it in brackets.)"
+}

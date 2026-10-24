@@ -1,0 +1,39 @@
+{
+  "id": "24-046-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 46,
+  "verse_reference": "Jeremiah 46:11",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "God told Virgin Daughter Egypt to go to which region to get balm, though she would not be healed?",
+  "options": [
+    "Lebanon",
+    "Bashan",
+    "Gilead",
+    "Moab"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Gilead",
+      "type": "region"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Go up to Gilead and get balm, Virgin Daughter Egypt. But you try many medicines in vain; there is no healing for you.\""
+}

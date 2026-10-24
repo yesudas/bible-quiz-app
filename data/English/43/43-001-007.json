@@ -1,0 +1,34 @@
+{
+  "id": "43-001-007",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 1,
+  "verse_reference": "John 1:17",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "According to John 1, through whom was the law given?",
+  "options": [
+    "Abraham",
+    "Elijah",
+    "Moses",
+    "David"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Jesus"
+  ],
+  "characters": [
+    "Moses",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 1:17 says the law was given through Moses, but grace and truth came through Jesus Christ."
+}

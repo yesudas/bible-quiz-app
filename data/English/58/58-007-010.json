@@ -1,0 +1,31 @@
+{
+  "id": "58-007-010",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 7,
+  "verse_reference": "Hebrews 7:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: Jesus became a priest \"on the basis of the power of an ____ life.\"",
+  "options": [
+    "eternal",
+    "holy",
+    "indestructible",
+    "perfect"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 7:16 says Jesus became a priest not on the basis of a rule about ancestry but on the basis of the power of an indestructible life."
+}

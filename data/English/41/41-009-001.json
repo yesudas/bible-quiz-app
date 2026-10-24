@@ -1,0 +1,41 @@
+{
+  "id": "41-009-001",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 9,
+  "verse_reference": "Mark 9:2",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which three disciples did Jesus take up a high mountain where he was transfigured?",
+  "options": [
+    "Andrew, Philip and Thomas",
+    "Peter, James and John",
+    "Peter, Andrew and Matthew",
+    "James, Judas and John"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon Peter",
+    "James son of Zebedee",
+    "John"
+  ],
+  "places": [
+    {
+      "name": "High mountain",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After six days Jesus took Peter, James and John with him and led them up a high mountain, where he was transfigured before them."
+}

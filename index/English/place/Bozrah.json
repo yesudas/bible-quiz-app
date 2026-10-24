@@ -3,10 +3,11 @@
     "language": "English",
     "place": "Bozrah",
     "label": "Bozrah",
-    "count": 2,
+    "count": 3,
     "paths": [
         "English/23/23-034-003.json",
-        "English/23/23-063-001.json"
+        "English/23/23-063-001.json",
+        "English/30/30-001-016.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

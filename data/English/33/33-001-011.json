@@ -1,0 +1,38 @@
+{
+  "id": "33-001-011",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 1,
+  "verse_reference": "Micah 1:13",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which town was told it was where the sin of Daughter Zion began?",
+  "options": [
+    "Maroth",
+    "Lachish",
+    "Shaphir",
+    "Akzib"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Lachish",
+      "type": "city"
+    },
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Lachish was told to harness horses to the chariot, because it was where the sin of Daughter Zion began."
+}

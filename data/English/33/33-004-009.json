@@ -1,0 +1,40 @@
+{
+  "id": "33-004-009",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 4,
+  "verse_reference": "Micah 4:10",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Micah say Daughter Zion would go, and there be rescued?",
+  "options": [
+    "Egypt",
+    "Assyria",
+    "Babylon",
+    "Edom"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Promise",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    },
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micah said they would go to Babylon, and there the LORD would rescue them and redeem them from their enemies."
+}

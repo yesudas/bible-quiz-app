@@ -1,0 +1,32 @@
+{
+  "id": "40-025-015",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 25,
+  "verse_reference": "Matthew 25:26",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the master's reply to the servant who hid the gold: \"You wicked, ______ servant!\"",
+  "options": [
+    "lazy",
+    "foolish",
+    "proud",
+    "sinful"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 25:26 says his master replied, \"You wicked, lazy servant!\""
+}

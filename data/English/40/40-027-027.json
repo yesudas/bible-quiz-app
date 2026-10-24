@@ -1,0 +1,36 @@
+{
+  "id": "40-027-027",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 27,
+  "verse_reference": "Matthew 27:56",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which of these women is named as watching from a distance at the crucifixion?",
+  "options": [
+    "Martha",
+    "Salome the dancer",
+    "Mary Magdalene",
+    "Elizabeth"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Mary Magdalene"
+  ],
+  "places": [
+    {
+      "name": "Golgotha",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 27:55-56 says many women were watching from a distance, among them Mary Magdalene, Mary the mother of James and Joseph, and the mother of Zebedee's sons."
+}

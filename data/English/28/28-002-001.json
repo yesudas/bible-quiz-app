@@ -1,0 +1,30 @@
+{
+  "id": "28-002-001",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 2,
+  "verse_reference": "Hosea 2:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Who did the unfaithful wife believe gave her food, water, wool, linen, olive oil and drink?",
+  "options": [
+    "Her husband",
+    "Her father",
+    "Her lovers",
+    "Her children"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Idolatry"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "She said, 'I will go after my lovers, who give me my food and my water.' This pictured Israel chasing other gods."
+}

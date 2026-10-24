@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Eutychus",
+    "label": "Eutychus",
+    "count": 3,
+    "paths": [
+        "English/44/44-020-004.json",
+        "English/44/44-020-005.json",
+        "English/44/44-020-006.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

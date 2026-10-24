@@ -1,0 +1,33 @@
+{
+  "id": "42-015-022",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 15,
+  "verse_reference": "Luke 15:31",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the father's words to the older son: 'My son, you are always with me, and everything I have is ____.'",
+  "options": [
+    "mine",
+    "enough",
+    "yours",
+    "waiting"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Love",
+    "Family"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The father said, 'My son, you are always with me, and everything I have is yours.'"
+}

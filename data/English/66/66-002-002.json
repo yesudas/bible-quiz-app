@@ -1,0 +1,35 @@
+{
+  "id": "66-002-002",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 2,
+  "verse_reference": "Revelation 2:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What had the church in Ephesus done to people who claimed to be apostles but were not?",
+  "options": [
+    "Welcomed them into their homes",
+    "Tested them and found them false",
+    "Sent them to Jerusalem",
+    "Made them leaders"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ephesus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said the Ephesians had tested those who claimed to be apostles but were not, and had found them false."
+}

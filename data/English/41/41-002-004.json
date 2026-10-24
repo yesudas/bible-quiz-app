@@ -1,0 +1,39 @@
+{
+  "id": "41-002-004",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 2,
+  "verse_reference": "Mark 2:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "When Jesus saw the men's faith, what did he first say to the paralyzed man?",
+  "options": [
+    "Get up and walk",
+    "Go, show yourself to the priest",
+    "Your faith has healed you",
+    "Son, your sins are forgiven"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Forgiveness",
+    "Faith",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "House in Capernaum",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Seeing their faith, Jesus said to the paralyzed man, \"Son, your sins are forgiven.\""
+}

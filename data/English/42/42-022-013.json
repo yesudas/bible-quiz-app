@@ -1,0 +1,38 @@
+{
+  "id": "42-022-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 22,
+  "verse_reference": "Luke 22:39-40",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "On the Mount of Olives, Jesus told his disciples: 'Pray that you will not fall into ____.'",
+  "options": [
+    "sleep",
+    "fear",
+    "temptation",
+    "darkness"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Temptation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mount of Olives",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said to them, 'Pray that you will not fall into temptation.'"
+}

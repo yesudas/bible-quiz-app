@@ -1,0 +1,29 @@
+{
+  "id": "66-006-015",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 6,
+  "verse_reference": "Revelation 6:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"For the great day of their wrath has come, and who can ____ it?\"",
+  "options": [
+    "stop",
+    "escape",
+    "withstand",
+    "see"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The chapter ends with the cry, \"For the great day of their wrath has come, and who can withstand it?\""
+}

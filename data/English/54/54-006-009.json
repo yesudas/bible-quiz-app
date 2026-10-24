@@ -1,0 +1,31 @@
+{
+  "id": "54-006-009",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 6,
+  "verse_reference": "1 Timothy 6:15-16",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Paul described God as one who lives in what?",
+  "options": [
+    "A golden temple",
+    "Unapproachable light",
+    "The clouds of heaven",
+    "A high mountain"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul described God as the King of kings and Lord of lords, who alone is immortal and lives in unapproachable light."
+}

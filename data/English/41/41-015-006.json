@@ -1,0 +1,39 @@
+{
+  "id": "41-015-006",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 15,
+  "verse_reference": "Mark 15:11",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who stirred up the crowd to have Pilate release Barabbas instead?",
+  "options": [
+    "The chief priests",
+    "The Roman soldiers",
+    "The disciples",
+    "Herod's servants"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus",
+    "Barabbas"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The chief priests stirred up the crowd to have Pilate release Barabbas instead."
+}

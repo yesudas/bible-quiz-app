@@ -1,0 +1,12 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Praetorium",
+    "label": "Praetorium",
+    "count": 2,
+    "paths": [
+        "English/40/40-027-013.json",
+        "English/40/40-027-014.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

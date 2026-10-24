@@ -1,0 +1,41 @@
+{
+  "id": "43-007-008",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 7,
+  "verse_reference": "John 7:22-23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Jesus said people circumcise a boy on the Sabbath. Why did he say they should not be angry with him?",
+  "options": [
+    "He had healed a whole man on the Sabbath",
+    "He had kept the Sabbath perfectly",
+    "He was a priest",
+    "He was from Galilee"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 7:23, Jesus asked why they were angry with him for healing a man's whole body on the Sabbath, since they circumcised on the Sabbath."
+}

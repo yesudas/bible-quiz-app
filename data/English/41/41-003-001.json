@@ -1,0 +1,37 @@
+{
+  "id": "41-003-001",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 3,
+  "verse_reference": "Mark 3:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In the synagogue, what was wrong with the man Jesus healed on the Sabbath?",
+  "options": [
+    "He was blind",
+    "He could not hear",
+    "He had a shriveled hand",
+    "He had leprosy"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Synagogue",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A man with a shriveled hand was in the synagogue, and Jesus healed him on the Sabbath."
+}

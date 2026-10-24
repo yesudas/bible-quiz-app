@@ -1,0 +1,32 @@
+{
+  "id": "42-011-009",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say the Father in heaven will give to those who ask him?",
+  "options": [
+    "The Holy Spirit",
+    "Great riches",
+    "Long life",
+    "A new house"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holy Spirit",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'How much more will your Father in heaven give the Holy Spirit to those who ask him!'"
+}

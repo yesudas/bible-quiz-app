@@ -1,0 +1,38 @@
+{
+  "id": "42-009-014",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 9,
+  "verse_reference": "Luke 9:29",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened to Jesus' clothes while he was praying on the mountain?",
+  "options": [
+    "They turned red",
+    "They were torn",
+    "They became as bright as a flash of lightning",
+    "They became wet with dew"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Glory"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mountain",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As he was praying, the appearance of his face changed, and his clothes became as bright as a flash of lightning."
+}

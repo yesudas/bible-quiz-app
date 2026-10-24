@@ -1,0 +1,32 @@
+{
+  "id": "27-010-007",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 10,
+  "verse_reference": "Daniel 10:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What happened to the men who were with Daniel?",
+  "options": [
+    "They saw the vision too",
+    "They fell asleep",
+    "They fought the man in linen",
+    "They did not see the vision but were terrified and fled and hid"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Fear"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daniel was the only one who saw the vision; the men with him did not see it, but terror overwhelmed them and they fled and hid."
+}

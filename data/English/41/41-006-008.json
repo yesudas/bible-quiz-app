@@ -1,0 +1,33 @@
+{
+  "id": "41-006-008",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 6,
+  "verse_reference": "Mark 6:12-13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the twelve use to anoint many sick people and heal them?",
+  "options": [
+    "Oil",
+    "Water",
+    "Mud",
+    "Wine"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Mission"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They went out and preached that people should repent, drove out many demons, and anointed many sick people with oil and healed them."
+}

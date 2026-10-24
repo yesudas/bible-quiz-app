@@ -1,0 +1,35 @@
+{
+  "id": "29-001-006",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 1,
+  "verse_reference": "Joel 1:9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What was cut off from the house of the LORD because of the disaster?",
+  "options": [
+    "The singers and musicians",
+    "Grain offerings and drink offerings",
+    "The ark of the covenant",
+    "The Sabbath"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "house of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "With the crops destroyed, grain offerings and drink offerings were cut off from the house of the LORD, and the priests mourned."
+}

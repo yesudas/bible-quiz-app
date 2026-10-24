@@ -1,0 +1,42 @@
+{
+  "id": "40-002-007",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 2,
+  "verse_reference": "Matthew 2:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the prophecy: \"Out of you will come a ruler who will ______ my people Israel.\"",
+  "options": [
+    "judge",
+    "rule over",
+    "shepherd",
+    "save"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Jesus",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    },
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 2:6 quotes the prophecy that a ruler from Bethlehem would shepherd God's people Israel."
+}

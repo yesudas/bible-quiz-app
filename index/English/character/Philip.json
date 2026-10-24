@@ -1,0 +1,32 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Philip",
+    "label": "Philip",
+    "count": 22,
+    "paths": [
+        "English/41/41-006-010.json",
+        "English/43/43-001-018.json",
+        "English/43/43-001-019.json",
+        "English/43/43-001-020.json",
+        "English/43/43-006-003.json",
+        "English/43/43-006-004.json",
+        "English/43/43-012-010.json",
+        "English/43/43-014-006.json",
+        "English/43/43-014-007.json",
+        "English/44/44-006-006.json",
+        "English/44/44-008-004.json",
+        "English/44/44-008-005.json",
+        "English/44/44-008-007.json",
+        "English/44/44-008-013.json",
+        "English/44/44-008-014.json",
+        "English/44/44-008-016.json",
+        "English/44/44-008-018.json",
+        "English/44/44-008-019.json",
+        "English/44/44-008-020.json",
+        "English/44/44-008-021.json",
+        "English/44/44-021-003.json",
+        "English/44/44-021-004.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

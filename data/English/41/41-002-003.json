@@ -1,0 +1,38 @@
+{
+  "id": "41-002-003",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 2,
+  "verse_reference": "Mark 2:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the men get the paralyzed man to Jesus through the crowd?",
+  "options": [
+    "They made an opening in the roof and lowered his mat",
+    "They pushed through the front door",
+    "They waited until evening",
+    "They called Jesus outside"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "House in Capernaum",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Since they could not get through the crowd, they dug through the roof above Jesus and lowered the man on his mat."
+}

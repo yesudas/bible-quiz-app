@@ -1,0 +1,41 @@
+{
+  "id": "38-009-004",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 9,
+  "verse_reference": "Zechariah 9:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Rejoice greatly, Daughter _____! Shout, Daughter Jerusalem!\"",
+  "options": [
+    "Judah",
+    "Israel",
+    "Bethlehem",
+    "Zion"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "mountain"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zechariah 9:9 begins, 'Rejoice greatly, Daughter Zion! Shout, Daughter Jerusalem!'"
+}

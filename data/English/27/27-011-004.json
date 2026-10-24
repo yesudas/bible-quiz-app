@@ -1,0 +1,31 @@
+{
+  "id": "27-011-004",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 11,
+  "verse_reference": "Daniel 11:5-6",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "In this chapter, the king of the South struggles against which king?",
+  "options": [
+    "The king of the North",
+    "The king of the East",
+    "The king of the West",
+    "The king of Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The chapter describes conflict between the king of the South and the king of the North, including an alliance made through the daughter of the king of the South."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "26-045-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 45,
+  "verse_reference": "Ezekiel 45:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Whose duty was it to provide the offerings at the festivals, New Moons and Sabbaths?",
+  "options": [
+    "The high priest",
+    "The Levites",
+    "The people of each tribe",
+    "The prince"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "It was the duty of the prince to provide the burnt offerings, grain offerings and drink offerings at the festivals, the New Moons and the Sabbaths."
+}

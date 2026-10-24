@@ -1,0 +1,39 @@
+{
+  "id": "52-001-002",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 1,
+  "verse_reference": "1 Thessalonians 1:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"your work produced by faith, your labor prompted by love, and your endurance inspired by ____ in our Lord Jesus Christ.\"",
+  "options": [
+    "faith",
+    "love",
+    "hope",
+    "joy"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Love",
+    "Hope"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Thessalonica",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul remembered their endurance inspired by hope in the Lord Jesus Christ, along with their faith and love."
+}

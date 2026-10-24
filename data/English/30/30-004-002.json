@@ -1,0 +1,33 @@
+{
+  "id": "30-004-002",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 4,
+  "verse_reference": "Amos 4:1",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the 'cows of Bashan' say to their husbands?",
+  "options": [
+    "Bring us some drinks!",
+    "Build us a new house!",
+    "Give to the poor!",
+    "Go to the temple!"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mount Samaria",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They oppressed the poor and said to their husbands, 'Bring us some drinks!'"
+}

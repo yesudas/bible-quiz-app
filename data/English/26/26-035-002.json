@@ -1,0 +1,39 @@
+{
+  "id": "26-035-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 35,
+  "verse_reference": "Ezekiel 35:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What had Mount Seir done to the Israelites at the time of their calamity?",
+  "options": [
+    "Given them food and shelter",
+    "Delivered them over to the sword",
+    "Sent them gifts",
+    "Built walls for them"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Mount Seir",
+      "type": "mountain"
+    },
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said Mount Seir harbored an ancient hostility and delivered the Israelites over to the sword at the time of their calamity."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "44-016-004",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 16,
+  "verse_reference": "Acts 16:9",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Paul's vision at night, what did a man from Macedonia beg him to do?",
+  "options": [
+    "Go back to Jerusalem",
+    "Come over to Macedonia and help us",
+    "Write us a letter",
+    "Stay in Troas"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Troas",
+      "type": "city"
+    },
+    {
+      "name": "Macedonia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A man of Macedonia stood begging him, 'Come over to Macedonia and help us.'"
+}

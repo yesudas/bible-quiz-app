@@ -1,0 +1,37 @@
+{
+  "id": "58-009-007",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 9,
+  "verse_reference": "Hebrews 9:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Hebrews 9:12, by what means did Christ enter the Most Holy Place once for all?",
+  "options": [
+    "By his own blood",
+    "By the blood of goats and calves",
+    "By the ashes of a heifer",
+    "By the blood of a lamb"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Most Holy Place",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 9:12 says Christ did not enter by means of the blood of goats and calves; he entered the Most Holy Place once for all by his own blood, obtaining eternal redemption."
+}

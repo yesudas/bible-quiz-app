@@ -1,0 +1,41 @@
+{
+  "id": "41-002-001",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 2,
+  "verse_reference": "Mark 2:1-2",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "In which town was Jesus preaching in a house so crowded there was no room even outside the door?",
+  "options": [
+    "Nazareth",
+    "Bethany",
+    "Jericho",
+    "Capernaum"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    },
+    {
+      "name": "House in Capernaum",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Jesus returned to Capernaum, so many gathered at the house that there was no room left, not even outside the door."
+}

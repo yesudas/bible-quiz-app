@@ -1,0 +1,38 @@
+{
+  "id": "41-007-018",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 7,
+  "verse_reference": "Mark 7:37",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the amazed people's words: \"He has done everything ____. He even makes the deaf hear and the mute speak.\"",
+  "options": [
+    "quickly",
+    "well",
+    "quietly",
+    "perfectly"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Decapolis",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "People were overwhelmed with amazement and said, \"He has done everything well. He even makes the deaf hear and the mute speak.\""
+}

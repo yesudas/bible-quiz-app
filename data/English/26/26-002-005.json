@@ -1,0 +1,33 @@
+{
+  "id": "26-002-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 2,
+  "verse_reference": "Ezekiel 2:6",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "God told Ezekiel not to be afraid even though he lived among what creatures?",
+  "options": [
+    "Scorpions",
+    "Lions",
+    "Snakes",
+    "Wolves"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Persecution"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Ezekiel not to be afraid, though briers and thorns were around him and he lived among scorpions."
+}

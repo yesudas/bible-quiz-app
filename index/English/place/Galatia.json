@@ -1,0 +1,23 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Galatia",
+    "label": "Galatia",
+    "count": 13,
+    "paths": [
+        "English/46/46-016-001.json",
+        "English/48/48-001-001.json",
+        "English/48/48-001-003.json",
+        "English/48/48-001-005.json",
+        "English/48/48-001-006.json",
+        "English/48/48-003-001.json",
+        "English/48/48-003-002.json",
+        "English/48/48-004-006.json",
+        "English/48/48-004-007.json",
+        "English/48/48-004-008.json",
+        "English/48/48-004-009.json",
+        "English/48/48-004-010.json",
+        "English/60/60-001-002.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

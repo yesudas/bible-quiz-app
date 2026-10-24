@@ -1,0 +1,39 @@
+{
+  "id": "41-007-013",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 7,
+  "verse_reference": "Mark 7:29-30",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the woman find when she went home?",
+  "options": [
+    "Her child waiting at the door",
+    "Her house empty",
+    "Her child still sick",
+    "Her child lying on the bed, and the demon gone"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Faith"
+  ],
+  "characters": [
+    "Syrophoenician woman",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Because of her reply, Jesus said the demon had left her daughter. She went home and found her child lying on the bed, and the demon gone."
+}

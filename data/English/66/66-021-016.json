@@ -1,0 +1,35 @@
+{
+  "id": "66-021-016",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 21,
+  "verse_reference": "Revelation 21:25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why will the gates of the new Jerusalem never be shut?",
+  "options": [
+    "Because there are angels at every gate",
+    "Because there will be no night there",
+    "Because there are no enemies left",
+    "Because the gates are too heavy to move"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "New Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On no day will its gates ever be shut, for there will be no night there."
+}

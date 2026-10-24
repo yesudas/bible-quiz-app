@@ -1,0 +1,36 @@
+{
+  "id": "29-002-001",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 2,
+  "verse_reference": "Joel 2:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Blow the ____ in Zion; sound the alarm on my holy hill.\"",
+  "options": [
+    "trumpet",
+    "horn",
+    "harp",
+    "bell"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joel called for a trumpet to be blown in Zion to warn the people that the day of the LORD was coming."
+}

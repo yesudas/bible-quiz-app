@@ -1,0 +1,38 @@
+{
+  "id": "26-047-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 47,
+  "verse_reference": "Ezekiel 47:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Ezekiel see coming out from under the threshold of the temple?",
+  "options": [
+    "Fire",
+    "Water",
+    "Smoke",
+    "Light"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezekiel saw water coming out from under the threshold of the temple toward the east."
+}

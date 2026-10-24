@@ -1,0 +1,40 @@
+{
+  "id": "24-043-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 43,
+  "verse_reference": "Jeremiah 43:9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the LORD tell Jeremiah to bury at the entrance to Pharaoh's palace in Tahpanhes?",
+  "options": [
+    "A clay jar",
+    "A linen belt",
+    "Large stones in the clay of the brick pavement",
+    "A broken yoke"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Tahpanhes",
+      "type": "city"
+    },
+    {
+      "name": "Pharaoh's palace",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD told Jeremiah to take some large stones and bury them in clay in the brick pavement at the entrance to Pharaoh's palace in Tahpanhes."
+}

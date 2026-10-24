@@ -1,0 +1,33 @@
+{
+  "id": "40-017-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 17,
+  "verse_reference": "Matthew 17:10-13",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Jesus said Elijah had already come, but people did not recognize him. Whom did the disciples understand him to mean?",
+  "options": [
+    "Moses",
+    "Isaiah",
+    "John the Baptist",
+    "Peter"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus",
+    "Elijah",
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 17:13 says the disciples understood that he was talking to them about John the Baptist."
+}

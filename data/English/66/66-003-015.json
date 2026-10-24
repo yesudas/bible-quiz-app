@@ -1,0 +1,39 @@
+{
+  "id": "66-003-015",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 3,
+  "verse_reference": "Revelation 3:20",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Revelation 3:20, what does Jesus say he is doing at the door?",
+  "options": [
+    "Waiting quietly",
+    "Writing a name",
+    "Building a wall",
+    "Standing and knocking"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Love",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Laodicea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with that person.\""
+}

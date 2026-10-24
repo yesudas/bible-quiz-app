@@ -1,0 +1,37 @@
+{
+  "id": "41-005-006",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 5,
+  "verse_reference": "Mark 5:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "About how many pigs rushed down the steep bank into the lake?",
+  "options": [
+    "About two hundred",
+    "About five thousand",
+    "About two thousand",
+    "About forty"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The herd, about two thousand in number, rushed down the steep bank into the lake and were drowned."
+}

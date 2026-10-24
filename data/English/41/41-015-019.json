@@ -1,0 +1,38 @@
+{
+  "id": "41-015-019",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 15,
+  "verse_reference": "Mark 15:31",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "The chief priests mocked Jesus: \"He saved others, but he can't ____ himself!\"",
+  "options": [
+    "help",
+    "free",
+    "heal",
+    "save"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Salvation",
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Golgotha",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The chief priests and the teachers of the law mocked him among themselves. \"He saved others,\" they said, \"but he can't save himself!\""
+}

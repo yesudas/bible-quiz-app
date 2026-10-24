@@ -1,0 +1,38 @@
+{
+  "id": "30-002-002",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 2,
+  "verse_reference": "Amos 2:2",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which fortresses in Moab would God's fire consume?",
+  "options": [
+    "Bozrah",
+    "Rabbah",
+    "Kerioth",
+    "Teman"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Kerioth",
+      "type": "city"
+    },
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would send fire on Moab to consume the fortresses of Kerioth."
+}

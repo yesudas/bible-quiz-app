@@ -1,0 +1,30 @@
+{
+  "id": "46-004-012",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 4,
+  "verse_reference": "1 Corinthians 4:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"For the kingdom of God is not a matter of talk but of ______.\"",
+  "options": [
+    "love",
+    "wisdom",
+    "power",
+    "peace"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Kingdom of God"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul taught that God's kingdom shows itself in power, not just in words."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "26-048-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 48,
+  "verse_reference": "Ezekiel 48:1",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which tribe received the first portion of land, at the northern frontier?",
+  "options": [
+    "Judah",
+    "Dan",
+    "Reuben",
+    "Asher"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At the northern frontier, Dan was to have one portion, the first in the list of the tribes."
+}

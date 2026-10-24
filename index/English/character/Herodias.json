@@ -1,0 +1,16 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Herodias",
+    "label": "Herodias",
+    "count": 6,
+    "paths": [
+        "English/40/40-014-002.json",
+        "English/40/40-014-005.json",
+        "English/40/40-014-006.json",
+        "English/41/41-006-010.json",
+        "English/41/41-006-013.json",
+        "English/42/42-003-017.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

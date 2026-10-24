@@ -1,0 +1,41 @@
+{
+  "id": "43-019-005",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 19,
+  "verse_reference": "John 19:10-11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When Pilate spoke of his power, what did Jesus tell him?",
+  "options": [
+    "You would have no power over me if it were not given to you from above",
+    "You have all power on earth",
+    "Rome will judge you",
+    "I will set you free"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Pilate"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Palace of the Roman governor",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 19:11, Jesus answered, \"You would have no power over me if it were not given to you from above.\""
+}

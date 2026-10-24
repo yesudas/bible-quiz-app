@@ -1,0 +1,32 @@
+{
+  "id": "42-003-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 3,
+  "verse_reference": "Luke 3:2",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two men held the high priesthood when John began preaching?",
+  "options": [
+    "Eli and Samuel",
+    "Zechariah and Aaron",
+    "Ananias and Gamaliel",
+    "Annas and Caiaphas"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Annas",
+    "Caiaphas"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Luke says it was during the high priesthood of Annas and Caiaphas."
+}

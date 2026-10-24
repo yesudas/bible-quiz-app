@@ -1,0 +1,38 @@
+{
+  "id": "66-003-014",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 3,
+  "verse_reference": "Revelation 3:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Those whom I love I rebuke and ____. So be earnest and repent.\"",
+  "options": [
+    "forgive",
+    "teach",
+    "discipline",
+    "heal"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Repentance"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Laodicea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus showed that his rebuke comes from love: \"Those whom I love I rebuke and discipline.\""
+}

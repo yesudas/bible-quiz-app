@@ -1,0 +1,32 @@
+{
+  "id": "40-023-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 23,
+  "verse_reference": "Matthew 23:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In his first woe, what did Jesus say the teachers of the law and Pharisees do to the kingdom of heaven?",
+  "options": [
+    "Open it to everyone",
+    "Build its walls",
+    "Count its people",
+    "Shut the door in people's faces"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Kingdom of God",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 23:13 says, \"You shut the door of the kingdom of heaven in people's faces. You yourselves do not enter, nor will you let those enter who are trying to.\""
+}

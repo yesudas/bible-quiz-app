@@ -1,0 +1,35 @@
+{
+  "id": "54-001-013",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 1,
+  "verse_reference": "1 Timothy 1:20",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who did Paul name with Alexander as men he handed over to Satan?",
+  "options": [
+    "Demas",
+    "Hymenaeus",
+    "Onesimus",
+    "Apollos"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Satan",
+    "Sin",
+    "Church"
+  ],
+  "characters": [
+    "Paul",
+    "Hymenaeus",
+    "Alexander"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul handed Hymenaeus and Alexander over to Satan to be taught not to blaspheme."
+}

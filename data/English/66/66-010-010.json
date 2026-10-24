@@ -1,0 +1,32 @@
+{
+  "id": "66-010-010",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 10,
+  "verse_reference": "Revelation 10:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the little scroll taste in John's mouth?",
+  "options": [
+    "Bitter as wormwood",
+    "Salty as the sea",
+    "Dry as dust",
+    "Sweet as honey"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "It tasted as sweet as honey in John's mouth, but when he had eaten it, his stomach turned sour."
+}

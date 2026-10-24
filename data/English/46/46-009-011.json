@@ -1,0 +1,32 @@
+{
+  "id": "46-009-011",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 9,
+  "verse_reference": "1 Corinthians 9:24",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In Paul's picture of a race, how many runners get the prize?",
+  "options": [
+    "All of them",
+    "Two",
+    "Only one",
+    "Seven"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said all the runners run, but only one gets the prize — so run in such a way as to get the prize."
+}

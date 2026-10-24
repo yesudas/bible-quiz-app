@@ -1,0 +1,32 @@
+{
+  "id": "28-003-003",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 3,
+  "verse_reference": "Hosea 3:2",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How much silver did Hosea pay to buy his wife back?",
+  "options": [
+    "Thirty shekels",
+    "Ten shekels",
+    "Fifteen shekels",
+    "Fifty shekels"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Hosea"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea bought her for fifteen shekels of silver and about a homer and a lethek of barley."
+}

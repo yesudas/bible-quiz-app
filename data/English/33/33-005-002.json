@@ -1,0 +1,36 @@
+{
+  "id": "33-005-002",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 5,
+  "verse_reference": "Micah 5:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"But you, Bethlehem Ephrathah, though you are ______ among the clans of Judah, out of you will come for me one who will be ruler over Israel.\"",
+  "options": [
+    "great",
+    "proud",
+    "rich",
+    "small"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Bethlehem Ephrathah",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Bethlehem was small among the clans of Judah, yet God chose it as the birthplace of Israel's ruler."
+}

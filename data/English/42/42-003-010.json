@@ -1,0 +1,33 @@
+{
+  "id": "42-003-010",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 3,
+  "verse_reference": "Luke 3:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did John warn people not to say, 'We have Abraham as our father'?",
+  "options": [
+    "God could raise up children for Abraham from stones",
+    "Abraham was not their real ancestor",
+    "Only priests were children of Abraham",
+    "Abraham was not a righteous man"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Repentance",
+    "Faith"
+  ],
+  "characters": [
+    "John the Baptist",
+    "Abraham"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John said they must produce fruit in keeping with repentance, because God could raise up children for Abraham even from stones."
+}

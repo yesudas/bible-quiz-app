@@ -1,0 +1,36 @@
+{
+  "id": "36-003-001",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 3,
+  "verse_reference": "Zephaniah 3:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Zephaniah announce woe to the city of oppressors?",
+  "options": [
+    "It refused to pay taxes to Assyria",
+    "It obeyed no one and did not trust in the LORD",
+    "It had no king",
+    "It was too small to defend itself"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The city obeyed no one, accepted no correction, did not trust in the LORD and did not draw near to God."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "66-008-011",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 8,
+  "verse_reference": "Revelation 8:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was struck when the fourth angel sounded his trumpet?",
+  "options": [
+    "A third of the mountains",
+    "A third of the people",
+    "A third of the sun, moon and stars",
+    "A third of the animals"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A third of the sun, a third of the moon and a third of the stars were struck, so that a third of them turned dark."
+}

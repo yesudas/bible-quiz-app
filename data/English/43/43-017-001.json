@@ -1,0 +1,33 @@
+{
+  "id": "43-017-001",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 17,
+  "verse_reference": "John 17:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In John 17, what did Jesus do when he looked toward heaven?",
+  "options": [
+    "He prayed to the Father",
+    "He called down fire",
+    "He sang a psalm",
+    "He spoke to angels"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 17:1 says after Jesus said this, he looked toward heaven and prayed: \"Father, the hour has come.\""
+}

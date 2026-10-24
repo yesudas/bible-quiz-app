@@ -1,0 +1,37 @@
+{
+  "id": "40-002-004",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 2,
+  "verse_reference": "Matthew 2:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "From which direction did the Magi come to Jerusalem?",
+  "options": [
+    "From the west",
+    "From the north",
+    "From the south",
+    "From the east"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Magi"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 2:1 says Magi from the east came to Jerusalem."
+}

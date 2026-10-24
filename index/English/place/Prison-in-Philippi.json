@@ -1,0 +1,16 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Prison-in-Philippi",
+    "label": "Prison in Philippi",
+    "count": 6,
+    "paths": [
+        "English/44/44-016-013.json",
+        "English/44/44-016-014.json",
+        "English/44/44-016-015.json",
+        "English/44/44-016-016.json",
+        "English/44/44-016-017.json",
+        "English/44/44-016-018.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

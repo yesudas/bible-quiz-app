@@ -1,0 +1,36 @@
+{
+  "id": "66-004-010",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 4,
+  "verse_reference": "Revelation 4:8",
+  "question_type": "DIRECT",
+  "difficulty": "Easy",
+  "question": "How many wings did each of the four living creatures have?",
+  "options": [
+    "Two",
+    "Four",
+    "Six",
+    "Eight"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Angels"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Each of the four living creatures had six wings."
+}

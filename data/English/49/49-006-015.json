@@ -1,0 +1,33 @@
+{
+  "id": "49-006-015",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 6,
+  "verse_reference": "Ephesians 6:21",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did Paul send to tell the Ephesians how he was doing?",
+  "options": [
+    "Timothy",
+    "Titus",
+    "Tychicus",
+    "Silas"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Church",
+    "Leadership"
+  ],
+  "characters": [
+    "Paul",
+    "Tychicus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul sent Tychicus, the dear brother and faithful servant in the Lord, to tell them everything."
+}

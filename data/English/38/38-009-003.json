@@ -1,0 +1,46 @@
+{
+  "id": "38-009-003",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 9,
+  "verse_reference": "Zechariah 9:5-6",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "The cities of Ashkelon, Gaza, Ekron and Ashdod belonged to which people?",
+  "options": [
+    "The Philistines",
+    "The Moabites",
+    "The Edomites",
+    "The Ammonites"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ashkelon",
+      "type": "city"
+    },
+    {
+      "name": "Gaza",
+      "type": "city"
+    },
+    {
+      "name": "Ekron",
+      "type": "city"
+    },
+    {
+      "name": "Ashdod",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would put an end to the pride of the Philistines, whose cities included Ashkelon, Gaza, Ekron and Ashdod."
+}

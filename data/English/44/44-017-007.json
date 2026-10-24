@@ -1,0 +1,36 @@
+{
+  "id": "44-017-007",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 17,
+  "verse_reference": "Acts 17:11",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why were the Berean Jews described as more noble than those in Thessalonica?",
+  "options": [
+    "They were richer",
+    "They received the message eagerly and examined the Scriptures every day",
+    "They were older",
+    "They gave the apostles gifts"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Berea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "24-023-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 23,
+  "verse_reference": "Jeremiah 23:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "God said He would raise up for David a righteous what?",
+  "options": [
+    "Tower",
+    "Shield",
+    "Branch",
+    "Stone"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Promise",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "David"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, \"I will raise up for David a righteous Branch, a King who will reign wisely.\""
+}

@@ -1,0 +1,39 @@
+{
+  "id": "26-011-009",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 11,
+  "verse_reference": "Ezekiel 11:23",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Where did the glory of the LORD stop after it went up from within the city?",
+  "options": [
+    "Above the mountain east of the city",
+    "Above the Jordan River",
+    "Over the house of Ezekiel",
+    "At the gates of Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Mountain east of Jerusalem",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The glory of the LORD went up from within the city and stopped above the mountain east of it."
+}

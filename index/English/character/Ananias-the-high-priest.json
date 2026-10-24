@@ -1,0 +1,14 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Ananias-the-high-priest",
+    "label": "Ananias the high priest",
+    "count": 4,
+    "paths": [
+        "English/44/44-023-002.json",
+        "English/44/44-023-003.json",
+        "English/44/44-024-001.json",
+        "English/44/44-024-002.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "44-018-013",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 18,
+  "verse_reference": "Acts 18:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Paul have his hair cut off at Cenchreae?",
+  "options": [
+    "Because he was mourning",
+    "Because the law commanded it every year",
+    "Because of a vow he had taken",
+    "Because Priscilla asked him"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Cenchreae",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Before he sailed, he had his hair cut off at Cenchreae because of a vow he had taken."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "24-050-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 50,
+  "verse_reference": "Jeremiah 50:17",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "God said Israel was a scattered flock. Who was the first to devour them?",
+  "options": [
+    "The king of Egypt",
+    "The king of Edom",
+    "The king of Moab",
+    "The king of Assyria"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Assyria",
+      "type": "country"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Israel is a scattered flock… The first to devour them was the king of Assyria; the last to crush their bones was Nebuchadnezzar king of Babylon.\""
+}

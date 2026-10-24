@@ -1,0 +1,38 @@
+{
+  "id": "42-005-021",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:31-32",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'It is not the healthy who need a doctor, but the ____.'",
+  "options": [
+    "sick",
+    "poor",
+    "young",
+    "weak"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Repentance"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Levi's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus answered, 'It is not the healthy who need a doctor, but the sick.'"
+}

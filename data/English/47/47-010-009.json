@@ -1,0 +1,32 @@
+{
+  "id": "47-010-009",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 10,
+  "verse_reference": "2 Corinthians 10:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Let the one who boasts boast in the ______.\"",
+  "options": [
+    "Lord",
+    "church",
+    "law",
+    "truth"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul taught that if anyone boasts, they should boast in the Lord."
+}

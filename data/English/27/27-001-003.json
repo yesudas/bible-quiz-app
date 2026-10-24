@@ -1,0 +1,41 @@
+{
+  "id": "27-001-003",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 1,
+  "verse_reference": "Daniel 1:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Nebuchadnezzar take from the temple of God and put in the temple of his own god?",
+  "options": [
+    "The ark of the covenant",
+    "Some of the articles from the temple",
+    "The tablets of the law",
+    "The golden lampstand only"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Judgment"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Babylonia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nebuchadnezzar carried off some of the articles from the temple of God and put them in the treasure house of his god in Babylonia."
+}

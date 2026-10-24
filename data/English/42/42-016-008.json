@@ -1,0 +1,33 @@
+{
+  "id": "42-016-008",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 16,
+  "verse_reference": "Luke 16:14",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who loved money and were sneering at Jesus when they heard his teaching?",
+  "options": [
+    "The Pharisees",
+    "The tax collectors",
+    "The disciples",
+    "The Samaritans"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Unbelief"
+  ],
+  "characters": [
+    "Pharisees",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Pharisees, who loved money, heard all this and were sneering at Jesus."
+}

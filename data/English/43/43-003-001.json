@@ -1,0 +1,33 @@
+{
+  "id": "43-003-001",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 3,
+  "verse_reference": "John 3:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which Pharisee came to Jesus at night?",
+  "options": [
+    "Joseph of Arimathea",
+    "Nicodemus",
+    "Zacchaeus",
+    "Gamaliel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Nicodemus",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 3:1-2 says Nicodemus, a Pharisee and member of the Jewish ruling council, came to Jesus at night."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "47-004-006",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 4,
+  "verse_reference": "2 Corinthians 4:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"But we have this treasure in jars of ______.\"",
+  "options": [
+    "gold",
+    "silver",
+    "clay",
+    "glass"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said we have this treasure in jars of clay, to show that the all-surpassing power is from God and not from us."
+}

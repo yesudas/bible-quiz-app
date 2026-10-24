@@ -1,0 +1,34 @@
+{
+  "id": "40-010-001",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 10,
+  "verse_reference": "Matthew 10:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Jesus called his twelve disciples and gave them authority to do what?",
+  "options": [
+    "Rule over Israel",
+    "Drive out impure spirits and heal every disease",
+    "Collect taxes",
+    "Build synagogues"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship",
+    "Miracles",
+    "Mission"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 10:1 says Jesus gave them authority to drive out impure spirits and to heal every disease and sickness."
+}

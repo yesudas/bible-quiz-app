@@ -1,0 +1,35 @@
+{
+  "id": "26-029-006",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 29,
+  "verse_reference": "Ezekiel 29:11-12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "For how many years did God say Egypt would be uninhabited?",
+  "options": [
+    "Seven years",
+    "Seventy years",
+    "Forty years",
+    "Four hundred years"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said no one would pass through it for forty years, and its cities would lie desolate forty years."
+}

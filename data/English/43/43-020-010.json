@@ -1,0 +1,42 @@
+{
+  "id": "43-020-010",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 20,
+  "verse_reference": "John 20:19-20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "When Jesus stood among the disciples, what did he say? \"___ be with you!\"",
+  "options": [
+    "Joy",
+    "Peace",
+    "Grace",
+    "Love"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "House with locked doors",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 20:19 says Jesus came and stood among them and said, \"Peace be with you!\" Then he showed them his hands and side."
+}

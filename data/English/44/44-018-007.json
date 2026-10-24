@@ -1,0 +1,37 @@
+{
+  "id": "44-018-007",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 18,
+  "verse_reference": "Acts 18:8",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which synagogue leader in Corinth believed in the Lord with his whole household?",
+  "options": [
+    "Sosthenes",
+    "Crispus",
+    "Jairus",
+    "Apollos"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Family"
+  ],
+  "characters": [
+    "Crispus"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Crispus, the synagogue leader, and his entire household believed in the Lord."
+}

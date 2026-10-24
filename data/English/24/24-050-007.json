@@ -1,0 +1,39 @@
+{
+  "id": "24-050-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 50,
+  "verse_reference": "Jeremiah 50:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "In those days, what would people find when they searched for Israel's guilt?",
+  "options": [
+    "There would be none, because God would forgive the remnant",
+    "Great piles of sin",
+    "Only the sins of the kings",
+    "Their names in a book"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Forgiveness",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Search will be made for Israel's guilt, but there will be none… for I will forgive the remnant I spare.\""
+}

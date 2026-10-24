@@ -1,0 +1,31 @@
+{
+  "id": "42-011-015",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:27-28",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When a woman called Jesus' mother blessed, what did Jesus say?",
+  "options": [
+    "Yes, she is the most blessed of all",
+    "Only my disciples are blessed",
+    "Blessed rather are those who hear the word of God and obey it",
+    "No one is blessed"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus replied, 'Blessed rather are those who hear the word of God and obey it.'"
+}

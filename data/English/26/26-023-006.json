@@ -1,0 +1,34 @@
+{
+  "id": "26-023-006",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 23,
+  "verse_reference": "Ezekiel 23:16",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "To which land did Oholibah send messengers after she saw pictures of the Babylonians?",
+  "options": [
+    "Egypt",
+    "Chaldea",
+    "Moab",
+    "Edom"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Chaldea",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As soon as she saw pictures of the Babylonians, she lusted after them and sent messengers to them in Chaldea."
+}

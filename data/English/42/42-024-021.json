@@ -1,0 +1,34 @@
+{
+  "id": "42-024-021",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 24,
+  "verse_reference": "Luke 24:44",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which three parts of Scripture did Jesus say were written about him?",
+  "options": [
+    "Genesis, Exodus and Isaiah",
+    "The Law of Moses, the Prophets and the Psalms",
+    "The Kings, the Chronicles and Daniel",
+    "Proverbs, Job and Ruth"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Jesus",
+    "Law"
+  ],
+  "characters": [
+    "Jesus",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said everything must be fulfilled that is written about him in the Law of Moses, the Prophets and the Psalms."
+}

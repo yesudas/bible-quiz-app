@@ -1,0 +1,39 @@
+{
+  "id": "26-030-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 30,
+  "verse_reference": "Ezekiel 30:13",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In which Egyptian city did God say He would put an end to the images?",
+  "options": [
+    "Memphis",
+    "Thebes",
+    "Tahpanhes",
+    "Heliopolis"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Memphis",
+      "type": "city"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'I will destroy the idols and put an end to the images in Memphis.'"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "62-003-012",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 3,
+  "verse_reference": "1 John 3:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"Dear children, let us not love with words or speech but with actions and in ______.\"",
+  "options": [
+    "truth",
+    "silence",
+    "prayer",
+    "song"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Truth"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John urges believers not to love only with words or speech, but with actions and in truth."
+}

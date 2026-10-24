@@ -1,0 +1,35 @@
+{
+  "id": "35-001-014",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 1,
+  "verse_reference": "Habakkuk 1:16",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "To what did the wicked enemy offer sacrifices and burn incense?",
+  "options": [
+    "His sword",
+    "His net and dragnet",
+    "His horses",
+    "His king's statue"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Idolatry",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "empire"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Habakkuk said the enemy sacrificed to his net and burned incense to his dragnet, because by it he lived in luxury."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "43-011-016",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 11,
+  "verse_reference": "John 11:47-48",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the chief priests and Pharisees fear letting Jesus go on performing signs?",
+  "options": [
+    "Everyone would believe in him, and the Romans would take away their temple and nation",
+    "They would lose their money",
+    "Lazarus would become king",
+    "The people would leave Jerusalem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 11:48 says they feared that if they let him go on, everyone would believe in him, and then the Romans would take away their temple and their nation."
+}

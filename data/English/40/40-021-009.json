@@ -1,0 +1,38 @@
+{
+  "id": "40-021-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 21,
+  "verse_reference": "Matthew 21:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"My house will be called a house of ______, but you are making it 'a den of robbers.'\"",
+  "options": [
+    "praise",
+    "peace",
+    "prayer",
+    "worship"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 21:13 says, \"It is written, 'My house will be called a house of prayer,' but you are making it 'a den of robbers.'\""
+}

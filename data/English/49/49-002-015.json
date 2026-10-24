@@ -1,0 +1,33 @@
+{
+  "id": "49-002-015",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 2,
+  "verse_reference": "Ephesians 2:20",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "In Ephesians 2:20, who is called the chief cornerstone?",
+  "options": [
+    "Peter",
+    "Christ Jesus",
+    "Moses",
+    "Paul"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The household is built on the foundation of the apostles and prophets, with Christ Jesus himself as the chief cornerstone."
+}

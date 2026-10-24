@@ -1,0 +1,38 @@
+{
+  "id": "41-012-021",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 12,
+  "verse_reference": "Mark 12:42",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the poor widow put into the temple treasury?",
+  "options": [
+    "Two very small copper coins",
+    "A gold coin",
+    "A bag of silver",
+    "A lamb"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Money",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A poor widow came and put in two very small copper coins, worth only a few cents."
+}

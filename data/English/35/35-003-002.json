@@ -1,0 +1,33 @@
+{
+  "id": "35-003-002",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 3,
+  "verse_reference": "Habakkuk 3:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Habakkuk's prayer: \"Repeat them in our day, in our time make them known; in wrath remember ____.\"",
+  "options": [
+    "justice",
+    "mercy",
+    "Israel",
+    "your covenant"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Habakkuk"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Habakkuk asked God to repeat His great deeds and, in His wrath, to remember mercy."
+}

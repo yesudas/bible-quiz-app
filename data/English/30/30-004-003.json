@@ -1,0 +1,34 @@
+{
+  "id": "30-004-003",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 4,
+  "verse_reference": "Amos 4:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "With what did God say these women would be taken away?",
+  "options": [
+    "Chains",
+    "Ropes",
+    "Hooks",
+    "Nets"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 4:2 says they would be taken away with hooks, the last of them with fishhooks."
+}

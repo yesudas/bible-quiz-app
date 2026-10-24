@@ -1,0 +1,38 @@
+{
+  "id": "42-023-023",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 23,
+  "verse_reference": "Luke 23:53",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where was Jesus' body placed?",
+  "options": [
+    "In a family grave",
+    "In the temple courts",
+    "In a cave near Bethany",
+    "In a tomb cut in the rock where no one had yet been laid"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Joseph of Arimathea",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Tomb cut in the rock",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joseph wrapped the body in linen cloth and placed it in a tomb cut in the rock, one in which no one had yet been laid."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "44-021-004",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 21,
+  "verse_reference": "Acts 21:9",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What is said about Philip's four unmarried daughters?",
+  "options": [
+    "They were deaconesses",
+    "They made tents",
+    "They sang in the temple",
+    "They prophesied"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Family"
+  ],
+  "characters": [
+    "Philip"
+  ],
+  "places": [
+    {
+      "name": "Caesarea",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Philip had four unmarried daughters who prophesied."
+}

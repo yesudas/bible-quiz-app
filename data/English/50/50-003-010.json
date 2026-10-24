@@ -1,0 +1,31 @@
+{
+  "id": "50-003-010",
+  "language": "en",
+  "book_no": 50,
+  "book": "Philippians",
+  "chapter": 3,
+  "verse_reference": "Philippians 3:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Paul described the enemies of the cross of Christ: \"their god is their ______.\"",
+  "options": [
+    "money",
+    "stomach",
+    "pride",
+    "power"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said their god is their stomach, and their mind is set on earthly things."
+}

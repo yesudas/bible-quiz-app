@@ -1,0 +1,32 @@
+{
+  "id": "42-010-004",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "What were the seventy-two to say first when entering a house? '____ to this house.'",
+  "options": [
+    "Blessing",
+    "Joy",
+    "Grace",
+    "Peace"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told them, 'When you enter a house, first say, Peace to this house.'"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "66-017-006",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 17,
+  "verse_reference": "Revelation 17:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What was the woman drunk with?",
+  "options": [
+    "The wine of Egypt",
+    "The tears of the nations",
+    "The blood of God's holy people",
+    "The water of the river"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John saw that the woman was drunk with the blood of God's holy people, the blood of those who bore testimony to Jesus."
+}

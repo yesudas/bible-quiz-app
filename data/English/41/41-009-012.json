@@ -1,0 +1,37 @@
+{
+  "id": "41-009-012",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 9,
+  "verse_reference": "Mark 9:28-29",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When the disciples asked why they could not drive out the spirit, what did Jesus answer?",
+  "options": [
+    "You did not use oil",
+    "You were too young",
+    "This kind can come out only by prayer",
+    "You needed more people"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "House in Capernaum",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus replied, \"This kind can come out only by prayer.\""
+}

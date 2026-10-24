@@ -1,0 +1,41 @@
+{
+  "id": "24-031-011",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 31,
+  "verse_reference": "Jeremiah 31:31",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What kind of covenant did God promise to make with Israel and Judah?",
+  "options": [
+    "A covenant of salt",
+    "A covenant of war",
+    "A new covenant",
+    "A covenant of land"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Covenant",
+    "Promise",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    },
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, \"The days are coming when I will make a new covenant with the people of Israel and with the people of Judah.\""
+}

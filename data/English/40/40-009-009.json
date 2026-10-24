@@ -1,0 +1,32 @@
+{
+  "id": "40-009-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 9,
+  "verse_reference": "Matthew 9:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete what Jesus told the Pharisees to learn: \"I desire ______, not sacrifice.\"",
+  "options": [
+    "mercy",
+    "obedience",
+    "worship",
+    "prayer"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Law"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 9:13 says, \"Go and learn what this means: 'I desire mercy, not sacrifice.'\""
+}

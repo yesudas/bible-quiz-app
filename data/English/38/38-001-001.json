@@ -1,0 +1,33 @@
+{
+  "id": "38-001-001",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 1,
+  "verse_reference": "Zechariah 1:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who was Zechariah's father?",
+  "options": [
+    "Iddo",
+    "Berekiah",
+    "Haggai",
+    "Hilkiah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Zechariah",
+    "Berekiah",
+    "Iddo"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zechariah was the son of Berekiah, the son of Iddo."
+}

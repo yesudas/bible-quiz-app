@@ -1,0 +1,30 @@
+{
+  "id": "58-006-012",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 6,
+  "verse_reference": "Hebrews 6:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"We have this hope as an ____ for the soul, firm and secure.\"",
+  "options": [
+    "armor",
+    "lamp",
+    "shield",
+    "anchor"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 6:19 says we have this hope as an anchor for the soul, firm and secure."
+}

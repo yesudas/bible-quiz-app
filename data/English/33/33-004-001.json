@@ -1,0 +1,37 @@
+{
+  "id": "33-004-001",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 4,
+  "verse_reference": "Micah 4:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In the last days, what would be established as the highest of the mountains?",
+  "options": [
+    "Mount Sinai",
+    "Mount Carmel",
+    "The Mount of Olives",
+    "The mountain of the LORD's temple"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Hope",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micah says in the last days the mountain of the LORD's temple will be established as the highest of the mountains."
+}

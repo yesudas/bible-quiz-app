@@ -1,0 +1,53 @@
+{
+  "id": "60-001-002",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 1,
+  "verse_reference": "1 Peter 1:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Which of these provinces is named as a place where the people Peter wrote to were scattered?",
+  "options": [
+    "Cappadocia",
+    "Macedonia",
+    "Achaia",
+    "Syria"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church",
+    "Persecution"
+  ],
+  "characters": [
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Pontus",
+      "type": "province"
+    },
+    {
+      "name": "Galatia",
+      "type": "province"
+    },
+    {
+      "name": "Cappadocia",
+      "type": "province"
+    },
+    {
+      "name": "Asia",
+      "type": "province"
+    },
+    {
+      "name": "Bithynia",
+      "type": "province"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter wrote to God's elect, exiles scattered throughout Pontus, Galatia, Cappadocia, Asia and Bithynia."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "24-049-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 49,
+  "verse_reference": "Jeremiah 49:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "God said Edom would be overthrown like which cities?",
+  "options": [
+    "Tyre and Sidon",
+    "Sodom and Gomorrah",
+    "Nineveh and Babylon",
+    "Jericho and Ai"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    },
+    {
+      "name": "Sodom",
+      "type": "city"
+    },
+    {
+      "name": "Gomorrah",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"As Sodom and Gomorrah were overthrown, along with their neighboring towns… so no one will live there.\""
+}

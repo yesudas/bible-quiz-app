@@ -1,0 +1,30 @@
+{
+  "id": "25-005-001",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 5,
+  "verse_reference": "Lamentations 5:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What does the writer ask the LORD to do at the start of Lamentations 5?",
+  "options": [
+    "Destroy their enemies",
+    "Give them a new king",
+    "Remember what happened to them",
+    "Send rain"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The chapter begins as a prayer asking the LORD to remember what happened to them and to look at their disgrace."
+}

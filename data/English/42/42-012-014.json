@@ -1,0 +1,33 @@
+{
+  "id": "42-012-014",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 12,
+  "verse_reference": "Luke 12:27",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which king did Jesus say was not dressed like one of the wild flowers?",
+  "options": [
+    "David",
+    "Saul",
+    "Herod",
+    "Solomon"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jesus",
+    "Solomon"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Consider how the wild flowers grow... not even Solomon in all his splendor was dressed like one of these.'"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "40-028-001",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 28,
+  "verse_reference": "Matthew 28:1",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When did Mary Magdalene and the other Mary go to look at the tomb?",
+  "options": [
+    "On the Sabbath evening",
+    "At dawn on the first day of the week",
+    "At noon on the third day",
+    "At midnight"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [
+    "Mary Magdalene",
+    "Mary"
+  ],
+  "places": [
+    {
+      "name": "Jesus' tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 28:1 says after the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb."
+}

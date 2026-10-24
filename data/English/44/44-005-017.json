@@ -1,0 +1,33 @@
+{
+  "id": "44-005-017",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 5,
+  "verse_reference": "Acts 5:36-37",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two men did Gamaliel name as leaders whose followers were scattered?",
+  "options": [
+    "Simon and Barabbas",
+    "Ananias and Annas",
+    "Theudas and Judas the Galilean",
+    "Herod and Pilate"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Gamaliel",
+    "Theudas",
+    "Judas the Galilean"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gamaliel reminded them of Theudas and Judas the Galilean, whose followers were dispersed."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "24-005-010",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 5,
+  "verse_reference": "Jeremiah 5:24",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "The people did not fear the LORD, who gives which rains in season?",
+  "options": [
+    "Winter and summer rains",
+    "Early and evening rains",
+    "Heavy and light rains",
+    "Autumn and spring rains"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Creation",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They did not say, \"Let us fear the LORD our God, who gives autumn and spring rains in season.\""
+}

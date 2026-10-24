@@ -1,0 +1,30 @@
+{
+  "id": "45-014-013",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 14,
+  "verse_reference": "Romans 14:23",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"...and everything that does not come from ______ is sin.\"",
+  "options": [
+    "love",
+    "the law",
+    "the heart",
+    "faith"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul ends the chapter by saying that everything that does not come from faith is sin."
+}

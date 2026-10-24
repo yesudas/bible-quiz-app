@@ -1,0 +1,38 @@
+{
+  "id": "27-003-011",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 3,
+  "verse_reference": "Daniel 3:22",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What happened to the soldiers who took the three men up to the furnace?",
+  "options": [
+    "They ran away in fear",
+    "They were promoted",
+    "They bowed to God",
+    "The flames of the fire killed them"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Shadrach",
+    "Meshach",
+    "Abednego"
+  ],
+  "places": [
+    {
+      "name": "Blazing furnace",
+      "type": "furnace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The furnace was so hot that its flames killed the soldiers who took up Shadrach, Meshach and Abednego."
+}

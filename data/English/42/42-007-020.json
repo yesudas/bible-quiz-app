@@ -1,0 +1,37 @@
+{
+  "id": "42-007-020",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 7,
+  "verse_reference": "Luke 7:47",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Jesus' words: 'But whoever has been forgiven little loves ____.'",
+  "options": [
+    "much",
+    "more",
+    "little",
+    "none"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Forgiveness",
+    "Love"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Pharisee's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said the woman's many sins were forgiven, as her great love showed, but whoever has been forgiven little loves little."
+}

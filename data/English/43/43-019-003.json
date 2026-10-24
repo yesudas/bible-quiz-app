@@ -1,0 +1,41 @@
+{
+  "id": "43-019-003",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 19,
+  "verse_reference": "John 19:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "When Jesus came out wearing the crown of thorns, Pilate said to them: \"Here is the ___!\"",
+  "options": [
+    "king",
+    "prisoner",
+    "man",
+    "prophet"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Pilate",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Palace of the Roman governor",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 19:5, Pilate said to them, \"Here is the man!\""
+}

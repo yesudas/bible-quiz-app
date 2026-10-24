@@ -1,0 +1,31 @@
+{
+  "id": "45-013-005",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 13,
+  "verse_reference": "Romans 13:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Let no debt remain outstanding, except the continuing debt to ______ one another.\"",
+  "options": [
+    "serve",
+    "forgive",
+    "love",
+    "teach"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Money"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says the only debt that should continue is the debt to love one another."
+}

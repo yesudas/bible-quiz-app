@@ -1,0 +1,35 @@
+{
+  "id": "24-049-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 49,
+  "verse_reference": "Jeremiah 49:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God tell proud Edom, who lived in the clefts of the rocks?",
+  "options": [
+    "Even if you build your nest as high as the eagle's, I will bring you down",
+    "Your rocks will protect you forever",
+    "You will rule all nations",
+    "You will become a great sea"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Though you build your nest as high as the eagle's, from there I will bring you down,\" declares the LORD."
+}

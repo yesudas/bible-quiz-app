@@ -1,0 +1,31 @@
+{
+  "id": "56-002-006",
+  "language": "en",
+  "book_no": 56,
+  "book": "Titus",
+  "chapter": 2,
+  "verse_reference": "Titus 2:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"For the ____ of God has appeared that offers salvation to all people.\"",
+  "options": [
+    "grace",
+    "law",
+    "anger",
+    "glory"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Grace"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God's grace has appeared and offers salvation to all people."
+}

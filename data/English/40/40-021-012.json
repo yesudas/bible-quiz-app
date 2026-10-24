@@ -1,0 +1,33 @@
+{
+  "id": "40-021-012",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 21,
+  "verse_reference": "Matthew 21:19",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "When Jesus found nothing but leaves on a fig tree, what happened after he spoke to it?",
+  "options": [
+    "It grew fruit at once",
+    "It was cut down",
+    "It fell over",
+    "It withered immediately"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 21:19 says he said to it, \"May you never bear fruit again!\" Immediately the tree withered."
+}

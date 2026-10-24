@@ -1,0 +1,38 @@
+{
+  "id": "43-005-008",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 5,
+  "verse_reference": "John 5:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the Jewish leaders object when they saw the healed man?",
+  "options": [
+    "He was carrying his mat on the Sabbath",
+    "He had not washed",
+    "He had not paid the temple tax",
+    "He was not from Jerusalem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Pool of Bethesda",
+      "type": "pool"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 5:10, the Jewish leaders told him it was the Sabbath and the law forbade him to carry his mat."
+}

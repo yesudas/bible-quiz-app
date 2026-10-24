@@ -1,0 +1,31 @@
+{
+  "id": "28-002-005",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 2,
+  "verse_reference": "Hosea 2:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"She has not acknowledged that I was the one who gave her the ______, the new wine and oil.\"",
+  "options": [
+    "bread",
+    "grain",
+    "fruit",
+    "honey"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God was the one who gave Israel grain, new wine and oil, but she did not acknowledge Him."
+}

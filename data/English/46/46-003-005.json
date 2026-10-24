@@ -1,0 +1,33 @@
+{
+  "id": "46-003-005",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 3,
+  "verse_reference": "1 Corinthians 3:6",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "In Paul's picture of the church as a garden, what did Apollos do after Paul planted the seed?",
+  "options": [
+    "He harvested it",
+    "He watered it",
+    "He pulled the weeds",
+    "He built a fence"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Leadership"
+  ],
+  "characters": [
+    "Paul",
+    "Apollos"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul planted the seed and Apollos watered it, while God gave the growth."
+}

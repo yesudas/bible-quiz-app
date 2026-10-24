@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Anna",
+    "label": "Anna",
+    "count": 3,
+    "paths": [
+        "English/42/42-002-018.json",
+        "English/42/42-002-019.json",
+        "English/42/42-002-020.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

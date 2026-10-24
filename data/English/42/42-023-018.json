@@ -1,0 +1,31 @@
+{
+  "id": "42-023-018",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 23,
+  "verse_reference": "Luke 23:44-45",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "Between which hours did darkness come over the whole land?",
+  "options": [
+    "From dawn until noon",
+    "From three until sunset",
+    "From about noon until three in the afternoon",
+    "All through the night"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "It was now about noon, and darkness came over the whole land until three in the afternoon, for the sun stopped shining."
+}

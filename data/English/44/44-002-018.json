@@ -1,0 +1,32 @@
+{
+  "id": "44-002-018",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 2,
+  "verse_reference": "Acts 2:41",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "About how many people were added to the believers that day?",
+  "options": [
+    "Five hundred",
+    "Three thousand",
+    "One thousand",
+    "Five thousand"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Evangelism",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Those who accepted the message were baptized, and about three thousand were added that day."
+}

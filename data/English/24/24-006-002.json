@@ -1,0 +1,39 @@
+{
+  "id": "24-006-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 6,
+  "verse_reference": "Jeremiah 6:1",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "In which town did God say to sound the trumpet as disaster came from the north?",
+  "options": [
+    "Tekoa",
+    "Bethel",
+    "Ramah",
+    "Gibeon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tekoa",
+      "type": "town"
+    },
+    {
+      "name": "Beth Hakkerem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said to sound the trumpet in Tekoa and raise a signal over Beth Hakkerem."
+}

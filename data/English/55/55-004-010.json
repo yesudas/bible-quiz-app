@@ -1,0 +1,39 @@
+{
+  "id": "55-004-010",
+  "language": "en",
+  "book_no": 55,
+  "book": "2 Timothy",
+  "chapter": 4,
+  "verse_reference": "2 Timothy 4:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Paul ask Timothy to bring from Troas, along with his scrolls?",
+  "options": [
+    "His cloak",
+    "His sandals",
+    "His staff",
+    "His tent"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering"
+  ],
+  "characters": [
+    "Paul",
+    "Timothy",
+    "Carpus"
+  ],
+  "places": [
+    {
+      "name": "Troas",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul asked Timothy to bring the cloak he had left with Carpus at Troas, and his scrolls, especially the parchments."
+}

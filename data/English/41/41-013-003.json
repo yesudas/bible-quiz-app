@@ -1,0 +1,41 @@
+{
+  "id": "41-013-003",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 13,
+  "verse_reference": "Mark 13:3",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which four disciples asked Jesus privately when these things would happen?",
+  "options": [
+    "Peter, James, John and Andrew",
+    "Peter, Thomas, Philip and Matthew",
+    "James, John, Judas and Simon",
+    "Andrew, Philip, Bartholomew and Thomas"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship",
+    "Prophecy"
+  ],
+  "characters": [
+    "Simon Peter",
+    "James son of Zebedee",
+    "John",
+    "Andrew",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mount of Olives",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter, James, John and Andrew asked him privately, \"Tell us, when will these things happen?\""
+}

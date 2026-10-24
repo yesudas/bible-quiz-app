@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Royal-palace",
     "label": "Royal palace",
-    "count": 8,
+    "count": 11,
     "paths": [
         "English/12/12-011-010.json",
         "English/12/12-021-013.json",
@@ -12,7 +12,10 @@
         "English/14/14-023-010.json",
         "English/14/14-026-014.json",
         "English/14/14-033-015.json",
-        "English/17/17-001-006.json"
+        "English/17/17-001-006.json",
+        "English/24/24-036-007.json",
+        "English/24/24-036-008.json",
+        "English/24/24-036-009.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

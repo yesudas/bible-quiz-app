@@ -1,0 +1,31 @@
+{
+  "id": "43-021-016",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 21,
+  "verse_reference": "John 21:25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What does the last verse of John say about all the other things Jesus did?",
+  "options": [
+    "They were all written in this book",
+    "They were kept secret",
+    "They were forgotten",
+    "If every one were written down, the whole world would not have room for the books"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 21:25 says if every one of the things Jesus did were written down, the whole world would not have room for the books that would be written."
+}

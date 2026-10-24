@@ -1,0 +1,34 @@
+{
+  "id": "47-012-006",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 12,
+  "verse_reference": "2 Corinthians 12:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"My grace is sufficient for you, for my power is made perfect in ______.\"",
+  "options": [
+    "weakness",
+    "strength",
+    "faith",
+    "prayer"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Suffering",
+    "Prayer"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lord answered Paul, 'My grace is sufficient for you, for my power is made perfect in weakness.'"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "47-007-009",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 7,
+  "verse_reference": "2 Corinthians 7:13",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Paul say happened to Titus's spirit because of the Corinthians?",
+  "options": [
+    "It was troubled",
+    "It was refreshed",
+    "It was crushed",
+    "It was angered"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Love"
+  ],
+  "characters": [
+    "Paul",
+    "Titus"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul was delighted to see how happy Titus was, because his spirit had been refreshed by all of them."
+}

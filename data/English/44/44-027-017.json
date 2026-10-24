@@ -1,0 +1,29 @@
+{
+  "id": "44-027-017",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 27,
+  "verse_reference": "Acts 27:37",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many people were on board the ship?",
+  "options": [
+    "120",
+    "70",
+    "500",
+    "276"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Altogether there were 276 people on board."
+}

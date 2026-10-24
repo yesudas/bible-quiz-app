@@ -1,0 +1,37 @@
+{
+  "id": "26-028-009",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 28,
+  "verse_reference": "Ezekiel 28:21-22",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "After Tyre, against which nearby city did God tell Ezekiel to prophesy?",
+  "options": [
+    "Damascus",
+    "Sidon",
+    "Gaza",
+    "Nineveh"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Sidon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Ezekiel to set his face against Sidon and prophesy against her."
+}

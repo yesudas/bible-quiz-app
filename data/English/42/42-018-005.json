@@ -1,0 +1,32 @@
+{
+  "id": "42-018-005",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 18,
+  "verse_reference": "Luke 18:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Jesus' question: 'However, when the Son of Man comes, will he find ____ on the earth?'",
+  "options": [
+    "love",
+    "faith",
+    "peace",
+    "joy"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked, 'When the Son of Man comes, will he find faith on the earth?'"
+}

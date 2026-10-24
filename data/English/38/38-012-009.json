@@ -1,0 +1,39 @@
+{
+  "id": "38-012-009",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 12,
+  "verse_reference": "Zechariah 12:11",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "The great weeping in Jerusalem would be like the weeping of Hadad Rimmon in which plain?",
+  "options": [
+    "The plain of Moab",
+    "The plain of Megiddo",
+    "The plain of Jericho",
+    "The plain of Sharon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Suffering",
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Plain of Megiddo",
+      "type": "valley"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The weeping in Jerusalem would be as great as the weeping of Hadad Rimmon in the plain of Megiddo."
+}

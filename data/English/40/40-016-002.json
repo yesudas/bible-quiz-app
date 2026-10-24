@@ -1,0 +1,32 @@
+{
+  "id": "40-016-002",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 16,
+  "verse_reference": "Matthew 16:2-3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Jesus said the Pharisees and Sadducees knew how to interpret the sky. What could they not interpret?",
+  "options": [
+    "The signs of the times",
+    "The law of Moses",
+    "The stars",
+    "The weather at sea"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 16:3 says, \"You know how to interpret the appearance of the sky, but you cannot interpret the signs of the times.\""
+}

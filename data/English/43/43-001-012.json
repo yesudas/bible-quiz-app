@@ -1,0 +1,35 @@
+{
+  "id": "43-001-012",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 1,
+  "verse_reference": "John 1:29",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete John's words about Jesus: \"Look, the ___ of God, who takes away the sin of the world!\"",
+  "options": [
+    "Son",
+    "Shepherd",
+    "Lamb",
+    "Light"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Salvation",
+    "Sin"
+  ],
+  "characters": [
+    "John the Baptist",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 1:29, John saw Jesus coming and called him the Lamb of God, who takes away the sin of the world."
+}

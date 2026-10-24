@@ -1,0 +1,34 @@
+{
+  "id": "26-027-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 27,
+  "verse_reference": "Ezekiel 27:26",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What broke Tyre's ship in pieces in the heart of the sea?",
+  "options": [
+    "A great whale",
+    "An enemy fleet",
+    "Hidden rocks",
+    "The east wind"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The lament says, 'The east wind will break you to pieces far out at sea.'"
+}

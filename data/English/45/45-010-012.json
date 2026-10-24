@@ -1,0 +1,31 @@
+{
+  "id": "45-010-012",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 10,
+  "verse_reference": "Romans 10:19",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who is quoted saying, \"I will make you envious by those who are not a nation\"?",
+  "options": [
+    "Isaiah",
+    "David",
+    "Moses",
+    "Elijah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quotes Moses, who wrote that God would make Israel envious by those who are not a nation."
+}

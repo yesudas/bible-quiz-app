@@ -1,0 +1,31 @@
+{
+  "id": "59-001-003",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 1,
+  "verse_reference": "James 1:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What should a person who lacks wisdom do?",
+  "options": [
+    "Ask other people",
+    "Read more books",
+    "Wait quietly",
+    "Ask God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom",
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "If anyone lacks wisdom, they should ask God, who gives generously to all without finding fault."
+}

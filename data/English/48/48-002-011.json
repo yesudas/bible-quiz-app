@@ -1,0 +1,37 @@
+{
+  "id": "48-002-011",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 2,
+  "verse_reference": "Galatians 2:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Cephas stop eating with the Gentiles?",
+  "options": [
+    "He was sick",
+    "He was afraid of the circumcision group",
+    "The Gentiles asked him to leave",
+    "God told him to fast"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Antioch",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When certain men came from James, Cephas drew back because he was afraid of those who belonged to the circumcision group."
+}

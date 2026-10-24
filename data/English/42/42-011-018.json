@@ -1,0 +1,38 @@
+{
+  "id": "42-011-018",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:32",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which people repented at the preaching of Jonah?",
+  "options": [
+    "The Egyptians",
+    "The men of Nineveh",
+    "The men of Babylon",
+    "The Samaritans"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance"
+  ],
+  "characters": [
+    "Jonah",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said the men of Nineveh repented at the preaching of Jonah, and now something greater than Jonah is here."
+}

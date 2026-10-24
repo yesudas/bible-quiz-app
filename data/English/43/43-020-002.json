@@ -1,0 +1,37 @@
+{
+  "id": "43-020-002",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 20,
+  "verse_reference": "John 20:1",
+  "question_type": "WHEN",
+  "difficulty": "Easy",
+  "question": "On which day did Mary Magdalene find the stone removed from the tomb?",
+  "options": [
+    "The first day of the week",
+    "The Sabbath",
+    "The day of Passover",
+    "The seventh day"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [
+    "Mary Magdalene"
+  ],
+  "places": [
+    {
+      "name": "Jesus' tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 20:1 says it was early on the first day of the week."
+}

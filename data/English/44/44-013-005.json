@@ -1,0 +1,42 @@
+{
+  "id": "44-013-005",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 13,
+  "verse_reference": "Acts 13:4",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "After going down to Seleucia, to which island did Barnabas and Saul sail?",
+  "options": [
+    "Crete",
+    "Malta",
+    "Cyprus",
+    "Patmos"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Barnabas",
+    "Saul"
+  ],
+  "places": [
+    {
+      "name": "Seleucia",
+      "type": "city"
+    },
+    {
+      "name": "Cyprus",
+      "type": "island"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Sent by the Holy Spirit, they went to Seleucia and sailed from there to Cyprus."
+}

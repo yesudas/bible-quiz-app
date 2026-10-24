@@ -1,0 +1,41 @@
+{
+  "id": "30-006-002",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 6,
+  "verse_reference": "Amos 6:2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Which of these places did Amos tell the people to go and look at?",
+  "options": [
+    "Kalneh, Hamath and Gath",
+    "Nineveh, Babylon and Ur",
+    "Tyre, Sidon and Byblos",
+    "Joppa, Lydda and Sharon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Kalneh",
+      "type": "city"
+    },
+    {
+      "name": "Hamath",
+      "type": "city"
+    },
+    {
+      "name": "Gath",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 6:2 tells them to go to Kalneh, great Hamath and Gath of the Philistines."
+}

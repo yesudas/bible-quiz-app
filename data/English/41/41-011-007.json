@@ -1,0 +1,40 @@
+{
+  "id": "41-011-007",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 11,
+  "verse_reference": "Mark 11:11",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "What did Jesus do after entering Jerusalem and looking around at everything in the temple courts?",
+  "options": [
+    "He stayed the night in the temple",
+    "He drove out the sellers that night",
+    "He went up to the Mount of Olives to pray",
+    "Since it was late, he went out to Bethany with the twelve"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    },
+    {
+      "name": "Bethany",
+      "type": "village"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus entered Jerusalem and went into the temple courts. He looked around at everything, but since it was already late, he went out to Bethany with the twelve."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "40-009-015",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 9,
+  "verse_reference": "Matthew 9:20",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "For how long had the woman who touched Jesus' cloak been subject to bleeding?",
+  "options": [
+    "Seven years",
+    "Thirty-eight years",
+    "Twelve years",
+    "Forty years"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 9:20 says a woman who had been subject to bleeding for twelve years came up behind him and touched the edge of his cloak."
+}

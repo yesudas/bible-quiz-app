@@ -1,0 +1,37 @@
+{
+  "id": "42-015-011",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 15,
+  "verse_reference": "Luke 15:16",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the younger son long to fill his stomach with?",
+  "options": [
+    "Bread from the master's table",
+    "Fish from the river",
+    "Grapes from the vineyard",
+    "The pods that the pigs were eating"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Distant country",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He longed to fill his stomach with the pods that the pigs were eating, but no one gave him anything."
+}

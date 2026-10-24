@@ -1,0 +1,38 @@
+{
+  "id": "24-021-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 21,
+  "verse_reference": "Jeremiah 21:7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the LORD say would happen to King Zedekiah?",
+  "options": [
+    "He would escape to Egypt",
+    "He would rule for many years",
+    "He would be handed over to Nebuchadnezzar",
+    "He would become a prophet"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Leadership"
+  ],
+  "characters": [
+    "Zedekiah",
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would hand over Zedekiah, his officials and the survivors to Nebuchadnezzar, who would show them no mercy."
+}

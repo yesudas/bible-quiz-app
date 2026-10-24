@@ -1,0 +1,33 @@
+{
+  "id": "47-005-010",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 5,
+  "verse_reference": "2 Corinthians 5:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"We are therefore Christ's ______, as though God were making his appeal through us.\"",
+  "options": [
+    "servants",
+    "ambassadors",
+    "soldiers",
+    "shepherds"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Evangelism",
+    "Mission"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said we are Christ's ambassadors, and he implored people on Christ's behalf to be reconciled to God."
+}

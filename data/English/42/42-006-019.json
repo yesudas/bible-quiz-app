@@ -1,0 +1,33 @@
+{
+  "id": "42-006-019",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:36",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'Be ____, just as your Father is ____.'",
+  "options": [
+    "holy",
+    "perfect",
+    "merciful",
+    "faithful"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Be merciful, just as your Father is merciful.'"
+}

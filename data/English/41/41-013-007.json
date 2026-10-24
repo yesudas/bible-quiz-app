@@ -1,0 +1,33 @@
+{
+  "id": "41-013-007",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 13,
+  "verse_reference": "Mark 13:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: \"And the gospel must first be preached to all ____.\"",
+  "options": [
+    "cities",
+    "people of Israel",
+    "nations",
+    "synagogues"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mission",
+    "Evangelism"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"And the gospel must first be preached to all nations.\""
+}

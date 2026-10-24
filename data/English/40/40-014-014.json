@@ -1,0 +1,36 @@
+{
+  "id": "40-014-014",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 14,
+  "verse_reference": "Matthew 14:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How does Matthew describe the number of people who ate?",
+  "options": [
+    "Exactly five thousand people in all",
+    "About four thousand families",
+    "About five thousand men, besides women and children",
+    "Five hundred men"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Solitary place",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 14:21 says the number of those who ate was about five thousand men, besides women and children."
+}

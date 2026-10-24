@@ -1,0 +1,32 @@
+{
+  "id": "42-007-010",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 7,
+  "verse_reference": "Luke 7:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What question did John the Baptist send his disciples to ask Jesus?",
+  "options": [
+    "'Where will you go next?'",
+    "'When will you come to Jerusalem?'",
+    "'Are you the one who is to come, or should we expect someone else?'",
+    "'Why do your disciples not fast?'"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "John the Baptist",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John sent two disciples to ask, 'Are you the one who is to come, or should we expect someone else?'"
+}

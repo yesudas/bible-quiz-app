@@ -1,0 +1,38 @@
+{
+  "id": "27-003-001",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 3,
+  "verse_reference": "Daniel 3:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did King Nebuchadnezzar make and set up?",
+  "options": [
+    "A tall tower",
+    "An image of gold",
+    "A golden throne",
+    "A silver altar"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Idolatry"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Plain of Dura",
+      "type": "plain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "King Nebuchadnezzar made an image of gold and set it up on the plain of Dura."
+}

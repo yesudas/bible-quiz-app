@@ -1,0 +1,38 @@
+{
+  "id": "24-043-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 43,
+  "verse_reference": "Jeremiah 43:7",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "To which town in Egypt did the people go in disobedience to the LORD?",
+  "options": [
+    "Memphis",
+    "Migdol",
+    "Thebes",
+    "Tahpanhes"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tahpanhes",
+      "type": "city"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They entered Egypt in disobedience to the LORD and went as far as Tahpanhes."
+}

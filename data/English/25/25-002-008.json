@@ -1,0 +1,35 @@
+{
+  "id": "25-002-008",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 2,
+  "verse_reference": "Lamentations 2:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"The LORD has done what he ____; he has fulfilled his word.\"",
+  "options": [
+    "wanted",
+    "planned",
+    "promised",
+    "feared"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Lamentations 2:17 says the LORD did what he planned and fulfilled the word he decreed long ago."
+}

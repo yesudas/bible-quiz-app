@@ -1,0 +1,34 @@
+{
+  "id": "62-001-003",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 1,
+  "verse_reference": "1 John 1:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "John says the life that appeared was with whom before it appeared to them?",
+  "options": [
+    "Moses",
+    "The angels",
+    "The Father",
+    "John the Baptist"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Eternal life"
+  ],
+  "characters": [
+    "Jesus",
+    "God",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says the eternal life was with the Father and has appeared to them."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "24-012-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 12,
+  "verse_reference": "Jeremiah 12:5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "God asked Jeremiah, \"If you have raced with men on foot and they have worn you out, how can you compete with ____?\"",
+  "options": [
+    "lions",
+    "chariots",
+    "horses",
+    "eagles"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Suffering",
+    "Faith"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God's answer warned Jeremiah that harder trials were coming: if men on foot wore him out, how could he compete with horses?"
+}

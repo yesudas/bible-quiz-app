@@ -1,0 +1,39 @@
+{
+  "id": "47-007-003",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 7,
+  "verse_reference": "2 Corinthians 7:6",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "God comforted Paul by the coming of which man?",
+  "options": [
+    "Titus",
+    "Timothy",
+    "Barnabas",
+    "Luke"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Church"
+  ],
+  "characters": [
+    "Paul",
+    "Titus"
+  ],
+  "places": [
+    {
+      "name": "Macedonia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote that God, who comforts the downcast, comforted them by the coming of Titus."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "38-014-004",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 14,
+  "verse_reference": "Zechariah 14:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"When evening comes, there will be _____.\"",
+  "options": [
+    "light",
+    "rain",
+    "peace",
+    "darkness"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "It will be a unique day, without daytime or nighttime, and when evening comes, there will be light."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "40-016-007",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 16,
+  "verse_reference": "Matthew 16:13",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "In which region did Jesus ask his disciples, \"Who do people say the Son of Man is?\"",
+  "options": [
+    "Samaria",
+    "Decapolis",
+    "Judea",
+    "Caesarea Philippi"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Caesarea Philippi",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 16:13 says when Jesus came to the region of Caesarea Philippi, he asked his disciples, \"Who do people say the Son of Man is?\""
+}

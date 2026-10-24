@@ -1,0 +1,36 @@
+{
+  "id": "26-009-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 9,
+  "verse_reference": "Ezekiel 9:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Which people were to receive the mark on their foreheads?",
+  "options": [
+    "Those who brought the most offerings",
+    "Those who grieved and lamented over the city's detestable things",
+    "The priests and Levites only",
+    "Everyone living in the city"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Salvation",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The mark was for those who grieved and lamented over all the detestable things being done in Jerusalem."
+}

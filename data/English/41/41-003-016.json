@@ -1,0 +1,32 @@
+{
+  "id": "41-003-016",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 3,
+  "verse_reference": "Mark 3:27",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Jesus, what must someone do before they can plunder a strong man's house?",
+  "options": [
+    "Wait until night",
+    "Tie up the strong man",
+    "Bring many friends",
+    "Pay the strong man"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said no one can enter a strong man's house and carry off his possessions unless he first ties up the strong man."
+}

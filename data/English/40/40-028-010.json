@@ -1,0 +1,39 @@
+{
+  "id": "40-028-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 28,
+  "verse_reference": "Matthew 28:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Jesus' words to the women: \"Go and tell my ______ to go to Galilee; there they will see me.\"",
+  "options": [
+    "brothers",
+    "friends",
+    "servants",
+    "family"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "Mary Magdalene",
+    "Mary"
+  ],
+  "places": [
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 28:10 says Jesus said to them, \"Do not be afraid. Go and tell my brothers to go to Galilee; there they will see me.\""
+}

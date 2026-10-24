@@ -1,0 +1,32 @@
+{
+  "id": "40-022-007",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 22,
+  "verse_reference": "Matthew 22:14",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"For many are invited, but few are ______.\"",
+  "options": [
+    "saved",
+    "chosen",
+    "ready",
+    "worthy"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Kingdom of God",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 22:14 says, \"For many are invited, but few are chosen.\""
+}

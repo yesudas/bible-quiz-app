@@ -1,0 +1,36 @@
+{
+  "id": "47-013-001",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 13,
+  "verse_reference": "2 Corinthians 13:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which visit to Corinth did Paul say this would be?",
+  "options": [
+    "His first visit",
+    "His second visit",
+    "His third visit",
+    "His last visit"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul wrote, 'This will be my third visit to you.'"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "27-010-012",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 10,
+  "verse_reference": "Daniel 10:19",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the messenger's words: \"Do not be afraid, you who are highly esteemed. Peace! Be ______ now; be ______.\"",
+  "options": [
+    "strong",
+    "calm",
+    "still",
+    "brave"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Faith"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The messenger strengthened Daniel, saying, \"Peace! Be strong now; be strong.\""
+}

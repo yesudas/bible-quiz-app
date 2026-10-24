@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Iconium",
+    "label": "Iconium",
+    "count": 4,
+    "paths": [
+        "English/44/44-013-022.json",
+        "English/44/44-014-001.json",
+        "English/44/44-014-002.json",
+        "English/55/55-003-006.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

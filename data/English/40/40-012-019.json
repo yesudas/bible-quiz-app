@@ -1,0 +1,34 @@
+{
+  "id": "40-012-019",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 12,
+  "verse_reference": "Matthew 12:39-40",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Jesus said the only sign given to a wicked generation would be the sign of which prophet?",
+  "options": [
+    "Elijah",
+    "Daniel",
+    "Jonah",
+    "Moses"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Jonah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 12:39 says none will be given except the sign of the prophet Jonah."
+}

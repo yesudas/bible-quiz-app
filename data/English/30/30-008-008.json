@@ -1,0 +1,35 @@
+{
+  "id": "30-008-008",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 8,
+  "verse_reference": "Amos 8:10",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "God said He would turn Israel's religious feasts into what?",
+  "options": [
+    "Mourning",
+    "Fasting",
+    "Battles",
+    "Silence"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 8:10 says God would turn their feasts into mourning and their singing into weeping."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "38-007-007",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 7,
+  "verse_reference": "Zechariah 7:12",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"They made their hearts as hard as _____.\"",
+  "options": [
+    "iron",
+    "flint",
+    "stone",
+    "bronze"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people made their hearts as hard as flint and would not listen to the law."
+}

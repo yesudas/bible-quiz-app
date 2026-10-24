@@ -1,0 +1,32 @@
+{
+  "id": "27-012-011",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 12,
+  "verse_reference": "Daniel 12:12",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "Who does verse 12 say is blessed?",
+  "options": [
+    "The one who reaches the end of 1,290 days",
+    "The one who builds the temple",
+    "The one who defeats the king of the North",
+    "The one who waits for and reaches the end of 1,335 days"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Prophecy"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Blessed is the one who waits for and reaches the end of the 1,335 days."
+}

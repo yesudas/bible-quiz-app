@@ -1,0 +1,46 @@
+{
+  "id": "45-015-011",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 15,
+  "verse_reference": "Romans 15:25-26",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Why was Paul going to Jerusalem?",
+  "options": [
+    "To be crowned king",
+    "To offer a sacrifice for himself",
+    "To bring a contribution for the poor among the Lord's people",
+    "To meet the Roman emperor"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Love",
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Macedonia",
+      "type": "region"
+    },
+    {
+      "name": "Achaia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says he was going to Jerusalem to serve the Lord's people, because Macedonia and Achaia made a contribution for the poor there."
+}

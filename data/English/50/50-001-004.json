@@ -1,0 +1,39 @@
+{
+  "id": "50-001-004",
+  "language": "en",
+  "book_no": 50,
+  "book": "Philippians",
+  "chapter": 1,
+  "verse_reference": "Philippians 1:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"He who began a good work in you will carry it on to ______ until the day of Christ Jesus.\"",
+  "options": [
+    "completion",
+    "the end",
+    "glory",
+    "victory"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Hope",
+    "Promise"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Philippi",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul was confident that God would finish the good work He had started in the believers."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "66-021-011",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 21,
+  "verse_reference": "Revelation 21:15-16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the angel use to measure the city?",
+  "options": [
+    "A measuring rod of gold",
+    "A reed of bronze",
+    "A rope of silver",
+    "A chain of iron"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "New Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel who talked with John had a measuring rod of gold to measure the city, its gates and its walls. The city was laid out like a square."
+}

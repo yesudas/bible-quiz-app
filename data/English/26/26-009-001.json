@@ -1,0 +1,34 @@
+{
+  "id": "26-009-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 9,
+  "verse_reference": "Ezekiel 9:2",
+  "question_type": "DIRECT",
+  "difficulty": "Medium",
+  "question": "How many men with deadly weapons came from the upper gate that faces north?",
+  "options": [
+    "Three",
+    "Six",
+    "Seven",
+    "Twelve"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ezekiel saw six men coming from the upper gate, which faces north, each with a deadly weapon in his hand."
+}

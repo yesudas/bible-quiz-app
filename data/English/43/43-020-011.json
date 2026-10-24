@@ -1,0 +1,41 @@
+{
+  "id": "43-020-011",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 20,
+  "verse_reference": "John 20:22",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did Jesus do when he said, \"Receive the Holy Spirit\"?",
+  "options": [
+    "He laid hands on each one",
+    "He poured oil on them",
+    "He breathed on them",
+    "He baptized them"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Holy Spirit",
+    "Mission"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "House with locked doors",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 20:22 says with that he breathed on them and said, \"Receive the Holy Spirit.\""
+}

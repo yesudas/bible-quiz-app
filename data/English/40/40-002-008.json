@@ -1,0 +1,38 @@
+{
+  "id": "40-002-008",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 2,
+  "verse_reference": "Matthew 2:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Herod say he wanted to do after the Magi found the child?",
+  "options": [
+    "Give him gifts",
+    "Make him king",
+    "Go and worship him",
+    "Send him to Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Herod",
+    "Magi"
+  ],
+  "places": [
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Matthew 2:8 Herod told the Magi to report to him so that he too could go and worship the child."
+}

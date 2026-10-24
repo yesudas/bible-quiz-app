@@ -1,0 +1,36 @@
+{
+  "id": "30-009-012",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 9,
+  "verse_reference": "Amos 9:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "How does the book of Amos end?",
+  "options": [
+    "With Israel destroyed forever",
+    "With God's promise that Israel will never again be uprooted from their land",
+    "With Amos going back to Tekoa",
+    "With the death of Jeroboam"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 9:15 ends with God's promise to plant Israel in their own land, never again to be uprooted."
+}

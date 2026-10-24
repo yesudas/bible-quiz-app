@@ -1,0 +1,37 @@
+{
+  "id": "48-001-003",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 1,
+  "verse_reference": "Galatians 1:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "To whom was this letter written?",
+  "options": [
+    "The churches in Galatia",
+    "The church in Rome",
+    "The church in Corinth",
+    "The church in Ephesus"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Galatia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul and the believers with him wrote to the churches in Galatia."
+}

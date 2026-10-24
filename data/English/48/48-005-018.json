@@ -1,0 +1,33 @@
+{
+  "id": "48-005-018",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 5,
+  "verse_reference": "Galatians 5:26",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Paul tell believers not to become?",
+  "options": [
+    "Generous",
+    "Conceited",
+    "Humble",
+    "Gentle"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Love"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said, \"Let us not become conceited, provoking and envying each other.\""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "38-008-003",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 8,
+  "verse_reference": "Zechariah 8:4",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "Who would sit in the streets of Jerusalem, each with a cane in hand?",
+  "options": [
+    "Soldiers",
+    "Priests",
+    "Kings",
+    "Old men and women"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Family"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Old men and women would again sit in the streets of Jerusalem, each with a cane in hand because of their age."
+}

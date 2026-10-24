@@ -1,0 +1,33 @@
+{
+  "id": "27-005-011",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 5,
+  "verse_reference": "Daniel 5:26",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the word MENE mean?",
+  "options": [
+    "The king will live long",
+    "Babylon will be rebuilt",
+    "The gods are angry",
+    "God has numbered the days of the king's reign and brought it to an end"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Sovereignty of God"
+  ],
+  "characters": [
+    "Daniel",
+    "Belshazzar"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daniel explained that MENE meant God had numbered the days of Belshazzar's reign and brought it to an end."
+}

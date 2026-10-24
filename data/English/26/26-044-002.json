@@ -1,0 +1,35 @@
+{
+  "id": "26-044-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 44,
+  "verse_reference": "Ezekiel 44:3",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was the only one allowed to sit inside the shut east gateway to eat in the LORD's presence?",
+  "options": [
+    "The high priest",
+    "The prophet",
+    "The prince",
+    "The chief Levite"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The prince himself was the only one who could sit inside the gateway to eat in the presence of the LORD."
+}

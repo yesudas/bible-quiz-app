@@ -1,0 +1,35 @@
+{
+  "id": "26-020-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 20,
+  "verse_reference": "Ezekiel 20:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse about God's laws given in the wilderness: \"The person who obeys them will ______ by them.\"",
+  "options": [
+    "live",
+    "rule",
+    "pray",
+    "walk"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Law",
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God gave them His decrees and made known His laws, 'for the person who obeys them will live by them.'"
+}

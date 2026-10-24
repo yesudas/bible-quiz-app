@@ -1,0 +1,37 @@
+{
+  "id": "42-014-001",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 14,
+  "verse_reference": "Luke 14:1",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where was Jesus eating on the Sabbath when he was being carefully watched?",
+  "options": [
+    "At Levi's house",
+    "At the house of a prominent Pharisee",
+    "At Martha's home",
+    "In the temple courts"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Jesus",
+    "Pharisees"
+  ],
+  "places": [
+    {
+      "name": "House of a prominent Pharisee",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "One Sabbath, when Jesus went to eat in the house of a prominent Pharisee, he was being carefully watched."
+}

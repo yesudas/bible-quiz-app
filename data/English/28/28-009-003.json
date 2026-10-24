@@ -1,0 +1,39 @@
+{
+  "id": "28-009-003",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 9,
+  "verse_reference": "Hosea 9:6",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Hosea said Egypt would gather the people and which city would bury them?",
+  "options": [
+    "Memphis",
+    "Thebes",
+    "Nineveh",
+    "Damascus"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Memphis",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said, 'Egypt will gather them, and Memphis will bury them.'"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "40-017-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 17,
+  "verse_reference": "Matthew 17:26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "In Jesus' question about kings collecting taxes, who did he say are exempt?",
+  "options": [
+    "The servants",
+    "The soldiers",
+    "The children",
+    "The foreigners"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 17:25-26 says kings collect from others, not their own children, \"Then the children are exempt.\""
+}

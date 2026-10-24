@@ -1,0 +1,32 @@
+{
+  "id": "45-002-001",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 2,
+  "verse_reference": "Romans 2:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why does Paul say a person who judges others has no excuse?",
+  "options": [
+    "They do the same things they judge",
+    "They are not old enough to judge",
+    "They have never read the law",
+    "They live far from Jerusalem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says that when you judge another, you condemn yourself, because you do the same things."
+}

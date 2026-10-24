@@ -1,0 +1,33 @@
+{
+  "id": "36-001-002",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 1,
+  "verse_reference": "Zephaniah 1:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was Zephaniah's father?",
+  "options": [
+    "Gedaliah",
+    "Amariah",
+    "Cushi",
+    "Amon"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Family"
+  ],
+  "characters": [
+    "Zephaniah",
+    "Cushi"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zephaniah is called the son of Cushi; his family line goes back to Hezekiah."
+}

@@ -1,0 +1,14 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Gomer",
+    "label": "Gomer",
+    "count": 4,
+    "paths": [
+        "English/28/28-001-003.json",
+        "English/28/28-001-004.json",
+        "English/28/28-001-008.json",
+        "English/28/28-001-014.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

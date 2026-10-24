@@ -1,0 +1,35 @@
+{
+  "id": "58-011-009",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 11,
+  "verse_reference": "Hebrews 11:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 11:9, Abraham lived in the promised land like a stranger. What did he live in?",
+  "options": [
+    "A palace",
+    "Tents",
+    "Caves",
+    "A walled city"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Promise"
+  ],
+  "characters": [
+    "Abraham",
+    "Isaac",
+    "Jacob"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 11:9 says Abraham lived in tents, as did Isaac and Jacob, who were heirs with him of the same promise."
+}

@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Tarsus",
+    "label": "Tarsus",
+    "count": 4,
+    "paths": [
+        "English/44/44-009-008.json",
+        "English/44/44-009-015.json",
+        "English/44/44-011-011.json",
+        "English/44/44-021-019.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

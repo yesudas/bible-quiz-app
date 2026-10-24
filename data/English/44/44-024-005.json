@@ -1,0 +1,36 @@
+{
+  "id": "44-024-005",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 24,
+  "verse_reference": "Acts 24:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How many days before had Paul gone up to Jerusalem to worship, according to his defense?",
+  "options": [
+    "Forty days",
+    "Three months",
+    "No more than twelve days",
+    "Seven days"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said, 'No more than twelve days ago I went up to Jerusalem to worship.'"
+}

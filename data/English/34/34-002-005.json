@@ -1,0 +1,35 @@
+{
+  "id": "34-002-005",
+  "language": "en",
+  "book_no": 34,
+  "book": "Nahum",
+  "chapter": 2,
+  "verse_reference": "Nahum 2:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Nineveh is like a ______ whose water is draining away.\"",
+  "options": [
+    "river",
+    "well",
+    "sea",
+    "pool"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nahum 2:8 compares Nineveh to a pool whose water is draining away as its people flee."
+}

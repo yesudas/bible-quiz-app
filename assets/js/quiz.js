@@ -1,3 +1,16 @@
+// Marks this browser tab/session as "the Kodular app" the first time a page
+// loads with ?f=app (set by the app's own redirect stub) — duplicated in
+// home.js (same no-cross-file-sharing convention as loadScriptOnce()) since
+// f=app only appears on that first landing URL, not threaded through every
+// later link the way embed=1 is. sessionStorage carries it through the rest
+// of the visit regardless of which page lands here first.
+if (new URLSearchParams(location.search).get('f') === 'app') {
+    try { sessionStorage.setItem('quizIsApp', '1'); } catch (e) { /* ignore */ }
+}
+function isAppMode() {
+    try { return sessionStorage.getItem('quizIsApp') === '1'; } catch (e) { return false; }
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     const root = document.getElementById('quizApp');
     if (!root) return;
@@ -67,6 +80,8 @@ document.addEventListener('DOMContentLoaded', () => {
         leaderboardCongratsText: document.getElementById('leaderboardCongratsText'),
         leaderboardCongratsOkBtn: document.getElementById('leaderboardCongratsOkBtn'),
         downloadPdfBtn: document.getElementById('downloadPdfBtn'),
+        downloadPdfLinkWrap: document.getElementById('downloadPdfLinkWrap'),
+        downloadPdfLink: document.getElementById('downloadPdfLink'),
     };
 
     function chunkPaths(paths, size) {
@@ -853,10 +868,163 @@ document.addEventListener('DOMContentLoaded', () => {
     // pdf.textWithLink() instead of a flattened pixel of text. Colors/badges
     // below are drawn with jsPDF's own fill/rect/circle primitives, so they
     // stay crisp vector shapes rather than screenshots.
+    //
+    // jsPDF's built-in fonts (helvetica/times/courier) only have Latin
+    // glyphs, and Tamil/Devanagari/Kannada also need real text shaping
+    // (vowel signs/conjuncts get visually repositioned around their base
+    // consonant) that jsPDF has no engine for — without it the glyphs come
+    // out in raw code-point order, which is the scrambled look this is
+    // built to avoid. The browser's own canvas text layout *does* shape
+    // these scripts correctly, so any line containing one is rasterized
+    // with a matching Noto web font and embedded as an image instead of
+    // drawn as jsPDF vector text; plain Latin lines keep the fast vector
+    // path. Same approach as home.js's "Download PDF" feature, duplicated
+    // here since home.js/quiz.js are separate bundles on separate pages.
     const PDF_MARGIN = 36;
     const PDF_LINE_HEIGHT = 14;
     const PDF_BRAND = [109, 40, 217]; // purple, matches the site's theme
     const PDF_BRAND_LIGHT = [243, 238, 255];
+    // Each rasterized line becomes its own embedded PNG, and a review with
+    // many Tamil/Devanagari/Kannada questions ends up with dozens of them —
+    // 3x supersampling made some real Tamil results PDFs large enough to
+    // exceed a host's upload size limit (seen in production as a 413 on
+    // api/pdf-store.php, silently falling back to the old pdf.save()). 2x
+    // keeps lines crisp while meaningfully shrinking every image's byte size.
+    const PDF_RASTER_SCALE = 2;
+
+    const PDF_COMPLEX_SCRIPTS = [
+        { name: 'Noto Sans Tamil', google: 'Noto+Sans+Tamil', test: /[஀-௿]/ },
+        { name: 'Noto Sans Devanagari', google: 'Noto+Sans+Devanagari', test: /[ऀ-ॿ]/ },
+        { name: 'Noto Sans Kannada', google: 'Noto+Sans+Kannada', test: /[ಀ-೿]/ },
+    ];
+
+    function detectComplexScriptFont(text) {
+        return PDF_COMPLEX_SCRIPTS.find((s) => s.test.test(text || '')) || null;
+    }
+
+    function loadStylesheetOnce(href) {
+        return new Promise((resolve, reject) => {
+            if (document.querySelector(`link[href="${href}"]`)) {
+                resolve();
+                return;
+            }
+            const link = document.createElement('link');
+            link.rel = 'stylesheet';
+            link.href = href;
+            link.onload = () => resolve();
+            link.onerror = () => reject(new Error('Could not load ' + href));
+            document.head.appendChild(link);
+        });
+    }
+
+    const pdfLoadedScriptFonts = new Set();
+    async function ensureScriptFont(scriptFont) {
+        if (pdfLoadedScriptFonts.has(scriptFont.name)) return;
+        await loadStylesheetOnce(`https://fonts.googleapis.com/css2?family=${scriptFont.google}:wght@400;700&display=swap`);
+        if (document.fonts) {
+            await Promise.all([
+                document.fonts.load(`400 16px "${scriptFont.name}"`),
+                document.fonts.load(`700 16px "${scriptFont.name}"`),
+            ]).catch(() => {});
+        }
+        pdfLoadedScriptFonts.add(scriptFont.name);
+    }
+
+    // Scans every string that'll end up in the PDF up front, so each
+    // distinct script's web font is ready before any canvas
+    // measureText()/fillText() call needs it (those are synchronous and
+    // can't wait mid-render).
+    async function ensureFontsForTexts(texts) {
+        const needed = new Map();
+        texts.forEach((t) => {
+            const f = detectComplexScriptFont(t);
+            if (f) needed.set(f.name, f);
+        });
+        await Promise.all([...needed.values()].map(ensureScriptFont));
+    }
+
+    function wrapComplexScriptLines(text, fontFamily, bold, sizePt, maxWidthPt) {
+        const pxSize = sizePt * (96 / 72);
+        const maxWidthPx = maxWidthPt * (96 / 72);
+        const ctx = document.createElement('canvas').getContext('2d');
+        ctx.font = `${bold ? '700' : '400'} ${pxSize}px "${fontFamily}", sans-serif`;
+
+        const words = (text || '').split(/\s+/).filter(Boolean);
+        const lines = [];
+        let current = '';
+        words.forEach((word) => {
+            const candidate = current ? `${current} ${word}` : word;
+            if (current && ctx.measureText(candidate).width > maxWidthPx) {
+                lines.push(current);
+                current = word;
+            } else {
+                current = candidate;
+            }
+        });
+        if (current) lines.push(current);
+        return lines.length ? lines : [''];
+    }
+
+    function rasterizeLine(text, fontFamily, bold, sizePt, color) {
+        const pxSize = sizePt * (96 / 72) * PDF_RASTER_SCALE;
+        const fontSpec = `${bold ? '700' : '400'} ${pxSize}px "${fontFamily}", sans-serif`;
+
+        const measureCtx = document.createElement('canvas').getContext('2d');
+        measureCtx.font = fontSpec;
+        const metrics = measureCtx.measureText(text || ' ');
+        const ascent = metrics.actualBoundingBoxAscent || pxSize * 0.8;
+        const descent = metrics.actualBoundingBoxDescent || pxSize * 0.3;
+        const width = Math.max(1, Math.ceil(metrics.width) + 4);
+        const height = Math.max(1, Math.ceil(ascent + descent) + 4);
+
+        const canvas = document.createElement('canvas');
+        canvas.width = width;
+        canvas.height = height;
+        const ctx = canvas.getContext('2d');
+        ctx.font = fontSpec;
+        ctx.fillStyle = `rgb(${color[0]}, ${color[1]}, ${color[2]})`;
+        ctx.textBaseline = 'alphabetic';
+        ctx.fillText(text || '', 2, ascent + 2);
+
+        const pxToPt = 72 / 96 / PDF_RASTER_SCALE;
+        return {
+            dataUrl: canvas.toDataURL('image/png'),
+            widthPt: width * pxToPt,
+            heightPt: height * pxToPt,
+            ascentPt: (ascent + 2) * pxToPt,
+        };
+    }
+
+    // Word-wraps `text` against `maxWidthPt` without drawing anything —
+    // used where the caller needs to know the wrapped line count up front
+    // (e.g. to size a card background) before actually drawing the lines.
+    function wrapAnyLines(pdf, text, size, bold, maxWidthPt) {
+        const scriptFont = detectComplexScriptFont(text);
+        if (scriptFont) {
+            return { scriptFont, lines: wrapComplexScriptLines(text, scriptFont.name, bold, size, maxWidthPt) };
+        }
+        pdf.setFont('helvetica', bold ? 'bold' : 'normal');
+        pdf.setFontSize(size);
+        return { scriptFont: null, lines: pdf.splitTextToSize(text || '', maxWidthPt) };
+    }
+
+    // Draws one already-wrapped line at an explicit (x, y) baseline position
+    // — rasterized via the matching web font if `scriptFont` is set,
+    // otherwise plain jsPDF vector text.
+    function drawTextLine(pdf, scriptFont, line, x, y, size, color, bold, centered, pageWidth) {
+        if (scriptFont) {
+            const raster = rasterizeLine(line, scriptFont.name, bold, size, color || [0, 0, 0]);
+            const drawX = centered ? (pageWidth - raster.widthPt) / 2 : x;
+            pdf.addImage(raster.dataUrl, 'PNG', drawX, y - raster.ascentPt, raster.widthPt, raster.heightPt);
+        } else {
+            pdf.setFont('helvetica', bold ? 'bold' : 'normal');
+            pdf.setFontSize(size);
+            if (color) pdf.setTextColor(color[0], color[1], color[2]);
+            const drawX = centered ? (pageWidth - pdf.getTextWidth(line)) / 2 : x;
+            pdf.text(line, drawX, y);
+            if (color) pdf.setTextColor(0, 0, 0);
+        }
+    }
 
     function pdfScoreColor(pct) {
         if (pct >= 80) return [22, 163, 74]; // green
@@ -884,6 +1052,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // reset) whenever the next line would run past the bottom margin.
     function makePdfCursor(pdf) {
         const pageHeight = pdf.internal.pageSize.getHeight();
+        const pageWidth = pdf.internal.pageSize.getWidth();
         const bottomLimit = pageHeight - PDF_MARGIN - 20;
         let y = PDF_MARGIN;
         return {
@@ -896,29 +1065,19 @@ document.addEventListener('DOMContentLoaded', () => {
             lineHeight(size) {
                 return Math.max(PDF_LINE_HEIGHT, size * 1.4);
             },
-            writeLines(linesArr, size, color) {
+            // Word-wraps `text` to the available width and draws it line by
+            // line, left-aligned at PDF_MARGIN + xOffset or centered on the
+            // page. Any line containing a complex script is rasterized with
+            // its matching web font instead of drawn as jsPDF vector text.
+            write(text, size, { color = null, xOffset = 0, centered = false, bold = false } = {}) {
                 const lh = this.lineHeight(size);
-                pdf.setFontSize(size);
-                if (color) pdf.setTextColor(color[0], color[1], color[2]);
-                linesArr.forEach((line) => {
+                const maxWidth = pageWidth - PDF_MARGIN * 2 - xOffset;
+                const { scriptFont, lines } = wrapAnyLines(pdf, text, size, bold, maxWidth);
+                lines.forEach((line) => {
                     this.ensure(1);
-                    pdf.text(line, PDF_MARGIN, y);
+                    drawTextLine(pdf, scriptFont, line, PDF_MARGIN + xOffset, y, size, color, bold, centered, pageWidth);
                     y += lh;
                 });
-                pdf.setTextColor(0, 0, 0);
-            },
-            writeCentered(linesArr, size, color) {
-                const pageWidth = pdf.internal.pageSize.getWidth();
-                const lh = this.lineHeight(size);
-                pdf.setFontSize(size);
-                if (color) pdf.setTextColor(color[0], color[1], color[2]);
-                linesArr.forEach((line) => {
-                    this.ensure(1);
-                    const w = pdf.getTextWidth(line);
-                    pdf.text(line, (pageWidth - w) / 2, y);
-                    y += lh;
-                });
-                pdf.setTextColor(0, 0, 0);
             },
             addGap(amount) {
                 y += amount;
@@ -926,11 +1085,6 @@ document.addEventListener('DOMContentLoaded', () => {
             get y() { return y; },
             set y(value) { y = value; },
         };
-    }
-
-    function pdfWrapped(pdf, text, size, maxWidth) {
-        pdf.setFontSize(size);
-        return pdf.splitTextToSize(text || '', maxWidth);
     }
 
     // Strips the "Show number"/"Hide number" toggle button text out of the
@@ -954,14 +1108,10 @@ document.addEventListener('DOMContentLoaded', () => {
         const bannerHeight = 58;
         pdf.setFillColor(PDF_BRAND[0], PDF_BRAND[1], PDF_BRAND[2]);
         pdf.rect(0, 0, pageWidth, bannerHeight, 'F');
-        pdf.setFont('helvetica', 'bold');
-        pdf.setFontSize(20);
-        pdf.setTextColor(255, 255, 255);
-        const titleLines = pdf.splitTextToSize(state.pdfHeading, maxWidth);
+        const { scriptFont: titleScriptFont, lines: titleLines } = wrapAnyLines(pdf, state.pdfHeading, 20, true, maxWidth);
         let bannerY = 26;
         titleLines.forEach((line) => {
-            const w = pdf.getTextWidth(line);
-            pdf.text(line, (pageWidth - w) / 2, bannerY);
+            drawTextLine(pdf, titleScriptFont, line, 0, bannerY, 20, [255, 255, 255], true, true, pageWidth);
             bannerY += 20;
         });
         pdf.setFont('helvetica', 'normal');
@@ -976,8 +1126,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const playerInfo = pdfPlayerInfoText();
         if (playerInfo) {
-            pdf.setFont('helvetica', 'normal');
-            cursor.writeCentered(pdfWrapped(pdf, playerInfo, 11, maxWidth), 11, [70, 70, 70]);
+            cursor.write(playerInfo, 11, { color: [70, 70, 70], centered: true });
             cursor.addGap(10);
         }
 
@@ -995,9 +1144,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (!dt || !dd) return;
                 lines.push(`${dt.textContent.trim()}: ${dd.textContent.trim()}`);
             });
-            pdf.setFontSize(10.5);
             const innerWidth = maxWidth - CARD_PAD_X * 2;
-            const wrappedLines = lines.flatMap((line) => pdf.splitTextToSize(line, innerWidth));
+            const wrappedLines = lines.flatMap((line) => {
+                const { scriptFont, lines: wrapped } = wrapAnyLines(pdf, line, 10.5, false, innerWidth);
+                return wrapped.map((text) => ({ text, scriptFont }));
+            });
             const cardLineHeight = cursor.lineHeight(10.5);
             const cardHeight = wrappedLines.length * cardLineHeight + CARD_PAD_Y * 2;
             cursor.ensure(Math.ceil(cardHeight / PDF_LINE_HEIGHT) + 1);
@@ -1005,14 +1156,11 @@ document.addEventListener('DOMContentLoaded', () => {
             pdf.setFillColor(PDF_BRAND_LIGHT[0], PDF_BRAND_LIGHT[1], PDF_BRAND_LIGHT[2]);
             pdf.roundedRect(PDF_MARGIN, cardTop, maxWidth, cardHeight, 6, 6, 'F');
 
-            pdf.setFont('helvetica', 'normal');
-            pdf.setTextColor(60, 60, 60);
             let lineY = cardTop + CARD_PAD_Y + 8;
-            wrappedLines.forEach((line) => {
-                pdf.text(line, PDF_MARGIN + CARD_PAD_X, lineY);
+            wrappedLines.forEach(({ text, scriptFont }) => {
+                drawTextLine(pdf, scriptFont, text, PDF_MARGIN + CARD_PAD_X, lineY, 10.5, [60, 60, 60], false, false, pageWidth);
                 lineY += cardLineHeight;
             });
-            pdf.setTextColor(0, 0, 0);
 
             cursor.y = cardTop + cardHeight;
             cursor.addGap(CARD_GAP_AFTER);
@@ -1048,13 +1196,7 @@ document.addEventListener('DOMContentLoaded', () => {
         cursor.y = cardTop + cardHeight + 20;
 
         if (els.setEncouragement && els.setEncouragement.textContent.trim()) {
-            pdf.setFont('helvetica', 'bold');
-            cursor.writeCentered(
-                pdfWrapped(pdf, els.setEncouragement.textContent.trim(), 11.5, maxWidth),
-                11.5,
-                scoreColor
-            );
-            pdf.setFont('helvetica', 'normal');
+            cursor.write(els.setEncouragement.textContent.trim(), 11.5, { color: scoreColor, centered: true, bold: true });
         }
 
         return cursor;
@@ -1086,11 +1228,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const pageWidth = pdf.internal.pageSize.getWidth();
         const maxWidth = pageWidth - PDF_MARGIN * 2;
 
-        pdf.setFont('helvetica', 'bold');
-        cursor.writeLines(pdfWrapped(pdf, state.pdfReviewHeading, 16, maxWidth), 16, PDF_BRAND);
+        cursor.write(state.pdfReviewHeading, 16, { color: PDF_BRAND, bold: true });
         cursor.addGap(2);
-        pdf.setFont('helvetica', 'normal');
-        cursor.writeLines([`${stats.correct} / ${stats.total} correct (${stats.pct}%)`], 10.5, [100, 100, 100]);
+        cursor.write(`${stats.correct} / ${stats.total} correct (${stats.pct}%)`, 10.5, { color: [100, 100, 100] });
         cursor.addGap(10);
 
         state.questions.forEach((q, i) => {
@@ -1103,21 +1243,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
             pdfDrawBadge(pdf, cursor, `${i + 1}  ${isRight ? 'CORRECT' : 'WRONG'}`, statusColor);
 
-            pdf.setFont('helvetica', 'bold');
-            cursor.writeLines(pdfWrapped(pdf, q.question, 12, maxWidth), 12);
-
-            pdf.setFont('helvetica', 'normal');
-            cursor.writeLines(pdfWrapped(pdf, `Your answer: ${chosenText}`, 10.5, maxWidth), 10.5, statusColor);
+            cursor.write(q.question, 12, { bold: true });
+            cursor.write(`Your answer: ${chosenText}`, 10.5, { color: statusColor });
 
             const correctLine = q.verse_reference
                 ? `Correct: ${correctText}  (${q.verse_reference})`
                 : `Correct: ${correctText}`;
-            cursor.writeLines(pdfWrapped(pdf, correctLine, 10.5, maxWidth), 10.5, [22, 163, 74]);
+            cursor.write(correctLine, 10.5, { color: [22, 163, 74] });
 
             if (q.explanation) {
-                pdf.setFont('helvetica', 'italic');
-                cursor.writeLines(pdfWrapped(pdf, q.explanation, 9.5, maxWidth), 9.5, [110, 110, 110]);
-                pdf.setFont('helvetica', 'normal');
+                cursor.write(q.explanation, 9.5, { color: [110, 110, 110] });
             }
 
             cursor.addGap(6);
@@ -1129,17 +1264,84 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // Hands the finished PDF to api/pdf-store.php and resolves to
+    // api/pdf-download.php's real https:// URL — instead of calling
+    // pdf.save() (which creates a blob: object URL) — the Kodular Android
+    // app's WebView can only resolve real http(s) URLs through its
+    // OnDownloadStart/ActivityStarter download handling; a blob: URL always
+    // fails there with "no corresponding activity found".
+    //
+    // Deliberately does NOT auto-navigate to that URL itself. files-browser-app
+    // (a different app using the same Kodular WebViewer pattern, where
+    // downloads work correctly) always triggers its download from a plain
+    // <a href> the user taps directly — never a script-driven
+    // window.location.href= — and Android's WebView download handling is
+    // known to be fussier about navigations that aren't tied to a live user
+    // gesture. So this returns the URL for the caller to put on a real,
+    // user-tappable link instead.
+    async function storePdfAndGetDownloadUrl(pdf, downloadName) {
+        const blob = pdf.output('blob');
+        // A standard multipart file upload (FormData), not a raw
+        // application/pdf request body — some hosts' WAF/ModSecurity rules
+        // block an unusual raw-body Content-Type on a POST to a .php file
+        // (seen in practice as an outright 406 before the PHP ever runs),
+        // whereas a normal file-upload field is universally allowed.
+        const formData = new FormData();
+        formData.append('pdf', blob, downloadName);
+        const res = await fetch('api/pdf-store.php', {
+            method: 'POST',
+            body: formData,
+        });
+        const data = await res.json().catch(() => ({}));
+        if (!res.ok || !data.file) {
+            throw new Error(data.error || 'Could not store the PDF.');
+        }
+        return `api/pdf-download.php?file=${encodeURIComponent(data.file)}&name=${encodeURIComponent(downloadName)}`;
+    }
+
+    // Gathers every string that'll go into the PDF, so ensureFontsForTexts()
+    // can resolve each distinct script's web font before buildResultsPdf()/
+    // buildReviewPdf() make their (synchronous) canvas measureText()/
+    // fillText() calls.
+    function collectPdfTexts(stats) {
+        const texts = [state.pdfHeading, state.pdfReviewHeading, pdfPlayerInfoText()];
+
+        els.setResults.querySelectorAll('.quiz-details .quiz-detail-row').forEach((row) => {
+            const dt = row.querySelector('dt');
+            const dd = row.querySelector('dd');
+            if (dt) texts.push(dt.textContent.trim());
+            if (dd) texts.push(dd.textContent.trim());
+        });
+
+        if (els.setEncouragement) texts.push(els.setEncouragement.textContent.trim());
+
+        state.questions.forEach((q, i) => {
+            const chosen = state.answers[i];
+            const correct = parseInt(q.correct_option, 10);
+            texts.push(q.question || '');
+            texts.push(chosen !== undefined ? q.options[chosen] : '');
+            texts.push(q.options[correct] || '');
+            if (q.verse_reference) texts.push(q.verse_reference);
+            if (q.explanation) texts.push(q.explanation);
+        });
+
+        return texts;
+    }
+
     if (els.downloadPdfBtn) {
         els.downloadPdfBtn.addEventListener('click', async () => {
             els.downloadPdfBtn.disabled = true;
             const originalText = els.downloadPdfBtn.textContent;
             els.downloadPdfBtn.textContent = 'Preparing PDF…';
+            if (els.downloadPdfLinkWrap) els.downloadPdfLinkWrap.hidden = true;
+            let linkShown = false;
             try {
                 await loadScriptOnce('https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js');
 
                 const { jsPDF } = window.jspdf;
                 const pdf = new jsPDF({ orientation: 'portrait', unit: 'pt', format: 'a5' });
                 const stats = getScoreStats();
+                await ensureFontsForTexts(collectPdfTexts(stats));
 
                 buildResultsPdf(pdf, stats);
                 buildReviewPdf(pdf, stats);
@@ -1150,12 +1352,45 @@ document.addEventListener('DOMContentLoaded', () => {
                     pdfAddFooterLink(pdf, state.pdfPoweredByLabel);
                 }
 
-                pdf.save('quiz-results-from-wordofgod.in.pdf');
+                // Browser mode never had the blob:/upload-size problems the
+                // round trip exists for, so it just saves directly — same
+                // as the setup-page PDFs now do. Only app mode (still stuck
+                // in the Kodular WebView, since a results PDF can't be
+                // regenerated from a stateless URL the way the setup-page
+                // ones can be handed off to pdf-generate.php) keeps the
+                // round trip + tappable link.
+                if (!isAppMode()) {
+                    pdf.save('quiz-results-from-wordofgod.in.pdf');
+                } else {
+                    try {
+                        const url = await storePdfAndGetDownloadUrl(pdf, 'quiz-results-from-wordofgod.in.pdf');
+                        if (els.downloadPdfLink && els.downloadPdfLinkWrap) {
+                            els.downloadPdfLink.href = url;
+                            els.downloadPdfLinkWrap.hidden = false;
+                            els.downloadPdfLinkWrap.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+                            linkShown = true;
+                        } else {
+                            window.location.href = url;
+                        }
+                    } catch (storeErr) {
+                        pdf.save('quiz-results-from-wordofgod.in.pdf');
+                    }
+
+                    // Fire-and-forget: a coarser "delete anything from
+                    // before today" sweep of pdf-temp/, as a backstop
+                    // alongside the per-store cleanup api/pdf-store.php
+                    // already does on every call.
+                    fetch('api/pdf-cleanup.php', { method: 'POST' }).catch(() => {});
+                }
             } catch (err) {
                 window.alert('Could not generate the PDF. Please try again.');
             } finally {
-                els.downloadPdfBtn.disabled = false;
                 els.downloadPdfBtn.textContent = originalText;
+                // Keep the button disabled once the download link is
+                // actually showing — the PDF is ready, nothing more to
+                // generate. Re-enable it only when something went wrong (no
+                // link shown), so the user can retry.
+                els.downloadPdfBtn.disabled = linkShown;
             }
         });
     }

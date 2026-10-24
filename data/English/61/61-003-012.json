@@ -1,0 +1,33 @@
+{
+  "id": "61-003-012",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 3,
+  "verse_reference": "2 Peter 3:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "But grow in the grace and ____ of our Lord and Savior Jesus Christ.",
+  "options": [
+    "love",
+    "power",
+    "truth",
+    "knowledge"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Discipleship",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter ends the letter by urging believers to grow in the grace and knowledge of Jesus Christ."
+}

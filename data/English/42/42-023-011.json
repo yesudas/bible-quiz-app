@@ -1,0 +1,37 @@
+{
+  "id": "42-023-011",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 23,
+  "verse_reference": "Luke 23:28",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words to the mourning women: 'Daughters of Jerusalem, do not weep for me; weep for ____.'",
+  "options": [
+    "the temple",
+    "Israel",
+    "the city",
+    "yourselves and for your children"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Suffering"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus turned and said, 'Daughters of Jerusalem, do not weep for me; weep for yourselves and for your children.'"
+}

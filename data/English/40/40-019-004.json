@@ -1,0 +1,31 @@
+{
+  "id": "40-019-004",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 19,
+  "verse_reference": "Matthew 19:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"A man will leave his father and mother and be united to his wife, and the two will become one ______.\"",
+  "options": [
+    "family",
+    "flesh",
+    "heart",
+    "home"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 19:5 says, \"and the two will become one flesh.\""
+}

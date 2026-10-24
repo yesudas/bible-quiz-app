@@ -1,0 +1,32 @@
+{
+  "id": "32-002-007",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 2,
+  "verse_reference": "Jonah 2:7",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "When did Jonah say he remembered the LORD?",
+  "options": [
+    "When he boarded the ship",
+    "When the sailors cast lots",
+    "When his life was ebbing away",
+    "When he reached Nineveh"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Repentance"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jonah said that as his life was ebbing away, he remembered the LORD, and his prayer rose to God."
+}

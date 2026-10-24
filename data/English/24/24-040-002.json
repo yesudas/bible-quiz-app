@@ -1,0 +1,33 @@
+{
+  "id": "24-040-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 40,
+  "verse_reference": "Jeremiah 40:2-3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Nebuzaradan say to Jeremiah about the disaster on Jerusalem?",
+  "options": [
+    "That Babylon's gods had won",
+    "That it happened by chance",
+    "That the LORD Jeremiah's God decreed it because the people sinned and did not obey",
+    "That Egypt had caused it"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [
+    "Nebuzaradan",
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nebuzaradan said, \"The LORD your God decreed this disaster for this place… All this happened because you people sinned against the LORD and did not obey him.\""
+}

@@ -1,0 +1,34 @@
+{
+  "id": "26-031-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 31,
+  "verse_reference": "Ezekiel 31:15-16",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "To where was the great cedar brought down?",
+  "options": [
+    "To the bottom of the sea",
+    "To the land of Egypt",
+    "To the realm of the dead",
+    "To the desert of Arabia"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Assyria",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "On the day it was brought down to the realm of the dead, God covered the deep springs with mourning and Lebanon was clothed with gloom."
+}

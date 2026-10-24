@@ -1,0 +1,32 @@
+{
+  "id": "54-002-006",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 2,
+  "verse_reference": "1 Timothy 2:7",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Paul said he was appointed a herald and an apostle. He also called himself a true and faithful teacher of whom?",
+  "options": [
+    "The Pharisees",
+    "The Gentiles",
+    "The priests",
+    "The kings"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mission",
+    "Evangelism"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said he was appointed a herald, an apostle and a true and faithful teacher of the Gentiles."
+}

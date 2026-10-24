@@ -1,0 +1,34 @@
+{
+  "id": "52-002-004",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 2,
+  "verse_reference": "1 Thessalonians 2:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Instead, we were like young children among you. Just as a nursing ____ cares for her children.\"",
+  "options": [
+    "sister",
+    "friend",
+    "mother",
+    "servant"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Love",
+    "Leadership",
+    "Family"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said they cared for the Thessalonians as gently as a nursing mother cares for her children."
+}

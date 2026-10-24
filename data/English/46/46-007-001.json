@@ -1,0 +1,32 @@
+{
+  "id": "46-007-001",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 7,
+  "verse_reference": "1 Corinthians 7:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"But each of you has your own ______ from God; one has this gift, another has that.\"",
+  "options": [
+    "calling",
+    "gift",
+    "blessing",
+    "task"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Marriage"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said that whether married or single, each person has their own gift from God."
+}

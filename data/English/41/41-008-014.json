@@ -1,0 +1,40 @@
+{
+  "id": "41-008-014",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 8,
+  "verse_reference": "Mark 8:28",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which of these did the disciples say some people thought Jesus was?",
+  "options": [
+    "Elijah",
+    "Moses",
+    "Samuel",
+    "Daniel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus",
+    "Elijah",
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Caesarea Philippi",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They replied, \"Some say John the Baptist; others say Elijah; and still others, one of the prophets.\""
+}

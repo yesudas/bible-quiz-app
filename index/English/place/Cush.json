@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Cush",
     "label": "Cush",
-    "count": 12,
+    "count": 15,
     "paths": [
         "English/12/12-019-004.json",
         "English/17/17-001-001.json",
@@ -16,7 +16,10 @@
         "English/23/23-020-003.json",
         "English/23/23-020-004.json",
         "English/23/23-020-005.json",
-        "English/23/23-043-003.json"
+        "English/23/23-043-003.json",
+        "English/26/26-030-002.json",
+        "English/36/36-002-010.json",
+        "English/36/36-003-006.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

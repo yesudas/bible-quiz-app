@@ -1,0 +1,36 @@
+{
+  "id": "24-052-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 52,
+  "verse_reference": "Jeremiah 52:1",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How old was Zedekiah when he became king, and how long did he reign in Jerusalem?",
+  "options": [
+    "Twenty-one years old; eleven years",
+    "Eighteen years old; three months",
+    "Twenty-five years old; twenty-nine years",
+    "Eight years old; thirty-one years"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Zedekiah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years."
+}

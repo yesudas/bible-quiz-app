@@ -1,0 +1,38 @@
+{
+  "id": "42-022-015",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 22,
+  "verse_reference": "Luke 22:43-44",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What appeared to Jesus as he prayed, and what was his sweat like?",
+  "options": [
+    "An angel strengthened him, and his sweat was like drops of blood",
+    "Moses appeared, and his sweat was like rain",
+    "A dove came down, and his sweat was like oil",
+    "A bright light appeared, and his sweat was like tears"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Suffering",
+    "Angels"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mount of Olives",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "An angel from heaven appeared and strengthened him. Being in anguish, he prayed more earnestly, and his sweat was like drops of blood falling to the ground."
+}

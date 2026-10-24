@@ -1,0 +1,42 @@
+{
+  "id": "24-039-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 39,
+  "verse_reference": "Jeremiah 39:5",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "To which place in the land of Hamath was Zedekiah taken to face Nebuchadnezzar?",
+  "options": [
+    "Riblah",
+    "Damascus",
+    "Carchemish",
+    "Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Leadership"
+  ],
+  "characters": [
+    "Zedekiah",
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Riblah",
+      "type": "town"
+    },
+    {
+      "name": "Hamath",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They captured Zedekiah and took him to Nebuchadnezzar king of Babylon at Riblah in the land of Hamath, where he pronounced sentence on him."
+}

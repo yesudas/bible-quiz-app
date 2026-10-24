@@ -1,0 +1,38 @@
+{
+  "id": "58-009-001",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 9,
+  "verse_reference": "Hebrews 9:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 9:2, what was in the first room of the tabernacle, called the Holy Place?",
+  "options": [
+    "The ark of the covenant and the cherubim",
+    "The lampstand and the table with the consecrated bread",
+    "The bronze altar and the basin",
+    "The stone tablets and the jar of manna"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tabernacle",
+      "type": "temple"
+    },
+    {
+      "name": "Holy Place",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 9:2 says the first room, called the Holy Place, contained the lampstand and the table with its consecrated bread."
+}

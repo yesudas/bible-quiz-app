@@ -1,0 +1,29 @@
+{
+  "id": "58-012-001",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 12,
+  "verse_reference": "Hebrews 12:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Since we are surrounded by such a great cloud of ____...\"",
+  "options": [
+    "angels",
+    "witnesses",
+    "prophets",
+    "friends"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 12:1 says since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles."
+}

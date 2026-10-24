@@ -1,0 +1,35 @@
+{
+  "id": "35-001-008",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 1,
+  "verse_reference": "Habakkuk 1:10",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "How did God say the Babylonians would capture fortified cities?",
+  "options": [
+    "By starving them for many years",
+    "By tricking the kings with gifts",
+    "By building earthen ramps",
+    "By digging under the walls"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "War"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "empire"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said they laugh at fortified cities and capture them by building earthen ramps."
+}

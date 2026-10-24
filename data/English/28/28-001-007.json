@@ -1,0 +1,39 @@
+{
+  "id": "28-001-007",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 1,
+  "verse_reference": "Hosea 1:5",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did God say He would break Israel's bow?",
+  "options": [
+    "In the Valley of Jezreel",
+    "At the Jordan River",
+    "On Mount Carmel",
+    "In the Valley of Hinnom"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Valley of Jezreel",
+      "type": "valley"
+    },
+    {
+      "name": "Israel",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'In that day I will break Israel's bow in the Valley of Jezreel.'"
+}

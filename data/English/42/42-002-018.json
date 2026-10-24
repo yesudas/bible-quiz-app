@@ -1,0 +1,38 @@
+{
+  "id": "42-002-018",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 2,
+  "verse_reference": "Luke 2:36-37",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which elderly prophet never left the temple but worshiped night and day?",
+  "options": [
+    "Elizabeth",
+    "Deborah",
+    "Hannah",
+    "Anna"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Prayer"
+  ],
+  "characters": [
+    "Anna"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Anna, a prophet of the tribe of Asher, never left the temple but worshiped night and day, fasting and praying."
+}

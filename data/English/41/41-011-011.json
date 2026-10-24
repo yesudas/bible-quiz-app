@@ -1,0 +1,38 @@
+{
+  "id": "41-011-011",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 11,
+  "verse_reference": "Mark 11:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Jesus quoted Scripture: \"My house will be called a house of ____ for all nations.\"",
+  "options": [
+    "praise",
+    "peace",
+    "worship",
+    "prayer"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus taught, \"Is it not written: 'My house will be called a house of prayer for all nations'? But you have made it 'a den of robbers.'\""
+}

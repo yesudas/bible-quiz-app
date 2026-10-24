@@ -1,0 +1,38 @@
+{
+  "id": "66-007-013",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 7,
+  "verse_reference": "Revelation 7:17",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "According to Revelation 7:17, who will be the shepherd of the great multitude?",
+  "options": [
+    "The Lamb",
+    "Moses",
+    "The elders",
+    "King David"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Lamb at the centre of the throne will be their shepherd and will lead them to springs of living water."
+}

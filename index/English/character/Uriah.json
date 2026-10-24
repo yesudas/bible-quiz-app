@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Uriah",
     "label": "Uriah",
-    "count": 13,
+    "count": 16,
     "paths": [
         "English/10/10-011-004.json",
         "English/10/10-011-006.json",
@@ -17,7 +17,10 @@
         "English/11/11-015-003.json",
         "English/12/12-016-010.json",
         "English/13/13-011-015.json",
-        "English/23/23-008-002.json"
+        "English/23/23-008-002.json",
+        "English/24/24-026-009.json",
+        "English/24/24-026-010.json",
+        "English/40/40-001-005.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

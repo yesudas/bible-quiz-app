@@ -1,0 +1,31 @@
+{
+  "id": "42-005-025",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:38",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'No, new wine must be poured into ____ wineskins.'",
+  "options": [
+    "new",
+    "old",
+    "clean",
+    "strong"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'New wine must be poured into new wineskins.'"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "28-001-005",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 1,
+  "verse_reference": "Hosea 1:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What name did God tell Hosea to give his first son?",
+  "options": [
+    "Lo-Ammi",
+    "Immanuel",
+    "Maher-Shalal-Hash-Baz",
+    "Jezreel"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Hosea",
+    "Jezreel"
+  ],
+  "places": [
+    {
+      "name": "Jezreel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Hosea to call his first son Jezreel, because He would soon punish the house of Jehu for the massacre at Jezreel."
+}

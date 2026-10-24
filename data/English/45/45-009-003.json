@@ -1,0 +1,30 @@
+{
+  "id": "45-009-003",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 9,
+  "verse_reference": "Romans 9:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What does Paul mean when he says, \"Not all who are descended from Israel are Israel\"?",
+  "options": [
+    "Only people living in Jerusalem are Israel",
+    "Being born into Israel's family line does not make someone a child of the promise",
+    "Israel had stopped being a nation",
+    "Only priests belong to Israel"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul explains that it is not the children by physical descent who are God's children, but the children of the promise."
+}

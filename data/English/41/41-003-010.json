@@ -1,0 +1,38 @@
+{
+  "id": "41-003-010",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 3,
+  "verse_reference": "Mark 3:16",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What new name did Jesus give to Simon?",
+  "options": [
+    "Andrew",
+    "Thaddaeus",
+    "Barnabas",
+    "Peter"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Mountainside",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus appointed the twelve, including Simon, to whom he gave the name Peter."
+}

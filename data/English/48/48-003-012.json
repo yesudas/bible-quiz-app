@@ -1,0 +1,30 @@
+{
+  "id": "48-003-012",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 3,
+  "verse_reference": "Galatians 3:19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why was the law given, according to Paul?",
+  "options": [
+    "To replace the promise",
+    "To save the Gentiles",
+    "Because of transgressions, until the Seed came",
+    "To make Israel a strong nation"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Law",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said the law was added because of transgressions until the Seed to whom the promise referred had come."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "66-001-011",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 1,
+  "verse_reference": "Revelation 1:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why was John on the island of Patmos?",
+  "options": [
+    "Because of the word of God and the testimony of Jesus",
+    "Because he was shipwrecked",
+    "Because he went there to rest",
+    "Because he was sent there to build a church"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution",
+    "Faith"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [
+    {
+      "name": "Patmos",
+      "type": "island"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says he was on Patmos because of the word of God and the testimony of Jesus, sharing in suffering for Jesus."
+}

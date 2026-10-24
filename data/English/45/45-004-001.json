@@ -1,0 +1,32 @@
+{
+  "id": "45-004-001",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 4,
+  "verse_reference": "Romans 4:1-3",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which forefather does Paul use as his main example of being made right with God by faith?",
+  "options": [
+    "Moses",
+    "Jacob",
+    "Noah",
+    "Abraham"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In Romans 4, Paul uses Abraham to show that a person is made right with God by faith."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "41-009-021",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 9,
+  "verse_reference": "Mark 9:50",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: \"Have salt among yourselves, and be at ____ with each other.\"",
+  "options": [
+    "rest",
+    "work",
+    "home",
+    "peace"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said salt is good, and taught, \"Have salt among yourselves, and be at peace with each other.\""
+}

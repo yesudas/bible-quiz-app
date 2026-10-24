@@ -1,0 +1,33 @@
+{
+  "id": "41-001-021",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 1,
+  "verse_reference": "Mark 1:35",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Jesus do very early in the morning in a solitary place?",
+  "options": [
+    "He fished",
+    "He slept",
+    "He prayed",
+    "He fasted"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Very early in the morning, while it was still dark, Jesus went off to a solitary place, where he prayed."
+}

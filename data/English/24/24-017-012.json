@@ -1,0 +1,35 @@
+{
+  "id": "24-017-012",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 17,
+  "verse_reference": "Jeremiah 17:27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God warn would happen if the people did not keep the Sabbath holy?",
+  "options": [
+    "A flood would cover the land",
+    "An unquenchable fire would burn Jerusalem's gates and fortresses",
+    "Their crops would fail for ten years",
+    "The king would be taken to Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would kindle an unquenchable fire in the gates of Jerusalem that would consume her fortresses."
+}

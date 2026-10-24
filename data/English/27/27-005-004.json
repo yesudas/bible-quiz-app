@@ -1,0 +1,38 @@
+{
+  "id": "27-005-004",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 5,
+  "verse_reference": "Daniel 5:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What suddenly appeared and wrote on the wall of the palace?",
+  "options": [
+    "The fingers of a human hand",
+    "An angel with a sword",
+    "A burning fire",
+    "A flying scroll"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Judgment"
+  ],
+  "characters": [
+    "Belshazzar"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Suddenly the fingers of a human hand appeared and wrote on the plaster of the wall near the lampstand."
+}

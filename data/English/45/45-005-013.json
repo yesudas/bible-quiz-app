@@ -1,0 +1,30 @@
+{
+  "id": "45-005-013",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 5,
+  "verse_reference": "Romans 5:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"But where sin increased, ______ increased all the more.\"",
+  "options": [
+    "grace",
+    "law",
+    "judgment",
+    "fear"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says the law was brought in so that the trespass might increase, but where sin increased, grace increased all the more."
+}

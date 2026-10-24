@@ -1,0 +1,34 @@
+{
+  "id": "56-002-001",
+  "language": "en",
+  "book_no": 56,
+  "book": "Titus",
+  "chapter": 2,
+  "verse_reference": "Titus 2:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Paul tell Titus to teach?",
+  "options": [
+    "Old traditions",
+    "What is in keeping with sound doctrine",
+    "Stories about the Cretan prophets",
+    "Rules about food only"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Leadership"
+  ],
+  "characters": [
+    "Paul",
+    "Titus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul told Titus to teach what is appropriate to sound doctrine."
+}

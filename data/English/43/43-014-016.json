@@ -1,0 +1,31 @@
+{
+  "id": "43-014-016",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 14,
+  "verse_reference": "John 14:30",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "When Jesus spoke of \"the prince of this world\" who was coming, what did he say about him?",
+  "options": [
+    "He would rule forever",
+    "He was a Roman ruler",
+    "He was the high priest",
+    "He has no hold over Jesus"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 14:30, Jesus said the prince of this world is coming, but he has no hold over him."
+}

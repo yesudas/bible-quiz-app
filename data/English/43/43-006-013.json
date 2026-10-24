@@ -1,0 +1,36 @@
+{
+  "id": "43-006-013",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 6,
+  "verse_reference": "John 6:21",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What happened right after the disciples took Jesus into the boat?",
+  "options": [
+    "The storm grew worse",
+    "The boat sank",
+    "They rowed for another hour",
+    "The boat reached the shore where they were heading"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 6:21 says they were willing to take him into the boat, and immediately the boat reached the shore where they were heading."
+}

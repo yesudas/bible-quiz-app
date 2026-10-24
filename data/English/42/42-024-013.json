@@ -1,0 +1,33 @@
+{
+  "id": "42-024-013",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 24,
+  "verse_reference": "Luke 24:27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Jesus explain what was said about himself to the travelers?",
+  "options": [
+    "He told them a new parable",
+    "Beginning with Moses and all the Prophets, he explained what the Scriptures said about him",
+    "He showed them a sign in the sky",
+    "He sent them to the priests"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Moses"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Beginning with Moses and all the Prophets, he explained to them what was said in all the Scriptures concerning himself."
+}

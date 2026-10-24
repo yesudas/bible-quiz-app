@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Hezekiah",
     "label": "Hezekiah",
-    "count": 97,
+    "count": 102,
     "paths": [
         "English/12/12-016-013.json",
         "English/12/12-018-001.json",
@@ -101,7 +101,12 @@
         "English/23/23-039-002.json",
         "English/23/23-039-003.json",
         "English/23/23-039-004.json",
-        "English/23/23-039-005.json"
+        "English/23/23-039-005.json",
+        "English/24/24-015-004.json",
+        "English/24/24-026-007.json",
+        "English/24/24-026-008.json",
+        "English/33/33-001-003.json",
+        "English/36/36-001-003.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

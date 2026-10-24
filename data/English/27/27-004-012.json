@@ -1,0 +1,36 @@
+{
+  "id": "27-004-012",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 4,
+  "verse_reference": "Daniel 4:29",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How long after the dream did its judgment begin to come true?",
+  "options": [
+    "Twelve months later",
+    "Seven days later",
+    "Three years later",
+    "The same night"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Royal palace of Babylon",
+      "type": "palace"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Twelve months later, the king was walking on the roof of the royal palace of Babylon when it happened."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "34-003-005",
+  "language": "en",
+  "book_no": 34,
+  "book": "Nahum",
+  "chapter": 3,
+  "verse_reference": "Nahum 3:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Nahum remind Nineveh of what happened to Thebes?",
+  "options": [
+    "Thebes had attacked Nineveh",
+    "To show that even a strong city could be captured",
+    "Thebes was Nineveh's ally",
+    "To praise the people of Thebes"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    },
+    {
+      "name": "Thebes",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Thebes had strong allies and water defenses, yet was taken captive (Nahum 3:8-10). Nineveh would fall too."
+}

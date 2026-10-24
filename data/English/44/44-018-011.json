@@ -1,0 +1,37 @@
+{
+  "id": "44-018-011",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 18,
+  "verse_reference": "Acts 18:14-15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Gallio refuse to judge the case against Paul?",
+  "options": [
+    "Paul was a Roman citizen",
+    "It was a question of words, names and their own law",
+    "He was afraid of the crowd",
+    "He believed in Jesus"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Justice",
+    "Law"
+  ],
+  "characters": [
+    "Gallio"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gallio said it involved questions about words and names and their own law, so they should settle it themselves."
+}

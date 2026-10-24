@@ -1,0 +1,33 @@
+{
+  "id": "40-009-021",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 9,
+  "verse_reference": "Matthew 9:32-33",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "After Jesus drove out the demon, what could the man who had been demon-possessed now do?",
+  "options": [
+    "Speak",
+    "See",
+    "Walk",
+    "Hear"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 9:32-33 says a man who was demon-possessed and could not talk was brought to Jesus, and when the demon was driven out, he spoke."
+}

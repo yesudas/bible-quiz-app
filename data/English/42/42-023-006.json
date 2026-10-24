@@ -1,0 +1,33 @@
+{
+  "id": "42-023-006",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 23,
+  "verse_reference": "Luke 23:11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Herod and his soldiers dress Jesus in before sending him back to Pilate?",
+  "options": [
+    "A crown of gold",
+    "Sackcloth",
+    "An elegant robe",
+    "A soldier's cloak"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution",
+    "Suffering"
+  ],
+  "characters": [
+    "Herod",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Herod and his soldiers ridiculed and mocked him. Dressing him in an elegant robe, they sent him back to Pilate."
+}

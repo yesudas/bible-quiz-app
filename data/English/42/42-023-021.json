@@ -1,0 +1,38 @@
+{
+  "id": "42-023-021",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 23,
+  "verse_reference": "Luke 23:47",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What did the centurion say after seeing what happened?",
+  "options": [
+    "'This man was a prophet.'",
+    "'Surely this was a righteous man.'",
+    "'He has saved us all.'",
+    "'He was the king of Rome.'"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Worship"
+  ],
+  "characters": [
+    "Centurion",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "The Skull",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The centurion, seeing what had happened, praised God and said, 'Surely this was a righteous man.'"
+}

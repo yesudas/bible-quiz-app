@@ -1,0 +1,33 @@
+{
+  "id": "40-024-018",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 24,
+  "verse_reference": "Matthew 24:35",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete: \"Heaven and earth will pass away, but my ______ will never pass away.\"",
+  "options": [
+    "words",
+    "kingdom",
+    "love",
+    "people"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 24:35 says, \"Heaven and earth will pass away, but my words will never pass away.\""
+}

@@ -1,0 +1,38 @@
+{
+  "id": "40-017-016",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 17,
+  "verse_reference": "Matthew 17:24",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In Capernaum, what did the collectors ask Peter about Jesus?",
+  "options": [
+    "Whether he kept the Sabbath",
+    "Whether he was from Nazareth",
+    "Whether he would heal them",
+    "Whether he paid the temple tax"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money",
+    "Law"
+  ],
+  "characters": [
+    "Peter",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 17:24 says the collectors of the two-drachma temple tax asked Peter, \"Doesn't your teacher pay the temple tax?\""
+}

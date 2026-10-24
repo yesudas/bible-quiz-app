@@ -1,0 +1,36 @@
+{
+  "id": "24-025-006",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 25,
+  "verse_reference": "Jeremiah 25:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God say would happen when the seventy years were fulfilled?",
+  "options": [
+    "He would punish the king of Babylon and his nation",
+    "Babylon would rule forever",
+    "Judah would be destroyed again",
+    "The temple would be moved to Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the seventy years were fulfilled, God would punish the king of Babylon and his nation for their guilt and make it desolate forever."
+}

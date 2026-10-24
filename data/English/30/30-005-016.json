@@ -1,0 +1,35 @@
+{
+  "id": "30-005-016",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 5,
+  "verse_reference": "Amos 5:27",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Beyond which city did God say He would send Israel into exile?",
+  "options": [
+    "Damascus",
+    "Babylon",
+    "Nineveh",
+    "Tyre"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Damascus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 5:27 says God will send them into exile beyond Damascus."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "40-013-018",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 13,
+  "verse_reference": "Matthew 13:43",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete: \"Then the righteous will shine like the ______ in the kingdom of their Father.\"",
+  "options": [
+    "sun",
+    "stars",
+    "moon",
+    "lamp"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 13:43 says, \"Then the righteous will shine like the sun in the kingdom of their Father.\""
+}

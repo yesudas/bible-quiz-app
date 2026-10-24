@@ -1,0 +1,32 @@
+{
+  "id": "40-013-007",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 13,
+  "verse_reference": "Matthew 13:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words to his disciples: \"But blessed are your eyes because they ______.\"",
+  "options": [
+    "weep",
+    "shine",
+    "open",
+    "see"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 13:16 says, \"But blessed are your eyes because they see, and your ears because they hear.\""
+}

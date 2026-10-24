@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Josiah",
     "label": "Josiah",
-    "count": 51,
+    "count": 60,
     "paths": [
         "English/11/11-013-002.json",
         "English/12/12-021-014.json",
@@ -55,7 +55,16 @@
         "English/14/14-035-010.json",
         "English/14/14-035-011.json",
         "English/14/14-035-012.json",
-        "English/14/14-035-013.json"
+        "English/14/14-035-013.json",
+        "English/24/24-001-003.json",
+        "English/24/24-003-002.json",
+        "English/24/24-022-003.json",
+        "English/24/24-022-006.json",
+        "English/24/24-022-007.json",
+        "English/24/24-025-002.json",
+        "English/24/24-037-001.json",
+        "English/36/36-001-001.json",
+        "English/40/40-001-006.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

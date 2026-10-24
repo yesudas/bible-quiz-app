@@ -1,0 +1,36 @@
+{
+  "id": "42-024-005",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 24,
+  "verse_reference": "Luke 24:10",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which of these women does Luke name among those who told the apostles?",
+  "options": [
+    "Martha",
+    "Mary Magdalene",
+    "Salome",
+    "Elizabeth"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Resurrection",
+    "Jesus",
+    "Evangelism"
+  ],
+  "characters": [
+    "Mary Magdalene",
+    "Joanna",
+    "Mary the mother of James"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "It was Mary Magdalene, Joanna, Mary the mother of James, and the others with them who told this to the apostles."
+}

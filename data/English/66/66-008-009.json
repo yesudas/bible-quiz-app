@@ -1,0 +1,35 @@
+{
+  "id": "66-008-009",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 8,
+  "verse_reference": "Revelation 8:10-11",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "What was the name of the great star that fell on the rivers and springs at the third trumpet?",
+  "options": [
+    "Wormwood",
+    "Abaddon",
+    "Morning Star",
+    "Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Rivers and springs",
+      "type": "river"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A great star, blazing like a torch, fell on a third of the rivers and springs. The name of the star is Wormwood."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "45-010-010",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 10,
+  "verse_reference": "Romans 10:16",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which prophet does Paul quote asking, \"Lord, who has believed our message?\"",
+  "options": [
+    "Isaiah",
+    "Jeremiah",
+    "Ezekiel",
+    "Daniel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Evangelism"
+  ],
+  "characters": [
+    "Isaiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quotes Isaiah to show that not all the Israelites accepted the good news."
+}

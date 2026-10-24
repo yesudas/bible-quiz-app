@@ -1,0 +1,38 @@
+{
+  "id": "40-017-019",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 17,
+  "verse_reference": "Matthew 17:27",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jesus pay the temple tax even though the children are exempt?",
+  "options": [
+    "So that they may not cause offense",
+    "Because he owed money",
+    "Because Peter insisted",
+    "Because the law of Rome required it"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom",
+    "Money"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 17:27 says, \"But so that we may not cause offense,\" Jesus sent Peter to catch the fish and pay for both of them."
+}

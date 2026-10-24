@@ -1,0 +1,36 @@
+{
+  "id": "66-018-012",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 18,
+  "verse_reference": "Revelation 18:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the mighty angel throw into the sea as a picture of Babylon's fall?",
+  "options": [
+    "A boulder the size of a large millstone",
+    "A golden cup",
+    "A burning torch",
+    "A sealed scroll"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A mighty angel picked up a boulder the size of a large millstone and threw it into the sea, saying, \"With such violence the great city of Babylon will be thrown down, never to be found again.\""
+}

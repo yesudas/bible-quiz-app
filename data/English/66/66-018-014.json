@@ -1,0 +1,34 @@
+{
+  "id": "66-018-014",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 18,
+  "verse_reference": "Revelation 18:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Revelation 18:24, what was found in Babylon?",
+  "options": [
+    "Gold of every nation",
+    "The ark of the covenant",
+    "The blood of prophets and of God's holy people",
+    "The book of life"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Persecution",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In her was found the blood of prophets and of God's holy people, of all who have been slaughtered on the earth."
+}

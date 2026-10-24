@@ -1,0 +1,31 @@
+{
+  "id": "54-004-004",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 4,
+  "verse_reference": "1 Timothy 4:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "By what two things is food consecrated?",
+  "options": [
+    "Fire and water",
+    "The word of God and prayer",
+    "Fasting and sacrifice",
+    "Priests and the temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said food is consecrated by the word of God and prayer."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "48-002-013",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 2,
+  "verse_reference": "Galatians 2:16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "According to Paul, how is a person justified?",
+  "options": [
+    "By faith in Jesus Christ",
+    "By keeping the law",
+    "By being circumcised",
+    "By going to Jerusalem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Salvation",
+    "Law"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said a person is not justified by the works of the law, but by faith in Jesus Christ."
+}

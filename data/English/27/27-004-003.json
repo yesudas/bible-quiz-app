@@ -1,0 +1,32 @@
+{
+  "id": "27-004-003",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 4,
+  "verse_reference": "Daniel 4:10-11",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What large thing did the king see in the middle of the land in his dream?",
+  "options": [
+    "A mountain",
+    "A river",
+    "A statue",
+    "A tree"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Nebuchadnezzar"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king saw a tree in the middle of the land; it grew large and strong, and its top touched the sky."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "29-003-012",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 3,
+  "verse_reference": "Joel 3:19",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which two nations did God say would become desolate because of violence done to the people of Judah?",
+  "options": [
+    "Moab and Ammon",
+    "Assyria and Babylon",
+    "Egypt and Edom",
+    "Aram and Philistia"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Egypt would be desolate and Edom a desert waste because they shed innocent blood in Judah."
+}

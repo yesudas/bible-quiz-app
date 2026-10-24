@@ -1,0 +1,35 @@
+{
+  "id": "26-008-009",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 8,
+  "verse_reference": "Ezekiel 8:14",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "For whom were the women at the north gate of the house of the LORD mourning?",
+  "options": [
+    "Baal",
+    "Molek",
+    "Tammuz",
+    "Asherah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At the north gate of the house of the LORD, Ezekiel saw women sitting there, mourning the god Tammuz."
+}

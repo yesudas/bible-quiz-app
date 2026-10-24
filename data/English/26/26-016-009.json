@@ -1,0 +1,36 @@
+{
+  "id": "26-016-009",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 16,
+  "verse_reference": "Ezekiel 16:49",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "According to Ezekiel 16, which describes the sin of Sodom?",
+  "options": [
+    "Arrogant, overfed and unconcerned; they did not help the poor and needy",
+    "They built a tower to reach heaven",
+    "They worshiped the golden calf",
+    "They killed the prophets of God"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Money",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sodom",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said Sodom and her daughters were arrogant, overfed and unconcerned; they did not help the poor and needy."
+}

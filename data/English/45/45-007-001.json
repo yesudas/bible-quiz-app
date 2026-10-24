@@ -1,0 +1,29 @@
+{
+  "id": "45-007-001",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 7,
+  "verse_reference": "Romans 7:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Romans 7:1, over whom does the law have authority?",
+  "options": [
+    "Only kings and rulers",
+    "Only Gentiles",
+    "Only people in Jerusalem",
+    "Someone only as long as they live"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says the law has authority over someone only as long as that person lives."
+}

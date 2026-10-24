@@ -1,0 +1,35 @@
+{
+  "id": "28-004-002",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 4,
+  "verse_reference": "Hosea 4:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which of these sins did Hosea say was found in the land?",
+  "options": [
+    "Lying and stealing",
+    "Fasting and praying",
+    "Giving to the poor",
+    "Keeping the Sabbath"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said there was only cursing, lying and murder, stealing and adultery, and bloodshed followed bloodshed."
+}

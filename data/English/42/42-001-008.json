@@ -1,0 +1,32 @@
+{
+  "id": "42-001-008",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:17",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the angel's words: 'He will go on before the Lord, in the spirit and power of ____.'",
+  "options": [
+    "Moses",
+    "Elisha",
+    "Samuel",
+    "Elijah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "John the Baptist",
+    "Elijah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel said John would go before the Lord in the spirit and power of Elijah, to prepare a people for the Lord."
+}

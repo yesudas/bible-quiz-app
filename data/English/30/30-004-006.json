@@ -1,0 +1,33 @@
+{
+  "id": "30-004-006",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 4,
+  "verse_reference": "Amos 4:7",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "When did God hold back the rain from Israel?",
+  "options": [
+    "During the Passover",
+    "When the harvest was still three months away",
+    "In the seventh year",
+    "After the grapes were picked"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 4:7 says God withheld rain when the harvest was still three months away."
+}

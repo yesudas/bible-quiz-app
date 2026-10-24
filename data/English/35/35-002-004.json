@@ -1,0 +1,31 @@
+{
+  "id": "35-002-004",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 2,
+  "verse_reference": "Habakkuk 2:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"But the righteous person will live by his ____.\"",
+  "options": [
+    "strength",
+    "wisdom",
+    "riches",
+    "faithfulness"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said the enemy is puffed up, but the righteous person will live by his faithfulness."
+}

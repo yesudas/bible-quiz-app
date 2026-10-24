@@ -1,0 +1,42 @@
+{
+  "id": "42-008-018",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:32-33",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Into what did the demons go when they came out of the man?",
+  "options": [
+    "A flock of sheep",
+    "A large herd of pigs",
+    "A herd of goats",
+    "A pack of dogs"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Region of the Gerasenes",
+      "type": "region"
+    },
+    {
+      "name": "Lake of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The demons went into a large herd of pigs, which rushed down the steep bank into the lake and drowned."
+}

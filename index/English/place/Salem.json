@@ -3,9 +3,11 @@
     "language": "English",
     "place": "Salem",
     "label": "Salem",
-    "count": 1,
+    "count": 3,
     "paths": [
-        "English/19/19-076-002.json"
+        "English/19/19-076-002.json",
+        "English/58/58-007-001.json",
+        "English/58/58-007-005.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

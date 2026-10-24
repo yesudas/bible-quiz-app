@@ -1,0 +1,32 @@
+{
+  "id": "40-021-003",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 21,
+  "verse_reference": "Matthew 21:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "What were the disciples to say if anyone questioned them? \"The Lord ______ them.\"",
+  "options": [
+    "needs",
+    "wants",
+    "owns",
+    "blesses"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 21:3 says, \"If anyone says anything to you, say that the Lord needs them, and he will send them right away.\""
+}

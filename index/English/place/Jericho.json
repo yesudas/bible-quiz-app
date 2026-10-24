@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Jericho",
     "label": "Jericho",
-    "count": 48,
+    "count": 61,
     "paths": [
         "English/05/05-034-001.json",
         "English/06/06-002-001.json",
@@ -52,7 +52,20 @@
         "English/12/12-002-018.json",
         "English/13/13-019-005.json",
         "English/14/14-028-007.json",
-        "English/14/14-028-008.json"
+        "English/14/14-028-008.json",
+        "English/40/40-020-017.json",
+        "English/41/41-010-022.json",
+        "English/41/41-010-023.json",
+        "English/41/41-010-024.json",
+        "English/41/41-010-025.json",
+        "English/42/42-010-014.json",
+        "English/42/42-018-020.json",
+        "English/42/42-019-001.json",
+        "English/42/42-019-002.json",
+        "English/42/42-019-003.json",
+        "English/42/42-019-005.json",
+        "English/58/58-011-021.json",
+        "English/58/58-011-022.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

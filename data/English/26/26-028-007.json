@@ -1,0 +1,34 @@
+{
+  "id": "26-028-007",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 28,
+  "verse_reference": "Ezekiel 28:15",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How long was the king of Tyre blameless in his ways, according to the lament?",
+  "options": [
+    "Until he left Eden",
+    "For forty years",
+    "Until he met the king of Babylon",
+    "Until wickedness was found in him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The lament says, 'You were blameless in your ways from the day you were created till wickedness was found in you.'"
+}

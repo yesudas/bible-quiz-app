@@ -1,0 +1,30 @@
+{
+  "id": "38-010-001",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 10,
+  "verse_reference": "Zechariah 10:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did God tell the people to ask Him for in the springtime?",
+  "options": [
+    "Gold",
+    "Bread",
+    "Rain",
+    "Soldiers"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zechariah said, 'Ask the Lord for rain in the springtime; it is the Lord who sends the thunderstorms.'"
+}

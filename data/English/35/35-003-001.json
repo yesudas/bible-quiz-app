@@ -1,0 +1,32 @@
+{
+  "id": "35-003-001",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 3,
+  "verse_reference": "Habakkuk 3:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What kind of writing is Habakkuk 3?",
+  "options": [
+    "A letter to the king",
+    "A prayer of Habakkuk",
+    "A list of laws",
+    "A story about a battle"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prayer"
+  ],
+  "characters": [
+    "Habakkuk"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Habakkuk 3 begins by calling itself a prayer of Habakkuk the prophet."
+}

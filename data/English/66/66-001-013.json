@@ -1,0 +1,32 @@
+{
+  "id": "66-001-013",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 1,
+  "verse_reference": "Revelation 1:10",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the loud voice John heard sound like?",
+  "options": [
+    "Thunder",
+    "A roaring lion",
+    "A trumpet",
+    "A rushing wind"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John heard behind him a loud voice like a trumpet."
+}

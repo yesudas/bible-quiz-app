@@ -1,0 +1,38 @@
+{
+  "id": "41-011-020",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 11,
+  "verse_reference": "Mark 11:29-30",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What question did Jesus ask the leaders in return?",
+  "options": [
+    "Who wrote the law of Moses?",
+    "Was John's baptism from heaven, or of human origin?",
+    "Why do you fast?",
+    "Who is the greatest prophet?"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom",
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus",
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus replied, \"John's baptism—was it from heaven, or of human origin? Tell me!\""
+}

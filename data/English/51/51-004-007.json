@@ -1,0 +1,32 @@
+{
+  "id": "51-004-007",
+  "language": "en",
+  "book_no": 51,
+  "book": "Colossians",
+  "chapter": 4,
+  "verse_reference": "Colossians 4:10",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to Colossians 4, Mark was the cousin of whom?",
+  "options": [
+    "Peter",
+    "Silas",
+    "Barnabas",
+    "Luke"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Mark",
+    "Barnabas"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul sent greetings from Mark, the cousin of Barnabas."
+}

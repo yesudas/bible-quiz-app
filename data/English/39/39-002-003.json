@@ -1,0 +1,32 @@
+{
+  "id": "39-002-003",
+  "language": "en",
+  "book_no": 39,
+  "book": "Malachi",
+  "chapter": 2,
+  "verse_reference": "Malachi 2:4-5",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "God said He had made a covenant of life and peace with which ancestor of the priests?",
+  "options": [
+    "Aaron",
+    "Moses",
+    "Phinehas",
+    "Levi"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Leadership"
+  ],
+  "characters": [
+    "Levi"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God spoke of His covenant with Levi, a covenant of life and peace."
+}

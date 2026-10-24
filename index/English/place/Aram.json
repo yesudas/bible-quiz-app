@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Aram",
     "label": "Aram",
-    "count": 26,
+    "count": 28,
     "paths": [
         "English/11/11-015-009.json",
         "English/11/11-019-014.json",
@@ -30,7 +30,9 @@
         "English/14/14-016-008.json",
         "English/14/14-024-015.json",
         "English/14/14-028-003.json",
-        "English/23/23-007-001.json"
+        "English/23/23-007-001.json",
+        "English/28/28-012-009.json",
+        "English/30/30-001-010.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

@@ -1,0 +1,38 @@
+{
+  "id": "41-001-020",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 1,
+  "verse_reference": "Mark 1:32-34",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Jesus not let the demons speak?",
+  "options": [
+    "They spoke in a strange language",
+    "They knew who he was",
+    "They were telling lies about the disciples",
+    "It was the Sabbath"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Satan",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus drove out many demons, but he would not let them speak because they knew who he was."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "40-018-016",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 18,
+  "verse_reference": "Matthew 18:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How many times did Jesus tell Peter to forgive?",
+  "options": [
+    "Seventy-seven times",
+    "Seven times",
+    "Three times",
+    "Twelve times"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Forgiveness"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 18:22 says Jesus answered, \"I tell you, not seven times, but seventy-seven times.\""
+}

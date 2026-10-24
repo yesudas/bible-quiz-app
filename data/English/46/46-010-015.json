@@ -1,0 +1,31 @@
+{
+  "id": "46-010-015",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 10,
+  "verse_reference": "1 Corinthians 10:31",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"So whether you eat or drink or whatever you do, do it all for the ______ of God.\"",
+  "options": [
+    "love",
+    "honor",
+    "praise",
+    "glory"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship",
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul taught that everything we do should be done for the glory of God."
+}

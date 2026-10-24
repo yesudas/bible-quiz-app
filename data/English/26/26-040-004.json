@@ -1,0 +1,38 @@
+{
+  "id": "26-040-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 40,
+  "verse_reference": "Ezekiel 40:4",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Easy",
+  "question": "What did the man tell Ezekiel to do with everything he saw?",
+  "options": [
+    "Tell the people of Israel",
+    "Keep it secret",
+    "Write it on the temple wall",
+    "Tell only the priests"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Mission",
+    "Prophecy"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man said, 'Tell the people of Israel everything you see.'"
+}

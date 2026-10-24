@@ -1,0 +1,32 @@
+{
+  "id": "38-003-005",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 3,
+  "verse_reference": "Zechariah 3:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What kind of clothes was Joshua wearing as he stood before the angel?",
+  "options": [
+    "Fine linen",
+    "Sackcloth",
+    "Filthy clothes",
+    "Royal robes"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Joshua the high priest"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joshua was dressed in filthy clothes as he stood before the angel."
+}

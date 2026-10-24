@@ -1,0 +1,33 @@
+{
+  "id": "43-010-002",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 10,
+  "verse_reference": "John 10:4-5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why do the sheep follow their shepherd?",
+  "options": [
+    "He gives them food",
+    "They know his voice",
+    "He carries a staff",
+    "They are afraid of him"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Parables",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 10:4 says the shepherd goes on ahead of them, and his sheep follow him because they know his voice."
+}

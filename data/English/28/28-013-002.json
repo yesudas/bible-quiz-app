@@ -1,0 +1,30 @@
+{
+  "id": "28-013-002",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 13,
+  "verse_reference": "Hosea 13:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Hosea say the people kissed?",
+  "options": [
+    "Calf-idols",
+    "The altar",
+    "The king's hand",
+    "Sacred stones"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Idolatry",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hosea said, 'They offer human sacrifices! They kiss calf-idols!'"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "66-001-005",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 1,
+  "verse_reference": "Revelation 1:11",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Which city is named first in the list of the seven churches in Revelation 1?",
+  "options": [
+    "Philadelphia",
+    "Ephesus",
+    "Pergamum",
+    "Thyatira"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ephesus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told John to send the scroll to Ephesus first, then Smyrna, Pergamum, Thyatira, Sardis, Philadelphia and Laodicea."
+}

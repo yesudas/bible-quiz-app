@@ -1,0 +1,41 @@
+{
+  "id": "30-007-010",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 7,
+  "verse_reference": "Amos 7:12-13",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Amaziah tell Amos to go and do his prophesying?",
+  "options": [
+    "Egypt",
+    "Judah",
+    "Damascus",
+    "Samaria"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Amaziah",
+    "Amos"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    },
+    {
+      "name": "Bethel",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amaziah told Amos to go back to the land of Judah and prophesy there, not at Bethel."
+}

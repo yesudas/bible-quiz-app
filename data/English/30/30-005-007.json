@@ -1,0 +1,35 @@
+{
+  "id": "30-005-007",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 5,
+  "verse_reference": "Amos 5:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What sin in the courts does Amos 5:12 describe?",
+  "options": [
+    "Refusing to meet on the Sabbath",
+    "Making the poor judges",
+    "Forgetting the law of Moses",
+    "Taking bribes and denying justice to the poor"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin",
+    "Justice"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 5:12 says they oppressed the innocent, took bribes and deprived the poor of justice in the courts."
+}

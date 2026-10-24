@@ -1,0 +1,32 @@
+{
+  "id": "42-023-003",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 23,
+  "verse_reference": "Luke 23:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Pilate say to the chief priests and the crowd after questioning Jesus?",
+  "options": [
+    "'He must die at once.'",
+    "'Send him to Rome.'",
+    "'He is a dangerous man.'",
+    "'I find no basis for a charge against this man.'"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Pontius Pilate",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Pilate announced, 'I find no basis for a charge against this man.'"
+}

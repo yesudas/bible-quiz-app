@@ -1,0 +1,34 @@
+{
+  "id": "45-015-005",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 15,
+  "verse_reference": "Romans 15:12",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Quoting Isaiah, Paul says the Root of whom will spring up to rule over the nations?",
+  "options": [
+    "Jesse",
+    "Abraham",
+    "Jacob",
+    "Aaron"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Jesus",
+    "Hope"
+  ],
+  "characters": [
+    "Isaiah",
+    "Jesse"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quotes Isaiah: \"The Root of Jesse will spring up, one who will arise to rule over the nations; in him the Gentiles will hope.\""
+}

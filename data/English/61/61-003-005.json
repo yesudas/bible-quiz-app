@@ -1,0 +1,30 @@
+{
+  "id": "61-003-005",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 3,
+  "verse_reference": "2 Peter 3:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "With the Lord a day is like a ____ years, and a thousand years are like a day.",
+  "options": [
+    "thousand",
+    "hundred",
+    "million",
+    "seven"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter reminds readers that God does not measure time as people do."
+}

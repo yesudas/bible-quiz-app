@@ -1,0 +1,33 @@
+{
+  "id": "42-013-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 13,
+  "verse_reference": "Luke 13:30",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'Indeed there are those who are last who will be ____, and first who will be last.'",
+  "options": [
+    "first",
+    "great",
+    "saved",
+    "rich"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Kingdom of God",
+    "Humility"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'Indeed there are those who are last who will be first, and first who will be last.'"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "42-001-017",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:35",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did Gabriel say Mary would conceive?",
+  "options": [
+    "Through Joseph after the wedding",
+    "The Holy Spirit would come on her",
+    "Through a special offering",
+    "By praying in the temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Holy Spirit",
+    "Jesus",
+    "Miracles"
+  ],
+  "characters": [
+    "Mary",
+    "Gabriel"
+  ],
+  "places": [
+    {
+      "name": "Nazareth",
+      "type": "town"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Gabriel said the Holy Spirit would come on her and the power of the Most High would overshadow her."
+}

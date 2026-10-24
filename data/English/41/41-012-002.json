@@ -1,0 +1,38 @@
+{
+  "id": "41-012-002",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 12,
+  "verse_reference": "Mark 12:2-5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the tenants do to the servants the owner sent to collect fruit?",
+  "options": [
+    "Paid them in full",
+    "Gave them gifts",
+    "Beat some and killed others",
+    "Invited them to stay"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables",
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Vineyard",
+      "type": "field"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The tenants beat the first servant, struck another on the head, killed another, and treated many others the same way, beating some and killing others."
+}

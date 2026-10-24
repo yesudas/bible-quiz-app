@@ -1,0 +1,36 @@
+{
+  "id": "26-020-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 20,
+  "verse_reference": "Ezekiel 20:6",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "God promised to bring Israel out of Egypt into a land flowing with what?",
+  "options": [
+    "Gold and silver",
+    "Wine and oil",
+    "Milk and honey",
+    "Water and grain"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Promise",
+    "Covenant"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God swore to bring them out of Egypt into a land flowing with milk and honey, the most beautiful of all lands."
+}

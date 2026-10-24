@@ -1,0 +1,33 @@
+{
+  "id": "65-001-008",
+  "language": "en",
+  "book_no": 65,
+  "book": "Jude",
+  "chapter": 1,
+  "verse_reference": "Jude 1:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "When Michael disputed with the devil, what did he say instead of making a slanderous accusation? \"The Lord _____ you!\"",
+  "options": [
+    "judge",
+    "rebuke",
+    "destroy",
+    "curse"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels",
+    "Satan",
+    "Wisdom"
+  ],
+  "characters": [
+    "Michael"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Michael did not dare to accuse the devil himself, but said, \"The Lord rebuke you!\""
+}

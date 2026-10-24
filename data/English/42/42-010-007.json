@@ -1,0 +1,34 @@
+{
+  "id": "42-010-007",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the seventy-two report with joy when they returned?",
+  "options": [
+    "Many people gave them money",
+    "The priests welcomed them",
+    "No one listened to them",
+    "Even the demons submitted to them in Jesus' name"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Joy",
+    "Mission",
+    "Satan"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The seventy-two returned with joy and said, 'Lord, even the demons submit to us in your name.'"
+}

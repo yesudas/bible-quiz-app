@@ -1,0 +1,35 @@
+{
+  "id": "25-002-010",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 2,
+  "verse_reference": "Lamentations 2:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "For whom are the people told to lift up their hands to God in prayer?",
+  "options": [
+    "Their kings",
+    "Their enemies",
+    "The lives of their children",
+    "Their priests"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Family"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They are to lift up their hands for the lives of their children, who faint from hunger at every street corner."
+}

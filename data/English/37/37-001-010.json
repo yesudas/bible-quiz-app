@@ -1,0 +1,40 @@
+{
+  "id": "37-001-010",
+  "language": "en",
+  "book_no": 37,
+  "book": "Haggai",
+  "chapter": 1,
+  "verse_reference": "Haggai 1:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Zerubbabel, Joshua and the remnant respond to Haggai's message?",
+  "options": [
+    "They mocked Haggai",
+    "They left Jerusalem",
+    "They obeyed the voice of the LORD and feared Him",
+    "They asked the king for permission"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience",
+    "Faith"
+  ],
+  "characters": [
+    "Zerubbabel",
+    "Joshua",
+    "Haggai"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They obeyed the LORD's voice and the message of Haggai, and the people feared the LORD."
+}

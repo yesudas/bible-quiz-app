@@ -1,0 +1,33 @@
+{
+  "id": "42-010-012",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:27",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the expert's answer: 'Love the Lord your God with all your heart... and, Love your neighbor as ____.'",
+  "options": [
+    "your brother",
+    "your friend",
+    "your family",
+    "yourself"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Love",
+    "Law"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The expert answered with the commands to love God with all your heart, soul, strength and mind, and to love your neighbor as yourself."
+}

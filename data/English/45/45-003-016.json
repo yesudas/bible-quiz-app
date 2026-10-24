@@ -1,0 +1,32 @@
+{
+  "id": "45-003-016",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 3,
+  "verse_reference": "Romans 3:31",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "Does faith nullify the law, according to Paul?",
+  "options": [
+    "Yes, the law is cancelled",
+    "No, we uphold the law",
+    "Yes, the law is only for Gentiles",
+    "No, faith is less important than the law"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith",
+    "Law"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul answers, \"Not at all! Rather, we uphold the law.\""
+}

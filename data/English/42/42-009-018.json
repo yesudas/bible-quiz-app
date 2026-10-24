@@ -1,0 +1,38 @@
+{
+  "id": "42-009-018",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 9,
+  "verse_reference": "Luke 9:35",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the voice from the cloud: 'This is my Son, whom I have chosen; ____ to him.'",
+  "options": [
+    "pray",
+    "sing",
+    "listen",
+    "bow"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Obedience"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mountain",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A voice came from the cloud, saying, 'This is my Son, whom I have chosen; listen to him.'"
+}

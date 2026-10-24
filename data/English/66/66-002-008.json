@@ -1,0 +1,39 @@
+{
+  "id": "66-002-008",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 2,
+  "verse_reference": "Revelation 2:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Be faithful, even to the point of death, and I will give you life as your victor's ____.\"",
+  "options": [
+    "reward",
+    "robe",
+    "throne",
+    "crown"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Persecution",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Smyrna",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told the church in Smyrna to be faithful even to death, and he would give them life as their victor's crown."
+}

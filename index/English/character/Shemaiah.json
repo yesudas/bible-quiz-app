@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Shemaiah",
     "label": "Shemaiah",
-    "count": 8,
+    "count": 10,
     "paths": [
         "English/11/11-012-012.json",
         "English/11/11-012-013.json",
@@ -12,7 +12,9 @@
         "English/14/14-012-005.json",
         "English/14/14-012-007.json",
         "English/16/16-006-007.json",
-        "English/16/16-006-009.json"
+        "English/16/16-006-009.json",
+        "English/24/24-026-009.json",
+        "English/24/24-029-010.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

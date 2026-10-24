@@ -1,0 +1,34 @@
+{
+  "id": "42-015-015",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 15,
+  "verse_reference": "Luke 15:20",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "What did the father do when he saw his son a long way off?",
+  "options": [
+    "He waited at the door",
+    "He sent a servant",
+    "He turned away",
+    "He ran to his son, threw his arms around him and kissed him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables",
+    "Love",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "His father saw him, was filled with compassion, ran to his son, threw his arms around him and kissed him."
+}

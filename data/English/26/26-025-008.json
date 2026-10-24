@@ -1,0 +1,34 @@
+{
+  "id": "26-025-008",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 25,
+  "verse_reference": "Ezekiel 25:16",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which people living near the coast did God say He would wipe out along with the Philistines?",
+  "options": [
+    "The Kerethites",
+    "The Hittites",
+    "The Amorites",
+    "The Jebusites"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Philistia",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would stretch out His hand against the Philistines and wipe out the Kerethites and destroy those remaining along the coast."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "30-007-002",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 7,
+  "verse_reference": "Amos 7:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Amos cried, \"Sovereign LORD, forgive! How can Jacob survive? He is so ____!\"",
+  "options": [
+    "weak",
+    "sinful",
+    "small",
+    "tired"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prayer",
+    "Forgiveness"
+  ],
+  "characters": [
+    "Amos"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 7:2 records Amos pleading, 'How can Jacob survive? He is so small!'"
+}

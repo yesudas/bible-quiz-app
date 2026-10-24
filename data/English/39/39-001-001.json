@@ -1,0 +1,37 @@
+{
+  "id": "39-001-001",
+  "language": "en",
+  "book_no": 39,
+  "book": "Malachi",
+  "chapter": 1,
+  "verse_reference": "Malachi 1:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Through which prophet did the LORD give this message to Israel?",
+  "options": [
+    "Haggai",
+    "Zechariah",
+    "Malachi",
+    "Obadiah"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Malachi"
+  ],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The book begins by saying this is the word of the LORD to Israel through Malachi."
+}

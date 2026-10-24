@@ -1,0 +1,33 @@
+{
+  "id": "62-002-008",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 2,
+  "verse_reference": "1 John 2:15",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"Do not love the ______ or anything in the world.\"",
+  "options": [
+    "church",
+    "world",
+    "truth",
+    "light"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Temptation"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John warns, \"Do not love the world or anything in the world.\" Love for the Father is not in those who love the world."
+}

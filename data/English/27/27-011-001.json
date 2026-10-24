@@ -1,0 +1,31 @@
+{
+  "id": "27-011-001",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 11,
+  "verse_reference": "Daniel 11:1",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "In whose first year did the messenger say he took his stand to support and protect him?",
+  "options": [
+    "Cyrus the Persian",
+    "Darius the Mede",
+    "Belshazzar",
+    "Nebuchadnezzar"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels"
+  ],
+  "characters": [
+    "Darius"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The messenger said, \"In the first year of Darius the Mede, I took my stand to support and protect him.\""
+}

@@ -1,0 +1,38 @@
+{
+  "id": "26-028-005",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 28,
+  "verse_reference": "Ezekiel 28:13",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "According to the lament in Ezekiel 28, where had the king of Tyre been?",
+  "options": [
+    "In Babylon, the city of kings",
+    "In Eden, the garden of God",
+    "On Mount Sinai",
+    "In the courts of Egypt"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Eden",
+      "type": "garden"
+    },
+    {
+      "name": "Tyre",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The lament says, 'You were in Eden, the garden of God; every precious stone adorned you.'"
+}

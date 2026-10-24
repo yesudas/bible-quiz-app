@@ -1,0 +1,31 @@
+{
+  "id": "30-008-009",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 8,
+  "verse_reference": "Amos 8:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"Not a famine of food or a thirst for water, but a famine of hearing the ____ of the LORD.\"",
+  "options": [
+    "songs",
+    "laws",
+    "words",
+    "prophets"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 8:11 warns of a famine of hearing the words of the LORD."
+}

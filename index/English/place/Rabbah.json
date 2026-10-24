@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Rabbah",
     "label": "Rabbah",
-    "count": 9,
+    "count": 13,
     "paths": [
         "English/05/05-003-003.json",
         "English/10/10-011-001.json",
@@ -13,7 +13,11 @@
         "English/10/10-017-013.json",
         "English/13/13-020-001.json",
         "English/13/13-020-002.json",
-        "English/13/13-020-003.json"
+        "English/13/13-020-003.json",
+        "English/24/24-049-002.json",
+        "English/26/26-021-005.json",
+        "English/26/26-025-002.json",
+        "English/30/30-001-018.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

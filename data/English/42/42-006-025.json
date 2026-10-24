@@ -1,0 +1,32 @@
+{
+  "id": "42-006-025",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:46",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus ask those who called him 'Lord, Lord'?",
+  "options": [
+    "Why they did not do what he said",
+    "Why they did not go to the temple",
+    "Why they did not fast",
+    "Why they did not give money"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Obedience",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus asked, 'Why do you call me, Lord, Lord, and do not do what I say?'"
+}

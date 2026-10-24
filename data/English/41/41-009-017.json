@@ -1,0 +1,32 @@
+{
+  "id": "41-009-017",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 9,
+  "verse_reference": "Mark 9:38",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which disciple told Jesus they had stopped someone driving out demons in Jesus' name?",
+  "options": [
+    "Peter",
+    "John",
+    "Thomas",
+    "Judas Iscariot"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "John",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John said, \"Teacher, we saw someone driving out demons in your name and we told him to stop, because he was not one of us.\""
+}

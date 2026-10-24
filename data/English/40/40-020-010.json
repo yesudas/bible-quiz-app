@@ -1,0 +1,33 @@
+{
+  "id": "40-020-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 20,
+  "verse_reference": "Matthew 20:20",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who came to Jesus kneeling with her sons to ask a favor?",
+  "options": [
+    "The mother of Zebedee's sons",
+    "Mary Magdalene",
+    "Peter's mother-in-law",
+    "Martha"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Jesus",
+    "James",
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 20:20 says the mother of Zebedee's sons came to Jesus with her sons and, kneeling down, asked a favor of him."
+}

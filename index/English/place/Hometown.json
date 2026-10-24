@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Hometown",
+    "label": "Hometown",
+    "count": 4,
+    "paths": [
+        "English/40/40-013-023.json",
+        "English/40/40-013-024.json",
+        "English/40/40-013-025.json",
+        "English/40/40-013-026.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

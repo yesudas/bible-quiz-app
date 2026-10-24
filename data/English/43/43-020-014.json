@@ -1,0 +1,41 @@
+{
+  "id": "43-020-014",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 20,
+  "verse_reference": "John 20:26",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How long after his first appearance did Jesus come again when Thomas was there?",
+  "options": [
+    "Three days later",
+    "A week later",
+    "Forty days later",
+    "The next morning"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jesus",
+    "Thomas"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "House with locked doors",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 20:26 says a week later his disciples were in the house again, and Thomas was with them."
+}

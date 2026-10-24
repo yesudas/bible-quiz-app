@@ -1,0 +1,33 @@
+{
+  "id": "53-002-007",
+  "language": "en",
+  "book_no": 53,
+  "book": "2 Thessalonians",
+  "chapter": 2,
+  "verse_reference": "2 Thessalonians 2:13",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"God chose you as firstfruits to be saved through the sanctifying work of the ______ and through belief in the truth.\"",
+  "options": [
+    "Spirit",
+    "church",
+    "law",
+    "apostles"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holy Spirit",
+    "Salvation",
+    "Thanksgiving"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul thanked God that He chose them to be saved through the sanctifying work of the Spirit and through belief in the truth."
+}

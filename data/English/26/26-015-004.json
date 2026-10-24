@@ -1,0 +1,35 @@
+{
+  "id": "26-015-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 15,
+  "verse_reference": "Ezekiel 15:6",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "To what did God compare the people living in Jerusalem?",
+  "options": [
+    "A fruitful vineyard",
+    "Vine wood given as fuel for the fire",
+    "A mighty cedar",
+    "A flock without a shepherd"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said that as He had given the wood of the vine as fuel for the fire, so He would treat the people living in Jerusalem."
+}

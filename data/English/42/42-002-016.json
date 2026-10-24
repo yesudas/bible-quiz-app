@@ -1,0 +1,39 @@
+{
+  "id": "42-002-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 2,
+  "verse_reference": "Luke 2:30-32",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Simeon said Jesus would be a light for revelation to whom?",
+  "options": [
+    "The Gentiles",
+    "The priests only",
+    "The Romans only",
+    "The angels"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Mission",
+    "Prophecy"
+  ],
+  "characters": [
+    "Simeon",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Simeon said Jesus was God's salvation, a light for revelation to the Gentiles and the glory of Israel."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "28-010-006",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 10,
+  "verse_reference": "Hosea 10:8",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "In their fear, what would the people say to the mountains?",
+  "options": [
+    "\"Shake!\"",
+    "\"Cover us!\"",
+    "\"Protect us!\"",
+    "\"Open up!\""
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Then they will say to the mountains, 'Cover us!' and to the hills, 'Fall on us!'"
+}

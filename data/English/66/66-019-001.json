@@ -1,0 +1,36 @@
+{
+  "id": "66-019-001",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 19,
+  "verse_reference": "Revelation 19:1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What word did the great multitude in heaven shout at the start of Revelation 19?",
+  "options": [
+    "Hosanna",
+    "Hallelujah",
+    "Holy",
+    "Amen"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John heard what sounded like the roar of a great multitude shouting, \"Hallelujah! Salvation and glory and power belong to our God.\""
+}

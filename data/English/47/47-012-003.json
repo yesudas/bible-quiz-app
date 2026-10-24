@@ -1,0 +1,36 @@
+{
+  "id": "47-012-003",
+  "language": "en",
+  "book_no": 47,
+  "book": "2 Corinthians",
+  "chapter": 12,
+  "verse_reference": "2 Corinthians 12:4",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "The man was caught up to what place, where he heard things no one is permitted to tell?",
+  "options": [
+    "Mount Sinai",
+    "Paradise",
+    "The temple in Jerusalem",
+    "The garden of Eden"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Paradise",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He was caught up to paradise and heard inexpressible things, things no one is permitted to tell."
+}

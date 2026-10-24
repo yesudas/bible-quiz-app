@@ -1,0 +1,37 @@
+{
+  "id": "42-001-023",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:56",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "About how long did Mary stay with Elizabeth?",
+  "options": [
+    "One week",
+    "About three months",
+    "About six months",
+    "One year"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family"
+  ],
+  "characters": [
+    "Mary",
+    "Elizabeth"
+  ],
+  "places": [
+    {
+      "name": "Hill country of Judea",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Mary stayed with Elizabeth for about three months and then returned home."
+}

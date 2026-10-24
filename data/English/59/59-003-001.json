@@ -1,0 +1,30 @@
+{
+  "id": "59-003-001",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 3,
+  "verse_reference": "James 3:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why does James say not many should become teachers?",
+  "options": [
+    "Teachers earn very little",
+    "Teachers will be judged more strictly",
+    "Teachers must travel far",
+    "Teachers cannot marry"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Leadership",
+    "Wisdom"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James warns that those who teach will be judged more strictly."
+}

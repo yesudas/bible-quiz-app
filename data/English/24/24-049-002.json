@@ -1,0 +1,38 @@
+{
+  "id": "24-049-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 49,
+  "verse_reference": "Jeremiah 49:2",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Against which Ammonite city did God say He would sound the battle cry?",
+  "options": [
+    "Rabbah",
+    "Heshbon",
+    "Dibon",
+    "Aroer"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Rabbah",
+      "type": "city"
+    },
+    {
+      "name": "Ammon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"I will sound the battle cry against Rabbah of the Ammonites; it will become a mound of ruins.\""
+}

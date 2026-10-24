@@ -1,0 +1,34 @@
+{
+  "id": "24-036-012",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 36,
+  "verse_reference": "Jeremiah 36:32",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jeremiah do after the scroll was burned?",
+  "options": [
+    "He gave up prophesying",
+    "He took another scroll, and Baruch wrote all the words again, with many similar words added",
+    "He burned the king's palace",
+    "He went to Babylon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Faith"
+  ],
+  "characters": [
+    "Jeremiah",
+    "Baruch"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah took another scroll, and as he dictated, Baruch wrote on it all the words of the burned scroll, and many similar words were added."
+}

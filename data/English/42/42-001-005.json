@@ -1,0 +1,33 @@
+{
+  "id": "42-001-005",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 1,
+  "verse_reference": "Luke 1:6-7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did Zechariah and Elizabeth have no children?",
+  "options": [
+    "They had disobeyed God",
+    "Elizabeth was not able to conceive and both were very old",
+    "They lived far from the temple",
+    "Zechariah was always away serving"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Family",
+    "Suffering"
+  ],
+  "characters": [
+    "Zechariah",
+    "Elizabeth"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They were righteous before God, but Elizabeth was not able to conceive, and they were both very old."
+}

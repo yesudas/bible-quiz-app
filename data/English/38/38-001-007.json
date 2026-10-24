@@ -1,0 +1,30 @@
+{
+  "id": "38-001-007",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 1,
+  "verse_reference": "Zechariah 1:10-11",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the riders report after going throughout the earth?",
+  "options": [
+    "The whole world was at rest and in peace",
+    "The whole world was at war",
+    "Jerusalem had been rebuilt",
+    "The nations were gathering against Judah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Angels"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The riders reported that the whole world was at rest and in peace."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "42-019-011",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 19,
+  "verse_reference": "Luke 19:20",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Where did the third servant keep his mina?",
+  "options": [
+    "In a jar",
+    "Under his bed",
+    "Buried in a field",
+    "Laid away in a piece of cloth"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Another servant said, 'Sir, here is your mina; I have kept it laid away in a piece of cloth.'"
+}

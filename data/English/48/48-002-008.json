@@ -1,0 +1,39 @@
+{
+  "id": "48-002-008",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 2,
+  "verse_reference": "Galatians 2:9",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the pillars give Paul and Barnabas as a sign they were accepted?",
+  "options": [
+    "A letter",
+    "A sword",
+    "The right hand of fellowship",
+    "A new name"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Church",
+    "Love"
+  ],
+  "characters": [
+    "Paul",
+    "Barnabas"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James, Cephas and John gave Paul and Barnabas the right hand of fellowship."
+}

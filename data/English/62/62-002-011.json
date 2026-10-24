@@ -1,0 +1,32 @@
+{
+  "id": "62-002-011",
+  "language": "en",
+  "book_no": 62,
+  "book": "1 John",
+  "chapter": 2,
+  "verse_reference": "1 John 2:18",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "John says many of whom have already come, showing it is the last hour?",
+  "options": [
+    "Prophets",
+    "Antichrists",
+    "Kings",
+    "Angels"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Satan"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John says that many antichrists have come, and this is how we know it is the last hour."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "42-008-020",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:39",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete what Jesus told the healed man: 'Return home and tell how much ____ has done for you.'",
+  "options": [
+    "Jesus",
+    "the Lord",
+    "your faith",
+    "God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Evangelism",
+    "Mission"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Region of the Gerasenes",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told him, 'Return home and tell how much God has done for you.' So the man told all over town how much Jesus had done for him."
+}

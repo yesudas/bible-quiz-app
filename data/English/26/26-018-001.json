@@ -1,0 +1,35 @@
+{
+  "id": "26-018-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 18,
+  "verse_reference": "Ezekiel 18:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the proverb God said would no longer be quoted in Israel: \"The parents eat sour grapes, and the children's ______ are set on edge.\"",
+  "options": [
+    "teeth",
+    "hearts",
+    "eyes",
+    "hands"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Family"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The people quoted the proverb, 'The parents eat sour grapes, and the children's teeth are set on edge,' but God said it would no longer be quoted in Israel."
+}

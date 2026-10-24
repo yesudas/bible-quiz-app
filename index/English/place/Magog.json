@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Magog",
+    "label": "Magog",
+    "count": 3,
+    "paths": [
+        "English/26/26-038-001.json",
+        "English/26/26-038-002.json",
+        "English/26/26-039-003.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

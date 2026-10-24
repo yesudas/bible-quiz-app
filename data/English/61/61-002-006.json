@@ -1,0 +1,40 @@
+{
+  "id": "61-002-006",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 2,
+  "verse_reference": "2 Peter 2:6",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Which cities did God burn to ashes as an example of what will happen to the ungodly?",
+  "options": [
+    "Babylon and Nineveh",
+    "Sodom and Gomorrah",
+    "Jericho and Ai",
+    "Tyre and Sidon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sodom",
+      "type": "city"
+    },
+    {
+      "name": "Gomorrah",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God condemned Sodom and Gomorrah by burning them to ashes, as an example for the ungodly."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "31-001-009",
+  "language": "en",
+  "book_no": 31,
+  "book": "Obadiah",
+  "chapter": 1,
+  "verse_reference": "Obadiah 12-14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Which of these did God say Edom should NOT have done when Judah was in trouble?",
+  "options": [
+    "Wait at the crossroads to cut down Judah's fugitives",
+    "Send food to Judah",
+    "Pray for Judah",
+    "Give Judah's people shelter"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said Edom should not gloat, boast, seize Judah's wealth, or wait at the crossroads to cut down those who escaped."
+}

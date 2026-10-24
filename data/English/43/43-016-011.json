@@ -1,0 +1,31 @@
+{
+  "id": "43-016-011",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 16,
+  "verse_reference": "John 16:32",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Jesus said his disciples would be scattered and leave him alone. Why did he say he was not alone?",
+  "options": [
+    "Angels were with him",
+    "His Father was with him",
+    "Peter would stay",
+    "His mother was with him"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 16:32, Jesus said they would be scattered and leave him all alone. \"Yet I am not alone, for my Father is with me.\""
+}

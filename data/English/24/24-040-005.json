@@ -1,0 +1,33 @@
+{
+  "id": "24-040-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 40,
+  "verse_reference": "Jeremiah 40:5",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did Nebuzaradan give Jeremiah before letting him go?",
+  "options": [
+    "A sword and a shield",
+    "Provisions and a present",
+    "A horse and a chariot",
+    "A house in Babylon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Promise"
+  ],
+  "characters": [
+    "Nebuzaradan",
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The commander gave Jeremiah provisions and a present and let him go."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "66-002-013",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 2,
+  "verse_reference": "Revelation 2:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Jesus promise to give the victorious in Pergamum, along with hidden manna?",
+  "options": [
+    "A white stone with a new name written on it",
+    "A golden key",
+    "A shining lamp",
+    "A scroll with seven seals"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Pergamum",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus promised hidden manna and a white stone with a new name written on it, known only to the one who receives it."
+}

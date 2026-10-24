@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Jezreel",
     "label": "Jezreel",
-    "count": 21,
+    "count": 23,
     "paths": [
         "English/09/09-025-015.json",
         "English/09/09-027-003.json",
@@ -25,7 +25,9 @@
         "English/12/12-009-015.json",
         "English/12/12-009-016.json",
         "English/12/12-009-017.json",
-        "English/14/14-022-007.json"
+        "English/14/14-022-007.json",
+        "English/28/28-001-005.json",
+        "English/28/28-001-006.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

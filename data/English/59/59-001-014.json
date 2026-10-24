@@ -1,0 +1,30 @@
+{
+  "id": "59-001-014",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 1,
+  "verse_reference": "James 1:23-24",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "James compares someone who hears the word but does not do it to a person who does what?",
+  "options": [
+    "Looks in a mirror and forgets what he looks like",
+    "Builds a house without a foundation",
+    "Plants seed on rocky ground",
+    "Lights a lamp and hides it"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Such a person is like someone who looks at his face in a mirror, goes away and immediately forgets what he looks like."
+}

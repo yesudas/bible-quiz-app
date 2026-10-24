@@ -1,0 +1,34 @@
+{
+  "id": "32-003-007",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 3,
+  "verse_reference": "Jonah 3:7-8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did the king's decree say about animals in Nineveh?",
+  "options": [
+    "They must be sacrificed",
+    "They must be sent out of the city",
+    "They must be fed extra",
+    "They must not eat or drink and must be covered with sackcloth"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Repentance"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The king ordered that people and animals not eat or drink, and that both be covered with sackcloth."
+}

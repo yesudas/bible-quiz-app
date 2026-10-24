@@ -1,0 +1,33 @@
+{
+  "id": "40-016-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 16,
+  "verse_reference": "Matthew 16:17",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Jesus said who had revealed to Peter that Jesus is the Messiah?",
+  "options": [
+    "His Father in heaven",
+    "The other disciples",
+    "John the Baptist",
+    "The prophets' scrolls"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Faith"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 16:17 says, \"This was not revealed to you by flesh and blood, but by my Father in heaven.\""
+}

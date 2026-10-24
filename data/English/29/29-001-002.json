@@ -1,0 +1,31 @@
+{
+  "id": "29-001-002",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 1,
+  "verse_reference": "Joel 1:4",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What kind of creatures stripped the land in Joel 1?",
+  "options": [
+    "Locusts",
+    "Frogs",
+    "Flies",
+    "Gnats"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Suffering"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joel describes wave after wave of locusts eating everything the earlier swarms had left."
+}

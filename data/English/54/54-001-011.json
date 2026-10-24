@@ -1,0 +1,30 @@
+{
+  "id": "54-001-011",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 1,
+  "verse_reference": "1 Timothy 1:17",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "Paul praised \"the King eternal, immortal, invisible.\" Who was he describing?",
+  "options": [
+    "King David",
+    "Caesar",
+    "An angel",
+    "The only God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul gave honor and glory forever to the King eternal, immortal, invisible, the only God."
+}

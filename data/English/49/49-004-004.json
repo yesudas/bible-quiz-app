@@ -1,0 +1,30 @@
+{
+  "id": "49-004-004",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 4,
+  "verse_reference": "Ephesians 4:4-6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"one Lord, one faith, one ______.\"",
+  "options": [
+    "temple",
+    "law",
+    "baptism",
+    "nation"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Church",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul lists one body, one Spirit, one hope, one Lord, one faith, one baptism, one God and Father of all."
+}

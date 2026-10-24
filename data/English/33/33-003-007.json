@@ -1,0 +1,39 @@
+{
+  "id": "33-003-007",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 3,
+  "verse_reference": "Micah 3:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Micah, how did the rulers build Zion?",
+  "options": [
+    "With gold and silver",
+    "With cedar from Lebanon",
+    "With bloodshed",
+    "With prayer and fasting"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The rulers built Zion with bloodshed and Jerusalem with wickedness."
+}

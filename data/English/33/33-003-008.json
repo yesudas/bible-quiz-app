@@ -1,0 +1,31 @@
+{
+  "id": "33-003-008",
+  "language": "en",
+  "book_no": 33,
+  "book": "Micah",
+  "chapter": 3,
+  "verse_reference": "Micah 3:11",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to Micah 3:11, who taught for a price?",
+  "options": [
+    "The priests",
+    "The judges",
+    "The kings",
+    "The elders"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Money",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Micah says the leaders judged for a bribe, the priests taught for a price and the prophets told fortunes for money."
+}

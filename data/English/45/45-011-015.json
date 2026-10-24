@@ -1,0 +1,31 @@
+{
+  "id": "45-011-015",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 11,
+  "verse_reference": "Romans 11:36",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"For from him and through him and for him are all ______.\"",
+  "options": [
+    "things",
+    "people",
+    "nations",
+    "days"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Creation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul ends the chapter in praise: all things are from God, through God and for God. To Him be the glory forever."
+}

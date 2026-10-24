@@ -1,0 +1,37 @@
+{
+  "id": "42-020-002",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 20,
+  "verse_reference": "Luke 20:3-4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What question did Jesus ask them in return?",
+  "options": [
+    "Whether Moses was a prophet",
+    "Whether the temple was holy",
+    "Whether John's baptism was from heaven or of human origin",
+    "Whether Caesar was king"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus",
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus replied, 'John's baptism—was it from heaven, or of human origin?'"
+}

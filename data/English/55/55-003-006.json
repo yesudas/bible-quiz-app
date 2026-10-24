@@ -1,0 +1,46 @@
+{
+  "id": "55-003-006",
+  "language": "en",
+  "book_no": 55,
+  "book": "2 Timothy",
+  "chapter": 3,
+  "verse_reference": "2 Timothy 3:11",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Which three places did Paul name where he suffered persecutions?",
+  "options": [
+    "Rome, Corinth and Athens",
+    "Antioch, Iconium and Lystra",
+    "Ephesus, Troas and Philippi",
+    "Jerusalem, Joppa and Caesarea"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution",
+    "Suffering"
+  ],
+  "characters": [
+    "Paul",
+    "Timothy"
+  ],
+  "places": [
+    {
+      "name": "Antioch",
+      "type": "city"
+    },
+    {
+      "name": "Iconium",
+      "type": "city"
+    },
+    {
+      "name": "Lystra",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul reminded Timothy of the persecutions he endured in Antioch, Iconium and Lystra, and that the Lord rescued him from all of them."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "40-001-011",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 1,
+  "verse_reference": "Matthew 1:20",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How did the angel of the Lord speak to Joseph?",
+  "options": [
+    "In a dream",
+    "At the temple",
+    "Through a prophet",
+    "In a burning bush"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Angels"
+  ],
+  "characters": [
+    "Joseph"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 1:20 says an angel of the Lord appeared to Joseph in a dream."
+}

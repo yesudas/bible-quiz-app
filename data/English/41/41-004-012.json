@@ -1,0 +1,31 @@
+{
+  "id": "41-004-012",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 4,
+  "verse_reference": "Mark 4:24",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Jesus' words: \"With the measure you use, it will be ____ to you—and even more.\"",
+  "options": [
+    "measured",
+    "returned",
+    "given",
+    "taken"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"Consider carefully what you hear. With the measure you use, it will be measured to you—and even more.\""
+}

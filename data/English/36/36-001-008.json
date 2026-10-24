@@ -1,0 +1,31 @@
+{
+  "id": "36-001-008",
+  "language": "en",
+  "book_no": 36,
+  "book": "Zephaniah",
+  "chapter": 1,
+  "verse_reference": "Zephaniah 1:7",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Be silent before the Sovereign LORD, for the ____ of the LORD is near.\"",
+  "options": [
+    "day",
+    "word",
+    "hand",
+    "house"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zephaniah 1:7 warns that the day of the LORD is near."
+}

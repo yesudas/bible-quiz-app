@@ -1,0 +1,19 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Lake-of-Gennesaret",
+    "label": "Lake of Gennesaret",
+    "count": 9,
+    "paths": [
+        "English/42/42-005-001.json",
+        "English/42/42-005-002.json",
+        "English/42/42-005-003.json",
+        "English/42/42-005-004.json",
+        "English/42/42-005-005.json",
+        "English/42/42-005-006.json",
+        "English/42/42-005-007.json",
+        "English/42/42-005-008.json",
+        "English/42/42-005-009.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

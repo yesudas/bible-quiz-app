@@ -1,0 +1,32 @@
+{
+  "id": "40-007-001",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 7,
+  "verse_reference": "Matthew 7:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete: \"Do not ______, or you too will be judged.\"",
+  "options": [
+    "steal",
+    "judge",
+    "lie",
+    "worry"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 7:1 says, \"Do not judge, or you too will be judged.\""
+}

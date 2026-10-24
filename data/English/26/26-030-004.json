@@ -1,0 +1,38 @@
+{
+  "id": "26-030-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 30,
+  "verse_reference": "Ezekiel 30:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God say He would dry up in Egypt?",
+  "options": [
+    "The Red Sea",
+    "The wells of Goshen",
+    "The rain clouds",
+    "The waters of the Nile"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Nile River",
+      "type": "river"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'I will dry up the waters of the Nile and sell the land to an evil nation.'"
+}

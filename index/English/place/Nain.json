@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Nain",
+    "label": "Nain",
+    "count": 4,
+    "paths": [
+        "English/42/42-007-006.json",
+        "English/42/42-007-007.json",
+        "English/42/42-007-008.json",
+        "English/42/42-007-009.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

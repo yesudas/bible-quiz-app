@@ -1,0 +1,39 @@
+{
+  "id": "24-037-011",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 37,
+  "verse_reference": "Jeremiah 37:21",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was Jeremiah given each day while kept in the courtyard of the guard?",
+  "options": [
+    "A loaf of bread from the street of the bakers",
+    "A cup of wine",
+    "Meat from the king's table",
+    "Nothing at all"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Suffering"
+  ],
+  "characters": [
+    "Jeremiah",
+    "Zedekiah"
+  ],
+  "places": [
+    {
+      "name": "Courtyard of the guard",
+      "type": "prison"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "King Zedekiah ordered Jeremiah placed in the courtyard of the guard and given a loaf of bread from the street of the bakers each day until all the bread in the city was gone."
+}

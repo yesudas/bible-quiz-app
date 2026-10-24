@@ -1,0 +1,38 @@
+{
+  "id": "32-001-003",
+  "language": "en",
+  "book_no": 32,
+  "book": "Jonah",
+  "chapter": 1,
+  "verse_reference": "Jonah 1:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why did God tell Jonah to preach against Nineveh?",
+  "options": [
+    "Its people were building a tower",
+    "Its wickedness had come up before God",
+    "It had attacked Jerusalem",
+    "Its king had killed a prophet"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [
+    "Jonah"
+  ],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said the wickedness of Nineveh had come up before Him."
+}

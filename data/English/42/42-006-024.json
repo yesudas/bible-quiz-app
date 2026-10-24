@@ -1,0 +1,32 @@
+{
+  "id": "42-006-024",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:45",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Jesus' words: 'For the mouth speaks what the ____ is full of.'",
+  "options": [
+    "mind",
+    "stomach",
+    "soul",
+    "heart"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Wisdom",
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said a good man brings good things out of the good stored up in his heart, for the mouth speaks what the heart is full of."
+}

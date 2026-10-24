@@ -1,0 +1,37 @@
+{
+  "id": "26-020-012",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 20,
+  "verse_reference": "Ezekiel 20:46-47",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Against what did God tell Ezekiel to prophesy at the end of Ezekiel 20?",
+  "options": [
+    "The rivers of Babylon",
+    "The cedars of Lebanon",
+    "The vineyards of Egypt",
+    "The forest of the southland"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Negev",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Ezekiel to prophesy against the forest of the southland, saying He would set fire to it."
+}

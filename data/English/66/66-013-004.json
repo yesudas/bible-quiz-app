@@ -1,0 +1,37 @@
+{
+  "id": "66-013-004",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 13,
+  "verse_reference": "Revelation 13:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who gave the beast from the sea its power, its throne and great authority?",
+  "options": [
+    "The dragon",
+    "The kings of the earth",
+    "The false prophets",
+    "The beast from the earth"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Satan",
+    "Prophecy"
+  ],
+  "characters": [
+    "Satan"
+  ],
+  "places": [
+    {
+      "name": "Sea",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The dragon gave the beast his power and his throne and great authority."
+}

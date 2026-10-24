@@ -1,0 +1,31 @@
+{
+  "id": "59-001-013",
+  "language": "en",
+  "book_no": 59,
+  "book": "James",
+  "chapter": 1,
+  "verse_reference": "James 1:22",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Do not merely listen to the word, and so deceive yourselves. ______ what it says.\"",
+  "options": [
+    "Remember",
+    "Believe",
+    "Learn",
+    "Do"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Discipleship",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James teaches that we must not only listen to God's word but do what it says."
+}

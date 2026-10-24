@@ -1,0 +1,31 @@
+{
+  "id": "40-023-003",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 23,
+  "verse_reference": "Matthew 23:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Jesus said the teachers of the law and Pharisees tie up heavy loads and put them on people's shoulders. What do they themselves not do?",
+  "options": [
+    "Read the law",
+    "Go to the synagogue",
+    "Lift a finger to move them",
+    "Pay their taxes"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 23:4 says they tie up heavy, cumbersome loads, but they themselves are not willing to lift a finger to move them."
+}

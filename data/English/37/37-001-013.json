@@ -1,0 +1,33 @@
+{
+  "id": "37-001-013",
+  "language": "en",
+  "book_no": 37,
+  "book": "Haggai",
+  "chapter": 1,
+  "verse_reference": "Haggai 1:1,15",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "On which day of the sixth month did the people begin working on the LORD's house?",
+  "options": [
+    "The first day",
+    "The tenth day",
+    "The twenty-fourth day",
+    "The fifteenth day"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Obedience"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "The LORD's house (temple)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Haggai spoke on the first day of the sixth month, and the work began on the twenty-fourth day of that same month."
+}

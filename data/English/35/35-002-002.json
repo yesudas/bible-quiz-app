@@ -1,0 +1,32 @@
+{
+  "id": "35-002-002",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 2,
+  "verse_reference": "Habakkuk 2:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete God's command: \"Write down the revelation and make it plain on ____ so that a herald may run with it.\"",
+  "options": [
+    "scrolls",
+    "walls",
+    "tablets",
+    "stones"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Habakkuk"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told Habakkuk to write the revelation plainly on tablets so a herald could run with it."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "24-052-010",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 52,
+  "verse_reference": "Jeremiah 52:31",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "In which year of his exile was Jehoiachin released from prison?",
+  "options": [
+    "The thirty-seventh year",
+    "The seventieth year",
+    "The tenth year",
+    "The twentieth year"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [
+    "Jehoiachin"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In the thirty-seventh year of the exile of Jehoiachin king of Judah, he was released from prison."
+}

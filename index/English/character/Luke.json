@@ -1,0 +1,14 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Luke",
+    "label": "Luke",
+    "count": 4,
+    "paths": [
+        "English/42/42-001-001.json",
+        "English/42/42-001-002.json",
+        "English/51/51-004-009.json",
+        "English/55/55-004-008.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

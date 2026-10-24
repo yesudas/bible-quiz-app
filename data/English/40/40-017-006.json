@@ -1,0 +1,41 @@
+{
+  "id": "40-017-006",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 17,
+  "verse_reference": "Matthew 17:5",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the end of what the voice from the cloud said: \"This is my Son, whom I love; with him I am well pleased. ______ to him!\"",
+  "options": [
+    "Bow",
+    "Listen",
+    "Sing",
+    "Pray"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Obedience"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter",
+    "James",
+    "John"
+  ],
+  "places": [
+    {
+      "name": "High mountain",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 17:5 says the voice from the cloud said, \"This is my Son, whom I love; with him I am well pleased. Listen to him!\""
+}

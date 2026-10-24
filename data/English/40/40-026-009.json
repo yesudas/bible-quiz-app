@@ -1,0 +1,36 @@
+{
+  "id": "40-026-009",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:18",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete Jesus' message to the man in the city: \"The Teacher says: My appointed ______ is near.\"",
+  "options": [
+    "day",
+    "place",
+    "hour",
+    "time"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:18 says, \"The Teacher says: My appointed time is near. I am going to celebrate the Passover with my disciples at your house.\""
+}

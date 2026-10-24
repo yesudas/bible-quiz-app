@@ -1,0 +1,39 @@
+{
+  "id": "30-006-001",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 6,
+  "verse_reference": "Amos 6:1",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"Woe to you who are complacent in Zion, and to you who feel secure on Mount ____.\"",
+  "options": [
+    "Carmel",
+    "Samaria",
+    "Sinai",
+    "Hermon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "mountain"
+    },
+    {
+      "name": "Mount Samaria",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 6:1 warns those who were complacent in Zion and felt secure on Mount Samaria."
+}

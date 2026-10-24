@@ -1,0 +1,31 @@
+{
+  "id": "60-004-004",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 4,
+  "verse_reference": "1 Peter 4:8",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"Above all, love each other deeply, because love covers over a multitude of ____.\"",
+  "options": [
+    "sins",
+    "troubles",
+    "fears",
+    "tears"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Forgiveness"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter says love covers over a multitude of sins."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "61-001-009",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 1,
+  "verse_reference": "2 Peter 1:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Make every effort to confirm your calling and ____.",
+  "options": [
+    "election",
+    "faith",
+    "hope",
+    "ministry"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Discipleship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter urges believers to confirm their calling and election, for then they will never stumble."
+}

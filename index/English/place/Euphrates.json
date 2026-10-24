@@ -3,11 +3,17 @@
     "language": "English",
     "place": "Euphrates",
     "label": "Euphrates",
-    "count": 3,
+    "count": 9,
     "paths": [
         "English/05/05-011-007.json",
         "English/06/06-001-006.json",
-        "English/06/06-024-002.json"
+        "English/06/06-024-002.json",
+        "English/24/24-002-007.json",
+        "English/24/24-046-002.json",
+        "English/24/24-051-007.json",
+        "English/24/24-051-008.json",
+        "English/66/66-009-010.json",
+        "English/66/66-016-007.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

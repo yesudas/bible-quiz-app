@@ -1,0 +1,37 @@
+{
+  "id": "24-037-007",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 37,
+  "verse_reference": "Jeremiah 37:13",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Who arrested Jeremiah at the Benjamin Gate?",
+  "options": [
+    "Irijah son of Shelemiah",
+    "Jehudi",
+    "Pashhur son of Immer",
+    "Ishmael son of Nethaniah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Irijah",
+    "Jeremiah"
+  ],
+  "places": [
+    {
+      "name": "Benjamin Gate",
+      "type": "gate"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At the Benjamin Gate, the captain of the guard, Irijah son of Shelemiah, arrested Jeremiah."
+}

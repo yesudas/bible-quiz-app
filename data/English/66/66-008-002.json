@@ -1,0 +1,36 @@
+{
+  "id": "66-008-002",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 8,
+  "verse_reference": "Revelation 8:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What were the seven angels who stood before God given?",
+  "options": [
+    "Seven trumpets",
+    "Seven crowns",
+    "Seven swords",
+    "Seven lamps"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Angels",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John saw the seven angels who stand before God, and seven trumpets were given to them."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "40-017-004",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 17,
+  "verse_reference": "Matthew 17:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Peter offer to put up on the mountain?",
+  "options": [
+    "An altar",
+    "A tent for the crowd",
+    "A stone pillar",
+    "Three shelters"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Peter",
+    "Jesus",
+    "Moses",
+    "Elijah"
+  ],
+  "places": [
+    {
+      "name": "High mountain",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 17:4 says Peter said, \"If you wish, I will put up three shelters—one for you, one for Moses and one for Elijah.\""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "41-005-013",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 5,
+  "verse_reference": "Mark 5:26",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What happened to the woman after she spent all she had on many doctors?",
+  "options": [
+    "She was healed slowly",
+    "She became a doctor herself",
+    "She was given money back",
+    "Instead of getting better she grew worse"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Suffering",
+    "Money"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "She had suffered a great deal under many doctors and spent all she had, yet instead of getting better she grew worse."
+}

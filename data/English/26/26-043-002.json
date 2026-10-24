@@ -1,0 +1,34 @@
+{
+  "id": "26-043-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 43,
+  "verse_reference": "Ezekiel 43:2",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "What was the voice of God like when His glory came to the temple?",
+  "options": [
+    "A gentle whisper",
+    "A trumpet blast",
+    "The roar of rushing waters",
+    "The sound of a harp"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "His voice was like the roar of rushing waters, and the land was radiant with His glory."
+}

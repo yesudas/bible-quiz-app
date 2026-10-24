@@ -1,0 +1,36 @@
+{
+  "id": "44-028-016",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 28,
+  "verse_reference": "Acts 28:22",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What had the Jewish leaders in Rome heard about the sect Paul belonged to?",
+  "options": [
+    "It was growing in Jerusalem only",
+    "People everywhere were talking against it",
+    "It was supported by Caesar",
+    "It was not known at all"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Rome",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They said, 'We know that people everywhere are talking against this sect.'"
+}

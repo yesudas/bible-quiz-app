@@ -1,0 +1,34 @@
+{
+  "id": "42-011-022",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 11,
+  "verse_reference": "Luke 11:42",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus say the Pharisees neglected while giving a tenth of their mint and rue?",
+  "options": [
+    "Fasting and prayer",
+    "Justice and the love of God",
+    "Sacrifices and offerings",
+    "The Sabbath and festivals"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law",
+    "Love",
+    "Money"
+  ],
+  "characters": [
+    "Jesus",
+    "Pharisees"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said they gave a tenth of their mint and rue but neglected justice and the love of God."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "27-009-010",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 9,
+  "verse_reference": "Daniel 9:21",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "About what time did Gabriel come to Daniel while he was praying?",
+  "options": [
+    "At midnight",
+    "At sunrise",
+    "At noon",
+    "About the time of the evening sacrifice"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Angels",
+    "Prayer",
+    "Worship"
+  ],
+  "characters": [
+    "Daniel",
+    "Gabriel"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "While Daniel was still praying, Gabriel came to him in swift flight about the time of the evening sacrifice."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "34-002-002",
+  "language": "en",
+  "book_no": 34,
+  "book": "Nahum",
+  "chapter": 2,
+  "verse_reference": "Nahum 2:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What color were the shields of the attacking soldiers?",
+  "options": [
+    "Black",
+    "Gold",
+    "Red",
+    "White"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Nineveh",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Nahum 2:3 says the shields of the soldiers are red and the warriors are clothed in scarlet."
+}

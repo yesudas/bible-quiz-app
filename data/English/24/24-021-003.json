@@ -1,0 +1,38 @@
+{
+  "id": "24-021-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 21,
+  "verse_reference": "Jeremiah 21:2",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which king of Babylon was attacking Judah when Zedekiah asked Jeremiah to inquire of the LORD?",
+  "options": [
+    "Belshazzar",
+    "Nebuchadnezzar",
+    "Sennacherib",
+    "Cyrus"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Leadership"
+  ],
+  "characters": [
+    "Nebuchadnezzar",
+    "Zedekiah"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They asked Jeremiah to inquire of the LORD because Nebuchadnezzar king of Babylon was attacking them."
+}

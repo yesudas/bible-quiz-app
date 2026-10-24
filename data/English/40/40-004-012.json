@@ -1,0 +1,39 @@
+{
+  "id": "40-004-012",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 4,
+  "verse_reference": "Matthew 4:16",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the prophecy fulfilled in Galilee: \"The people living in darkness have seen a great ______.\"",
+  "options": [
+    "king",
+    "light",
+    "star",
+    "sign"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Hope",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Isaiah"
+  ],
+  "places": [
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 4:14-16 says this fulfilled Isaiah's words that people living in darkness have seen a great light."
+}

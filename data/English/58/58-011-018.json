@@ -1,0 +1,38 @@
+{
+  "id": "58-011-018",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 11,
+  "verse_reference": "Hebrews 11:24-25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Moses choose instead of being known as the son of Pharaoh's daughter?",
+  "options": [
+    "To become a priest in Egypt",
+    "To live alone in the desert",
+    "To be mistreated along with the people of God",
+    "To become king of Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith",
+    "Suffering",
+    "Sin"
+  ],
+  "characters": [
+    "Moses"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 11:24-25 says Moses refused to be known as the son of Pharaoh's daughter and chose to be mistreated along with the people of God rather than enjoy the fleeting pleasures of sin."
+}

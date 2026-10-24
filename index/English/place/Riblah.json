@@ -3,9 +3,12 @@
     "language": "English",
     "place": "Riblah",
     "label": "Riblah",
-    "count": 1,
+    "count": 4,
     "paths": [
-        "English/12/12-025-004.json"
+        "English/12/12-025-004.json",
+        "English/24/24-039-006.json",
+        "English/24/24-039-007.json",
+        "English/24/24-052-007.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

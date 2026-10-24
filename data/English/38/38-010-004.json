@@ -1,0 +1,35 @@
+{
+  "id": "38-010-004",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 10,
+  "verse_reference": "Zechariah 10:3",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "God said He would make the house of Judah like what?",
+  "options": [
+    "A proud horse in battle",
+    "A lamb at the altar",
+    "A tree by the river",
+    "A lion in the forest"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would care for His flock, the house of Judah, and make them like a proud horse in battle."
+}

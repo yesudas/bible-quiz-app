@@ -1,0 +1,33 @@
+{
+  "id": "61-001-011",
+  "language": "en",
+  "book_no": 61,
+  "book": "2 Peter",
+  "chapter": 1,
+  "verse_reference": "2 Peter 1:16",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Peter said they did not follow cleverly devised stories. What were they instead?",
+  "options": [
+    "Teachers of the law",
+    "Prophets of old",
+    "Eyewitnesses of his majesty",
+    "Students of Greek wisdom"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Peter",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter says they were eyewitnesses of Jesus' majesty, not followers of made-up stories."
+}

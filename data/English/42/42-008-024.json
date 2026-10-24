@@ -1,0 +1,32 @@
+{
+  "id": "42-008-024",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:48",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words to the woman: 'Daughter, your ____ has healed you. Go in peace.'",
+  "options": [
+    "prayer",
+    "touch",
+    "courage",
+    "faith"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said to her, 'Daughter, your faith has healed you. Go in peace.'"
+}

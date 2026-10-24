@@ -1,0 +1,32 @@
+{
+  "id": "24-030-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 30,
+  "verse_reference": "Jeremiah 30:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did the LORD tell Jeremiah to do with all the words He had spoken to him?",
+  "options": [
+    "Sing them in the temple",
+    "Write them in a book",
+    "Tell them only to the king",
+    "Keep them secret"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said, \"Write in a book all the words I have spoken to you.\""
+}

@@ -1,0 +1,22 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Sychar",
+    "label": "Sychar",
+    "count": 12,
+    "paths": [
+        "English/43/43-004-002.json",
+        "English/43/43-004-003.json",
+        "English/43/43-004-004.json",
+        "English/43/43-004-005.json",
+        "English/43/43-004-006.json",
+        "English/43/43-004-007.json",
+        "English/43/43-004-009.json",
+        "English/43/43-004-010.json",
+        "English/43/43-004-011.json",
+        "English/43/43-004-012.json",
+        "English/43/43-004-013.json",
+        "English/43/43-004-014.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

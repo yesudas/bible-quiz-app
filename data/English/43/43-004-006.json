@@ -1,0 +1,47 @@
+{
+  "id": "43-004-006",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 4,
+  "verse_reference": "John 4:14",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Jesus say the water he gives will become in a person?",
+  "options": [
+    "A pool of healing",
+    "A river of Jordan",
+    "A spring of water welling up to eternal life",
+    "A cup that never empties"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Samaritan woman"
+  ],
+  "places": [
+    {
+      "name": "Sychar",
+      "type": "town"
+    },
+    {
+      "name": "Samaria",
+      "type": "region"
+    },
+    {
+      "name": "Jacob's well",
+      "type": "well"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 4:14, Jesus said the water he gives will become in them a spring of water welling up to eternal life."
+}

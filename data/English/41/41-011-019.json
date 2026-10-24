@@ -1,0 +1,37 @@
+{
+  "id": "41-011-019",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 11,
+  "verse_reference": "Mark 11:27-28",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the chief priests, teachers of the law and elders ask Jesus in the temple courts?",
+  "options": [
+    "Where he was born",
+    "Why he rode a colt",
+    "By what authority he was doing these things",
+    "Who his disciples were"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They asked, \"By what authority are you doing these things? And who gave you authority to do this?\""
+}

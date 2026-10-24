@@ -1,0 +1,34 @@
+{
+  "id": "40-016-018",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 16,
+  "verse_reference": "Matthew 16:23",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' reply to Peter: \"Get behind me, ______!\"",
+  "options": [
+    "Satan",
+    "Simon",
+    "Peter",
+    "tempter"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Satan",
+    "Temptation"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 16:23 says Jesus turned and said to Peter, \"Get behind me, Satan! You are a stumbling block to me.\""
+}

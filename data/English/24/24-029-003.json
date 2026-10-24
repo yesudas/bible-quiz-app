@@ -1,0 +1,36 @@
+{
+  "id": "24-029-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 29,
+  "verse_reference": "Jeremiah 29:5-6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God tell the exiles to do in Babylon?",
+  "options": [
+    "Escape as soon as possible",
+    "Refuse to work",
+    "Fight the Babylonians",
+    "Build houses, plant gardens and have families"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told them to build houses and settle down, plant gardens, marry and have sons and daughters, and increase in number there."
+}

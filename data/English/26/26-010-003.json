@@ -1,0 +1,34 @@
+{
+  "id": "26-010-003",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 10,
+  "verse_reference": "Ezekiel 10:3-4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What filled the inner court and the temple as the glory of the LORD moved?",
+  "options": [
+    "Smoke",
+    "Fire",
+    "A cloud",
+    "Light rain"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple of the LORD",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A cloud filled the inner court, and the temple was filled with the cloud while the court was full of the radiance of the glory of the LORD."
+}

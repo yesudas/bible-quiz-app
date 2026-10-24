@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Manasseh",
     "label": "Manasseh",
-    "count": 37,
+    "count": 38,
     "paths": [
         "English/01/01-041-013.json",
         "English/01/01-048-001.json",
@@ -41,7 +41,8 @@
         "English/14/14-033-011.json",
         "English/14/14-033-012.json",
         "English/14/14-033-013.json",
-        "English/14/14-033-014.json"
+        "English/14/14-033-014.json",
+        "English/24/24-015-004.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

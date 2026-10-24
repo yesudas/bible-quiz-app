@@ -1,0 +1,32 @@
+{
+  "id": "45-001-001",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 1,
+  "verse_reference": "Romans 1:1",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who wrote the letter to the Romans?",
+  "options": [
+    "Peter",
+    "Paul",
+    "John",
+    "James"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Romans 1:1 opens with Paul introducing himself as the writer of the letter."
+}

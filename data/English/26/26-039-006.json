@@ -1,0 +1,40 @@
+{
+  "id": "26-039-006",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 39,
+  "verse_reference": "Ezekiel 39:11",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "What would the valley where Gog was buried be called?",
+  "options": [
+    "The Valley of Jezreel",
+    "The Valley of Elah",
+    "The Valley of Hamon Gog",
+    "The Valley of Achor"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [
+    "Gog"
+  ],
+  "places": [
+    {
+      "name": "Valley of Hamon Gog",
+      "type": "valley"
+    },
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said Gog and all his hordes would be buried there, so it would be called the Valley of Hamon Gog."
+}

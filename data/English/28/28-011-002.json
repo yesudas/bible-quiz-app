@@ -1,0 +1,35 @@
+{
+  "id": "28-011-002",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 11,
+  "verse_reference": "Hosea 11:2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Israel do the more they were called by God?",
+  "options": [
+    "They went further away",
+    "They came closer",
+    "They built a temple",
+    "They fasted and prayed"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Idolatry"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "kingdom"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The more they were called, the more they went away; they sacrificed to the Baals and burned incense to images."
+}

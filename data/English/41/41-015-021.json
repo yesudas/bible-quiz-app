@@ -1,0 +1,38 @@
+{
+  "id": "41-015-021",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 15,
+  "verse_reference": "Mark 15:34",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What do the words Jesus cried out, \"Eloi, Eloi, lema sabachthani?\" mean?",
+  "options": [
+    "My God, my God, why have you forsaken me?",
+    "Father, forgive them",
+    "It is finished",
+    "Into your hands I commit my spirit"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Suffering",
+    "Prayer"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Golgotha",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "At three in the afternoon Jesus cried out, \"Eloi, Eloi, lema sabachthani?\" (which means \"My God, my God, why have you forsaken me?\")."
+}

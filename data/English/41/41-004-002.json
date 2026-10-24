@@ -1,0 +1,37 @@
+{
+  "id": "41-004-002",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 4,
+  "verse_reference": "Mark 4:3-4",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "In the parable of the sower, what ate the seed that fell along the path?",
+  "options": [
+    "Goats",
+    "Locusts",
+    "Mice",
+    "Birds"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Path",
+      "type": "road"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As the farmer scattered seed, some fell along the path, and the birds came and ate it up."
+}

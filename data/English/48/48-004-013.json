@@ -1,0 +1,41 @@
+{
+  "id": "48-004-013",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 4,
+  "verse_reference": "Galatians 4:24-25",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "Hagar stands for which mountain in Arabia?",
+  "options": [
+    "Mount Zion",
+    "Mount Carmel",
+    "Mount of Olives",
+    "Mount Sinai"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Covenant",
+    "Law"
+  ],
+  "characters": [
+    "Hagar"
+  ],
+  "places": [
+    {
+      "name": "Mount Sinai",
+      "type": "mountain"
+    },
+    {
+      "name": "Arabia",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said Hagar stands for Mount Sinai in Arabia and corresponds to the present city of Jerusalem."
+}

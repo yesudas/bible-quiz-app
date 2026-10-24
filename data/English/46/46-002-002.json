@@ -1,0 +1,39 @@
+{
+  "id": "46-002-002",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 2,
+  "verse_reference": "1 Corinthians 2:2",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"For I resolved to know nothing while I was with you except Jesus Christ and him ______.\"",
+  "options": [
+    "risen",
+    "exalted",
+    "crucified",
+    "glorified"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul decided to focus only on Jesus Christ and his death on the cross."
+}

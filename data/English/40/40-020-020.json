@@ -1,0 +1,38 @@
+{
+  "id": "40-020-020",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 20,
+  "verse_reference": "Matthew 20:34",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "What did the two men do immediately after they received their sight?",
+  "options": [
+    "They went to the temple",
+    "They returned home",
+    "They followed Jesus",
+    "They told the priests"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Roadside near Jericho",
+      "type": "road"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 20:34 says Jesus had compassion on them and touched their eyes. Immediately they received their sight and followed him."
+}

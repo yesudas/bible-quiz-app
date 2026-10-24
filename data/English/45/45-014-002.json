@@ -1,0 +1,29 @@
+{
+  "id": "45-014-002",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 14,
+  "verse_reference": "Romans 14:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Romans 14:2, what does the person whose faith is weak eat?",
+  "options": [
+    "Only vegetables",
+    "Only bread",
+    "Only fish",
+    "Only fruit"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says one person's faith allows them to eat anything, but another, whose faith is weak, eats only vegetables."
+}

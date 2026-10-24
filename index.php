@@ -339,18 +339,12 @@ renderQuizHeader($pageTitle, $metaDescription, $version, [
                     <span>Sub Header Details 3</span>
                     <input type="text" id="pdfSub3" maxlength="120">
                 </label>
-                <div class="modal-field modal-field-plain">
-                    <span>PDF size</span>
-                    <div class="time-unit-row">
-                        <label class="time-unit-choice">
-                            <input type="radio" name="pdf_size" value="A5" checked> A5
-                        </label>
-                        <label class="time-unit-choice">
-                            <input type="radio" name="pdf_size" value="A4"> A4
-                        </label>
-                    </div>
-                </div>
+                <p class="field-hint">Available for a single book, chapter, topic, character, or place — or Whole Bible/Old Testament/New Testament/Kids/Teens/Adults/Random — one at a time.</p>
                 <p id="pdfFormError" class="modal-error" role="alert" hidden>Could not prepare the PDFs. Please try again.</p>
+                <div class="pdf-download-ready" id="pdfDownloadLinksWrap" hidden>
+                    <a href="#" id="pdfDownloadLink1" class="btn btn-primary btn-sm"><i class="bi bi-download" aria-hidden="true"></i> Tap to download Questions PDF</a>
+                    <a href="#" id="pdfDownloadLink2" class="btn btn-primary btn-sm"><i class="bi bi-download" aria-hidden="true"></i> Tap to download Answer Key PDF</a>
+                </div>
                 <div class="modal-actions">
                     <button type="submit" class="btn btn-primary" id="pdfDownloadBtn">Download</button>
                     <button type="button" class="btn btn-link" id="pdfCancelBtn">Cancel</button>

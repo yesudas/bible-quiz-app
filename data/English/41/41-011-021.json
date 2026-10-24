@@ -1,0 +1,38 @@
+{
+  "id": "41-011-021",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 11,
+  "verse_reference": "Mark 11:31-33",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the leaders answer, \"We don't know,\" to Jesus' question about John?",
+  "options": [
+    "They had never heard of John",
+    "They were not allowed to speak",
+    "They agreed with Jesus",
+    "They feared the people, who held that John really was a prophet"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership",
+    "Wisdom"
+  ],
+  "characters": [
+    "Jesus",
+    "John the Baptist"
+  ],
+  "places": [
+    {
+      "name": "Temple courts",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "If they said \"from heaven,\" Jesus would ask why they didn't believe him; but they feared the people, for everyone held that John really was a prophet. So they said, \"We don't know.\""
+}

@@ -1,0 +1,39 @@
+{
+  "id": "52-001-004",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 1,
+  "verse_reference": "1 Thessalonians 1:6",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the Thessalonians welcome the message even though they were going through severe suffering?",
+  "options": [
+    "With the joy given by the Holy Spirit",
+    "With fear and many doubts",
+    "By arguing with Paul",
+    "By keeping it secret"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Holy Spirit",
+    "Suffering",
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Thessalonica",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Even in severe suffering, they welcomed the message with the joy given by the Holy Spirit, imitating Paul and the Lord."
+}

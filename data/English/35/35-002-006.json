@@ -1,0 +1,35 @@
+{
+  "id": "35-002-006",
+  "language": "en",
+  "book_no": 35,
+  "book": "Habakkuk",
+  "chapter": 2,
+  "verse_reference": "Habakkuk 2:6-19",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "How many times does God announce \"Woe\" against the wicked in Habakkuk 2?",
+  "options": [
+    "Three",
+    "Five",
+    "Seven",
+    "Ten"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "empire"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Habakkuk 2 contains five woes against the wicked, beginning in verse 6 and ending in verse 19."
+}

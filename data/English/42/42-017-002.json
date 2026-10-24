@@ -1,0 +1,33 @@
+{
+  "id": "42-017-002",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 17,
+  "verse_reference": "Luke 17:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did Jesus say to do if your brother or sister sins and then repents?",
+  "options": [
+    "Report them to the elders",
+    "Avoid them",
+    "Forgive them",
+    "Make them pay"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Forgiveness",
+    "Repentance"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'If your brother or sister sins against you, rebuke them; and if they repent, forgive them.'"
+}

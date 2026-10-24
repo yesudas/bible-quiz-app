@@ -1,0 +1,32 @@
+{
+  "id": "42-023-007",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 23,
+  "verse_reference": "Luke 23:12",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two rulers became friends on the day Jesus was tried?",
+  "options": [
+    "Caiaphas and Annas",
+    "Caesar and Pilate",
+    "Herod and Caiaphas",
+    "Herod and Pilate"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Herod",
+    "Pontius Pilate"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "That day Herod and Pilate became friends; before this they had been enemies."
+}

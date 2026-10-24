@@ -1,0 +1,32 @@
+{
+  "id": "42-010-011",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 10,
+  "verse_reference": "Luke 10:25",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the expert in the law ask Jesus to test him?",
+  "options": [
+    "Is it right to pay taxes?",
+    "Which is the greatest prophet?",
+    "What must I do to inherit eternal life?",
+    "When will the kingdom come?"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Salvation",
+    "Law"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "An expert in the law stood up to test Jesus and asked, 'Teacher, what must I do to inherit eternal life?'"
+}

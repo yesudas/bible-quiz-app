@@ -1,0 +1,32 @@
+{
+  "id": "42-002-007",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 2,
+  "verse_reference": "Luke 2:10",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the angel's words: 'I bring you good news that will cause great ____ for all the people.'",
+  "options": [
+    "peace",
+    "joy",
+    "hope",
+    "wonder"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Joy",
+    "Salvation",
+    "Angels"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel told the shepherds not to be afraid, because he brought good news of great joy for all the people."
+}

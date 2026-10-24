@@ -1,0 +1,33 @@
+{
+  "id": "40-016-013",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 16,
+  "verse_reference": "Matthew 16:18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Jesus said what will not overcome his church?",
+  "options": [
+    "The armies of Rome",
+    "The gates of Hades",
+    "The teachers of the law",
+    "The storms of the sea"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 16:18 says the gates of Hades will not overcome it."
+}

@@ -3,9 +3,16 @@
     "language": "English",
     "place": "Anathoth",
     "label": "Anathoth",
-    "count": 1,
+    "count": 8,
     "paths": [
-        "English/11/11-002-011.json"
+        "English/11/11-002-011.json",
+        "English/24/24-001-001.json",
+        "English/24/24-001-002.json",
+        "English/24/24-011-009.json",
+        "English/24/24-011-010.json",
+        "English/24/24-032-003.json",
+        "English/24/24-032-004.json",
+        "English/24/24-032-005.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

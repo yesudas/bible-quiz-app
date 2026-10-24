@@ -1,0 +1,38 @@
+{
+  "id": "44-012-019",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 12,
+  "verse_reference": "Acts 12:25",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Whom did Barnabas and Saul take with them when they returned from Jerusalem?",
+  "options": [
+    "Silas",
+    "Timothy",
+    "John, also called Mark",
+    "Luke"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Mission"
+  ],
+  "characters": [
+    "Barnabas",
+    "Saul",
+    "John Mark"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Barnabas and Saul had finished their mission, they returned, taking with them John, also called Mark."
+}

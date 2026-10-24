@@ -1,0 +1,41 @@
+{
+  "id": "44-016-007",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 16,
+  "verse_reference": "Acts 16:14",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Which woman, a dealer in purple cloth, listened to Paul by the river?",
+  "options": [
+    "Dorcas",
+    "Priscilla",
+    "Lydia",
+    "Rhoda"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Lydia"
+  ],
+  "places": [
+    {
+      "name": "Philippi",
+      "type": "city"
+    },
+    {
+      "name": "Thyatira",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Lydia, a dealer in purple cloth from the city of Thyatira, was a worshiper of God."
+}

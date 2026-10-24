@@ -1,0 +1,37 @@
+{
+  "id": "58-006-013",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 6,
+  "verse_reference": "Hebrews 6:19-20",
+  "question_type": "WHERE",
+  "difficulty": "Difficult",
+  "question": "According to Hebrews 6:19-20, where did Jesus enter on our behalf as a forerunner?",
+  "options": [
+    "The inner sanctuary behind the curtain",
+    "The court of the Gentiles",
+    "The city gate of Jerusalem",
+    "The wilderness of Sinai"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Inner sanctuary",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 6:19-20 says our hope enters the inner sanctuary behind the curtain, where our forerunner, Jesus, has entered on our behalf."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "38-001-008",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 1,
+  "verse_reference": "Zechariah 1:12",
+  "question_type": "DIRECT",
+  "difficulty": "Difficult",
+  "question": "For how many years did the angel say God had been angry with Jerusalem and the towns of Judah?",
+  "options": [
+    "Forty",
+    "Fifty",
+    "One hundred",
+    "Seventy"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Angels"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Judah",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The angel asked how long God would withhold mercy, since He had been angry with them for seventy years."
+}

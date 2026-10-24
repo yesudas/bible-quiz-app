@@ -1,0 +1,34 @@
+{
+  "id": "26-010-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 10,
+  "verse_reference": "Ezekiel 10:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God tell the man clothed in linen to take from among the cherubim and scatter over the city?",
+  "options": [
+    "Burning coals",
+    "Ashes",
+    "Water",
+    "Salt"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God told the man in linen to go among the wheels, fill his hands with burning coals and scatter them over the city."
+}

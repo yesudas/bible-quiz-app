@@ -1,0 +1,36 @@
+{
+  "id": "30-009-006",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 9,
+  "verse_reference": "Amos 9:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Though God would destroy the sinful kingdom, what promise did He give?",
+  "options": [
+    "He would not totally destroy the descendants of Jacob",
+    "He would make Israel rule all nations",
+    "He would never punish them",
+    "He would rebuild Bethel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Promise",
+    "Judgment",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 9:8 says God would destroy the sinful kingdom, yet He would not totally destroy the descendants of Jacob."
+}

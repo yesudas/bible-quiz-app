@@ -1,0 +1,32 @@
+{
+  "id": "42-021-015",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 21,
+  "verse_reference": "Luke 21:28",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: 'Stand up and lift up your heads, because your ____ is drawing near.'",
+  "options": [
+    "king",
+    "judgment",
+    "reward",
+    "redemption"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Hope",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'When these things begin to take place, stand up and lift up your heads, because your redemption is drawing near.'"
+}

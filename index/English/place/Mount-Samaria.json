@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Mount-Samaria",
+    "label": "Mount Samaria",
+    "count": 3,
+    "paths": [
+        "English/30/30-004-001.json",
+        "English/30/30-004-002.json",
+        "English/30/30-006-001.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "42-009-020",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 9,
+  "verse_reference": "Luke 9:46-48",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When the disciples argued about who would be greatest, what did Jesus teach?",
+  "options": [
+    "Whoever is least among you all is the greatest",
+    "The oldest is the greatest",
+    "The one who prays most is the greatest",
+    "The first one chosen is the greatest"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Humility",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus took a little child and said, 'It is the one who is least among you all who is the greatest.'"
+}

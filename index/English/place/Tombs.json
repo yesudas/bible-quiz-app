@@ -1,0 +1,16 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Tombs",
+    "label": "Tombs",
+    "count": 6,
+    "paths": [
+        "English/40/40-008-019.json",
+        "English/40/40-023-017.json",
+        "English/41/41-005-001.json",
+        "English/41/41-005-002.json",
+        "English/42/42-008-015.json",
+        "English/42/42-008-016.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

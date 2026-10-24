@@ -1,0 +1,33 @@
+{
+  "id": "54-006-002",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 6,
+  "verse_reference": "1 Timothy 6:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"But godliness with ____ is great gain.\"",
+  "options": [
+    "wealth",
+    "contentment",
+    "wisdom",
+    "strength"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Money",
+    "Wisdom"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul taught that godliness with contentment is great gain."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "40-027-029",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 27,
+  "verse_reference": "Matthew 27:60",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Joseph place Jesus' body?",
+  "options": [
+    "In his own new tomb cut out of the rock",
+    "In a family grave in Galilee",
+    "In the potter's field",
+    "In a cave near Bethlehem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Joseph of Arimathea"
+  ],
+  "places": [
+    {
+      "name": "Joseph's tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 27:60 says he placed it in his own new tomb that he had cut out of the rock. He rolled a big stone in front of the entrance to the tomb."
+}

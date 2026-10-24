@@ -1,0 +1,34 @@
+{
+  "id": "24-036-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 36,
+  "verse_reference": "Jeremiah 36:4",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Who wrote down the words as Jeremiah dictated them?",
+  "options": [
+    "Baruch son of Neriah",
+    "Gemariah son of Shaphan",
+    "Ahikam son of Shaphan",
+    "Seraiah son of Neriah"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Baruch",
+    "Neriah",
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jeremiah called Baruch son of Neriah, and while Jeremiah dictated all the words the LORD had spoken, Baruch wrote them on the scroll."
+}

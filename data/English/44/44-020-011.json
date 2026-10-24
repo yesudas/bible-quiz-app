@@ -1,0 +1,37 @@
+{
+  "id": "44-020-011",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 20,
+  "verse_reference": "Acts 20:21",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "What two things did Paul declare to both Jews and Greeks?",
+  "options": [
+    "They must turn to God in repentance and have faith in our Lord Jesus",
+    "They must keep the law and offer sacrifices",
+    "They must give money and fast",
+    "They must move to Jerusalem and be circumcised"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Repentance",
+    "Faith"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Miletus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul declared that they must turn to God in repentance and have faith in the Lord Jesus."
+}

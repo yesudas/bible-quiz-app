@@ -1,0 +1,32 @@
+{
+  "id": "41-006-011",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 6,
+  "verse_reference": "Mark 6:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did Herod feel about John the Baptist?",
+  "options": [
+    "He feared John, knowing him to be a righteous and holy man",
+    "He laughed at John",
+    "He did not know who John was",
+    "He wanted John to be king"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Herod Antipas",
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Herod feared John and protected him, knowing him to be a righteous and holy man, and he liked to listen to him."
+}

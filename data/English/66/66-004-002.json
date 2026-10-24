@@ -1,0 +1,37 @@
+{
+  "id": "66-004-002",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 4,
+  "verse_reference": "Revelation 4:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was around the throne John saw in heaven?",
+  "options": [
+    "A rainbow shining like an emerald",
+    "A wall of fire",
+    "A river of gold",
+    "A cloud of smoke"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The one on the throne had the appearance of jasper and ruby, and a rainbow that shone like an emerald encircled the throne."
+}

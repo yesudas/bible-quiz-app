@@ -1,0 +1,43 @@
+{
+  "id": "24-037-004",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 37,
+  "verse_reference": "Jeremiah 37:7-8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God say would happen to Pharaoh's army and the Babylonians?",
+  "options": [
+    "Pharaoh's army would go back to Egypt, and the Babylonians would return and burn the city",
+    "Pharaoh would defeat Babylon",
+    "Both armies would leave forever",
+    "Pharaoh would rule Jerusalem"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    },
+    {
+      "name": "Babylon",
+      "type": "country"
+    },
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said Pharaoh's army would go back to Egypt, and the Babylonians would return, attack the city, capture it and burn it down."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "30-006-006",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 6,
+  "verse_reference": "Amos 6:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did God say would happen first to the people who lived in luxury?",
+  "options": [
+    "They would become poor slaves",
+    "They would be the first to go into exile",
+    "They would get sick",
+    "Their wells would dry up"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos 6:7 says they would be among the first to go into exile, and their feasting would end."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "40-028-004",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 28,
+  "verse_reference": "Matthew 28:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did the angel's clothes look?",
+  "options": [
+    "Red as fire",
+    "Gold like the sun",
+    "White as snow",
+    "Blue like the sky"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Angels"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jesus' tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 28:3 says his appearance was like lightning, and his clothes were white as snow."
+}

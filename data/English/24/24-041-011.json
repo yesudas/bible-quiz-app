@@ -1,0 +1,46 @@
+{
+  "id": "24-041-011",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 41,
+  "verse_reference": "Jeremiah 41:17-18",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Johanan and the people stop near Bethlehem on their way to Egypt?",
+  "options": [
+    "To worship at the temple",
+    "To bury Gedaliah",
+    "To meet Nebuchadnezzar",
+    "They were afraid of the Babylonians because Ishmael had killed the governor"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Suffering"
+  ],
+  "characters": [
+    "Johanan",
+    "Gedaliah"
+  ],
+  "places": [
+    {
+      "name": "Geruth Kimham",
+      "type": "place"
+    },
+    {
+      "name": "Bethlehem",
+      "type": "town"
+    },
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They stopped at Geruth Kimham near Bethlehem on their way to Egypt to escape the Babylonians, because Ishmael had killed Gedaliah, whom the king of Babylon had appointed governor."
+}

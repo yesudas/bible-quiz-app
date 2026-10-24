@@ -1,0 +1,30 @@
+{
+  "id": "45-013-007",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 13,
+  "verse_reference": "Romans 13:10",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Romans 13:10, love is the fulfillment of what?",
+  "options": [
+    "The law",
+    "The prophets' dreams",
+    "The kingdom of Rome",
+    "The temple rules"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Law"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says love does no harm to a neighbor; therefore love is the fulfillment of the law."
+}

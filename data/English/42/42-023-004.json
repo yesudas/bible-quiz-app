@@ -1,0 +1,38 @@
+{
+  "id": "42-023-004",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 23,
+  "verse_reference": "Luke 23:6-7",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did Pilate send Jesus to Herod?",
+  "options": [
+    "Because Jesus was a Galilean under Herod's jurisdiction",
+    "Because Herod was the high priest",
+    "Because Jesus asked to see Herod",
+    "Because the crowd demanded it"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership"
+  ],
+  "characters": [
+    "Pontius Pilate",
+    "Herod",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When Pilate learned that Jesus was under Herod's jurisdiction as a Galilean, he sent him to Herod, who was also in Jerusalem."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "26-045-002",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 45,
+  "verse_reference": "Ezekiel 45:8",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God say His princes would no longer do once they had their own land?",
+  "options": [
+    "Oppress His people",
+    "Go to war",
+    "Build palaces",
+    "Pay taxes"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Leadership",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Land of Israel",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'My princes will no longer oppress my people but will allow the people of Israel to possess the land according to their tribes.'"
+}

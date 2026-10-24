@@ -1,0 +1,38 @@
+{
+  "id": "41-015-025",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 15,
+  "verse_reference": "Mark 15:40-41",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which of these women was watching the crucifixion from a distance?",
+  "options": [
+    "Martha",
+    "Mary Magdalene",
+    "Lydia",
+    "Elizabeth"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Mary Magdalene",
+    "Salome",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Golgotha",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Some women were watching from a distance, among them Mary Magdalene, Mary the mother of James the younger and of Joseph, and Salome."
+}

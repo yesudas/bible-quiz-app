@@ -1,0 +1,35 @@
+{
+  "id": "24-048-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 48,
+  "verse_reference": "Jeremiah 48:47",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What hopeful promise did God give Moab at the end of chapter 48?",
+  "options": [
+    "Moab would rule over Israel",
+    "Moab would never be attacked again",
+    "He would restore the fortunes of Moab in days to come",
+    "Moab would become part of Egypt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Hope",
+    "Promise"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Moab",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "\"Yet I will restore the fortunes of Moab in days to come,\" declares the LORD."
+}

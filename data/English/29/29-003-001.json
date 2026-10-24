@@ -1,0 +1,36 @@
+{
+  "id": "29-003-001",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 3,
+  "verse_reference": "Joel 3:2",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did God say He would gather all nations for judgment?",
+  "options": [
+    "Valley of Achor",
+    "Valley of Jehoshaphat",
+    "Valley of Elah",
+    "Valley of Hinnom"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Valley of Jehoshaphat",
+      "type": "valley"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He would gather all nations and bring them down to the Valley of Jehoshaphat to judge them for how they treated His people."
+}

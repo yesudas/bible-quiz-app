@@ -1,0 +1,40 @@
+{
+  "id": "42-005-007",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 5,
+  "verse_reference": "Luke 5:10",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which two sons of Zebedee were Simon's partners?",
+  "options": [
+    "Andrew and Philip",
+    "Matthew and Thomas",
+    "James and John",
+    "Peter and Andrew"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "James",
+    "John",
+    "Zebedee",
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Lake of Gennesaret",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "James and John, the sons of Zebedee, were Simon's partners and were also amazed at the catch."
+}

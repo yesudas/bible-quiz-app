@@ -1,0 +1,38 @@
+{
+  "id": "40-004-013",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 4,
+  "verse_reference": "Matthew 4:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What was the first message Jesus began to preach?",
+  "options": [
+    "Love your enemies",
+    "Repent, for the kingdom of heaven has come near",
+    "Follow me",
+    "Blessed are the poor in spirit"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Repentance",
+    "Kingdom of God"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Galilee",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 4:17 says from that time Jesus began to preach, \"Repent, for the kingdom of heaven has come near.\""
+}

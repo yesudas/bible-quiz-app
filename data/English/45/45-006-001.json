@@ -1,0 +1,31 @@
+{
+  "id": "45-006-001",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 6,
+  "verse_reference": "Romans 6:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How does Paul answer the question, \"Shall we go on sinning so that grace may increase?\"",
+  "options": [
+    "By no means!",
+    "Yes, sin as much as you want",
+    "Only on the Sabbath",
+    "Only if you are a Gentile"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin",
+    "Salvation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul answers firmly, \"By no means! We are those who have died to sin; how can we live in it any longer?\""
+}

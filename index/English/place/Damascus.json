@@ -3,7 +3,7 @@
     "language": "English",
     "place": "Damascus",
     "label": "Damascus",
-    "count": 17,
+    "count": 41,
     "paths": [
         "English/10/10-008-005.json",
         "English/11/11-011-010.json",
@@ -21,7 +21,31 @@
         "English/14/14-028-012.json",
         "English/22/22-007-003.json",
         "English/23/23-008-003.json",
-        "English/23/23-017-001.json"
+        "English/23/23-017-001.json",
+        "English/24/24-049-007.json",
+        "English/30/30-001-009.json",
+        "English/30/30-001-011.json",
+        "English/30/30-005-016.json",
+        "English/44/44-009-001.json",
+        "English/44/44-009-002.json",
+        "English/44/44-009-005.json",
+        "English/44/44-009-006.json",
+        "English/44/44-009-007.json",
+        "English/44/44-009-011.json",
+        "English/44/44-009-012.json",
+        "English/44/44-009-013.json",
+        "English/44/44-022-004.json",
+        "English/44/44-022-006.json",
+        "English/44/44-022-007.json",
+        "English/44/44-022-008.json",
+        "English/44/44-022-009.json",
+        "English/44/44-022-010.json",
+        "English/44/44-026-006.json",
+        "English/44/44-026-007.json",
+        "English/44/44-026-008.json",
+        "English/47/47-011-015.json",
+        "English/47/47-011-016.json",
+        "English/48/48-001-015.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

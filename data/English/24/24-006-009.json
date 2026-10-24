@@ -1,0 +1,35 @@
+{
+  "id": "24-006-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 6,
+  "verse_reference": "Jeremiah 6:20",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "God asked why He should care about incense from which place, since He would not accept their offerings?",
+  "options": [
+    "Egypt",
+    "Tyre",
+    "Sheba",
+    "Damascus"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Sheba",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God asked what He cared about incense from Sheba; their burnt offerings were not acceptable because they had rejected His law."
+}

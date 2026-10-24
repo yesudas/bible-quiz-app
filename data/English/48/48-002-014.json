@@ -1,0 +1,35 @@
+{
+  "id": "48-002-014",
+  "language": "en",
+  "book_no": 48,
+  "book": "Galatians",
+  "chapter": 2,
+  "verse_reference": "Galatians 2:20",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"I have been ______ with Christ and I no longer live, but Christ lives in me.\"",
+  "options": [
+    "buried",
+    "crucified",
+    "raised",
+    "seated"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus",
+    "Faith",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said he had been crucified with Christ, and now Christ lives in him."
+}

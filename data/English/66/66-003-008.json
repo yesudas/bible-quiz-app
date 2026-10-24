@@ -1,0 +1,38 @@
+{
+  "id": "66-003-008",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 3,
+  "verse_reference": "Revelation 3:11",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"I am coming soon. Hold on to what you have, so that no one will take your ____.\"",
+  "options": [
+    "crown",
+    "place",
+    "name",
+    "robe"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Philadelphia",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told Philadelphia that he is coming soon, and to hold on to what they have so no one takes their crown."
+}

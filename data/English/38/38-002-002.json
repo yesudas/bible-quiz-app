@@ -1,0 +1,37 @@
+{
+  "id": "38-002-002",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 2,
+  "verse_reference": "Zechariah 2:2",
+  "question_type": "WHERE",
+  "difficulty": "Easy",
+  "question": "Which city was the man going to measure?",
+  "options": [
+    "Jerusalem",
+    "Babylon",
+    "Samaria",
+    "Bethel"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Zechariah"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man said he was going to measure Jerusalem to find out how wide and how long it was."
+}

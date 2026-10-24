@@ -1,0 +1,32 @@
+{
+  "id": "24-024-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 24,
+  "verse_reference": "Jeremiah 24:2",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How were the figs in the two baskets different?",
+  "options": [
+    "One had big figs and one had small figs",
+    "One had green figs and one had purple figs",
+    "One had very good figs and one had very bad figs",
+    "One had dried figs and one had fresh figs"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "One basket had very good figs, like those that ripen early; the other had very bad figs, so bad they could not be eaten."
+}

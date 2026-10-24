@@ -1,0 +1,40 @@
+{
+  "id": "41-005-018",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 5,
+  "verse_reference": "Mark 5:37",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which three disciples did Jesus let follow him to Jairus's house?",
+  "options": [
+    "Peter, James and John",
+    "Andrew, Philip and Thomas",
+    "Matthew, Peter and Judas",
+    "James, John and Andrew"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon Peter",
+    "James son of Zebedee",
+    "John"
+  ],
+  "places": [
+    {
+      "name": "Jairus's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "He did not let anyone follow him except Peter, James and John the brother of James."
+}

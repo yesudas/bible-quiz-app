@@ -1,0 +1,38 @@
+{
+  "id": "24-034-002",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 34,
+  "verse_reference": "Jeremiah 34:3",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God tell Zedekiah would happen when he was captured?",
+  "options": [
+    "He would escape to Egypt",
+    "He would see the king of Babylon with his own eyes and go to Babylon",
+    "He would be killed at once",
+    "He would be made king of Babylon"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Leadership"
+  ],
+  "characters": [
+    "Zedekiah",
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Zedekiah would be captured, see the king of Babylon with his own eyes, speak with him face to face, and go to Babylon."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "26-035-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 35,
+  "verse_reference": "Ezekiel 35:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What did God say Edom did with its mouth?",
+  "options": [
+    "Praised the LORD",
+    "Cried for mercy",
+    "Kept silent",
+    "Boasted against Him"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'You boasted against me and spoke against me without restraint, and I heard it.'"
+}

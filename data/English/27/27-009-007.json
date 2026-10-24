@@ -1,0 +1,33 @@
+{
+  "id": "27-009-007",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 9,
+  "verse_reference": "Daniel 9:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete: \"The Lord our God is merciful and ______.\"",
+  "options": [
+    "forgiving",
+    "mighty",
+    "holy",
+    "faithful"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Forgiveness",
+    "Prayer"
+  ],
+  "characters": [
+    "Daniel"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Daniel prayed that the Lord our God is merciful and forgiving, even though the people had rebelled against Him."
+}

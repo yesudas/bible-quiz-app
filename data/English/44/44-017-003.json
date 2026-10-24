@@ -1,0 +1,40 @@
+{
+  "id": "44-017-003",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 17,
+  "verse_reference": "Acts 17:5",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Whose house did the jealous mob rush to while searching for Paul and Silas?",
+  "options": [
+    "Lydia's house",
+    "Jason's house",
+    "Titius Justus's house",
+    "Mary's house"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Jason"
+  ],
+  "places": [
+    {
+      "name": "Thessalonica",
+      "type": "city"
+    },
+    {
+      "name": "Jason's house",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The jealous Jews formed a mob and rushed to Jason's house in search of Paul and Silas."
+}

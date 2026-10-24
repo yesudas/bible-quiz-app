@@ -1,0 +1,38 @@
+{
+  "id": "66-008-001",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 8,
+  "verse_reference": "Revelation 8:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened in heaven when the Lamb opened the seventh seal?",
+  "options": [
+    "There was loud singing",
+    "There was silence for about half an hour",
+    "There was a great earthquake",
+    "There was a bright light"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When the Lamb opened the seventh seal, there was silence in heaven for about half an hour."
+}

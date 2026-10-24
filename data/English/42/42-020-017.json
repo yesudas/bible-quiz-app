@@ -1,0 +1,37 @@
+{
+  "id": "42-020-017",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 20,
+  "verse_reference": "Luke 20:37",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "In which account did Moses show that the dead rise, according to Jesus?",
+  "options": [
+    "The parting of the sea",
+    "The account of the burning bush",
+    "The giving of manna",
+    "The bronze snake"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [
+    "Moses",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Burning bush",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said in the account of the burning bush, Moses called the Lord 'the God of Abraham, and the God of Isaac, and the God of Jacob.'"
+}

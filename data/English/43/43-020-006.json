@@ -1,0 +1,38 @@
+{
+  "id": "43-020-006",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 20,
+  "verse_reference": "John 20:14-15",
+  "question_type": "IDENTIFY",
+  "difficulty": "Medium",
+  "question": "When Mary first saw Jesus outside the tomb, who did she think he was?",
+  "options": [
+    "An angel",
+    "The gardener",
+    "Peter",
+    "A soldier"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Hope"
+  ],
+  "characters": [
+    "Mary Magdalene",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jesus' tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 20:15 says thinking he was the gardener, she asked where he had put the body."
+}

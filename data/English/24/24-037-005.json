@@ -1,0 +1,35 @@
+{
+  "id": "24-037-005",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 37,
+  "verse_reference": "Jeremiah 37:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How certain did God say the Babylonian victory was?",
+  "options": [
+    "They might lose half the battle",
+    "Even if only wounded men were left in their tents, they would burn the city",
+    "They would need many years",
+    "Only if Judah refused to fight"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said that even if they defeated the whole Babylonian army and only wounded men were left, they would come out and burn the city."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "42-018-014",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 18,
+  "verse_reference": "Luke 18:22",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What one thing did Jesus tell the ruler he still lacked?",
+  "options": [
+    "To fast more often",
+    "To go to the temple",
+    "To sell everything, give to the poor, and follow Jesus",
+    "To keep the Sabbath"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'You still lack one thing. Sell everything you have and give to the poor, and you will have treasure in heaven. Then come, follow me.'"
+}

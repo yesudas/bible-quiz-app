@@ -1,0 +1,34 @@
+{
+  "id": "52-002-006",
+  "language": "en",
+  "book_no": 52,
+  "book": "1 Thessalonians",
+  "chapter": 2,
+  "verse_reference": "1 Thessalonians 2:11-12",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "Paul said he dealt with each of the Thessalonians the way a ____ deals with his own children.",
+  "options": [
+    "king",
+    "teacher",
+    "shepherd",
+    "father"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Family",
+    "Leadership",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul compared himself to a father who encourages, comforts and urges his children to live lives worthy of God."
+}

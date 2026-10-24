@@ -1,0 +1,32 @@
+{
+  "id": "51-002-011",
+  "language": "en",
+  "book_no": 51,
+  "book": "Colossians",
+  "chapter": 2,
+  "verse_reference": "Colossians 2:21-22",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the human rules Paul quoted: \"Do not handle! Do not taste! Do not ____!\"",
+  "options": [
+    "eat",
+    "touch",
+    "drink",
+    "speak"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul quoted these human rules and said they are based on human commands and teachings."
+}

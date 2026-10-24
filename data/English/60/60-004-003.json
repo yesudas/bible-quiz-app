@@ -1,0 +1,30 @@
+{
+  "id": "60-004-003",
+  "language": "en",
+  "book_no": 60,
+  "book": "1 Peter",
+  "chapter": 4,
+  "verse_reference": "1 Peter 4:7",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Because the end of all things is near, what does Peter tell believers to be alert and sober-minded for?",
+  "options": [
+    "So that they may pray",
+    "So that they may travel",
+    "So that they may fight",
+    "So that they may rest"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prayer",
+    "Hope"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The end of all things is near, so be alert and of sober mind so that you may pray."
+}

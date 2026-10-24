@@ -1,0 +1,34 @@
+{
+  "id": "27-002-020",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 2,
+  "verse_reference": "Daniel 2:47",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the king's words: \"Surely your God is the God of gods and the Lord of ______.\"",
+  "options": [
+    "kings",
+    "nations",
+    "heaven",
+    "armies"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Sovereignty of God"
+  ],
+  "characters": [
+    "Daniel",
+    "Nebuchadnezzar"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "After Daniel revealed the dream, the king said Daniel's God is the God of gods and the Lord of kings, and a revealer of mysteries."
+}

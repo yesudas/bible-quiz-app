@@ -1,0 +1,29 @@
+{
+  "id": "45-001-021",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 1,
+  "verse_reference": "Romans 1:32",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Romans 1:32, besides doing evil things, what else do these people do?",
+  "options": [
+    "They repent quickly",
+    "They approve of those who practice them",
+    "They warn others to stop",
+    "They hide them from everyone"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says they not only continue to do these things but also approve of those who practice them."
+}

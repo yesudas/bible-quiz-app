@@ -1,0 +1,36 @@
+{
+  "id": "28-013-005",
+  "language": "en",
+  "book_no": 28,
+  "book": "Hosea",
+  "chapter": 13,
+  "verse_reference": "Hosea 13:5",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did God care for His people, in the land of burning heat?",
+  "options": [
+    "In the wilderness",
+    "In Egypt",
+    "In Canaan",
+    "In Babylon"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Love",
+    "Faith"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, 'I cared for you in the wilderness, in the land of burning heat.'"
+}

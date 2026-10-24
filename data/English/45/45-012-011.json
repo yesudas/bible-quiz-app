@@ -1,0 +1,30 @@
+{
+  "id": "45-012-011",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 12,
+  "verse_reference": "Romans 12:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Romans 12:17, what should you not repay anyone?",
+  "options": [
+    "Good for good",
+    "Money for work",
+    "Evil for evil",
+    "Thanks for help"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Forgiveness"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says do not repay anyone evil for evil, but be careful to do what is right in everyone's eyes."
+}

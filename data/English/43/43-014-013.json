@@ -1,0 +1,32 @@
+{
+  "id": "43-014-013",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 14,
+  "verse_reference": "John 14:22",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which disciple asked why Jesus would show himself to them and not to the world?",
+  "options": [
+    "Judas (not Judas Iscariot)",
+    "Thomas",
+    "Philip",
+    "Peter"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Judas (not Judas Iscariot)",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 14:22 says Judas (not Judas Iscariot) asked, \"But, Lord, why do you intend to show yourself to us and not to the world?\""
+}

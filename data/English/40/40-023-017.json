@@ -1,0 +1,37 @@
+{
+  "id": "40-023-017",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 23,
+  "verse_reference": "Matthew 23:27",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Jesus compared the teachers of the law and Pharisees to what, beautiful outside but full of dead bones inside?",
+  "options": [
+    "Whitewashed tombs",
+    "Painted walls",
+    "Golden boxes",
+    "Empty jars"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Tombs",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 23:27 says, \"You are like whitewashed tombs, which look beautiful on the outside but on the inside are full of the bones of the dead.\""
+}

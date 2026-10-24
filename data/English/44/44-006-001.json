@@ -1,0 +1,35 @@
+{
+  "id": "44-006-001",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 6,
+  "verse_reference": "Acts 6:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What complaint did the Hellenistic Jews make in the early church?",
+  "options": [
+    "They were not allowed in the temple",
+    "The apostles did not preach to them",
+    "They had to pay more money",
+    "Their widows were being overlooked in the daily food distribution"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Church",
+    "Leadership"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The Hellenistic Jews complained that their widows were being overlooked in the daily distribution of food."
+}

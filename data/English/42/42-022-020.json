@@ -1,0 +1,38 @@
+{
+  "id": "42-022-020",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 22,
+  "verse_reference": "Luke 22:57",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "When a servant girl said Peter had been with Jesus, he denied it: 'Woman, I don't ____ him.'",
+  "options": [
+    "like",
+    "know",
+    "see",
+    "follow"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Fear"
+  ],
+  "characters": [
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Courtyard of the high priest",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter denied it. 'Woman, I don't know him,' he said."
+}

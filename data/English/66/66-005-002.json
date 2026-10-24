@@ -1,0 +1,35 @@
+{
+  "id": "66-005-002",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 5,
+  "verse_reference": "Revelation 5:2-3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What question did the mighty angel ask in a loud voice?",
+  "options": [
+    "Who will go for us?",
+    "Where is the Lamb?",
+    "Who is worthy to break the seals and open the scroll?",
+    "When will the end come?"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Prophecy",
+    "Angels"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "A mighty angel proclaimed, \"Who is worthy to break the seals and open the scroll?\" But no one in heaven or on earth could open it."
+}

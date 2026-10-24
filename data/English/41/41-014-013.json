@@ -1,0 +1,37 @@
+{
+  "id": "41-014-013",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 14,
+  "verse_reference": "Mark 14:26",
+  "question_type": "SEQUENCE",
+  "difficulty": "Medium",
+  "question": "What did Jesus and the disciples do before going out to the Mount of Olives?",
+  "options": [
+    "They washed their feet",
+    "They sang a hymn",
+    "They went to the temple",
+    "They slept"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mount of Olives",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When they had sung a hymn, they went out to the Mount of Olives."
+}

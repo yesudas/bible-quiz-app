@@ -1,0 +1,33 @@
+{
+  "id": "42-017-012",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 17,
+  "verse_reference": "Luke 17:15-16",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What did one of the healed men do when he saw he was healed?",
+  "options": [
+    "He came back praising God and fell at Jesus' feet",
+    "He ran home",
+    "He went to the market",
+    "He hid from the crowd"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Gratitude"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "One of them came back, praising God in a loud voice. He threw himself at Jesus' feet and thanked him."
+}

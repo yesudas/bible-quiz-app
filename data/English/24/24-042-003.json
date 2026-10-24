@@ -1,0 +1,32 @@
+{
+  "id": "24-042-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 42,
+  "verse_reference": "Jeremiah 42:7",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "How long was it before the word of the LORD came to Jeremiah in answer?",
+  "options": [
+    "Three days",
+    "Seven days",
+    "Forty days",
+    "Ten days"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Prophecy"
+  ],
+  "characters": [
+    "Jeremiah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Ten days later the word of the LORD came to Jeremiah."
+}

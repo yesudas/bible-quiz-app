@@ -1,0 +1,32 @@
+{
+  "id": "45-014-005",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 14,
+  "verse_reference": "Romans 14:9",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Romans 14:9, why did Christ die and return to life?",
+  "options": [
+    "So that He might rule Rome",
+    "So that He might rebuild the temple",
+    "So that He might write a new law",
+    "So that He might be the Lord of both the dead and the living"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Jesus",
+    "Salvation"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says Christ died and returned to life so that He might be the Lord of both the dead and the living."
+}

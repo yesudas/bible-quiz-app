@@ -1,0 +1,37 @@
+{
+  "id": "66-002-003",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 2,
+  "verse_reference": "Revelation 2:5",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did Jesus warn would happen if the church in Ephesus did not repent?",
+  "options": [
+    "Their city would be destroyed by fire",
+    "Their leaders would be put in prison",
+    "He would remove their lampstand from its place",
+    "They would be scattered among the nations"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Repentance",
+    "Church"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Ephesus",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus told Ephesus to repent and do what they did at first, or he would come and remove their lampstand from its place."
+}

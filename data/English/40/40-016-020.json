@@ -1,0 +1,32 @@
+{
+  "id": "40-016-020",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 16,
+  "verse_reference": "Matthew 16:24",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Jesus said whoever wants to be his disciple must do what before taking up their cross?",
+  "options": [
+    "Sell their house",
+    "Leave their country",
+    "Deny themselves",
+    "Fast forty days"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 16:24 says, \"Whoever wants to be my disciple must deny themselves and take up their cross and follow me.\""
+}

@@ -1,0 +1,37 @@
+{
+  "id": "26-043-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 43,
+  "verse_reference": "Ezekiel 43:4-5",
+  "question_type": "SEQUENCE",
+  "difficulty": "Difficult",
+  "question": "After the glory of the LORD entered the temple through the east gate, what happened?",
+  "options": [
+    "The glory of the LORD filled the temple",
+    "The temple doors were shut forever",
+    "Fire came down on the altar",
+    "The priests began to sing"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship",
+    "Promise"
+  ],
+  "characters": [
+    "Ezekiel"
+  ],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The glory of the LORD entered through the gate facing east; then the Spirit brought Ezekiel into the inner court, and the glory of the LORD filled the temple."
+}

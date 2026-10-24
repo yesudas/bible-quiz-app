@@ -1,0 +1,37 @@
+{
+  "id": "40-015-018",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 15,
+  "verse_reference": "Matthew 15:34",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "How much food did the disciples have when Jesus fed the four thousand?",
+  "options": [
+    "Five loaves and two fish",
+    "Twelve loaves",
+    "Three loaves and seven fish",
+    "Seven loaves and a few small fish"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Mountainside",
+      "type": "mountain"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 15:34 says they replied, \"Seven, and a few small fish.\""
+}

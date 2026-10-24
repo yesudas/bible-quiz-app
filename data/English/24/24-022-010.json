@@ -1,0 +1,38 @@
+{
+  "id": "24-022-010",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 22,
+  "verse_reference": "Jeremiah 22:30",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How did God say Jehoiachin should be recorded?",
+  "options": [
+    "As the greatest king of Judah",
+    "As if childless, with none of his offspring sitting on David's throne",
+    "As the king who rebuilt the temple",
+    "As a prophet"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Leadership"
+  ],
+  "characters": [
+    "Jehoiachin",
+    "David"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said to record this man as if childless; none of his offspring would prosper or sit on the throne of David or rule in Judah."
+}

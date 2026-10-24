@@ -1,0 +1,33 @@
+{
+  "id": "42-008-002",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 8,
+  "verse_reference": "Luke 8:3",
+  "question_type": "IDENTIFY",
+  "difficulty": "Difficult",
+  "question": "Joanna, who helped support Jesus, was the wife of whom?",
+  "options": [
+    "Herod",
+    "Chuza, the manager of Herod's household",
+    "Jairus",
+    "Zacchaeus"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship",
+    "Money"
+  ],
+  "characters": [
+    "Joanna",
+    "Chuza"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Joanna was the wife of Chuza, the manager of Herod's household, and she helped support Jesus out of her own means."
+}

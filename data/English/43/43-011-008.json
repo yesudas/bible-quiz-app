@@ -1,0 +1,42 @@
+{
+  "id": "43-011-008",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 11,
+  "verse_reference": "John 11:17",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "When Jesus arrived, how many days had Lazarus been in the tomb?",
+  "options": [
+    "Four days",
+    "Three days",
+    "Two days",
+    "Seven days"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus",
+    "Lazarus"
+  ],
+  "places": [
+    {
+      "name": "Bethany",
+      "type": "village"
+    },
+    {
+      "name": "Lazarus' tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 11:17 says on his arrival, Jesus found that Lazarus had already been in the tomb for four days."
+}

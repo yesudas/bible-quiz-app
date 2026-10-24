@@ -1,0 +1,34 @@
+{
+  "id": "38-011-001",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 11,
+  "verse_reference": "Zechariah 11:1-2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Which tree had fallen, causing the juniper to wail?",
+  "options": [
+    "The olive",
+    "The fig",
+    "The palm",
+    "The cedar"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Lebanon",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Lebanon was told to open its doors to fire, and the juniper was told to wail, because the cedar had fallen."
+}

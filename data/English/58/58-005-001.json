@@ -1,0 +1,30 @@
+{
+  "id": "58-005-001",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 5,
+  "verse_reference": "Hebrews 5:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "According to Hebrews 5:1, what does every high priest offer?",
+  "options": [
+    "Songs and psalms",
+    "Gifts and sacrifices for sins",
+    "Gold and silver",
+    "Bread and wine only"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 5:1 says every high priest is appointed to represent the people in matters related to God, to offer gifts and sacrifices for sins."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "24-049-001",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 49,
+  "verse_reference": "Jeremiah 49:1",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "In the message about the Ammonites, which god did God say had taken possession of Gad?",
+  "options": [
+    "Chemosh",
+    "Molek",
+    "Baal",
+    "Asherah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Ammon",
+      "type": "country"
+    },
+    {
+      "name": "Gad",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God asked, \"Why then has Molek taken possession of Gad? Why do his people live in its towns?\""
+}

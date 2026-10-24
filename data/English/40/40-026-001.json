@@ -1,0 +1,33 @@
+{
+  "id": "40-026-001",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 26,
+  "verse_reference": "Matthew 26:2",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "Jesus told his disciples that the Son of Man would be handed over to be crucified when which festival was two days away?",
+  "options": [
+    "Festival of Tabernacles",
+    "Pentecost",
+    "Day of Atonement",
+    "Passover"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 26:2 says, \"As you know, the Passover is two days away—and the Son of Man will be handed over to be crucified.\""
+}

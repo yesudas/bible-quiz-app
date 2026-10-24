@@ -1,0 +1,33 @@
+{
+  "id": "49-002-012",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 2,
+  "verse_reference": "Ephesians 2:15-16",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Through what did Christ reconcile both Jews and Gentiles to God in one body?",
+  "options": [
+    "Through the cross",
+    "Through circumcision",
+    "Through the Passover",
+    "Through the prophets"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Salvation",
+    "Church",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Christ reconciled both groups to God in one body through the cross, putting to death their hostility."
+}

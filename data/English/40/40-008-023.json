@@ -1,0 +1,36 @@
+{
+  "id": "40-008-023",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 8,
+  "verse_reference": "Matthew 8:34",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "How did the people of the town respond to Jesus after this?",
+  "options": [
+    "They asked him to stay",
+    "They pleaded with him to leave their region",
+    "They made him their king",
+    "They brought him gifts"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Region of the Gadarenes",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 8:34 says the whole town went out to meet Jesus and pleaded with him to leave their region."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "25-004-003",
+  "language": "en",
+  "book_no": 25,
+  "book": "Lamentations",
+  "chapter": 4,
+  "verse_reference": "Lamentations 4:6",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Lamentations 4:6 says the punishment of Zion was greater than that of which city?",
+  "options": [
+    "Sodom",
+    "Nineveh",
+    "Babylon",
+    "Jericho"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Zion",
+      "type": "city"
+    },
+    {
+      "name": "Sodom",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The punishment of Zion was greater than that of Sodom, which was overthrown in a moment."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "43-006-019",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 6,
+  "verse_reference": "John 6:59",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "Where did Jesus teach about the bread of life?",
+  "options": [
+    "In the temple courts in Jerusalem",
+    "On a mountainside",
+    "In the synagogue in Capernaum",
+    "By Jacob's well"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Capernaum",
+      "type": "town"
+    },
+    {
+      "name": "Synagogue in Capernaum",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 6:59 says he said this while teaching in the synagogue in Capernaum."
+}

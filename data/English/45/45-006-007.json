@@ -1,0 +1,30 @@
+{
+  "id": "45-006-007",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 6,
+  "verse_reference": "Romans 6:12",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What does Paul say we should not let sin do in our mortal body?",
+  "options": [
+    "Sleep",
+    "Grow old",
+    "Reign",
+    "Travel"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Temptation"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says, \"Do not let sin reign in your mortal body so that you obey its evil desires.\""
+}

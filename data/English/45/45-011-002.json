@@ -1,0 +1,33 @@
+{
+  "id": "45-011-002",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 11,
+  "verse_reference": "Romans 11:2-4",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which prophet complained to God that he was the only one left?",
+  "options": [
+    "Elisha",
+    "Elijah",
+    "Jonah",
+    "Jeremiah"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy",
+    "Faith"
+  ],
+  "characters": [
+    "Elijah"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul recalls how Elijah appealed to God against Israel, saying he was the only one left."
+}

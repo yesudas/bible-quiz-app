@@ -1,0 +1,31 @@
+{
+  "id": "42-018-002",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 18,
+  "verse_reference": "Luke 18:2",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "How did Jesus describe the judge in the parable?",
+  "options": [
+    "He was wise and kind",
+    "He was a priest",
+    "He neither feared God nor cared what people thought",
+    "He was the widow's brother"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Parables"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus described a judge who neither feared God nor cared what people thought."
+}

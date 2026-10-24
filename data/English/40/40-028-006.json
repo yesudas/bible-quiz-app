@@ -1,0 +1,39 @@
+{
+  "id": "40-028-006",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 28,
+  "verse_reference": "Matthew 28:6",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the angel's words: \"He is not here; he has ______, just as he said.\"",
+  "options": [
+    "risen",
+    "gone",
+    "left",
+    "hidden"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Jesus",
+    "Promise"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jesus' tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 28:6 says, \"He is not here; he has risen, just as he said. Come and see the place where he lay.\""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "46-004-001",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 4,
+  "verse_reference": "1 Corinthians 4:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Paul said people should think of him and Apollos as servants of Christ and as those entrusted with what?",
+  "options": [
+    "The temple treasure",
+    "The keys of the city",
+    "The mysteries God has revealed",
+    "The money of the church"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Discipleship"
+  ],
+  "characters": [
+    "Paul",
+    "Apollos"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said they were servants of Christ, entrusted with the mysteries God has revealed."
+}

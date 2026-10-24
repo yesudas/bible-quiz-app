@@ -1,0 +1,35 @@
+{
+  "id": "57-001-007",
+  "language": "en",
+  "book_no": 57,
+  "book": "Philemon",
+  "chapter": 1,
+  "verse_reference": "Philemon 1:18-19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did Paul offer to do if Onesimus owed Philemon anything?",
+  "options": [
+    "Send him back to prison",
+    "Ask the church to pay",
+    "Charge it to Paul's own account and pay it back",
+    "Forget the debt"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Forgiveness",
+    "Money",
+    "Love"
+  ],
+  "characters": [
+    "Paul",
+    "Onesimus",
+    "Philemon"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said that if Onesimus had done any wrong or owed anything, Philemon should charge it to Paul, and Paul would pay it back."
+}

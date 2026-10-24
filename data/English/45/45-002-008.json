@@ -1,0 +1,31 @@
+{
+  "id": "45-002-008",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 2,
+  "verse_reference": "Romans 2:13",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "According to Romans 2:13, who will be declared righteous?",
+  "options": [
+    "Those who only hear the law",
+    "Those who teach the law",
+    "Those who were born near the temple",
+    "Those who obey the law"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Law"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul says it is not those who hear the law but those who obey it who will be declared righteous."
+}

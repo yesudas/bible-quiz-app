@@ -1,0 +1,29 @@
+{
+  "id": "30-006-008",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 6,
+  "verse_reference": "Amos 6:12",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Amos asks, 'Do horses run on the rocky crags?' What point is he making?",
+  "options": [
+    "Horses are stronger than oxen",
+    "Israel had done something just as foolish by turning justice into poison",
+    "Israel should build more roads",
+    "Farmers should stop plowing"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Justice",
+    "Sin"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Just as horses don't run on rocks, it was foolish and wrong for Israel to turn justice into poison."
+}

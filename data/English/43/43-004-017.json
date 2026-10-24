@@ -1,0 +1,32 @@
+{
+  "id": "43-004-017",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 4,
+  "verse_reference": "John 4:52-53",
+  "question_type": "WHEN",
+  "difficulty": "Difficult",
+  "question": "How did the royal official know Jesus had healed his son?",
+  "options": [
+    "The boy's fever left at the exact time Jesus said, \"Your son will live\"",
+    "His servants saw Jesus at the house",
+    "An angel told him",
+    "Jesus sent a letter"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 4:52-53 says the fever left the boy at one in the afternoon, the very time Jesus had said, \"Your son will live,\" so he and his whole household believed."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42-003-022",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 3,
+  "verse_reference": "Luke 3:23",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "How does Luke describe Jesus' relationship to Joseph at the start of the genealogy?",
+  "options": [
+    "He was the son, so it was thought, of Joseph",
+    "He was Joseph's nephew",
+    "He was Joseph's brother",
+    "He was Joseph's adopted servant"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Family",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus",
+    "Joseph"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Luke writes that Jesus was the son, so it was thought, of Joseph, the son of Heli."
+}

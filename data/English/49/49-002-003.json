@@ -1,0 +1,34 @@
+{
+  "id": "49-002-003",
+  "language": "en",
+  "book_no": 49,
+  "book": "Ephesians",
+  "chapter": 2,
+  "verse_reference": "Ephesians 2:4-5",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Because of his great love and rich mercy, what did God do for us when we were dead in transgressions?",
+  "options": [
+    "Gave us a new law",
+    "Made us alive with Christ",
+    "Sent us to Jerusalem",
+    "Made us kings"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Salvation",
+    "Jesus"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God, rich in mercy, made us alive with Christ even when we were dead in transgressions."
+}

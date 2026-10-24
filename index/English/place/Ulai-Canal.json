@@ -1,0 +1,13 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Ulai-Canal",
+    "label": "Ulai Canal",
+    "count": 3,
+    "paths": [
+        "English/27/27-008-002.json",
+        "English/27/27-008-003.json",
+        "English/27/27-008-009.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

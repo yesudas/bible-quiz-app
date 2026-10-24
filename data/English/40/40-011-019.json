@@ -1,0 +1,33 @@
+{
+  "id": "40-011-019",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 11,
+  "verse_reference": "Matthew 11:30",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete: \"For my yoke is easy and my burden is ______.\"",
+  "options": [
+    "light",
+    "small",
+    "gone",
+    "sweet"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Hope",
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 11:30 says, \"For my yoke is easy and my burden is light.\""
+}

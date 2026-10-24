@@ -1,0 +1,38 @@
+{
+  "id": "42-024-016",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 24,
+  "verse_reference": "Luke 24:34",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "According to those gathered in Jerusalem, to whom had the Lord appeared?",
+  "options": [
+    "Simon",
+    "James",
+    "Mary",
+    "John"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Resurrection",
+    "Jesus"
+  ],
+  "characters": [
+    "Simon Peter",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "They found the Eleven and those with them, saying, 'It is true! The Lord has risen and has appeared to Simon.'"
+}

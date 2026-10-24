@@ -1,0 +1,38 @@
+{
+  "id": "31-001-002",
+  "language": "en",
+  "book_no": 31,
+  "book": "Obadiah",
+  "chapter": 1,
+  "verse_reference": "Obadiah 1",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Which nation is Obadiah's message mainly about?",
+  "options": [
+    "Edom",
+    "Egypt",
+    "Assyria",
+    "Moab"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Prophecy",
+    "Judgment"
+  ],
+  "characters": [
+    "Obadiah"
+  ],
+  "places": [
+    {
+      "name": "Edom",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Obadiah's vision is what the Sovereign LORD says about Edom."
+}

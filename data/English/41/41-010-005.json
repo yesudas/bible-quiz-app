@@ -1,0 +1,36 @@
+{
+  "id": "41-010-005",
+  "language": "en",
+  "book_no": 41,
+  "book": "Mark",
+  "chapter": 10,
+  "verse_reference": "Mark 10:9",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete Jesus' words: \"Therefore what God has joined together, let no one ____.\"",
+  "options": [
+    "forget",
+    "separate",
+    "judge",
+    "change"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Marriage"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Judea",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, \"So they are no longer two, but one flesh. Therefore what God has joined together, let no one separate.\""
+}

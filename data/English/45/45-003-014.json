@@ -1,0 +1,33 @@
+{
+  "id": "45-003-014",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 3,
+  "verse_reference": "Romans 3:28",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"For we maintain that a person is justified by ______ apart from the works of the law.\"",
+  "options": [
+    "sacrifice",
+    "prayer",
+    "wisdom",
+    "faith"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith",
+    "Salvation",
+    "Law"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul concludes that a person is justified by faith apart from the works of the law."
+}

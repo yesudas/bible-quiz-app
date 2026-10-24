@@ -1,0 +1,25 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Tomb",
+    "label": "Tomb",
+    "count": 15,
+    "paths": [
+        "English/41/41-006-015.json",
+        "English/41/41-016-001.json",
+        "English/41/41-016-002.json",
+        "English/41/41-016-003.json",
+        "English/41/41-016-004.json",
+        "English/41/41-016-005.json",
+        "English/41/41-016-006.json",
+        "English/41/41-016-007.json",
+        "English/41/41-016-008.json",
+        "English/41/41-016-010.json",
+        "English/42/42-024-001.json",
+        "English/42/42-024-002.json",
+        "English/42/42-024-003.json",
+        "English/42/42-024-004.json",
+        "English/42/42-024-007.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

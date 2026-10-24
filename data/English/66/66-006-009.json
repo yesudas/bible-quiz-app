@@ -1,0 +1,37 @@
+{
+  "id": "66-006-009",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 6,
+  "verse_reference": "Revelation 6:9",
+  "question_type": "WHERE",
+  "difficulty": "Medium",
+  "question": "When the fifth seal was opened, where did John see the souls of those who had been slain for the word of God?",
+  "options": [
+    "Under the altar",
+    "Beside the river",
+    "On the mountain",
+    "At the city gate"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Persecution",
+    "Faith"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [
+    {
+      "name": "Heaven",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John saw under the altar the souls of those who had been slain because of the word of God and the testimony they had kept."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "64-001-003",
+  "language": "en",
+  "book_no": 64,
+  "book": "3 John",
+  "chapter": 1,
+  "verse_reference": "3 John 1:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the verse: \"I have no greater joy than to hear that my children are walking in the ____.\"",
+  "options": [
+    "light",
+    "Spirit",
+    "way",
+    "truth"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Discipleship",
+    "Faith"
+  ],
+  "characters": [
+    "John"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In 3 John 4 the elder says his greatest joy is hearing that his children are walking in the truth."
+}

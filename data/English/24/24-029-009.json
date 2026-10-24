@@ -1,0 +1,40 @@
+{
+  "id": "24-029-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 29,
+  "verse_reference": "Jeremiah 29:21-22",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "Which two false prophets did God say would be handed over to Nebuchadnezzar and burned in the fire?",
+  "options": [
+    "Ahab son of Kolaiah and Zedekiah son of Maaseiah",
+    "Hananiah and Shemaiah",
+    "Pashhur and Uriah",
+    "Gedaliah and Ishmael"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment",
+    "Prophecy",
+    "Sin"
+  ],
+  "characters": [
+    "Ahab",
+    "Zedekiah",
+    "Nebuchadnezzar"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God named Ahab son of Kolaiah and Zedekiah son of Maaseiah, who prophesied lies; the king of Babylon would burn them in the fire."
+}

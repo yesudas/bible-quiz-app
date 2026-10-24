@@ -1,0 +1,32 @@
+{
+  "id": "24-044-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 44,
+  "verse_reference": "Jeremiah 44:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete God's plea through His prophets: \"Do not do this detestable thing that I ____!\"",
+  "options": [
+    "forbid",
+    "punish",
+    "hate",
+    "despise"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Sin",
+    "Worship",
+    "Love"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said He sent His servants the prophets again and again, who said, \"Do not do this detestable thing that I hate!\""
+}

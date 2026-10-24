@@ -3,7 +3,7 @@
     "language": "English",
     "character": "Balak",
     "label": "Balak",
-    "count": 8,
+    "count": 10,
     "paths": [
         "English/04/04-022-001.json",
         "English/04/04-022-002.json",
@@ -12,7 +12,9 @@
         "English/04/04-023-007.json",
         "English/04/04-024-004.json",
         "English/04/04-024-006.json",
-        "English/06/06-024-003.json"
+        "English/06/06-024-003.json",
+        "English/33/33-006-003.json",
+        "English/66/66-002-012.json"
     ],
-    "generated": "2026-10-16T16:13:38+00:00"
+    "generated": "2026-10-23T11:29:43+00:00"
 }

@@ -1,0 +1,19 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Nicodemus",
+    "label": "Nicodemus",
+    "count": 9,
+    "paths": [
+        "English/43/43-003-001.json",
+        "English/43/43-003-002.json",
+        "English/43/43-003-003.json",
+        "English/43/43-003-004.json",
+        "English/43/43-003-005.json",
+        "English/43/43-007-016.json",
+        "English/43/43-007-017.json",
+        "English/43/43-019-017.json",
+        "English/43/43-019-018.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

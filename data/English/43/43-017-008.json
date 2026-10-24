@@ -1,0 +1,34 @@
+{
+  "id": "43-017-008",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 17,
+  "verse_reference": "John 17:20",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Besides his disciples, who else did Jesus pray for in John 17?",
+  "options": [
+    "The Roman soldiers",
+    "The Pharisees only",
+    "The angels",
+    "Those who will believe in him through their message"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prayer",
+    "Evangelism",
+    "Church"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "In John 17:20, Jesus prayed, \"My prayer is not for them alone. I pray also for those who will believe in me through their message.\""
+}

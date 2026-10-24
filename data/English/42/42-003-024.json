@@ -1,0 +1,33 @@
+{
+  "id": "42-003-024",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 3,
+  "verse_reference": "Luke 3:38",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "With whom does Luke's genealogy of Jesus end?",
+  "options": [
+    "Abraham, the father of Israel",
+    "Adam, the son of God",
+    "Noah, the son of Lamech",
+    "David, the son of Jesse"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Creation",
+    "Family"
+  ],
+  "characters": [
+    "Adam",
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Luke traces Jesus' line all the way back to Adam, the son of God."
+}

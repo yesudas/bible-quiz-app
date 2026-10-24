@@ -1,0 +1,14 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Road-from-Jerusalem-to-Jericho",
+    "label": "Road from Jerusalem to Jericho",
+    "count": 4,
+    "paths": [
+        "English/42/42-010-014.json",
+        "English/42/42-010-015.json",
+        "English/42/42-010-016.json",
+        "English/42/42-010-017.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

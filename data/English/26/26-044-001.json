@@ -1,0 +1,35 @@
+{
+  "id": "26-044-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 44,
+  "verse_reference": "Ezekiel 44:1-2",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Why was the outer gate facing east to remain shut?",
+  "options": [
+    "Because it was broken",
+    "Because the LORD, the God of Israel, had entered through it",
+    "Because enemies might come in",
+    "Because it was too small"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The LORD said this gate was to remain shut and no one may enter through it, because the LORD, the God of Israel, had entered through it."
+}

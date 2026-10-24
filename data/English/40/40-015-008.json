@@ -1,0 +1,33 @@
+{
+  "id": "40-015-008",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 15,
+  "verse_reference": "Matthew 15:15",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Which disciple asked Jesus, \"Explain the parable to us\"?",
+  "options": [
+    "John",
+    "Peter",
+    "James",
+    "Philip"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Discipleship"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 15:15 says Peter said, \"Explain the parable to us.\""
+}

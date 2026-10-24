@@ -1,0 +1,38 @@
+{
+  "id": "40-027-030",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 27,
+  "verse_reference": "Matthew 27:63-64",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "Why did the chief priests and Pharisees ask Pilate to make the tomb secure?",
+  "options": [
+    "They feared robbers",
+    "Pilate's wife had asked",
+    "They wanted to bury others there",
+    "Jesus had said he would rise again after three days"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Hope"
+  ],
+  "characters": [
+    "Jesus",
+    "Pilate"
+  ],
+  "places": [
+    {
+      "name": "Joseph's tomb",
+      "type": "tomb"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 27:63-64 says, \"We remember that while he was still alive that deceiver said, 'After three days I will rise again.' So give the order for the tomb to be made secure until the third day.\""
+}

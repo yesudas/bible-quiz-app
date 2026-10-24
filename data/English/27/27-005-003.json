@@ -1,0 +1,38 @@
+{
+  "id": "27-005-003",
+  "language": "en",
+  "book_no": 27,
+  "book": "Daniel",
+  "chapter": 5,
+  "verse_reference": "Daniel 5:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "As they drank from the goblets, whom did they praise?",
+  "options": [
+    "The Most High God",
+    "The king of Persia",
+    "Daniel's God",
+    "Gods of gold, silver, bronze, iron, wood and stone"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Idolatry",
+    "Sin"
+  ],
+  "characters": [
+    "Belshazzar"
+  ],
+  "places": [
+    {
+      "name": "Babylon",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "As they drank the wine, they praised the gods of gold and silver, of bronze, iron, wood and stone."
+}

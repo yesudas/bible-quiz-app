@@ -1,0 +1,30 @@
+{
+  "id": "26-007-004",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 7,
+  "verse_reference": "Ezekiel 7:19",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "Where did God say the people would throw their silver?",
+  "options": [
+    "Into the river",
+    "Into the fire",
+    "Into the temple",
+    "Into the streets"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Money",
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said they would throw their silver into the streets, and their gold would be treated as a thing unclean."
+}

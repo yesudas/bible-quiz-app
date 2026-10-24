@@ -1,0 +1,38 @@
+{
+  "id": "30-001-004",
+  "language": "en",
+  "book_no": 30,
+  "book": "Amos",
+  "chapter": 1,
+  "verse_reference": "Amos 1:1",
+  "question_type": "WHO",
+  "difficulty": "Medium",
+  "question": "Who was king of Judah when Amos saw his vision?",
+  "options": [
+    "Hezekiah",
+    "Ahaz",
+    "Josiah",
+    "Uzziah"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Leadership"
+  ],
+  "characters": [
+    "Amos",
+    "Uzziah"
+  ],
+  "places": [
+    {
+      "name": "Judah",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Amos prophesied when Uzziah was king of Judah."
+}

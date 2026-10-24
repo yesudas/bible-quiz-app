@@ -1,0 +1,37 @@
+{
+  "id": "46-006-001",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 6,
+  "verse_reference": "1 Corinthians 6:1",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "What was Paul upset about in the way the Corinthians settled disputes?",
+  "options": [
+    "They took their disputes before the ungodly instead of the Lord's people",
+    "They argued too loudly in church",
+    "They asked Paul to decide every case",
+    "They refused to forgive anyone"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Church",
+    "Sin"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [
+    {
+      "name": "Corinth",
+      "type": "city"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul was shocked that believers took their disputes before ungodly judges rather than letting the Lord's people settle them."
+}

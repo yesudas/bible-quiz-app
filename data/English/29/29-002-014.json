@@ -1,0 +1,30 @@
+{
+  "id": "29-002-014",
+  "language": "en",
+  "book_no": 29,
+  "book": "Joel",
+  "chapter": 2,
+  "verse_reference": "Joel 2:28",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Difficult",
+  "question": "Complete the verse: \"Your sons and daughters will prophesy, your old men will dream dreams, your young men will see ____.\"",
+  "options": [
+    "angels",
+    "signs",
+    "wonders",
+    "visions"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Holy Spirit",
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "When God pours out His Spirit, young men will see visions and old men will dream dreams."
+}

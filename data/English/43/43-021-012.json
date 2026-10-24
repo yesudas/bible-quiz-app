@@ -1,0 +1,42 @@
+{
+  "id": "43-021-012",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 21,
+  "verse_reference": "John 21:18-19",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "When Jesus spoke of Peter stretching out his hands when he was old, what was he showing?",
+  "options": [
+    "How Peter would catch fish",
+    "How Peter would bless people",
+    "How long Peter would live",
+    "The kind of death by which Peter would glorify God"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy",
+    "Persecution"
+  ],
+  "characters": [
+    "Jesus",
+    "Simon Peter"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "sea"
+    },
+    {
+      "name": "Sea of Tiberias",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 21:19 says Jesus said this to indicate the kind of death by which Peter would glorify God. Then he said, \"Follow me!\""
+}

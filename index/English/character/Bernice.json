@@ -1,0 +1,13 @@
+{
+    "type": "character",
+    "language": "English",
+    "character": "Bernice",
+    "label": "Bernice",
+    "count": 3,
+    "paths": [
+        "English/44/44-025-011.json",
+        "English/44/44-025-015.json",
+        "English/44/44-026-017.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

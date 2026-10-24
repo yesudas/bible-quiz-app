@@ -1,0 +1,33 @@
+{
+  "id": "54-003-003",
+  "language": "en",
+  "book_no": 54,
+  "book": "1 Timothy",
+  "chapter": 3,
+  "verse_reference": "1 Timothy 3:3",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "An overseer must not be a lover of what?",
+  "options": [
+    "Prayer",
+    "Children",
+    "Money",
+    "Peace"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Leadership",
+    "Money"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul said an overseer must not be a lover of money, and must be gentle rather than violent or quarrelsome."
+}

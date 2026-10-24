@@ -1,0 +1,37 @@
+{
+  "id": "42-006-015",
+  "language": "en",
+  "book_no": 42,
+  "book": "Luke",
+  "chapter": 6,
+  "verse_reference": "Luke 6:24",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "To whom did Jesus say, 'Woe to you... for you have already received your comfort'?",
+  "options": [
+    "The hungry",
+    "The priests",
+    "The rich",
+    "The sick"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Money",
+    "Judgment"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Level place",
+      "type": "other"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Jesus said, 'But woe to you who are rich, for you have already received your comfort.'"
+}

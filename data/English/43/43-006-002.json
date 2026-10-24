@@ -1,0 +1,36 @@
+{
+  "id": "43-006-002",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 6,
+  "verse_reference": "John 6:4",
+  "question_type": "WHEN",
+  "difficulty": "Medium",
+  "question": "Which Jewish festival was near when Jesus fed the five thousand?",
+  "options": [
+    "Passover",
+    "Pentecost",
+    "Festival of Tabernacles",
+    "Purim"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "sea"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 6:4 says the Jewish Passover Festival was near."
+}

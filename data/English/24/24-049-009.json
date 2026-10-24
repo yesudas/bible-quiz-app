@@ -1,0 +1,34 @@
+{
+  "id": "24-049-009",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 49,
+  "verse_reference": "Jeremiah 49:35-36",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did God say He would break and do to Elam?",
+  "options": [
+    "Break its bow and scatter its people to the four winds",
+    "Break its walls and rebuild them",
+    "Break its idols and give it a king",
+    "Break its ships at sea"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Judgment"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Elam",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "God said, \"See, I will break the bow of Elam, the mainstay of their might… I will scatter them to the four winds.\""
+}

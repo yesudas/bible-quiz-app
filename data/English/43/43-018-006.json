@@ -1,0 +1,42 @@
+{
+  "id": "43-018-006",
+  "language": "en",
+  "book_no": 43,
+  "book": "John",
+  "chapter": 18,
+  "verse_reference": "John 18:13",
+  "question_type": "WHO",
+  "difficulty": "Difficult",
+  "question": "To whom did they bring Jesus first after his arrest?",
+  "options": [
+    "Caiaphas",
+    "Annas, the father-in-law of Caiaphas",
+    "Pilate",
+    "Herod"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution"
+  ],
+  "characters": [
+    "Annas",
+    "Caiaphas",
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "type": "city"
+    },
+    {
+      "name": "Courtyard of the high priest",
+      "type": "house"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "John 18:13 says they brought him first to Annas, who was the father-in-law of Caiaphas, the high priest that year."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "40-013-023",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 13,
+  "verse_reference": "Matthew 13:54-55",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "When Jesus taught in his hometown, what did the people ask?",
+  "options": [
+    "\"Isn't this the son of a priest?\"",
+    "\"Isn't this a prophet from Egypt?\"",
+    "\"Isn't this the son of Herod?\"",
+    "\"Isn't this the carpenter's son?\""
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Faith"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Hometown",
+      "type": "town"
+    },
+    {
+      "name": "Synagogue",
+      "type": "synagogue"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 13:55 says they asked, \"Isn't this the carpenter's son? Isn't his mother's name Mary?\""
+}

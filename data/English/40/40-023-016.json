@@ -1,0 +1,31 @@
+{
+  "id": "40-023-016",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 23,
+  "verse_reference": "Matthew 23:25",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Medium",
+  "question": "Jesus said the Pharisees clean the outside of the cup and dish. What are they full of inside?",
+  "options": [
+    "Water and wine",
+    "Greed and self-indulgence",
+    "Dust and dirt",
+    "Bread and oil"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Sin"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 23:25 says, \"You clean the outside of the cup and dish, but inside they are full of greed and self-indulgence.\""
+}

@@ -1,0 +1,35 @@
+{
+  "id": "58-009-005",
+  "language": "en",
+  "book_no": 58,
+  "book": "Hebrews",
+  "chapter": 9,
+  "verse_reference": "Hebrews 9:5",
+  "question_type": "WHAT",
+  "difficulty": "Difficult",
+  "question": "According to Hebrews 9:5, what was above the ark, overshadowing the atonement cover?",
+  "options": [
+    "Two golden lampstands",
+    "The cherubim of the Glory",
+    "Two pillars of fire",
+    "The stone tablets"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Angels",
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Most Holy Place",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Hebrews 9:5 says above the ark were the cherubim of the Glory, overshadowing the atonement cover."
+}

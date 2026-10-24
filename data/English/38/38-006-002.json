@@ -1,0 +1,31 @@
+{
+  "id": "38-006-002",
+  "language": "en",
+  "book_no": 38,
+  "book": "Zechariah",
+  "chapter": 6,
+  "verse_reference": "Zechariah 6:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What were the two mountains that the chariots came out from between made of?",
+  "options": [
+    "Gold",
+    "Bronze",
+    "Iron",
+    "Stone"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [
+    "Zechariah"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The four chariots came out from between two mountains of bronze."
+}

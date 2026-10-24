@@ -1,0 +1,32 @@
+{
+  "id": "46-008-001",
+  "language": "en",
+  "book_no": 46,
+  "book": "1 Corinthians",
+  "chapter": 8,
+  "verse_reference": "1 Corinthians 8:1",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What question from the Corinthians does Paul answer in this chapter?",
+  "options": [
+    "Whether to keep the Sabbath",
+    "Food sacrificed to idols",
+    "Paying taxes to Rome",
+    "Choosing church leaders"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Church",
+    "Wisdom"
+  ],
+  "characters": [
+    "Paul"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Paul begins the chapter with \"Now about food sacrificed to idols.\""
+}

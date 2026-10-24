@@ -1,0 +1,37 @@
+{
+  "id": "40-008-015",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 8,
+  "verse_reference": "Matthew 8:24",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "What was Jesus doing in the boat when the furious storm came up?",
+  "options": [
+    "Praying",
+    "Sleeping",
+    "Fishing",
+    "Teaching"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 8:24 says a furious storm came up on the lake, but Jesus was sleeping."
+}

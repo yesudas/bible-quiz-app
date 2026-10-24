@@ -1,0 +1,40 @@
+{
+  "id": "24-043-003",
+  "language": "en",
+  "book_no": 24,
+  "book": "Jeremiah",
+  "chapter": 43,
+  "verse_reference": "Jeremiah 43:6",
+  "question_type": "WHO",
+  "difficulty": "Easy",
+  "question": "Whom did Johanan take with him to Egypt, along with the remnant of Judah?",
+  "options": [
+    "Only the soldiers",
+    "Jeremiah the prophet and Baruch son of Neriah",
+    "The king's sons",
+    "The priests of the temple"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Persecution",
+    "Suffering"
+  ],
+  "characters": [
+    "Jeremiah",
+    "Baruch",
+    "Johanan"
+  ],
+  "places": [
+    {
+      "name": "Egypt",
+      "type": "country"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Johanan and the army officers led away the whole remnant of Judah, including Jeremiah the prophet and Baruch son of Neriah."
+}

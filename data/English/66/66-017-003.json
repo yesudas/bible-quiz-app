@@ -1,0 +1,34 @@
+{
+  "id": "66-017-003",
+  "language": "en",
+  "book_no": 66,
+  "book": "Revelation",
+  "chapter": 17,
+  "verse_reference": "Revelation 17:3",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What colour was the beast that the woman sat on?",
+  "options": [
+    "White",
+    "Black",
+    "Pale",
+    "Scarlet"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Prophecy"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Wilderness",
+      "type": "wilderness"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The woman was sitting on a scarlet beast that was covered with blasphemous names and had seven heads and ten horns."
+}

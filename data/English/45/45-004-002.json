@@ -1,0 +1,33 @@
+{
+  "id": "45-004-002",
+  "language": "en",
+  "book_no": 45,
+  "book": "Romans",
+  "chapter": 4,
+  "verse_reference": "Romans 4:3",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "Complete the verse: \"Abraham believed God, and it was credited to him as ______.\"",
+  "options": [
+    "righteousness",
+    "wisdom",
+    "a blessing",
+    "a reward"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "Faith",
+    "Salvation"
+  ],
+  "characters": [
+    "Abraham"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Quoting Genesis, Paul says Abraham's faith in God was credited to him as righteousness."
+}

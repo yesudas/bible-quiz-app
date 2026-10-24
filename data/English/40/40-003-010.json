@@ -1,0 +1,32 @@
+{
+  "id": "40-003-010",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 3,
+  "verse_reference": "Matthew 3:10",
+  "question_type": "UNDERSTANDING",
+  "difficulty": "Difficult",
+  "question": "What did John say would happen to every tree that does not produce good fruit?",
+  "options": [
+    "It will be pruned",
+    "It will be cut down and thrown into the fire",
+    "It will be watered",
+    "It will be moved"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Judgment",
+    "Repentance"
+  ],
+  "characters": [
+    "John the Baptist"
+  ],
+  "places": [],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 3:10 says every tree that does not produce good fruit will be cut down and thrown into the fire."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "44-008-009",
+  "language": "en",
+  "book_no": 44,
+  "book": "Acts",
+  "chapter": 8,
+  "verse_reference": "Acts 8:17",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What happened when Peter and John placed their hands on the Samaritan believers?",
+  "options": [
+    "They were healed of blindness",
+    "They began to see visions of angels",
+    "They became apostles",
+    "They received the Holy Spirit"
+  ],
+  "correct_option": 3,
+  "themes": [
+    "Holy Spirit"
+  ],
+  "characters": [
+    "Peter",
+    "John"
+  ],
+  "places": [
+    {
+      "name": "Samaria",
+      "type": "region"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Peter and John placed their hands on them, and they received the Holy Spirit."
+}

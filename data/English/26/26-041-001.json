@@ -1,0 +1,34 @@
+{
+  "id": "26-041-001",
+  "language": "en",
+  "book_no": 26,
+  "book": "Ezekiel",
+  "chapter": 41,
+  "verse_reference": "Ezekiel 41:4",
+  "question_type": "WHAT",
+  "difficulty": "Medium",
+  "question": "What did the man call the inner sanctuary he measured, twenty cubits square?",
+  "options": [
+    "The Holy Place",
+    "The court of the priests",
+    "The Most Holy Place",
+    "The house of prayer"
+  ],
+  "correct_option": 2,
+  "themes": [
+    "Worship"
+  ],
+  "characters": [],
+  "places": [
+    {
+      "name": "Temple (Ezekiel's vision)",
+      "type": "temple"
+    }
+  ],
+  "audiences": [
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "The man measured the inner sanctuary and said to Ezekiel, 'This is the Most Holy Place.'"
+}

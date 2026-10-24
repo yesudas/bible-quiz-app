@@ -1,0 +1,34 @@
+{
+  "id": "40-022-019",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 22,
+  "verse_reference": "Matthew 22:37",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "Complete the greatest commandment: \"Love the Lord your God with all your heart and with all your soul and with all your ______.\"",
+  "options": [
+    "strength",
+    "mind",
+    "family",
+    "money"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Love",
+    "Worship",
+    "Law"
+  ],
+  "characters": [
+    "Jesus"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 22:37 says, \"Love the Lord your God with all your heart and with all your soul and with all your mind.\""
+}

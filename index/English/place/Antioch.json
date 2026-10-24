@@ -1,0 +1,31 @@
+{
+    "type": "place",
+    "language": "English",
+    "place": "Antioch",
+    "label": "Antioch",
+    "count": 21,
+    "paths": [
+        "English/44/44-006-007.json",
+        "English/44/44-011-007.json",
+        "English/44/44-011-008.json",
+        "English/44/44-011-009.json",
+        "English/44/44-011-012.json",
+        "English/44/44-011-013.json",
+        "English/44/44-011-014.json",
+        "English/44/44-013-001.json",
+        "English/44/44-013-002.json",
+        "English/44/44-013-003.json",
+        "English/44/44-013-004.json",
+        "English/44/44-014-017.json",
+        "English/44/44-014-018.json",
+        "English/44/44-015-001.json",
+        "English/44/44-015-012.json",
+        "English/44/44-015-014.json",
+        "English/44/44-015-015.json",
+        "English/48/48-002-010.json",
+        "English/48/48-002-011.json",
+        "English/48/48-002-012.json",
+        "English/55/55-003-006.json"
+    ],
+    "generated": "2026-10-23T11:29:43+00:00"
+}

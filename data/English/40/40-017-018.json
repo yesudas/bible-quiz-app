@@ -1,0 +1,39 @@
+{
+  "id": "40-017-018",
+  "language": "en",
+  "book_no": 40,
+  "book": "Matthew",
+  "chapter": 17,
+  "verse_reference": "Matthew 17:27",
+  "question_type": "WHAT",
+  "difficulty": "Easy",
+  "question": "Where did Jesus tell Peter he would find a coin to pay the tax?",
+  "options": [
+    "Under a rock",
+    "In the mouth of the first fish he caught",
+    "In his own pocket",
+    "In the temple box"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "Miracles",
+    "Money"
+  ],
+  "characters": [
+    "Jesus",
+    "Peter"
+  ],
+  "places": [
+    {
+      "name": "Sea of Galilee",
+      "type": "lake"
+    }
+  ],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "Matthew 17:27 says, \"Take the first fish you catch; open its mouth and you will find a four-drachma coin.\""
+}
