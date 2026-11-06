@@ -521,6 +521,27 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isLoggedIn()) {
         exit;
     }
 
+    // Remove a Google-identified user (a.php?view=users)
+    if ($action === 'delete_user') {
+        quizLeaderboardDeleteEntry((string)($_POST['entry_id'] ?? ''));
+        header('Location: a.php?view=users');
+        exit;
+    }
+
+    // Edit a Google-identified user's display name / score — email and
+    // profile picture are never accepted from this form at all (see
+    // quizLeaderboardEditGoogleEntry()'s doc comment for why).
+    if ($action === 'edit_user') {
+        quizLeaderboardEditGoogleEntry(
+            (string)($_POST['entry_id'] ?? ''),
+            trim((string)($_POST['displayName'] ?? '')),
+            max(0, (int)($_POST['correctCount'] ?? 0)),
+            max(0, (int)($_POST['totalQuestions'] ?? 0))
+        );
+        header('Location: a.php?view=users');
+        exit;
+    }
+
     // Edit the per-language "quizzes completed" / "questions answered" totals
     if ($action === 'edit_quiz_stats') {
         $quizLangs = array_map('intval', (array) ($_POST['quizzes'] ?? []));
@@ -1639,7 +1660,7 @@ if (($_GET['view'] ?? '') === 'leaderboard') {
         .lb-table th, .lb-table td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #dce3ec; font-size: .88rem; }
         .lb-table th { background: #f0f4f8; }
         .lb-table tbody tr:last-child td { border-bottom: none; }
-        .lb-mobile { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+        .lb-gmail { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
         .empty-state { text-align: center; padding: 48px 20px; color: #7f8c8d; font-size: .95rem; }
         .btn-primary { background: #2980b9; color: #fff; }
         .btn-primary:hover { background: #1f6fa5; }
@@ -1686,7 +1707,7 @@ if (($_GET['view'] ?? '') === 'leaderboard') {
                     <th>Rank</th>
                     <th>Name</th>
                     <th>Country</th>
-                    <th>Mobile number</th>
+                    <th>Gmail ID</th>
                     <th>Score</th>
                     <th>Updated</th>
                     <th></th>
@@ -1694,7 +1715,7 @@ if (($_GET['view'] ?? '') === 'leaderboard') {
             </thead>
             <tbody>
                 <?php foreach ($entries as $i => $e):
-                    $mobile = quizLeaderboardDecryptMobile((string)($e['mobileEnc'] ?? ''));
+                    $gmailId = isset($e['googleEmailEnc']) ? quizLeaderboardDecryptMobile((string)$e['googleEmailEnc']) : null;
                     $entryId = (string)($e['id'] ?? '');
                     $rowDomId = 'lb-edit-' . preg_replace('/[^a-z0-9]/i', '', $entryId);
                 ?>
@@ -1702,7 +1723,7 @@ if (($_GET['view'] ?? '') === 'leaderboard') {
                         <td><?= (int) $i + 1 ?></td>
                         <td><?= htmlspecialchars((string)($e['displayName'] ?? '')) ?></td>
                         <td><?= htmlspecialchars((string)($e['countryName'] ?? '')) ?></td>
-                        <td class="lb-mobile"><?= htmlspecialchars($mobile !== null ? $mobile : '—') ?></td>
+                        <td class="lb-gmail"><?= htmlspecialchars($gmailId !== null ? $gmailId : '—') ?></td>
                         <td><?= (int)($e['correctCount'] ?? 0) ?> / <?= (int)($e['totalQuestions'] ?? 0) ?></td>
                         <td><?= htmlspecialchars((string)($e['updatedAt'] ?? '')) ?></td>
                         <td style="display:flex;gap:6px;">
@@ -1760,7 +1781,7 @@ if (($_GET['view'] ?? '') === 'leaderboard') {
             <thead>
                 <tr>
                     <th>When</th>
-                    <th>Mobile number</th>
+                    <th>Gmail ID</th>
                     <th>From</th>
                     <th>To</th>
                     <th>By</th>
@@ -1772,12 +1793,12 @@ if (($_GET['view'] ?? '') === 'leaderboard') {
                     $logId = (string)($logEntry['id'] ?? '');
                     $logHash = (string)($logEntry['matchHash'] ?? '');
                     $ownerRow = $entriesByHash[$logHash] ?? null;
-                    $ownerMobile = $ownerRow ? quizLeaderboardDecryptMobile((string)($ownerRow['mobileEnc'] ?? '')) : null;
+                    $ownerGmail = ($ownerRow && isset($ownerRow['googleEmailEnc'])) ? quizLeaderboardDecryptMobile((string)$ownerRow['googleEmailEnc']) : null;
                     $reverted = (bool)($logEntry['reverted'] ?? false);
                 ?>
                     <tr>
                         <td><?= htmlspecialchars((string)($logEntry['at'] ?? '')) ?></td>
-                        <td class="lb-mobile"><?= htmlspecialchars($ownerMobile !== null ? $ownerMobile : '—') ?></td>
+                        <td class="lb-gmail"><?= htmlspecialchars($ownerGmail !== null ? $ownerGmail : '—') ?></td>
                         <td><?= htmlspecialchars((string)($logEntry['from'] ?? '')) ?></td>
                         <td><?= htmlspecialchars((string)($logEntry['to'] ?? '')) ?></td>
                         <td><?= htmlspecialchars((string)($logEntry['by'] ?? '')) ?></td>
@@ -1794,6 +1815,175 @@ if (($_GET['view'] ?? '') === 'leaderboard') {
                                     <button type="submit" class="btn btn-secondary btn-sm">↩️ Revert</button>
                                 </form>
                             <?php endif; ?>
+                        </td>
+                    </tr>
+                <?php endforeach; ?>
+            </tbody>
+        </table>
+    <?php endif; ?>
+</div>
+
+</body>
+</html>
+    <?php
+    exit;
+}
+
+if (($_GET['view'] ?? '') === 'users') {
+    $csrf = csrfToken();
+    $users = quizLeaderboardReadAllGoogleUsers();
+    usort($users, static fn (array $a, array $b): int => strcmp((string)($b['createdAt'] ?? ''), (string)($a['createdAt'] ?? '')));
+    ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Users — Admin</title>
+    <meta name="robots" content="noindex, nofollow">
+    <link rel="stylesheet" href="styles.css?v=<?= filemtime(__DIR__ . '/styles.css') ?>">
+    <style>
+        .admin-header {
+            background: linear-gradient(135deg, #154360 0%, #1a2535 100%);
+            color: #fff; padding: 14px 20px;
+            display: flex; align-items: center; justify-content: space-between; gap: 12px;
+        }
+        .admin-header h1 { font-size: 1.15rem; font-weight: 700; }
+        .btn-logout {
+            background: rgba(255,255,255,.15); color: #fff;
+            border: 1px solid rgba(255,255,255,.3); padding: 7px 16px;
+            border-radius: 6px; font-size: .83rem; font-weight: 600; cursor: pointer;
+        }
+        .action-bar { max-width: 1100px; margin: 16px auto 0; padding: 0 16px; }
+        .btn { display: inline-flex; align-items: center; gap: 6px; padding: 8px 16px;
+            border-radius: 7px; font-size: .85rem; font-weight: 600; cursor: pointer;
+            border: none; text-decoration: none; }
+        .btn-secondary { background: #f0f4f8; color: #2c3e50; border: 1px solid #dce3ec; }
+        .btn-secondary:hover { background: #e2ecf5; }
+        .btn-danger { background: #e74c3c; color: #fff; }
+        .btn-danger:hover { background: #c0392b; }
+        .btn-primary { background: #2980b9; color: #fff; }
+        .btn-primary:hover { background: #1f6fa5; }
+        .btn-sm { padding: 6px 14px; font-size: .78rem; }
+        .users-wrap { max-width: 1100px; margin: 20px auto; padding: 0 16px; }
+        .users-table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,.06); }
+        .users-table th, .users-table td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #dce3ec; font-size: .85rem; vertical-align: top; }
+        .users-table th { background: #f0f4f8; }
+        .users-table tbody tr:last-child td { border-bottom: none; }
+        .user-avatar { width: 32px; height: 32px; border-radius: 50%; object-fit: cover; }
+        .user-avatar-placeholder { width: 32px; height: 32px; border-radius: 50%; background: #dce3ec; display: inline-block; }
+        .user-gmail { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: .82rem; color: #566573; }
+        .user-device { font-size: .78rem; color: #7f8c8d; line-height: 1.4; }
+        .empty-state { text-align: center; padding: 48px 20px; color: #7f8c8d; font-size: .95rem; }
+        .users-edit-row { display: none; }
+        .users-edit-row.open { display: table-row; }
+        .users-edit-row td { background: #f9fbfd; padding: 14px 16px; }
+        .users-edit-form { display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-end; }
+        .users-edit-form .field { display: flex; flex-direction: column; gap: 4px; font-size: .8rem; color: #566573; font-weight: 600; }
+        .users-edit-form input { padding: 7px 10px; border: 1.5px solid #dce3ec; border-radius: 6px; font-size: .85rem; color: #2c3e50; }
+        .users-edit-form input[readonly] { background: #eef1f5; color: #7f8c8d; }
+        .users-edit-form input[name="correctCount"], .users-edit-form input[name="totalQuestions"] { width: 90px; }
+        .users-edit-form .field-name { flex: 1; min-width: 160px; }
+    </style>
+</head>
+<body>
+
+<div class="admin-header">
+    <h1>👤 Users <span style="opacity:.7;font-weight:400;">(<?= count($users) ?>)</span></h1>
+    <form method="POST" action="a.php">
+        <input type="hidden" name="action" value="logout">
+        <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
+        <button type="submit" class="btn-logout">Logout</button>
+    </form>
+</div>
+
+<div class="action-bar">
+    <a class="btn btn-secondary" href="a.php">⬅ Back to Admin</a>
+    <a class="btn btn-secondary" href="a.php?view=leaderboard">🏆 Leaderboard &amp; legacy mobile entries</a>
+</div>
+
+<div class="users-wrap">
+    <?php if (empty($users)): ?>
+        <div class="empty-state">
+            <span style="font-size:2.5rem;display:block;margin-bottom:10px;">👤</span>
+            No one has signed in with Google yet.
+        </div>
+    <?php else: ?>
+        <table class="users-table">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Display Name</th>
+                    <th>Profile Name</th>
+                    <th>Gmail ID</th>
+                    <th>Device</th>
+                    <th>Score</th>
+                    <th>Joined</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <?php foreach ($users as $u):
+                    $entryId = (string)($u['id'] ?? '');
+                    $rowDomId = 'user-edit-' . preg_replace('/[^a-z0-9]/i', '', $entryId);
+                    $device = $u['lastDevice'] ?? [];
+                    $deviceBits = array_filter([
+                        $device['deviceType'] ?? '',
+                        $device['platform'] ?? '',
+                        $device['brand'] ?? '',
+                        $device['model'] ?? '',
+                    ], static fn ($v) => $v !== '');
+                ?>
+                    <tr>
+                        <td>
+                            <?php if (($u['pictureUrl'] ?? '') !== ''): ?>
+                                <img class="user-avatar" src="<?= htmlspecialchars($u['pictureUrl']) ?>" alt="">
+                            <?php else: ?>
+                                <span class="user-avatar-placeholder"></span>
+                            <?php endif; ?>
+                        </td>
+                        <td><?= htmlspecialchars((string)($u['displayName'] ?? '')) ?></td>
+                        <td><?= htmlspecialchars((string)($u['profileName'] ?? '')) ?></td>
+                        <td class="user-gmail"><?= htmlspecialchars((string)($u['email'] ?? '')) ?></td>
+                        <td class="user-device"><?= $deviceBits !== [] ? htmlspecialchars(implode(' · ', $deviceBits)) : '—' ?></td>
+                        <td><?= (int)($u['correctCount'] ?? 0) ?> / <?= (int)($u['totalQuestions'] ?? 0) ?></td>
+                        <td><?= htmlspecialchars((string)($u['createdAt'] ?? '')) ?></td>
+                        <td style="display:flex;gap:6px;">
+                            <button type="button" class="btn btn-secondary btn-sm"
+                                    onclick="document.getElementById('<?= $rowDomId ?>').classList.toggle('open')">✏️ Edit</button>
+                            <form method="POST" action="a.php?view=users" onsubmit="return confirm('Remove this user?');">
+                                <input type="hidden" name="action" value="delete_user">
+                                <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
+                                <input type="hidden" name="entry_id" value="<?= htmlspecialchars($entryId) ?>">
+                                <button type="submit" class="btn btn-danger btn-sm">🗑️ Remove</button>
+                            </form>
+                        </td>
+                    </tr>
+                    <tr class="users-edit-row" id="<?= $rowDomId ?>">
+                        <td colspan="8">
+                            <form method="POST" action="a.php?view=users" class="users-edit-form">
+                                <input type="hidden" name="action" value="edit_user">
+                                <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
+                                <input type="hidden" name="entry_id" value="<?= htmlspecialchars($entryId) ?>">
+                                <label class="field field-name">Display Name
+                                    <input type="text" name="displayName" value="<?= htmlspecialchars((string)($u['displayName'] ?? '')) ?>" maxlength="60" required>
+                                </label>
+                                <label class="field">Profile Name
+                                    <input type="text" value="<?= htmlspecialchars((string)($u['profileName'] ?? '')) ?>" readonly disabled>
+                                </label>
+                                <label class="field">Gmail ID
+                                    <input type="text" value="<?= htmlspecialchars((string)($u['email'] ?? '')) ?>" readonly disabled>
+                                </label>
+                                <label class="field">Correct
+                                    <input type="number" name="correctCount" min="0" value="<?= (int)($u['correctCount'] ?? 0) ?>" required>
+                                </label>
+                                <label class="field">Total
+                                    <input type="number" name="totalQuestions" min="0" value="<?= (int)($u['totalQuestions'] ?? 0) ?>" required>
+                                </label>
+                                <button type="submit" class="btn btn-primary btn-sm">💾 Save</button>
+                                <button type="button" class="btn btn-secondary btn-sm"
+                                        onclick="document.getElementById('<?= $rowDomId ?>').classList.remove('open')">Cancel</button>
+                            </form>
                         </td>
                     </tr>
                 <?php endforeach; ?>
@@ -2286,6 +2476,7 @@ $csrf = csrfToken();
     <a class="btn btn-secondary" href="index.php<?= (!$atAdminHome && $currentRoot === 'data' && $currentPath !== '') ? ('?path=' . rawurlencode($currentPath)) : '' ?>" target="_blank" rel="noopener noreferrer">👁️ View Public Site</a>
     <a class="btn btn-secondary" href="a.php?view=mistakes" title="Questions reported by players as wrong">🛠️ Reported Mistakes<?= $mistakeCount ? ' (' . $mistakeCount . ')' : '' ?></a>
     <a class="btn btn-secondary" href="a.php?view=leaderboard" title="Players who joined the leaderboard">🏆 Leaderboard</a>
+    <a class="btn btn-secondary" href="a.php?view=users" title="Manage all Google-signed-in users">👤 Users</a>
     <a class="btn btn-secondary" href="a.php?view=stats" title="Quizzes completed, questions answered, and by-book breakdown">📊 Quiz Stats</a>
     <a class="btn btn-secondary" href="a.php?view=achievements" title="Star-tier thresholds shown on the leaderboard's Achievements section">🏅 Achievements</a>
     <a class="btn btn-secondary" href="a.php?view=catalog" title="Question counts by language, book, topic, character, place, difficulty, and audience">📋 Question Summary</a>

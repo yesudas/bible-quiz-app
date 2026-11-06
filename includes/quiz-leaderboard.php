@@ -823,3 +823,85 @@ function quizLeaderboardEditEntry(
 
     return $ok;
 }
+
+/**
+ * Admin-only edit for a Google-identified row (a.php?view=users) — same
+ * idea as quizLeaderboardEditEntry(), but deliberately narrower: only
+ * `displayName` and the lifetime score are editable. `profileName`,
+ * `pictureUrl`, and the row's identity (email, via `googleEmailEnc`) are
+ * NEVER touched here — profileName/pictureUrl are synced from the
+ * player's own Google account on their next submit regardless of
+ * whatever an admin does here, and the identity has to stay fixed or this
+ * stops being "edit this row" and starts being "merge into someone else's
+ * row". There's no countryCode/countryName field on a Google row to edit.
+ */
+function quizLeaderboardEditGoogleEntry(
+    string $id,
+    string $displayName,
+    int $correctCount,
+    int $totalQuestions
+): bool {
+    if ($displayName === '' || mb_strlen($displayName) > 60 || $correctCount < 0 || $totalQuestions < 0) {
+        return false;
+    }
+
+    $now = date('c');
+    $found = false;
+    $previousDisplayName = null;
+
+    $ok = quizLeaderboardMutate(static function (array $rows) use (
+        $id, $displayName, $correctCount, $totalQuestions, $now, &$found, &$previousDisplayName
+    ): array {
+        foreach ($rows as &$row) {
+            if (($row['id'] ?? '') === $id && isset($row['googleEmailEnc'])) {
+                $found = true;
+                $previousDisplayName = (string) ($row['displayName'] ?? '');
+                $row['displayName'] = $displayName;
+                $row['correctCount'] = $correctCount;
+                $row['totalQuestions'] = $totalQuestions;
+                $row['updatedAt'] = $now;
+                break;
+            }
+        }
+        unset($row);
+        return $rows;
+    }) && $found;
+
+    if ($ok && $previousDisplayName !== null && $previousDisplayName !== $displayName) {
+        quizLeaderboardLogNameChange($id, $previousDisplayName, $displayName, 'admin');
+    }
+
+    return $ok;
+}
+
+/**
+ * All Google-identified rows (a.php?view=users — "manage all the users"),
+ * decrypted for admin display: email and the already-public pictureUrl,
+ * plus profileName/displayName/lastDevice/score/timestamps. Never includes
+ * legacy mobile-number rows (no googleEmailEnc to decrypt) — those stay
+ * under a.php?view=leaderboard.
+ *
+ * @return list<array<string, mixed>>
+ */
+function quizLeaderboardReadAllGoogleUsers(): array
+{
+    $out = [];
+    foreach (quizLeaderboardReadAllAdmin() as $row) {
+        if (!isset($row['googleEmailEnc'])) {
+            continue;
+        }
+        $out[] = [
+            'id' => (string) ($row['id'] ?? ''),
+            'email' => quizLeaderboardDecryptMobile((string) $row['googleEmailEnc']) ?? '',
+            'profileName' => (string) ($row['profileName'] ?? ''),
+            'displayName' => (string) ($row['displayName'] ?? ''),
+            'pictureUrl' => (string) ($row['pictureUrl'] ?? ''),
+            'lastDevice' => (array) ($row['lastDevice'] ?? []),
+            'correctCount' => (int) ($row['correctCount'] ?? 0),
+            'totalQuestions' => (int) ($row['totalQuestions'] ?? 0),
+            'createdAt' => (string) ($row['createdAt'] ?? ''),
+            'updatedAt' => (string) ($row['updatedAt'] ?? ''),
+        ];
+    }
+    return $out;
+}
