@@ -29,10 +29,36 @@ require_once __DIR__ . '/includes/index-builder.php';
 define('BASE_DATA_DIR', realpath(__DIR__ . '/data'));
 $indexDir = __DIR__ . '/index';
 
+function quizBumpVersionFile(string $versionFile): ?string
+{
+    $raw = @file_get_contents($versionFile);
+    if ($raw === false || !preg_match("/\\\$version\\s*=\\s*'(\\d{8})\\.(\\d+)'/", $raw, $m)) {
+        return null;
+    }
+    $today = date('Ymd');
+    if ($m[1] === $today) {
+        $seq = (int) $m[2] + 1;
+    } else {
+        $seq = 1;
+    }
+    $newVersion = $today . '.' . str_pad((string) $seq, 2, '0', STR_PAD_LEFT);
+
+    // Grow the trailing blank lines by one on every build so the file's byte
+    // size always changes, even when the version string's length doesn't —
+    // some FTP clients only notice an upload change if the size differs.
+    $trailingNewlines = strlen($raw) - strlen(rtrim($raw, "\n"));
+    $newTrailingNewlines = max($trailingNewlines, 1) + 1;
+
+    $contents = "<?php\n\$version = '{$newVersion}';" . str_repeat("\n", $newTrailingNewlines);
+    file_put_contents($versionFile, $contents);
+    return $newVersion;
+}
+
 $built = false;
 $buildError = '';
 $elapsed = 0;
 $result = null;
+$newVersion = null;
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && ($_POST['action'] ?? '') === 'build') {
     if (!hash_equals($csrf, $_POST['csrf_token'] ?? '')) {
@@ -50,6 +76,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && ($_POST['action'] ?? '') === 'build
             $buildError = 'Index built with warnings — see details below.';
             $built = true;
         }
+        $newVersion = quizBumpVersionFile(__DIR__ . '/version.php');
     }
 }
 
@@ -123,6 +150,9 @@ if (is_dir($indexDir)) {
             ✅ Index build finished in <?= htmlspecialchars((string) $elapsed) ?>s.
             <?= (int) $result['stats']['files_written'] ?> files written,
             <?= (int) $result['stats']['questions'] ?> questions indexed.
+            <?php if ($newVersion): ?>
+                Version bumped to <code><?= htmlspecialchars($newVersion) ?></code>.
+            <?php endif; ?>
         </div>
         <?php if ($result['errors'] !== []): ?>
             <div class="alert alert-error"><?= htmlspecialchars($buildError) ?></div>

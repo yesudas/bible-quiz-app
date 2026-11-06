@@ -687,6 +687,13 @@ document.addEventListener('DOMContentLoaded', () => {
         window.history.replaceState({}, '', `${window.location.pathname}?lang=${encodeURIComponent(lang)}`);
 
         syncConditionalFields();
+
+        // Clear the chip lists synchronously so the previous language's items
+        // never flash on screen while the new language's catalog is in flight.
+        [bookLinksList, topicLinksList, characterLinksList, placeLinksList].forEach((list) => {
+            if (list) list.innerHTML = '';
+        });
+
         loadCatalog(lang);
     });
 

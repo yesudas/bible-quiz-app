@@ -21,8 +21,32 @@ function quizDiscoverLanguages(): array
     return $langs !== [] ? $langs : ['English'];
 }
 
+/**
+ * Every page that calls renderQuizHeader() now renders Google-sign-in-aware
+ * content (a visitor's own identity/session state), so it can never be a
+ * shared, cacheable response — caching it anywhere (browser, mobile
+ * carrier proxy, CDN) risks one visitor's signed-in page being served to
+ * someone else, not just staleness. `no-store` is the strongest directive:
+ * unlike `no-cache` (which still permits storing a copy as long as it's
+ * revalidated first), `no-store` forbids keeping a copy at all. This also
+ * fixes the "a few phones still show the old mobile-number leaderboard UI"
+ * symptom reported after the Google-sign-in rewrite — that HTML had no
+ * Cache-Control header at all before this, so some mobile browsers/proxies
+ * were caching it on their own heuristics with no way for us to force an
+ * invalidation. version.php's $version bump (see Conventions in AGENTS.md)
+ * remains the right lever for the versioned CSS/JS/API URLs; it was never
+ * meant to cover this page's own un-versioned URL, which is why bumping it
+ * alone didn't fix this.
+ */
+function quizNoCacheHeaders(): void
+{
+    header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');
+    header('Pragma: no-cache');
+}
+
 function renderQuizHeader(string $pageTitle, string $metaDescription, string $version, array $options = []): void
 {
+    quizNoCacheHeaders();
     $bodyClass = $options['bodyClass'] ?? 'page';
     $headerTagline = $options['headerTagline'] ?? '';
     $headerLang = $options['lang'] ?? '';

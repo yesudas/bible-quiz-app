@@ -5,26 +5,47 @@
  *
  * Private master record (PII — gitignored, blocked from web access the same
  * way as logs/mistake-reports.log): logs/leaderboard-data.json, one JSON
- * array of rows:
- *   {id, displayName, countryCode, countryName, mobileEnc, matchHash,
- *    correctCount, totalQuestions, createdAt, updatedAt}
+ * array of rows. Two row shapes coexist:
+ *   - Legacy mobile-number rows (player-facing UI for creating these has
+ *     been removed — see "Known gap" notes in AGENTS.md — but existing rows
+ *     and their admin tooling still work):
+ *     {id, displayName, countryCode, countryName, mobileEnc, matchHash,
+ *      correctCount, totalQuestions, createdAt, updatedAt}
+ *   - Google-identity rows (the only join path now — quizLeaderboardSubmitGoogle()):
+ *     {id, displayName, profileName, countryCode:'', countryName:'',
+ *      pictureUrl, lastDevice, googleEmailEnc, matchHash, correctCount,
+ *      totalQuestions, createdAt, updatedAt}. `profileName` is the
+ *      player's current Google account name (refreshed on every submit,
+ *      never player-edited); `displayName` is what's actually shown,
+ *      defaults to `profileName` when the row is first created and
+ *      afterwards changes ONLY via quizLeaderboardSetGoogleDisplayName()
+ *      (an explicit player rename) — never silently overwritten again.
+ *     `lastDevice` is quizParseUserAgent()'s best-effort output
+ *      (deviceType/platform/browser/brand/model — see includes/device-info.php
+ *      for what's reliable vs. not), overwritten on every submit with
+ *      whichever device most recently played.
  *
  * No language field: the score is a lifetime total across every quiz a
- * phone number has ever played, and the same person may well play some
- * quizzes in their mother tongue and others in English — there's no single
- * "the" language to record against the row.
+ * player has ever played, and the same person may well play some quizzes
+ * in their mother tongue and others in English — there's no single "the"
+ * language to record against the row.
  *
- * Public derived files (regenerated after every write, no PII):
+ * Public derived files (regenerated after every write):
  *   leaderboard/top10.json, leaderboard/all.json — each
- *   [{displayName, country, score}, ...] sorted by score descending.
+ *   [{displayName, country, score, pictureUrl, gmailId}, ...] sorted by
+ *   score descending. `gmailId` is published in PLAINTEXT (decrypted from
+ *   googleEmailEnc on every regen) at the owner's explicit request, as the
+ *   leaderboard's real unique key, since `displayName` is player-editable
+ *   and can collide between different people — this is a deliberate
+ *   departure from the mobile-number era's "never shown anywhere" rule for
+ *   the identity field; empty string for legacy mobile-number rows.
  *
- * Joining the leaderboard requires BOTH a display name and a mobile number;
- * a submission without a mobile number is rejected before it reaches here
- * (see api/leaderboard.php). correctCount/totalQuestions is a LIFETIME
- * running total: every finished set/quiz a mobile number submits gets ADDED
- * to that row (matched via an HMAC of the normalized number, without ever
- * decrypting), it never resets and never just keeps a "best" — it keeps
- * growing the more you play, however many separate quizzes that spans.
+ * correctCount/totalQuestions is a LIFETIME running total: every finished
+ * set/quiz gets ADDED to that row (matched via an HMAC of the normalized
+ * identity — mobile number or "google:<email>" — without ever decrypting
+ * for the match itself), it never resets and never just keeps a "best" —
+ * it keeps growing the more you play, however many separate quizzes that
+ * spans.
  */
 
 function quizLeaderboardDataFile(): string
@@ -182,6 +203,50 @@ function quizLeaderboardDecryptMobile(string $blob): ?string
     return $plain === false ? null : $plain;
 }
 
+/** Lowercases/trims an email for use as a Google-identity match key. */
+function quizLeaderboardNormalizeGoogleEmail(string $email): string
+{
+    $email = strtolower(trim($email));
+    return filter_var($email, FILTER_VALIDATE_EMAIL) ? $email : '';
+}
+
+/**
+ * Same HMAC match-hash scheme as a mobile number, but over a
+ * "google:<email>" identity string so a Google-signed-in row's matchHash
+ * space never collides with a mobile-number row's.
+ */
+function quizLeaderboardGoogleMatchHash(string $normalizedEmail): string
+{
+    return hash_hmac('sha256', 'google:' . $normalizedEmail, quizLeaderboardSecret()['hmac']);
+}
+
+/**
+ * Looks up a player's own lifetime score by mobile number, for the
+ * Achievements login on leaderboard.php — the only non-admin place a
+ * player's own matchHash is ever resolved. Returns only non-PII fields
+ * (never the row's mobileEnc); null if country/mobile don't match any row.
+ *
+ * @return array{displayName:string, correctCount:int, totalQuestions:int}|null
+ */
+function quizLeaderboardFindByMobile(string $countryCode, string $mobile): ?array
+{
+    $normalized = quizLeaderboardNormalizeMobile($countryCode, $mobile);
+    if ($normalized === '') {
+        return null;
+    }
+    $matchHash = quizLeaderboardMatchHash($normalized);
+    foreach (quizLeaderboardReadAllAdmin() as $row) {
+        if (($row['matchHash'] ?? '') === $matchHash) {
+            return [
+                'displayName' => (string) ($row['displayName'] ?? ''),
+                'correctCount' => (int) ($row['correctCount'] ?? 0),
+                'totalQuestions' => (int) ($row['totalQuestions'] ?? 0),
+            ];
+        }
+    }
+    return null;
+}
+
 /** @return list<array<string, mixed>> */
 function quizLeaderboardReadAllAdmin(): array
 {
@@ -232,11 +297,25 @@ function quizLeaderboardRegeneratePublicFiles(array $rows): void
 
     usort($rows, static fn (array $a, array $b): int => ($b['correctCount'] ?? 0) <=> ($a['correctCount'] ?? 0));
 
-    $public = array_map(static fn (array $r): array => [
-        'displayName' => (string) ($r['displayName'] ?? ''),
-        'country' => (string) ($r['countryName'] ?? ''),
-        'score' => (int) ($r['correctCount'] ?? 0),
-    ], $rows);
+    $public = array_map(static function (array $r): array {
+        // gmailId is deliberately published in plaintext (not just the
+        // encrypted googleEmailEnc kept at rest) at the owner's explicit
+        // request, as the leaderboard's real unique key — displayName is
+        // player-editable and can collide between different people, so it
+        // can't be used to tell two rows apart. Empty for legacy
+        // mobile-number rows (no googleEmailEnc to decrypt).
+        $gmailId = isset($r['googleEmailEnc']) ? (quizLeaderboardDecryptMobile((string) $r['googleEmailEnc']) ?? '') : '';
+        return [
+            'displayName' => (string) ($r['displayName'] ?? ''),
+            'country' => (string) ($r['countryName'] ?? ''),
+            'score' => (int) ($r['correctCount'] ?? 0),
+            // Public Google avatar URL for rows joined via Google sign-in
+            // (empty for mobile-number rows) — not PII, same picture anyone
+            // with that Google account already shows publicly.
+            'pictureUrl' => (string) ($r['pictureUrl'] ?? ''),
+            'gmailId' => $gmailId,
+        ];
+    }, $rows);
 
     $top10 = array_slice($public, 0, 10);
 
@@ -285,7 +364,8 @@ function quizLeaderboardSubmit(
     string $countryCode,
     string $mobile,
     int $correctCount,
-    int $totalQuestions
+    int $totalQuestions,
+    string $requestIp = ''
 ): ?array {
     $normalized = quizLeaderboardNormalizeMobile($countryCode, $mobile);
     if ($displayName === '' || $normalized === '') {
@@ -298,15 +378,17 @@ function quizLeaderboardSubmit(
     $rank = null;
     $newCorrectCount = null;
     $newTotalQuestions = null;
+    $previousDisplayName = null;
 
     $ok = quizLeaderboardMutate(static function (array $rows) use (
         $displayName, $countryCode, $countryName, $normalized, $matchHash,
-        $correctCount, $totalQuestions, $now, &$rank, &$newCorrectCount, &$newTotalQuestions
+        $correctCount, $totalQuestions, $now, &$rank, &$newCorrectCount, &$newTotalQuestions, &$previousDisplayName
     ): array {
         $found = false;
         foreach ($rows as &$row) {
             if (($row['matchHash'] ?? '') === $matchHash) {
                 $found = true;
+                $previousDisplayName = (string) ($row['displayName'] ?? '');
                 $row['displayName'] = $displayName;
                 $row['countryCode'] = $countryCode;
                 $row['countryName'] = $countryName;
@@ -353,7 +435,335 @@ function quizLeaderboardSubmit(
         return null;
     }
 
+    if ($previousDisplayName !== null && $previousDisplayName !== $displayName) {
+        $by = 'user request (IP: ' . ($requestIp !== '' ? $requestIp : 'unknown') . ')';
+        quizLeaderboardLogNameChange($matchHash, $previousDisplayName, $displayName, $by);
+    }
+
     return ['rank' => $rank, 'correctCount' => $newCorrectCount, 'totalQuestions' => $newTotalQuestions];
+}
+
+/**
+ * Google-identity counterpart to quizLeaderboardFindByMobile() — used by
+ * api/leaderboard.php's 'lookup_google' action and by the achievements/
+ * results-screen identity displays. Also returns the row's own verified
+ * email (safe to hand back to the SAME player whose session it came from —
+ * never returned about anyone else) and `profileName` (their current
+ * Google account name, kept separate from the player-editable
+ * `displayName` — see quizLeaderboardSubmitGoogle()'s doc comment).
+ *
+ * @return array{email:string, displayName:string, profileName:string, pictureUrl:string, correctCount:int, totalQuestions:int}|null
+ */
+function quizLeaderboardFindByGoogleEmail(string $email): ?array
+{
+    $normalized = quizLeaderboardNormalizeGoogleEmail($email);
+    if ($normalized === '') {
+        return null;
+    }
+    $matchHash = quizLeaderboardGoogleMatchHash($normalized);
+    foreach (quizLeaderboardReadAllAdmin() as $row) {
+        if (($row['matchHash'] ?? '') === $matchHash) {
+            return [
+                'email' => $normalized,
+                'displayName' => (string) ($row['displayName'] ?? ''),
+                'profileName' => (string) ($row['profileName'] ?? ($row['displayName'] ?? '')),
+                'pictureUrl' => (string) ($row['pictureUrl'] ?? ''),
+                'correctCount' => (int) ($row['correctCount'] ?? 0),
+                'totalQuestions' => (int) ($row['totalQuestions'] ?? 0),
+            ];
+        }
+    }
+    return null;
+}
+
+/**
+ * Google-identity counterpart to quizLeaderboardSubmit() — same lifetime-
+ * running-total behavior, but matched/deduped on a verified Google account
+ * email (via the shared wordofgod.in/auth session) instead of a typed
+ * mobile number, $email never taken from client input — always read
+ * server-side from the signed-in session by the caller. The row has no
+ * countryCode/countryName (not collected on this path) and stores an
+ * encrypted copy of the email (googleEmailEnc) instead of mobileEnc, using
+ * the same AES key/scheme as quizLeaderboardEncryptMobile().
+ *
+ * `profileName` vs `displayName`: profileName is the player's CURRENT
+ * Google account name, refreshed on every submit (same as pictureUrl) —
+ * it's not player-editable, it just tracks whatever their Google profile
+ * says right now. `displayName` is what's actually shown on the
+ * leaderboard/results screen; it defaults to profileName ONLY when the row
+ * is first created, and is never again touched by this function — the
+ * only way it changes afterwards is the player explicitly renaming it via
+ * quizLeaderboardSetGoogleDisplayName(). $deviceInfo (from
+ * quizParseUserAgent(), best-effort) is stored as `lastDevice`, overwritten
+ * on every submit with whichever device most recently played.
+ *
+ * @param array{deviceType:string,platform:string,browser:string,brand:string,model:string} $deviceInfo
+ * @return array{rank:int, correctCount:int, totalQuestions:int, displayName:string, pictureUrl:string}|null
+ */
+function quizLeaderboardSubmitGoogle(
+    string $email,
+    string $profileName,
+    string $pictureUrl,
+    int $correctCount,
+    int $totalQuestions,
+    array $deviceInfo = []
+): ?array {
+    $normalized = quizLeaderboardNormalizeGoogleEmail($email);
+    if ($profileName === '' || $normalized === '') {
+        return null;
+    }
+
+    $matchHash = quizLeaderboardGoogleMatchHash($normalized);
+    $now = date('c');
+    $rank = null;
+    $newCorrectCount = null;
+    $newTotalQuestions = null;
+    $finalDisplayName = null;
+
+    $ok = quizLeaderboardMutate(static function (array $rows) use (
+        $profileName, $pictureUrl, $normalized, $matchHash, $deviceInfo,
+        $correctCount, $totalQuestions, $now, &$rank, &$newCorrectCount, &$newTotalQuestions, &$finalDisplayName
+    ): array {
+        $found = false;
+        foreach ($rows as &$row) {
+            if (($row['matchHash'] ?? '') === $matchHash) {
+                $found = true;
+                $row['profileName'] = $profileName;
+                $row['pictureUrl'] = $pictureUrl;
+                $row['lastDevice'] = $deviceInfo;
+                $row['updatedAt'] = $now;
+                $row['correctCount'] = (int) ($row['correctCount'] ?? 0) + $correctCount;
+                $row['totalQuestions'] = (int) ($row['totalQuestions'] ?? 0) + $totalQuestions;
+                $newCorrectCount = $row['correctCount'];
+                $newTotalQuestions = $row['totalQuestions'];
+                $finalDisplayName = (string) ($row['displayName'] ?? $profileName);
+                break;
+            }
+        }
+        unset($row);
+
+        if (!$found) {
+            $rows[] = [
+                'id' => $matchHash,
+                'displayName' => $profileName,
+                'profileName' => $profileName,
+                'countryCode' => '',
+                'countryName' => '',
+                'pictureUrl' => $pictureUrl,
+                'lastDevice' => $deviceInfo,
+                'googleEmailEnc' => quizLeaderboardEncryptMobile($normalized),
+                'matchHash' => $matchHash,
+                'correctCount' => $correctCount,
+                'totalQuestions' => $totalQuestions,
+                'createdAt' => $now,
+                'updatedAt' => $now,
+            ];
+            $newCorrectCount = $correctCount;
+            $newTotalQuestions = $totalQuestions;
+            $finalDisplayName = $profileName;
+        }
+
+        $ranked = $rows;
+        usort($ranked, static fn (array $a, array $b): int => ($b['correctCount'] ?? 0) <=> ($a['correctCount'] ?? 0));
+        foreach ($ranked as $i => $r) {
+            if (($r['matchHash'] ?? '') === $matchHash) {
+                $rank = $i + 1;
+                break;
+            }
+        }
+
+        return $rows;
+    });
+
+    if (!$ok || $rank === null) {
+        return null;
+    }
+
+    return [
+        'rank' => $rank,
+        'correctCount' => $newCorrectCount,
+        'totalQuestions' => $newTotalQuestions,
+        'displayName' => $finalDisplayName,
+        'pictureUrl' => $pictureUrl,
+    ];
+}
+
+/**
+ * Player-driven rename: the ONLY thing that changes a Google-identified
+ * row's `displayName` after it's first created (see
+ * quizLeaderboardSubmitGoogle()'s doc comment). $email is always read
+ * server-side from the signed-in session by the caller, never trusted from
+ * the request body — a player can only ever rename their OWN row.
+ *
+ * @return array{displayName:string}|null null if no row exists yet for
+ *     this email (nothing to rename) or the name is invalid.
+ */
+function quizLeaderboardSetGoogleDisplayName(string $email, string $newDisplayName): ?array
+{
+    $normalized = quizLeaderboardNormalizeGoogleEmail($email);
+    if ($normalized === '' || $newDisplayName === '' || mb_strlen($newDisplayName) > 60) {
+        return null;
+    }
+
+    $matchHash = quizLeaderboardGoogleMatchHash($normalized);
+    $found = false;
+    $previousDisplayName = null;
+
+    $ok = quizLeaderboardMutate(static function (array $rows) use (
+        $matchHash, $newDisplayName, &$found, &$previousDisplayName
+    ): array {
+        foreach ($rows as &$row) {
+            if (($row['matchHash'] ?? '') === $matchHash) {
+                $found = true;
+                $previousDisplayName = (string) ($row['displayName'] ?? '');
+                $row['displayName'] = $newDisplayName;
+                $row['updatedAt'] = date('c');
+                break;
+            }
+        }
+        unset($row);
+        return $rows;
+    }) && $found;
+
+    if (!$ok) {
+        return null;
+    }
+
+    if ($previousDisplayName !== null && $previousDisplayName !== $newDisplayName) {
+        quizLeaderboardLogNameChange($matchHash, $previousDisplayName, $newDisplayName, 'user request (Google sign-in)');
+    }
+
+    return ['displayName' => $newDisplayName];
+}
+
+/**
+ * Log of display-name changes for an existing mobile number (matched via the
+ * same matchHash the leaderboard row itself uses — never the raw mobile).
+ * Written automatically whenever quizLeaderboardSubmit()/quizLeaderboardEditEntry()
+ * change a row's displayName for a number that already had one, so an admin
+ * can see when/why a name changed and revert it. Kept in its own file next to
+ * logs/leaderboard-data.json (same protected/gitignored directory).
+ */
+function quizLeaderboardNameLogFile(): string
+{
+    return __DIR__ . '/../logs/leaderboard-name-changes.json';
+}
+
+/** @param callable(list<array<string, mixed>>): list<array<string, mixed>> $mutate */
+function quizLeaderboardNameLogMutate(callable $mutate): bool
+{
+    quizLeaderboardEnsureLogDir();
+    $fh = @fopen(quizLeaderboardNameLogFile(), 'c+');
+    if (!$fh) {
+        return false;
+    }
+    flock($fh, LOCK_EX);
+    $raw = (string) stream_get_contents($fh);
+    $rows = $raw !== '' ? json_decode($raw, true) : [];
+    $rows = is_array($rows) ? $rows : [];
+
+    $rows = $mutate($rows);
+
+    ftruncate($fh, 0);
+    rewind($fh);
+    fwrite($fh, json_encode($rows, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
+    fflush($fh);
+    flock($fh, LOCK_UN);
+    fclose($fh);
+    return true;
+}
+
+/** @return list<array<string, mixed>> newest first */
+function quizLeaderboardReadNameLog(): array
+{
+    $file = quizLeaderboardNameLogFile();
+    if (!is_file($file)) {
+        return [];
+    }
+    $raw = file_get_contents($file);
+    $rows = $raw !== false ? json_decode($raw, true) : null;
+    $rows = is_array($rows) ? $rows : [];
+    usort($rows, static fn (array $a, array $b): int => ((string) ($b['at'] ?? '')) <=> ((string) ($a['at'] ?? '')));
+    return $rows;
+}
+
+/** Appends a name-change entry; no-ops if $from/$to are the same or $from is empty (nothing to roll back to). */
+function quizLeaderboardLogNameChange(string $matchHash, string $from, string $to, string $by): void
+{
+    if ($from === $to || $from === '' || $matchHash === '') {
+        return;
+    }
+    quizLeaderboardNameLogMutate(static function (array $rows) use ($matchHash, $from, $to, $by): array {
+        $rows[] = [
+            'id' => bin2hex(random_bytes(8)),
+            'matchHash' => $matchHash,
+            'from' => $from,
+            'to' => $to,
+            'by' => $by,
+            'at' => date('c'),
+            'reverted' => false,
+        ];
+        return $rows;
+    });
+}
+
+/**
+ * Admin action: reverts one logged name change by restoring the leaderboard
+ * row's displayName back to that entry's "from" value, then marks the log
+ * entry itself as reverted (so the button doesn't show again for it). Fails
+ * if the entry doesn't exist, was already reverted, or its row no longer
+ * exists (e.g. the entry was later deleted/moderated).
+ */
+function quizLeaderboardRevertNameChange(string $logId): bool
+{
+    $entry = null;
+    foreach (quizLeaderboardReadNameLog() as $row) {
+        if (($row['id'] ?? '') === $logId) {
+            $entry = $row;
+            break;
+        }
+    }
+    if ($entry === null || ($entry['reverted'] ?? false)) {
+        return false;
+    }
+
+    $matchHash = (string) ($entry['matchHash'] ?? '');
+    $from = (string) ($entry['from'] ?? '');
+    if ($matchHash === '' || $from === '') {
+        return false;
+    }
+
+    $rowFound = false;
+    quizLeaderboardMutate(static function (array $rows) use ($matchHash, $from, &$rowFound): array {
+        foreach ($rows as &$row) {
+            if (($row['matchHash'] ?? '') === $matchHash) {
+                $rowFound = true;
+                $row['displayName'] = $from;
+                $row['updatedAt'] = date('c');
+                break;
+            }
+        }
+        unset($row);
+        return $rows;
+    });
+
+    if (!$rowFound) {
+        return false;
+    }
+
+    quizLeaderboardNameLogMutate(static function (array $rows) use ($logId): array {
+        foreach ($rows as &$row) {
+            if (($row['id'] ?? '') === $logId) {
+                $row['reverted'] = true;
+                $row['revertedAt'] = date('c');
+                break;
+            }
+        }
+        unset($row);
+        return $rows;
+    });
+
+    return true;
 }
 
 function quizLeaderboardDeleteEntry(string $id): bool
@@ -385,13 +795,15 @@ function quizLeaderboardEditEntry(
     $countryName = quizLeaderboardCountryName($countryCode);
     $now = date('c');
     $found = false;
+    $previousDisplayName = null;
 
-    return quizLeaderboardMutate(static function (array $rows) use (
-        $id, $displayName, $countryCode, $countryName, $correctCount, $totalQuestions, $now, &$found
+    $ok = quizLeaderboardMutate(static function (array $rows) use (
+        $id, $displayName, $countryCode, $countryName, $correctCount, $totalQuestions, $now, &$found, &$previousDisplayName
     ): array {
         foreach ($rows as &$row) {
             if (($row['id'] ?? '') === $id) {
                 $found = true;
+                $previousDisplayName = (string) ($row['displayName'] ?? '');
                 $row['displayName'] = $displayName;
                 $row['countryCode'] = $countryCode;
                 $row['countryName'] = $countryName;
@@ -404,4 +816,10 @@ function quizLeaderboardEditEntry(
         unset($row);
         return $rows;
     }) && $found;
+
+    if ($ok && $previousDisplayName !== null && $previousDisplayName !== $displayName) {
+        quizLeaderboardLogNameChange($id, $previousDisplayName, $displayName, 'admin');
+    }
+
+    return $ok;
 }

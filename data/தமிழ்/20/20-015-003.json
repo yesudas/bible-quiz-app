@@ -1,0 +1,31 @@
+{
+  "id": "20-015-003",
+  "language": "ta",
+  "book_no": 20,
+  "book": "நீதிமொழிகள்",
+  "chapter": 15,
+  "verse_reference": "நீதிமொழிகள் 15:4",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Medium",
+  "question": "\"ஆரோக்கியமுள்ள நாவு ஜீவவிருட்சம்; அதின் மாறுபாடே ________ முறிவு.\"",
+  "options": [
+    "மனோ",
+    "ஆத்தும",
+    "சரீர",
+    "இருதய"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "ஞானம்",
+    "போதகம்"
+  ],
+  "characters": [],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "நீதிமொழிகள் 15:4 கூறுகிறது: 'ஆரோக்கியமுள்ள நாவு ஜீவவிருட்சம்; அதின் மாறுபாடே மனோமுறிவு.'"
+}

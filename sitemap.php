@@ -60,6 +60,10 @@ function sm_collectUrls(string $baseUrl): array
             'loc' => $baseUrl . 'index.php?lang=' . rawurlencode($lang),
             'priority' => '0.9',
         ];
+        $urls[] = [
+            'loc' => $baseUrl . 'leaderboard.php?lang=' . rawurlencode($lang),
+            'priority' => '0.5',
+        ];
 
         $simpleTypes = ['random', 'whole-bible', 'old-testament', 'new-testament', 'kids', 'teens', 'adults'];
         foreach ($simpleTypes as $type) {
@@ -75,6 +79,15 @@ function sm_collectUrls(string $baseUrl): array
                     . '&type=book&book=' . rawurlencode($book['key']),
                 'priority' => '0.7',
             ];
+            foreach ($book['chapters'] ?? [] as $chapterNo) {
+                $chapterKey = $book['key'] . '-' . str_pad((string) $chapterNo, 3, '0', STR_PAD_LEFT);
+                $urls[] = [
+                    'loc' => $baseUrl . 'index.php?lang=' . rawurlencode($lang)
+                        . '&type=chapter&book=' . rawurlencode($book['key'])
+                        . '&chapter=' . rawurlencode($chapterKey),
+                    'priority' => '0.5',
+                ];
+            }
         }
         foreach ($catalog['topics'] ?? [] as $topic) {
             $urls[] = [
@@ -87,6 +100,13 @@ function sm_collectUrls(string $baseUrl): array
             $urls[] = [
                 'loc' => $baseUrl . 'index.php?lang=' . rawurlencode($lang)
                     . '&type=character&character=' . rawurlencode($character['slug']),
+                'priority' => '0.6',
+            ];
+        }
+        foreach ($catalog['places'] ?? [] as $place) {
+            $urls[] = [
+                'loc' => $baseUrl . 'index.php?lang=' . rawurlencode($lang)
+                    . '&type=place&place=' . rawurlencode($place['slug']),
                 'priority' => '0.6',
             ];
         }

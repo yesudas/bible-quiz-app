@@ -37,8 +37,9 @@ document.addEventListener('DOMContentLoaded', () => {
         timerId: null,
         secondsLeft: 0,
         playingAsLabel: root.dataset.playingAs || 'Name',
-        showNumberLabel: root.dataset.showNumber || 'Show number',
-        hideNumberLabel: root.dataset.hideNumber || 'Hide number',
+        editNameLabel: root.dataset.editName || 'Edit name',
+        saveNameLabel: root.dataset.saveName || 'Save',
+        cancelEditLabel: root.dataset.cancelEdit || 'Cancel',
         congratsTop100Label: root.dataset.congratsTop100 || "Congratulations! You're in the Top 100 on the leaderboard — rank #{rank}!",
         pdfHeading: root.dataset.pdfHeading || 'Bible Quiz Results',
         pdfPoweredByLabel: root.dataset.pdfPoweredBy || 'Powered by:',
@@ -68,11 +69,6 @@ document.addEventListener('DOMContentLoaded', () => {
         reviewBtn: document.getElementById('reviewBtn'),
         backFromReviewBtn: document.getElementById('backFromReviewBtn'),
         leaderboardModal: document.getElementById('leaderboardModal'),
-        leaderboardForm: document.getElementById('leaderboardForm'),
-        leaderboardName: document.getElementById('leaderboardName'),
-        leaderboardCountry: document.getElementById('leaderboardCountry'),
-        leaderboardMobile: document.getElementById('leaderboardMobile'),
-        leaderboardFormError: document.getElementById('leaderboardFormError'),
         leaderboardSkipBtn: document.getElementById('leaderboardSkipBtn'),
         leaderboardPlayerInfo: document.getElementById('leaderboardPlayerInfo'),
         leaderboardSaveStatus: document.getElementById('leaderboardSaveStatus'),
@@ -476,22 +472,6 @@ document.addEventListener('DOMContentLoaded', () => {
         if (els.reviewScoreChart) els.reviewScoreChart.innerHTML = html;
     }
 
-    function readPlayerInfo() {
-        try {
-            return JSON.parse(localStorage.getItem('bibleQuizPlayerInfo') || 'null') || {};
-        } catch (err) {
-            return {};
-        }
-    }
-
-    function savePlayerInfo(info) {
-        try {
-            localStorage.setItem('bibleQuizPlayerInfo', JSON.stringify(info));
-        } catch (err) {
-            // ignore — not critical if this can't persist
-        }
-    }
-
     // Remembers, per quiz attempt (sessionStorage, keyed by quizAttemptSignature),
     // whether the player already decided to join or skip the leaderboard —
     // so the popup only appears once per attempt (right after the FIRST set,
@@ -562,6 +542,56 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    // Google-identity counterpart to submitLeaderboardScore() — no mobile
+    // number/country/displayName involved; the server reads the signed-in
+    // player's verified email AND their current leaderboard displayName
+    // from the shared wordofgod.in/auth session and the leaderboard row
+    // itself (window.QUIZ_GOOGLE_USER here is only used to decide whether
+    // to show this path at all, never sent as the identity or the name —
+    // the response's own `displayName`/`pictureUrl` are the source of
+    // truth to render, since the player may have renamed themselves via
+    // requestDisplayNameUpdate() on a previous set/device).
+    async function submitLeaderboardScoreGoogle(correctCount, totalQuestions) {
+        try {
+            const res = await fetch('api/leaderboard.php', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ action: 'join_google', correctCount, totalQuestions }),
+            });
+            const data = await res.json().catch(() => null);
+            if (!res.ok || !data || typeof data.rank !== 'number') {
+                console.error('[leaderboard] google submit failed', res.status, data);
+                return null;
+            }
+            return data;
+        } catch (err) {
+            console.error('[leaderboard] network error submitting google score', err);
+            return null;
+        }
+    }
+
+    // Player-driven rename (quiz.php results screen's edit-name icon).
+    // Returns the server-confirmed displayName on success, or null on
+    // failure (caller should leave the previous name showing).
+    async function requestDisplayNameUpdate(newDisplayName) {
+        try {
+            const res = await fetch('api/leaderboard.php', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ action: 'update_display_name', displayName: newDisplayName }),
+            });
+            const data = await res.json().catch(() => null);
+            if (!res.ok || !data || !data.displayName) {
+                console.error('[leaderboard] rename failed', res.status, data);
+                return null;
+            }
+            return data.displayName;
+        } catch (err) {
+            console.error('[leaderboard] network error renaming', err);
+            return null;
+        }
+    }
+
     // correctCount/totalQuestions are shown on screen (not just logged) so
     // it's immediately visible whether the cumulative score being SENT is
     // actually growing attempt over attempt — rather than having to guess
@@ -581,37 +611,86 @@ document.addEventListener('DOMContentLoaded', () => {
         els.leaderboardSaveStatus.hidden = false;
     }
 
-    function maskMobile(countryCode, mobile) {
-        const digits = mobile.replace(/\D/g, '');
-        const visible = digits.slice(-2);
-        const masked = '•'.repeat(Math.max(0, digits.length - 2)) + visible;
-        return `${countryCode} ${masked}`;
-    }
-
-    function showPlayerInfo(displayName, countryCode, mobile) {
+    // `editable` is true only for a Google-identified player (there's a
+    // real leaderboard row behind the name to rename) — Skip has nothing
+    // to persist a rename to, so it never gets the pencil icon.
+    function showPlayerInfo(displayName, pictureUrl, editable) {
         if (!displayName) {
             els.leaderboardPlayerInfo.hidden = true;
             return;
         }
-        let html = `${escapeHtml(state.playingAsLabel)}: <strong>${escapeHtml(displayName)}</strong>`;
-        if (mobile) {
-            const masked = maskMobile(countryCode, mobile);
-            html += ` <span class="player-mobile"><span class="player-mobile-value" data-masked="${escapeHtml(masked)}" data-full="${escapeHtml(countryCode + ' ' + mobile)}">${escapeHtml(masked)}</span> `
-                + `<button type="button" class="btn-link player-mobile-toggle" data-shown="0">${escapeHtml(state.showNumberLabel)}</button></span>`;
+        let html = '';
+        if (pictureUrl) {
+            html += `<img class="player-avatar" src="${escapeHtml(pictureUrl)}" alt="" width="28" height="28">`;
+        }
+        html += `${escapeHtml(state.playingAsLabel)}: <strong class="player-name-text">${escapeHtml(displayName)}</strong>`;
+        if (editable) {
+            html += ` <button type="button" class="btn-link player-name-edit-btn" title="${escapeHtml(state.editNameLabel)}" aria-label="${escapeHtml(state.editNameLabel)}"><i class="bi bi-pencil-square" aria-hidden="true"></i></button>`;
         }
         els.leaderboardPlayerInfo.innerHTML = html;
         els.leaderboardPlayerInfo.hidden = false;
 
-        const toggle = els.leaderboardPlayerInfo.querySelector('.player-mobile-toggle');
-        const valueEl = els.leaderboardPlayerInfo.querySelector('.player-mobile-value');
-        if (toggle && valueEl) {
-            toggle.addEventListener('click', () => {
-                const shown = toggle.dataset.shown === '1';
-                valueEl.textContent = shown ? valueEl.dataset.masked : valueEl.dataset.full;
-                toggle.textContent = shown ? state.showNumberLabel : state.hideNumberLabel;
-                toggle.dataset.shown = shown ? '0' : '1';
-            });
+        const editBtn = els.leaderboardPlayerInfo.querySelector('.player-name-edit-btn');
+        if (editBtn) {
+            editBtn.addEventListener('click', () => startNameEdit(displayName, pictureUrl));
         }
+    }
+
+    // Swaps the name text for an inline input + save/cancel, so the player
+    // can rename themselves right on the results screen without leaving it.
+    function startNameEdit(currentName, pictureUrl) {
+        const wrap = els.leaderboardPlayerInfo;
+        const nameText = wrap.querySelector('.player-name-text');
+        const editBtn = wrap.querySelector('.player-name-edit-btn');
+        if (!nameText || !editBtn) return;
+
+        const input = document.createElement('input');
+        input.type = 'text';
+        input.className = 'player-name-edit-input';
+        input.maxLength = 60;
+        input.value = currentName;
+
+        const saveBtn = document.createElement('button');
+        saveBtn.type = 'button';
+        saveBtn.className = 'btn-link player-name-edit-save';
+        saveBtn.textContent = state.saveNameLabel;
+
+        const cancelBtn = document.createElement('button');
+        cancelBtn.type = 'button';
+        cancelBtn.className = 'btn-link player-name-edit-cancel';
+        cancelBtn.textContent = state.cancelEditLabel;
+
+        nameText.replaceWith(input);
+        editBtn.replaceWith(saveBtn);
+        saveBtn.insertAdjacentElement('afterend', cancelBtn);
+        input.focus();
+        input.select();
+
+        const restore = (name) => showPlayerInfo(name, pictureUrl, true);
+
+        cancelBtn.addEventListener('click', () => restore(currentName));
+        input.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') restore(currentName);
+        });
+
+        saveBtn.addEventListener('click', async () => {
+            const newName = input.value.trim();
+            if (!newName || newName === currentName) {
+                restore(currentName);
+                return;
+            }
+            saveBtn.disabled = true;
+            const confirmedName = await requestDisplayNameUpdate(newName);
+            if (confirmedName) {
+                const attemptState = readAttemptLeaderboardState();
+                if (attemptState && attemptState.status === 'google') {
+                    saveAttemptLeaderboardState({ ...attemptState, displayName: confirmedName });
+                }
+                restore(confirmedName);
+            } else {
+                restore(currentName);
+            }
+        });
     }
 
     // Shows the "you're in the Top 100" popup at most ONCE per attempt. With
@@ -644,51 +723,21 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    function revealResults(displayName, countryCode, mobile) {
-        showPlayerInfo(displayName, countryCode, mobile);
+    function revealResults(displayName, pictureUrl, editable) {
+        showPlayerInfo(displayName, pictureUrl, editable);
         els.setResults.hidden = false;
     }
 
-    function openLeaderboardModal(correctCount, totalQuestions) {
-        const info = readPlayerInfo();
-        els.leaderboardName.value = info.displayName || '';
-        els.leaderboardMobile.value = info.mobile || '';
-        if (info.countryCode) els.leaderboardCountry.value = info.countryCode;
-        els.leaderboardFormError.hidden = true;
+    // The modal is now just "Sign in with Google" + "Skip" — Google sign-in
+    // navigates away on its own (a real <a href>), so the only thing left
+    // to wire up here is Skip.
+    function openLeaderboardModal() {
         els.leaderboardModal.hidden = false;
 
-        const closeWith = (displayName, countryCode, mobile) => {
-            els.leaderboardModal.hidden = true;
-            revealResults(displayName, countryCode, mobile);
-        };
-
-        els.leaderboardForm.onsubmit = async (e) => {
-            e.preventDefault();
-            const displayName = els.leaderboardName.value.trim();
-            const countryCode = els.leaderboardCountry.value;
-            const mobile = els.leaderboardMobile.value.trim();
-
-            if (!displayName || !mobile) {
-                els.leaderboardFormError.hidden = false;
-                return;
-            }
-            els.leaderboardFormError.hidden = true;
-
-            savePlayerInfo({ displayName, countryCode, mobile });
-            const joinedState = { status: 'joined', displayName, countryCode, mobile };
-            saveAttemptLeaderboardState(joinedState);
-
-            const result = await submitLeaderboardScore(displayName, countryCode, mobile, correctCount, totalQuestions);
-
-            closeWith(displayName, countryCode, mobile);
-            showSaveStatus(result);
-            maybeShowCongratsOnce(joinedState, result && result.rank);
-        };
-
         els.leaderboardSkipBtn.onclick = () => {
-            const displayName = els.leaderboardName.value.trim();
-            saveAttemptLeaderboardState({ status: 'skipped', displayName });
-            closeWith(displayName, '', '');
+            saveAttemptLeaderboardState({ status: 'skipped', displayName: '' });
+            els.leaderboardModal.hidden = true;
+            revealResults('', '', '');
         };
     }
 
@@ -754,16 +803,35 @@ document.addEventListener('DOMContentLoaded', () => {
         const attemptState = readAttemptLeaderboardState();
 
         if (attemptState && attemptState.status === 'joined') {
-            // Already joined earlier in this attempt — keep adding this
-            // set's score to the leaderboard's lifetime total, without
-            // asking again. correctCount/total here are THIS set's own
-            // numbers (not an attempt-cumulative total) — the server does
-            // the accumulating.
+            // Legacy mobile-number join from before Google sign-in became
+            // the only join path — the UI that creates this status has
+            // been removed, so this only fires for an attempt already in
+            // progress at the moment of that change. Still resubmits
+            // correctly; just has no name-edit icon (no Google row to
+            // rename) and no avatar.
             submitLeaderboardScore(
                 attemptState.displayName, attemptState.countryCode, attemptState.mobile,
                 correctCount, total
             ).then((result) => {
-                revealResults(attemptState.displayName, attemptState.countryCode, attemptState.mobile);
+                revealResults(attemptState.displayName, '', false);
+                showSaveStatus(result);
+                maybeShowCongratsOnce(attemptState, result && result.rank);
+            });
+            return;
+        }
+
+        if (attemptState && attemptState.status === 'google') {
+            // Already joined via Google earlier in this attempt — keep
+            // adding this set's score silently, same as the 'joined' branch
+            // above but over the Google-identity endpoint. Uses the
+            // server's own returned displayName/pictureUrl (not the cached
+            // attemptState ones) so a rename made via the edit icon on an
+            // earlier set — or from another device/tab — stays in sync.
+            submitLeaderboardScoreGoogle(correctCount, total).then((result) => {
+                const displayName = (result && result.displayName) || attemptState.displayName;
+                const pictureUrl = (result && result.pictureUrl) || attemptState.pictureUrl;
+                saveAttemptLeaderboardState({ ...attemptState, displayName, pictureUrl });
+                revealResults(displayName, pictureUrl, true);
                 showSaveStatus(result);
                 maybeShowCongratsOnce(attemptState, result && result.rank);
             });
@@ -771,15 +839,34 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         if (attemptState && attemptState.status === 'skipped') {
-            revealResults(attemptState.displayName || '', '', '');
+            revealResults(attemptState.displayName || '', '', false);
             return;
         }
 
-        // First set of this attempt and no decision made yet — ask now,
-        // rather than waiting for the whole quiz (which, for a long book
-        // like Genesis split into many 10-question sets, may never finish
-        // in one sitting).
-        openLeaderboardModal(correctCount, total);
+        // First set of this attempt and no decision made yet. If the player
+        // is already signed in via the shared wordofgod.in/auth session
+        // (window.QUIZ_GOOGLE_USER set server-side in quiz.php), join the
+        // leaderboard under that account automatically — no popup at all,
+        // since there's nothing left to ask them. The server decides the
+        // displayName to show (defaults to the Google profile name on a
+        // brand-new row), not window.QUIZ_GOOGLE_USER.name directly.
+        if (window.QUIZ_GOOGLE_USER && window.QUIZ_GOOGLE_USER.email) {
+            submitLeaderboardScoreGoogle(correctCount, total).then((result) => {
+                const displayName = (result && result.displayName) || window.QUIZ_GOOGLE_USER.name || window.QUIZ_GOOGLE_USER.email;
+                const pictureUrl = (result && result.pictureUrl) || window.QUIZ_GOOGLE_USER.picture || '';
+                const googleState = { status: 'google', displayName, pictureUrl };
+                saveAttemptLeaderboardState(googleState);
+                revealResults(displayName, pictureUrl, true);
+                showSaveStatus(result);
+                maybeShowCongratsOnce(googleState, result && result.rank);
+            });
+            return;
+        }
+
+        // Otherwise ask now, rather than waiting for the whole quiz (which,
+        // for a long book like Genesis split into many 10-question sets,
+        // may never finish in one sitting).
+        openLeaderboardModal();
     }
 
     function buildReviewListHtml() {

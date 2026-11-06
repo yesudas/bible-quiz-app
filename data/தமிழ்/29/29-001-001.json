@@ -1,0 +1,33 @@
+{
+  "id": "29-001-001",
+  "language": "ta",
+  "book_no": 29,
+  "book": "யோவேல்",
+  "chapter": 1,
+  "verse_reference": "யோவேல் 1:1",
+  "question_type": "IDENTIFY",
+  "difficulty": "Easy",
+  "question": "யோவேல் தீர்க்கதரிசியின் தந்தை யார்?",
+  "options": [
+    "பெத்துவேல்",
+    "ஆமோஸ்",
+    "மனாசே",
+    "பதானியேல்"
+  ],
+  "correct_option": 0,
+  "themes": [
+    "தீர்க்கதரிசனம்"
+  ],
+  "characters": [
+    "யோவேல்",
+    "பெத்துவேல்"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "பெத்துவேலின் குமாரனாகிய யோவேலுக்குக் கர்த்தருடைய வசனம் உண்டாயிற்று என்று வேதம் கூறுகிறது."
+}

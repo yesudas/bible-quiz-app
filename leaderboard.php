@@ -3,6 +3,12 @@ include __DIR__ . '/counter.php';
 include __DIR__ . '/version.php';
 require_once __DIR__ . '/partials.php';
 require_once __DIR__ . '/includes/quiz-leaderboard.php';
+require_once __DIR__ . '/includes/quiz-achievements.php';
+require_once __DIR__ . '/includes/google-auth-client.php';
+
+$googleUser = quizGoogleUser();
+$googleLoginUrl = quizGoogleLoginUrl(quizCurrentUrl());
+$googleLogoutUrl = quizGoogleLogoutUrl(quizCurrentUrl());
 
 $languages = quizDiscoverLanguages();
 $lang = $_GET['lang'] ?? $languages[0];
@@ -14,6 +20,7 @@ $view = ($_GET['view'] ?? 'top10') === 'all' ? 'all' : 'top10';
 $embed = isset($_GET['embed']) && $_GET['embed'] === '1';
 $labels = quizLeaderboardLabels($lang);
 $rows = quizLeaderboardReadPublic($view);
+$achievementTiers = quizAchievementProgress(0);
 
 $pageTitle = $labels['pageTitle'] . ' · Free Bible Quiz';
 $metaDescription = 'See the top Bible quiz scores on WordOfGod.in.';
@@ -52,9 +59,15 @@ $embedQuery = $embed ? '&embed=1' : '';
             </thead>
             <tbody>
                 <?php foreach ($rows as $i => $row): ?>
+                    <?php $pictureUrl = (string) ($row['pictureUrl'] ?? ''); ?>
                     <tr>
                         <td><?= (int) $i + 1 ?></td>
-                        <td><?= htmlspecialchars((string) ($row['displayName'] ?? '')) ?></td>
+                        <td class="leaderboard-name-cell">
+                            <?php if ($pictureUrl !== ''): ?>
+                                <img class="player-avatar" src="<?= htmlspecialchars($pictureUrl) ?>" alt="" width="28" height="28">
+                            <?php endif; ?>
+                            <?= htmlspecialchars((string) ($row['displayName'] ?? '')) ?>
+                        </td>
                         <td><?= htmlspecialchars((string) ($row['country'] ?? '')) ?></td>
                         <td><?= (int) ($row['score'] ?? 0) ?></td>
                     </tr>
@@ -72,6 +85,94 @@ $embedQuery = $embed ? '&embed=1' : '';
         <button type="button" class="btn btn-link" onclick="history.back()">← Back</button>
         <a href="<?= htmlspecialchars($homeHref) ?>?lang=<?= urlencode($lang) ?><?= $embedQuery ?>" class="btn btn-link">← Back to home</a>
     </div>
+
+    <div class="achievements-section card-panel">
+        <h2><?= htmlspecialchars($labels['achievementsHeading']) ?></h2>
+        <p class="achievements-intro"><?= htmlspecialchars($labels['achievementsIntro']) ?></p>
+
+        <p class="achievements-badge-banner" id="achievementsBadgeBanner" hidden></p>
+
+        <div class="achievements-identity" id="achievementsIdentity" hidden>
+            <span id="achievementsScoreText"></span>
+            <button type="button" class="btn btn-link btn-sm" id="achievementsEditBtn" title="<?= htmlspecialchars($labels['editName']) ?>" aria-label="<?= htmlspecialchars($labels['editName']) ?>"><i class="bi bi-pencil-square" aria-hidden="true"></i></button>
+            <?php if ($googleLogoutUrl !== null): ?>
+                <a href="<?= htmlspecialchars($googleLogoutUrl) ?>" class="btn btn-link btn-sm" id="achievementsLogoutBtn"><?= htmlspecialchars($labels['achievementsLogout']) ?></a>
+            <?php endif; ?>
+        </div>
+
+        <!-- Mobile-number login has been removed from this UI (Google sign-in
+             below is now the only login path); quizLeaderboardFindByMobile()
+             and the 'lookup' action in api/leaderboard.php are kept for legacy
+             rows and admin editing. -->
+        <div class="achievements-login" id="achievementsLoginWrap">
+            <?php if ($googleLoginUrl !== null): ?>
+                <a href="<?= htmlspecialchars($googleLoginUrl) ?>" class="btn btn-outline-primary btn-sm btn-google" id="achievementsGoogleBtn">
+                    <i class="bi bi-google" aria-hidden="true"></i> <?= htmlspecialchars($labels['signInGoogle']) ?>
+                </a>
+            <?php endif; ?>
+        </div>
+
+        <div id="achievementsEditModal" class="modal-overlay" hidden role="dialog" aria-modal="true" aria-labelledby="achievementsEditModalTitle">
+            <div class="modal-box">
+                <h2 id="achievementsEditModalTitle"><?= htmlspecialchars($labels['editName']) ?></h2>
+                <label class="modal-field">
+                    <span><?= htmlspecialchars($labels['displayName']) ?></span>
+                    <input type="text" id="achievementsEditDisplayName" maxlength="60">
+                </label>
+                <label class="modal-field">
+                    <span><?= htmlspecialchars($labels['profileNameLabel']) ?></span>
+                    <input type="text" id="achievementsEditProfileName" readonly disabled>
+                </label>
+                <label class="modal-field">
+                    <span><?= htmlspecialchars($labels['gmailIdLabel']) ?></span>
+                    <input type="text" id="achievementsEditEmail" readonly disabled>
+                </label>
+                <p class="modal-error" id="achievementsEditError" hidden></p>
+                <div class="modal-actions">
+                    <button type="button" class="btn btn-primary btn-sm" id="achievementsEditSaveBtn"><?= htmlspecialchars($labels['saveName']) ?></button>
+                    <button type="button" class="btn btn-link btn-sm" id="achievementsEditCancelBtn"><?= htmlspecialchars($labels['cancelEdit']) ?></button>
+                </div>
+            </div>
+        </div>
+
+        <div class="achievement-tiers" id="achievementTiers">
+            <?php foreach ($achievementTiers as $tier): ?>
+                <div class="achievement-tier">
+                    <span class="achievement-tier-label" style="--tier-color: <?= htmlspecialchars($tier['color']) ?>"><?= htmlspecialchars($tier['label']) ?></span>
+                    <div class="achievement-tier-stars">
+                        <?php foreach ($tier['stars'] as $i => $lit): ?>
+                            <?php $threshold = (int) ($tier['thresholds'][$i] ?? 0); ?>
+                            <div class="achievement-star-wrap">
+                                <span
+                                    class="achievement-star<?= $lit ? ' is-lit' : '' ?>"
+                                    data-tier="<?= htmlspecialchars($tier['key']) ?>"
+                                    data-index="<?= (int) $i ?>"
+                                    style="--tier-color: <?= htmlspecialchars($tier['color']) ?>"
+                                    title="<?= $threshold ?>+"
+                                >★</span>
+                                <span
+                                    class="achievement-star-remaining"
+                                    data-tier="<?= htmlspecialchars($tier['key']) ?>"
+                                    data-index="<?= (int) $i ?>"
+                                    data-threshold="<?= $threshold ?>"
+                                ><?= $lit ? '' : htmlspecialchars((string) $threshold) . ' ' . htmlspecialchars($labels['achievementsToGo']) ?></span>
+                            </div>
+                        <?php endforeach; ?>
+                    </div>
+                </div>
+            <?php endforeach; ?>
+        </div>
+    </div>
 </div>
+
+<script>
+    window.QUIZ_ACHIEVEMENTS_I18N = <?= json_encode([
+        'scoreLabel' => $labels['achievementsScoreLabel'],
+        'toGo' => $labels['achievementsToGo'],
+        'badgeMessage' => $labels['achievementsBadgeMessage'],
+    ], JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) ?>;
+    window.QUIZ_GOOGLE_USER = <?= json_encode($googleUser) ?>;
+</script>
+<script src="assets/js/leaderboard.js?v=<?= htmlspecialchars($version) ?>" defer></script>
 
 <?php renderQuizFooter($version, ['embed' => $embed]); ?>

@@ -1,0 +1,33 @@
+{
+  "id": "42-001-011",
+  "language": "ta",
+  "book_no": 42,
+  "book": "லூக்கா",
+  "chapter": 1,
+  "verse_reference": "லூக்கா 1:37",
+  "question_type": "FILL_BLANK",
+  "difficulty": "Easy",
+  "question": "\"தேவனாலே ______ காரியம் ஒன்றுமில்லை.\"",
+  "options": [
+    "மறைவான",
+    "கூடாத",
+    "தாமதமான",
+    "அறியப்படாத"
+  ],
+  "correct_option": 1,
+  "themes": [
+    "விசுவாசம்",
+    "வாக்குத்தத்தம்"
+  ],
+  "characters": [
+    "காபிரியேல்"
+  ],
+  "places": [],
+  "audiences": [
+    "kids",
+    "teens",
+    "adults",
+    "seniors"
+  ],
+  "explanation": "லூக்கா 1:37-ல், 'தேவனாலே கூடாத காரியம் ஒன்றுமில்லை' என்று திட்டவட்டமாக எழுதப்பட்டுள்ளது."
+}

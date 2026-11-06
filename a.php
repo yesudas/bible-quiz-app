@@ -11,10 +11,14 @@
 
 require_once __DIR__ . '/admin-credentials.php';
 require_once __DIR__ . '/includes/visitor-counter.php';
+require_once __DIR__ . '/includes/share-counter.php';
+require_once __DIR__ . '/includes/embed-counter.php';
+require_once __DIR__ . '/includes/download-counter.php';
 require_once __DIR__ . '/includes/quiz-stats.php';
 require_once __DIR__ . '/includes/quiz-i18n.php';
 require_once __DIR__ . '/includes/mistake-reports.php';
 require_once __DIR__ . '/includes/quiz-leaderboard.php';
+require_once __DIR__ . '/includes/quiz-achievements.php';
 require_once __DIR__ . '/partials.php';
 
 // ── Configuration ────────────────────────────────────────────────────────────
@@ -510,6 +514,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isLoggedIn()) {
         exit;
     }
 
+    // Revert a logged leaderboard display-name change back to its earlier name
+    if ($action === 'revert_leaderboard_name') {
+        quizLeaderboardRevertNameChange((string)($_POST['log_id'] ?? ''));
+        header('Location: a.php?view=leaderboard');
+        exit;
+    }
+
     // Edit the per-language "quizzes completed" / "questions answered" totals
     if ($action === 'edit_quiz_stats') {
         $quizLangs = array_map('intval', (array) ($_POST['quizzes'] ?? []));
@@ -517,6 +528,18 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isLoggedIn()) {
         quizSetQuizzesCompleted($quizLangs);
         quizSetQuestionsAnswered($questionLangs);
         header('Location: a.php?view=stats');
+        exit;
+    }
+
+    // Edit the Achievements star-tier thresholds (leaderboard.php)
+    if ($action === 'edit_achievement_thresholds') {
+        $tierInput = (array) ($_POST['tiers'] ?? []);
+        $thresholds = [];
+        foreach (array_keys(quizAchievementTiers()) as $tierKey) {
+            $thresholds[$tierKey] = array_map('intval', (array) ($tierInput[$tierKey] ?? []));
+        }
+        quizAchievementSetThresholds($thresholds);
+        header('Location: a.php?view=achievements');
         exit;
     }
 
@@ -547,7 +570,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isLoggedIn()) {
             $msg = "Saved $rel. Rebuild the quiz index if you changed themes, characters, places or difficulty.";
             $msgType = 'success';
             if (!empty($_POST['also_dismiss'])) {
-                quizMistakeDismiss((string)($_POST['report_id'] ?? ''));
+                quizMistakeMarkResolved((string)($_POST['report_id'] ?? ''));
             }
         }
         $_GET['view'] = 'mistakes';
@@ -880,10 +903,29 @@ if (($_GET['view'] ?? '') === 'reports') {
     exit;
 }
 
+// ── Download a reported question's JSON (from the mistakes screen) ──────────
+if (($_GET['view'] ?? '') === 'mistake_download') {
+    $full = quizResolveQuestionPath((string) ($_GET['path'] ?? ''));
+    if ($full === false) {
+        http_response_code(404);
+        exit('File not found.');
+    }
+    header('Content-Type: application/json');
+    header('Content-Disposition: attachment; filename="' . basename($full) . '"');
+    header('Content-Length: ' . (string) filesize($full));
+    header('X-Content-Type-Options: nosniff');
+    readfile($full);
+    exit;
+}
+
 // ── Reported quiz mistakes view ──────────────────────────────────────────────
 if (($_GET['view'] ?? '') === 'mistakes') {
     $csrf = csrfToken();
-    $reports = array_reverse(quizMistakeReadAll());
+    $allMistakeReports = array_reverse(quizMistakeReadAll());
+    $openReports = array_values(array_filter($allMistakeReports, static fn (array $r): bool => !quizMistakeIsResolved($r)));
+    $resolvedReports = array_values(array_filter($allMistakeReports, static fn (array $r): bool => quizMistakeIsResolved($r)));
+    $mistakeTab = ($_GET['tab'] ?? 'open') === 'resolved' ? 'resolved' : 'open';
+    $reports = $mistakeTab === 'resolved' ? $resolvedReports : $openReports;
     $openEdit = (string)($_POST['_keep_edit'] ?? '');
     ?>
 <!DOCTYPE html>
@@ -945,12 +987,19 @@ if (($_GET['view'] ?? '') === 'mistakes') {
         }
         .edit-form textarea:focus { border-color: #2980b9; outline: none; }
         .empty-state { text-align: center; padding: 48px 20px; color: #7f8c8d; font-size: .95rem; }
+        .tab-bar { max-width: 960px; margin: 16px auto 0; padding: 0 16px; display: flex; gap: 6px; }
+        .tab-link {
+            padding: 9px 18px; border-radius: 8px 8px 0 0; font-size: .85rem; font-weight: 600;
+            text-decoration: none; color: #566573; background: #eef2f5; border: 1px solid #dce3ec; border-bottom: none;
+        }
+        .tab-link.active { background: #fff; color: #1a5276; box-shadow: 0 -2px 6px rgba(0,0,0,.04); }
+        .badge-resolved { display: inline-block; margin-top: 4px; padding: 2px 8px; border-radius: 10px; font-size: .72rem; font-weight: 700; background: #eafaf1; color: #1e8449; }
     </style>
 </head>
 <body>
 
 <div class="admin-header">
-    <h1>🛠️ Reported Mistakes <span style="opacity:.7;font-weight:400;">(<?= count($reports) ?>)</span></h1>
+    <h1>🛠️ Reported Mistakes <span style="opacity:.7;font-weight:400;">(<?= count($openReports) ?> open, <?= count($resolvedReports) ?> resolved)</span></h1>
     <form method="POST" action="a.php">
         <input type="hidden" name="action" value="logout">
         <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
@@ -962,6 +1011,11 @@ if (($_GET['view'] ?? '') === 'mistakes') {
     <a class="btn btn-secondary" href="a.php">⬅ Back to Admin</a>
 </div>
 
+<div class="tab-bar">
+    <a class="tab-link<?= $mistakeTab === 'open' ? ' active' : '' ?>" href="a.php?view=mistakes&amp;tab=open">Open (<?= count($openReports) ?>)</a>
+    <a class="tab-link<?= $mistakeTab === 'resolved' ? ' active' : '' ?>" href="a.php?view=mistakes&amp;tab=resolved">Resolved (<?= count($resolvedReports) ?>)</a>
+</div>
+
 <?php if ($msg): ?>
     <div class="alert alert-<?= $msgType ?>"><?= htmlspecialchars($msg) ?></div>
 <?php endif; ?>
@@ -970,7 +1024,7 @@ if (($_GET['view'] ?? '') === 'mistakes') {
     <?php if (empty($reports)): ?>
         <div class="empty-state">
             <span style="font-size:2.5rem;display:block;margin-bottom:10px;">🎉</span>
-            No mistakes have been reported.
+            <?= $mistakeTab === 'resolved' ? 'Nothing resolved yet.' : 'No open mistakes.' ?>
         </div>
     <?php else: ?>
         <?php foreach ($reports as $r):
@@ -992,6 +1046,9 @@ if (($_GET['view'] ?? '') === 'mistakes') {
                 <?php endif; ?>
                 <?php if ($full === false): ?>
                     <span class="badge-count" style="background:#fdf2f2;color:#c0392b;">❌ File no longer exists</span>
+                <?php endif; ?>
+                <?php if ($mistakeTab === 'resolved'): ?>
+                    <span class="badge-resolved">✅ Resolved <?= htmlspecialchars((string)($r['resolved_at'] ?? '')) ?></span>
                 <?php endif; ?>
 
                 <dl class="report-grid">
@@ -1019,8 +1076,11 @@ if (($_GET['view'] ?? '') === 'mistakes') {
                         <button type="button" class="btn btn-primary btn-sm"
                                 onclick="document.getElementById('<?= $formId ?>').classList.toggle('open')">✏️ Edit</button>
                     <?php endif; ?>
+                    <?php if ($full !== false): ?>
+                        <a class="btn btn-secondary btn-sm" href="a.php?view=mistake_download&amp;path=<?= urlencode($relPath) ?>">⬇️ Download</a>
+                    <?php endif; ?>
                     <form method="POST" action="a.php?view=mistakes"
-                          onsubmit="return confirm('Dismiss this report without editing?');">
+                          onsubmit="return confirm('Dismiss this report<?= $mistakeTab === 'resolved' ? ' and remove it from the resolved history' : ' without editing' ?>?');">
                         <input type="hidden" name="action" value="dismiss_mistake">
                         <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
                         <input type="hidden" name="report_id" value="<?= htmlspecialchars((string)$r['id']) ?>">
@@ -1037,7 +1097,9 @@ if (($_GET['view'] ?? '') === 'mistakes') {
                         <textarea name="json_content" spellcheck="false"><?= htmlspecialchars($editText) ?></textarea>
                         <div class="report-actions">
                             <button type="submit" class="btn btn-primary btn-sm">💾 Save</button>
-                            <button type="submit" name="also_dismiss" value="1" class="btn btn-secondary btn-sm">💾 Save &amp; mark resolved</button>
+                            <?php if ($mistakeTab === 'open'): ?>
+                                <button type="submit" name="also_dismiss" value="1" class="btn btn-secondary btn-sm">💾 Save &amp; mark resolved</button>
+                            <?php endif; ?>
                             <button type="button" class="btn btn-secondary btn-sm"
                                     onclick="document.getElementById('<?= $formId ?>').classList.remove('open')">Cancel</button>
                         </div>
@@ -1215,11 +1277,333 @@ if (($_GET['view'] ?? '') === 'stats') {
     exit;
 }
 
+// ── Achievements thresholds view ─────────────────────────────────────────────
+// Configures the star-tier milestones shown on leaderboard.php's Achievements
+// section (includes/quiz-achievements.php). Each of the 5 tiers has 5
+// ascending lifetime-correct-answer thresholds — one per star.
+if (($_GET['view'] ?? '') === 'achievements') {
+    $csrf = csrfToken();
+    $achievementTierMeta = quizAchievementTiers();
+    $achievementThresholds = quizAchievementReadThresholds();
+    ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Achievements — Admin</title>
+    <meta name="robots" content="noindex, nofollow">
+    <link rel="stylesheet" href="styles.css?v=<?= filemtime(__DIR__ . '/styles.css') ?>">
+    <style>
+        .admin-header {
+            background: linear-gradient(135deg, #154360 0%, #1a2535 100%);
+            color: #fff; padding: 14px 20px;
+            display: flex; align-items: center; justify-content: space-between; gap: 12px;
+        }
+        .admin-header h1 { font-size: 1.15rem; font-weight: 700; }
+        .btn-logout {
+            background: rgba(255,255,255,.15); color: #fff;
+            border: 1px solid rgba(255,255,255,.3); padding: 7px 16px;
+            border-radius: 6px; font-size: .83rem; font-weight: 600; cursor: pointer;
+        }
+        .action-bar { max-width: 960px; margin: 16px auto 0; padding: 0 16px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+        .btn { display: inline-flex; align-items: center; gap: 6px; padding: 8px 16px;
+            border-radius: 7px; font-size: .85rem; font-weight: 600; cursor: pointer;
+            border: none; text-decoration: none; }
+        .btn-secondary { background: #f0f4f8; color: #2c3e50; border: 1px solid #dce3ec; }
+        .btn-secondary:hover { background: #e2ecf5; }
+        .btn-primary { background: #2980b9; color: #fff; }
+        .btn-primary:hover { background: #1f6fa5; }
+        .btn-sm { padding: 6px 14px; font-size: .78rem; }
+        .stats-wrap { max-width: 960px; margin: 20px auto; padding: 0 16px; }
+        .stats-section { background: #fff; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,.06); margin-bottom: 24px; overflow: hidden; }
+        .stats-section h2 { font-size: 1rem; padding: 14px 16px; margin: 0; background: #f0f4f8; border-bottom: 1px solid #dce3ec; }
+        .stats-table-wrap { max-height: 420px; overflow-y: auto; }
+        .stats-table { width: 100%; border-collapse: collapse; }
+        .stats-table th, .stats-table td { padding: 8px 12px; text-align: left; border-bottom: 1px solid #dce3ec; font-size: .86rem; }
+        .stats-table th { background: #f7fafc; }
+        .stats-table tbody tr:last-child td { border-bottom: none; }
+        .stats-table input[type="number"] { width: 90px; padding: 6px 8px; border: 1.5px solid #dce3ec; border-radius: 6px; font-size: .85rem; }
+        .stats-save-bar { padding: 12px 16px; border-top: 1px solid #dce3ec; }
+        .tier-swatch { display: inline-block; width: 12px; height: 12px; border-radius: 50%; margin-right: 6px; vertical-align: middle; }
+    </style>
+</head>
+<body>
+
+<div class="admin-header">
+    <h1>🏅 Achievements</h1>
+    <form method="POST" action="a.php">
+        <input type="hidden" name="action" value="logout">
+        <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
+        <button type="submit" class="btn-logout">Logout</button>
+    </form>
+</div>
+
+<div class="action-bar">
+    <a class="btn btn-secondary" href="a.php">⬅ Back to Admin</a>
+</div>
+
+<div class="stats-wrap">
+    <form method="POST" action="a.php?view=achievements">
+        <input type="hidden" name="action" value="edit_achievement_thresholds">
+        <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
+        <div class="stats-section">
+            <h2>Star-tier thresholds <span style="opacity:.6;font-weight:400;">(lifetime correct answers needed for each star, Star 1 → Star 5)</span></h2>
+            <div class="stats-table-wrap">
+                <table class="stats-table">
+                    <thead>
+                        <tr><th>Tier</th><th>Star 1</th><th>Star 2</th><th>Star 3</th><th>Star 4</th><th>Star 5</th></tr>
+                    </thead>
+                    <tbody>
+                        <?php foreach ($achievementTierMeta as $tierKey => $meta): ?>
+                            <tr>
+                                <td><span class="tier-swatch" style="background: <?= htmlspecialchars($meta['color']) ?>"></span><?= htmlspecialchars($meta['label']) ?></td>
+                                <?php for ($i = 0; $i < 5; $i++): ?>
+                                    <td><input type="number" min="0" name="tiers[<?= htmlspecialchars($tierKey) ?>][]" value="<?= (int) ($achievementThresholds[$tierKey][$i] ?? 0) ?>"></td>
+                                <?php endfor; ?>
+                            </tr>
+                        <?php endforeach; ?>
+                    </tbody>
+                </table>
+            </div>
+            <div class="stats-save-bar">
+                <button type="submit" class="btn btn-primary btn-sm">💾 Save</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+</body>
+</html>
+    <?php
+    exit;
+}
+
+// ── Question summary view ────────────────────────────────────────────────────
+// Read-only — unlike the Quiz Stats view above (player activity, stored in
+// mutable counters/*.txt), this reads straight from each language's already-
+// built index/{Language}/catalog.json, so there's nothing to edit here: the
+// numbers are only ever as fresh as the last index rebuild (⚙️ Rebuild Quiz
+// Index on the admin home page).
+if (($_GET['view'] ?? '') === 'catalog') {
+    $csrf = csrfToken();
+
+    $catalogLanguages = quizDiscoverLanguages();
+    $catalogByLang = [];
+    foreach ($catalogLanguages as $lang) {
+        $catalogByLang[$lang] = quizCatalogForLanguage($lang);
+    }
+
+    $selectedCatalogLang = (string) ($_GET['cat_lang'] ?? ($catalogLanguages[0] ?? ''));
+    if (!in_array($selectedCatalogLang, $catalogLanguages, true)) {
+        $selectedCatalogLang = $catalogLanguages[0] ?? '';
+    }
+    $selectedCatalog = $catalogByLang[$selectedCatalogLang] ?? null;
+    $bookNamesCanonical = bibleBookNames();
+
+    /** Renders a scrollable label+count table for topics/characters/places. */
+    $renderCountTable = static function (string $title, string $countLabel, array $items) : void {
+        $items = $items;
+        usort($items, static fn (array $a, array $b): int => (int) $b['question_count'] <=> (int) $a['question_count']);
+        ?>
+        <div class="stats-section">
+            <h2><?= htmlspecialchars($title) ?> <span style="opacity:.6;font-weight:400;">(<?= count($items) ?>)</span></h2>
+            <?php if ($items === []): ?>
+                <p class="empty-state">None.</p>
+            <?php else: ?>
+                <div class="stats-table-wrap">
+                    <table class="stats-table">
+                        <thead><tr><th><?= htmlspecialchars($countLabel) ?></th><th>Questions</th></tr></thead>
+                        <tbody>
+                            <?php foreach ($items as $item): ?>
+                                <tr>
+                                    <td><?= htmlspecialchars((string) ($item['label'] ?? $item['slug'] ?? '')) ?></td>
+                                    <td><?= number_format((int) ($item['question_count'] ?? 0)) ?></td>
+                                </tr>
+                            <?php endforeach; ?>
+                        </tbody>
+                    </table>
+                </div>
+            <?php endif; ?>
+        </div>
+        <?php
+    };
+    ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Question Summary — Admin</title>
+    <meta name="robots" content="noindex, nofollow">
+    <link rel="stylesheet" href="styles.css?v=<?= filemtime(__DIR__ . '/styles.css') ?>">
+    <style>
+        .admin-header {
+            background: linear-gradient(135deg, #154360 0%, #1a2535 100%);
+            color: #fff; padding: 14px 20px;
+            display: flex; align-items: center; justify-content: space-between; gap: 12px;
+        }
+        .admin-header h1 { font-size: 1.15rem; font-weight: 700; }
+        .btn-logout {
+            background: rgba(255,255,255,.15); color: #fff;
+            border: 1px solid rgba(255,255,255,.3); padding: 7px 16px;
+            border-radius: 6px; font-size: .83rem; font-weight: 600; cursor: pointer;
+        }
+        .action-bar { max-width: 960px; margin: 16px auto 0; padding: 0 16px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+        .btn { display: inline-flex; align-items: center; gap: 6px; padding: 8px 16px;
+            border-radius: 7px; font-size: .85rem; font-weight: 600; cursor: pointer;
+            border: none; text-decoration: none; }
+        .btn-secondary { background: #f0f4f8; color: #2c3e50; border: 1px solid #dce3ec; }
+        .btn-secondary:hover { background: #e2ecf5; }
+        .btn-sm { padding: 6px 14px; font-size: .78rem; }
+        .stats-wrap { max-width: 960px; margin: 20px auto; padding: 0 16px; }
+        .stats-section { background: #fff; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,.06); margin-bottom: 24px; overflow: hidden; }
+        .stats-section h2 { font-size: 1rem; padding: 14px 16px; margin: 0; background: #f0f4f8; border-bottom: 1px solid #dce3ec; }
+        .stats-table-wrap { max-height: 420px; overflow-y: auto; }
+        .stats-table { width: 100%; border-collapse: collapse; }
+        .stats-table th, .stats-table td { padding: 8px 12px; text-align: left; border-bottom: 1px solid #dce3ec; font-size: .86rem; }
+        .stats-table th { background: #f7fafc; position: sticky; top: 0; }
+        .stats-table tbody tr:last-child td { border-bottom: none; }
+        .stats-table tfoot td { font-weight: 700; background: #f7fafc; }
+        .stats-lang-picker { padding: 12px 16px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+        .stats-lang-picker select { padding: 7px 10px; border: 1.5px solid #dce3ec; border-radius: 6px; font-size: .85rem; }
+        .empty-state { text-align: center; padding: 24px 20px; color: #7f8c8d; font-size: .9rem; }
+        .cat-stale { opacity: .6; font-style: italic; }
+        .summary-cards { display: flex; gap: 12px; flex-wrap: wrap; padding: 14px 16px; }
+        .summary-card { background: #f7fafc; border: 1px solid #dce3ec; border-radius: 8px; padding: 10px 16px; min-width: 110px; text-align: center; }
+        .summary-card .num { font-size: 1.3rem; font-weight: 700; color: #154360; }
+        .summary-card .lbl { font-size: .75rem; color: #7f8c8d; text-transform: uppercase; letter-spacing: .03em; }
+    </style>
+</head>
+<body>
+
+<div class="admin-header">
+    <h1>📋 Question Summary</h1>
+    <form method="POST" action="a.php">
+        <input type="hidden" name="action" value="logout">
+        <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
+        <button type="submit" class="btn-logout">Logout</button>
+    </form>
+</div>
+
+<div class="action-bar">
+    <a class="btn btn-secondary" href="a.php">⬅ Back to Admin</a>
+</div>
+
+<div class="stats-wrap">
+    <div class="stats-section">
+        <h2>All Languages — Overview</h2>
+        <div class="stats-table-wrap">
+            <table class="stats-table">
+                <thead>
+                    <tr>
+                        <th>Language</th><th>Total</th><th>Books</th><th>Topics</th><th>Characters</th><th>Places</th>
+                        <th>Easy</th><th>Medium</th><th>Difficult</th>
+                        <th>Kids</th><th>Teens</th><th>Adults</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <?php foreach ($catalogLanguages as $lang): $c = $catalogByLang[$lang]; ?>
+                        <?php if ($c === null): ?>
+                            <tr>
+                                <td><?= htmlspecialchars(quizLanguageDisplayName($lang)) ?></td>
+                                <td colspan="11" class="cat-stale">Index not built yet — use ⚙️ Rebuild Quiz Index</td>
+                            </tr>
+                        <?php else: $diff = $c['difficulties'] ?? []; $aud = $c['audiences'] ?? []; ?>
+                            <tr>
+                                <td><?= htmlspecialchars(quizLanguageDisplayName($lang)) ?></td>
+                                <td><?= number_format((int) ($c['question_count'] ?? 0)) ?></td>
+                                <td><?= count($c['books'] ?? []) ?></td>
+                                <td><?= count($c['topics'] ?? []) ?></td>
+                                <td><?= count($c['characters'] ?? []) ?></td>
+                                <td><?= count($c['places'] ?? []) ?></td>
+                                <td><?= number_format((int) ($diff['easy'] ?? 0)) ?></td>
+                                <td><?= number_format((int) ($diff['medium'] ?? 0)) ?></td>
+                                <td><?= number_format((int) ($diff['difficult'] ?? 0)) ?></td>
+                                <td><?= number_format((int) ($aud['kids'] ?? 0)) ?></td>
+                                <td><?= number_format((int) ($aud['teens'] ?? 0)) ?></td>
+                                <td><?= number_format((int) ($aud['adults'] ?? 0)) ?></td>
+                            </tr>
+                        <?php endif; ?>
+                    <?php endforeach; ?>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="stats-section">
+        <h2>Language Detail</h2>
+        <form method="GET" action="a.php" class="stats-lang-picker">
+            <input type="hidden" name="view" value="catalog">
+            <label for="cat_lang_select">Language:</label>
+            <select name="cat_lang" id="cat_lang_select" onchange="this.form.submit()">
+                <?php foreach ($catalogLanguages as $lo): ?>
+                    <option value="<?= htmlspecialchars($lo) ?>" <?= $lo === $selectedCatalogLang ? 'selected' : '' ?>><?= htmlspecialchars(quizLanguageDisplayName($lo)) ?></option>
+                <?php endforeach; ?>
+            </select>
+        </form>
+
+        <?php if ($selectedCatalog === null): ?>
+            <p class="empty-state">No index built yet for <?= htmlspecialchars(quizLanguageDisplayName($selectedCatalogLang)) ?>. Use ⚙️ Rebuild Quiz Index on the admin home page.</p>
+        <?php else: ?>
+            <div class="summary-cards">
+                <div class="summary-card"><div class="num"><?= number_format((int) ($selectedCatalog['question_count'] ?? 0)) ?></div><div class="lbl">Total questions</div></div>
+                <div class="summary-card"><div class="num"><?= count($selectedCatalog['books'] ?? []) ?></div><div class="lbl">Books</div></div>
+                <div class="summary-card"><div class="num"><?= count($selectedCatalog['topics'] ?? []) ?></div><div class="lbl">Topics</div></div>
+                <div class="summary-card"><div class="num"><?= count($selectedCatalog['characters'] ?? []) ?></div><div class="lbl">Characters</div></div>
+                <div class="summary-card"><div class="num"><?= count($selectedCatalog['places'] ?? []) ?></div><div class="lbl">Places</div></div>
+            </div>
+            <p style="padding: 0 16px 14px; font-size: .78rem; color: #95a5a6;">Index last built <?= htmlspecialchars((string) ($selectedCatalog['generated'] ?? '—')) ?>. A topic/character/place can appear on more than one question and a question can carry more than one tag, so those counts don't sum to the total.</p>
+        <?php endif; ?>
+    </div>
+
+    <?php if ($selectedCatalog !== null): ?>
+        <div class="stats-section">
+            <h2>Books <span style="opacity:.6;font-weight:400;">(<?= htmlspecialchars(quizLanguageDisplayName($selectedCatalogLang)) ?>)</span></h2>
+            <div class="stats-table-wrap">
+                <table class="stats-table">
+                    <thead><tr><th>#</th><th>Book</th><th>Chapters</th><th>Questions</th></tr></thead>
+                    <tbody>
+                        <?php foreach (($selectedCatalog['books'] ?? []) as $book): ?>
+                            <tr>
+                                <td><?= htmlspecialchars((string) ($book['no'] ?? $book['key'] ?? '')) ?></td>
+                                <td><?= htmlspecialchars((string) ($book['name'] ?? $bookNamesCanonical[(int) ($book['no'] ?? 0)] ?? '')) ?></td>
+                                <td><?= count($book['chapters'] ?? []) ?></td>
+                                <td><?= number_format((int) ($book['question_count'] ?? 0)) ?></td>
+                            </tr>
+                        <?php endforeach; ?>
+                    </tbody>
+                    <tfoot>
+                        <tr><td colspan="3">Total</td><td><?= number_format((int) ($selectedCatalog['question_count'] ?? 0)) ?></td></tr>
+                    </tfoot>
+                </table>
+            </div>
+        </div>
+
+        <?php
+        $renderCountTable('Topics', 'Topic', $selectedCatalog['topics'] ?? []);
+        $renderCountTable('Characters', 'Character', $selectedCatalog['characters'] ?? []);
+        $renderCountTable('Places', 'Place', $selectedCatalog['places'] ?? []);
+        ?>
+    <?php endif; ?>
+</div>
+
+</body>
+</html>
+    <?php
+    exit;
+}
+
 // ── Leaderboard view ─────────────────────────────────────────────────────────
 if (($_GET['view'] ?? '') === 'leaderboard') {
     $csrf = csrfToken();
     $entries = quizLeaderboardReadAllAdmin();
     usort($entries, static fn (array $a, array $b): int => ($b['correctCount'] ?? 0) <=> ($a['correctCount'] ?? 0));
+    $entriesByHash = [];
+    foreach ($entries as $e) {
+        $entriesByHash[(string)($e['matchHash'] ?? $e['id'] ?? '')] = $e;
+    }
+    $nameLog = quizLeaderboardReadNameLog();
     ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -1269,6 +1653,8 @@ if (($_GET['view'] ?? '') === 'leaderboard') {
         }
         .lb-edit-form input[name="correctCount"], .lb-edit-form input[name="totalQuestions"] { width: 90px; }
         .lb-edit-form .field-name { flex: 1; min-width: 160px; }
+        .lb-section-title { font-size: 1rem; font-weight: 700; color: #2c3e50; margin: 32px 0 10px; }
+        .lb-reverted { color: #7f8c8d; font-style: italic; }
     </style>
 </head>
 <body>
@@ -1362,6 +1748,58 @@ if (($_GET['view'] ?? '') === 'leaderboard') {
             </tbody>
         </table>
     <?php endif; ?>
+
+    <div class="lb-section-title">📝 Name Change History <span style="opacity:.7;font-weight:400;">(<?= count($nameLog) ?>)</span></div>
+    <?php if (empty($nameLog)): ?>
+        <div class="empty-state">
+            <span style="font-size:2.5rem;display:block;margin-bottom:10px;">📝</span>
+            No display-name changes have been logged yet.
+        </div>
+    <?php else: ?>
+        <table class="lb-table">
+            <thead>
+                <tr>
+                    <th>When</th>
+                    <th>Mobile number</th>
+                    <th>From</th>
+                    <th>To</th>
+                    <th>By</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <?php foreach ($nameLog as $logEntry):
+                    $logId = (string)($logEntry['id'] ?? '');
+                    $logHash = (string)($logEntry['matchHash'] ?? '');
+                    $ownerRow = $entriesByHash[$logHash] ?? null;
+                    $ownerMobile = $ownerRow ? quizLeaderboardDecryptMobile((string)($ownerRow['mobileEnc'] ?? '')) : null;
+                    $reverted = (bool)($logEntry['reverted'] ?? false);
+                ?>
+                    <tr>
+                        <td><?= htmlspecialchars((string)($logEntry['at'] ?? '')) ?></td>
+                        <td class="lb-mobile"><?= htmlspecialchars($ownerMobile !== null ? $ownerMobile : '—') ?></td>
+                        <td><?= htmlspecialchars((string)($logEntry['from'] ?? '')) ?></td>
+                        <td><?= htmlspecialchars((string)($logEntry['to'] ?? '')) ?></td>
+                        <td><?= htmlspecialchars((string)($logEntry['by'] ?? '')) ?></td>
+                        <td>
+                            <?php if ($reverted): ?>
+                                <span class="lb-reverted">↩️ Reverted<?= isset($logEntry['revertedAt']) ? ' ' . htmlspecialchars((string)$logEntry['revertedAt']) : '' ?></span>
+                            <?php elseif ($ownerRow === null): ?>
+                                <span class="lb-reverted">Entry removed</span>
+                            <?php else: ?>
+                                <form method="POST" action="a.php?view=leaderboard" onsubmit="return confirm('Revert this name back to &quot;<?= htmlspecialchars(addslashes((string)($logEntry['from'] ?? '')), ENT_QUOTES) ?>&quot;?');">
+                                    <input type="hidden" name="action" value="revert_leaderboard_name">
+                                    <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
+                                    <input type="hidden" name="log_id" value="<?= htmlspecialchars($logId) ?>">
+                                    <button type="submit" class="btn btn-secondary btn-sm">↩️ Revert</button>
+                                </form>
+                            <?php endif; ?>
+                        </td>
+                    </tr>
+                <?php endforeach; ?>
+            </tbody>
+        </table>
+    <?php endif; ?>
 </div>
 
 </body>
@@ -1384,7 +1822,31 @@ if ($currentRoot === '' && $currentPath !== '') {
 
 $atAdminHome = ($currentRoot === '' || normalizeAdminRoot($currentRoot) === false) && $currentPath === '';
 $visitorCounts = quizReadVisitorCounts();
-$mistakeCount = count(quizMistakeReadAll());
+$mistakeCount = count(array_filter(quizMistakeReadAll(), static fn (array $r): bool => !quizMistakeIsResolved($r)));
+
+// Same footer-widget metrics as counter.php exposes to the public pages —
+// read-only here, just mirrored for the admin home screen.
+$sharesCountTotal = quizReadShareCounts()['total'];
+$embedsCountTotal = quizReadEmbedCounts()['total'];
+$downloadsCountTotal = quizReadDownloadCounts()['total'];
+$quizzesCompletedCountTotal = quizReadQuizzesCompleted()['total'];
+$questionsAnsweredCountTotal = quizReadQuestionsAnswered()['total'];
+
+$questionsAnsweredByLangAdmin = quizReadQuestionsAnswered()['languages'];
+$topLanguageAdmin = '';
+if ($questionsAnsweredByLangAdmin) {
+    arsort($questionsAnsweredByLangAdmin);
+    $topLanguageAdmin = (string) array_key_first($questionsAnsweredByLangAdmin);
+}
+
+$questionsByBookTotalsAdmin = quizReadQuestionsByBook()['total'];
+arsort($questionsByBookTotalsAdmin);
+$topBookNumbersAdmin = array_slice(array_keys(array_filter($questionsByBookTotalsAdmin, static fn (int $c): bool => $c > 0)), 0, 3);
+$bookNamesForAdmin = quizBookNamesForLanguage(quizDiscoverLanguages()[0] ?? 'English');
+$topBooksAdmin = array_map(
+    static fn (string $no): string => $bookNamesForAdmin[(int) $no] ?? ('Book ' . $no),
+    $topBookNumbersAdmin
+);
 
 $dirs  = [];
 $files = [];
@@ -1569,6 +2031,7 @@ $csrf = csrfToken();
         }
         .visitor-stats-lang-name { font-weight: 600; color: #2c3e50; }
         .visitor-stats-lang-count { color: #2980b9; font-weight: 700; }
+        .visitor-stats-footer-metrics { margin-top: 10px; }
         @media (max-width: 600px) {
             .visitor-stats { flex-direction: column; align-items: flex-start; gap: 10px; }
             .visitor-stats-total {
@@ -1772,6 +2235,42 @@ $csrf = csrfToken();
             </div>
         <?php endif; ?>
     </div>
+    <div class="visitor-stats visitor-stats-footer-metrics">
+        <div class="visitor-stats-langs">
+            <div class="visitor-stats-lang">
+                <span class="visitor-stats-lang-name">Shares</span>
+                <span class="visitor-stats-lang-count"><?= number_format((int) $sharesCountTotal) ?></span>
+            </div>
+            <div class="visitor-stats-lang">
+                <span class="visitor-stats-lang-name">Embeds</span>
+                <span class="visitor-stats-lang-count"><?= number_format((int) $embedsCountTotal) ?></span>
+            </div>
+            <div class="visitor-stats-lang">
+                <span class="visitor-stats-lang-name">Downloads</span>
+                <span class="visitor-stats-lang-count"><?= number_format((int) $downloadsCountTotal) ?></span>
+            </div>
+            <div class="visitor-stats-lang">
+                <span class="visitor-stats-lang-name">Quizzes Completed</span>
+                <span class="visitor-stats-lang-count"><?= number_format((int) $quizzesCompletedCountTotal) ?></span>
+            </div>
+            <div class="visitor-stats-lang">
+                <span class="visitor-stats-lang-name">Questions Answered</span>
+                <span class="visitor-stats-lang-count"><?= number_format((int) $questionsAnsweredCountTotal) ?></span>
+            </div>
+            <?php if (!empty($topBooksAdmin)): ?>
+                <div class="visitor-stats-lang">
+                    <span class="visitor-stats-lang-name">Top 3 Books</span>
+                    <span class="visitor-stats-lang-count"><?= htmlspecialchars(implode(', ', $topBooksAdmin)) ?></span>
+                </div>
+            <?php endif; ?>
+            <?php if ($topLanguageAdmin !== ''): ?>
+                <div class="visitor-stats-lang">
+                    <span class="visitor-stats-lang-name">Top Language</span>
+                    <span class="visitor-stats-lang-count"><?= htmlspecialchars(quizLanguageDisplayName($topLanguageAdmin)) ?></span>
+                </div>
+            <?php endif; ?>
+        </div>
+    </div>
 <?php endif; ?>
 
 <!-- Action bar -->
@@ -1788,6 +2287,8 @@ $csrf = csrfToken();
     <a class="btn btn-secondary" href="a.php?view=mistakes" title="Questions reported by players as wrong">🛠️ Reported Mistakes<?= $mistakeCount ? ' (' . $mistakeCount . ')' : '' ?></a>
     <a class="btn btn-secondary" href="a.php?view=leaderboard" title="Players who joined the leaderboard">🏆 Leaderboard</a>
     <a class="btn btn-secondary" href="a.php?view=stats" title="Quizzes completed, questions answered, and by-book breakdown">📊 Quiz Stats</a>
+    <a class="btn btn-secondary" href="a.php?view=achievements" title="Star-tier thresholds shown on the leaderboard's Achievements section">🏅 Achievements</a>
+    <a class="btn btn-secondary" href="a.php?view=catalog" title="Question counts by language, book, topic, character, place, difficulty, and audience">📋 Question Summary</a>
     <a class="btn btn-secondary" href="i.php" title="Rebuild quiz indexes after adding or removing questions">⚙️ Rebuild Quiz Index</a>
     <a class="btn btn-secondary" href="sitemap.php" title="Regenerate sitemap.xml after adding or removing files">🗺️ Generate Sitemap</a>
 </div>

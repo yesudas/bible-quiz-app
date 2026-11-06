@@ -173,7 +173,8 @@ body {{
 .selection-line {{ font-size: 10pt; color: #4b4b4b; margin: 0 0 3pt; }}
 .question {{ margin: 0 0 10pt; page-break-inside: avoid; }}
 .question .qtext {{ font-weight: 700; font-size: 11.5pt; margin: 0 0 3pt; }}
-.question .opt {{ font-size: 10.5pt; margin: 0 0 1pt 14pt; }}
+.question .opts {{ margin: 2pt 0 0 14pt; }}
+.question .opt {{ display: inline-block; font-size: 10.5pt; margin: 0 26pt 2pt 0; }}
 .answers-columns {{ column-count: 2; column-gap: 28pt; column-fill: auto; }}
 .answer {{ font-size: 10.5pt; margin: 0 0 4pt; break-inside: avoid; page-break-inside: avoid; }}
 """
@@ -307,9 +308,11 @@ def build_questions_body(questions: list[dict]) -> str:
     rows = []
     for i, q in enumerate(questions, start=1):
         rows.append(f'<div class="question"><div class="qtext">{i}. {esc(q.get("question", ""))}</div>')
+        rows.append('<div class="opts">')
         for idx, opt in enumerate(q.get("options") or []):
             letter = OPTION_LETTERS[idx] if idx < len(OPTION_LETTERS) else "?"
-            rows.append(f'<div class="opt">{letter}. {esc(opt)}</div>')
+            rows.append(f'<span class="opt">{letter}). {esc(opt)}</span>')
+        rows.append("</div>")
         rows.append("</div>")
     return "\n".join(rows)
 

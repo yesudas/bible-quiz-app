@@ -1399,6 +1399,35 @@ input[type="radio"] {
     flex-wrap: wrap;
 }
 
+.modal-actions-google {
+    margin-top: 10px;
+}
+
+.btn-google {
+    width: 100%;
+    justify-content: center;
+}
+
+.modal-divider {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: var(--muted);
+    font-size: .8rem;
+    margin: 14px 0;
+}
+
+.modal-divider::before,
+.modal-divider::after {
+    content: '';
+    flex: 1;
+    border-bottom: 1px solid var(--border, #ddd);
+}
+
+.modal-divider span {
+    padding: 0 10px;
+}
+
 .leaderboard-player-info {
     margin-top: -6px;
     margin-bottom: 14px;
@@ -1443,21 +1472,169 @@ input[type="radio"] {
     text-align: center;
 }
 
-.player-mobile {
-    margin-left: 6px;
-    color: var(--muted);
+.player-avatar {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 8px;
+    object-fit: cover;
 }
 
-.player-mobile-toggle {
+.leaderboard-name-cell {
+    display: flex;
+    align-items: center;
+}
+
+.player-name-edit-btn {
+    margin-left: 4px;
+    color: var(--navy);
+    font-size: .9rem;
+    vertical-align: middle;
+}
+
+.player-name-edit-input {
+    font: inherit;
+    font-weight: 600;
+    padding: 2px 6px;
+    border: 1px solid var(--border, #ddd);
+    border-radius: 4px;
+}
+
+.player-name-edit-save,
+.player-name-edit-cancel {
     color: var(--navy);
     text-decoration: underline;
     cursor: pointer;
     font-size: .85rem;
-    margin-left: 4px;
+    margin-left: 6px;
 }
 
 .leaderboard-app {
     max-width: 720px;
+}
+
+/* Achievements section (leaderboard.php) — star tiers + mobile-number login */
+
+.achievements-section {
+    margin-top: 28px;
+    padding: 20px;
+    border-radius: 16px;
+    background: var(--surface);
+    box-shadow: 0 4px 16px rgba(58, 51, 80, 0.1);
+}
+
+.achievements-section h2 {
+    font-family: var(--font-brand);
+    margin: 0 0 6px;
+}
+
+.achievements-intro {
+    margin: 0 0 18px;
+    color: var(--muted);
+    font-size: .9rem;
+}
+
+.achievement-tiers {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    margin-bottom: 18px;
+}
+
+.achievement-tier {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    flex-wrap: wrap;
+}
+
+.achievement-tier-label {
+    min-width: 76px;
+    font-weight: 700;
+    font-size: .9rem;
+    color: var(--tier-color, var(--muted));
+}
+
+.achievement-tier-stars {
+    display: flex;
+    gap: 8px;
+}
+
+.achievement-star-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    width: 52px;
+}
+
+.achievement-star {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+    line-height: 1;
+    background: #e4e7eb;
+    color: #aab2bb;
+    transition: background .2s ease, color .2s ease, transform .2s ease;
+}
+
+.achievement-star.is-lit {
+    background: var(--tier-color, var(--navy));
+    color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.achievement-star-remaining {
+    font-size: .68rem;
+    color: var(--muted);
+    text-align: center;
+    line-height: 1.2;
+    min-height: 1.2em;
+}
+
+.achievements-badge-banner {
+    margin: 0 0 16px;
+    padding: 12px 16px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, var(--tier-color, #ffd700), #ff9f43);
+    color: #3a3350;
+    font-weight: 700;
+    font-size: .95rem;
+}
+
+.achievements-login-form {
+    margin-top: 12px;
+}
+
+.achievements-login-note {
+    margin: 0 0 10px;
+    font-size: .85rem;
+    color: var(--muted);
+}
+
+.achievements-identity {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    flex-wrap: wrap;
+    font-weight: 700;
+    font-size: 1.05rem;
+    margin-bottom: 18px;
+    padding: 12px 16px;
+    border-radius: 12px;
+    background: rgba(124, 92, 255, 0.1);
+}
+
+.achievements-identity-mobile {
+    font-weight: 500;
+    color: var(--muted);
+    font-size: .9rem;
 }
 
 .leaderboard-toolbar {
@@ -1860,6 +2037,17 @@ body.embed-page {
     display: block;
     width: 100%;
     height: auto;
+}
+
+.help-mockup + .help-mockup {
+    margin-top: 10px;
+}
+
+.help-step-note {
+    margin: 10px 0 0;
+    font-size: 0.85rem;
+    color: var(--muted);
+    font-style: italic;
 }
 
 @media (max-width: 480px) {

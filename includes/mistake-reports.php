@@ -143,3 +143,29 @@ function quizMistakeDismiss(string $id): bool
         array_filter($rows, static fn (array $r): bool => ($r['id'] ?? '') !== $id)
     ));
 }
+
+/**
+ * Marks a report resolved in place instead of removing it, so the "Resolved"
+ * tab on the admin mistakes screen keeps a record of what was corrected —
+ * unlike quizMistakeDismiss(), which is for discarding an invalid report
+ * entirely. A row with no `status` (anything logged before this existed) is
+ * treated as open by quizMistakeIsResolved() below.
+ */
+function quizMistakeMarkResolved(string $id): bool
+{
+    return quizMistakeMutate(static function (array $rows) use ($id): array {
+        foreach ($rows as &$row) {
+            if (($row['id'] ?? '') === $id) {
+                $row['status'] = 'resolved';
+                $row['resolved_at'] = date('Y-m-d H:i:s');
+            }
+        }
+        unset($row);
+        return $rows;
+    });
+}
+
+function quizMistakeIsResolved(array $row): bool
+{
+    return ($row['status'] ?? 'open') === 'resolved';
+}

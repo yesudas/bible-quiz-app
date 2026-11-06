@@ -32,6 +32,7 @@ renderQuizHeader($pageTitle, $metaDescription, $version, [
         <a href="#embed-app"><i class="bi bi-window" aria-hidden="true"></i> Embed App</a>
         <a href="#embed-quiz"><i class="bi bi-code-slash" aria-hidden="true"></i> Embed Quiz</a>
         <a href="#pdf"><i class="bi bi-file-earmark-pdf" aria-hidden="true"></i> Download PDF</a>
+        <a href="#competitions"><i class="bi bi-trophy" aria-hidden="true"></i> Competitions</a>
     </nav>
 </section>
 
@@ -297,6 +298,105 @@ renderQuizHeader($pageTitle, $metaDescription, $version, [
                 echo $svg;
                 ?>
             </div>
+        </li>
+    </ol>
+</section>
+
+<section class="card-panel help-section" id="competitions" aria-labelledby="competitions-title">
+    <h2 id="competitions-title" class="section-title"><i class="bi bi-trophy" aria-hidden="true"></i> Running a Competition</h2>
+    <p class="help-section-intro">Running a quiz night for a class, youth group, or church event? This combines Share Quiz, the built-in Leaderboard, and the "Settings for Competitions" options into one easy setup — no spreadsheets needed, and nothing for participants to send back manually.</p>
+
+    <ol class="help-steps">
+        <li class="help-step">
+            <h3>1. Build the competition quiz</h3>
+            <p>Follow <a href="#start-quiz">steps 1–5 of Start Quiz</a> to set the language, type, book/topic filters, questions per set, and difficulty you want everyone to be tested on.</p>
+        </li>
+
+        <li class="help-step">
+            <h3>2. Turn on "Settings for Competitions"</h3>
+            <p>Check <strong>Link expires after</strong> and set how long the contest should stay open (5 minutes to 30 days) so the link stops working once your event is over. Also check <strong>Allow only one attempt per visitor</strong> so nobody can replay it for a better score.</p>
+            <div class="help-mockup">
+                <?php
+                $svg = helpSvgStart(600, 110);
+                $svg .= helpLabel(20, 24, 'Settings for Competitions');
+                $svg .= helpCheckboxRow(20, 48, 'Link expires after', true);
+                $svg .= helpFieldBox(220, 36, 70, 24, '60', '');
+                $svg .= helpRadioRow(310, 52, 'Minutes', false);
+                $svg .= helpRadioRow(390, 52, 'Hours', true);
+                $svg .= helpCheckboxRow(20, 76, 'One attempt per visitor', true);
+                $svg .= helpHighlight(14, 36, 560, 56, 'Set a contest window', 'bottom');
+                $svg .= helpSvgEnd();
+                echo $svg;
+                ?>
+            </div>
+        </li>
+
+        <li class="help-step">
+            <h3>3. Tap "Share Quiz" and send the link to participants</h3>
+            <p>Copy the generated link and post it to your WhatsApp group, email list, or social media — whoever opens it plays the exact same competition quiz, under the same time/attempt limits.</p>
+            <div class="help-mockup"><?= helpActionButtonsMockup('share', 'Tap to generate the contest link') ?></div>
+            <div class="help-mockup"><?= helpCopyRowMockup('Shareable link', 'https://…/bible-quiz/index.php?test=abc123…', 'Paste into WhatsApp/email') ?></div>
+        </li>
+
+        <li class="help-step">
+            <h3>4. Tell participants to join the Leaderboard when asked</h3>
+            <p>After finishing their first set, players see a popup asking for their <strong>display name</strong> and <strong>mobile number</strong>. The moment they enter both and tap Save, their score is recorded automatically — there's nothing for the participant to manually send you. (A name alone, or Skip, personalizes their own results screen but is never recorded on the leaderboard.)</p>
+            <div class="help-mockup">
+                <?php
+                $svg = helpSvgStart(600, 150);
+                $svg .= helpLabel(20, 24, 'Join the Leaderboard?');
+                $svg .= helpLabel(20, 46, 'Display name', '#8a8299', 11);
+                $svg .= helpFieldBox(20, 52, 280, 28, 'Priya S.', '');
+                $svg .= helpLabel(20, 96, 'Country', '#8a8299', 11);
+                $svg .= helpFieldBox(20, 102, 120, 28, '🇮🇳 +91', '');
+                $svg .= helpLabel(150, 96, 'Mobile number', '#8a8299', 11);
+                $svg .= helpFieldBox(150, 102, 150, 28, '98765 43210', '');
+                $svg .= helpHighlight(14, 44, 292, 92, 'Both fields are required to join', 'bottom');
+                $svg .= helpButton(330, 114, 100, 34, 'Save', 'primary');
+                $svg .= helpButton(440, 114, 80, 34, 'Skip', 'outline');
+                $svg .= helpHighlight(330, 114, 100, 34, 'Tap to submit score', 'top');
+                $svg .= helpSvgEnd();
+                echo $svg;
+                ?>
+            </div>
+        </li>
+
+        <li class="help-step">
+            <h3>5. Watch results arrive on the Leaderboard — no sharing needed</h3>
+            <p>Open <strong>leaderboard.php</strong> (linked from the quiz toolbar and the home page) at any time to see scores update live as participants finish — Top 10 publicly, or "Show all" for the full list. As the organizer, you never need participants to message or email you their score for this to work.</p>
+            <div class="help-mockup">
+                <?php
+                $svg = helpSvgStart(600, 130);
+                $svg .= helpLabel(20, 24, '🏆 Leaderboard');
+                $rows = [['1', 'Priya S.', 'IN', '48'], ['2', 'John K.', 'US', '45'], ['3', 'Grace T.', 'IN', '42']];
+                $y = 38;
+                foreach ($rows as [$rank, $name, $country, $score]) {
+                    $svg .= helpLabel(20, $y + 16, $rank, '#8a8299', 12);
+                    $svg .= helpLabel(50, $y + 16, $name, '#3a3350', 12);
+                    $svg .= helpLabel(230, $y + 16, $country, '#8a8299', 12);
+                    $svg .= helpLabel(290, $y + 16, $score, '#7c5cff', 13);
+                    $y += 26;
+                }
+                $svg .= helpHighlight(14, 32, 320, 22, 'Updates automatically', 'top');
+                $svg .= helpSvgEnd();
+                echo $svg;
+                ?>
+            </div>
+        </li>
+
+        <li class="help-step">
+            <h3>6. Optional: a participant wants to send proof of their score directly</h3>
+            <p>If someone wants to WhatsApp or email you their own result as well (e.g. for a printed certificate), they don't need any special site feature — on their results screen they tap <strong>Generate Results PDF</strong>, then tap the download link that appears to save the PDF to their phone or computer, and then share that saved file the normal way: open WhatsApp or their email app and attach it like any other file.</p>
+            <div class="help-mockup">
+                <?php
+                $svg = helpSvgStart(600, 70);
+                $svg .= helpButton(20, 18, 190, 34, 'Generate Results PDF', 'outline');
+                $svg .= helpHighlight(20, 18, 190, 34, 'Tap, then download', 'top');
+                $svg .= helpSvgEnd();
+                echo $svg;
+                ?>
+            </div>
+            <p class="help-step-note">Tip: a quick screenshot of the results screen works just as well if a formal PDF isn't needed.</p>
         </li>
     </ol>
 </section>

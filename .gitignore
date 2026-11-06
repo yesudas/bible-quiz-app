@@ -13,6 +13,7 @@ pdf-temp/*.pdf
 **/.DS_Store
 logs/mistake-reports.log
 logs/leaderboard-data.json
+logs/leaderboard-name-changes.json
 leaderboard/top10.json
 leaderboard/all.json
 

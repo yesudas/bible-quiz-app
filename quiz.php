@@ -3,6 +3,10 @@ include __DIR__ . '/counter.php';
 include __DIR__ . '/version.php';
 require_once __DIR__ . '/partials.php';
 require_once __DIR__ . '/includes/quiz-leaderboard.php';
+require_once __DIR__ . '/includes/google-auth-client.php';
+
+$googleUser = quizGoogleUser();
+$googleLoginUrl = quizGoogleLoginUrl(quizCurrentUrl());
 
 $lang = $_GET['lang'] ?? 'English';
 $type = $_GET['type'] ?? 'random';
@@ -122,7 +126,6 @@ if ($difficultyKeys !== []) {
 }
 
 $leaderboardLabels = quizLeaderboardLabels($lang);
-$leaderboardCountries = quizLeaderboardCountries();
 
 $pageTitle = $typeLabel . ' · Free Bible Quiz';
 $metaDescription = 'Take a ' . $typeLabel . ' in ' . $lang . ' — free Bible quiz from WordOfGod.in.';
@@ -152,8 +155,9 @@ $embedQuery = $embed ? '&embed=1' : '';
      data-time-unit="<?= htmlspecialchars($timeUnit) ?>"
      data-time-value="<?= (int) $timeValue ?>"
      data-playing-as="<?= htmlspecialchars($leaderboardLabels['playingAs']) ?>"
-     data-show-number="<?= htmlspecialchars($leaderboardLabels['showNumber']) ?>"
-     data-hide-number="<?= htmlspecialchars($leaderboardLabels['hideNumber']) ?>"
+     data-edit-name="<?= htmlspecialchars($leaderboardLabels['editName']) ?>"
+     data-save-name="<?= htmlspecialchars($leaderboardLabels['saveName']) ?>"
+     data-cancel-edit="<?= htmlspecialchars($leaderboardLabels['cancelEdit']) ?>"
      data-congrats-top100="<?= htmlspecialchars($leaderboardLabels['congratsTop100']) ?>"
      data-pdf-heading="<?= htmlspecialchars($leaderboardLabels['pdfHeading']) ?>"
      data-pdf-powered-by="<?= htmlspecialchars($leaderboardLabels['pdfPoweredBy']) ?>"
@@ -169,32 +173,20 @@ $embedQuery = $embed ? '&embed=1' : '';
         <div class="modal-box">
             <h2 id="leaderboardModalTitle"><?= htmlspecialchars($leaderboardLabels['modalTitle']) ?></h2>
             <p><?= htmlspecialchars($leaderboardLabels['modalIntro']) ?></p>
-            <form id="leaderboardForm" novalidate>
-                <label class="modal-field">
-                    <span><?= htmlspecialchars($leaderboardLabels['displayName']) ?></span>
-                    <input type="text" id="leaderboardName" name="displayName" maxlength="60" autocomplete="name">
-                </label>
-                <div class="modal-field-row">
-                    <label class="modal-field modal-field-country">
-                        <span><?= htmlspecialchars($leaderboardLabels['country']) ?></span>
-                        <select id="leaderboardCountry" name="countryCode">
-                            <?php foreach ($leaderboardCountries as $code => $name): ?>
-                                <option value="<?= htmlspecialchars($code) ?>"><?= htmlspecialchars($name . ' (' . $code . ')') ?></option>
-                            <?php endforeach; ?>
-                        </select>
-                    </label>
-                    <label class="modal-field modal-field-mobile">
-                        <span><?= htmlspecialchars($leaderboardLabels['mobileNumber']) ?></span>
-                        <input type="tel" id="leaderboardMobile" name="mobile" autocomplete="tel-national">
-                    </label>
+            <?php if ($googleLoginUrl !== null): ?>
+                <div class="modal-actions modal-actions-google">
+                    <a href="<?= htmlspecialchars($googleLoginUrl) ?>" class="btn btn-outline-primary btn-google" id="leaderboardGoogleBtn">
+                        <i class="bi bi-google" aria-hidden="true"></i> <?= htmlspecialchars($leaderboardLabels['signInGoogle']) ?>
+                    </a>
                 </div>
-                <p class="modal-disclaimer"><i class="bi bi-shield-lock" aria-hidden="true"></i> <?= htmlspecialchars($leaderboardLabels['disclaimer']) ?></p>
-                <p id="leaderboardFormError" class="modal-error" role="alert" hidden><?= htmlspecialchars($leaderboardLabels['validationError']) ?></p>
-                <div class="modal-actions">
-                    <button type="submit" class="btn btn-primary" id="leaderboardSaveBtn"><?= htmlspecialchars($leaderboardLabels['save']) ?></button>
-                    <button type="button" class="btn btn-link" id="leaderboardSkipBtn"><?= htmlspecialchars($leaderboardLabels['skip']) ?></button>
-                </div>
-            </form>
+            <?php endif; ?>
+            <!-- Mobile-number join has been removed from this UI (Google sign-in
+                 above is now the only join path); quizLeaderboardSubmit()/
+                 quizLeaderboardFindByMobile() and the 'lookup'/plain-POST actions
+                 in api/leaderboard.php are kept for legacy rows and admin editing. -->
+            <div class="modal-actions">
+                <button type="button" class="btn btn-link" id="leaderboardSkipBtn"><?= htmlspecialchars($leaderboardLabels['skip']) ?></button>
+            </div>
         </div>
     </div>
 
@@ -275,6 +267,7 @@ $embedQuery = $embed ? '&embed=1' : '';
 
 <script>
     window.QUIZ_VERSION = <?= json_encode($version) ?>;
+    window.QUIZ_GOOGLE_USER = <?= json_encode($googleUser) ?>;
 </script>
 <script src="assets/js/quiz.js?v=<?= htmlspecialchars($version) ?>" defer></script>
 
