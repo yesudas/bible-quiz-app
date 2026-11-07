@@ -1,6 +1,7 @@
 <?php
 
 require_once __DIR__ . '/includes/quiz-i18n.php';
+require_once __DIR__ . '/includes/google-auth-client.php';
 
 function quizDiscoverLanguages(): array
 {
@@ -52,6 +53,14 @@ function renderQuizHeader(string $pageTitle, string $metaDescription, string $ve
     $headerLang = $options['lang'] ?? '';
     $embed = $options['embed'] ?? false;
     $brandHref = $headerLang !== '' ? 'index.php?lang=' . urlencode($headerLang) : 'index.php';
+    // Profile icon next to Help: always links to the Achievements section of
+    // leaderboard.php (its own sidebar handles both the signed-in and
+    // signed-out states — see leaderboard.php/leaderboard.js) — shows the
+    // visitor's own Google avatar when signed in (quizGoogleUser() degrades
+    // to null, same as everywhere else, if the shared auth/ service isn't
+    // deployed), a generic person icon otherwise.
+    $headerGoogleUser = quizGoogleUser();
+    $profileHref = 'leaderboard.php' . ($headerLang !== '' ? '?lang=' . urlencode($headerLang) : '') . '#achievementsSection';
     ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -114,6 +123,13 @@ function renderQuizHeader(string $pageTitle, string $metaDescription, string $ve
             <?php endif; ?>
         </a>
         <?php include __DIR__ . '/menu-links.php'; ?>
+        <a class="header-profile" id="profileLinkHeader" href="<?= htmlspecialchars($profileHref) ?>" title="Achievements" aria-label="Achievements">
+            <?php if (!empty($headerGoogleUser['picture'])): ?>
+                <img class="header-profile-avatar" src="<?= htmlspecialchars($headerGoogleUser['picture']) ?>" alt="">
+            <?php else: ?>
+                <i class="bi bi-person-circle" aria-hidden="true"></i>
+            <?php endif; ?>
+        </a>
         <a class="header-help" id="helpLinkHeader" href="help.php<?= $headerLang !== '' ? '?lang=' . urlencode($headerLang) : '' ?>">
             <i class="bi bi-question-circle" aria-hidden="true"></i> Help
         </a>

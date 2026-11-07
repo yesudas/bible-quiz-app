@@ -5,7 +5,9 @@
 
     const loginWrap = $('achievementsLoginWrap');
     const identityWrap = $('achievementsIdentity');
-    const scoreText = $('achievementsScoreText');
+    const avatarWrap = $('achievementsAvatarWrap');
+    const nameText = $('achievementsNameText');
+    const scoreNumber = $('achievementsScoreNumber');
     const editBtn = $('achievementsEditBtn');
     const tiersWrap = $('achievementTiers');
     const badgeBanner = $('achievementsBadgeBanner');
@@ -76,26 +78,19 @@
         currentIdentity = identity;
         loginWrap.hidden = true;
         identityWrap.hidden = false;
-        const label = (window.QUIZ_ACHIEVEMENTS_I18N && window.QUIZ_ACHIEVEMENTS_I18N.scoreLabel) || 'Lifetime correct answers';
 
-        scoreText.textContent = '';
+        avatarWrap.innerHTML = '';
+        avatarWrap.classList.toggle('achv-avatar-placeholder', !identity.pictureUrl);
         if (identity.pictureUrl) {
             const avatar = document.createElement('img');
-            avatar.className = 'player-avatar';
+            avatar.className = 'achv-avatar-img';
             avatar.src = identity.pictureUrl;
             avatar.alt = '';
-            avatar.width = 28;
-            avatar.height = 28;
-            scoreText.appendChild(avatar);
+            avatarWrap.appendChild(avatar);
         }
-        if (identity.displayName) {
-            const nameSpan = document.createElement('strong');
-            nameSpan.textContent = identity.displayName;
-            scoreText.appendChild(nameSpan);
-        }
-        const scoreSpan = document.createElement('span');
-        scoreSpan.textContent = (identity.displayName ? ' — ' : '') + label + ': ' + identity.correctCount;
-        scoreText.appendChild(scoreSpan);
+
+        nameText.textContent = identity.displayName || '';
+        scoreNumber.textContent = String(identity.correctCount);
 
         const highest = applyTiers(identity.tiers, identity.correctCount);
         showBadgeBanner(identity.displayName, highest);

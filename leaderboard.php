@@ -53,7 +53,6 @@ $embedQuery = $embed ? '&embed=1' : '';
                 <tr>
                     <th><?= htmlspecialchars($labels['rank']) ?></th>
                     <th><?= htmlspecialchars($labels['name']) ?></th>
-                    <th><?= htmlspecialchars($labels['country']) ?></th>
                     <th><?= htmlspecialchars($labels['score']) ?></th>
                 </tr>
             </thead>
@@ -68,7 +67,6 @@ $embedQuery = $embed ? '&embed=1' : '';
                             <?php endif; ?>
                             <?= htmlspecialchars((string) ($row['displayName'] ?? '')) ?>
                         </td>
-                        <td><?= htmlspecialchars((string) ($row['country'] ?? '')) ?></td>
                         <td><?= (int) ($row['score'] ?? 0) ?></td>
                     </tr>
                 <?php endforeach; ?>
@@ -86,30 +84,79 @@ $embedQuery = $embed ? '&embed=1' : '';
         <a href="<?= htmlspecialchars($homeHref) ?>?lang=<?= urlencode($lang) ?><?= $embedQuery ?>" class="btn btn-link">← Back to home</a>
     </div>
 
-    <div class="achievements-section card-panel">
+    <?php
+    // Medal icon per tier — purely decorative, keyed by quizAchievementTiers()'s
+    // own tier keys so it stays correct regardless of display order/labels.
+    $achievementTierIcons = [
+        'silver' => '🥈', 'bronze' => '🥉', 'gold' => '🥇', 'platinum' => '💎', 'diamond' => '👑',
+    ];
+    ?>
+    <div class="achievements-section card-panel" id="achievementsSection">
         <h2><?= htmlspecialchars($labels['achievementsHeading']) ?></h2>
         <p class="achievements-intro"><?= htmlspecialchars($labels['achievementsIntro']) ?></p>
 
         <p class="achievements-badge-banner" id="achievementsBadgeBanner" hidden></p>
 
-        <div class="achievements-identity" id="achievementsIdentity" hidden>
-            <span id="achievementsScoreText"></span>
-            <button type="button" class="btn btn-link btn-sm" id="achievementsEditBtn" title="<?= htmlspecialchars($labels['editName']) ?>" aria-label="<?= htmlspecialchars($labels['editName']) ?>"><i class="bi bi-pencil-square" aria-hidden="true"></i></button>
-            <?php if ($googleLogoutUrl !== null): ?>
-                <a href="<?= htmlspecialchars($googleLogoutUrl) ?>" class="btn btn-link btn-sm" id="achievementsLogoutBtn"><?= htmlspecialchars($labels['achievementsLogout']) ?></a>
-            <?php endif; ?>
-        </div>
+        <div class="achv-split">
+            <div class="achv-sidebar">
+                <div class="achievements-identity" id="achievementsIdentity" hidden>
+                    <div class="achv-avatar" id="achievementsAvatarWrap"></div>
+                    <strong class="achv-name" id="achievementsNameText"></strong>
+                    <div class="achv-score"><span id="achievementsScoreNumber">0</span></div>
+                    <span class="achv-score-label"><?= htmlspecialchars($labels['achievementsScoreLabel']) ?></span>
+                    <div class="achv-actions">
+                        <button type="button" class="achv-btn achv-btn-outline" id="achievementsEditBtn"><i class="bi bi-pencil-square" aria-hidden="true"></i> <?= htmlspecialchars($labels['editName']) ?></button>
+                        <?php if ($googleLogoutUrl !== null): ?>
+                            <a href="<?= htmlspecialchars($googleLogoutUrl) ?>" class="achv-btn achv-btn-outline-teal" id="achievementsLogoutBtn"><?= htmlspecialchars($labels['achievementsLogout']) ?></a>
+                        <?php endif; ?>
+                    </div>
+                </div>
 
-        <!-- Mobile-number login has been removed from this UI (Google sign-in
-             below is now the only login path); quizLeaderboardFindByMobile()
-             and the 'lookup' action in api/leaderboard.php are kept for legacy
-             rows and admin editing. -->
-        <div class="achievements-login" id="achievementsLoginWrap">
-            <?php if ($googleLoginUrl !== null): ?>
-                <a href="<?= htmlspecialchars($googleLoginUrl) ?>" class="btn btn-outline-primary btn-sm btn-google" id="achievementsGoogleBtn">
-                    <i class="bi bi-google" aria-hidden="true"></i> <?= htmlspecialchars($labels['signInGoogle']) ?>
-                </a>
-            <?php endif; ?>
+                <!-- Mobile-number login has been removed from this UI (Google
+                     sign-in below is now the only login path);
+                     quizLeaderboardFindByMobile() and the 'lookup' action in
+                     api/leaderboard.php are kept for legacy rows and admin
+                     editing. -->
+                <div class="achievements-login" id="achievementsLoginWrap">
+                    <div class="achv-avatar achv-avatar-placeholder"></div>
+                    <?php if ($googleLoginUrl !== null): ?>
+                        <a href="<?= htmlspecialchars($googleLoginUrl) ?>" class="achv-btn achv-btn-google" id="achievementsGoogleBtn">
+                            <i class="bi bi-google" aria-hidden="true"></i> <?= htmlspecialchars($labels['signInGoogle']) ?>
+                        </a>
+                    <?php endif; ?>
+                </div>
+            </div>
+
+            <div class="achievement-tiers" id="achievementTiers">
+                <?php foreach ($achievementTiers as $tier): ?>
+                    <div class="achievement-tier" style="--tier-color: <?= htmlspecialchars($tier['color']) ?>">
+                        <div class="achievement-tier-icon"><?= $achievementTierIcons[$tier['key']] ?? '⭐' ?></div>
+                        <div class="achievement-tier-body">
+                            <span class="achievement-tier-label"><?= htmlspecialchars($tier['label']) ?></span>
+                            <div class="achievement-tier-stars">
+                                <?php foreach ($tier['stars'] as $i => $lit): ?>
+                                    <?php $threshold = (int) ($tier['thresholds'][$i] ?? 0); ?>
+                                    <div class="achievement-star-wrap">
+                                        <span
+                                            class="achievement-star<?= $lit ? ' is-lit' : '' ?>"
+                                            data-tier="<?= htmlspecialchars($tier['key']) ?>"
+                                            data-index="<?= (int) $i ?>"
+                                            style="--tier-color: <?= htmlspecialchars($tier['color']) ?>"
+                                            title="<?= $threshold ?>+"
+                                        >★</span>
+                                        <span
+                                            class="achievement-star-remaining"
+                                            data-tier="<?= htmlspecialchars($tier['key']) ?>"
+                                            data-index="<?= (int) $i ?>"
+                                            data-threshold="<?= $threshold ?>"
+                                        ><?= $lit ? '' : htmlspecialchars((string) $threshold) . ' ' . htmlspecialchars($labels['achievementsToGo']) ?></span>
+                                    </div>
+                                <?php endforeach; ?>
+                            </div>
+                        </div>
+                    </div>
+                <?php endforeach; ?>
+            </div>
         </div>
 
         <div id="achievementsEditModal" class="modal-overlay" hidden role="dialog" aria-modal="true" aria-labelledby="achievementsEditModalTitle">
@@ -133,34 +180,6 @@ $embedQuery = $embed ? '&embed=1' : '';
                     <button type="button" class="btn btn-link btn-sm" id="achievementsEditCancelBtn"><?= htmlspecialchars($labels['cancelEdit']) ?></button>
                 </div>
             </div>
-        </div>
-
-        <div class="achievement-tiers" id="achievementTiers">
-            <?php foreach ($achievementTiers as $tier): ?>
-                <div class="achievement-tier">
-                    <span class="achievement-tier-label" style="--tier-color: <?= htmlspecialchars($tier['color']) ?>"><?= htmlspecialchars($tier['label']) ?></span>
-                    <div class="achievement-tier-stars">
-                        <?php foreach ($tier['stars'] as $i => $lit): ?>
-                            <?php $threshold = (int) ($tier['thresholds'][$i] ?? 0); ?>
-                            <div class="achievement-star-wrap">
-                                <span
-                                    class="achievement-star<?= $lit ? ' is-lit' : '' ?>"
-                                    data-tier="<?= htmlspecialchars($tier['key']) ?>"
-                                    data-index="<?= (int) $i ?>"
-                                    style="--tier-color: <?= htmlspecialchars($tier['color']) ?>"
-                                    title="<?= $threshold ?>+"
-                                >★</span>
-                                <span
-                                    class="achievement-star-remaining"
-                                    data-tier="<?= htmlspecialchars($tier['key']) ?>"
-                                    data-index="<?= (int) $i ?>"
-                                    data-threshold="<?= $threshold ?>"
-                                ><?= $lit ? '' : htmlspecialchars((string) $threshold) . ' ' . htmlspecialchars($labels['achievementsToGo']) ?></span>
-                            </div>
-                        <?php endforeach; ?>
-                    </div>
-                </div>
-            <?php endforeach; ?>
         </div>
     </div>
 </div>

@@ -168,6 +168,34 @@ a:hover { color: var(--navy); }
     color: #fff;
 }
 
+.header-profile {
+    flex-shrink: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    background: rgba(255, 255, 255, 0.12);
+    color: #fff;
+    font-size: 1.15rem;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.header-profile:hover {
+    background: rgba(255, 255, 255, 0.22);
+    color: #fff;
+}
+
+.header-profile-avatar {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
 .brand-title {
     display: block;
     font-family: var(--font-brand);
@@ -1535,11 +1563,136 @@ input[type="radio"] {
     font-size: .9rem;
 }
 
-.achievement-tiers {
+/* Split layout: a sidebar identity card (avatar/name/score/actions, or the
+   sign-in prompt) next to the tier badge cards. Stacks on narrow screens. */
+.achv-split {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 18px;
+    align-items: flex-start;
+}
+
+.achv-sidebar {
+    flex: 0 0 220px;
+    width: 220px;
+}
+
+@media (max-width: 640px) {
+    .achv-sidebar {
+        flex: 1 1 100%;
+        width: 100%;
+    }
+}
+
+.achievements-identity,
+.achievements-login {
+    background: linear-gradient(165deg, rgba(124, 92, 255, 0.08), rgba(255, 111, 165, 0.05));
+    border-radius: 16px;
+    padding: 20px 16px;
     display: flex;
     flex-direction: column;
-    gap: 14px;
-    margin-bottom: 18px;
+    align-items: center;
+    gap: 8px;
+    text-align: center;
+}
+
+/* A plain class's `display` can otherwise out-cascade the `hidden`
+   attribute's UA-stylesheet `display:none` in some browsers — belt and
+   braces so toggling `.hidden = true/false` in JS always actually hides it. */
+.achievements-identity[hidden],
+.achievements-login[hidden] {
+    display: none;
+}
+
+.achv-avatar {
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.achv-avatar-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.achv-avatar-placeholder {
+    background: linear-gradient(135deg, var(--purple), var(--accent));
+}
+
+.achv-name {
+    font-family: var(--font-brand);
+    font-size: 1.05rem;
+    color: var(--ink);
+}
+
+.achv-score {
+    font-family: var(--font-brand);
+    font-size: 1.9rem;
+    font-weight: 700;
+    color: var(--purple);
+    line-height: 1;
+    margin-top: 2px;
+}
+
+.achv-score-label {
+    font-size: .72rem;
+    font-weight: 700;
+    color: var(--muted);
+    margin-top: -4px;
+}
+
+.achv-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.achv-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    width: 100%;
+    padding: 8px 0;
+    border-radius: 10px;
+    font-size: .8rem;
+    font-weight: 700;
+    cursor: pointer;
+    text-decoration: none;
+    border: 1.5px solid transparent;
+    background: #fff;
+}
+
+.achv-btn-outline {
+    border-color: rgba(124, 92, 255, 0.35);
+    color: var(--purple);
+}
+
+.achv-btn-outline-teal {
+    border-color: rgba(34, 195, 176, 0.4);
+    color: #0d8d7d;
+}
+
+.achv-btn-google {
+    border-color: rgba(124, 92, 255, 0.35);
+    color: var(--purple);
+    margin-top: 10px;
+}
+
+.achievement-tiers {
+    flex: 1 1 400px;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
 .achievement-tier {
@@ -1547,10 +1700,35 @@ input[type="radio"] {
     align-items: center;
     gap: 14px;
     flex-wrap: wrap;
+    background: #f0f1f4;
+    background: color-mix(in srgb, var(--tier-color, var(--muted)) 7%, #fff);
+    border: 1.5px solid var(--line);
+    border-color: color-mix(in srgb, var(--tier-color, var(--muted)) 32%, #fff);
+    border-radius: 14px;
+    padding: 12px 16px;
+}
+
+.achievement-tier-icon {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3rem;
+    flex-shrink: 0;
+}
+
+.achievement-tier-body {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
 }
 
 .achievement-tier-label {
-    min-width: 76px;
     font-weight: 700;
     font-size: .9rem;
     color: var(--tier-color, var(--muted));
@@ -1559,6 +1737,7 @@ input[type="radio"] {
 .achievement-tier-stars {
     display: flex;
     gap: 8px;
+    flex-wrap: wrap;
 }
 
 .achievement-star-wrap {
@@ -1608,34 +1787,6 @@ input[type="radio"] {
     font-size: .95rem;
 }
 
-.achievements-login-form {
-    margin-top: 12px;
-}
-
-.achievements-login-note {
-    margin: 0 0 10px;
-    font-size: .85rem;
-    color: var(--muted);
-}
-
-.achievements-identity {
-    display: flex;
-    align-items: center;
-    gap: 14px;
-    flex-wrap: wrap;
-    font-weight: 700;
-    font-size: 1.05rem;
-    margin-bottom: 18px;
-    padding: 12px 16px;
-    border-radius: 12px;
-    background: rgba(124, 92, 255, 0.1);
-}
-
-.achievements-identity-mobile {
-    font-weight: 500;
-    color: var(--muted);
-    font-size: .9rem;
-}
 
 .leaderboard-toolbar {
     display: flex;
@@ -1755,11 +1906,6 @@ input[type="radio"] {
     font-size: 1.05rem;
 }
 
-.podium-step .p-country {
-    font-size: .85rem;
-    opacity: .85;
-}
-
 .podium-step .p-score {
     font-family: var(--font-brand);
     font-size: 1.3rem;
@@ -1774,11 +1920,6 @@ input[type="radio"] {
     height: 150px;
     order: 2;
     color: #4a3200;
-}
-
-.podium-step.gold .p-country {
-    color: #6b4a10;
-    opacity: 1;
 }
 
 .podium-step.gold .ord-tag {
@@ -1832,12 +1973,6 @@ input[type="radio"] {
 .rest-row .r-name {
     flex: 1;
     font-weight: 700;
-}
-
-.rest-row .r-country {
-    color: var(--muted);
-    font-size: .78rem;
-    margin-right: 8px;
 }
 
 .rest-row .r-score {
@@ -1919,16 +2054,10 @@ input[type="radio"] {
 
     .podium-step .p-name {
         grid-column: 2;
-        grid-row: 1;
+        grid-row: 1 / 3;
         font-size: .92rem;
         line-height: 1.25;
         word-break: break-word;
-    }
-
-    .podium-step .p-country {
-        grid-column: 2;
-        grid-row: 2;
-        font-size: .74rem;
     }
 
     .podium-step .p-score {

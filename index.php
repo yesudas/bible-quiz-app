@@ -374,7 +374,6 @@ renderQuizHeader($pageTitle, $metaDescription, $version, [
             <div class="podium-step <?= $tier ?>">
                 <span class="ord-tag"><?= $i + 1 ?></span>
                 <span class="p-name"><?= htmlspecialchars((string) $row['displayName']) ?></span>
-                <span class="p-country"><?= htmlspecialchars((string) $row['country']) ?></span>
                 <span class="p-score"><?= (int) $row['score'] ?></span>
             </div>
         <?php endforeach; ?>
@@ -386,7 +385,6 @@ renderQuizHeader($pageTitle, $metaDescription, $version, [
                 <div class="rest-row">
                     <span class="r-rank"><?= $i + 4 ?></span>
                     <span class="r-name"><?= htmlspecialchars((string) $row['displayName']) ?></span>
-                    <span class="r-country"><?= htmlspecialchars((string) $row['country']) ?></span>
                     <span class="r-score"><?= (int) $row['score'] ?></span>
                 </div>
             <?php endforeach; ?>
