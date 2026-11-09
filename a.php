@@ -1855,6 +1855,10 @@ if (($_GET['view'] ?? '') === 'leaderboard') {
         .lb-table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,.06); }
         .lb-table th, .lb-table td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #dce3ec; font-size: .88rem; }
         .lb-table th { background: #f0f4f8; }
+        .lb-sortable th[data-sort] { cursor: pointer; user-select: none; white-space: nowrap; }
+        .lb-sortable th[data-sort]:hover { background: #e2ecf5; }
+        .lb-sortable th[data-dir="asc"]::after { content: " ▲"; font-size: .7em; }
+        .lb-sortable th[data-dir="desc"]::after { content: " ▼"; font-size: .7em; }
         .lb-table tbody tr:last-child td { border-bottom: none; }
         .lb-gmail { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
         .empty-state { text-align: center; padding: 48px 20px; color: #7f8c8d; font-size: .95rem; }
@@ -1897,15 +1901,35 @@ if (($_GET['view'] ?? '') === 'leaderboard') {
             No one has joined the leaderboard yet.
         </div>
     <?php else: ?>
-        <table class="lb-table">
+        <?php
+    // Rank by Score % (correct ÷ total): ties share a rank (1, 2, 2, 4); players with no questions get none.
+    $pctById = [];
+    foreach ($entries as $e0) {
+        $t0 = (int)($e0['totalQuestions'] ?? 0);
+        if ($t0 > 0) {
+            $pctById[(string)($e0['id'] ?? '')] = min(100, ((int)($e0['correctCount'] ?? 0) / $t0) * 100);
+        }
+    }
+    $sortedPcts = array_values($pctById);
+    rsort($sortedPcts);
+    $pctRankById = [];
+    foreach ($pctById as $id0 => $p0) {
+        $higher = 0;
+        foreach ($sortedPcts as $sp) { if ($sp > $p0 + 1e-9) { $higher++; } else { break; } }
+        $pctRankById[$id0] = $higher + 1;
+    }
+?>
+        <table class="lb-table lb-sortable" id="lbMainTable">
             <thead>
                 <tr>
-                    <th>Rank</th>
-                    <th>Name</th>
-                    <th>Country</th>
-                    <th>Gmail ID</th>
-                    <th>Score</th>
-                    <th>Updated</th>
+                    <th data-sort="num">Rank</th>
+                    <th data-sort="text">Name</th>
+                    <th data-sort="text">Country</th>
+                    <th data-sort="text">Gmail ID</th>
+                    <th data-sort="num">Score</th>
+                    <th data-sort="num">Score %</th>
+                    <th data-sort="num">Rank by %</th>
+                    <th data-sort="text">Updated</th>
                     <th></th>
                 </tr>
             </thead>
@@ -1921,6 +1945,8 @@ if (($_GET['view'] ?? '') === 'leaderboard') {
                         <td><?= htmlspecialchars((string)($e['countryName'] ?? '')) ?></td>
                         <td class="lb-gmail"><?= htmlspecialchars($gmailId !== null ? $gmailId : '—') ?></td>
                         <td><?= (int)($e['correctCount'] ?? 0) ?> / <?= (int)($e['totalQuestions'] ?? 0) ?></td>
+                        <td><?= (int)($e['totalQuestions'] ?? 0) > 0 ? min(100, (int)round(((int)($e['correctCount'] ?? 0) / (int)$e['totalQuestions']) * 100)) . '%' : '—' ?></td>
+                        <td><?= $pctRankById[$entryId] ?? '—' ?></td>
                         <td><?= htmlspecialchars((string)($e['updatedAt'] ?? '')) ?></td>
                         <td style="display:flex;gap:6px;">
                             <button type="button" class="btn btn-secondary btn-sm"
@@ -1934,7 +1960,7 @@ if (($_GET['view'] ?? '') === 'leaderboard') {
                         </td>
                     </tr>
                     <tr class="lb-edit-row" id="<?= $rowDomId ?>">
-                        <td colspan="7">
+                        <td colspan="9">
                             <form method="POST" action="a.php?view=leaderboard" class="lb-edit-form">
                                 <input type="hidden" name="action" value="edit_leaderboard_entry">
                                 <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
@@ -1964,6 +1990,39 @@ if (($_GET['view'] ?? '') === 'leaderboard') {
                 <?php endforeach; ?>
             </tbody>
         </table>
+        <script>
+        (function () {
+            const table = document.getElementById('lbMainTable');
+            const tbody = table.tBodies[0];
+            let sortCol = -1, asc = true;
+            table.tHead.querySelectorAll('th[data-sort]').forEach((th) => {
+                th.addEventListener('click', () => {
+                    const col = th.cellIndex;
+                    asc = col === sortCol ? !asc : true;
+                    sortCol = col;
+                    // Each entry is a data row followed by its hidden edit row — move them together.
+                    const pairs = [];
+                    const rows = Array.from(tbody.rows);
+                    for (let i = 0; i < rows.length; i += 2) pairs.push([rows[i], rows[i + 1]]);
+                    const num = th.dataset.sort === 'num';
+                    const val = (pair) => {
+                        const t = pair[0].cells[col].textContent.trim();
+                        if (!num) return t.toLowerCase();
+                        const n = parseFloat(t);
+                        return isNaN(n) ? -1 : n; // "—" sorts as lowest
+                    };
+                    pairs.sort((x, y) => {
+                        const a = val(x), b = val(y);
+                        const r = num ? a - b : String(a).localeCompare(String(b), undefined, { numeric: true });
+                        return asc ? r : -r;
+                    });
+                    pairs.forEach((p) => { tbody.appendChild(p[0]); tbody.appendChild(p[1]); });
+                    table.tHead.querySelectorAll('th').forEach((h) => h.removeAttribute('data-dir'));
+                    th.dataset.dir = asc ? 'asc' : 'desc';
+                });
+            });
+        })();
+        </script>
     <?php endif; ?>
 
     <div class="lb-section-title">📝 Name Change History <span style="opacity:.7;font-weight:400;">(<?= count($nameLog) ?>)</span></div>

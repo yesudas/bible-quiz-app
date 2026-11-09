@@ -8,6 +8,8 @@
     const avatarWrap = $('achievementsAvatarWrap');
     const nameText = $('achievementsNameText');
     const scoreNumber = $('achievementsScoreNumber');
+    const attemptedNumber = $('achievementsAttemptedNumber');
+    const accuracyNumber = $('achievementsAccuracyNumber');
     const editBtn = $('achievementsEditBtn');
     const tiersWrap = $('achievementTiers');
     const badgeBanner = $('achievementsBadgeBanner');
@@ -93,6 +95,13 @@
 
         nameText.textContent = identity.displayName || '';
         scoreNumber.textContent = String(identity.correctCount);
+        if (attemptedNumber) attemptedNumber.textContent = String(identity.totalQuestions || 0);
+        if (accuracyNumber) {
+            const total = identity.totalQuestions || 0;
+            // Correct ÷ attempted, capped at 100 in case older rows have inconsistent totals.
+            const pct = total > 0 ? Math.min(100, Math.round((identity.correctCount / total) * 100)) : 0;
+            accuracyNumber.textContent = pct + '%';
+        }
 
         const highest = applyTiers(identity.tiers, identity.correctCount);
         showBadgeBanner(identity.displayName, highest);
@@ -119,6 +128,7 @@
                 displayName: data.displayName,
                 pictureUrl: data.pictureUrl,
                 correctCount: data.correctCount,
+                totalQuestions: data.totalQuestions,
                 tiers: data.tiers,
             });
         } catch (err) {

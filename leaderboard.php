@@ -109,6 +109,10 @@ $embedQuery = $embed ? '&embed=1' : '';
                     <strong class="achv-name" id="achievementsNameText"></strong>
                     <div class="achv-score"><span id="achievementsScoreNumber">0</span></div>
                     <span class="achv-score-label"><?= htmlspecialchars($labels['achievementsScoreLabel']) ?></span>
+                    <div class="achv-score achv-score-secondary"><span id="achievementsAttemptedNumber">0</span></div>
+                    <span class="achv-score-label"><?= htmlspecialchars($labels['achievementsAttemptedLabel'] ?? 'Questions attempted') ?></span>
+                    <div class="achv-score achv-score-secondary"><span id="achievementsAccuracyNumber">0%</span></div>
+                    <span class="achv-score-label"><?= htmlspecialchars($labels['achievementsAccuracyLabel'] ?? 'Accuracy') ?></span>
                     <div class="achv-actions">
                         <button type="button" class="achv-btn achv-btn-outline" id="achievementsEditBtn"><i class="bi bi-pencil-square" aria-hidden="true"></i> <?= htmlspecialchars($labels['editName']) ?></button>
                         <?php if ($googleLogoutUrl !== null): ?>

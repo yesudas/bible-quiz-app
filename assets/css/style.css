@@ -1695,6 +1695,11 @@ input[type="radio"] {
     margin-top: 2px;
 }
 
+.achv-score-secondary {
+    font-size: 1.4rem;
+    margin-top: 10px;
+}
+
 .achv-score-label {
     font-size: .72rem;
     font-weight: 700;
