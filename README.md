@@ -127,21 +127,33 @@ Right after finishing the **first set** of a quiz attempt (not the whole attempt
 - `includes/quiz-leaderboard.php` encrypts the mobile number with AES-256-GCM before writing it (and computes a separate HMAC "match hash" so repeat players — same number — get merged into one row, without ever needing to decrypt anything to check for a match). The private master record lives in `logs/leaderboard-data.json` (gitignored, same protected directory as `logs/mistake-reports.log`).
 - Two public files are regenerated after every submission, containing no PII — just `{displayName, country, score}`: `leaderboard/top10.json` (top 10) and `leaderboard/all.json` (everyone, highest to lowest). `api/leaderboard.php` serves these; `leaderboard.php` is the public "Top 10 / Show all" page, and the home page (`index.php`) also shows a "Podium + list" widget for the top 10.
 - The encryption/match-hash keys live in `leaderboard-secret.php` (gitignored) and are generated automatically on first use — no setup required. To pin your own, copy `leaderboard-secret.example.php` to `leaderboard-secret.php`.
+- `a.php?view=leaderboard` shows each player's Score, **Score %** and **Rank by %**, and every column header is click-to-sort.
 - `a.php?view=leaderboard` is the only place a mobile number is ever decrypted and shown — an admin-only view for moderation, with both an "Edit" action (name, country, and the correct/total score — not the mobile number itself) and a "Remove" action per entry.
 - On their own results screen, a player who joined sees their mobile number masked (e.g. `+91 ••••••89`) with a "Show number"/"Hide number" toggle — this is purely a convenience on their own device, unrelated to the "never shown publicly" guarantee for everyone else.
 - A finished quiz's results screen also has a "Download results as PDF" button (client-side, via `jsPDF` loaded from a CDN on first click) that works on both desktop and mobile browsers, including inside the Android app. Unlike the setup-form PDFs above, this one really is generated on the fly, since it depends on which answers the player actually chose — something only that page knows, so it can't be pre-generated. The PDF is built as native, colored vector text/shapes (score card, review badges, etc.) rather than a screenshot, keeping the file a few KB instead of tens of MB, and its "Powered by" credit is a real clickable link; Tamil/Hindi/Kannada text in the score summary and review section is rendered onto an off-screen canvas with a matching Google-hosted font so it doesn't come out scrambled. It's already small enough (capped at 100 questions per set) that it never runs into the size problems the setup-form PDFs had. In a normal browser it saves instantly; inside the Android app (whose embedded web view can't download an in-browser file the ordinary way) it briefly uploads the finished file to the server and downloads it back from a normal link instead, shown as a "tap to download" button.
 - The display name, country code, and mobile number typed into the popup are remembered in the browser's `localStorage` (`bibleQuizPlayerInfo`), so a returning player doesn't have to retype them on their next quiz.
 
+A signed-in player's own row is highlighted on the leaderboard page and in the home-page widget (glow, shine, pulsing photo/rank and a "YOU" tag) whenever they appear in the rows shown.
+
 ### Achievements
 
 `leaderboard.php` also shows an **Achievements** section: a star-tier ladder (Silver → Bronze → Gold → Platinum → Diamond, 5 stars each) that lights up as a player's lifetime correct-answer total grows.
 
-- At the top of the section sits an **identity line** — display name, the mobile number just used to look them up, their lifetime score, and a "Switch number" button — shown *above* the star grid specifically so it's the first thing noticed and easy to correct if the wrong person was detected.
+- A tier with all 5 stars lit is highlighted (glow, "✓ Completed" ribbon, shine, pulsing medal).
+- At the top of the section sits an **identity line** — display name, the mobile number just used to look them up, their lifetime score, questions attempted and accuracy %, and a "Switch number" button — shown *above* the star grid specifically so it's the first thing noticed and easy to correct if the wrong person was detected.
 - If the browser already has a `bibleQuizPlayerInfo` entry (from joining the leaderboard earlier — see above), the identity and stars are filled in automatically, with no prompt. Otherwise a "Login with mobile number" button reveals a country code + mobile number field — deliberately no password, same spirit as joining the leaderboard itself.
 - Logging a successful mobile-number lookup (either the automatic one or the manual login form) writes back to that same `bibleQuizPlayerInfo` entry, so the next visit recognizes the player again instead of asking for the number every time.
 - Each star shows a small **"N to go"** label underneath it — how many more lifetime correct answers are needed to light that star up. Once a star is lit, its label clears; before a player is identified, the labels simply show each star's full threshold.
 - A highlighted **congratulations banner** appears above the identity line once any star is lit, naming the player's current highest tier and star (e.g. "🎉 Congratulations, Asha! You've reached Gold — Star 3 of 5!") — it disappears again if the player switches to a different mobile number that hasn't achieved anything yet.
 - The star thresholds are configurable from `a.php?view=achievements` (5 tiers × 5 ascending thresholds each) and stored in `counters/achievement-thresholds.txt` — gitignored, same protected pattern as the other `counters/*.txt` files, since it's live server config rather than something deployed via git.
+
+### Reported mistakes
+
+Players can report a wrong question from the quiz. Reports are reviewed at `a.php?view=mistakes`:
+
+- A list on the left (language · verse reference - question number, mistake type, who reported it) and the selected report on the right with Edit / Download / Dismiss. Selecting a report swaps just the right-hand panel without reloading the page.
+- **📖 Load full chapter for review** fetches the whole Bible chapter (Tamil TOV2017, English NIV2011) on demand and scrolls to the reported verse.
+- If the reporter was signed in with Google, their name and email are recorded. When the admin clicks **Save & mark resolved**, that person gets a one-time "Thank you — your reported mistake for *verse* has been addressed. May God bless you!" modal the next time they open the app signed in; it stays until they press Dismiss.
 
 ## Assets
 
