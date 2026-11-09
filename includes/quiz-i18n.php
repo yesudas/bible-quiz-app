@@ -274,7 +274,7 @@ function quizLeaderboardLabelsByLanguage(): array
             'pageTitle' => 'Leaderboard',
             'top10' => 'Top 10',
             'showAll' => 'Show all',
-            'rank' => 'தரவரிசை',
+            'rank' => 'வரிசை',
             'name' => 'பெயர்',
             'score' => 'மதிப்பெண்',
             'youBadge' => 'நீங்கள்',
