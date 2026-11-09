@@ -5,6 +5,7 @@ header('Cache-Control: no-store');
 header('X-Content-Type-Options: nosniff');
 
 require_once __DIR__ . '/../includes/mistake-reports.php';
+require_once __DIR__ . '/../includes/google-auth-client.php';
 
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     http_response_code(405);
@@ -28,7 +29,17 @@ if ($path === '' || !isset(QUIZ_MISTAKE_TYPES[$type])) {
     exit;
 }
 
-if (!quizMistakeAdd($path, $type)) {
+// Identity comes from the server-side Google session only, never the request body.
+$gUser = quizGoogleUser();
+$reporter = $gUser ? [
+    'name'  => (string) ($gUser['name'] ?? ''),
+    'email' => strtolower((string) ($gUser['email'] ?? '')),
+] : null;
+if ($reporter !== null && $reporter['email'] === '') {
+    $reporter = null;
+}
+
+if (!quizMistakeAdd($path, $type, $reporter)) {
     http_response_code(500);
     echo json_encode(['error' => 'Could not save your report.']);
     exit;

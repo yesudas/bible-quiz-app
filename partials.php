@@ -133,6 +133,9 @@ function renderQuizHeader(string $pageTitle, string $metaDescription, string $ve
         <a class="header-help" id="helpLinkHeader" href="help.php<?= $headerLang !== '' ? '?lang=' . urlencode($headerLang) : '' ?>">
             <i class="bi bi-question-circle" aria-hidden="true"></i> Help
         </a>
+        <a class="header-books" id="booksLinkHeader" href="download-books.php<?= $headerLang !== '' ? '?lang=' . urlencode($headerLang) : '' ?>" title="Download Books (PDF)" aria-label="Download Books">
+            <i class="bi bi-download" aria-hidden="true"></i><span class="header-books-label">Books</span>
+        </a>
         <button type="button" class="install-app-btn header-install" id="installAppBtnHeader" hidden>Install</button>
         <button type="button" class="nav-toggle" id="navToggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="siteNav">
             <span class="nav-toggle-bars" aria-hidden="true"></span>
@@ -147,7 +150,7 @@ function renderQuizHeader(string $pageTitle, string $metaDescription, string $ve
 
 function renderQuizFooter(string $version, array $options = []): void
 {
-    global $visitors2, $shares2, $embeds2, $downloads2, $quizzesCompletedTotal, $questionsAnsweredTotal, $topBooks, $topLanguage;
+    global $visitors2, $shares2, $embeds2, $downloads2, $bookDownloads2, $topBookDownloadLanguage, $quizzesCompletedTotal, $questionsAnsweredTotal, $topBooks, $topLanguage;
     $embed = $options['embed'] ?? false;
     ?>
 </main>

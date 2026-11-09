@@ -109,6 +109,15 @@ Both open with your Header/Sub Headers, and every page's footer has the page num
 
 Unlike most of this app, these PDFs are **not generated on the fly**. The full set of possible PDFs — every type, book, chapter, topic, character, and place, in every language — is pre-generated ahead of time (using a real browser's own text rendering, which is what correctly shapes Tamil/Hindi/Kannada text) and stored on the server. Clicking Download just finds the matching pair, stamps your Header/Sub Headers onto them, and hands you the links — no PDF is ever built from scratch while you wait, which is what makes it reliably fast even for something the size of the Tamil "Whole Bible" (generating that live, in a browser tab, turned out to not be reliably possible at all for very large selections).
 
+## Download Books
+
+A download icon ("Books") sits next to Help in the header and opens `download-books.php`: pick a language, search, and download any ready-made book PDF — the complete collections (Whole Bible, Old/New Testament, Characters, Places) and every book of the Bible — shown as showcase cards with a cover thumbnail, a readable title (the `-WOGBOOKS…` suffix and leading number are stripped for display) and file size. The downloaded file keeps its original name, suffix included.
+
+- PDFs and cover PNGs live in `books/{Language}/*.pdf|png` (collections) and `books/{Language}/books/*.pdf|png` (individual books). Upload this folder to the server directly.
+- Run `python3 tools/generate-book-thumbs.py` after adding books; it writes small JPEG covers to `assets/book-thumbs/{Language}/` (committed to git).
+- Each download is counted (total + per language) in `counters/book-downloads.txt`; the footer shows "Books Downloaded" and "Top Books Language", and the admin home page shows the total plus a per-language breakdown.
+- Downloads are served by `api/book-download.php` (resumable, path-checked). `sitemap.php` lists the page per language plus every PDF link.
+
 ## Leaderboard
 
 Right after finishing the **first set** of a quiz attempt (not the whole attempt — long books split into many sets might never be finished in one sitting), players are asked once whether they want to join the leaderboard by giving a display name and a mobile number with country code. **Both are required to join** — leaving the mobile number out (or dismissing the popup) just shows the display name on the results screen, with nothing saved anywhere. Once they've joined or skipped, later sets in the same attempt don't ask again: joining keeps the leaderboard score updated as they complete more sets, skipping just keeps showing their typed name.

@@ -52,6 +52,16 @@
                 </span>
                 <span class="footer-separator">|</span>
                 <span class="footer-visitors">
+                    <i class="bi bi-book me-1"></i>Books Downloaded: <?= number_format((int) ($bookDownloads2 ?? 0)) ?>
+                </span>
+                <?php if (!empty($topBookDownloadLanguage)): ?>
+                    <span class="footer-separator">|</span>
+                    <span class="footer-visitors">
+                        <i class="bi bi-translate me-1"></i>Top Books Language: <?= htmlspecialchars(quizLanguageDisplayName((string) $topBookDownloadLanguage)) ?>
+                    </span>
+                <?php endif; ?>
+                <span class="footer-separator">|</span>
+                <span class="footer-visitors">
                     <i class="bi bi-check2-circle me-1"></i>Quizzes Completed: <?= number_format((int) ($quizzesCompletedTotal ?? 0)) ?>
                 </span>
                 <span class="footer-separator">|</span>

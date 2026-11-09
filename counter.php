@@ -4,6 +4,7 @@ require_once __DIR__ . '/includes/visitor-counter.php';
 require_once __DIR__ . '/includes/share-counter.php';
 require_once __DIR__ . '/includes/embed-counter.php';
 require_once __DIR__ . '/includes/download-counter.php';
+require_once __DIR__ . '/includes/book-download-counter.php';
 require_once __DIR__ . '/includes/quiz-stats.php';
 require_once __DIR__ . '/partials.php';
 
@@ -38,6 +39,9 @@ $visitorsByLanguage = [];
 $shares2 = 0;
 $embeds2 = 0;
 $downloads2 = quizReadDownloadCounts()['total'];
+$bookDownloadCounts = quizReadBookDownloadCounts();
+$bookDownloads2 = $bookDownloadCounts['total'];
+$topBookDownloadLanguage = quizTopBookDownloadLanguage($bookDownloadCounts);
 
 // A request served by embed.php (the full setup form, iframe-embeddable) or
 // embed-quiz.php (a single pre-configured quiz, iframe-embeddable) — counted

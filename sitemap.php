@@ -5,6 +5,8 @@
  * Protected: requires admin session from a.php (same pattern as i.php).
  */
 
+require_once __DIR__ . '/includes/books-catalog.php';
+
 session_name('admin_sess');
 session_start();
 
@@ -42,6 +44,24 @@ function sm_collectUrls(string $baseUrl): array
         ['loc' => $baseUrl, 'priority' => '1.0'],
         ['loc' => $baseUrl . 'index.php', 'priority' => '1.0'],
     ];
+
+    // Download Books: one page per language that has books, plus a direct
+    // link to every PDF (same URLs the page's Download buttons use).
+    foreach (quizBookLanguages() as $bookLang) {
+        $urls[] = [
+            'loc' => $baseUrl . 'download-books.php?lang=' . rawurlencode($bookLang),
+            'priority' => '0.6',
+        ];
+        foreach (quizBooksForLanguage($bookLang) as $group => $items) {
+            foreach ($items as $item) {
+                $urls[] = [
+                    'loc' => $baseUrl . 'api/book-download.php?lang=' . rawurlencode($bookLang)
+                        . '&group=' . $group . '&file=' . rawurlencode($item['stem']),
+                    'priority' => '0.4',
+                ];
+            }
+        }
+    }
 
     $indexDir = __DIR__ . '/index';
     if (!is_dir($indexDir)) {

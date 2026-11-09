@@ -14,6 +14,7 @@ require_once __DIR__ . '/includes/visitor-counter.php';
 require_once __DIR__ . '/includes/share-counter.php';
 require_once __DIR__ . '/includes/embed-counter.php';
 require_once __DIR__ . '/includes/download-counter.php';
+require_once __DIR__ . '/includes/book-download-counter.php';
 require_once __DIR__ . '/includes/quiz-stats.php';
 require_once __DIR__ . '/includes/quiz-i18n.php';
 require_once __DIR__ . '/includes/mistake-reports.php';
@@ -1065,6 +1066,12 @@ if (($_GET['view'] ?? '') === 'mistakes') {
                 <?php if ((int)($r['count'] ?? 1) > 1): ?>
                     <span class="badge-count">×<?= (int)$r['count'] ?> reports</span>
                 <?php endif; ?>
+                <?php if (!empty($r['reported_by']) && is_array($r['reported_by'])): ?>
+                    <div class="report-date">Reported by: <?= htmlspecialchars(implode(', ', array_map(
+                        static fn ($u): string => trim(($u['name'] ?? '') . ' <' . ($u['email'] ?? '') . '>'),
+                        $r['reported_by']
+                    ))) ?></div>
+                <?php endif; ?>
                 <?php if ($full === false): ?>
                     <span class="badge-count" style="background:#fdf2f2;color:#c0392b;">❌ File no longer exists</span>
                 <?php endif; ?>
@@ -2019,6 +2026,8 @@ $mistakeCount = count(array_filter(quizMistakeReadAll(), static fn (array $r): b
 $sharesCountTotal = quizReadShareCounts()['total'];
 $embedsCountTotal = quizReadEmbedCounts()['total'];
 $downloadsCountTotal = quizReadDownloadCounts()['total'];
+$bookDownloadCountsAdmin = quizReadBookDownloadCounts();
+$topBookDownloadLangAdmin = quizTopBookDownloadLanguage($bookDownloadCountsAdmin);
 $quizzesCompletedCountTotal = quizReadQuizzesCompleted()['total'];
 $questionsAnsweredCountTotal = quizReadQuestionsAnswered()['total'];
 
@@ -2439,6 +2448,22 @@ $csrf = csrfToken();
                 <span class="visitor-stats-lang-name">Downloads</span>
                 <span class="visitor-stats-lang-count"><?= number_format((int) $downloadsCountTotal) ?></span>
             </div>
+            <div class="visitor-stats-lang">
+                <span class="visitor-stats-lang-name">Books Downloaded</span>
+                <span class="visitor-stats-lang-count"><?= number_format((int) $bookDownloadCountsAdmin['total']) ?></span>
+            </div>
+            <?php if ($topBookDownloadLangAdmin !== ''): ?>
+                <div class="visitor-stats-lang">
+                    <span class="visitor-stats-lang-name">Top Books Language</span>
+                    <span class="visitor-stats-lang-count"><?= htmlspecialchars(quizLanguageDisplayName($topBookDownloadLangAdmin)) ?></span>
+                </div>
+                <?php $bookLangCounts = $bookDownloadCountsAdmin['languages']; arsort($bookLangCounts); foreach ($bookLangCounts as $bl => $bc): ?>
+                    <div class="visitor-stats-lang">
+                        <span class="visitor-stats-lang-name">Books · <?= htmlspecialchars(quizLanguageDisplayName((string) $bl)) ?></span>
+                        <span class="visitor-stats-lang-count"><?= number_format((int) $bc) ?></span>
+                    </div>
+                <?php endforeach; ?>
+            <?php endif; ?>
             <div class="visitor-stats-lang">
                 <span class="visitor-stats-lang-name">Quizzes Completed</span>
                 <span class="visitor-stats-lang-count"><?= number_format((int) $quizzesCompletedCountTotal) ?></span>

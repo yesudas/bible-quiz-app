@@ -98,7 +98,7 @@ function quizMistakeMutate(callable $mutate): bool
  * Logs a report. A repeat report of the same question + type bumps `count` instead
  * of adding another row.
  */
-function quizMistakeAdd(string $relPath, string $type): bool
+function quizMistakeAdd(string $relPath, string $type, ?array $reporter = null): bool
 {
     $full = quizResolveQuestionPath($relPath);
     if ($full === false || !isset(QUIZ_MISTAKE_TYPES[$type])) {
@@ -110,11 +110,17 @@ function quizMistakeAdd(string $relPath, string $type): bool
     $segments = explode('/', $relPath);
     $fileNumber = (int) (preg_split('/-/', pathinfo($full, PATHINFO_FILENAME))[2] ?? 0);
 
-    return quizMistakeMutate(static function (array $rows) use ($relPath, $type, $segments, $q, $fileNumber): array {
+    return quizMistakeMutate(static function (array $rows) use ($relPath, $type, $segments, $q, $fileNumber, $reporter): array {
         foreach ($rows as &$row) {
             if (($row['path'] ?? '') === $relPath && ($row['type'] ?? '') === $type) {
                 $row['count'] = (int) ($row['count'] ?? 1) + 1;
                 $row['last_reported'] = date('Y-m-d H:i:s');
+                if ($reporter !== null) {
+                    $known = array_column($row['reported_by'] ?? [], 'email');
+                    if (!in_array($reporter['email'], $known, true)) {
+                        $row['reported_by'][] = $reporter;
+                    }
+                }
                 return $rows;
             }
         }
@@ -132,6 +138,7 @@ function quizMistakeAdd(string $relPath, string $type): bool
             'question_no'   => $fileNumber,
             'question_id'   => $q['id'] ?? '',
             'path'          => $relPath,
+            'reported_by'   => $reporter !== null ? [$reporter] : [],
         ];
         return $rows;
     });
