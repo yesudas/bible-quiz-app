@@ -57,15 +57,20 @@ $embedQuery = $embed ? '&embed=1' : '';
                 </tr>
             </thead>
             <tbody>
+                <?php $myEmail = strtolower((string) ($googleUser['email'] ?? '')); ?>
                 <?php foreach ($rows as $i => $row): ?>
-                    <?php $pictureUrl = (string) ($row['pictureUrl'] ?? ''); ?>
-                    <tr>
+                    <?php
+                    $pictureUrl = (string) ($row['pictureUrl'] ?? '');
+                    $isMe = $myEmail !== '' && strtolower((string) ($row['gmailId'] ?? '')) === $myEmail;
+                    ?>
+                    <tr<?= $isMe ? ' class="is-me"' : '' ?>>
                         <td><?= (int) $i + 1 ?></td>
                         <td class="leaderboard-name-cell">
                             <?php if ($pictureUrl !== ''): ?>
                                 <img class="player-avatar" src="<?= htmlspecialchars($pictureUrl) ?>" alt="" width="28" height="28">
                             <?php endif; ?>
-                            <?= htmlspecialchars((string) ($row['displayName'] ?? '')) ?>
+                            <span><?= htmlspecialchars((string) ($row['displayName'] ?? '')) ?></span>
+                            <?php if ($isMe): ?><span class="you-pill"><?= htmlspecialchars($labels['youBadge']) ?></span><?php endif; ?>
                         </td>
                         <td><?= (int) ($row['score'] ?? 0) ?></td>
                     </tr>
@@ -129,7 +134,8 @@ $embedQuery = $embed ? '&embed=1' : '';
 
             <div class="achievement-tiers" id="achievementTiers">
                 <?php foreach ($achievementTiers as $tier): ?>
-                    <div class="achievement-tier" style="--tier-color: <?= htmlspecialchars($tier['color']) ?>">
+                    <?php $tierComplete = !in_array(false, $tier['stars'], true); ?>
+                    <div class="achievement-tier<?= $tierComplete ? ' is-complete' : '' ?>" data-tier="<?= htmlspecialchars($tier['key']) ?>" data-complete-label="<?= htmlspecialchars($labels['achievementsCompleted']) ?>" style="--tier-color: <?= htmlspecialchars($tier['color']) ?>">
                         <div class="achievement-tier-icon"><?= $achievementTierIcons[$tier['key']] ?? '⭐' ?></div>
                         <div class="achievement-tier-body">
                             <span class="achievement-tier-label"><?= htmlspecialchars($tier['label']) ?></span>

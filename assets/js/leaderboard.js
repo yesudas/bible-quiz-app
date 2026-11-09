@@ -50,6 +50,8 @@
 
                 if (lit) litCount += 1;
             });
+            const tierEl = tiersWrap.querySelector('.achievement-tier[data-tier="' + tier.key + '"]');
+            if (tierEl) tierEl.classList.toggle('is-complete', litCount > 0 && litCount === (tier.stars || []).length);
             if (litCount > 0) {
                 highest = { tier: tier.label, color: tier.color, starNumber: litCount };
             }

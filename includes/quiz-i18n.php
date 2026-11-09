@@ -231,6 +231,7 @@ function quizLeaderboardLabelsByLanguage(): array
             'rank' => 'Rank',
             'name' => 'Name',
             'score' => 'Score',
+            'youBadge' => 'YOU',
             'empty' => 'No one has joined the leaderboard yet — be the first!',
             'downloadPdf' => 'Generate Results PDF',
             'congratsTop100' => '🎉 Congratulations! You\'re in the Top 100 on the leaderboard — rank #{rank}!',
@@ -248,6 +249,7 @@ function quizLeaderboardLabelsByLanguage(): array
             'achievementsScoreLabel' => 'Lifetime correct answers',
             'achievementsLogout' => 'Not you? Sign out',
             'achievementsToGo' => 'to go',
+            'achievementsCompleted' => '✓ Completed',
             'achievementsBadgeMessage' => '🎉 Congratulations, {name}! You\'ve reached {tier} — Star {star} of 5!',
         ],
         'Tamil' => [
@@ -275,6 +277,7 @@ function quizLeaderboardLabelsByLanguage(): array
             'rank' => 'தரவரிசை',
             'name' => 'பெயர்',
             'score' => 'மதிப்பெண்',
+            'youBadge' => 'நீங்கள்',
             'empty' => 'இன்னும் யாரும் Leaderboard-ல் இணையவில்லை — முதலில் இணையுங்கள்!',
             'downloadPdf' => 'Generate Results PDF',
             'congratsTop100' => '🎉 வாழ்த்துக்கள்! நீங்கள் முன்னணி பட்டியலில் முதல் 100-க்குள் இடம்பெற்றுள்ளீர்கள் — தரவரிசை #{rank}!',
@@ -292,6 +295,7 @@ function quizLeaderboardLabelsByLanguage(): array
             'achievementsScoreLabel' => 'மொத்த சரியான பதில்கள்',
             'achievementsLogout' => 'இது நீங்கள் இல்லையா? Sign out செய்யவும்',
             'achievementsToGo' => 'மேலும் தேவை',
+            'achievementsCompleted' => '✓ முடிந்தது',
             'achievementsBadgeMessage' => '🎉 வாழ்த்துக்கள், {name}! நீங்கள் {tier} — Star {star} of 5-ஐ அடைந்துவிட்டீர்கள்!',
         ],
     ];

@@ -205,7 +205,7 @@ $pageTitle = 'Bible Quiz (Embed) - WordOfGod';
             </div>
         <?php endif; ?>
 
-        <a class="leaderboard-widget-more" data-leaderboard-label="showAll" href="leaderboard.php?lang=<?= urlencode($selectedLanguage) ?>&embed=1">
+        <a class="leaderboard-widget-more" data-leaderboard-label="showAll" href="leaderboard.php?view=all&lang=<?= urlencode($selectedLanguage) ?>&embed=1">
             <?= htmlspecialchars($leaderboardLabels['showAll']) ?> →
         </a>
     </section>

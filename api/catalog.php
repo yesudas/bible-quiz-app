@@ -47,6 +47,7 @@ $data['labels'] = [
     'leaderboard' => [
         'pageTitle' => quizLeaderboardLabels($lang)['pageTitle'],
         'showAll' => quizLeaderboardLabels($lang)['showAll'],
+        'youBadge' => quizLeaderboardLabels($lang)['youBadge'],
     ],
 ];
 

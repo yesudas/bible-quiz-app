@@ -1,5 +1,6 @@
 <nav class="site-nav" id="siteNav" aria-label="WordOfGod.in resources" hidden>
     <ul class="site-nav-list">
+        <li class="site-nav-help"><a href="help.php<?= !empty($headerLang) ? '?lang=' . urlencode($headerLang) : '' ?>"><i class="bi bi-question-circle" aria-hidden="true"></i> Help</a></li>
         <li><a href="https://www.wordofgodteam.com/" target="_blank" rel="noopener noreferrer"><i class="bi bi-people" aria-hidden="true"></i> About Us</a></li>
         <li><a href="https://wordofgod.in/bible-devotions/" target="_blank" rel="noopener noreferrer"><i class="bi bi-journal-bookmark" aria-hidden="true"></i> Bible Devotions</a></li>
         <li><a href="https://wordofgod.in/bibles/" target="_blank" rel="noopener noreferrer"><i class="bi bi-book-half" aria-hidden="true"></i> Online Bibles</a></li>

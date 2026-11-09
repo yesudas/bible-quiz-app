@@ -99,6 +99,9 @@ $catalogPlaces = array_values(array_filter($catalog['places'] ?? [], fn($p) => (
 
 $leaderboardTop10 = quizLeaderboardReadPublic('top10');
 $leaderboardLabels = quizLeaderboardLabels($selectedLanguage);
+$myLeaderboardEmail = strtolower((string) (quizGoogleUser()['email'] ?? ''));
+$leaderboardIsMe = fn(array $row): bool => $myLeaderboardEmail !== ''
+    && strtolower((string) ($row['gmailId'] ?? '')) === $myLeaderboardEmail;
 $leaderboardPodium = array_slice($leaderboardTop10, 0, 3);
 $leaderboardRest = array_slice($leaderboardTop10, 3, 7);
 
@@ -371,9 +374,10 @@ renderQuizHeader($pageTitle, $metaDescription, $version, [
         <?php foreach ($podiumOrder as $i => $tier): ?>
             <?php if (!isset($leaderboardPodium[$i])) continue; ?>
             <?php $row = $leaderboardPodium[$i]; ?>
-            <div class="podium-step <?= $tier ?>">
+            <?php $isMe = $leaderboardIsMe($row); ?>
+            <div class="podium-step <?= $tier ?><?= $isMe ? ' is-me' : '' ?>">
                 <span class="ord-tag"><?= $i + 1 ?></span>
-                <span class="p-name"><?= htmlspecialchars((string) $row['displayName']) ?></span>
+                <span class="p-name"><?= htmlspecialchars((string) $row['displayName']) ?><?php if ($isMe): ?> <span class="you-pill" data-leaderboard-label="youBadge"><?= htmlspecialchars($leaderboardLabels['youBadge']) ?></span><?php endif; ?></span>
                 <span class="p-score"><?= (int) $row['score'] ?></span>
             </div>
         <?php endforeach; ?>
@@ -382,16 +386,17 @@ renderQuizHeader($pageTitle, $metaDescription, $version, [
     <?php if ($leaderboardRest !== []): ?>
         <div class="rest-list">
             <?php foreach ($leaderboardRest as $i => $row): ?>
-                <div class="rest-row">
+                <?php $isMe = $leaderboardIsMe($row); ?>
+                <div class="rest-row<?= $isMe ? ' is-me' : '' ?>">
                     <span class="r-rank"><?= $i + 4 ?></span>
-                    <span class="r-name"><?= htmlspecialchars((string) $row['displayName']) ?></span>
+                    <span class="r-name"><?= htmlspecialchars((string) $row['displayName']) ?><?php if ($isMe): ?> <span class="you-pill" data-leaderboard-label="youBadge"><?= htmlspecialchars($leaderboardLabels['youBadge']) ?></span><?php endif; ?></span>
                     <span class="r-score"><?= (int) $row['score'] ?></span>
                 </div>
             <?php endforeach; ?>
         </div>
     <?php endif; ?>
 
-    <a class="leaderboard-widget-more" data-leaderboard-label="showAll" href="leaderboard.php?lang=<?= urlencode($selectedLanguage) ?>">
+    <a class="leaderboard-widget-more" data-leaderboard-label="showAll" href="leaderboard.php?view=all&lang=<?= urlencode($selectedLanguage) ?>">
         <?= htmlspecialchars($leaderboardLabels['showAll']) ?> →
     </a>
 </section>

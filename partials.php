@@ -130,6 +130,9 @@ function renderQuizHeader(string $pageTitle, string $metaDescription, string $ve
                 <i class="bi bi-person-circle" aria-hidden="true"></i>
             <?php endif; ?>
         </a>
+        <a class="header-home" id="homeLinkHeader" href="<?= htmlspecialchars($brandHref) ?>" aria-label="Home">
+            <i class="bi bi-house-door" aria-hidden="true"></i><span class="header-home-label">Home</span>
+        </a>
         <a class="header-help" id="helpLinkHeader" href="help.php<?= $headerLang !== '' ? '?lang=' . urlencode($headerLang) : '' ?>">
             <i class="bi bi-question-circle" aria-hidden="true"></i> Help
         </a>
