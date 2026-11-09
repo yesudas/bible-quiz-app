@@ -18,6 +18,7 @@ require_once __DIR__ . '/includes/book-download-counter.php';
 require_once __DIR__ . '/includes/quiz-stats.php';
 require_once __DIR__ . '/includes/quiz-i18n.php';
 require_once __DIR__ . '/includes/mistake-reports.php';
+require_once __DIR__ . '/includes/mistake-notices.php';
 require_once __DIR__ . '/includes/quiz-leaderboard.php';
 require_once __DIR__ . '/includes/quiz-achievements.php';
 require_once __DIR__ . '/partials.php';
@@ -491,7 +492,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isLoggedIn()) {
     // Dismiss (resolve) a reported quiz mistake
     if ($action === 'dismiss_mistake') {
         quizMistakeDismiss((string)($_POST['report_id'] ?? ''));
-        header('Location: a.php?view=mistakes');
+        header('Location: a.php?view=mistakes&tab=' . (($_GET['tab'] ?? '') === 'resolved' ? 'resolved' : 'open'));
         exit;
     }
 
@@ -592,7 +593,22 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isLoggedIn()) {
             $msg = "Saved $rel. Rebuild the quiz index if you changed themes, characters, places or difficulty.";
             $msgType = 'success';
             if (!empty($_POST['also_dismiss'])) {
-                quizMistakeMarkResolved((string)($_POST['report_id'] ?? ''));
+                $resolveId = (string)($_POST['report_id'] ?? '');
+                $resolveRow = null;
+                foreach (quizMistakeReadAll() as $cand) {
+                    if (($cand['id'] ?? '') === $resolveId) { $resolveRow = $cand; break; }
+                }
+                // Notify only on the open -> resolved transition, never on a re-save of a resolved row.
+                $wasOpen = $resolveRow !== null && !quizMistakeIsResolved($resolveRow);
+                quizMistakeMarkResolved($resolveId);
+                if ($wasOpen && !empty($resolveRow['reported_by'])) {
+                    $saved = json_decode($text, true);
+                    $verse = trim((string)($saved['verse_reference'] ?? ''));
+                    if ($verse === '') {
+                        $verse = trim(($resolveRow['book'] ?? '') . ' ' . ($resolveRow['chapter'] ?? ''));
+                    }
+                    quizNoticeAdd(array_column($resolveRow['reported_by'], 'email'), $verse, (string)($resolveRow['language'] ?? 'English'));
+                }
             }
         }
         $_GET['view'] = 'mistakes';
@@ -925,6 +941,53 @@ if (($_GET['view'] ?? '') === 'reports') {
     exit;
 }
 
+// ── Full Bible chapter for the mistakes screen (proxy to ../bibles/api.php) ──
+if (($_GET['view'] ?? '') === 'bible_chapter') {
+    header('Content-Type: application/json; charset=utf-8');
+    header('Cache-Control: no-store');
+    $lang = (string)($_GET['lang'] ?? '');
+    $bibleId = null;
+    if (preg_match('/tamil|தமிழ்/iu', $lang)) {
+        $bibleId = 'TOV2017';
+    } elseif (preg_match('/english/i', $lang)) {
+        $bibleId = 'NIV2011';
+    }
+    $book = (int)($_GET['book'] ?? 0);
+    $chapter = (int)($_GET['chapter'] ?? 0);
+    if ($bibleId === null || $book < 1 || $chapter < 1) {
+        echo json_encode(['success' => false, 'error' => 'No Bible text is configured for this language.']);
+        exit;
+    }
+    $query = 'api.php?action=getVerses&bible=' . $bibleId . '&book=' . $book . '&chapter=' . $chapter;
+    // Sibling "bibles" folder on the same host first; fall back to production for local dev.
+    $https = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') || (($_SERVER['HTTP_X_FORWARDED_PROTO'] ?? '') === 'https');
+    $baseDir = rtrim(dirname($_SERVER['SCRIPT_NAME']), '/');
+    $urls = [
+        ($https ? 'https' : 'http') . '://' . ($_SERVER['HTTP_HOST'] ?? 'localhost') . rtrim(dirname($baseDir), '/') . '/bibles/' . $query,
+        'https://www.wordofgod.in/bibles/' . $query,
+    ];
+    // `php -S` serves one request at a time, so a request back to ourselves would hang until the
+    // timeout. On a loopback host there is no sibling /bibles to reach anyway — go straight to production.
+    $hostOnly = strtolower(preg_replace('/:\d+$/', '', (string)($_SERVER['HTTP_HOST'] ?? '')));
+    if (in_array($hostOnly, ['localhost', '127.0.0.1', '[::1]', ''], true)) {
+        array_shift($urls);
+    }
+    foreach ($urls as $url) {
+        $ch = curl_init($url);
+        curl_setopt_array($ch, [CURLOPT_RETURNTRANSFER => true, CURLOPT_CONNECTTIMEOUT => 3, CURLOPT_TIMEOUT => 8, CURLOPT_FOLLOWLOCATION => true]);
+        $body = curl_exec($ch);
+        $code = (int)curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        curl_close($ch);
+        $data = is_string($body) ? json_decode($body, true) : null;
+        if ($code === 200 && is_array($data) && !empty($data['success']) && !empty($data['verses'])) {
+            echo json_encode(['success' => true, 'bible' => $bibleId, 'verses' => $data['verses']], JSON_UNESCAPED_UNICODE);
+            exit;
+        }
+    }
+    echo json_encode(['success' => false, 'error' => 'Could not load the Bible chapter.']);
+    exit;
+}
+
 // ── Download a reported question's JSON (from the mistakes screen) ──────────
 if (($_GET['view'] ?? '') === 'mistake_download') {
     $full = quizResolveQuestionPath((string) ($_GET['path'] ?? ''));
@@ -949,6 +1012,13 @@ if (($_GET['view'] ?? '') === 'mistakes') {
     $mistakeTab = ($_GET['tab'] ?? 'open') === 'resolved' ? 'resolved' : 'open';
     $reports = $mistakeTab === 'resolved' ? $resolvedReports : $openReports;
     $openEdit = (string)($_POST['_keep_edit'] ?? '');
+    $selId = (string)($_GET['id'] ?? $_POST['report_id'] ?? '');
+    $sel = null;
+    foreach ($reports as $cand) {
+        if (($cand['id'] ?? '') === $selId) { $sel = $cand; break; }
+    }
+    $sel ??= $reports[0] ?? null;
+    ob_start();
     ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -1015,6 +1085,21 @@ if (($_GET['view'] ?? '') === 'mistakes') {
             text-decoration: none; color: #566573; background: #eef2f5; border: 1px solid #dce3ec; border-bottom: none;
         }
         .tab-link.active { background: #fff; color: #1a5276; box-shadow: 0 -2px 6px rgba(0,0,0,.04); }
+        .reports-wrap.split { max-width: 1400px; display: grid; grid-template-columns: 380px 1fr; gap: 16px; align-items: start; }
+        .report-list { background: #fff; border: 1px solid #dce3ec; border-radius: 10px; max-height: 85vh; overflow-y: auto; position: sticky; top: 8px; }
+        .report-item { display: block; padding: 10px 14px; border-bottom: 1px solid #eef2f5; text-decoration: none; color: #2c3e50; font-size: .82rem; }
+        .report-item:hover { background: #f4f8fb; }
+        .report-item.active { background: #e8f1f8; border-left: 4px solid #2980b9; padding-left: 10px; }
+        .report-item .ri-top { font-weight: 700; color: #1a5276; }
+        .report-item .ri-sub { color: #566573; margin-top: 2px; }
+        .bible-panel { margin-top: 14px; background: #fff; border: 1px solid #dce3ec; border-radius: 10px; padding: 14px 18px; }
+        .bible-panel h3 { font-size: 1rem; color: #1a5276; margin-bottom: 8px; }
+        .bible-verses { max-height: 60vh; overflow-y: auto; font-size: .92rem; line-height: 1.6; color: #2c3e50; }
+        .bible-verses p { margin: 0 0 6px; }
+        .bible-verses { position: relative; }
+        .bible-verses .verse-hl { background: #fff6cc; border-left: 4px solid #f1c40f; padding: 2px 8px; border-radius: 4px; }
+        .bible-verses sup { color: #2980b9; font-weight: 700; margin-right: 4px; }
+        @media (max-width: 800px) { .reports-wrap.split { grid-template-columns: 1fr; } .report-list { max-height: 40vh; position: static; } }
         .badge-resolved { display: inline-block; margin-top: 4px; padding: 2px 8px; border-radius: 10px; font-size: .72rem; font-weight: 700; background: #eafaf1; color: #1e8449; }
     </style>
 </head>
@@ -1042,105 +1127,209 @@ if (($_GET['view'] ?? '') === 'mistakes') {
     <div class="alert alert-<?= $msgType ?>"><?= htmlspecialchars($msg) ?></div>
 <?php endif; ?>
 
+<?php
+$typeShort = ['question' => 'Mistake in question', 'answer' => 'Mistake in answer', 'both' => 'Mistake in question & answer'];
+$reporterText = static fn (array $r): string => !empty($r['reported_by']) && is_array($r['reported_by'])
+    ? implode(', ', array_map(static fn ($u): string => trim(($u['name'] ?? '') !== '' ? $u['name'] : ($u['email'] ?? '')), $r['reported_by']))
+    : 'Anonymous';
+?>
+<?php if (empty($reports)): ?>
 <div class="reports-wrap">
-    <?php if (empty($reports)): ?>
-        <div class="empty-state">
-            <span style="font-size:2.5rem;display:block;margin-bottom:10px;">🎉</span>
-            <?= $mistakeTab === 'resolved' ? 'Nothing resolved yet.' : 'No open mistakes.' ?>
-        </div>
-    <?php else: ?>
-        <?php foreach ($reports as $r):
-            $relPath  = (string)($r['path'] ?? '');
-            $full     = quizResolveQuestionPath($relPath);
-            $raw      = $full !== false ? (string)file_get_contents($full) : '';
-            $q        = $full !== false ? json_decode($raw, true) : null;
-            $typeText = QUIZ_MISTAKE_TYPES[$r['type'] ?? ''] ?? (string)($r['type'] ?? '');
-            $formId   = 'edit-' . preg_replace('/[^a-z0-9]/i', '', (string)$r['id']);
-            $isOpen   = $openEdit !== '' && $openEdit === $relPath;
-            $editText = $isOpen && isset($_POST['json_content']) ? (string)$_POST['json_content'] : $raw;
-        ?>
-            <div class="report-card">
-                <div class="report-file">📄 <?= htmlspecialchars($relPath) ?></div>
-                <div class="report-date">Reported <?= htmlspecialchars((string)($r['timestamp'] ?? '')) ?><?php if (($r['last_reported'] ?? '') !== ($r['timestamp'] ?? '')): ?> · last <?= htmlspecialchars((string)$r['last_reported']) ?><?php endif; ?></div>
-                <span class="badge-type"><?= htmlspecialchars($typeText) ?></span>
-                <?php if ((int)($r['count'] ?? 1) > 1): ?>
-                    <span class="badge-count">×<?= (int)$r['count'] ?> reports</span>
-                <?php endif; ?>
-                <?php if (!empty($r['reported_by']) && is_array($r['reported_by'])): ?>
-                    <div class="report-date">Reported by: <?= htmlspecialchars(implode(', ', array_map(
-                        static fn ($u): string => trim(($u['name'] ?? '') . ' <' . ($u['email'] ?? '') . '>'),
-                        $r['reported_by']
-                    ))) ?></div>
-                <?php endif; ?>
-                <?php if ($full === false): ?>
-                    <span class="badge-count" style="background:#fdf2f2;color:#c0392b;">❌ File no longer exists</span>
-                <?php endif; ?>
-                <?php if ($mistakeTab === 'resolved'): ?>
-                    <span class="badge-resolved">✅ Resolved <?= htmlspecialchars((string)($r['resolved_at'] ?? '')) ?></span>
-                <?php endif; ?>
-
-                <dl class="report-grid">
-                    <div><dt>Language</dt><dd><?= htmlspecialchars((string)($r['language'] ?? '')) ?></dd></div>
-                    <div><dt>Book</dt><dd><?= htmlspecialchars(trim(($r['book_no'] ?? '') . ' ' . ($r['book'] ?? ''))) ?></dd></div>
-                    <div><dt>Chapter</dt><dd><?= htmlspecialchars((string)($r['chapter'] ?? '')) ?></dd></div>
-                    <div><dt>Question no.</dt><dd><?= htmlspecialchars((string)($r['question_no'] ?? '')) ?></dd></div>
-                </dl>
-
-                <?php if (is_array($q)): ?>
-                    <div class="q-preview">
-                        <strong><?= htmlspecialchars((string)($q['question'] ?? '')) ?></strong>
-                        <?php if (!empty($q['options']) && is_array($q['options'])): ?>
-                            <ol type="A">
-                                <?php foreach ($q['options'] as $i => $opt): ?>
-                                    <li<?= $i === (int)($q['correct_option'] ?? -1) ? ' class="correct"' : '' ?>><?= htmlspecialchars((string)$opt) ?></li>
-                                <?php endforeach; ?>
-                            </ol>
-                        <?php endif; ?>
-                    </div>
-                <?php endif; ?>
-
-                <div class="report-actions">
-                    <?php if ($full !== false): ?>
-                        <button type="button" class="btn btn-primary btn-sm"
-                                onclick="document.getElementById('<?= $formId ?>').classList.toggle('open')">✏️ Edit</button>
-                    <?php endif; ?>
-                    <?php if ($full !== false): ?>
-                        <a class="btn btn-secondary btn-sm" href="a.php?view=mistake_download&amp;path=<?= urlencode($relPath) ?>">⬇️ Download</a>
-                    <?php endif; ?>
-                    <form method="POST" action="a.php?view=mistakes"
-                          onsubmit="return confirm('Dismiss this report<?= $mistakeTab === 'resolved' ? ' and remove it from the resolved history' : ' without editing' ?>?');">
-                        <input type="hidden" name="action" value="dismiss_mistake">
-                        <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
-                        <input type="hidden" name="report_id" value="<?= htmlspecialchars((string)$r['id']) ?>">
-                        <button type="submit" class="btn btn-danger btn-sm">🗑️ Dismiss</button>
-                    </form>
-                </div>
-
-                <?php if ($full !== false): ?>
-                    <form method="POST" action="a.php?view=mistakes" id="<?= $formId ?>" class="edit-form<?= $isOpen ? ' open' : '' ?>">
-                        <input type="hidden" name="action" value="save_question_json">
-                        <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
-                        <input type="hidden" name="file_path" value="<?= htmlspecialchars($relPath) ?>">
-                        <input type="hidden" name="report_id" value="<?= htmlspecialchars((string)$r['id']) ?>">
-                        <textarea name="json_content" spellcheck="false"><?= htmlspecialchars($editText) ?></textarea>
-                        <div class="report-actions">
-                            <button type="submit" class="btn btn-primary btn-sm">💾 Save</button>
-                            <?php if ($mistakeTab === 'open'): ?>
-                                <button type="submit" name="also_dismiss" value="1" class="btn btn-secondary btn-sm">💾 Save &amp; mark resolved</button>
-                            <?php endif; ?>
-                            <button type="button" class="btn btn-secondary btn-sm"
-                                    onclick="document.getElementById('<?= $formId ?>').classList.remove('open')">Cancel</button>
-                        </div>
-                    </form>
-                <?php endif; ?>
-            </div>
-        <?php endforeach; ?>
-    <?php endif; ?>
+    <div class="empty-state">
+        <span style="font-size:2.5rem;display:block;margin-bottom:10px;">🎉</span>
+        <?= $mistakeTab === 'resolved' ? 'Nothing resolved yet.' : 'No open mistakes.' ?>
+    </div>
 </div>
+<?php else: ?>
+<div class="reports-wrap split">
+    <nav class="report-list">
+        <?php foreach ($reports as $item): ?>
+            <a class="report-item<?= ($item['id'] ?? '') === ($sel['id'] ?? '') ? ' active' : '' ?>"
+               href="a.php?view=mistakes&amp;tab=<?= $mistakeTab ?>&amp;id=<?= urlencode((string)$item['id']) ?>">
+                <?php
+                    $itemFull = quizResolveQuestionPath((string)($item['path'] ?? ''));
+                    $itemQ = $itemFull !== false ? json_decode((string)file_get_contents($itemFull), true) : null;
+                    $itemRef = trim((string)($itemQ['verse_reference'] ?? ''));
+                    if ($itemRef === '') {
+                        $itemRef = trim(($item['book'] ?? '') . ' ' . ($item['chapter'] ?? ''));
+                    }
+                ?>
+                <div class="ri-top"><?= htmlspecialchars((string)($item['language'] ?? '')) ?> · <?= htmlspecialchars($itemRef) ?> - Ques <?= htmlspecialchars((string)($item['question_no'] ?? '')) ?></div>
+                <div class="ri-sub"><?= htmlspecialchars($typeShort[$item['type'] ?? ''] ?? (string)($item['type'] ?? '')) ?><?= (int)($item['count'] ?? 1) > 1 ? ' · ×' . (int)$item['count'] : '' ?></div>
+                <div class="ri-sub">By: <?= htmlspecialchars($reporterText($item)) ?></div>
+            </a>
+        <?php endforeach; ?>
+    </nav>
+
+    <section id="reportDetail">
+    <!--DETAIL_START-->
+    <?php
+        $r        = $sel;
+        $relPath  = (string)($r['path'] ?? '');
+        $full     = quizResolveQuestionPath($relPath);
+        $raw      = $full !== false ? (string)file_get_contents($full) : '';
+        $q        = $full !== false ? json_decode($raw, true) : null;
+        $typeText = QUIZ_MISTAKE_TYPES[$r['type'] ?? ''] ?? (string)($r['type'] ?? '');
+        $formId   = 'edit-' . preg_replace('/[^a-z0-9]/i', '', (string)$r['id']);
+        $isOpen   = $openEdit !== '' && $openEdit === $relPath;
+        $editText = $isOpen && isset($_POST['json_content']) ? (string)$_POST['json_content'] : $raw;
+        $vs = 0; $ve = 0;
+        if (is_array($q) && preg_match('/(\d+)\s*:\s*(\d+)(?:\s*[-–]\s*(\d+))?\s*$/u', trim((string)($q['verse_reference'] ?? '')), $vm)) {
+            $vs = (int)$vm[2]; $ve = isset($vm[3]) && $vm[3] !== '' ? (int)$vm[3] : $vs;
+        }
+    ?>
+        <div class="report-card" id="reportCard" data-lang="<?= htmlspecialchars((string)($r['language'] ?? '')) ?>" data-book="<?= (int)($r['book_no'] ?? 0) ?>" data-chapter="<?= (int)($r['chapter'] ?? 0) ?>" data-vstart="<?= $vs ?>" data-vend="<?= $ve ?>">
+            <div class="report-file">📄 <?= htmlspecialchars($relPath) ?></div>
+            <div class="report-date">Reported <?= htmlspecialchars((string)($r['timestamp'] ?? '')) ?><?php if (($r['last_reported'] ?? '') !== ($r['timestamp'] ?? '')): ?> · last <?= htmlspecialchars((string)$r['last_reported']) ?><?php endif; ?></div>
+            <div class="report-date">Reported by: <?= htmlspecialchars($reporterText($r)) ?><?php foreach (($r['reported_by'] ?? []) as $u): ?> &lt;<?= htmlspecialchars((string)($u['email'] ?? '')) ?>&gt;<?php endforeach; ?></div>
+            <span class="badge-type"><?= htmlspecialchars($typeText) ?></span>
+            <?php if ((int)($r['count'] ?? 1) > 1): ?>
+                <span class="badge-count">×<?= (int)$r['count'] ?> reports</span>
+            <?php endif; ?>
+            <?php if ($full === false): ?>
+                <span class="badge-count" style="background:#fdf2f2;color:#c0392b;">❌ File no longer exists</span>
+            <?php endif; ?>
+            <?php if ($mistakeTab === 'resolved'): ?>
+                <span class="badge-resolved">✅ Resolved <?= htmlspecialchars((string)($r['resolved_at'] ?? '')) ?></span>
+            <?php endif; ?>
+
+            <?php if (is_array($q)): ?>
+                <div class="q-preview">
+                    <strong><?= htmlspecialchars((string)($q['question'] ?? '')) ?></strong>
+                    <?php if (!empty($q['options']) && is_array($q['options'])): ?>
+                        <ol type="A">
+                            <?php foreach ($q['options'] as $i => $opt): ?>
+                                <li<?= $i === (int)($q['correct_option'] ?? -1) ? ' class="correct"' : '' ?>><?= htmlspecialchars((string)$opt) ?></li>
+                            <?php endforeach; ?>
+                        </ol>
+                    <?php endif; ?>
+                    <?php if (!empty($q['verse_reference'])): ?>
+                        <div class="report-date" style="margin-top:6px;">📖 <?= htmlspecialchars((string)$q['verse_reference']) ?></div>
+                    <?php endif; ?>
+                </div>
+            <?php endif; ?>
+
+            <div class="report-actions">
+                <?php if ($full !== false): ?>
+                    <button type="button" class="btn btn-primary btn-sm"
+                            onclick="document.getElementById('<?= $formId ?>').classList.toggle('open')">✏️ Edit</button>
+                    <a class="btn btn-secondary btn-sm" href="a.php?view=mistake_download&amp;path=<?= urlencode($relPath) ?>">⬇️ Download</a>
+                <?php endif; ?>
+                <form method="POST" action="a.php?view=mistakes&amp;tab=<?= $mistakeTab ?>"
+                      onsubmit="return confirm('Dismiss this report<?= $mistakeTab === 'resolved' ? ' and remove it from the resolved history' : ' without editing' ?>?');">
+                    <input type="hidden" name="action" value="dismiss_mistake">
+                    <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
+                    <input type="hidden" name="report_id" value="<?= htmlspecialchars((string)$r['id']) ?>">
+                    <button type="submit" class="btn btn-danger btn-sm">🗑️ Dismiss</button>
+                </form>
+                <button type="button" class="btn btn-secondary btn-sm" id="loadChapterBtn">📖 Load full chapter for review</button>
+            </div>
+
+            <?php if ($full !== false): ?>
+                <form method="POST" action="a.php?view=mistakes&amp;tab=<?= $mistakeTab ?>&amp;id=<?= urlencode((string)$r['id']) ?>" id="<?= $formId ?>" class="edit-form<?= $isOpen ? ' open' : '' ?>">
+                    <input type="hidden" name="action" value="save_question_json">
+                    <input type="hidden" name="csrf_token" value="<?= htmlspecialchars($csrf) ?>">
+                    <input type="hidden" name="file_path" value="<?= htmlspecialchars($relPath) ?>">
+                    <input type="hidden" name="report_id" value="<?= htmlspecialchars((string)$r['id']) ?>">
+                    <textarea name="json_content" spellcheck="false"><?= htmlspecialchars($editText) ?></textarea>
+                    <div class="report-actions">
+                        <button type="submit" class="btn btn-primary btn-sm">💾 Save</button>
+                        <?php if ($mistakeTab === 'open'): ?>
+                            <button type="submit" name="also_dismiss" value="1" class="btn btn-secondary btn-sm">💾 Save &amp; mark resolved</button>
+                        <?php endif; ?>
+                        <button type="button" class="btn btn-secondary btn-sm"
+                                onclick="document.getElementById('<?= $formId ?>').classList.remove('open')">Cancel</button>
+                    </div>
+                </form>
+            <?php endif; ?>
+        </div>
+
+        <div class="bible-panel" id="biblePanel" hidden>
+            <h3>📖 <?= htmlspecialchars((string)($r['book'] ?? '')) ?> <?= htmlspecialchars((string)($r['chapter'] ?? '')) ?></h3>
+            <div class="bible-verses" id="bibleVerses"></div>
+        </div>
+    <!--DETAIL_END-->
+    </section>
+</div>
+<script>
+(function () {
+    const detail = document.getElementById('reportDetail');
+
+    // Re-run after every swap of the right-hand panel: wires the on-demand chapter loader.
+    function initDetail() {
+        const card = document.getElementById('reportCard');
+        const btn = document.getElementById('loadChapterBtn');
+        if (!card || !btn) return;
+        const box = document.getElementById('bibleVerses');
+        const panel = document.getElementById('biblePanel');
+        const target = { start: +card.dataset.vstart, end: +card.dataset.vend };
+        let loaded = false;
+        function load() {
+            box.textContent = 'Loading chapter…';
+            const params = new URLSearchParams({ view: 'bible_chapter', lang: card.dataset.lang, book: card.dataset.book, chapter: card.dataset.chapter });
+            fetch('a.php?' + params, { credentials: 'same-origin' })
+                .then(r => r.json())
+                .then(d => {
+                    if (!d.success) { box.textContent = d.error || 'Could not load the chapter.'; loaded = false; return; }
+                    box.textContent = '';
+                    d.verses.forEach(v => {
+                        const p = document.createElement('p');
+                        const n = document.createElement('sup');
+                        n.textContent = v.number;
+                        p.appendChild(n);
+                        p.appendChild(document.createTextNode(v.verse));
+                        if (target.start && v.number >= target.start && v.number <= target.end) p.className = 'verse-hl';
+                        box.appendChild(p);
+                    });
+                    const first = box.querySelector('.verse-hl');
+                    if (first) box.scrollTop = Math.max(0, first.offsetTop - 12);
+                })
+                .catch(() => { box.textContent = 'Could not load the chapter.'; loaded = false; });
+        }
+        // Fetch only on demand, once per selected report.
+        btn.addEventListener('click', () => {
+            panel.hidden = false;
+            if (!loaded) { loaded = true; load(); }
+            panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        });
+    }
+
+    // Selecting a report swaps only the right-hand panel instead of reloading the page.
+    document.querySelector('.report-list').addEventListener('click', (e) => {
+        const link = e.target.closest('a.report-item');
+        if (!link || e.metaKey || e.ctrlKey || e.shiftKey || e.button !== 0) return;
+        e.preventDefault();
+        if (link.classList.contains('active')) return;
+        detail.style.opacity = '.5';
+        fetch(link.href + '&partial=1', { credentials: 'same-origin' })
+            .then(r => { if (!r.ok) throw new Error(); return r.text(); })
+            .then(html => {
+                detail.innerHTML = html;
+                detail.style.opacity = '';
+                document.querySelectorAll('.report-item.active').forEach(el => el.classList.remove('active'));
+                link.classList.add('active');
+                history.pushState(null, '', link.href);
+                initDetail();
+            })
+            .catch(() => { window.location.href = link.href; }); // fall back to a normal page load
+    });
+    window.addEventListener('popstate', () => window.location.reload());
+
+    initDetail();
+})();
+</script>
+<?php endif; ?>
 
 </body>
 </html>
     <?php
+    $page = ob_get_clean();
+    // ?partial=1 returns just the right-hand panel; anything else gets the full page.
+    if (!empty($_GET['partial']) && preg_match('/<!--DETAIL_START-->(.*)<!--DETAIL_END-->/s', $page, $pm)) {
+        echo $pm[1];
+    } else {
+        echo $page;
+    }
     exit;
 }
 

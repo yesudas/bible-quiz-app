@@ -172,6 +172,39 @@ function renderQuizFooter(string $version, array $options = []): void
 </footer>
 <?php endif; ?>
 
+<?php
+if (!$embed) {
+    require_once __DIR__ . '/includes/mistake-notices.php';
+    // Signed-out visitors skip the check entirely; signed-in ones cost one is_file() call.
+    $noticeUser = quizGoogleUser();
+    $notices = ($noticeUser && !empty($noticeUser['email'])) ? quizNoticeRead((string) $noticeUser['email']) : [];
+    if ($notices) {
+        $noticeText = quizNoticeMessages($notices);
+        ?>
+<div class="modal-overlay" id="mistakeNoticeModal" role="dialog" aria-modal="true" aria-labelledby="mistakeNoticeTitle">
+    <div class="modal-box notice-box">
+        <div class="notice-emoji" aria-hidden="true">🙏</div>
+        <h2 id="mistakeNoticeTitle" class="notice-title"><?= htmlspecialchars($noticeText['title']) ?></h2>
+        <p class="notice-message"><?= htmlspecialchars($noticeText['message']) ?></p>
+        <p class="notice-bless"><?= htmlspecialchars($noticeText['bless']) ?></p>
+        <button type="button" class="btn btn-primary btn-lg" id="mistakeNoticeDismiss"><?= htmlspecialchars($noticeText['btn']) ?></button>
+    </div>
+</div>
+<script>
+    // Forced: no overlay-click/Escape close. Only the button dismisses (and deletes the pending file).
+    document.getElementById('mistakeNoticeDismiss').addEventListener('click', function () {
+        var btn = this;
+        btn.disabled = true;
+        fetch('api/mistake-notice-ack.php', { method: 'POST', credentials: 'same-origin' })
+            .catch(function () {})
+            .then(function () { document.getElementById('mistakeNoticeModal').remove(); });
+    });
+</script>
+<?php
+    }
+}
+?>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js" defer></script>
 <?php if (!$embed): ?>
 <script src="assets/js/app.js?v=<?= htmlspecialchars($version) ?>" defer></script>

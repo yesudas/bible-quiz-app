@@ -2412,3 +2412,10 @@ body.embed-page {
 .book-card .book-info { justify-content: center; }
 .book-card .book-title { font-size: 1.25rem; margin-bottom: 0.4rem; }
 .book-card .book-meta { margin-bottom: 1rem; }
+
+/* Mistake-fixed thank-you modal */
+.notice-box { text-align: center; padding: 32px 24px; }
+.notice-emoji { font-size: 3rem; }
+.notice-title { font-size: 2.4rem; margin: 6px 0 12px; }
+.notice-message { font-size: 1.5rem; font-weight: 700; line-height: 1.4; }
+.notice-bless { font-size: 1.3rem; color: var(--primary, #6c3fc5); margin: 14px 0 22px; }

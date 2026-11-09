@@ -1,7 +1,10 @@
 admin-credentials.php
 share-secret.php
 leaderboard-secret.php
-counters/*.txt
+# Site counters are live server data (edited on the server, never deployed via git);
+# only the .htaccess guard is tracked.
+counters/*
+!counters/.htaccess
 bot.log
 pdf-temp/*.pdf
 # Pre-generated static PDFs (tools/generate-quiz-pdfs.py output) — large,
@@ -11,11 +14,13 @@ pdf-temp/*.pdf
 
 .DS_Store
 **/.DS_Store
-logs/mistake-reports.log
-logs/leaderboard-data.json
-logs/leaderboard-name-changes.json
 leaderboard/top10.json
 leaderboard/all.json
 
 sync.ffs_lock
 .sync.ffs_db*
+
+# Everything under logs/ is private runtime data (reports, leaderboard master file, per-user
+# thank-you notices keyed by hashed email); only the .htaccess guard is tracked.
+logs/*
+!logs/.htaccess
