@@ -1,6 +1,11 @@
 admin-credentials.php
 share-secret.php
 leaderboard-secret.php
+
+# Site-specific analytics tag (copy google-analytics.example.php to google-analytics.php)
+/google-analytics.php
+
+
 # Site counters are live server data (edited on the server, never deployed via git);
 # only the .htaccess guard is tracked.
 counters/*
